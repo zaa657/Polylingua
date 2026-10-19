@@ -17,6 +17,53 @@ export const LANGUAGE_LEVEL_ORDER: Record<Language, string[]> = {
     'B2 (Upper-Intermediate)',
     'C1 (Advanced)',
   ],
+  thai: [
+    'Tingkat 1 (Dasar & Nada)',
+    'Tingkat 2 (Percakapan Sehari-hari)',
+    'Tingkat 3 (Menengah)',
+    'Tingkat 4 (Akademik & Bisnis)',
+  ],
+  russian: [
+    'A1 (Pemula Sirilik)',
+    'A2 (Dasar Kasus)',
+    'B1 (Menengah TORFL-1)',
+    'B2 (Menengah Atas TORFL-2)',
+    'C1 (Akademik & Tesis)',
+  ],
+  arabic: [
+    'Mustawa 1 (Dasar & Hijaiyah)',
+    'Mustawa 2 (Kaidah Kalimat Sederhana)',
+    'Mustawa 3 (Menengah Nahwu-Sharaf)',
+    'Mustawa 4 (Mahir Fusha & Akademik)',
+  ],
+  french: [
+    'A1 (Découverte)',
+    'A2 (Survie)',
+    'B1 (Seuil DELF B1)',
+    'B2 (Indépendant DELF B2)',
+    'C1 (Autonome DALF C1)',
+  ],
+  dutch: [
+    'A1 (Basis)',
+    'A2 (Inburgering NT2-I)',
+    'B1 (NT2-II MBO/HBO)',
+    'B2 (Professioneel Universiteit)',
+    'C1 (Academisch)',
+  ],
+  german: [
+    'A1 (Start Deutsch 1)',
+    'A2 (Start Deutsch 2)',
+    'B1 (Goethe-Zertifikat B1)',
+    'B2 (Beruf & Studium B2)',
+    'C1 (TestDaF & DSH Akademik)',
+  ],
+  spanish: [
+    'A1 (Acceso)',
+    'A2 (Plataforma)',
+    'B1 (Umbral DELE B1)',
+    'B2 (Avanzado DELE B2)',
+    'C1 (Dominio Operativo Eficaz)',
+  ],
 };
 
 export interface LessonLockStatus {

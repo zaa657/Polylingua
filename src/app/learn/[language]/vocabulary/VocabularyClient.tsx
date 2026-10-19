@@ -8,6 +8,7 @@ import { LearningLayoutClient } from '@/components/layout/LearningLayoutClient';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
 import { progressService } from '@/lib/progressService';
+import { getVoiceLangCode } from '@/lib/speechService';
 import {
   Search,
   Volume2,
@@ -118,18 +119,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   };
 
   const getAudioLangCode = (): string => {
-    switch (language) {
-      case 'chinese':
-        return 'zh-CN';
-      case 'japanese':
-        return 'ja-JP';
-      case 'korean':
-        return 'ko-KR';
-      case 'english':
-        return 'en-US';
-      default:
-        return 'zh-CN';
-    }
+    return getVoiceLangCode(language);
   };
 
   const handleToggleFavorite = async (wordId: string) => {

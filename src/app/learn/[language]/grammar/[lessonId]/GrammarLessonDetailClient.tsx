@@ -11,6 +11,7 @@ import { progressService } from '@/lib/progressService';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
 import { checkLessonLock } from '@/lib/curriculumProgression';
+import { getVoiceLangCode } from '@/lib/speechService';
 
 interface GrammarLessonDetailClientProps {
   language: Language;
@@ -32,12 +33,7 @@ export function GrammarLessonDetailClient({
   const isLocked = !lockStatus.isUnlocked && !bypassLock;
   const isCompleted = progress.completedLessons.includes(lesson.id);
 
-  const voiceLangCode = {
-    chinese: 'zh-CN',
-    japanese: 'ja-JP',
-    korean: 'ko-KR',
-    english: 'en-US',
-  }[langKey];
+  const voiceLangCode = getVoiceLangCode(langKey);
 
   const handleQuizComplete = async () => {
     await progressService.markLessonComplete(lesson.id, user?.uid);

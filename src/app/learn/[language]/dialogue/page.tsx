@@ -1,15 +1,10 @@
 import { notFound } from 'next/navigation';
 import { Language } from '@/types/learning';
-import { LANGUAGES } from '@/data/languages';
+import { LANGUAGES, LANGUAGE_LIST } from '@/data/languages';
 import { DialogueListClient } from './DialogueListClient';
 
 export function generateStaticParams() {
-  return [
-    { language: 'chinese' },
-    { language: 'japanese' },
-    { language: 'korean' },
-    { language: 'english' },
-  ];
+  return LANGUAGE_LIST.map((l) => ({ language: l.id }));
 }
 
 interface PageProps {

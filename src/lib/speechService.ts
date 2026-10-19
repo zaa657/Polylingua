@@ -1,7 +1,29 @@
+import { Language } from '@/types/learning';
+
 /**
  * Web Speech API wrapper for multi-language pronunciation
- * Supports: zh-CN (Mandarin), ja-JP (Japanese), ko-KR (Korean), en-US (English)
+ * Supports: zh-CN (Mandarin), ja-JP (Japanese), ko-KR (Korean), en-US (English),
+ * th-TH (Thai), ru-RU (Russian), ar-SA (Arabic), fr-FR (French),
+ * nl-NL (Dutch), de-DE (German), es-ES (Spanish)
  */
+
+export const VOICE_LANG_CODES: Record<Language, string> = {
+  chinese: 'zh-CN',
+  japanese: 'ja-JP',
+  korean: 'ko-KR',
+  english: 'en-US',
+  thai: 'th-TH',
+  russian: 'ru-RU',
+  arabic: 'ar-SA',
+  french: 'fr-FR',
+  dutch: 'nl-NL',
+  german: 'de-DE',
+  spanish: 'es-ES',
+};
+
+export function getVoiceLangCode(lang: Language): string {
+  return VOICE_LANG_CODES[lang] || 'en-US';
+}
 
 export interface SpeechOptions {
   lang: string;

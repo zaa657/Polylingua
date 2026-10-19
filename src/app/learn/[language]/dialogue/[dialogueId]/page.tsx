@@ -6,8 +6,8 @@ import { DialogueDetailClient } from './DialogueDetailClient';
 
 export function generateStaticParams() {
   const params: Array<{ language: string; dialogueId: string }> = [];
-  for (const lang of ['chinese', 'japanese', 'korean', 'english']) {
-    for (const d of ALL_DIALOGUES[lang as Language] || []) {
+  for (const lang of Object.keys(ALL_DIALOGUES) as Language[]) {
+    for (const d of ALL_DIALOGUES[lang] || []) {
       params.push({ language: lang, dialogueId: d.id });
     }
   }

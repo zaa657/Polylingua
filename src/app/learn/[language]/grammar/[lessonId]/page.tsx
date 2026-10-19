@@ -6,8 +6,8 @@ import { GrammarLessonDetailClient } from './GrammarLessonDetailClient';
 
 export function generateStaticParams() {
   const params: Array<{ language: string; lessonId: string }> = [];
-  for (const lang of ['chinese', 'japanese', 'korean', 'english']) {
-    for (const lesson of ALL_GRAMMAR_LESSONS[lang as Language] || []) {
+  for (const lang of Object.keys(ALL_GRAMMAR_LESSONS) as Language[]) {
+    for (const lesson of ALL_GRAMMAR_LESSONS[lang] || []) {
       params.push({ language: lang, lessonId: lesson.id });
     }
   }

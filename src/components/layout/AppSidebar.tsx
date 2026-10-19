@@ -96,11 +96,11 @@ export const AppSidebar: React.FC<AppSidebarProps> = ({
       </div>
 
       {/* Language Switcher Section */}
-      <div className="p-4 border-b border-slate-100 bg-slate-50/50">
+      <div className="p-3.5 border-b border-slate-100 bg-slate-50/50">
         <label className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block mb-2 px-1">
           {locale === 'id' ? 'Pilih Bahasa Aktif' : 'Active Language'}
         </label>
-        <div className="grid grid-cols-2 gap-1.5">
+        <div className="grid grid-cols-2 gap-1.5 max-h-48 overflow-y-auto pr-1">
           {LANGUAGE_LIST.map((lang) => {
             const isSelected = lang.id === currentLanguage;
             return (

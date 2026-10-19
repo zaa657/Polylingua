@@ -1,6 +1,6 @@
 # Polylingua - Multi-Language Learning & Study Abroad Platform
 
-Platform web modern untuk pembelajaran mandiri 4 bahasa: **Mandarin (Chinese)**, **Jepang (Japanese)**, **Korea (Korean)**, dan **Inggris (English)** berbasis **Next.js 16 (App Router)**, **Tailwind CSS**, dan **Firebase Auth/Firestore**.
+Platform web modern untuk pembelajaran mandiri 11 bahasa: **Mandarin**, **Jepang**, **Korea**, **Inggris**, **Thailand**, **Rusia**, **Arab**, **Prancis**, **Belanda**, **German**, dan **Spanish** berbasis **Next.js 16 (App Router)**, **Tailwind CSS**, dan **Firebase Auth/Firestore**.
 
 Aplikasi ini mendukung **Google Sign-In** untuk sinkronisasi progres ke Cloud, serta **Mode Tamu Mandiri (Offline-First)** menggunakan LocalStorage peramban secara otomatis tanpa perlu konfigurasi rumit.
 
@@ -8,11 +8,18 @@ Aplikasi ini mendukung **Google Sign-In** untuk sinkronisasi progres ke Cloud, s
 
 ## 🌟 Fitur Utama
 
-1. **4 Bahasa Utama & Kurikulum Berjenjang (Level Gating)**:
+1. **11 Bahasa Utama & Kurikulum Berjenjang (Level Gating)**:
    - 🇨🇳 **Mandarin (中文)**: Kurikulum HSK 1 hingga HSK 6, Hanzi, Pinyin, sistem nada, dan pola disposisi 把.
    - 🇯🇵 **Jepang (日本語)**: Kurikulum JLPT N5 hingga N1, Hiragana, Katakana, Kanji dengan Furigana, dan partikel gramatikal.
    - 🇰🇷 **Korea (한국어)**: Kurikulum TOPIK 1 hingga TOPIK 2 Level 6, Hangul, Batchim, dan kesopanan formal/akademik.
    - 🇬🇧 **Inggris (English)**: Standar CEFR A2, B1, B2, hingga C1 Advanced Academic Inversion.
+   - 🇹🇭 **Thailand (ภาษาไทย)**: Aksara Thai, 5 nada tonal, pola kalimat SVO, dan partikel kesopanan (ครับ/ค่ะ).
+   - 🇷🇺 **Rusia (Русский)**: Alfabet Sirilik, 6 kasus gramatikal (Padezh), dan aspek verba (sovershenny/nesovershenny).
+   - 🇸🇦 **Arab (العربية)**: Kaidah Nahwu & Sharaf Fusha, Jumlah Ismiyyah & Fi'liyyah, dan sistem akar kata trilateral.
+   - 🇫🇷 **Prancis (Français)**: Gender kata benda (masculin/féminin), konjugasi verba kelompok 1-3, dan standar DELF/DALF.
+   - 🇳🇱 **Belanda (Nederlands)**: Artikel De & Het, urutan kata V2 (verb-second), inversi kalimat, dan persiapan NT2.
+   - 🇩🇪 **German (Deutsch)**: Sistem 4 kasus (Nominativ, Akkusativ, Dativ, Genitiv), artikel der/die/das, dan TestDaF.
+   - 🇪🇸 **Spanish (Español)**: Pembedaan verba Ser vs Estar, konjugasi verba beraturan & tak beraturan, dan standar DELE.
 
 2. **Kamus Kosakata Interaktif & Mode Uji Hafalan (Active Recall)**:
    - Ratusan entri kosakata per bahasa dengan audio pengucapan asli (*Web Speech API*).

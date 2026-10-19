@@ -1,4 +1,15 @@
-export type Language = 'chinese' | 'japanese' | 'korean' | 'english';
+export type Language =
+  | 'chinese'
+  | 'japanese'
+  | 'korean'
+  | 'english'
+  | 'thai'
+  | 'russian'
+  | 'arabic'
+  | 'french'
+  | 'dutch'
+  | 'german'
+  | 'spanish';
 
 export interface LanguageMeta {
   id: Language;
