@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { AppSidebar } from './AppSidebar';
 import { HeaderBar } from './HeaderBar';
+import { AppBottomNav } from './AppBottomNav';
 import { Language } from '@/types/learning';
 
 interface LearningLayoutClientProps {
@@ -31,9 +32,11 @@ export const LearningLayoutClient: React.FC<LearningLayoutClientProps> = ({
           currentLanguage={currentLanguage}
           onOpenMobileMenu={() => setIsMobileOpen(true)}
         />
-        <main className="flex-1 p-4 md:p-8 max-w-6xl w-full mx-auto">
+        <main className="flex-1 p-4 md:p-8 max-w-6xl w-full mx-auto pb-24 md:pb-8">
           {children}
         </main>
+        {/* Native Mobile App Style Bottom Navigation Bar */}
+        <AppBottomNav currentLanguage={currentLanguage} />
       </div>
     </div>
   );

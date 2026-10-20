@@ -8,8 +8,8 @@ export default function manifest(): MetadataRoute.Manifest {
       'Platform edukasi interaktif untuk menguasai tata bahasa, kosakata, dialog, dan persiapan kuliah luar negeri di 11 bahasa dunia.',
     start_url: '/',
     display: 'standalone',
-    background_color: '#f8fafc',
-    theme_color: '#2563eb',
+    background_color: '#0f172a',
+    theme_color: '#0f172a',
     orientation: 'portrait-primary',
     icons: [
       {
