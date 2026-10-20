@@ -8,7 +8,7 @@ import { LearningLayoutClient } from '@/components/layout/LearningLayoutClient';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
 import { progressService } from '@/lib/progressService';
-import { getVoiceLangCode } from '@/lib/speechService';
+import { getVoiceLangCode, speechService } from '@/lib/speechService';
 import { fetchVocabulariesForLanguage } from '@/lib/vocabularyService';
 import {
   Search,
@@ -125,21 +125,24 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
     return filteredVocab.slice(0, displayLimit);
   }, [filteredVocab, displayLimit]);
 
-  // Audio speech synthesis helper
+  // Audio speech synthesis helper with zero-delay hybrid engine
   const playAudio = (text: string, voiceLang: string, id: string) => {
-    if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
-    window.speechSynthesis.cancel();
+    if (!text || typeof window === 'undefined') return;
 
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = voiceLang;
-    utterance.rate = progress.speechSpeed || 1.0;
-    utterance.pitch = 1.0;
+    if (speakingWordId === id) {
+      speechService.stop();
+      setSpeakingWordId(null);
+      return;
+    }
 
     setSpeakingWordId(id);
-    utterance.onend = () => setSpeakingWordId(null);
-    utterance.onerror = () => setSpeakingWordId(null);
-
-    window.speechSynthesis.speak(utterance);
+    speechService.speak(text, {
+      lang: voiceLang,
+      rate: progress.speechSpeed || 1.0,
+      onStart: () => setSpeakingWordId(id),
+      onEnd: () => setSpeakingWordId(null),
+      onError: () => setSpeakingWordId(null),
+    });
   };
 
   const getAudioLangCode = (): string => {
