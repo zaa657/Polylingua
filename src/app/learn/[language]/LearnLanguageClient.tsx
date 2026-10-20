@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { Language } from '@/types/learning';
 import { LANGUAGES } from '@/data/languages';
 import { getGrammarLessons, getDialogues, getVocabulary } from '@/data';
-import { fetchVocabulariesForLanguage } from '@/lib/vocabularyService';
+import { fetchVocabularyCountForLanguage } from '@/lib/vocabularyService';
 import { LearningLayoutClient } from '@/components/layout/LearningLayoutClient';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
@@ -43,9 +43,9 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
 
   useEffect(() => {
     let isMounted = true;
-    fetchVocabulariesForLanguage(langKey).then((items) => {
-      if (isMounted && items && items.length > 0) {
-        setVocabCount(items.length);
+    fetchVocabularyCountForLanguage(langKey).then((count) => {
+      if (isMounted && typeof count === 'number' && count > 0) {
+        setVocabCount(count);
       }
     });
     return () => {

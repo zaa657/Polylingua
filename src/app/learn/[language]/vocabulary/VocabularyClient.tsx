@@ -71,6 +71,11 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   const [revealedIds, setRevealedIds] = useState<Record<string, boolean>>({});
   const [copiedId, setCopiedId] = useState<string | null>(null);
   const [speakingWordId, setSpeakingWordId] = useState<string | null>(null);
+  const [displayLimit, setDisplayLimit] = useState<number>(60);
+
+  useEffect(() => {
+    setDisplayLimit(60);
+  }, [searchQuery, selectedLevel, selectedCategory, onlyFavorites]);
 
   const savedWordIds = useMemo(() => progress.savedWords || [], [progress.savedWords]);
 
@@ -115,6 +120,10 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
       return true;
     });
   }, [vocabList, onlyFavorites, savedWordIds, selectedLevel, selectedCategory, searchQuery]);
+
+  const displayedVocab = useMemo(() => {
+    return filteredVocab.slice(0, displayLimit);
+  }, [filteredVocab, displayLimit]);
 
   // Audio speech synthesis helper
   const playAudio = (text: string, voiceLang: string, id: string) => {
@@ -389,8 +398,9 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
             </button>
           </div>
         ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-            {filteredVocab.map((item) => {
+          <>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+              {displayedVocab.map((item) => {
               const isSaved = savedWordIds.includes(item.id);
               const isRevealed = revealedIds[item.id] || !isFlashcardMode;
               const posColor = POS_COLORS[item.partOfSpeech] || 'bg-slate-100 text-slate-700 border-slate-200';
@@ -576,6 +586,30 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
               );
             })}
           </div>
+
+          {filteredVocab.length > displayLimit && (
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-6 pb-2">
+              <button
+                type="button"
+                onClick={() => setDisplayLimit((prev) => prev + 60)}
+                className="px-6 py-3 rounded-2xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs transition-all shadow-sm cursor-pointer"
+              >
+                {locale === 'en'
+                  ? `Load More (+60 Words) — Showing ${displayedVocab.length} of ${filteredVocab.length}`
+                  : `Muat Lebih Banyak (+60 Kosakata) — Menampilkan ${displayedVocab.length} dari ${filteredVocab.length}`}
+              </button>
+              <button
+                type="button"
+                onClick={() => setDisplayLimit(filteredVocab.length)}
+                className="px-5 py-3 rounded-2xl bg-white border border-slate-200 hover:bg-slate-50 text-slate-700 font-bold text-xs transition-all shadow-xs cursor-pointer"
+              >
+                {locale === 'en'
+                  ? `Show All ${filteredVocab.length} Words`
+                  : `Tampilkan Semua ${filteredVocab.length} Kata`}
+              </button>
+            </div>
+          )}
+        </>
         )}
       </div>
     </LearningLayoutClient>
