@@ -3,9 +3,9 @@ import { Language } from '@/types/learning';
 /**
  * High-Performance Hybrid Multi-Language Speech Engine
  * Features:
- * - Pre-warmed voice caching for zero-delay instant playback.
- * - Native Web Speech API when high-quality local voices are present.
- * - Automatic high-fidelity cloud audio fallback for missing language packs (e.g. Thai, Arabic, Russian, Dutch).
+ * - Dedicated Serverless TTS Proxy (/api/tts) to bypass browser CORS / Referer restrictions.
+ * - Cloud-first instant pronunciation for languages without pre-installed OS voices (Thai, Arabic, Russian).
+ * - Pre-warmed system voice caching for zero-delay instant playback on languages with native OS support.
  * - Stall watchdog timer (450ms) to bypass Android WebView / Chrome speech synthesis hangs.
  * - In-memory HTML5 Audio caching for instant repeat pronunciations.
  */
@@ -59,6 +59,20 @@ export const TTS_FALLBACK_CODES: Record<string, string> = {
   es: 'es',
   spanish: 'es',
 };
+
+// Languages that should always use the reliable high-fidelity cloud TTS proxy
+// because typical consumer devices (Windows/Mac/Android) rarely have offline voice packs installed.
+const CLOUD_FIRST_LANGS = new Set([
+  'thai',
+  'th',
+  'th-th',
+  'arabic',
+  'ar',
+  'ar-sa',
+  'russian',
+  'ru',
+  'ru-ru',
+]);
 
 export function getVoiceLangCode(lang: Language): string {
   return VOICE_LANG_CODES[lang] || 'en-US';
@@ -145,6 +159,14 @@ class SpeechService {
     const cleanText = text.trim();
     const lang = options.lang || 'en-US';
     const rate = options.rate ?? 1.0;
+    const lowerLang = lang.toLowerCase();
+
+    // If language is marked cloud-first (Thai, Arabic, Russian), immediately route to high-fidelity proxy
+    // to guarantee 100% sound coverage and eliminate OS voice pack absence issues.
+    if (CLOUD_FIRST_LANGS.has(lowerLang) || CLOUD_FIRST_LANGS.has(lowerLang.slice(0, 2))) {
+      this.playAudioFallback(cleanText, lang, rate, options);
+      return;
+    }
 
     // Check if system has a locally installed matching voice
     const matchedVoice = this.findMatchingVoice(lang);
@@ -217,7 +239,8 @@ class SpeechService {
     try {
       const ttsLang = TTS_FALLBACK_CODES[lang] || TTS_FALLBACK_CODES[lang.slice(0, 2)] || 'en';
       const encoded = encodeURIComponent(text);
-      const url = `https://translate.google.com/translate_tts?ie=UTF-8&tl=${ttsLang}&client=tw-ob&q=${encoded}`;
+      // Same-origin Next.js API route: bypasses CORS & Google Referer blocks
+      const url = `/api/tts?text=${encoded}&lang=${encodeURIComponent(ttsLang)}`;
 
       let audio = this.audioCache.get(url);
       if (!audio) {
