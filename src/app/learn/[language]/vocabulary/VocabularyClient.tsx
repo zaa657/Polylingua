@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import { Language, VocabularyItem, VocabularyPartOfSpeech } from '@/types/learning';
 import { LANGUAGES } from '@/data/languages';
@@ -9,6 +9,7 @@ import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
 import { progressService } from '@/lib/progressService';
 import { getVoiceLangCode } from '@/lib/speechService';
+import { fetchVocabulariesForLanguage } from '@/lib/vocabularyService';
 import {
   Search,
   Volume2,
@@ -48,6 +49,20 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   const { user, progress, reloadProgress } = useAuth();
   const { locale, t } = useLocale();
 
+  const [vocabList, setVocabList] = useState<VocabularyItem[]>(initialVocab);
+
+  useEffect(() => {
+    let isMounted = true;
+    fetchVocabulariesForLanguage(language).then((remoteVocab) => {
+      if (isMounted && remoteVocab && remoteVocab.length > 0) {
+        setVocabList(remoteVocab);
+      }
+    });
+    return () => {
+      isMounted = false;
+    };
+  }, [language]);
+
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedLevel, setSelectedLevel] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
@@ -62,19 +77,19 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   // Extract distinct levels & categories
   const allLevels = useMemo(() => {
     const set = new Set<string>();
-    initialVocab.forEach((v) => set.add(v.level));
+    vocabList.forEach((v) => set.add(v.level));
     return Array.from(set);
-  }, [initialVocab]);
+  }, [vocabList]);
 
   const allCategories = useMemo(() => {
     const set = new Set<string>();
-    initialVocab.forEach((v) => set.add(v.category));
+    vocabList.forEach((v) => set.add(v.category));
     return Array.from(set);
-  }, [initialVocab]);
+  }, [vocabList]);
 
   // Filtered vocabulary list
   const filteredVocab = useMemo(() => {
-    return initialVocab.filter((item) => {
+    return vocabList.filter((item) => {
       // Favorites filter
       if (onlyFavorites && !savedWordIds.includes(item.id)) {
         return false;
@@ -99,7 +114,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
       }
       return true;
     });
-  }, [initialVocab, onlyFavorites, savedWordIds, selectedLevel, selectedCategory, searchQuery]);
+  }, [vocabList, onlyFavorites, savedWordIds, selectedLevel, selectedCategory, searchQuery]);
 
   // Audio speech synthesis helper
   const playAudio = (text: string, voiceLang: string, id: string) => {
@@ -343,7 +358,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
         {/* Results Counter Banner */}
         <div className="flex items-center justify-between px-1 text-xs text-slate-500 font-medium">
           <span>
-            {t('showing_vocab_results', { filtered: filteredVocab.length, total: initialVocab.length })}
+            {t('showing_vocab_results', { filtered: filteredVocab.length, total: vocabList.length })}
           </span>
           {isFlashcardMode && (
             <span className="text-amber-600 font-semibold flex items-center gap-1">
