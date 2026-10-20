@@ -1,13 +1,13 @@
 import { Language } from '@/types/learning';
 
 /**
- * High-Performance Hybrid Multi-Language Speech Engine
- * Features:
- * - Dedicated Serverless TTS Proxy (/api/tts) to bypass browser CORS / Referer restrictions.
- * - Cloud-first instant pronunciation for languages without pre-installed OS voices (Thai, Arabic, Russian).
- * - Pre-warmed system voice caching for zero-delay instant playback on languages with native OS support.
- * - Stall watchdog timer (450ms) to bypass Android WebView / Chrome speech synthesis hangs.
- * - In-memory HTML5 Audio caching for instant repeat pronunciations.
+ * High-Performance Unified Multi-Language Speech Engine
+ * 
+ * Solves:
+ * 1. Double-audio bug: Synchronously halts any active audio stream before playing a new one.
+ *    No simultaneous overlapping speech across rapid clicks.
+ * 2. High-fidelity native pronunciation for all 11 languages via Edge-cached /api/tts.
+ * 3. Offline Web Speech API fallback if network audio is unavailable.
  */
 
 export const VOICE_LANG_CODES: Record<Language, string> = {
@@ -60,20 +60,6 @@ export const TTS_FALLBACK_CODES: Record<string, string> = {
   spanish: 'es',
 };
 
-// Languages that should always use the reliable high-fidelity cloud TTS proxy
-// because typical consumer devices (Windows/Mac/Android) rarely have offline voice packs installed.
-const CLOUD_FIRST_LANGS = new Set([
-  'thai',
-  'th',
-  'th-th',
-  'arabic',
-  'ar',
-  'ar-sa',
-  'russian',
-  'ru',
-  'ru-ru',
-]);
-
 export function getVoiceLangCode(lang: Language): string {
   return VOICE_LANG_CODES[lang] || 'en-US';
 }
@@ -88,11 +74,10 @@ export interface SpeechOptions {
 }
 
 class SpeechService {
-  private currentUtterance: SpeechSynthesisUtterance | null = null;
   private currentAudio: HTMLAudioElement | null = null;
-  private audioCache = new Map<string, HTMLAudioElement>();
+  private currentUtterance: SpeechSynthesisUtterance | null = null;
   private cachedVoices: SpeechSynthesisVoice[] = [];
-  private voicesLoaded = false;
+  private activeToken: number = 0;
 
   constructor() {
     if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -111,11 +96,8 @@ class SpeechService {
       const v = window.speechSynthesis.getVoices();
       if (v && v.length > 0) {
         this.cachedVoices = v;
-        this.voicesLoaded = true;
       }
-    } catch (e) {
-      console.warn('Speech voices initialization notice:', e);
-    }
+    } catch {}
   }
 
   public isSupported(): boolean {
@@ -136,113 +118,89 @@ class SpeechService {
     const lower = langCode.toLowerCase();
     const prefix = lower.slice(0, 2);
 
-    // 1. Try exact match (e.g. 'zh-CN')
     const exact = voices.find((v) => v.lang.toLowerCase() === lower);
     if (exact) return exact;
 
-    // 2. Try prefix match (e.g. 'th-TH' matches 'th' or 'th_TH')
     const prefixMatch = voices.find((v) => v.lang.toLowerCase().startsWith(prefix));
     if (prefixMatch) return prefixMatch;
 
     return null;
   }
 
+  /**
+   * Immediately stops any playing audio and cancels active Web Speech.
+   * Guarantees zero overlapping audio when rapidly clicking words.
+   */
+  public stop(): void {
+    if (typeof window === 'undefined') return;
+
+    // Invalidate any active play token
+    this.activeToken++;
+
+    // 1. Immediately kill active HTML5 audio
+    if (this.currentAudio) {
+      try {
+        this.currentAudio.pause();
+        this.currentAudio.currentTime = 0;
+        this.currentAudio.onplay = null;
+        this.currentAudio.onended = null;
+        this.currentAudio.onerror = null;
+        this.currentAudio.src = '';
+      } catch {}
+      this.currentAudio = null;
+    }
+
+    // 2. Immediately cancel Web Speech API
+    if ('speechSynthesis' in window) {
+      try {
+        window.speechSynthesis.cancel();
+      } catch {}
+      this.currentUtterance = null;
+    }
+  }
+
+  /**
+   * Speak the given text in the requested language.
+   * Automatically stops any currently playing audio so that subsequent clicks
+   * immediately cut off the previous word with zero delay and zero double-talk.
+   */
   public speak(text: string, options: SpeechOptions): void {
     if (!text || typeof window === 'undefined') {
       options.onEnd?.();
       return;
     }
 
-    // Cancel any previous speech or audio
+    // Synchronously stop any active speech/audio first
     this.stop();
 
     const cleanText = text.trim();
     const lang = options.lang || 'en-US';
     const rate = options.rate ?? 1.0;
-    const lowerLang = lang.toLowerCase();
+    const currentToken = this.activeToken;
 
-    // If language is marked cloud-first (Thai, Arabic, Russian), immediately route to high-fidelity proxy
-    // to guarantee 100% sound coverage and eliminate OS voice pack absence issues.
-    if (CLOUD_FIRST_LANGS.has(lowerLang) || CLOUD_FIRST_LANGS.has(lowerLang.slice(0, 2))) {
-      this.playAudioFallback(cleanText, lang, rate, options);
-      return;
-    }
-
-    // Check if system has a locally installed matching voice
-    const matchedVoice = this.findMatchingVoice(lang);
-
-    // If a native system voice is ready:
-    if ('speechSynthesis' in window && matchedVoice) {
-      let started = false;
-      const utterance = new SpeechSynthesisUtterance(cleanText);
-      utterance.lang = lang;
-      utterance.voice = matchedVoice;
-      utterance.rate = rate;
-      utterance.pitch = options.pitch ?? 1.0;
-
-      // Stall watchdog timer: If Web Speech doesn't emit onstart within 450ms,
-      // fall back instantly to high-fidelity audio stream.
-      const stallTimer = setTimeout(() => {
-        if (!started) {
-          console.warn('SpeechSynthesis stall detected, falling back to audio stream');
-          try {
-            window.speechSynthesis.cancel();
-          } catch {}
-          this.playAudioFallback(cleanText, lang, rate, options);
-        }
-      }, 450);
-
-      utterance.onstart = () => {
-        started = true;
-        clearTimeout(stallTimer);
-        this.currentUtterance = utterance;
-        options.onStart?.();
-      };
-
-      utterance.onend = () => {
-        clearTimeout(stallTimer);
-        this.currentUtterance = null;
-        options.onEnd?.();
-      };
-
-      utterance.onerror = (e) => {
-        clearTimeout(stallTimer);
-        this.currentUtterance = null;
-        console.warn('SpeechSynthesis error, falling back to audio stream:', e);
-        this.playAudioFallback(cleanText, lang, rate, options);
-      };
-
-      this.currentUtterance = utterance;
-      try {
-        window.speechSynthesis.speak(utterance);
-        // Fix Android WebView queue pause
-        if (window.speechSynthesis.paused) {
-          window.speechSynthesis.resume();
-        }
-      } catch (err) {
-        clearTimeout(stallTimer);
-        this.playAudioFallback(cleanText, lang, rate, options);
-      }
-      return;
-    }
-
-    // No native voice installed on device -> Use instant high-fidelity audio stream
-    this.playAudioFallback(cleanText, lang, rate, options);
+    // Use unified studio-quality TTS endpoint for consistent, natural pronunciation
+    // across all 11 languages (Korean, Dutch, German, Spanish, French, Thai, Arabic, Russian, etc.)
+    this.playAudioDirect(cleanText, lang, rate, currentToken, options);
   }
 
-  private playAudioFallback(
+  private playAudioDirect(
     text: string,
     lang: string,
     rate: number,
+    token: number,
     options: SpeechOptions
   ): void {
     try {
-      const ttsLang = TTS_FALLBACK_CODES[lang] || TTS_FALLBACK_CODES[lang.slice(0, 2)] || 'en';
+      const lowerLang = lang.toLowerCase();
+      const ttsLang =
+        TTS_FALLBACK_CODES[lang] ||
+        TTS_FALLBACK_CODES[lowerLang] ||
+        TTS_FALLBACK_CODES[lowerLang.slice(0, 2)] ||
+        'en';
+
       const encoded = encodeURIComponent(text);
-      // Same-origin Next.js API route: bypasses CORS & Google Referer blocks
       const url = `/api/tts?text=${encoded}&lang=${encodeURIComponent(ttsLang)}`;
 
-      // Create a fresh audio element to ensure rock-solid mobile / PWA autoplay compliance
       const audio = new Audio(url);
       audio.preload = 'auto';
       audio.playbackRate = Math.max(0.5, Math.min(rate, 2.0));
@@ -250,6 +208,13 @@ class SpeechService {
       this.currentAudio = audio;
 
       audio.onplay = () => {
+        if (this.activeToken !== token) {
+          try {
+            audio.pause();
+            audio.src = '';
+          } catch {}
+          return;
+        }
         options.onStart?.();
       };
 
@@ -257,52 +222,104 @@ class SpeechService {
         if (this.currentAudio === audio) {
           this.currentAudio = null;
         }
-        options.onEnd?.();
+        if (this.activeToken === token) {
+          options.onEnd?.();
+        }
       };
 
-      audio.onerror = (e) => {
+      audio.onerror = () => {
         if (this.currentAudio === audio) {
           this.currentAudio = null;
         }
-        console.warn('Audio fallback playback error:', e);
-        options.onError?.(e);
-        options.onEnd?.();
+        if (this.activeToken === token) {
+          // If offline or proxy fails, seamlessly fall back to local Web Speech API
+          this.playWebSpeechFallback(text, lang, rate, token, options);
+        }
       };
 
       const playPromise = audio.play();
       if (playPromise !== undefined) {
-        playPromise.catch((err) => {
+        playPromise.catch(() => {
           if (this.currentAudio === audio) {
             this.currentAudio = null;
           }
-          console.warn('Audio playback notice:', err);
-          options.onError?.(err);
-          options.onEnd?.();
+          if (this.activeToken === token) {
+            this.playWebSpeechFallback(text, lang, rate, token, options);
+          }
         });
       }
-    } catch (err) {
-      console.warn('Failed to initialize audio fallback:', err);
-      options.onError?.(err);
-      options.onEnd?.();
+    } catch {
+      this.playWebSpeechFallback(text, lang, rate, token, options);
     }
   }
 
-  public stop(): void {
-    if (typeof window === 'undefined') return;
-
-    if (this.currentAudio) {
-      try {
-        this.currentAudio.pause();
-        this.currentAudio.currentTime = 0;
-      } catch {}
-      this.currentAudio = null;
+  /**
+   * Offline fallback to browser speech synthesis when internet is unavailable.
+   */
+  private playWebSpeechFallback(
+    text: string,
+    lang: string,
+    rate: number,
+    token: number,
+    options: SpeechOptions
+  ): void {
+    if (typeof window === 'undefined' || !('speechSynthesis' in window)) {
+      if (this.activeToken === token) {
+        options.onEnd?.();
+      }
+      return;
     }
 
-    if ('speechSynthesis' in window) {
-      try {
-        window.speechSynthesis.cancel();
-      } catch {}
-      this.currentUtterance = null;
+    try {
+      window.speechSynthesis.cancel();
+
+      if (this.activeToken !== token) return;
+
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = lang;
+      utterance.rate = rate;
+      utterance.pitch = 1.0;
+
+      const matchedVoice = this.findMatchingVoice(lang);
+      if (matchedVoice) {
+        utterance.voice = matchedVoice;
+      }
+
+      utterance.onstart = () => {
+        if (this.activeToken !== token) {
+          try {
+            window.speechSynthesis.cancel();
+          } catch {}
+          return;
+        }
+        this.currentUtterance = utterance;
+        options.onStart?.();
+      };
+
+      utterance.onend = () => {
+        if (this.currentUtterance === utterance) {
+          this.currentUtterance = null;
+        }
+        if (this.activeToken === token) {
+          options.onEnd?.();
+        }
+      };
+
+      utterance.onerror = () => {
+        if (this.currentUtterance === utterance) {
+          this.currentUtterance = null;
+        }
+        if (this.activeToken === token) {
+          options.onEnd?.();
+        }
+      };
+
+      this.currentUtterance = utterance;
+      window.speechSynthesis.speak(utterance);
+    } catch {
+      if (this.activeToken === token) {
+        options.onEnd?.();
+      }
     }
   }
 
