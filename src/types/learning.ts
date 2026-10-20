@@ -189,8 +189,21 @@ export interface StudyChecklistItem {
   test: StudyTargetTest;
 }
 
+export type StudyAbroadDestination =
+  | 'china'
+  | 'japan'
+  | 'korea'
+  | 'english'
+  | 'thailand'
+  | 'russia'
+  | 'arabic'
+  | 'france'
+  | 'netherlands'
+  | 'germany'
+  | 'spain';
+
 export interface StudyAbroadCountry {
-  countryId: 'china' | 'japan' | 'korea' | 'english';
+  countryId: StudyAbroadDestination;
   name: string;
   flag: string;
   badge: string;

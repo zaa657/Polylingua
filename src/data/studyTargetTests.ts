@@ -1,4 +1,23 @@
-import { StudyTargetTest, QuizQuestion } from '@/types/learning';
+import { StudyTargetTest, QuizQuestion, StudyAbroadDestination } from '@/types/learning';
+import {
+  THAILAND_STUDY_TESTS,
+  RUSSIA_STUDY_TESTS,
+  ARABIC_STUDY_TESTS,
+  FRANCE_STUDY_TESTS,
+  NETHERLANDS_STUDY_TESTS,
+  GERMANY_STUDY_TESTS,
+  SPAIN_STUDY_TESTS,
+} from './studyTargetTestsExtended';
+
+export {
+  THAILAND_STUDY_TESTS,
+  RUSSIA_STUDY_TESTS,
+  ARABIC_STUDY_TESTS,
+  FRANCE_STUDY_TESTS,
+  NETHERLANDS_STUDY_TESTS,
+  GERMANY_STUDY_TESTS,
+  SPAIN_STUDY_TESTS,
+};
 
 export const CHINA_50_QUESTIONS: QuizQuestion[] = [
   {
@@ -9666,9 +9685,16 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
   }
 };
 
-export const FULL_STUDY_TESTS: Record<'china' | 'japan' | 'korea' | 'english', StudyTargetTest> = {
+export const FULL_STUDY_TESTS: Record<StudyAbroadDestination, StudyTargetTest> = {
   china: CHINA_STUDY_TESTS['cn-full'],
   japan: JAPAN_STUDY_TESTS['jp-full'],
   korea: KOREA_STUDY_TESTS['kr-full'],
   english: ENGLISH_STUDY_TESTS['en-full'],
+  thailand: THAILAND_STUDY_TESTS['th-full'],
+  russia: RUSSIA_STUDY_TESTS['ru-full'],
+  arabic: ARABIC_STUDY_TESTS['ar-full'],
+  france: FRANCE_STUDY_TESTS['fr-full'],
+  netherlands: NETHERLANDS_STUDY_TESTS['nl-full'],
+  germany: GERMANY_STUDY_TESTS['de-full'],
+  spain: SPAIN_STUDY_TESTS['es-full'],
 };

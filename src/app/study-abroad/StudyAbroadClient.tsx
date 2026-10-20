@@ -8,7 +8,7 @@ import { AudioSpeaker } from '@/components/ui/AudioSpeaker';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
 import { progressService } from '@/lib/progressService';
-import { StudyChecklistItem } from '@/types/learning';
+import { StudyChecklistItem, StudyAbroadDestination, Language } from '@/types/learning';
 import { StudyTargetTestModal } from '@/components/studyAbroad/StudyTargetTestModal';
 import confetti from 'canvas-confetti';
 import {
@@ -30,7 +30,7 @@ import {
 export function StudyAbroadClient() {
   const { user, progress, reloadProgress } = useAuth();
   const { locale, t } = useLocale();
-  const [selectedCountry, setSelectedCountry] = useState<'china' | 'japan' | 'korea' | 'english'>('china');
+  const [selectedCountry, setSelectedCountry] = useState<StudyAbroadDestination>('china');
   const [activeTestTarget, setActiveTestTarget] = useState<StudyChecklistItem | null>(null);
   const [isTestModalOpen, setIsTestModalOpen] = useState(false);
 
@@ -79,12 +79,19 @@ export function StudyAbroadClient() {
   const totalCount = countryData.studyChecklist.length;
   const checklistPercent = Math.round((completedCount / totalCount) * 100);
 
-  const countryLangMap = {
+  const countryLangMap: Record<StudyAbroadDestination, Language> = {
     china: 'chinese',
     japan: 'japanese',
     korea: 'korean',
     english: 'english',
-  } as const;
+    thailand: 'thai',
+    russia: 'russian',
+    arabic: 'arabic',
+    france: 'french',
+    netherlands: 'dutch',
+    germany: 'german',
+    spain: 'spanish',
+  };
 
   const countryShortName = countryData.name.split('/')[0].trim();
 
