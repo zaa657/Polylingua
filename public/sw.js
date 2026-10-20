@@ -1,5 +1,5 @@
 // Service Worker for Polylingua PWA
-const CACHE_NAME = 'polylingua-cache-v2';
+const CACHE_NAME = 'polylingua-cache-v3';
 
 const STATIC_ASSETS = [
   '/',
@@ -39,8 +39,10 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(event.request.url);
 
-  // Don't cache Firestore or Firebase Auth API calls
+  // Bypass Service Worker for API endpoints (like TTS audio), Supabase, Firebase, Google APIs
   if (
+    url.pathname.startsWith('/api/') ||
+    url.hostname.includes('supabase.co') ||
     url.hostname.includes('googleapis.com') ||
     url.hostname.includes('firebaseio.com') ||
     url.hostname.includes('identitytoolkit')

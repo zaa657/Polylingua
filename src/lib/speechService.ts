@@ -242,31 +242,28 @@ class SpeechService {
       // Same-origin Next.js API route: bypasses CORS & Google Referer blocks
       const url = `/api/tts?text=${encoded}&lang=${encodeURIComponent(ttsLang)}`;
 
-      let audio = this.audioCache.get(url);
-      if (!audio) {
-        audio = new Audio(url);
-        if (this.audioCache.size > 100) {
-          const firstKey = this.audioCache.keys().next().value;
-          if (firstKey) this.audioCache.delete(firstKey);
-        }
-        this.audioCache.set(url, audio);
-      }
+      // Create a fresh audio element to ensure rock-solid mobile / PWA autoplay compliance
+      const audio = new Audio(url);
+      audio.preload = 'auto';
+      audio.playbackRate = Math.max(0.5, Math.min(rate, 2.0));
 
       this.currentAudio = audio;
-      audio.playbackRate = Math.max(0.5, Math.min(rate, 2.0));
-      audio.currentTime = 0;
 
       audio.onplay = () => {
         options.onStart?.();
       };
 
       audio.onended = () => {
-        this.currentAudio = null;
+        if (this.currentAudio === audio) {
+          this.currentAudio = null;
+        }
         options.onEnd?.();
       };
 
       audio.onerror = (e) => {
-        this.currentAudio = null;
+        if (this.currentAudio === audio) {
+          this.currentAudio = null;
+        }
         console.warn('Audio fallback playback error:', e);
         options.onError?.(e);
         options.onEnd?.();
@@ -275,7 +272,9 @@ class SpeechService {
       const playPromise = audio.play();
       if (playPromise !== undefined) {
         playPromise.catch((err) => {
-          this.currentAudio = null;
+          if (this.currentAudio === audio) {
+            this.currentAudio = null;
+          }
           console.warn('Audio playback notice:', err);
           options.onError?.(err);
           options.onEnd?.();
