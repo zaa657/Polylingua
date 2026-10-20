@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Polylingua | Belajar Bahasa Mandarin, Jepang, Korea, dan Inggris',
+  title: 'Polylingua | Platform Belajar 11 Bahasa Dunia & Persiapan Kuliah Luar Negeri',
   description:
-    'Platform edukasi modern untuk menguasai tata bahasa, dialog percakapan situasional, audio native, dan aksara Asia Timur (Hanzi, Kanji, Hangul) serta Bahasa Inggris.',
+    'Platform edukasi modern untuk menguasai tata bahasa, kosakata, dialog situasional, audio native, dan persiapan ujian kuliah luar negeri di 11 bahasa (Mandarin, Jepang, Korea, Inggris, Thailand, Rusia, Arab, Prancis, Belanda, Jerman, dan Spanyol).',
 };
 
 export default function RootLayout({

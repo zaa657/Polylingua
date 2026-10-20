@@ -143,7 +143,7 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
           </div>
 
           {/* Study Abroad / Career Target Banner */}
-          {['chinese', 'japanese', 'korean'].includes(langKey) ? (
+          {langKey !== 'english' ? (
             <div className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 text-white rounded-3xl p-6 flex flex-col justify-between gap-4 shadow-md">
               <div className="space-y-2">
                 <span className="text-xs font-bold uppercase tracking-wider text-amber-400 flex items-center gap-1.5">
@@ -155,12 +155,24 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
                 </h3>
                 <p className="text-xs text-slate-300 leading-relaxed">
                   {t('study_abroad_card_desc', {
-                    standards: langKey === 'chinese' ? 'HSK 4-6' : langKey === 'japanese' ? 'JLPT N2-N1 & EJU' : 'TOPIK 3-6',
+                    standards:
+                      {
+                        chinese: 'HSK 4-6 & HSKK',
+                        japanese: 'JLPT N2-N1 & EJU',
+                        korean: 'TOPIK 3-6',
+                        thai: 'CU-TFL Level 3-4',
+                        russian: 'ТРКИ-1 / ТРКИ-2 (TORFL)',
+                        arabic: 'ALPT & Mustawa 3-4',
+                        french: 'DELF B2 & DALF C1',
+                        dutch: 'NT2-II & CNaVT EDUP',
+                        german: 'TestDaF 4x4 & DSH-2',
+                        spanish: 'DELE B2 & C1',
+                      }[langKey] || 'CEFR B2-C1',
                   })}
                 </p>
               </div>
               <Link
-                href="/study-abroad"
+                href={`/study-abroad?lang=${langKey}`}
                 className="px-5 py-2.5 rounded-xl bg-white text-slate-900 font-bold text-xs hover:bg-slate-100 transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-sm w-fit"
               >
                 <span>{t('open_study_abroad')}</span>
@@ -182,7 +194,7 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
                 </p>
               </div>
               <Link
-                href="/study-abroad"
+                href="/study-abroad?lang=english"
                 className="px-5 py-2.5 rounded-xl bg-white text-slate-900 font-bold text-xs hover:bg-slate-100 transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-sm w-fit"
               >
                 <span>{t('open_global_study')}</span>

@@ -49,7 +49,7 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
   const { locale, t } = useLocale();
   const [selectedAnswers, setSelectedAnswers] = useState<Record<string, number>>({});
   const [essayAnswers, setEssayAnswers] = useState<Record<string, string>>({});
-  const [reorderedAnswers, setReorderedAnswers] = useState<Record<string, string[]>>({});
+  const [reorderedIndices, setReorderedIndices] = useState<Record<string, number[]>>({});
   const [activeTab, setActiveTab] = useState<'all' | 'pg' | 'essai' | 'sambung_kata' | 'artikan' | 'bebas'>('all');
   const [submitted, setSubmitted] = useState(false);
   const [score, setScore] = useState<number | null>(null);
@@ -100,7 +100,7 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
       return (essayAnswers[q.id] || '').trim().length >= 10;
     }
     if (q.type === 'sentence_reorder') {
-      return (reorderedAnswers[q.id] || []).length > 0;
+      return (reorderedIndices[q.id] || []).length > 0;
     }
     return selectedAnswers[q.id] !== undefined;
   };
@@ -110,7 +110,8 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
       return selectedAnswers[q.id] === q.correctAnswerIndex;
     }
     if (q.type === 'sentence_reorder') {
-      const userOrder = reorderedAnswers[q.id] || [];
+      const idxs = reorderedIndices[q.id] || [];
+      const userOrder = idxs.map((i) => q.scrambledWords?.[i] || '');
       if (!q.correctOrder || userOrder.length === 0) return false;
       return JSON.stringify(userOrder) === JSON.stringify(q.correctOrder);
     }
@@ -142,25 +143,30 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
     }));
   };
 
-  const handleWordClick = (questionId: string, word: string) => {
+  const handleAddWordFromPool = (questionId: string, poolIndex: number) => {
     if (submitted) return;
-    const currentReordered = reorderedAnswers[questionId] || [];
-    if (currentReordered.includes(word)) {
-      setReorderedAnswers((prev) => ({
-        ...prev,
-        [questionId]: currentReordered.filter((w) => w !== word),
-      }));
-    } else {
-      setReorderedAnswers((prev) => ({
-        ...prev,
-        [questionId]: [...currentReordered, word],
-      }));
-    }
+    const currentIdxs = reorderedIndices[questionId] || [];
+    if (currentIdxs.includes(poolIndex)) return;
+    setReorderedIndices((prev) => ({
+      ...prev,
+      [questionId]: [...currentIdxs, poolIndex],
+    }));
+  };
+
+  const handleRemoveWordFromReordered = (questionId: string, reorderedPosition: number) => {
+    if (submitted) return;
+    const currentIdxs = reorderedIndices[questionId] || [];
+    const updated = [...currentIdxs];
+    updated.splice(reorderedPosition, 1);
+    setReorderedIndices((prev) => ({
+      ...prev,
+      [questionId]: updated,
+    }));
   };
 
   const handleResetReorder = (questionId: string) => {
     if (submitted) return;
-    setReorderedAnswers((prev) => ({
+    setReorderedIndices((prev) => ({
       ...prev,
       [questionId]: [],
     }));
@@ -209,7 +215,7 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
   const handleRetry = () => {
     setSelectedAnswers({});
     setEssayAnswers({});
-    setReorderedAnswers({});
+    setReorderedIndices({});
     setSubmitted(false);
     setScore(null);
     setPassed(false);
@@ -441,7 +447,8 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
               const globalIndex = questions.findIndex((item) => item.id === q.id);
               const isAnswered = isQuestionAnswered(q);
               const isCorrect = submitted ? isQuestionCorrect(q) : null;
-              const reordered = reorderedAnswers[q.id] || [];
+              const selectedPoolIndices = reorderedIndices[q.id] || [];
+              const reordered = selectedPoolIndices.map((i) => q.scrambledWords?.[i] || '');
 
               return (
                 <div
@@ -562,7 +569,7 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
                               key={wIdx}
                               type="button"
                               disabled={submitted}
-                              onClick={() => handleWordClick(q.id, w)}
+                              onClick={() => handleRemoveWordFromReordered(q.id, wIdx)}
                               className="px-2.5 py-1 rounded-lg bg-emerald-600 text-white font-medium text-xs shadow-xs hover:bg-emerald-700 active:scale-95 transition-all cursor-pointer"
                               title={locale === 'en' ? 'Click to remove word' : 'Klik untuk membatalkan kata'}
                             >
@@ -575,13 +582,13 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
                       <div className="flex flex-wrap items-center justify-between gap-2">
                         <div className="flex flex-wrap gap-2">
                           {q.scrambledWords?.map((w, wIdx) => {
-                            const isUsed = reordered.includes(w);
+                            const isUsed = selectedPoolIndices.includes(wIdx);
                             return (
                               <button
                                 key={wIdx}
                                 type="button"
                                 disabled={submitted || isUsed}
-                                onClick={() => handleWordClick(q.id, w)}
+                                onClick={() => handleAddWordFromPool(q.id, wIdx)}
                                 className={`px-3 py-1.5 rounded-xl border text-xs font-medium transition-all ${
                                   isUsed
                                     ? 'bg-slate-100 text-slate-300 border-slate-200 opacity-40 cursor-not-allowed'

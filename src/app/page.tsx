@@ -111,17 +111,15 @@ export default function HomePage() {
         <h1 className="text-4xl md:text-6xl font-extrabold text-slate-900 tracking-tight max-w-3xl mx-auto leading-tight">
           {locale === 'en' ? (
             <>
-              Master <span className="underline decoration-rose-500 decoration-wavy decoration-2">Mandarin</span>,{' '}
-              <span className="underline decoration-indigo-500 decoration-wavy decoration-2">Japanese</span>,{' '}
-              <span className="underline decoration-teal-500 decoration-wavy decoration-2">Korean</span>, &{' '}
-              <span className="underline decoration-blue-500 decoration-wavy decoration-2">English</span>
+              Master <span className="underline decoration-rose-500 decoration-wavy decoration-2">11 World</span>{' '}
+              <span className="underline decoration-indigo-500 decoration-wavy decoration-2">Languages</span>{' '}
+              Structurally
             </>
           ) : (
             <>
-              Kuasai Bahasa <span className="underline decoration-rose-500 decoration-wavy decoration-2">Mandarin</span>,{' '}
-              <span className="underline decoration-indigo-500 decoration-wavy decoration-2">Jepang</span>,{' '}
-              <span className="underline decoration-teal-500 decoration-wavy decoration-2">Korea</span>, &{' '}
-              <span className="underline decoration-blue-500 decoration-wavy decoration-2">Inggris</span>
+              Kuasai <span className="underline decoration-rose-500 decoration-wavy decoration-2">11 Bahasa</span>{' '}
+              <span className="underline decoration-indigo-500 decoration-wavy decoration-2">Dunia</span>{' '}
+              Terstruktur
             </>
           )}
         </h1>
@@ -288,8 +286,8 @@ export default function HomePage() {
               </h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 {locale === 'en'
-                  ? 'Listen to native pronunciations in your browser across all 4 languages with adjustable audio speed.'
-                  : 'Dengarkan pengucapan asli langsung dari browser untuk 4 bahasa dengan kontrol kecepatan lambat (0.75x) untuk pemula dan normal (1.0x).'}
+                  ? 'Listen to native pronunciations in your browser across all 11 languages with adjustable audio speed.'
+                  : 'Dengarkan pengucapan asli langsung dari browser untuk 11 bahasa dengan kontrol kecepatan lambat (0.75x) untuk pemula dan normal (1.0x).'}
               </p>
             </div>
           </div>

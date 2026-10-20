@@ -60,8 +60,10 @@ export const LANGUAGES: Record<Language, LanguageMeta> = {
     description: 'Pahami akhiran sopan formal/informal, konjugasi TOPIK I hingga TOPIK II Level 6, dan penulisan esai akademik.',
     levels: [
       'TOPIK 1 (Level 1-2 Pemula)',
-      'TOPIK 2 (Level 3-4 Menengah)',
-      'TOPIK 2 (Level 5-6 Akademik/Tesis)',
+      'TOPIK 2 (Level 3 Menengah Awal)',
+      'TOPIK 2 (Level 4 Menengah Atas)',
+      'TOPIK 2 (Level 5 Mahir)',
+      'TOPIK 2 (Level 6 Akademik/Tesis)',
     ],
     themeColor: {
       primary: 'bg-teal-600',
@@ -210,7 +212,7 @@ export const LANGUAGES: Record<Language, LanguageMeta> = {
   },
   german: {
     id: 'german',
-    name: 'Bahasa German',
+    name: 'Bahasa Jerman',
     nativeName: 'Deutsch (Jerman)',
     flag: '🇩🇪',
     greeting: 'Guten Tag!',
@@ -234,7 +236,7 @@ export const LANGUAGES: Record<Language, LanguageMeta> = {
   },
   spanish: {
     id: 'spanish',
-    name: 'Bahasa Spanish',
+    name: 'Bahasa Spanyol',
     nativeName: 'Español (Spanyol)',
     flag: '🇪🇸',
     greeting: '¡Hola! ¿Cómo estás?',

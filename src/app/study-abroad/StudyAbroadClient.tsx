@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import { useSearchParams } from 'next/navigation';
 import { STUDY_ABROAD_DATA } from '@/data/studyAbroad';
 import { LearningLayoutClient } from '@/components/layout/LearningLayoutClient';
 import { AudioSpeaker } from '@/components/ui/AudioSpeaker';
@@ -27,12 +28,71 @@ import {
   RotateCcw,
 } from 'lucide-react';
 
+const ALL_DESTINATIONS: StudyAbroadDestination[] = [
+  'china',
+  'japan',
+  'korea',
+  'english',
+  'thailand',
+  'russia',
+  'arabic',
+  'france',
+  'netherlands',
+  'germany',
+  'spain',
+];
+
+const LANG_TO_COUNTRY: Record<Language, StudyAbroadDestination> = {
+  chinese: 'china',
+  japanese: 'japan',
+  korean: 'korea',
+  english: 'english',
+  thai: 'thailand',
+  russian: 'russia',
+  arabic: 'arabic',
+  french: 'france',
+  dutch: 'netherlands',
+  german: 'germany',
+  spanish: 'spain',
+};
+
 export function StudyAbroadClient() {
   const { user, progress, reloadProgress } = useAuth();
   const { locale, t } = useLocale();
-  const [selectedCountry, setSelectedCountry] = useState<StudyAbroadDestination>('china');
+  const searchParams = useSearchParams();
+
+  const initialCountry = (): StudyAbroadDestination => {
+    const countryParam = searchParams.get('country') as StudyAbroadDestination | null;
+    if (countryParam && ALL_DESTINATIONS.includes(countryParam)) {
+      return countryParam;
+    }
+    const langParam = searchParams.get('lang') as Language | null;
+    if (langParam && LANG_TO_COUNTRY[langParam]) {
+      return LANG_TO_COUNTRY[langParam];
+    }
+    return 'china';
+  };
+
+  const [selectedCountry, setSelectedCountry] = useState<StudyAbroadDestination>(initialCountry);
   const [activeTestTarget, setActiveTestTarget] = useState<StudyChecklistItem | null>(null);
   const [isTestModalOpen, setIsTestModalOpen] = useState(false);
+
+  // Sync if URL query param changes
+  const queryCountry = searchParams.get('country') as StudyAbroadDestination | null;
+  const queryLang = searchParams.get('lang') as Language | null;
+  const resolvedQueryCountry =
+    queryCountry && ALL_DESTINATIONS.includes(queryCountry)
+      ? queryCountry
+      : queryLang && LANG_TO_COUNTRY[queryLang]
+      ? LANG_TO_COUNTRY[queryLang]
+      : null;
+  const [prevQueryCountry, setPrevQueryCountry] = useState<StudyAbroadDestination | null>(
+    resolvedQueryCountry
+  );
+  if (resolvedQueryCountry && resolvedQueryCountry !== prevQueryCountry) {
+    setPrevQueryCountry(resolvedQueryCountry);
+    setSelectedCountry(resolvedQueryCountry);
+  }
 
   const countryData = STUDY_ABROAD_DATA[selectedCountry];
   const userChecklist = progress.studyAbroadChecklist || [];
@@ -116,7 +176,7 @@ export function StudyAbroadClient() {
 
           {/* Country Selector Pills */}
           <div className="flex flex-wrap gap-2 pt-2 border-t border-slate-100">
-            {(['china', 'japan', 'korea', 'english'] as const).map((cKey) => {
+            {ALL_DESTINATIONS.map((cKey) => {
               const c = STUDY_ABROAD_DATA[cKey];
               const isSelected = selectedCountry === cKey;
               return (
@@ -389,13 +449,15 @@ export function StudyAbroadClient() {
 
               <button
                 type="button"
-                onClick={() => handleOpenTest({
-                  id: `${countryData.countryId === 'china' ? 'cn' : countryData.countryId === 'japan' ? 'jp' : countryData.countryId === 'korea' ? 'kr' : 'en'}-full`,
-                  label: `${t('full_exam_title', { country: countryShortName })}`,
-                  priority: 'Wajib',
-                  targetLevel: '50 Soal Lengkap',
-                  test: countryData.fullTest!,
-                })}
+                onClick={() =>
+                  handleOpenTest({
+                    id: `${countryData.studyChecklist[0]?.id.split('-')[0] || countryData.countryId}-full`,
+                    label: `${t('full_exam_title', { country: countryShortName })}`,
+                    priority: 'Wajib',
+                    targetLevel: '50 Soal Lengkap',
+                    test: countryData.fullTest!,
+                  })
+                }
                 className="px-6 py-3.5 rounded-2xl bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-300 hover:to-amber-400 text-slate-950 font-black text-xs md:text-sm shadow-lg shadow-amber-500/20 active:scale-95 transition-all flex items-center justify-center gap-2 shrink-0 cursor-pointer"
               >
                 <Trophy size={18} />

@@ -67,7 +67,8 @@ export const AppSidebar: React.FC<AppSidebarProps> = ({
     },
     {
       label: locale === 'id' ? 'Target Kuliah Luar Negeri' : 'Study Abroad Targets',
-      href: '/study-abroad',
+      href: `/study-abroad?lang=${currentLanguage}`,
+      matchPath: '/study-abroad',
       icon: Award,
       exact: false,
     },
@@ -115,7 +116,9 @@ export const AppSidebar: React.FC<AppSidebarProps> = ({
                 }`}
               >
                 <span className="text-base">{lang.flag}</span>
-                <span className="truncate">{lang.name.replace('Bahasa ', '')}</span>
+                <span className="truncate">
+                  {t(`lang_${lang.id}`, lang.name).replace('Bahasa ', '').replace(' Language', '')}
+                </span>
               </Link>
             );
           })}
@@ -125,12 +128,15 @@ export const AppSidebar: React.FC<AppSidebarProps> = ({
       {/* Main Navigation Links */}
       <div className="flex-1 p-3 space-y-1 overflow-y-auto">
         <div className="px-3 py-2 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
-          {locale === 'id' ? `Menu Modul (${activeLangMeta.name})` : `Modules (${activeLangMeta.name})`}
+          {locale === 'id'
+            ? `Menu Modul (${t(`lang_${currentLanguage}`, activeLangMeta.name)})`
+            : `Modules (${t(`lang_${currentLanguage}`, activeLangMeta.name)})`}
         </div>
         {navItems.map((item) => {
+          const checkPath = 'matchPath' in item && item.matchPath ? item.matchPath : item.href;
           const isActive = item.exact
-            ? pathname === item.href
-            : pathname.startsWith(item.href);
+            ? pathname === checkPath
+            : pathname.startsWith(checkPath);
           const Icon = item.icon;
 
           return (
