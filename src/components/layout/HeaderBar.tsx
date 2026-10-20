@@ -8,6 +8,7 @@ import { LANGUAGES } from '@/data/languages';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
 import { UserAvatar } from '@/components/ui/UserAvatar';
+import { PWAInstallButton } from '@/components/pwa/PWAInstallButton';
 
 interface HeaderBarProps {
   currentLanguage?: Language;
@@ -67,6 +68,9 @@ export const HeaderBar: React.FC<HeaderBarProps> = ({
 
       {/* Navbar Actions: Language Switch and Account Icon */}
       <div className="flex items-center gap-2.5">
+        {/* PWA Install Button in Navbar */}
+        <PWAInstallButton />
+
         {/* Switch Bahasa Indonesia & English */}
         <button
           type="button"

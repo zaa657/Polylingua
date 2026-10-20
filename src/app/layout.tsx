@@ -4,7 +4,6 @@ import './globals.css';
 import { AuthProvider } from '@/context/AuthContext';
 import { LocaleProvider } from '@/context/LocaleContext';
 import { PWARegister } from '@/components/pwa/PWARegister';
-import { PWAInstallPrompt } from '@/components/pwa/PWAInstallPrompt';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -57,7 +56,6 @@ export default function RootLayout({
         <LocaleProvider>
           <AuthProvider>
             <PWARegister />
-            <PWAInstallPrompt />
             {children}
           </AuthProvider>
         </LocaleProvider>

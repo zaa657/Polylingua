@@ -15,6 +15,7 @@ import {
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
 import { UserAvatar } from '@/components/ui/UserAvatar';
+import { PWAInstallButton } from '@/components/pwa/PWAInstallButton';
 
 export default function HomePage() {
   const { user, isGuest } = useAuth();
@@ -37,6 +38,9 @@ export default function HomePage() {
           </div>
 
           <div className="flex items-center gap-3">
+            {/* PWA Install Button */}
+            <PWAInstallButton />
+
             {/* Language Switcher */}
             <button
               type="button"
