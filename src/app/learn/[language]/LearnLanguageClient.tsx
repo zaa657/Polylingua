@@ -1,10 +1,11 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Language } from '@/types/learning';
 import { LANGUAGES } from '@/data/languages';
 import { getGrammarLessons, getDialogues, getVocabulary } from '@/data';
+import { fetchVocabulariesForLanguage } from '@/lib/vocabularyService';
 import { LearningLayoutClient } from '@/components/layout/LearningLayoutClient';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
@@ -38,6 +39,19 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
   const grammarLessons = getGrammarLessons(langKey);
   const dialogues = getDialogues(langKey);
   const vocabularies = getVocabulary(langKey);
+  const [vocabCount, setVocabCount] = useState<number>(2050);
+
+  useEffect(() => {
+    let isMounted = true;
+    fetchVocabulariesForLanguage(langKey).then((items) => {
+      if (isMounted && items && items.length > 0) {
+        setVocabCount(items.length);
+      }
+    });
+    return () => {
+      isMounted = false;
+    };
+  }, [langKey]);
 
   const [activeLevelFilter, setActiveLevelFilter] = useState<string | null>(null);
 
@@ -123,7 +137,7 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
                   <span>{t('interactive_vocab_dict')}</span>
                 </span>
                 <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-blue-500/30 text-blue-200 border border-blue-400/30">
-                  {vocabularies.length} {t('vocab_entries_count')}
+                  {vocabCount > 0 ? vocabCount : vocabularies.length} {t('vocab_entries_count')}
                 </span>
               </div>
               <h3 className="text-lg font-bold text-white">
