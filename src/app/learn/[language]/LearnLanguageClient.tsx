@@ -129,27 +129,27 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
         {/* Quick Access Resource Cards: Kamus Kosakata & Target Studi/Beasiswa */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {/* Kamus Kosakata Card */}
-          <div className="bg-gradient-to-br from-blue-900 via-indigo-900 to-slate-900 text-white rounded-3xl p-6 flex flex-col justify-between gap-4 shadow-md">
-            <div className="space-y-2">
-              <div className="flex items-center justify-between">
-                <span className="text-xs font-bold uppercase tracking-wider text-blue-300 flex items-center gap-1.5">
-                  <Languages size={15} />
+          <div className="bg-white rounded-3xl border border-slate-200/90 hover:border-blue-300 p-6 flex flex-col justify-between gap-5 shadow-xs hover:shadow-md transition-all group">
+            <div className="space-y-3">
+              <div className="flex items-center justify-between gap-2">
+                <span className="text-xs font-bold uppercase tracking-wider text-blue-700 bg-blue-50 px-2.5 py-1 rounded-lg border border-blue-100 flex items-center gap-1.5">
+                  <Languages size={14} className="text-blue-600" />
                   <span>{t('interactive_vocab_dict')}</span>
                 </span>
-                <span className="text-[11px] font-bold px-2.5 py-0.5 rounded-full bg-blue-500/30 text-blue-200 border border-blue-400/30">
+                <span className="text-[11px] font-semibold px-2.5 py-0.5 rounded-full bg-slate-100 text-slate-600 border border-slate-200">
                   {vocabCount > 0 ? vocabCount : vocabularies.length} {t('vocab_entries_count')}
                 </span>
               </div>
-              <h3 className="text-lg font-bold text-white">
+              <h3 className="text-lg font-bold text-slate-900 group-hover:text-blue-600 transition-colors">
                 {t('vocab_card_heading', { lang: langShortName })}
               </h3>
-              <p className="text-xs text-slate-300 leading-relaxed">
+              <p className="text-xs text-slate-600 leading-relaxed">
                 {t('vocab_card_desc')}
               </p>
             </div>
             <Link
               href={`/learn/${langKey}/vocabulary`}
-              className="px-5 py-2.5 rounded-xl bg-blue-500 hover:bg-blue-600 text-white font-bold text-xs transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-sm w-fit"
+              className="px-5 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-xs w-fit"
             >
               <span>{t('open_vocab')}</span>
               <ArrowRight size={14} />
@@ -158,16 +158,18 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
 
           {/* Study Abroad / Career Target Banner */}
           {langKey !== 'english' ? (
-            <div className="bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 text-white rounded-3xl p-6 flex flex-col justify-between gap-4 shadow-md">
-              <div className="space-y-2">
-                <span className="text-xs font-bold uppercase tracking-wider text-amber-400 flex items-center gap-1.5">
-                  <Sparkles size={14} />
-                  <span>{t('study_abroad_opportunity')}</span>
-                </span>
-                <h3 className="text-lg font-bold text-white">
+            <div className="bg-white rounded-3xl border border-slate-200/90 hover:border-amber-300 p-6 flex flex-col justify-between gap-5 shadow-xs hover:shadow-md transition-all group">
+              <div className="space-y-3">
+                <div className="flex items-center justify-between gap-2">
+                  <span className="text-xs font-bold uppercase tracking-wider text-amber-800 bg-amber-50 px-2.5 py-1 rounded-lg border border-amber-200/60 flex items-center gap-1.5">
+                    <Sparkles size={14} className="text-amber-600" />
+                    <span>{t('study_abroad_opportunity')}</span>
+                  </span>
+                </div>
+                <h3 className="text-lg font-bold text-slate-900 group-hover:text-amber-700 transition-colors">
                   {t('study_abroad_card_title', { lang: langShortName })}
                 </h3>
-                <p className="text-xs text-slate-300 leading-relaxed">
+                <p className="text-xs text-slate-600 leading-relaxed">
                   {t('study_abroad_card_desc', {
                     standards:
                       {
@@ -187,29 +189,31 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
               </div>
               <Link
                 href={`/study-abroad?lang=${langKey}`}
-                className="px-5 py-2.5 rounded-xl bg-white text-slate-900 font-bold text-xs hover:bg-slate-100 transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-sm w-fit"
+                className="px-5 py-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-xs w-fit"
               >
                 <span>{t('open_study_abroad')}</span>
                 <ArrowRight size={14} />
               </Link>
             </div>
           ) : (
-            <div className="bg-gradient-to-br from-slate-900 via-slate-800 to-indigo-950 text-white rounded-3xl p-6 flex flex-col justify-between gap-4 shadow-md">
-              <div className="space-y-2">
-                <span className="text-xs font-bold uppercase tracking-wider text-emerald-400 flex items-center gap-1.5">
-                  <Sparkles size={14} />
-                  <span>{t('global_prep_badge')}</span>
-                </span>
-                <h3 className="text-lg font-bold text-white">
+            <div className="bg-white rounded-3xl border border-slate-200/90 hover:border-emerald-300 p-6 flex flex-col justify-between gap-5 shadow-xs hover:shadow-md transition-all group">
+              <div className="space-y-3">
+                <div className="flex items-center justify-between gap-2">
+                  <span className="text-xs font-bold uppercase tracking-wider text-emerald-800 bg-emerald-50 px-2.5 py-1 rounded-lg border border-emerald-200/60 flex items-center gap-1.5">
+                    <Sparkles size={14} className="text-emerald-600" />
+                    <span>{t('global_prep_badge')}</span>
+                  </span>
+                </div>
+                <h3 className="text-lg font-bold text-slate-900 group-hover:text-emerald-700 transition-colors">
                   {t('global_career_title')}
                 </h3>
-                <p className="text-xs text-slate-300 leading-relaxed">
+                <p className="text-xs text-slate-600 leading-relaxed">
                   {t('global_career_desc')}
                 </p>
               </div>
               <Link
                 href="/study-abroad?lang=english"
-                className="px-5 py-2.5 rounded-xl bg-white text-slate-900 font-bold text-xs hover:bg-slate-100 transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-sm w-fit"
+                className="px-5 py-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs transition-colors shrink-0 flex items-center justify-center gap-1.5 cursor-pointer shadow-xs w-fit"
               >
                 <span>{t('open_global_study')}</span>
                 <ArrowRight size={14} />
