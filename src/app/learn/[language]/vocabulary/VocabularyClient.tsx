@@ -5,23 +5,17 @@ import Link from 'next/link';
 import { Language, VocabularyItem, VocabularyPartOfSpeech } from '@/types/learning';
 import { LANGUAGES } from '@/data/languages';
 import { LearningLayoutClient } from '@/components/layout/LearningLayoutClient';
-import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
-import { progressService } from '@/lib/progressService';
 import { getVoiceLangCode, speechService } from '@/lib/speechService';
 import { fetchVocabulariesForLanguage } from '@/lib/vocabularyService';
 import {
   Search,
   Volume2,
-  Star,
   Eye,
   EyeOff,
-  Sparkles,
   Copy,
   Check,
   RotateCcw,
-  Languages as VocabIcon,
-  HelpCircle,
 } from 'lucide-react';
 
 interface VocabularyClientProps {
@@ -41,12 +35,50 @@ const POS_COLORS: Record<VocabularyPartOfSpeech, string> = {
   phrase: 'bg-teal-50 text-teal-700 border-teal-200',
 };
 
+const CATEGORY_TRANSLATIONS: Record<string, string> = {
+  'Umum': 'General',
+  'Salam & Percakapan': 'Greetings & Conversation',
+  'Keluarga & Hubungan': 'Family & Relationships',
+  'Keluarga & Kerabat': 'Family & Relatives',
+  'Makanan & Minuman': 'Food & Drinks',
+  'Makanan & Kuliner': 'Food & Cuisine',
+  'Pekerjaan & Profesi': 'Work & Professions',
+  'Pekerjaan & Karir': 'Jobs & Career',
+  'Waktu & Hari': 'Time & Days',
+  'Waktu & Tanggal': 'Time & Dates',
+  'Angka & Hitungan': 'Numbers & Counting',
+  'Aktivitas Sehari-hari': 'Daily Activities',
+  'Transportasi & Perjalanan': 'Transportation & Travel',
+  'Belanja & Transaksi': 'Shopping & Transactions',
+  'Pendidikan & Kampus': 'Education & Campus',
+  'Kesehatan & Tubuh': 'Health & Body',
+  'Tempat & Arah': 'Places & Directions',
+  'Cuaca & Musim': 'Weather & Seasons',
+  'Hobi & Hiburan': 'Hobbies & Leisure',
+  'Teknologi & Digital': 'Technology & Digital',
+  'Emosi & Perasaan': 'Emotions & Feelings',
+  'Sifat & Karakter': 'Traits & Personality',
+  'Alam & Lingkungan': 'Nature & Environment',
+  'Pakaian & Fashion': 'Clothing & Fashion',
+  'Rumah & Perlengkapan': 'Home & Furniture',
+  'Komunikasi & Media': 'Communication & Media',
+  'Bisnis & Ekonomi': 'Business & Economy',
+  'Hukum & Politik': 'Law & Politics',
+  'Seni & Budaya': 'Arts & Culture',
+  'Olahraga & Kebugaran': 'Sports & Fitness',
+  'Akademik & Penelitian': 'Academia & Research',
+  'Sains & Teknologi': 'Science & Technology',
+  'Media Sosial & Internet': 'Social Media & Internet',
+  'Hewan & Fauna': 'Animals & Fauna',
+  'Tumbuhan & Flora': 'Plants & Flora',
+  'Perjalanan & Wisata': 'Travel & Tourism',
+};
+
 export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   language,
   initialVocab,
 }) => {
   const langMeta = LANGUAGES[language] || LANGUAGES.chinese;
-  const { user, progress, reloadProgress } = useAuth();
   const { locale, t } = useLocale();
 
   const [vocabList, setVocabList] = useState<VocabularyItem[]>(initialVocab);
@@ -66,7 +98,6 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedLevel, setSelectedLevel] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
-  const [onlyFavorites, setOnlyFavorites] = useState(false);
   const [isFlashcardMode, setIsFlashcardMode] = useState(false);
   const [revealedIds, setRevealedIds] = useState<Record<string, boolean>>({});
   const [copiedId, setCopiedId] = useState<string | null>(null);
@@ -75,9 +106,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
 
   useEffect(() => {
     setDisplayLimit(60);
-  }, [searchQuery, selectedLevel, selectedCategory, onlyFavorites]);
-
-  const savedWordIds = useMemo(() => progress.savedWords || [], [progress.savedWords]);
+  }, [searchQuery, selectedLevel, selectedCategory]);
 
   // Extract distinct levels & categories
   const allLevels = useMemo(() => {
@@ -92,13 +121,16 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
     return Array.from(set);
   }, [vocabList]);
 
+  const getCategoryLabel = (cat: string) => {
+    if (locale === 'en') {
+      return CATEGORY_TRANSLATIONS[cat] || cat;
+    }
+    return cat;
+  };
+
   // Filtered vocabulary list
   const filteredVocab = useMemo(() => {
     return vocabList.filter((item) => {
-      // Favorites filter
-      if (onlyFavorites && !savedWordIds.includes(item.id)) {
-        return false;
-      }
       // Level filter
       if (selectedLevel && item.level !== selectedLevel) {
         return false;
@@ -119,7 +151,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
       }
       return true;
     });
-  }, [vocabList, onlyFavorites, savedWordIds, selectedLevel, selectedCategory, searchQuery]);
+  }, [vocabList, selectedLevel, selectedCategory, searchQuery]);
 
   const displayedVocab = useMemo(() => {
     return filteredVocab.slice(0, displayLimit);
@@ -138,7 +170,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
     setSpeakingWordId(id);
     speechService.speak(text, {
       lang: voiceLang,
-      rate: progress.speechSpeed || 1.0,
+      rate: 1.0,
       onStart: () => setSpeakingWordId(id),
       onEnd: () => setSpeakingWordId(null),
       onError: () => setSpeakingWordId(null),
@@ -147,11 +179,6 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
 
   const getAudioLangCode = (): string => {
     return getVoiceLangCode(language);
-  };
-
-  const handleToggleFavorite = async (wordId: string) => {
-    await progressService.toggleSavedWord(wordId, user?.uid);
-    await reloadProgress();
   };
 
   const toggleRevealFlashcard = (id: string) => {
@@ -177,7 +204,6 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
     setSearchQuery('');
     setSelectedLevel(null);
     setSelectedCategory(null);
-    setOnlyFavorites(false);
   };
 
   const localizedLangName = t('lang_' + language, {}, langMeta.name);
@@ -199,9 +225,9 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
 
   return (
     <LearningLayoutClient currentLanguage={language}>
-      <div className="space-y-8 pb-16">
+      <div className="space-y-6 pb-16">
         {/* Header Breadcrumbs & Title */}
-        <div className="space-y-3">
+        <div className="space-y-2">
           <div className="flex items-center gap-2 text-xs font-semibold text-slate-500">
             <Link href={`/learn/${language}`} className="hover:text-blue-600">
               {localizedLangName}
@@ -210,76 +236,56 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
             <span className="text-slate-800">{t('vocab_hub_title')}</span>
           </div>
 
-          <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
             <div>
-              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-semibold mb-2">
-                <VocabIcon size={14} />
-                <span>{t('vocab_card_heading', { lang: localizedLangName.replace('Bahasa ', '') })}</span>
-              </div>
               <h1 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight flex items-center gap-2">
                 <span>{t('vocab_card_heading', { lang: localizedLangName })}</span>
                 <span className="text-xl">{langMeta.flag}</span>
               </h1>
-              <p className="text-sm text-slate-500 mt-1 max-w-2xl">
+              <p className="text-xs md:text-sm text-slate-500 mt-1 max-w-xl">
                 {t('vocab_hub_desc')}
               </p>
             </div>
 
-            {/* Quick Actions */}
-            <div className="flex items-center gap-2.5 shrink-0">
+            {/* Quick Action: Flashcard Mode */}
+            <div className="shrink-0">
               <button
                 type="button"
                 onClick={() => setIsFlashcardMode(!isFlashcardMode)}
-                className={`px-3.5 py-2 rounded-2xl border text-xs font-bold transition-all flex items-center gap-2 cursor-pointer ${
+                className={`px-3.5 py-2 rounded-xl border text-xs font-bold transition-all flex items-center gap-2 cursor-pointer ${
                   isFlashcardMode
                     ? 'bg-amber-500 text-white border-amber-600 shadow-sm'
                     : 'bg-white text-slate-700 border-slate-200 hover:bg-slate-50'
                 }`}
-                title={locale === 'en' ? 'Hide word meaning for independent recall practice' : 'Sembunyikan arti kata untuk menguji ingatan mandiri'}
+                title={locale === 'en' ? 'Hide meaning to test recall' : 'Sembunyikan arti kata untuk menguji ingatan'}
               >
                 {isFlashcardMode ? <EyeOff size={15} /> : <Eye size={15} />}
                 <span>{isFlashcardMode ? t('mode_active_recall_active') : t('mode_active_recall_test')}</span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setOnlyFavorites(!onlyFavorites)}
-                className={`px-3.5 py-2 rounded-2xl border text-xs font-bold transition-all flex items-center gap-2 cursor-pointer ${
-                  onlyFavorites
-                    ? 'bg-amber-50 text-amber-900 border-amber-300'
-                    : 'bg-white text-slate-700 border-slate-200 hover:bg-slate-50'
-                }`}
-              >
-                <Star
-                  size={15}
-                  className={onlyFavorites ? 'fill-amber-500 text-amber-500' : 'text-slate-400'}
-                />
-                <span>{t('favorites_count', { count: savedWordIds.length })}</span>
               </button>
             </div>
           </div>
         </div>
 
-        {/* Search Bar & Multi-Filters */}
-        <div className="bg-white rounded-3xl border border-slate-200/90 p-5 md:p-6 shadow-xs space-y-4">
+        {/* Search Bar & Compact Filters */}
+        <div className="bg-white rounded-2xl border border-slate-200/90 p-4 md:p-5 shadow-xs space-y-3.5">
           {/* Search Input */}
           <div className="relative">
             <Search
-              size={18}
-              className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-400"
+              size={17}
+              className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400"
             />
             <input
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder={t('search_vocab_placeholder')}
-              className="w-full pl-11 pr-4 py-3 bg-slate-50/80 border border-slate-200 rounded-2xl text-sm text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-all"
+              className="w-full pl-10 pr-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-xs md:text-sm text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-all"
             />
             {searchQuery && (
               <button
                 type="button"
                 onClick={() => setSearchQuery('')}
-                className="absolute right-3.5 top-1/2 -translate-y-1/2 text-xs font-bold text-slate-400 hover:text-slate-600 px-1.5 py-0.5 rounded cursor-pointer"
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-xs font-bold text-slate-400 hover:text-slate-600 px-1.5 py-0.5 rounded cursor-pointer"
               >
                 ✕
               </button>
@@ -287,15 +293,15 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
           </div>
 
           {/* Level Filter Pills */}
-          <div className="space-y-2">
-            <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block">
+          <div className="space-y-1.5">
+            <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
               {t('filter_level_heading')}
             </span>
             <div className="flex flex-wrap items-center gap-1.5">
               <button
                 type="button"
                 onClick={() => setSelectedLevel(null)}
-                className={`px-3 py-1 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
+                className={`px-3 py-1 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
                   selectedLevel === null
                     ? 'bg-slate-900 text-white'
                     : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
@@ -308,7 +314,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
                   key={lvl}
                   type="button"
                   onClick={() => setSelectedLevel(selectedLevel === lvl ? null : lvl)}
-                  className={`px-3 py-1 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
+                  className={`px-3 py-1 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
                     selectedLevel === lvl
                       ? 'bg-blue-600 text-white shadow-xs'
                       : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
@@ -320,49 +326,47 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
             </div>
           </div>
 
-          {/* Category Filter Pills */}
-          <div className="space-y-2 pt-1 border-t border-slate-100">
+          {/* Compact Category Dropdown Selector */}
+          <div className="space-y-1.5 pt-2 border-t border-slate-100">
             <div className="flex items-center justify-between">
-              <span className="text-[11px] font-bold text-slate-400 uppercase tracking-wider block">
+              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
                 {t('filter_category_heading')}
               </span>
-              {(selectedLevel || selectedCategory || onlyFavorites || searchQuery) && (
+              {(selectedLevel || selectedCategory || searchQuery) && (
                 <button
                   type="button"
                   onClick={resetFilters}
                   className="text-xs font-semibold text-blue-600 hover:text-blue-700 flex items-center gap-1 cursor-pointer"
                 >
-                  <RotateCcw size={12} />
+                  <RotateCcw size={11} />
                   <span>{t('reset_all_filters')}</span>
                 </button>
               )}
             </div>
-            <div className="flex flex-wrap items-center gap-1.5">
-              <button
-                type="button"
-                onClick={() => setSelectedCategory(null)}
-                className={`px-3 py-1 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
-                  selectedCategory === null
-                    ? 'bg-slate-900 text-white'
-                    : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-                }`}
+
+            <div className="flex items-center gap-2">
+              <select
+                value={selectedCategory || ''}
+                onChange={(e) => setSelectedCategory(e.target.value || null)}
+                className="w-full sm:w-auto min-w-[240px] px-3 py-2 bg-slate-50 border border-slate-200 rounded-xl text-xs font-semibold text-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 cursor-pointer"
               >
-                {t('all_categories')}
-              </button>
-              {allCategories.map((cat) => (
+                <option value="">{t('all_categories')} ({allCategories.length})</option>
+                {allCategories.map((cat) => (
+                  <option key={cat} value={cat}>
+                    {getCategoryLabel(cat)}
+                  </option>
+                ))}
+              </select>
+
+              {selectedCategory && (
                 <button
-                  key={cat}
                   type="button"
-                  onClick={() => setSelectedCategory(selectedCategory === cat ? null : cat)}
-                  className={`px-3 py-1 rounded-xl text-xs font-semibold transition-all cursor-pointer ${
-                    selectedCategory === cat
-                      ? 'bg-indigo-600 text-white shadow-xs'
-                      : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-                  }`}
+                  onClick={() => setSelectedCategory(null)}
+                  className="text-xs text-rose-600 hover:text-rose-700 font-semibold px-2 py-1 rounded-lg hover:bg-rose-50 transition-colors"
                 >
-                  {cat}
+                  ✕ {locale === 'en' ? 'Clear' : 'Reset'}
                 </button>
-              ))}
+              )}
             </div>
           </div>
         </div>
@@ -373,21 +377,20 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
             {t('showing_vocab_results', { filtered: filteredVocab.length, total: vocabList.length })}
           </span>
           {isFlashcardMode && (
-            <span className="text-amber-600 font-semibold flex items-center gap-1">
-              <HelpCircle size={13} />
-              <span>{t('touch_card_hint')}</span>
+            <span className="text-amber-600 font-semibold text-xs">
+              {t('touch_card_hint')}
             </span>
           )}
         </div>
 
         {/* Vocabulary Grid */}
         {filteredVocab.length === 0 ? (
-          <div className="bg-white rounded-3xl border border-slate-200 p-12 text-center space-y-4">
-            <div className="w-14 h-14 rounded-2xl bg-slate-100 text-slate-400 flex items-center justify-center mx-auto">
-              <Search size={24} />
+          <div className="bg-white rounded-2xl border border-slate-200 p-10 text-center space-y-3">
+            <div className="w-12 h-12 rounded-xl bg-slate-100 text-slate-400 flex items-center justify-center mx-auto">
+              <Search size={20} />
             </div>
             <div className="space-y-1">
-              <h3 className="font-bold text-slate-800 text-base">{t('no_vocab_found')}</h3>
+              <h3 className="font-bold text-slate-800 text-sm">{t('no_vocab_found')}</h3>
               <p className="text-xs text-slate-400 max-w-sm mx-auto">
                 {t('no_vocab_hint')}
               </p>
@@ -402,43 +405,39 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
           </div>
         ) : (
           <>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {displayedVocab.map((item) => {
-              const isSaved = savedWordIds.includes(item.id);
-              const isRevealed = revealedIds[item.id] || !isFlashcardMode;
-              const posColor = POS_COLORS[item.partOfSpeech] || 'bg-slate-100 text-slate-700 border-slate-200';
-              const posLabel = getPosLabel(item.partOfSpeech);
+                const isRevealed = revealedIds[item.id] || !isFlashcardMode;
+                const posColor = POS_COLORS[item.partOfSpeech] || 'bg-slate-100 text-slate-700 border-slate-200';
+                const posLabel = getPosLabel(item.partOfSpeech);
 
-              return (
-                <article
-                  key={item.id}
-                  className={`bg-white rounded-3xl border p-6 flex flex-col justify-between space-y-5 transition-all shadow-xs hover:shadow-sm ${
-                    isSaved ? 'border-amber-300 ring-1 ring-amber-100' : 'border-slate-200/90'
-                  }`}
-                >
-                  {/* Top Bar: Level, POS, Audio, Favorite */}
-                  <div className="space-y-3">
-                    <div className="flex items-center justify-between gap-2 border-b border-slate-100 pb-3">
-                      <div className="flex flex-wrap items-center gap-1.5">
-                        <span className="text-[11px] font-extrabold px-2.5 py-0.5 rounded-lg bg-blue-50 text-blue-800 border border-blue-200">
-                          {item.level}
-                        </span>
-                        <span
-                          className={`text-[11px] font-semibold px-2.5 py-0.5 rounded-lg border ${posColor}`}
-                        >
-                          {posLabel}
-                        </span>
-                        <span className="text-[11px] text-slate-400 font-medium px-2 py-0.5 rounded-lg bg-slate-50">
-                          {item.category}
-                        </span>
-                      </div>
+                return (
+                  <article
+                    key={item.id}
+                    className="bg-white rounded-2xl border border-slate-200/90 p-5 flex flex-col justify-between space-y-4 transition-all shadow-xs hover:border-slate-300"
+                  >
+                    {/* Top Bar: Level, POS, Category, Copy */}
+                    <div className="space-y-3">
+                      <div className="flex items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+                        <div className="flex flex-wrap items-center gap-1.5">
+                          <span className="text-[11px] font-extrabold px-2 py-0.5 rounded-lg bg-blue-50 text-blue-800 border border-blue-200">
+                            {item.level}
+                          </span>
+                          <span
+                            className={`text-[11px] font-semibold px-2 py-0.5 rounded-lg border ${posColor}`}
+                          >
+                            {posLabel}
+                          </span>
+                          <span className="text-[11px] text-slate-500 font-medium px-2 py-0.5 rounded-lg bg-slate-100">
+                            {getCategoryLabel(item.category)}
+                          </span>
+                        </div>
 
-                      <div className="flex items-center gap-1">
                         <button
                           type="button"
                           onClick={() => handleCopy(item.word, item.id)}
-                          className="p-1.5 rounded-lg text-slate-400 hover:text-slate-700 hover:bg-slate-100 transition-colors cursor-pointer"
-                          title={locale === 'en' ? 'Copy word' : 'Salin aksara kata'}
+                          className="p-1 rounded-lg text-slate-400 hover:text-slate-700 hover:bg-slate-100 transition-colors cursor-pointer"
+                          title={locale === 'en' ? 'Copy word' : 'Salin kata'}
                         >
                           {copiedId === item.id ? (
                             <Check size={14} className="text-emerald-600" />
@@ -446,173 +445,126 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
                             <Copy size={14} />
                           )}
                         </button>
+                      </div>
+
+                      {/* Word Display & Audio */}
+                      <div className="flex items-start justify-between gap-4">
+                        <div className="space-y-1">
+                          {item.reading && (
+                            <span className="text-xs font-semibold text-slate-400 block tracking-wide">
+                              {item.reading}
+                            </span>
+                          )}
+                          <h3 className="text-2xl font-extrabold text-slate-900 tracking-tight leading-snug">
+                            {item.word}
+                          </h3>
+                          {item.phonetic && item.phonetic !== item.reading && (
+                            <p className="text-xs text-blue-600 font-medium">
+                              /{item.phonetic}/
+                            </p>
+                          )}
+                        </div>
 
                         <button
                           type="button"
-                          onClick={() => handleToggleFavorite(item.id)}
-                          className="p-1.5 rounded-lg hover:bg-amber-50 transition-colors cursor-pointer"
-                          title={
-                            locale === 'en'
-                              ? isSaved
-                                ? 'Remove from favorites'
-                                : 'Save to favorites'
-                              : isSaved
-                              ? 'Hapus dari kosakata favorit'
-                              : 'Simpan ke favorit'
-                          }
+                          onClick={() => playAudio(item.word, getAudioLangCode(), item.id)}
+                          className={`p-2.5 rounded-xl transition-all cursor-pointer ${
+                            speakingWordId === item.id
+                              ? 'bg-blue-600 text-white ring-2 ring-blue-300 animate-pulse'
+                              : 'bg-slate-100 hover:bg-blue-50 hover:text-blue-600 text-slate-600'
+                          }`}
+                          title={locale === 'en' ? 'Listen pronunciation' : 'Dengarkan pengucapan'}
                         >
-                          <Star
-                            size={16}
-                            className={
-                              isSaved
-                                ? 'fill-amber-400 text-amber-500'
-                                : 'text-slate-300 hover:text-amber-400'
-                            }
-                          />
+                          <Volume2 size={18} />
                         </button>
                       </div>
-                    </div>
 
-                    {/* Word Display & Audio */}
-                    <div className="flex items-start justify-between gap-4">
-                      <div className="space-y-1">
-                        {item.reading && (
-                          <span className="text-xs font-semibold text-slate-400 block tracking-wide">
-                            {item.reading}
-                          </span>
-                        )}
-                        <h2 className="text-3xl font-black text-slate-900 tracking-tight leading-none">
-                          {item.word}
-                        </h2>
-
-                        {/* Phonetic (Pinyin / Romaji / IPA) */}
-                        {isRevealed ? (
-                          <p className="text-sm font-semibold text-blue-600 tracking-wide pt-0.5">
-                            {item.phonetic}
+                      {/* Meaning */}
+                      {isRevealed ? (
+                        <div className="pt-1">
+                          <p className="text-sm md:text-base font-bold text-slate-800 leading-snug">
+                            {item.meaningId}
                           </p>
-                        ) : (
-                          <button
-                            type="button"
-                            onClick={() => toggleRevealFlashcard(item.id)}
-                            className="text-xs font-bold text-amber-600 hover:underline cursor-pointer pt-0.5 flex items-center gap-1"
-                          >
-                            <Eye size={12} />
-                            <span>{locale === 'en' ? 'Show Pronunciation & Meaning' : 'Buka Cara Baca & Arti'}</span>
-                          </button>
-                        )}
-                      </div>
-
-                      {/* Word Audio Button */}
-                      <button
-                        type="button"
-                        onClick={() => playAudio(item.word, getAudioLangCode(), item.id)}
-                        className={`w-11 h-11 rounded-2xl flex items-center justify-center shrink-0 transition-all cursor-pointer ${
-                          speakingWordId === item.id
-                            ? 'bg-blue-600 text-white shadow-md scale-105 animate-pulse'
-                            : 'bg-blue-50 text-blue-700 hover:bg-blue-100'
-                        }`}
-                        title={locale === 'en' ? 'Listen to native pronunciation' : 'Dengarkan pengucapan asli kata ini'}
-                      >
-                        <Volume2 size={19} />
-                      </button>
-                    </div>
-
-                    {/* Meaning */}
-                    {isRevealed ? (
-                      <div className="pt-2">
-                        <p className="text-base font-bold text-slate-800 leading-snug">
-                          {item.meaningId}
-                        </p>
-                      </div>
-                    ) : (
-                      <div
-                        onClick={() => toggleRevealFlashcard(item.id)}
-                        className="p-3 bg-slate-50 border border-dashed border-slate-200 rounded-2xl text-center cursor-pointer hover:bg-amber-50/50 hover:border-amber-200 transition-all"
-                      >
-                        <span className="text-xs font-bold text-slate-400 flex items-center justify-center gap-1.5">
-                          <EyeOff size={14} className="text-amber-500" />
-                          <span>{locale === 'en' ? 'Tap to check your recall' : 'Sentuh untuk memeriksa arti hafalan Anda'}</span>
-                        </span>
-                      </div>
-                    )}
-                  </div>
-
-                  {/* Example Sentence & Notes (Visible when revealed) */}
-                  {isRevealed && (
-                    <div className="space-y-3 pt-3 border-t border-slate-100">
-                      {/* Example sentence box */}
-                      <div className="p-3.5 rounded-2xl bg-slate-50/90 border border-slate-200/70 space-y-1.5">
-                        <div className="flex items-center justify-between gap-2">
-                          <span className="text-[10px] font-bold uppercase tracking-wider text-slate-400">
-                            {locale === 'en' ? 'Sentence Example' : 'Contoh Kalimat'}
-                          </span>
-                          <button
-                            type="button"
-                            onClick={() =>
-                              playAudio(item.exampleNative, getAudioLangCode(), `ex-${item.id}`)
-                            }
-                            className="p-1 rounded-md text-slate-400 hover:text-blue-600 hover:bg-white transition-all cursor-pointer"
-                            title={locale === 'en' ? 'Listen to example sentence' : 'Dengarkan audio contoh kalimat'}
-                          >
-                            <Volume2
-                              size={14}
-                              className={speakingWordId === `ex-${item.id}` ? 'text-blue-600' : ''}
-                            />
-                          </button>
                         </div>
-                        <p className="text-sm font-bold text-slate-900 leading-relaxed">
-                          {item.exampleNative}
-                        </p>
-                        <p className="text-xs text-blue-600 font-medium">
-                          {item.examplePhonetic}
-                        </p>
-                        <p className="text-xs text-slate-600 pt-0.5">
-                          &ldquo;{item.exampleTranslation}&rdquo;
-                        </p>
-                      </div>
-
-                      {/* Grammatical notes & usage nuances */}
-                      {item.notes && (
-                        <div className="flex items-start gap-2 p-3 bg-blue-50/50 border border-blue-100 rounded-2xl text-xs text-slate-700">
-                          <Sparkles size={14} className="text-blue-600 shrink-0 mt-0.5" />
-                          <p className="leading-relaxed">
-                            <strong className="text-blue-900 font-semibold">
-                              {locale === 'en' ? 'Explanation & Tips: ' : 'Penjelasan & Tips: '}
-                            </strong>
-                            {item.notes}
-                          </p>
+                      ) : (
+                        <div
+                          onClick={() => toggleRevealFlashcard(item.id)}
+                          className="p-2.5 bg-slate-50 border border-dashed border-slate-200 rounded-xl text-center cursor-pointer hover:bg-amber-50/50 hover:border-amber-200 transition-all"
+                        >
+                          <span className="text-xs font-semibold text-slate-400 flex items-center justify-center gap-1.5">
+                            <EyeOff size={13} className="text-amber-500" />
+                            <span>{locale === 'en' ? 'Tap to reveal meaning' : 'Sentuh untuk melihat arti'}</span>
+                          </span>
                         </div>
                       )}
                     </div>
-                  )}
-                </article>
-              );
-            })}
-          </div>
 
-          {filteredVocab.length > displayLimit && (
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-6 pb-2">
-              <button
-                type="button"
-                onClick={() => setDisplayLimit((prev) => prev + 60)}
-                className="px-6 py-3 rounded-2xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs transition-all shadow-sm cursor-pointer"
-              >
-                {locale === 'en'
-                  ? `Load More (+60 Words) — Showing ${displayedVocab.length} of ${filteredVocab.length}`
-                  : `Muat Lebih Banyak (+60 Kosakata) — Menampilkan ${displayedVocab.length} dari ${filteredVocab.length}`}
-              </button>
-              <button
-                type="button"
-                onClick={() => setDisplayLimit(filteredVocab.length)}
-                className="px-5 py-3 rounded-2xl bg-white border border-slate-200 hover:bg-slate-50 text-slate-700 font-bold text-xs transition-all shadow-xs cursor-pointer"
-              >
-                {locale === 'en'
-                  ? `Show All ${filteredVocab.length} Words`
-                  : `Tampilkan Semua ${filteredVocab.length} Kata`}
-              </button>
+                    {/* Example Sentence (Visible when revealed) */}
+                    {isRevealed && item.exampleNative && (
+                      <div className="pt-2 border-t border-slate-100">
+                        <div className="p-3 rounded-xl bg-slate-50 border border-slate-200/70 space-y-1">
+                          <div className="flex items-center justify-between gap-2">
+                            <span className="text-[10px] font-bold uppercase tracking-wider text-slate-400">
+                              {locale === 'en' ? 'Sentence Example' : 'Contoh Kalimat'}
+                            </span>
+                            <button
+                              type="button"
+                              onClick={() =>
+                                playAudio(item.exampleNative, getAudioLangCode(), `ex-${item.id}`)
+                              }
+                              className="p-1 rounded-md text-slate-400 hover:text-blue-600 hover:bg-white transition-all cursor-pointer"
+                              title={locale === 'en' ? 'Listen to sentence' : 'Dengarkan contoh kalimat'}
+                            >
+                              <Volume2
+                                size={14}
+                                className={speakingWordId === `ex-${item.id}` ? 'text-blue-600' : ''}
+                              />
+                            </button>
+                          </div>
+                          <p className="text-xs md:text-sm font-bold text-slate-900 leading-relaxed">
+                            {item.exampleNative}
+                          </p>
+                          {item.examplePhonetic && (
+                            <p className="text-xs text-blue-600 font-medium">
+                              {item.examplePhonetic}
+                            </p>
+                          )}
+                          {item.exampleTranslation && (
+                            <p className="text-xs text-slate-600 pt-0.5">
+                              &ldquo;{item.exampleTranslation}&rdquo;
+                            </p>
+                          )}
+                        </div>
+                      </div>
+                    )}
+                  </article>
+                );
+              })}
             </div>
-          )}
-        </>
+
+            {filteredVocab.length > displayLimit && (
+              <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-6 pb-2">
+                <button
+                  type="button"
+                  onClick={() => setDisplayLimit((prev) => prev + 60)}
+                  className="px-6 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs transition-all shadow-sm cursor-pointer"
+                >
+                  {locale === 'en'
+                    ? `Load More (+60) — Showing ${displayedVocab.length} of ${filteredVocab.length}`
+                    : `Muat Lebih Banyak (+60) — Menampilkan ${displayedVocab.length} dari ${filteredVocab.length}`}
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setDisplayLimit(filteredVocab.length)}
+                  className="px-5 py-2.5 rounded-xl bg-white border border-slate-200 hover:bg-slate-50 text-slate-700 font-bold text-xs transition-all shadow-xs cursor-pointer"
+                >
+                  {locale === 'en'
+                    ? `Show All ${filteredVocab.length} Words`
+                    : `Tampilkan Semua ${filteredVocab.length} Kata`}
+                </button>
+              </div>
+            )}
+          </>
         )}
       </div>
     </LearningLayoutClient>

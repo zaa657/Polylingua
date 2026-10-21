@@ -92,7 +92,7 @@ export default function HomePage() {
 
             <Link
               href="/dashboard"
-              className="px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white text-xs font-semibold transition-all shadow-xs flex items-center gap-1.5"
+              className="hidden sm:flex px-4 py-2 rounded-xl bg-slate-900 hover:bg-slate-800 text-white text-xs font-semibold transition-all shadow-xs items-center gap-1.5"
             >
               <span>{t('nav_dashboard')}</span>
               <ArrowRight size={13} />
@@ -102,17 +102,16 @@ export default function HomePage() {
       </nav>
 
       {/* Hero Section */}
-      <header className="max-w-5xl mx-auto px-4 pt-16 pb-12 text-center space-y-6">
+      <header className="max-w-5xl mx-auto px-4 pt-14 pb-10 text-center space-y-5">
         <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-50 border border-blue-200 text-blue-700 text-xs font-semibold">
-          <Sparkles size={14} className="text-blue-500" />
           <span>
             {locale === 'en'
-              ? 'Structured Self-Study Multi-Language Learning Platform'
-              : 'Platform Edukasi Multi-Bahasa Pribadi & Terstruktur'}
+              ? 'Structured Self-Study Multi-Language Platform'
+              : 'Platform Belajar 11 Bahasa Terstruktur'}
           </span>
         </div>
 
-        <h1 className="text-4xl md:text-6xl font-extrabold text-slate-900 tracking-tight max-w-3xl mx-auto leading-tight">
+        <h1 className="text-3xl sm:text-4xl md:text-6xl font-extrabold text-slate-900 tracking-tight max-w-3xl mx-auto leading-tight">
           {locale === 'en' ? (
             <>
               Master <span className="underline decoration-rose-500 decoration-wavy decoration-2">11 World</span>{' '}
@@ -128,10 +127,10 @@ export default function HomePage() {
           )}
         </h1>
 
-        <p className="text-base md:text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
+        <p className="text-sm md:text-base text-slate-600 max-w-xl mx-auto leading-relaxed">
           {locale === 'en'
-            ? 'Structured curriculum integrating sentence patterns, step-by-step situational dialogues with native audio pronunciation, and active recall practice.'
-            : 'Metode pembelajaran terstruktur yang memadukan teori tata bahasa (grammar rules), dialog situasi interaktif per kalimat dengan audio pengucapan, dan latihan daya ingat aktif (active recall).'}
+            ? 'Master grammar, real-life dialogues, and vocabulary across 11 languages with native audio.'
+            : 'Kuasai tata bahasa, dialog percakapan nyata, dan kosakata dengan pelafalan audio asli.'}
         </p>
 
         <div className="pt-2 flex flex-wrap items-center justify-center gap-3">

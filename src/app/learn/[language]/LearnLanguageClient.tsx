@@ -161,9 +161,8 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
             <div className="bg-white rounded-3xl border border-slate-200/90 hover:border-amber-300 p-6 flex flex-col justify-between gap-5 shadow-xs hover:shadow-md transition-all group">
               <div className="space-y-3">
                 <div className="flex items-center justify-between gap-2">
-                  <span className="text-xs font-bold uppercase tracking-wider text-amber-800 bg-amber-50 px-2.5 py-1 rounded-lg border border-amber-200/60 flex items-center gap-1.5">
-                    <Sparkles size={14} className="text-amber-600" />
-                    <span>{t('study_abroad_opportunity')}</span>
+                  <span className="text-xs font-bold uppercase tracking-wider text-amber-800 bg-amber-50 px-2.5 py-1 rounded-lg border border-amber-200/60">
+                    {t('study_abroad_opportunity')}
                   </span>
                 </div>
                 <h3 className="text-lg font-bold text-slate-900 group-hover:text-amber-700 transition-colors">
@@ -199,9 +198,8 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
             <div className="bg-white rounded-3xl border border-slate-200/90 hover:border-emerald-300 p-6 flex flex-col justify-between gap-5 shadow-xs hover:shadow-md transition-all group">
               <div className="space-y-3">
                 <div className="flex items-center justify-between gap-2">
-                  <span className="text-xs font-bold uppercase tracking-wider text-emerald-800 bg-emerald-50 px-2.5 py-1 rounded-lg border border-emerald-200/60 flex items-center gap-1.5">
-                    <Sparkles size={14} className="text-emerald-600" />
-                    <span>{t('global_prep_badge')}</span>
+                  <span className="text-xs font-bold uppercase tracking-wider text-emerald-800 bg-emerald-50 px-2.5 py-1 rounded-lg border border-emerald-200/60">
+                    {t('global_prep_badge')}
                   </span>
                 </div>
                 <h3 className="text-lg font-bold text-slate-900 group-hover:text-emerald-700 transition-colors">
