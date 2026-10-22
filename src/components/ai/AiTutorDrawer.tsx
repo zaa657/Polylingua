@@ -79,7 +79,7 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
         {
           id: 'welcome-msg',
           role: 'model',
-          content: `Halo! Saya **Polylingua AI**, tutor bahasa pribadi Anda. 🌟\n\nSaya siap membantu Anda belajar **${langMeta.name}** (${langMeta.nativeName}):\n- 📖 Penjelasan tata bahasa & kosakata\n- ✍️ Koreksi kalimat yang Anda buat\n- 💬 Latihan percakapan & persiapan ujian\n\nAda yang ingin Anda tanyakan hari ini?`,
+          content: `Halo, saya Polylingua AI, tutor bahasa Anda.\n\nSaya siap membantu Anda belajar ${langMeta.name} (${langMeta.nativeName}):\n- Penjelasan tata bahasa dan kosakata\n- Koreksi kalimat dan struktur kalimat\n- Latihan percakapan dan persiapan ujian\n\nSilakan tuliskan pertanyaan yang ingin Anda bahas.`,
           createdAt: new Date(),
         },
       ]);
@@ -175,7 +175,7 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
       {
         id: `welcome-${Date.now()}`,
         role: 'model',
-        content: `Percakapan telah diatur ulang. Ada pertanyaan seputar tata bahasa atau kosakata **${langMeta.name}** yang ingin Anda diskusikan? ✨`,
+        content: `Percakapan telah diatur ulang. Ada pertanyaan seputar tata bahasa atau kosakata ${langMeta.name} yang ingin Anda diskusikan?`,
         createdAt: new Date(),
       },
     ]);
