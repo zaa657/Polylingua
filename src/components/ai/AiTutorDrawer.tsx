@@ -14,8 +14,6 @@ import {
   Check,
   Bot,
   User,
-  ChevronDown,
-  MessageSquare,
 } from 'lucide-react';
 
 interface AiMessage {
@@ -218,7 +216,7 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
                   <span className="text-xs">{langMeta.flag}</span>
                 </div>
                 <p className="text-[10px] text-slate-300 font-medium">
-                  {langMeta.name} • Didukung Google Gemini
+                  {langMeta.name}
                 </p>
               </div>
             </div>

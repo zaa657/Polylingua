@@ -53,8 +53,14 @@ Tugas Utama Anda:
       return NextResponse.json({ error: 'Pesan tidak boleh kosong.' }, { status: 400 });
     }
 
-    // Try available Gemini models with automatic failover
-    const candidateModels = ['gemini-flash-lite-latest', 'gemini-flash-latest', 'gemini-pro-latest'];
+    // Try available Gemini Flash models with automatic failover
+    // Note: Free tier keys have quota 0 on gemini-pro, so we prioritize the highly responsive Flash models
+    const candidateModels = [
+      'gemini-flash-latest',
+      'gemini-flash-lite-latest',
+      'gemini-2.0-flash',
+      'gemini-2.0-flash-lite',
+    ];
     let reply = '';
     let lastError: any = null;
 
