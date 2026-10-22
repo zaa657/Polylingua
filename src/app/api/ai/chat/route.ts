@@ -22,9 +22,7 @@ export async function POST(req: NextRequest) {
     }
 
     const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({
-      model: 'gemini-1.5-flash',
-      systemInstruction: `Anda adalah "Polylingua AI", asisten tutor bahasa cerdas, ramah, dan interaktif untuk platform pembelajaran Polylingua.
+    const systemPrompt = `Anda adalah "Polylingua AI", asisten tutor bahasa cerdas, ramah, dan interaktif untuk platform pembelajaran Polylingua.
 Bahasa target yang sedang dipelajari pengguna saat ini adalah: "${targetLanguage}".
 
 Tugas Utama Anda:
@@ -33,8 +31,7 @@ Tugas Utama Anda:
 3. Jika pengguna menanyakan bahasa Mandarin: SELALU sertakan karakter Hanzi, Pinyin lengkap dengan tanda nada, dan terjemahan bahasa Indonesia yang akurat.
 4. Jika pengguna menulis kalimat dalam bahasa target, periksa ketepatannya (koreksi tata bahasa, beri tahu letak kesalahannya, dan berikan versi yang lebih alami/native).
 5. Dapat diajak roleplay atau latihan percakapan santai dalam bahasa target dengan menyertakan terjemahan untuk membantu pembelajar.
-6. Berikan respon yang terstruktur, rapi menggunakan format Markdown, tidak bertele-tele, dan selalu memberi semangat kepada pembelajar.`,
-    });
+6. Berikan respon yang terstruktur, rapi menggunakan format Markdown, tidak bertele-tele, dan selalu memberi semangat kepada pembelajar.`;
 
     // Format chat history for Google Gemini
     const contents = [];
@@ -56,15 +53,38 @@ Tugas Utama Anda:
       return NextResponse.json({ error: 'Pesan tidak boleh kosong.' }, { status: 400 });
     }
 
-    const result = await model.generateContent({
-      contents,
-      generationConfig: {
-        temperature: 0.7,
-        maxOutputTokens: 1000,
-      },
-    });
+    // Try available Gemini flash models
+    const candidateModels = ['gemini-flash-latest', 'gemini-2.0-flash', 'gemini-pro-latest'];
+    let reply = '';
+    let lastError: any = null;
 
-    const reply = result.response.text();
+    for (const modelName of candidateModels) {
+      try {
+        const model = genAI.getGenerativeModel({
+          model: modelName,
+          systemInstruction: systemPrompt,
+        });
+
+        const result = await model.generateContent({
+          contents,
+          generationConfig: {
+            temperature: 0.7,
+            maxOutputTokens: 1000,
+          },
+        });
+
+        reply = result.response.text();
+        if (reply) break;
+      } catch (err) {
+        lastError = err;
+        console.warn(`Model ${modelName} failed, trying next candidate...`);
+      }
+    }
+
+    if (!reply) {
+      throw lastError || new Error('Semua model Gemini tidak dapat diakses.');
+    }
+
     return NextResponse.json({ reply, isConfigured: true });
   } catch (error: any) {
     console.error('Gemini API Error:', error);
