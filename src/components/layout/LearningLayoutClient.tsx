@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import { AppSidebar } from './AppSidebar';
 import { HeaderBar } from './HeaderBar';
 import { AppBottomNav } from './AppBottomNav';
+import { AiTutorDrawer } from '@/components/ai/AiTutorDrawer';
 import { Language } from '@/types/learning';
 
 interface LearningLayoutClientProps {
@@ -37,6 +38,9 @@ export const LearningLayoutClient: React.FC<LearningLayoutClientProps> = ({
         </main>
         {/* Native Mobile App Style Bottom Navigation Bar */}
         <AppBottomNav currentLanguage={currentLanguage} />
+
+        {/* Global Floating AI Language Tutor */}
+        <AiTutorDrawer currentLanguage={currentLanguage} />
       </div>
     </div>
   );
