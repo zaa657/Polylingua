@@ -62,7 +62,7 @@ Pedoman Peran dan Gaya Komunikasi:
       'gemini-2.0-flash',
     ];
     let reply = '';
-    let lastError: any = null;
+    let lastError: unknown = null;
 
     for (const modelName of candidateModels) {
       try {
@@ -99,11 +99,13 @@ Pedoman Peran dan Gaya Komunikasi:
       .trim();
 
     return NextResponse.json({ reply, isConfigured: true });
-  } catch (error: any) {
+  } catch (error: unknown) {
     console.error('Gemini API Error:', error);
+    const errorMessage =
+      error instanceof Error ? error.message : 'Terjadi kesalahan saat memproses permintaan AI.';
     return NextResponse.json(
       {
-        error: error?.message || 'Terjadi kesalahan saat memproses permintaan AI.',
+        error: errorMessage,
         reply:
           'Maaf, terjadi kendala teknis saat menghubungkan ke Google Gemini AI. Pastikan GEMINI_API_KEY Anda aktif dan kuota mencukupi.',
       },
