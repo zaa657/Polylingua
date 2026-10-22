@@ -114,6 +114,43 @@ const CATEGORY_NORMALIZATION_MAP: Record<string, string> = {
   'Hobi & Hiburan': 'Idiom & Budaya',
 };
 
+const LEVEL_NORMALIZATION_MAP: Record<string, string> = {
+  // Korean TOPIK normalizations (unify L3 -> Level 3, L4 -> Level 4, and L2 -> TOPIK 1):
+  'TOPIK 2 (L2)': 'TOPIK 1',
+  'TOPIK 2 (L3)': 'TOPIK 2 (Level 3)',
+  'TOPIK 2 (L4)': 'TOPIK 2 (Level 4)',
+  'TOPIK 2 (L5)': 'TOPIK 2 (Level 5)',
+  'TOPIK 2 (L6)': 'TOPIK 2 (Level 6)',
+  'TOPIK 1 (Level 1)': 'TOPIK 1',
+  'TOPIK 1 (Level 2)': 'TOPIK 1',
+
+  // English CEFR normalizations:
+  'A1 (Beginner)': 'A1',
+  'A2': 'A2 (Elementary)',
+  'B1': 'B1 (Intermediate)',
+  'B2': 'B2 (Upper-Intermediate)',
+  'C1': 'C1 (Advanced)',
+
+  // Thai normalizations:
+  'TH1': 'Tingkat 1',
+  'TH2': 'Tingkat 2',
+  'TH3': 'Tingkat 3',
+  'TH4': 'Tingkat 4',
+  'Tingkat 1 (Dasar & Nada)': 'Tingkat 1',
+  'Tingkat 2 (Percakapan Sehari-hari)': 'Tingkat 2',
+  'Tingkat 3 (Menengah)': 'Tingkat 3',
+  'Tingkat 4 (Akademik & Bisnis)': 'Tingkat 4',
+};
+
+export function normalizeVocabularyLevel(level?: string, _language?: Language): string {
+  if (!level) return 'Dasar';
+  const trimmed = level.trim();
+  if (LEVEL_NORMALIZATION_MAP[trimmed]) {
+    return LEVEL_NORMALIZATION_MAP[trimmed];
+  }
+  return trimmed;
+}
+
 export function normalizeVocabularyCategory(category?: string): string {
   if (!category) return 'Umum';
   const trimmed = category.trim();
@@ -135,11 +172,11 @@ export function getLevelRank(level: string): number {
   }
   if (normalized.includes('TOPIK')) {
     if (normalized.includes('TOPIK 1') || normalized.includes('L1')) return 1;
+    if (normalized.includes('LEVEL 3') || normalized.includes('L3')) return 3;
+    if (normalized.includes('LEVEL 4') || normalized.includes('L4')) return 4;
+    if (normalized.includes('LEVEL 5') || normalized.includes('L5')) return 5;
+    if (normalized.includes('LEVEL 6') || normalized.includes('L6')) return 6;
     if (normalized.includes('L2')) return 2;
-    if (normalized.includes('L3')) return 3;
-    if (normalized.includes('L4')) return 4;
-    if (normalized.includes('L5')) return 5;
-    if (normalized.includes('L6')) return 6;
     return 2;
   }
   if (normalized.startsWith('A1') || normalized === 'TINGKAT 1' || normalized === 'PEMULA') return 1;
@@ -234,6 +271,7 @@ export async function fetchVocabulariesForLanguage(language: Language): Promise<
     if (validRecords.length === 0) {
       const localItems = getVocabulary(language).map((v) => ({
         ...v,
+        level: normalizeVocabularyLevel(v.level, language),
         category: normalizeVocabularyCategory(v.category),
       }));
       return sortVocabularyItems(localItems);
@@ -257,6 +295,7 @@ export async function fetchVocabulariesForLanguage(language: Language): Promise<
         rawReading !== cleanPhonetic;
 
       const normalizedCat = normalizeVocabularyCategory(item.category);
+      const normalizedLvl = normalizeVocabularyLevel(item.level, language);
 
       mappedItems.push({
         id: item.id || `${language}-voc-${idx + 1}`,
@@ -266,7 +305,7 @@ export async function fetchVocabulariesForLanguage(language: Language): Promise<
         phonetic: cleanPhonetic,
         meaningId: item.meaning_id.trim(),
         partOfSpeech: (item.part_of_speech || 'noun') as VocabularyPartOfSpeech,
-        level: item.level.trim(),
+        level: normalizedLvl,
         category: normalizedCat,
         exampleNative: (item.example_native || '').trim(),
         examplePhonetic: (item.example_phonetic || '').trim(),
@@ -281,6 +320,7 @@ export async function fetchVocabulariesForLanguage(language: Language): Promise<
     console.warn('Supabase vocabulary fetch error, falling back to local dataset:', err);
     const localItems = getVocabulary(language).map((v) => ({
       ...v,
+      level: normalizeVocabularyLevel(v.level, language),
       category: normalizeVocabularyCategory(v.category),
     }));
     return sortVocabularyItems(localItems);

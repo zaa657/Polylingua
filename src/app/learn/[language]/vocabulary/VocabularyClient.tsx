@@ -11,6 +11,7 @@ import {
   fetchVocabulariesForLanguage,
   getLevelRank,
   normalizeVocabularyCategory,
+  normalizeVocabularyLevel,
   sortVocabularyItems,
 } from '@/lib/vocabularyService';
 import {
@@ -97,6 +98,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   const normalizedInitialVocab = useMemo(() => {
     const cleaned = initialVocab.map((item) => ({
       ...item,
+      level: normalizeVocabularyLevel(item.level, language),
       category: normalizeVocabularyCategory(item.category),
       reading:
         language === 'japanese' &&
