@@ -7,7 +7,12 @@ import { LANGUAGES } from '@/data/languages';
 import { LearningLayoutClient } from '@/components/layout/LearningLayoutClient';
 import { useLocale } from '@/context/LocaleContext';
 import { getVoiceLangCode, speechService } from '@/lib/speechService';
-import { fetchVocabulariesForLanguage } from '@/lib/vocabularyService';
+import {
+  fetchVocabulariesForLanguage,
+  getLevelRank,
+  normalizeVocabularyCategory,
+  sortVocabularyItems,
+} from '@/lib/vocabularyService';
 import {
   Search,
   Volume2,
@@ -38,40 +43,48 @@ const POS_COLORS: Record<VocabularyPartOfSpeech, string> = {
 const CATEGORY_TRANSLATIONS: Record<string, string> = {
   'Umum': 'General',
   'Salam & Percakapan': 'Greetings & Conversation',
+  'Keluarga & Relasi': 'Family & Relationships',
   'Keluarga & Hubungan': 'Family & Relationships',
   'Keluarga & Kerabat': 'Family & Relatives',
-  'Makanan & Minuman': 'Food & Drinks',
-  'Makanan & Kuliner': 'Food & Cuisine',
-  'Pekerjaan & Profesi': 'Work & Professions',
-  'Pekerjaan & Karir': 'Jobs & Career',
+  'Angka & Waktu': 'Numbers & Time',
   'Waktu & Hari': 'Time & Days',
   'Waktu & Tanggal': 'Time & Dates',
   'Angka & Hitungan': 'Numbers & Counting',
+  'Makanan & Minuman': 'Food & Drinks',
+  'Makanan & Kuliner': 'Food & Cuisine',
+  'Rumah & Keseharian': 'Home & Daily Life',
   'Aktivitas Sehari-hari': 'Daily Activities',
+  'Rumah & Perlengkapan': 'Home & Furniture',
+  'Pakaian & Fashion': 'Clothing & Fashion',
   'Transportasi & Perjalanan': 'Transportation & Travel',
-  'Belanja & Transaksi': 'Shopping & Transactions',
+  'Perjalanan & Wisata': 'Travel & Tourism',
+  'Tempat & Arah': 'Places & Directions',
   'Pendidikan & Kampus': 'Education & Campus',
   'Kesehatan & Tubuh': 'Health & Body',
-  'Tempat & Arah': 'Places & Directions',
-  'Cuaca & Musim': 'Weather & Seasons',
-  'Hobi & Hiburan': 'Hobbies & Leisure',
-  'Teknologi & Digital': 'Technology & Digital',
+  'Olahraga & Kebugaran': 'Sports & Fitness',
+  'Perasaan & Sifat': 'Feelings & Traits',
   'Emosi & Perasaan': 'Emotions & Feelings',
   'Sifat & Karakter': 'Traits & Personality',
-  'Alam & Lingkungan': 'Nature & Environment',
-  'Pakaian & Fashion': 'Clothing & Fashion',
-  'Rumah & Perlengkapan': 'Home & Furniture',
-  'Komunikasi & Media': 'Communication & Media',
+  'Belanja & Ekonomi': 'Shopping & Economy',
+  'Belanja & Transaksi': 'Shopping & Transactions',
   'Bisnis & Ekonomi': 'Business & Economy',
-  'Hukum & Politik': 'Law & Politics',
-  'Seni & Budaya': 'Arts & Culture',
-  'Olahraga & Kebugaran': 'Sports & Fitness',
-  'Akademik & Penelitian': 'Academia & Research',
-  'Sains & Teknologi': 'Science & Technology',
+  'Teknologi & Digital': 'Technology & Digital',
+  'Komunikasi & Media': 'Communication & Media',
   'Media Sosial & Internet': 'Social Media & Internet',
+  'Sains & Teknologi': 'Science & Technology',
+  'Pekerjaan & Karir': 'Work & Career',
+  'Pekerjaan & Profesi': 'Work & Professions',
+  'Alam & Lingkungan': 'Nature & Environment',
+  'Cuaca & Musim': 'Weather & Seasons',
   'Hewan & Fauna': 'Animals & Fauna',
   'Tumbuhan & Flora': 'Plants & Flora',
-  'Perjalanan & Wisata': 'Travel & Tourism',
+  'Penelitian & Riset': 'Academia & Research',
+  'Akademik & Penelitian': 'Academia & Research',
+  'Hukum & Keamanan': 'Law & Security',
+  'Hukum & Politik': 'Law & Politics',
+  'Idiom & Budaya': 'Idioms & Culture',
+  'Seni & Budaya': 'Arts & Culture',
+  'Hobi & Hiburan': 'Hobbies & Leisure',
 };
 
 export const VocabularyClient: React.FC<VocabularyClientProps> = ({
@@ -81,7 +94,26 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   const langMeta = LANGUAGES[language] || LANGUAGES.chinese;
   const { locale, t } = useLocale();
 
-  const [vocabList, setVocabList] = useState<VocabularyItem[]>(initialVocab);
+  const normalizedInitialVocab = useMemo(() => {
+    const cleaned = initialVocab.map((item) => ({
+      ...item,
+      category: normalizeVocabularyCategory(item.category),
+      reading:
+        language === 'japanese' &&
+        item.reading &&
+        item.reading !== item.word &&
+        item.reading !== item.phonetic
+          ? item.reading
+          : undefined,
+    }));
+    return sortVocabularyItems(cleaned);
+  }, [initialVocab, language]);
+
+  const [vocabList, setVocabList] = useState<VocabularyItem[]>(normalizedInitialVocab);
+
+  useEffect(() => {
+    setVocabList(normalizedInitialVocab);
+  }, [normalizedInitialVocab]);
 
   useEffect(() => {
     let isMounted = true;
@@ -108,16 +140,45 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
     setDisplayLimit(60);
   }, [searchQuery, selectedLevel, selectedCategory]);
 
-  // Extract distinct levels & categories
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      const lvl = params.get('level');
+      if (lvl) {
+        setSelectedLevel(lvl);
+      }
+    }
+  }, []);
+
+  // Compute word counts per level
+  const levelCounts = useMemo(() => {
+    const map: Record<string, number> = {};
+    vocabList.forEach((v) => {
+      if (v.level) {
+        map[v.level] = (map[v.level] || 0) + 1;
+      }
+    });
+    return map;
+  }, [vocabList]);
+
+  // Extract distinct levels in strict canonical curriculum order
   const allLevels = useMemo(() => {
     const set = new Set<string>();
-    vocabList.forEach((v) => set.add(v.level));
-    return Array.from(set);
+    vocabList.forEach((v) => {
+      if (v.level) set.add(v.level);
+    });
+    return Array.from(set).sort((a, b) => {
+      const rankDiff = getLevelRank(a) - getLevelRank(b);
+      if (rankDiff !== 0) return rankDiff;
+      return a.localeCompare(b);
+    });
   }, [vocabList]);
 
   const allCategories = useMemo(() => {
     const set = new Set<string>();
-    vocabList.forEach((v) => set.add(v.category));
+    vocabList.forEach((v) => {
+      if (v.category) set.add(v.category);
+    });
     return Array.from(set);
   }, [vocabList]);
 
@@ -294,9 +355,16 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
 
           {/* Level Filter Pills */}
           <div className="space-y-1.5">
-            <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
-              {t('filter_level_heading')}
-            </span>
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
+                {t('filter_level_heading')}
+              </span>
+              {language === 'chinese' && (
+                <span className="text-[10px] font-semibold text-rose-600 bg-rose-50 px-2 py-0.5 rounded border border-rose-100">
+                  Standar Silabus New HSK 3.0 (Total: 5.400 Kata)
+                </span>
+              )}
+            </div>
             <div className="flex flex-wrap items-center gap-1.5">
               <button
                 type="button"
@@ -307,22 +375,30 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
                     : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
                 }`}
               >
-                {t('all_levels')}
+                {t('all_levels')} ({vocabList.length.toLocaleString('id-ID')})
               </button>
-              {allLevels.map((lvl) => (
-                <button
-                  key={lvl}
-                  type="button"
-                  onClick={() => setSelectedLevel(selectedLevel === lvl ? null : lvl)}
-                  className={`px-3 py-1 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
-                    selectedLevel === lvl
-                      ? 'bg-blue-600 text-white shadow-xs'
-                      : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
-                  }`}
-                >
-                  {lvl}
-                </button>
-              ))}
+              {allLevels.map((lvl) => {
+                const count = levelCounts[lvl];
+                return (
+                  <button
+                    key={lvl}
+                    type="button"
+                    onClick={() => setSelectedLevel(selectedLevel === lvl ? null : lvl)}
+                    className={`px-3 py-1 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
+                      selectedLevel === lvl
+                        ? 'bg-blue-600 text-white shadow-xs'
+                        : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                    }`}
+                  >
+                    <span>{lvl}</span>
+                    {typeof count === 'number' && (
+                      <span className={`ml-1 text-[11px] opacity-80 ${selectedLevel === lvl ? 'text-blue-100' : 'text-slate-500'}`}>
+                        ({count.toLocaleString('id-ID')})
+                      </span>
+                    )}
+                  </button>
+                );
+              })}
             </div>
           </div>
 
@@ -450,7 +526,7 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
                       {/* Word Display & Audio */}
                       <div className="flex items-start justify-between gap-4">
                         <div className="space-y-1">
-                          {item.reading && (
+                          {item.reading && item.reading !== item.word && item.reading !== item.phonetic && (
                             <span className="text-xs font-semibold text-slate-400 block tracking-wide">
                               {item.reading}
                             </span>
@@ -458,9 +534,9 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
                           <h3 className="text-2xl font-extrabold text-slate-900 tracking-tight leading-snug">
                             {item.word}
                           </h3>
-                          {item.phonetic && item.phonetic !== item.reading && (
-                            <p className="text-xs text-blue-600 font-medium">
-                              /{item.phonetic}/
+                          {item.phonetic && item.phonetic !== item.word && (
+                            <p className="text-xs md:text-sm text-blue-600 font-semibold tracking-wide">
+                              {item.phonetic}
                             </p>
                           )}
                         </div>

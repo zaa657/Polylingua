@@ -18,6 +18,9 @@ import {
   Sparkles,
   Lock,
   Languages,
+  FileSpreadsheet,
+  ChevronDown,
+  ChevronUp,
 } from 'lucide-react';
 import {
   checkLessonLock,
@@ -25,6 +28,15 @@ import {
   getLanguageLevelsSummary,
 } from '@/lib/curriculumProgression';
 import { LevelProgressionTracker } from '@/components/grammar/LevelProgressionTracker';
+
+const HSK_SYLLABUS_SPECS = [
+  { level: 'HSK 1', questions: '40', time: '40 menit', fullScore: '200', passScore: '120', oldVocab: '150 kata', hsk3Cumulative: '300 kata', hsk3New: '300 kata' },
+  { level: 'HSK 2', questions: '60', time: '55 menit', fullScore: '200', passScore: '120', oldVocab: '300 kata', hsk3Cumulative: '500 kata', hsk3New: '200 kata' },
+  { level: 'HSK 3', questions: '80', time: '90 menit', fullScore: '300', passScore: '180', oldVocab: '600 kata', hsk3Cumulative: '1.000 kata', hsk3New: '500 kata' },
+  { level: 'HSK 4', questions: '100', time: '105 menit', fullScore: '300', passScore: '180', oldVocab: '1.200 kata', hsk3Cumulative: '2.000 kata', hsk3New: '1.000 kata' },
+  { level: 'HSK 5', questions: '100', time: '125 menit', fullScore: '300', passScore: '—', oldVocab: '2.500 kata', hsk3Cumulative: '3.600 kata', hsk3New: '1.600 kata' },
+  { level: 'HSK 6', questions: '101', time: '140 menit', fullScore: '300', passScore: '—', oldVocab: '5.000+ kata', hsk3Cumulative: '5.400 kata', hsk3New: '1.800 kata' },
+];
 
 interface LearnLanguageClientProps {
   language: Language;
@@ -39,7 +51,8 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
   const grammarLessons = getGrammarLessons(langKey);
   const dialogues = getDialogues(langKey);
   const vocabularies = getVocabulary(langKey);
-  const [vocabCount, setVocabCount] = useState<number>(2050);
+  const [vocabCount, setVocabCount] = useState<number>(vocabularies.length);
+  const [showHskTable, setShowHskTable] = useState(true);
 
   useEffect(() => {
     let isMounted = true;
@@ -219,6 +232,99 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
             </div>
           )}
         </div>
+
+        {/* HSK 3.0 Exam Specification & Vocabulary Syllabus (Chinese Only) */}
+        {langKey === 'chinese' && (
+          <div className="bg-white rounded-3xl border border-slate-200/90 shadow-xs overflow-hidden">
+            <button
+              type="button"
+              onClick={() => setShowHskTable(!showHskTable)}
+              className="w-full p-5 md:p-6 flex items-center justify-between gap-4 text-left hover:bg-slate-50/60 transition-colors cursor-pointer"
+            >
+              <div className="space-y-1">
+                <div className="flex items-center gap-2">
+                  <span className="text-xs font-bold uppercase tracking-wider text-rose-700 bg-rose-50 px-2.5 py-0.5 rounded-md border border-rose-100 flex items-center gap-1.5">
+                    <FileSpreadsheet size={13} />
+                    <span>Silabus New HSK 3.0</span>
+                  </span>
+                  <span className="text-xs font-medium text-slate-500">
+                    Standar Resmi Kementerian Pendidikan RRT
+                  </span>
+                </div>
+                <h3 className="text-base md:text-lg font-bold text-slate-900">
+                  Struktur Ujian & Distribusi Kosakata HSK 1 – 6 (5.400 Kata)
+                </h3>
+              </div>
+              <div className="p-2 rounded-xl bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors shrink-0">
+                {showHskTable ? <ChevronUp size={18} /> : <ChevronDown size={18} />}
+              </div>
+            </button>
+
+            {showHskTable && (
+              <div className="px-5 pb-6 pt-1 md:px-6">
+                <div className="overflow-x-auto rounded-2xl border border-slate-200/80">
+                  <table className="w-full text-xs text-left text-slate-700 border-collapse min-w-[760px]">
+                    <thead>
+                      <tr className="bg-slate-50/90 border-b border-slate-200 text-slate-600 font-bold uppercase text-[11px] tracking-wider">
+                        <th className="py-3 px-4">Level</th>
+                        <th className="py-3 px-4">Jumlah Soal</th>
+                        <th className="py-3 px-4">Waktu Tes</th>
+                        <th className="py-3 px-4">Nilai Penuh</th>
+                        <th className="py-3 px-4">Nilai Lulus</th>
+                        <th className="py-3 px-4 text-slate-500">Kosakata (Lama)</th>
+                        <th className="py-3 px-4 text-blue-700 bg-blue-50/50">Silabus HSK 3.0 (Kumulatif)</th>
+                        <th className="py-3 px-4 text-emerald-700 bg-emerald-50/50">Kata Baru di Level Ini</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-slate-100">
+                      {HSK_SYLLABUS_SPECS.map((item, idx) => (
+                        <tr
+                          key={item.level}
+                          className={`hover:bg-slate-50/80 transition-colors ${
+                            idx % 2 === 0 ? 'bg-white' : 'bg-slate-50/30'
+                          }`}
+                        >
+                          <td className="py-3 px-4 font-bold text-blue-600 underline">
+                            <Link href={`/learn/chinese/vocabulary?level=${encodeURIComponent(item.level)}`}>
+                              {item.level}
+                            </Link>
+                          </td>
+                          <td className="py-3 px-4 font-medium">{item.questions}</td>
+                          <td className="py-3 px-4 font-medium">{item.time}</td>
+                          <td className="py-3 px-4 font-medium">{item.fullScore}</td>
+                          <td className="py-3 px-4 font-semibold text-slate-800">{item.passScore}</td>
+                          <td className="py-3 px-4 text-slate-500">{item.oldVocab}</td>
+                          <td className="py-3 px-4 font-bold text-blue-700 bg-blue-50/40">
+                            {item.hsk3Cumulative}
+                          </td>
+                          <td className="py-3 px-4 font-extrabold text-emerald-700 bg-emerald-50/40">
+                            {item.hsk3New}
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                    <tfoot>
+                      <tr className="bg-slate-100/80 border-t-2 border-slate-300 font-bold text-slate-900 text-xs">
+                        <td className="py-3 px-4" colSpan={6}>
+                          Total Keseluruhan Kosakata Baru HSK 1 – 6 di Supabase:
+                        </td>
+                        <td className="py-3 px-4 text-blue-800 font-extrabold bg-blue-100/60">
+                          5.400 kata
+                        </td>
+                        <td className="py-3 px-4 text-emerald-800 font-extrabold bg-emerald-100/60">
+                          5.400 kata
+                        </td>
+                      </tr>
+                    </tfoot>
+                  </table>
+                </div>
+                <p className="text-[11px] text-slate-500 mt-2.5 italic">
+                  * Klik level (misal HSK 1) untuk langsung membuka kamus kosakata interaktif dengan audio pelafalan asli dan contoh kalimat.
+                </p>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* Section 1: Structured Grammar Units with Level Progression */}
         <div className="space-y-4">
