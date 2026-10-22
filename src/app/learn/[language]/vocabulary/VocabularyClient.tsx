@@ -109,17 +109,13 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
     return sortVocabularyItems(cleaned);
   }, [initialVocab, language]);
 
-  const [vocabList, setVocabList] = useState<VocabularyItem[]>(normalizedInitialVocab);
-
-  useEffect(() => {
-    setVocabList(normalizedInitialVocab);
-  }, [normalizedInitialVocab]);
+  const [remoteVocab, setRemoteVocab] = useState<VocabularyItem[] | null>(null);
 
   useEffect(() => {
     let isMounted = true;
-    fetchVocabulariesForLanguage(language).then((remoteVocab) => {
-      if (isMounted && remoteVocab && remoteVocab.length > 0) {
-        setVocabList(remoteVocab);
+    fetchVocabulariesForLanguage(language).then((remoteData) => {
+      if (isMounted && remoteData && remoteData.length > 0) {
+        setRemoteVocab(remoteData);
       }
     });
     return () => {
@@ -127,28 +123,30 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
     };
   }, [language]);
 
+  const vocabList = remoteVocab || normalizedInitialVocab;
+
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedLevel, setSelectedLevel] = useState<string | null>(null);
+  const [selectedLevel, setSelectedLevel] = useState<string | null>(() => {
+    if (typeof window !== 'undefined') {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('level');
+    }
+    return null;
+  });
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [isFlashcardMode, setIsFlashcardMode] = useState(false);
   const [revealedIds, setRevealedIds] = useState<Record<string, boolean>>({});
   const [copiedId, setCopiedId] = useState<string | null>(null);
   const [speakingWordId, setSpeakingWordId] = useState<string | null>(null);
   const [displayLimit, setDisplayLimit] = useState<number>(60);
+  const [prevFilterKey, setPrevFilterKey] = useState('');
 
-  useEffect(() => {
+  // Reset display limit when filter criteria change
+  const currentFilterKey = `${searchQuery}|${selectedLevel}|${selectedCategory}`;
+  if (prevFilterKey !== currentFilterKey) {
+    setPrevFilterKey(currentFilterKey);
     setDisplayLimit(60);
-  }, [searchQuery, selectedLevel, selectedCategory]);
-
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const params = new URLSearchParams(window.location.search);
-      const lvl = params.get('level');
-      if (lvl) {
-        setSelectedLevel(lvl);
-      }
-    }
-  }, []);
+  }
 
   // Compute word counts per level
   const levelCounts = useMemo(() => {

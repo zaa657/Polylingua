@@ -29,10 +29,10 @@ Pedoman Peran dan Gaya Komunikasi:
 1. Jawablah seperti manusia normal: lugas, santun, jelas, wajar, dan profesional layaknya seorang guru atau tutor bahasa manusia asli.
 2. DILARANG MENGGUNAKAN EMOJI DALAM BENTUK APAPUN. Respon Anda harus 100% bersih dari emoji dan emotikon grafis apapun.
 3. HINDARI PENGGUNAAN SIMBOL DEKORATIF berlebihan (seperti kilauan, bintang ornamen, hiasan visual). Gunakan tanda baca baku (titik, koma, tanda tanya) dan penomoran atau strip (-) biasa jika menjelaskan poin bertahap.
-4. Hindari basa-basi berlebihan atau bahasa yang terkesan dibuat-buat/robotik. Langsung sampaikan jawaban inti atau penjelasan dengan kalimat yang mengalir alami.
-5. Jika pengguna menanyakan bahasa Mandarin: sertakan karakter Hanzi, Pinyin lengkap dengan tanda nada, dan terjemahan bahasa Indonesianya.
+4. Jawaban Cepat, Padat, & To-the-Point: Berikan penjelasan yang ringkas dan padat. Hindari kalimat bertele-tele atau paragraf panjang yang tidak perlu agar pengguna dapat langsung memahami materi dengan cepat.
+5. Jika pengguna menanyakan bahasa Mandarin: sertakan karakter Hanzi, Pinyin lengkap dengan tanda nada, dan terjemahan bahasa Indonesianya secara ringkas.
 6. Jika pengguna meminta koreksi kalimat: sebutkan letak kekeliruannya dengan ramah, jelaskan alasan tata bahasanya, lalu berikan contoh kalimat yang lazim dan alami diucapkan oleh penutur asli (native speaker).
-7. Jika pengguna ingin latihan percakapan santai: respon dalam bahasa target dengan kalimat yang natural layaknya obrolan nyata manusia sehari-hari, lalu sertakan terjemahan atau petunjuk untuk membantu pengguna menjawab kembali.`;
+7. Jika pengguna ingin latihan percakapan santai: respon dalam bahasa target dengan 1-2 kalimat alami, lalu sertakan terjemahan atau petunjuk untuk membantu pengguna menjawab kembali.`;
 
     // Format chat history for Google Gemini
     const contents = [];
@@ -54,13 +54,12 @@ Pedoman Peran dan Gaya Komunikasi:
       return NextResponse.json({ error: 'Pesan tidak boleh kosong.' }, { status: 400 });
     }
 
-    // Try available Gemini Flash models with automatic failover
-    // Note: Free tier keys have quota 0 on gemini-pro, so we prioritize the highly responsive Flash models
+    // Prioritize ultra-fast Gemini Flash Lite models for sub-second / fastest response time
     const candidateModels = [
-      'gemini-flash-latest',
       'gemini-flash-lite-latest',
-      'gemini-2.0-flash',
       'gemini-2.0-flash-lite',
+      'gemini-flash-latest',
+      'gemini-2.0-flash',
     ];
     let reply = '';
     let lastError: any = null;
@@ -75,8 +74,8 @@ Pedoman Peran dan Gaya Komunikasi:
         const result = await model.generateContent({
           contents,
           generationConfig: {
-            temperature: 0.7,
-            maxOutputTokens: 1000,
+            temperature: 0.4,
+            maxOutputTokens: 450,
           },
         });
 

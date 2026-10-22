@@ -15,7 +15,6 @@ import {
   ArrowRight,
   CheckCircle2,
   Play,
-  Sparkles,
   Lock,
   Languages,
   FileSpreadsheet,

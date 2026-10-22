@@ -4,7 +4,6 @@ import React from 'react';
 import Link from 'next/link';
 import { LANGUAGE_LIST } from '@/data/languages';
 import {
-  Sparkles,
   ArrowRight,
   BookOpen,
   MessageSquare,

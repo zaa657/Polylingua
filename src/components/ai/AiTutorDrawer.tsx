@@ -20,7 +20,12 @@ interface AiMessage {
   id: string;
   role: 'user' | 'model';
   content: string;
-  createdAt: Date;
+}
+
+let globalMessageSeq = 0;
+function createMessageId(prefix: string): string {
+  globalMessageSeq += 1;
+  return `${prefix}-${globalMessageSeq}`;
 }
 
 interface AiTutorDrawerProps {
@@ -63,7 +68,13 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
 }) => {
   const langMeta = LANGUAGES[currentLanguage] || LANGUAGES.chinese;
   const [isOpen, setIsOpen] = useState(false);
-  const [messages, setMessages] = useState<AiMessage[]>([]);
+  const [messages, setMessages] = useState<AiMessage[]>(() => [
+    {
+      id: 'welcome-msg',
+      role: 'model',
+      content: `Halo, saya Polylingua AI, tutor bahasa Anda.\n\nSaya siap membantu Anda belajar ${langMeta.name} (${langMeta.nativeName}):\n- Penjelasan tata bahasa dan kosakata\n- Koreksi kalimat dan struktur kalimat\n- Latihan percakapan dan persiapan ujian\n\nSilakan tuliskan pertanyaan yang ingin Anda bahas.`,
+    },
+  ]);
   const [inputPrompt, setInputPrompt] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [copiedId, setCopiedId] = useState<string | null>(null);
@@ -71,20 +82,6 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   const quickPrompts = QUICK_PROMPTS_BY_LANG[currentLanguage] || DEFAULT_PROMPTS;
-
-  // Initialize greeting message on first open
-  useEffect(() => {
-    if (isOpen && messages.length === 0) {
-      setMessages([
-        {
-          id: 'welcome-msg',
-          role: 'model',
-          content: `Halo, saya Polylingua AI, tutor bahasa Anda.\n\nSaya siap membantu Anda belajar ${langMeta.name} (${langMeta.nativeName}):\n- Penjelasan tata bahasa dan kosakata\n- Koreksi kalimat dan struktur kalimat\n- Latihan percakapan dan persiapan ujian\n\nSilakan tuliskan pertanyaan yang ingin Anda bahas.`,
-          createdAt: new Date(),
-        },
-      ]);
-    }
-  }, [isOpen, messages.length, langMeta.name, langMeta.nativeName]);
 
   // Auto-scroll to bottom of messages
   useEffect(() => {
@@ -98,10 +95,9 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
     if (!text || isLoading) return;
 
     const userMsg: AiMessage = {
-      id: `user-${Date.now()}`,
+      id: createMessageId('user'),
       role: 'user',
       content: text,
-      createdAt: new Date(),
     };
 
     const newHistory = [...messages, userMsg];
@@ -126,18 +122,16 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
       const replyContent = data.reply || data.error || 'Maaf, tidak ada balasan dari server.';
 
       const aiMsg: AiMessage = {
-        id: `model-${Date.now()}`,
+        id: createMessageId('model'),
         role: 'model',
         content: replyContent,
-        createdAt: new Date(),
       };
       setMessages((prev) => [...prev, aiMsg]);
-    } catch (err: any) {
+    } catch {
       const errMsg: AiMessage = {
-        id: `err-${Date.now()}`,
+        id: createMessageId('err'),
         role: 'model',
         content: 'Terjadi kesalahan jaringan saat menghubungi AI Tutor. Silakan coba lagi.',
-        createdAt: new Date(),
       };
       setMessages((prev) => [...prev, errMsg]);
     } finally {
@@ -173,10 +167,9 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
     setSpeakingId(null);
     setMessages([
       {
-        id: `welcome-${Date.now()}`,
+        id: createMessageId('welcome'),
         role: 'model',
         content: `Percakapan telah diatur ulang. Ada pertanyaan seputar tata bahasa atau kosakata ${langMeta.name} yang ingin Anda diskusikan?`,
-        createdAt: new Date(),
       },
     ]);
   };
