@@ -204,6 +204,7 @@ function isValidSupabaseRecord(item: SupabaseVocabulary, language: Language): bo
   const notes = (item.notes || '').trim();
 
   if (!word || !meaning || !phonetic) return false;
+  if (word.includes('TEMP_TEST')) return false;
   if (SYNTHETIC_NUMBERED_WORD_REGEX.test(word)) return false;
   if (SYNTHETIC_MEANING_REGEX.test(meaning)) return false;
   if (notes.startsWith('Kosakata tingkat ') && notes.includes(' dalam domain ')) return false;
@@ -241,7 +242,7 @@ export async function fetchVocabularyCountForLanguage(language: Language): Promi
 export async function fetchVocabulariesForLanguage(language: Language): Promise<VocabularyItem[]> {
   try {
     const batchSize = 1000;
-    const maxBatches = 8; // Supports up to 8,000 vocabulary words per language (e.g. 5,400 HSK words)
+    const maxBatches = 15; // Supports up to 15,000 vocabulary words per language (e.g. 10,000 JLPT or 5,400 HSK words)
     const batchPromises = [];
 
     for (let b = 0; b < maxBatches; b++) {
