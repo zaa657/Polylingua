@@ -10,7 +10,6 @@ import {
   MessageSquare,
   Award,
   BarChart3,
-  Globe,
 } from 'lucide-react';
 import { Language } from '@/types/learning';
 import { useLocale } from '@/context/LocaleContext';
