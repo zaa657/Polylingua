@@ -355,16 +355,9 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
 
           {/* Level Filter Pills */}
           <div className="space-y-1.5">
-            <div className="flex items-center justify-between">
-              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
-                {t('filter_level_heading')}
-              </span>
-              {language === 'chinese' && (
-                <span className="text-[10px] font-semibold text-rose-600 bg-rose-50 px-2 py-0.5 rounded border border-rose-100">
-                  Standar Silabus New HSK 3.0 (Total: 5.400 Kata)
-                </span>
-              )}
-            </div>
+            <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider block">
+              {t('filter_level_heading')}
+            </span>
             <div className="flex flex-wrap items-center gap-1.5">
               <button
                 type="button"
