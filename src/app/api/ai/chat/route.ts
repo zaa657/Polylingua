@@ -53,8 +53,8 @@ Tugas Utama Anda:
       return NextResponse.json({ error: 'Pesan tidak boleh kosong.' }, { status: 400 });
     }
 
-    // Try available Gemini flash models
-    const candidateModels = ['gemini-flash-latest', 'gemini-2.0-flash', 'gemini-pro-latest'];
+    // Try available Gemini models with automatic failover
+    const candidateModels = ['gemini-flash-lite-latest', 'gemini-flash-latest', 'gemini-pro-latest'];
     let reply = '';
     let lastError: any = null;
 
