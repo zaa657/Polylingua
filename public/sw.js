@@ -1,5 +1,5 @@
 // Service Worker for Polylingua PWA
-const CACHE_NAME = 'polylingua-cache-v3';
+const CACHE_NAME = 'polylingua-cache-v4';
 
 const STATIC_ASSETS = [
   '/',
