@@ -97,7 +97,7 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
 
   const isQuestionAnswered = (q: QuizQuestion): boolean => {
     if (q.type === 'essay') {
-      return (essayAnswers[q.id] || '').trim().length >= 10;
+      return (essayAnswers[q.id] || '').trim().length >= 2;
     }
     if (q.type === 'sentence_reorder') {
       return (reorderedIndices[q.id] || []).length > 0;
@@ -116,11 +116,24 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
       return JSON.stringify(userOrder) === JSON.stringify(q.correctOrder);
     }
     if (q.type === 'essay') {
-      const text = (essayAnswers[q.id] || '').trim().toLowerCase();
-      if (text.length < 10) return false;
+      const normalizeText = (s: string) =>
+        s
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '')
+          .replace(/\b(aku|gua|gue)\b/g, 'saya')
+          .replace(/\b(kamu|kau|engkau)\b/g, 'anda')
+          .replace(/\b(tak|gak|nggak|enggak)\b/g, 'tidak')
+          .replace(/\b(murid|siswa|siswi)\b/g, 'pelajar')
+          .replace(/\b(pengajar|dosen)\b/g, 'guru');
+      const raw = (essayAnswers[q.id] || '').trim();
+      if (raw.length < 2) return false;
+      const normInput = normalizeText(raw);
       if (q.keywords && q.keywords.length > 0) {
-        const matches = q.keywords.filter((k) => text.includes(k.toLowerCase())).length;
-        return matches >= Math.ceil(q.keywords.length / 2);
+        const matches = q.keywords.filter(
+          (k) => normInput.includes(normalizeText(k)) || raw.toLowerCase().includes(k.toLowerCase())
+        ).length;
+        return matches >= Math.max(1, Math.ceil(q.keywords.length / 2));
       }
       return true;
     }
@@ -346,7 +359,7 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
               }`}
             >
               <PenTool size={13} />
-              <span>{locale === 'en' ? `2. Essay (${sectionCounts.essai})` : `2. Essai (${sectionCounts.essai})`}</span>
+              <span>{locale === 'en' ? `2. Translate (${sectionCounts.essai})` : `2. Terjemahkan (${sectionCounts.essai})`}</span>
             </button>
             <button
               type="button"
@@ -474,12 +487,12 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
                           {q.sectionType === 'pg'
                             ? locale === 'en' ? 'Multiple Choice' : 'Pilihan Ganda'
                             : q.sectionType === 'essai'
-                            ? locale === 'en' ? 'Essay' : 'Essai'
+                            ? locale === 'en' ? 'Translate' : 'Terjemahkan'
                             : q.sectionType === 'sambung_kata'
                             ? locale === 'en' ? 'Reorder' : 'Sambung Kata'
                             : q.sectionType === 'artikan'
                             ? locale === 'en' ? 'Translate' : 'Terjemahan'
-                            : locale === 'en' ? 'Practice' : 'Soal Bebas'}
+                            : locale === 'en' ? 'Practice' : 'Soal Evaluasi'}
                         </span>
                       )}
                     </div>
@@ -507,7 +520,9 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
                   {q.targetSentence && (
                     <div className="p-3 bg-slate-50 border border-slate-200/90 rounded-xl flex items-center justify-between gap-3">
                       <span className="text-sm md:text-base font-medium text-slate-800">
-                        {q.targetSentence}
+                        {q.type === 'sentence_reorder' && !submitted
+                          ? t('reorder_instructions')
+                          : q.targetSentence}
                       </span>
                       {q.audioVoiceLang && (
                         <AudioSpeaker
@@ -530,14 +545,14 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
                         onChange={(e) => handleEssayChange(q.id, e.target.value)}
                         placeholder={
                           locale === 'en'
-                            ? 'Type your analysis / academic essay answer here (min. 10 chars)...'
-                            : 'Ketik analisis / jawaban esai akademik Anda di sini (minimal 10 karakter)...'
+                            ? 'Type your sentence translation here...'
+                            : 'Ketik hasil terjemahan kalimat Anda di sini...'
                         }
                         className="w-full p-3 rounded-xl border border-slate-200 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 text-xs md:text-sm text-slate-800 placeholder:text-slate-400 transition-all resize-y"
                       />
                       <div className="flex justify-between text-[11px] text-slate-400">
                         <span>{t('char_length_label', { count: (essayAnswers[q.id] || '').length })}</span>
-                        {q.keywords && (
+                        {submitted && q.keywords && (
                           <span>{t('recommended_keywords', { keywords: q.keywords.join(', ') })}</span>
                         )}
                       </div>

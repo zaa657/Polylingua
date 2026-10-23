@@ -28,10 +28,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "请____学校的最新规定提交奖学金申请材料。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "按照 (ànzhào)",
-      "尽管 (jǐnguǎn)",
-      "甚至 (shènzhì)",
-      "几乎 (jīhū)"
+      "按照 (ànzhào) — sesuai dengan / menurut ketentuan",
+      "尽管 (jǐnguǎn) — meskipun / walaupun",
+      "甚至 (shènzhì) — bahkan / sampai-sampai",
+      "几乎 (jīhū) — hampir / nyaris"
     ],
     "correctAnswerIndex": 0,
     "explanation": "'按照' (ànzhào) berarti 'sesuai dengan / menurut ketentuan'. Digunakan dalam instruksi resmi administrasi universitas di Tiongkok."
@@ -44,10 +44,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "遇到突发紧急情况时，最重要的是保持____并听从导师指导。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "骄傲 (jiāo'ào)",
-      "冷静 (lěngjìng)",
-      "马虎 (mǎhu)",
-      "活泼 (huópo)"
+      "骄傲 (jiāo'ào) — sombong / bangga",
+      "冷静 (lěngjìng) — tenang / berkepala dingin",
+      "马虎 (mǎhu) — ceroboh / sembrono",
+      "活泼 (huópo) — lincah / ceria"
     ],
     "correctAnswerIndex": 1,
     "explanation": "'冷静' (lěngjìng) berarti tenang / berkepala dingin. Ketenangan adalah kompetensi kunci dalam SOP keselamatan laboratorium Tiongkok."
@@ -60,12 +60,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "经过一年的刻苦钻研，他在学术研究中____了优异的成绩。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "取得 (qǔdé)",
-      "发生 (fāshēng)",
-      "建立 (jiànlì)",
-      "造成 (zàochéng)"
+      "发生 (fāshēng) — terjadi / berlangsung",
+      "建立 (jiànlì) — membangun / mendirikan",
+      "取得 (qǔdé) — meraih / memperoleh",
+      "造成 (zàochéng) — menimbulkan / mengakibatkan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Dalam bahasa Mandarin formal, kolokasi baku untuk prestasi (成绩) adalah 取得成绩 (meraih prestasi)."
   },
   {
@@ -76,12 +76,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "这篇学术论文____篇幅不长，____论点非常鲜明有力。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "虽然...但是... (suīrán... dànshì...)",
-      "不但...而且... (búdàn... érqiě...)",
-      "只要...就... (zhǐyào... jiù...)",
-      "因为...所以... (yīnwèi... suǒyǐ...)"
+      "不但...而且... (búdàn... érqiě...) — tidak hanya... tetapi juga...",
+      "只要...就... (zhǐyào... jiù...) — asalkan... maka...",
+      "因为...所以... (yīnwèi... suǒyǐ...) — karena... maka...",
+      "虽然...但是... (suīrán... dànshì...) — meskipun... tetapi..."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "'虽然...但是...' digunakan untuk menyatakan pertentangan konsesif (meskipun... tetapi...)."
   },
   {
@@ -91,10 +91,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Saat wawancara lisan beasiswa/kampus, dosen bertanya: '你为什么选择来我们大学攻读硕士学位？'. Jawaban terstruktur dan paling santun adalah:",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "在我看来，贵校在该领域拥有顶尖的科研师资和实验平台，这非常符合我的学术研究方向。",
-      "我也不知道，是我的父母让我申请贵校的，我觉得随便读哪个学校都可以。",
-      "贵校在市中心，买东西很方便，有很多好吃的餐馆，所以我很喜欢。",
-      "因为其他大学的学费太贵了，只有贵校给的奖学金最多。"
+      "在我看来，贵校在该领域拥有顶尖的科研师资和实验平台，这非常符合我的学术研究方向。 — Menurut saya, universitas Anda memiliki pengajar riset dan fasilitas lab terbaik yang sesuai dengan arah penelitian saya.",
+      "我也不知道，是我的父母让我申请贵校的，我觉得随便读哪个学校都可以。 — Saya juga tidak tahu, orang tua saya yang menyuruh mendaftar, kuliah di mana saja sama saja.",
+      "贵校在市中心，买东西很方便，有很多好吃的餐馆，所以我很喜欢。 — Kampus Anda di pusat kota, mudah berbelanja dan banyak restoran enak.",
+      "因为其他大学的学费太贵了，只有贵校给的奖学金最多。 — Karena biaya kuliah kampus lain terlalu mahal dan hanya kampus Anda yang memberi beasiswa terbesar."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Jawaban formal akademik harus berorientasi pada reputasi ilmiah (科研师资), sarana riset (实验平台), dan kesesuaian minat studi (学术研究方向)."
@@ -106,12 +106,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Jika dalam seminar dosen berbicara terlalu cepat dan Anda belum paham, ungkapan paling santun untuk memohon pengulangan adalah:",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "教授，不好意思，刚才那部分我没太听懂，能不能请您再详细阐述一下？",
-      "你说得太快了，我听不懂，你重新说一遍吧！",
-      "算了，我不想听了，你直接把PPT发给我看吧。",
-      "你说的这个理论根本就不对，我不赞成。"
+      "你说得太快了，我听不懂，你重新说一遍吧！ — Anda bicara terlalu cepat, saya tidak mengerti, ulangi sekali lagi!",
+      "教授，不好意思，刚才那部分我没太听懂，能不能请您再详细阐述一下？ — Profesor, mohon maaf, bagian tadi saya kurang paham, bisakah Anda menjelaskannya lebih rinci?",
+      "算了，我不想听了，你直接把PPT发给我看吧。 — Sudahlah, saya malas mendengar, kirimkan saja PPT-nya kepada saya.",
+      "你说的这个理论根本就不对，我不赞成。 — Teori yang Anda katakan sama sekali salah, saya tidak setuju."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Gunakan kata santun 不好意思 (maaf), sebut gelar 教授 (Profesor), dan gunakan verba formal 请您再详细阐述一下 (mohon berkenan menguraikan kembali)."
   },
   {
@@ -121,12 +121,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pada silabus ujian tertulis tertulis: '本门课程期末考核形式为闭卷笔试'. Arti istilah '闭卷笔试' adalah:",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Ujian tertulis tutup buku (tanpa boleh membuka catatan atau buku)",
       "Ujian lisan wawancara tatap muka",
       "Ujian kelompok santai tanpa batas waktu",
+      "Ujian tertulis tutup buku (tanpa boleh membuka catatan atau buku)",
       "Ujian praktik lapangan mandiri"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "闭卷笔试 (bìjuàn bǐshì) adalah ujian tertulis tutup buku resmi (lawan dari 开卷考试 - open book)."
   },
   {
@@ -136,12 +136,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Konjungsi ragam tulis resmi (书面语) yang paling tepat untuk menambahkan poin pendukung dalam Proposal Rencana Studi (学习计划) adalah:",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "此外 (cǐwài)",
-      "还有啊 (hái yǒu a)",
-      "顺便说一下 (shùnbiàn shuō yíxià)",
-      "对啦 (duì le)"
+      "还有啊 (hái yǒu a) — satu lagi ya (ragam lisan santai)",
+      "顺便说一下 (shùnbiàn shuō yíxià) — ngomong-ngomong (ragam percakapan)",
+      "对啦 (duì le) — oh iya (ragam lisan)",
+      "此外 (cǐwài) — selain itu / di samping itu (ragam tulis formal)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "'此外' (cǐwài: selain itu) adalah konjungsi书面语 standar; hindari bahasa lisan santai seperti '还有啊' atau '对啦'."
   },
   {
@@ -152,10 +152,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "实验过程中温度控制不当，往往会____化合物发生不可逆的化学分解。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "导致 (dǎozhì)",
-      "促进 (cùjìn)",
-      "有利于 (yǒulì yú)",
-      "取得 (qǔdé)"
+      "导致 (dǎozhì) — mengakibatkan / menyebabkan (dampak negatif)",
+      "促进 (cùjìn) — mendorong / memajukan (dampak positif)",
+      "有利于 (yǒulì yú) — bermanfaat bagi / menguntungkan",
+      "取得 (qǔdé) — memperoleh / meraih (prestasi)"
     ],
     "correctAnswerIndex": 0,
     "explanation": "'导致' (dǎozhì) khusus digunakan untuk akibat negatif yang tidak diharapkan (dekomposisi senyawa yang merusak)."
@@ -167,163 +167,173 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Partikel klasik '之' (zhī) dalam kalimat ilmiah '重中之重' (zhòng zhōng zhī zhòng) berfungsi sebagai:",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Penanda kepemilikan / relasi atributif formal (setara dengan kata '的')",
       "Kata ganti penunjuk orang ketiga jamak",
+      "Penanda kepemilikan / relasi atributif formal (setara dengan kata '的')",
       "Kata seru penutup kalimat tanya",
       "Kata bilangan kelipatan sepuluh"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Partikel 文言文 '之' dalam bahasa tulis akademik modern berfungsi sebagai modifikator atributif formal yang setara dengan '的'."
   },
   {
     "id": "q-cn-es-1",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Uraikan dalam 2-3 kalimat mengenai motivasi utama Anda memilih kuliah di universitas Tiongkok dan jurusan yang Anda tuju (留学动机与专业选择):",
-    "sampleAnswer": "我选择赴华深造，是因为中国在我的专业领域（如人工智能/国际商贸/工程技术）拥有世界一流的师资力量和科研平台。通过在贵校的学习，我希望能深入掌握专业前沿知识，提升跨文化交流能力，并在毕业后为两国在科技与经贸领域的合作做出积极贡献。",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。 (Kēxué yánjiū shì yì tiáo màncháng ér jiānxīn de dàolù, zuì jìhuì de jiù shì bàntú'érfèi.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.",
     "keywords": [
-      "专业领域",
-      "科研",
-      "师资",
-      "贡献",
-      "深造"
+      "penelitian",
+      "ilmiah",
+      "jalan",
+      "panjang"
     ],
-    "explanation": "Esai motivasi studi harus mencantumkan 3 pilar: (1) keunggulan riset/kampus di Tiongkok, (2) relevansi dengan rencana karier pribadi, dan (3) komitmen kontribusi bilateral."
+    "explanation": "Kalimat akademik pola 成语 (Chéngyǔ) Kunci 1: Filosofi Ketekunan & Perjuangan Hidup: '科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。' diterjemahkan secara akurat menjadi 'Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.'."
   },
   {
     "id": "q-cn-es-2",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan rencana studi dan adaptasi akademik Anda pada semester pertama perkuliahan di Tiongkok (第一学期的学业规划):",
-    "sampleAnswer": "在入学第一学期，我的核心任务是顺利通过全中文授课的专业基础必修课，并迅速适应实验室的科研节奏。同时，我计划积极参与导师组织的学术研讨会（组会），扎实阅读本领域的核心专业文献，并强化汉语言学术写作能力。",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。 (Miànduì wèilái kěnéng chūxiàn de jiùyè jìngzhēng yālì, dàxuéshēng yīngdāng wèiyǔchóumóu, jízǎo guīhuà zhíyè dàolù.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.",
     "keywords": [
-      "必修课",
-      "研讨会",
-      "文献",
-      "适应",
-      "学术写作"
+      "menghadapi",
+      "tekanan",
+      "persaingan",
+      "kerja"
     ],
-    "explanation": "Rencana semester pertama harus menitikberatkan pada penguasaan mata kuliah wajib dasar (必修课), partisipasi seminar riset (组会), dan pembacaan literatur ilmiah (专业文献)."
+    "explanation": "Kalimat akademik pola 成语 (Chéngyǔ) Kunci 2: Strategi, Kebijaksanaan, & Kewaspadaan: '面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。' diterjemahkan secara akurat menjadi 'Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.'."
   },
   {
     "id": "q-cn-es-3",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Tuliskan format salam pembuka dan identitas diri yang sopan saat Anda pertama kali mengirim email kepada calon Dosen Pembimbing (导师):",
-    "sampleAnswer": "尊敬的[导师姓名]教授：您好！学生名叫[自己的名字]，来自印度尼西亚，本科毕业于[毕业院校]。非常冒昧给您写信，我一直拜读您在[具体研究方向]领域的学术著作，深受启发。我希望能申请成为您的硕士研究生，附上我的个人简历与研究计划，恳请您批评指正。",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "该学者毕业于北京大学物理系，其主要研究方向为量子计算。 (Gāi xuézhě bìyè yú Běijīng Dàxué wùlǐ xì, qí zhǔyào yánjiū fāngxiàng wéi liàngzǐ jìsuàn.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.",
     "keywords": [
-      "尊敬的",
-      "教授",
-      "拜读",
-      "指正",
-      "简历"
+      "ilmuwan",
+      "tersebut",
+      "lulus",
+      "departemen"
     ],
-    "explanation": "Email kepada dosen di Tiongkok wajib menggunakan kata sapaan formal 尊敬的...教授, merendahkan diri dengan kata 学生, dan diakhiri dengan permohonan bimbingan 恳请批评指正."
+    "explanation": "Kalimat akademik pola Partikel Klasik 文言虚词 dalam Mandarin Modern: 之, 其, 以, 于: '该学者毕业于北京大学物理系，其主要研究方向为量子计算。' diterjemahkan secara akurat menjadi 'Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.'."
   },
   {
     "id": "q-cn-es-4",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Mengapa dalam penulisan tugas ilmiah (论文) mahasiswa dilarang memakai bahasa lisan (口语) dan wajib menggunakan bahasa tertulis formal (书面语)? Berikan 2 contoh pasangan katanya:",
-    "sampleAnswer": "Bahasa tertulis formal (书面语) menjamin objektivitas, presisi leksikal, dan wibawa akademis sebuah karya ilmiah, sedangkan bahasa lisan (口语) bersifat santai dan ambigu. Contoh pasangan: (1) Lisan: '随便' vs Tulisan: '任意/视情况而定'; (2) Lisan: '很多' vs Tulisan: '众多/大量/不胜枚举'; (3) Lisan: '后来' vs Tulisan: '随后/进而'.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。 (Jiànyú dāngqián guójì jīnróng shìchǎng de yánjùn xíngshì, gè guó yāngháng shìbì cǎiqǔ gèngjiā jǐnshèn de huòbì zhèngcè.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.",
     "keywords": [
-      "书面语",
-      "口语",
-      "客观",
-      "精确",
-      "论文"
+      "menimbang",
+      "situasi",
+      "genting",
+      "pasar"
     ],
-    "explanation": "Perbedaan register bahasa sangat krusial; penggunaan diksi formal mencerminkan tingkat kematangan intelektual sarjana."
+    "explanation": "Kalimat akademik pola Penanda Wacana Deduktif Akademis: 鉴于 (jiànyú), 势必 (shìbì), 毋庸置疑: '鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。' diterjemahkan secara akurat menjadi 'Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.'."
   },
   {
     "id": "q-cn-es-5",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Bagaimana langkah terstruktur Anda jika mengalami kendala dalam memahami instruksi dosen atau rekan lab yang menggunakan dialek lokal atau istilah teknis tinggi?",
-    "sampleAnswer": "Saya akan: (1) Mencatat istilah teknis tersebut dan menanyakan konfirmasi definisi bakunya secara santun setelah kelas; (2) Memanfaatkan kamus istilah spesifik (专业词典) dan jurnal rujukan; (3) Berdiskusi dengan rekan lab senior (师兄/师姐) untuk meminta bimbingan teknis.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。 (Tā jīntiān zài xuéshù shàng suǒ qǔdé de fēifán chéngjiù, hěn dà chéngdù shàng yuányú tā tóngnián shíqī yǎngchéng de yuèdú xíguàn.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.",
     "keywords": [
-      "师兄",
-      "词典",
-      "请教",
-      "记录",
-      "沟通"
+      "prestasi",
+      "luar",
+      "biasa",
+      "diraihnya"
     ],
-    "explanation": "Sikap proaktif mahasiswa asing dalam bertanya secara santun dan memanfaatkan sumber daya akademik kampus sangat dihargai oleh sivitas akademika Tiongkok."
+    "explanation": "Kalimat akademik pola Pola Kausalitas Filosofis: 缘于 (yuányú), 归咎于 (guījiùyú), 取决于: '他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。' diterjemahkan secara akurat menjadi 'Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.'."
   },
   {
     "id": "q-cn-es-6",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Uraikan rencana karier Anda setelah berhasil menyelesaikan studi sarjana/pascasarjana di Tiongkok (毕业后的职业规划):",
-    "sampleAnswer": "毕业后，我计划回国进入高等院校或跨国高新技术企业，将在中国学到的先进专业技术与跨文化管理经验付诸实践。同时，我也致力于搭建中印尼两国在相关学术及产业领域的合作桥梁。",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。 (Fánshì zài běn xuéqī qǔdé HSK liù jí gāofēn de guójì liúxuéshēng, jūn yǒu zīgé shēnqǐng yōuxiù xuéyè yīděng jiǎngxuéjīn.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.",
     "keywords": [
-      "毕业",
-      "技术",
-      "实践",
-      "合作",
-      "桥梁"
+      "semua",
+      "mahasiswa",
+      "internasional",
+      "meraih"
     ],
-    "explanation": "Pemberi beasiswa CSC sangat menyukai kandidat yang memiliki visi jangka panjang untuk menjadi jembatan kerja sama antara Tiongkok dan negara asal."
+    "explanation": "Kalimat akademik pola Sintaksis Bahasa Hukum & Regulasi: 凡是...均... / 一概 (yígài): '凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。' diterjemahkan secara akurat menjadi 'Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.'."
   },
   {
     "id": "q-cn-es-7",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan pemahaman Anda mengenai integritas akademik (学术诚信) dan konsekuensi jika melakukan kecurangan plagiarisme (抄袭/剽窃) di kampus Tiongkok:",
-    "sampleAnswer": "Integritas akademik adalah fondasi kejujuran ilmiah seorang peneliti. Plagiarisme (抄袭) adalah pelanggaran berat yang dapat menyebabkan nilai ujian dibatalkan (作废), pencabutan status beasiswa (取消奖学金资格), hingga dikeluarkan secara tidak hormat dari universitas (开除学籍). Seluruh kutipan wajib mencantumkan sumber rujukan secara sah.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。 (Gùgōng Bówùyuàn zhǎnchū de lìdài qīngtóngqì yǔ gǔdài shūhuà cángpǐn, qí gōngyì jīngzhàn, lìng rén tànwéiguānzhǐ.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.",
     "keywords": [
-      "抄袭",
-      "学术诚信",
-      "处分",
-      "开除",
-      "引用"
+      "koleksi",
+      "bejana",
+      "perunggu",
+      "lukisan"
     ],
-    "explanation": "Universitas di Tiongkok menerapkan sistem uji kemiripan digital (查重系统) yang ketat; batas plagiarisme tesis umumnya di bawah 10-15%."
+    "explanation": "Kalimat akademik pola Ekspresi Derajat Ekstrem Abstrak: 无可奈何, 叹为观止, 淋漓尽致: '故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。' diterjemahkan secara akurat menjadi 'Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.'."
   },
   {
     "id": "q-cn-es-8",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Bagaimana strategi manajemen waktu Anda dalam menyeimbangkan antara tuntutan riset laboratorium yang padat dan adaptasi sosial di lingkungan baru?",
-    "sampleAnswer": "Saya akan menerapkan skala prioritas dengan metode time-blocking: mendedikasikan jam kerja efektif siang hari untuk eksperimen lab dan perkuliahan, memanfaatkan malam hari untuk tinjauan literatur mandiri, serta mengalokasikan akhir pekan untuk bersosialisasi dan mengenal budaya masyarakat lokal.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "这次学术讲座使我明白了科研诚信的重要性。 (Zhè cì xuéshù jiǎngzuò shǐ wǒ míngbai le kēyán chéngxìn de zhòngyàoxìng.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.",
     "keywords": [
-      "时间管理",
-      "优先级",
-      "实验",
-      "学习",
-      "平衡"
+      "kuliah",
+      "umum",
+      "akademik",
+      "kali"
     ],
-    "explanation": "Manajemen waktu yang disiplin adalah kunci sukses bertahan dalam budaya kerja riset Tiongkok yang berkecepatan tinggi."
+    "explanation": "Kalimat akademik pola Analisis Kesalahan Kalimat Kompleks 病句 (Bìngjù): Kerancuan Subjek & Logika: '这次学术讲座使我明白了科研诚信的重要性。' diterjemahkan secara akurat menjadi 'Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.'."
   },
   {
     "id": "q-cn-es-9",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Uraikan strategi konkret Anda dalam mencapai sertifikasi HSK 6 sebelum masa studi Anda selesai:",
-    "sampleAnswer": "Saya akan: (1) Membaca rutin artikel surat kabar People's Daily (人民日报) dan makalah jurnal bereputasi; (2) Memperkaya hafalan idiom Chengyu (成语) dan tata bahasa ragam tulis; (3) Melakukan latihan menulis ringkasan esai 400 kata (缩写) setiap minggu sesuai format resmi HSK 6.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。 (Réngōng zhìnéng jìshù de xùnměng fāzhǎn chéngrán jí dà de jiěfàng le shēngchǎnlì, rán'ér qí yǐnfā de lúnlǐ fēngxiǎn yǔ fǎlǜ zhìhòu yì bùróng hūshì.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.",
     "keywords": [
-      "HSK 6",
-      "成语",
-      "阅读",
-      "缩写",
-      "词汇"
+      "perkembangan",
+      "pesat",
+      "teknologi",
+      "kecerdasan"
     ],
-    "explanation": "Ujian HSK 6 menuntut kemampuan membaca cepat teks panjang dan menulis esai ringkasan tanpa bantuan kamus."
+    "explanation": "Kalimat akademik pola Retorika Debat Publik & Esai Kritis: 诚然...固然...然而: '人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。' diterjemahkan secara akurat menjadi 'Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.'."
   },
   {
     "id": "q-cn-es-10",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Bagaimana sikap dan tindakan profesional Anda jika draf proposal penelitian Anda dikritik tajam atau diminta revisi mayor oleh Dosen Pembimbing?",
-    "sampleAnswer": "Saya akan menyikapi kritik tersebut dengan rendah hati dan pandangan positif, karena masukan dari dosen pembimbing adalah demi kesempurnaan mutu riset. Saya akan membuat tabel daftar revisi (修改清单), memperbaiki bagian metodologi sesuai saran beliau, dan menjadwalkan konsultasi lanjutan untuk memaparkan perbaikannya.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。 (Zòngguān rénlèi lìshǐ chánghé, wéiyǒu bǐngchí kāifàng bāoróng, jiānshōubìngxù zhī xiōngjīn, bùtóng wénmíng fāng néng zài hùxué hùjiàn zhōng gòngtóng zhànfàng yìcǎi.)",
+    "audioVoiceLang": "zh-CN",
+    "sampleAnswer": "Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.",
     "keywords": [
-      "导师",
-      "修改",
-      "反馈",
-      "积极",
-      "完善"
+      "memandang",
+      "panorama",
+      "panjang",
+      "sejarah"
     ],
-    "explanation": "Di lingkungan universitas Tiongkok, revisi naskah berulang kali (修改多遍) adalah proses lumrah untuk membentuk standar kualitas ilmiah."
+    "explanation": "Kalimat akademik pola Sintaksis Tingkat Mahir Fluktuasi Wacana & Evaluasi Komprehensif HSK 6: '纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。' diterjemahkan secara akurat menjadi 'Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.'."
   },
   {
     "id": "q-cn-sk-1",
@@ -331,10 +341,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat instruksi penyerahan berkas beasiswa yang baku:",
     "scrambledWords": [
-      "申请奖学金的材料",
-      "请在截止日期前",
       "提交至",
-      "留学生办公室"
+      "留学生办公室",
+      "请在截止日期前",
+      "将申请奖学金的材料"
     ],
     "correctOrder": [
       "请在截止日期前",
@@ -352,18 +362,20 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat permohonan bimbingan skripsi formal:",
     "scrambledWords": [
-      "关于毕业论文的提纲",
-      "我想与导师",
-      "进行深入的探讨"
+      "深入的探讨",
+      "进行",
+      "就毕业论文的提纲",
+      "我想与导师"
     ],
     "correctOrder": [
       "我想与导师",
-      "关于毕业论文的提纲",
-      "进行深入的探讨"
+      "就毕业论文的提纲",
+      "进行",
+      "深入的探讨"
     ],
     "targetSentence": "我想与导师就毕业论文的提纲进行深入的探讨。",
     "audioVoiceLang": "zh-CN",
-    "explanation": "Urutan baku: Subjek (我想与导师) + Topik preposisi (关于毕业论文的提纲) + Frasa predikat (进行深入的探讨)."
+    "explanation": "Urutan baku: Subjek (我想与导师) + Frasa preposisi topik (就毕业论文的提纲) + Kata kerja formal (进行) + Objek tindakan (深入的探讨)."
   },
   {
     "id": "q-cn-sk-3",
@@ -371,10 +383,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat tata tertib keselamatan laboratorium:",
     "scrambledWords": [
-      "进入重点实验室前",
-      "所有科研人员",
+      "专业防护装备",
       "必须佩戴",
-      "专业防护装备"
+      "所有科研人员",
+      "进入重点实验室前"
     ],
     "correctOrder": [
       "进入重点实验室前",
@@ -392,13 +404,15 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi pengumuman pengisian KRS perkuliahan:",
     "scrambledWords": [
+      "尽快完成",
+      "本学期的专业选课",
       "教务系统开放之后",
-      "请同学们尽快完成",
-      "本学期的专业选课"
+      "请同学们"
     ],
     "correctOrder": [
       "教务系统开放之后",
-      "请同学们尽快完成",
+      "请同学们",
+      "尽快完成",
       "本学期的专业选课"
     ],
     "targetSentence": "教务系统开放之后，请同学们尽快完成本学期的专业选课。",
@@ -411,10 +425,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi penjelasan fasilitas Beasiswa Pemerintah Tiongkok:",
     "scrambledWords": [
-      "中国政府奖学金",
-      "为优秀留学生提供",
+      "以及生活补贴",
       "全额学费减免",
-      "以及生活补贴"
+      "为优秀留学生提供",
+      "中国政府奖学金"
     ],
     "correctOrder": [
       "中国政府奖学金",
@@ -446,16 +460,16 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "id": "q-cn-ar-2",
     "type": "translation",
     "sectionType": "artikan",
-    "prompt": "Pilihlah arti yang tepat dari istilah akademik penting: '毕业论文答辩 (Bìyè lùnwén dábbiàn)':",
+    "prompt": "Pilihlah arti yang tepat dari istilah akademik penting: '毕业论文答辩 (Bìyè lùnwén dábiàn)':",
     "targetSentence": "通过毕业论文答辩是获得硕士学位证书的前提条件。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Sidang ujian / pertahanan skripsi atau tesis kelulusan",
       "Pencetakan jilid sampul buku tugas akhir",
+      "Sidang ujian / pertahanan skripsi atau tesis kelulusan",
       "Pendaftaran wisuda akbar universitas",
       "Pembagian toga kelulusan mahasiswa"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "答辩 (dábiàn) dalam konteks perguruan tinggi bermakna sidang ujian pertahanan tesis/disertasi di hadapan dewan penguji."
   },
   {
@@ -466,12 +480,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "留学生在校期间参加勤工俭学，必须遵守国家相关出入境法规。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Bekerja paruh waktu resmi sambil kuliah (work-study program)",
       "Kegiatan olahraga bersama mahasiswa lokal",
       "Program pertukaran pelajar antar negara",
+      "Bekerja paruh waktu resmi sambil kuliah (work-study program)",
       "Membayar uang SPP secara mencicil"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "勤工俭学 adalah istilah resmi Tiongkok untuk program bekerja paruh waktu yang sah bagi mahasiswa sambil menempuh pendidikan."
   },
   {
@@ -482,12 +496,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "研究生必须在入学第二学期结束前完成学位论文的开题报告。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Laporan / seminar pembukaan proposal penelitian tugas akhir",
       "Laporan keuangan kegiatan organisasi kemahasiswaan",
       "Kartu hasil studi semester pertama",
-      "Surat izin sakit dari klinik kampus"
+      "Surat izin sakit dari klinik kampus",
+      "Laporan / seminar pembukaan proposal penelitian tugas akhir"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "开题报告 adalah tahapan seminar proposal penelitian di mana mahasiswa memaparkan latar belakang, metodologi, dan urgensi riset di hadapan dewan dosen."
   },
   {
@@ -514,12 +528,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "申请中国政府奖学金需随附两名教授或副教授出具的专家推荐信。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Surat rekomendasi akademik dari pakar / profesor",
       "Surat keterangan sehat dari rumah sakit",
+      "Surat rekomendasi akademik dari pakar / profesor",
       "Surat pernyataan bebas catatan kepolisian",
       "Surat bukti kepemilikan rekening tabungan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "推荐信 = surat rekomendasi (letter of recommendation); 专家 = pakar/guru besar."
   },
   {
@@ -530,12 +544,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "护照上的学习类居留许可延期手续，必须在到期前三十日内办理。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Perpanjangan izin tinggal (Residence Permit) pelajar asing di kepolisian (PSB)",
       "Pembuatan paspor baru di kedutaan besar",
       "Pembelian tiket pesawat pulang pergi",
+      "Perpanjangan izin tinggal (Residence Permit) pelajar asing di kepolisian (PSB)",
       "Penyewaan kamar asrama internasional"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "居留许可 = izin tinggal (Residence Permit); 延期 = perpanjangan masa berlaku."
   },
   {
@@ -546,12 +560,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "提交毕业论文终稿前，全文学术查重率不得超过百分之十。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Tingkat persentase kemiripan / uji plagiarisme karya tulis ilmiah",
       "Jumlah cetakan buku di percetakan universitas",
       "Kecepatan pengetikan naskah dalam satu menit",
-      "Bobot persentase nilai ujian akhir semester"
+      "Bobot persentase nilai ujian akhir semester",
+      "Tingkat persentase kemiripan / uji plagiarisme karya tulis ilmiah"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "查重率 (similarity index) adalah persentase kesamaan teks dengan basis data publikasi terdahulu untuk mencegah plagiarisme."
   },
   {
@@ -578,12 +592,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "获得全额奖学金的学生享有学费免除、免费住宿及每月生活津贴。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Beasiswa penuh (mencakup biaya kuliah, asrama, dan tunjangan hidup bulanan)",
       "Potongan biaya kuliah setengah semester",
+      "Beasiswa penuh (mencakup biaya kuliah, asrama, dan tunjangan hidup bulanan)",
       "Pinjaman dana pendidikan tanpa bunga",
       "Hadiah uang tunai satu kali untuk juara lomba"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "全额 (jumlah penuh) + 奖学金 (beasiswa) = beasiswa penuh (Full Scholarship)."
   },
   {
@@ -593,12 +607,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Baca teks silabus singkat berikut:\n'本门专业课考核采用综合评定制：期末闭卷考试占总成绩50%，课堂讨论及文献汇报占30%，平时出勤与课后作业占20%。旷课超过三次者，取消期末考试资格。'\n\nApa akibat yang akan diterima mahasiswa jika membolos kuliah lebih dari tiga kali?",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Didiskualifikasi dan kehilangan hak mengikuti ujian akhir semester",
       "Diberikan tugas tambahan membuat rangkuman buku",
       "Hanya dikenai pemotongan nilai sebesar lima persen",
+      "Didiskualifikasi dan kehilangan hak mengikuti ujian akhir semester",
       "Diminta pindah ke kelas perkuliahan malam"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Teks menyatakan tegas: '旷课超过三次者，取消期末考试资格' (Membolos lebih dari 3 kali akan dibatalkan hak ujian akhirnya)."
   },
   {
@@ -608,12 +622,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Baca teks aturan perpustakaan berikut:\n'读者借阅中文图书每次限借10本，借期30天；外文原版图书限借3本，借期15天。图书逾期未还者，系统将每日计收滞纳金，并冻结借书权限直至还清欠费。'\n\nBerapa batas waktu peminjaman buku asli berbahasa asing (外文原版图书)?",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "15 hari",
       "30 hari",
       "60 hari",
-      "Satu semester"
+      "Satu semester",
+      "15 hari"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Dalam teks tertulis: '外文原版图书限借3本，借期15天' (Buku berbahasa asing dibatasi 3 eksemplar dengan masa pinjam 15 hari)."
   },
   {
@@ -639,12 +653,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "各位留学生同学请注意：本周五下午两点在学术报告厅举行毕业论文开题动员大会，届时将详细讲解论文查重与答辩时间节点，请全体研二同学务必准时出席。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Pertemuan sosialisasi seminar proposal dan jadwal ujian skripsi diadakan Jumat jam 2 siang untuk mahasiswa tingkat dua",
       "Ujian skripsi dimajukan ke hari Jumat pagi di laboratorium komputer",
+      "Pertemuan sosialisasi seminar proposal dan jadwal ujian skripsi diadakan Jumat jam 2 siang untuk mahasiswa tingkat dua",
       "Perpustakaan pusat akan ditutup pada hari Jumat siang untuk renovasi",
       "Wisuda akbar mahasiswa asing akan diselenggarakan di aula utama"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Audio mengumumkan: 开题动员大会 (rapat pengarahan proposal) pada Jumat jam 14.00 di aula akademik untuk mahasiswa tahun ke-2."
   },
   {
@@ -655,12 +669,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "实验人员离开实验室前，必须逐一检查水阀、气阀、电源开关是否完全关闭，并确认门窗上锁。如遇突发漏气或电路短路，请立即按下紧急报警按钮并迅速撤离。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Kewajiban memeriksa air, gas, listrik, dan mengunci pintu sebelum meninggalkan lab",
       "Larangan membawa tas ransel dan jaket tebal ke dalam laboratorium",
       "Jadwal pergantian shift asisten peneliti laboratorium",
+      "Kewajiban memeriksa air, gas, listrik, dan mengunci pintu sebelum meninggalkan lab",
       "Petunjuk tata cara mencuci alat gelas kimia setelah percobaan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Audio menjelaskan protokol penutupan kran air, katup gas, listrik, serta evakuasi darurat laboratorium."
   },
   {
@@ -671,12 +685,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "你的在读证明和中文成绩单已经打印盖章了，请带上学生证到留学生事务大厅三号窗口领取。",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "Surat keterangan mahasiswa aktif dan transkrip nilai resmi sudah siap diambil di loket 3",
       "Pendaftaran kartu asuransi kesehatan ditolak karena berkas tidak lengkap",
       "Kartu tanda mahasiswa hilang dan harus membayar denda pembuatan ulang",
-      "Jadwal wawancara beasiswa dipindahkan ke aula administrasi"
+      "Jadwal wawancara beasiswa dipindahkan ke aula administrasi",
+      "Surat keterangan mahasiswa aktif dan transkrip nilai resmi sudah siap diambil di loket 3"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "在读证明 = surat keterangan mahasiswa aktif; 盖章 = telah dicap resmi; 领取 = silakan diambil."
   },
   {
@@ -686,10 +700,10 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Isilah bagian rumpang kalimat akademik berikut dengan konjungsi 书面语 yang tepat:\n'____传统宏观经济模型无法完全解释近期的金融市场波动，学术界____提出了多项修正假设。'",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "鉴于...因而... (Jiànyú... yīn'ér...)",
-      "不管...但也... (bùguǎn... dàn yě...)",
-      "只要...才... (zhǐyào... cái...)",
-      "虽然...所以... (suīrán... suǒyǐ...)"
+      "鉴于...因而... (Jiànyú... yīn'ér...) — mengingat... oleh karena itu...",
+      "不管...但也... (bùguǎn... dàn yě...) — tidak peduli... namun juga...",
+      "只要...才... (zhǐyào... cái...) — asalkan... barulah...",
+      "虽然...所以... (suīrán... suǒyǐ...) — meskipun... jadi..."
     ],
     "correctAnswerIndex": 0,
     "explanation": "'鉴于' (mengingat / mempertimbangkan bahwa...) berkolokasi formal dengan '因而' (oleh karenanya) dalam teks karya ilmiah."
@@ -701,12 +715,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilih kata bentukan istilah ilmiah yang tepat untuk melengkapi kalimat:\n'随着数字技术的普及，该研究项目旨在推动传统文献资源的数字化与____建设。'",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "规范化 (guīfànhuà)",
-      "规范性 (guīfànxìng)",
-      "规范度 (guīfàndù)",
-      "规范感 (guīfàngǎn)"
+      "规范性 (guīfànxìng) — sifat normatif / keteraturan",
+      "规范化 (guīfànhuà) — standardisasi / pembakuan",
+      "规范度 (guīfàndù) — tingkat keteraturan",
+      "规范感 (guīfàngǎn) — kesan keteraturan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Sufiks '化' (-isasi) menyatakan proses perubahan menuju suatu standar (数字化 dan 规范化: standardisasi)."
   },
   {
@@ -716,12 +730,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilih pasangan kata penanda topik perbandingan yang tepat:\n'____实验组的数据表现稳定，对照组的测量指标____出现了较大的离散偏差。'",
     "audioVoiceLang": "zh-CN",
     "options": [
-      "相较于...则... (Xiāng jiàoyú... zé...)",
-      "虽然...就... (suīrán... jiù...)",
-      "即使...才... (jíshǐ... cái...)",
-      "不但...反之... (búdàn... fǎnzhī...)"
+      "虽然...就... (suīrán... jiù...) — meskipun... langsung...",
+      "即使...才... (jíshǐ... cái...) — kalaupun... barulah...",
+      "相较于...则... (Xiāng jiàoyú... zé...) — dibandingkan dengan... sedangkan...",
+      "不但...反之... (búdàn... fǎnzhī...) — tidak hanya... sebaliknya..."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "'相较于 [A] ... [B] 则 ...' (Dibandingkan dengan A, maka B justru ...) adalah sintaksis komparatif standar laporan penelitian."
   },
   {
@@ -730,13 +744,13 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Analisis kalimat rusak (病句辨析): Manakah kalimat di bawah ini yang SALAH secara tata bahasa struktur 把 (bǎ)?",
     "options": [
-      "他把那个实验结果没有记录在笔记本上。",
-      "他没有把那个实验结果记录在笔记本上。",
-      "请把你的学术论文按时提交给导师。",
-      "研究人员把样本放进了超低温冰箱。"
+      "他没有把那个实验结果记录在笔记本上。 — Dia tidak mencatat hasil eksperimen itu di buku catatan.",
+      "请把你的学术论文按时提交给导师。 — Harap serahkan makalah akademik Anda tepat waktu kepada dosen pembimbing.",
+      "研究人员把样本放进了超低温冰箱。 — Peneliti memasukkan sampel ke dalam lemari pendingin suhu ultra-rendah.",
+      "他把那个实验结果没有记录在笔记本上。 — Dia hasil eksperimen itu tidak mencatat di buku catatan (negasi salah posisi)."
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Dalam kalimat 把 (bǎ), kata negasi (没有 / 不) wajib diletakkan SEBELUM kata 把, bukan setelahnya. Kalimat 1 salah fatal."
+    "correctAnswerIndex": 3,
+    "explanation": "Dalam kalimat 把 (bǎ), kata negasi (没有 / 不) wajib diletakkan SEBELUM kata 把 ('他没有把那个实验结果记录在笔记本上'), bukan sesudah objek 把."
   },
   {
     "id": "q-cn-bb-11",
@@ -744,13 +758,13 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Analisis kalimat rusak (病句辨析): Manakah kalimat berikut yang memiliki susunan sintaksis paling SEMPURNA dan bebas cacat gramatika?",
     "options": [
-      "经过导师的悉心指导，使我的学术论文质量得到了显著提高。",
-      "导师的悉心指导，使我的学术论文质量得到了显著提高。",
-      "在导师的悉心指导下，使我成功发表了高水平学术论文。",
-      "通过导师的悉心指导，从而让我掌握了正确的实验方法。"
+      "导师的悉心指导，使我的学术论文质量得到了显著提高。 — Bimbingan cermat dosen pembimbing membuat kualitas tesis akademik saya meningkat pesat (subjek utuh).",
+      "经过导师的悉心指导，使我的学术论文质量得到了显著提高。 — Melalui bimbingan cermat dosen, membuat kualitas tesis saya meningkat (kehilangan subjek).",
+      "在导师的悉心指导下，使我成功发表了高水平学术论文。 — Di bawah bimbingan cermat dosen, membuat saya berhasil menerbitkan makalah (kehilangan subjek).",
+      "通过导师的悉心指导，从而让我掌握了正确的实验方法。 — Lewat bimbingan dosen, sehingga membuat saya menguasai metode eksperimen (kehilangan subjek)."
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Kalimat 1, 3, dan 4 mengalami cacat 'kehilangan subjek utama' (滥用介词导致主语残缺: 经过...使...). Kalimat 2 adalah kalimat baku yang memiliki subjek jelas."
+    "correctAnswerIndex": 0,
+    "explanation": "Kalimat '导师的悉心指导，使我的学术论文质量得到了显著提高。' adalah kalimat baku yang memiliki subjek jelas (导师的悉心指导), sedangkan opsi lainnya kehilangan subjek akibat menggabungkan preposisi (经过/在/通过) dengan 使/让."
   },
   {
     "id": "q-cn-bb-12",
@@ -758,12 +772,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Dalam wawancara sidang skripsi, penguji mengajukan pertanyaan teoretis yang sama sekali belum pernah Anda pelajari. Sikap akademis paling etis adalah:",
     "options": [
-      "Jujur mengakui bahwa topik tersebut belum tercakup dalam batasan riset saat ini, dan berterima kasih atas masukan berharga penguji untuk riset lanjutan.",
       "Mengarang teori palsu secara percaya diri agar tidak dianggap bodoh oleh penguji.",
+      "Jujur mengakui bahwa topik tersebut belum tercakup dalam batasan riset saat ini, dan berterima kasih atas masukan berharga penguji untuk riset lanjutan.",
       "Menyalahkan dosen pembimbing karena tidak mengajarkan materi tersebut saat bimbingan.",
       "Diam seribu bahasa dan menatap lantai selama lima menit."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Kejujuran intelektual dan sikap terbuka terhadap batasan riset (局限性) adalah etika ilmiah universal yang sangat dihormati."
   },
   {
@@ -772,12 +786,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Jika seorang dosen memiliki gelar fungsional Profesor (教授) sekaligus menjabat sebagai Dekan Fakultas (院长), cara menyapa lisan yang paling lazim dan santun adalah:",
     "options": [
-      "王院长 (Wáng Yuànzhǎng) / 王教授 (Wáng Jiàoshòu)",
-      "老王 (Lǎo Wáng)",
-      "王老师的朋友 (Wáng lǎoshī de péngyǒu)",
-      "大叔 (Dàshū)"
+      "老王 (Lǎo Wáng) — Si Tua Wang (sapaan akrab sebaya, tidak sopan untuk dosen)",
+      "王老师的朋友 (Wáng lǎoshī de péngyǒu) — Temannya Guru Wang",
+      "王院长 (Wáng Yuànzhǎng) / 王教授 (Wáng Jiàoshòu) — Dekan Wang / Profesor Wang (sapaan resmi akademik)",
+      "大叔 (Dàshū) — Paman (sapaan jalanan informal)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Gunakan nama marga + jabatan administratif (王院长) atau jabatan fungsional akademik (王教授). Jangan gunakan sebutan informal."
   },
   {
@@ -786,12 +800,12 @@ export const CHINA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Idiom Chengyu (成语) '严谨治学' (Yánjǐn zhìxué) paling tepat menggambarkan profil seorang akademisi yang:",
     "options": [
-      "Menjalankan penelitian ilmiah dengan dedikasi tinggi, cermat, teliti, dan tanpa kompromi terhadap kesalahan data",
       "Suka mengkritik orang lain tanpa memberikan solusi konkret",
       "Belajar hanya saat menjelang malam sebelum ujian semester",
-      "Memiliki banyak gelar tetapi jarang masuk laboratorium"
+      "Memiliki banyak gelar tetapi jarang masuk laboratorium",
+      "Menjalankan penelitian ilmiah dengan dedikasi tinggi, cermat, teliti, dan tanpa kompromi terhadap kesalahan data"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "严谨治学 adalah semboyan integritas universitas top Tiongkok yang berarti ketat, cermat, dan berdisiplin tinggi dalam menuntut ilmu."
   },
   {
@@ -819,12 +833,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "先生、私の研究計画書を____いただけましたでしょうか。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "ご覧になって (goran ni natte)",
-      "拝見して (haiken shite)",
-      "読まれてきて (yomarete kite)",
-      "見せて (misete)"
+      "拝見して (haiken shite) — membaca / melihat (bentuk merendah Kenjougo untuk diri sendiri)",
+      "ご覧になって (goran ni natte) — membaca / melihat (bentuk hormat Sonkeigo untuk dosen)",
+      "読まれてきて (yomarete kite) — dibaca lalu datang (bentuk pasif tidak lazim)",
+      "見せて (misete) — memperlihatkan (bentuk kasual)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "ご覧になる (goran ni naru) adalah bentuk Sonkeigo (menghormati tindakan dosen). Sedangkan 拝见する (haiken suru) adalah Kenjougo (merendahkan diri sendiri)."
   },
   {
@@ -835,12 +849,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "先生の最新のご著書を昨晩、確かに____。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "拝見いたしました (haiken itashimashita)",
-      "ご覧になりました (goran ni narimashita)",
-      "お読みになられました (oyomi ni nararemashita)",
-      "見ちゃいました (micha imashita)"
+      "ご覧になりました (goran ni narimashita) — beliau telah membaca (Sonkeigo)",
+      "お読みになられました (oyomi ni nararemashita) — beliau telah membaca (hormat ganda)",
+      "拝見いたしました (haiken itashimashita) — saya telah membaca dengan hormat (Kenjougo)",
+      "見ちゃいました (micha imashita) — sudah telanjur melihat (ragam lisan santai)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "拝見いたしました adalah bentuk Kenjougo resmi yang digunakan saat merendahkan tindakan diri sendiri di hadapan profesor/atasan."
   },
   {
@@ -851,12 +865,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "履修登録の要件を正確に把握してください。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "りしゅう (rishū) & はあく (ha'aku)",
-      "ふしゅう (fushū) & はそく (hasoku)",
-      "りしょう (rishō) & ばあく (ba'aku)",
-      "はいしゅう (haishū) & はくあ (hakua)"
+      "ふしゅう (fushū — bacaan salah) & はそく (hasoku — bacaan salah)",
+      "りしょう (rishō — bacaan salah) & ばあく (ba'aku — bacaan salah)",
+      "はいしゅう (haishū — bacaan salah) & はくあ (hakua — bacaan salah)",
+      "りしゅう (rishū — pengambilan mata kuliah) & はあく (ha'aku — pemahaman situasi)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "履修 dibaca りしゅう (rishū) dan 把握 dibaca はあく (ha'aku)."
   },
   {
@@ -867,10 +881,10 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "本日の入学ガイダンス____、各研究室の専門セミナーが開始されます。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "を皮切りに (o kawakiri ni)",
-      "に際して (ni saishite)",
-      "を通じて (o tsūjite)",
-      "を抜きにして (o nuki ni shite)"
+      "を皮切りに (o kawakiri ni) — dimulai dari / diawali dengan",
+      "に際して (ni saishite) — pada kesempatan / saat menghadapi",
+      "を通じて (o tsūjite) — melalui / sepanjang",
+      "を抜きにして (o nuki ni shite) — dengan mengesampingkan / tanpa"
     ],
     "correctAnswerIndex": 0,
     "explanation": "〜を皮切りに (o kawakiri ni) berarti 'dimulai dengan... lalu disusul peristiwa-peristiwa penting lainnya'."
@@ -882,12 +896,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Dalam penulisan Proposal Riset (研究計画書) dan Skripsi (論文) di Jepang, gaya bahasa akhir kalimat yang WAJIB digunakan adalah:",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "である調 (da/de aru: 〜である, 〜だ)",
-      "です・ます調 (desu/masu)",
-      "カジュアル会話調 (kasual bahasa lisan)",
-      "方言調 (dialek kedaerahan)"
+      "です・ます調 (desu/masu) — ragam sopan umum (untuk surat/percakapan)",
+      "である調 (da/de aru: 〜である, 〜だ) — ragam tulis ilmiah objektif (wajib untuk skripsi/proposal)",
+      "カジュアル会話調 — ragam percakapan kasual sehari-hari",
+      "方言調 — ragam dialek daerah"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Seluruh karya ilmiah di universitas Jepang wajib ditulis dalam である調 (da/de aru). Dilarang keras menggunakan です・ます調."
   },
   {
@@ -898,12 +912,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "国内消費が低迷している____、海外市場における売上は急速に拡大している。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "一方で (ippō de)",
-      "したがって (shitagatte)",
-      "すなわち (sunawachi)",
-      "つまり (tsumari)"
+      "したがって (shitagatte) — oleh karena itu (konklusi kausal)",
+      "すなわち (sunawachi) — yaitu / dengan kata lain",
+      "一方で (ippō de) — di sisi lain / sebaliknya (kontras berimbang)",
+      "つまり (tsumari) — intinya / singkatnya"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "〜一方で (ippō de: di satu sisi... di sisi lain...) membandingkan dua situasi yang saling bertolak belakang secara berimbang."
   },
   {
@@ -914,12 +928,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "誠に申し訳ございませんが、締め切り後の提出は受理____。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "いたしかねます (itashikanemasu)",
-      "いたしかねません (itashikanemasen)",
-      "できませんよ (dekimasen yo)",
-      "やりません (yarimasen)"
+      "いたしかねません (itashikanemasen) — berisiko dapat terjadi (makna kemungkinan negatif)",
+      "できませんよ (dekimasen yo) — tidak bisa lho (lisan langsung)",
+      "やりません (yarimasen) — tidak mau mengerjakan (kasar/langsung)",
+      "いたしかねます (itashikanemasu) — mohon maaf, kami tidak dapat melakukannya (penolakan formal)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "〜かねます (〜kanemasu: sulit/tidak dapat kami lakukan) adalah eufemisme formal resmi dalam korespondensi administrasi Jepang."
   },
   {
@@ -929,10 +943,10 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Istilah resmi untuk 'Satuan Kredit Semester (SKS)' dalam sistem akademik Jepang adalah:",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "単位 (tan'i)",
-      "点数 (tensū)",
-      "等級 (tōkyū)",
-      "学年 (gakunen)"
+      "単位 (tan'i) — Satuan Kredit Semester (SKS)",
+      "点数 (tensū) — skor / poin nilai ujian",
+      "等級 (tōkyū) — kelas / tingkatan mutu",
+      "学年 (gakunen) — tingkat tahun ajaran"
     ],
     "correctAnswerIndex": 0,
     "explanation": "Di universitas Jepang, bobot kredit perkuliahan disebut 単位 (tan'i). Contoh: 履修登録で20単位を取得する."
@@ -945,12 +959,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "研究データの一部を故意に改ざんする行為は、研究者として無責任____。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "極まりない (kiwamarinai: sangat tidak bertanggung jawab tak ada batasnya)",
       "にすぎない (ni suginai: hanya sekadar)",
+      "極まりない (kiwamarinai: sangat tidak bertanggung jawab tak ada batasnya)",
       "ほかはない (hoka wa nai: tidak ada pilihan lain)",
       "にこしたことはない (ni koshita koto wa nai: lebih baik)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "〜極まりない (kiwamarinai) menyatakan derajat puncak kemutlakan suatu sifat ekstrem yang tidak dapat ditoleransi."
   },
   {
@@ -960,162 +974,173 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Kalimat penutup surat/email paling standar dan berbobot sopan tinggi saat meminta bantuan bimbingan kepada dosen adalah:",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます。",
-      "じゃあ、お返事待ってますね！よろしく！",
-      "早く返信してください、困っています。",
-      "それではバイバイ、また来週。"
+      "じゃあ、お返事待ってますね！よろしく！ — Kalau begitu, saya tunggu balasannya ya! Salam!",
+      "早く返信してください、困っています。 — Tolong cepat balas, saya sedang kesulitan.",
+      "ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます。 — Di tengah kesibukan Profesor, dengan segala kerendahan hati saya memohon bimbingan Anda.",
+      "それではバイバイ、また来週。 — Kalau begitu dadah, sampai minggu depan."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Frasa penutup standar Keigo: 'ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます' (Di tengah kesibukan Anda, mohon maaf merepotkan, mohon bimbingannya)."
   },
   {
     "id": "q-jp-es-1",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Tuliskan struktur salam pembuka dan identitas diri yang baku saat pertama kali mengirim email kepada calon Profesor di universitas Jepang:",
-    "sampleAnswer": "〇〇大学大学院 〇〇研究科\n〇〇 〇〇 教授\n\n突然のメールにて失礼いたします。\n私、インドネシアの〇〇大学を卒業いたしました[氏名]と申します。\n日頃より教授の[専門研究分野]に関する論文を拝読しており、深く感銘を受けております。\n本日は、来年度の大学院研究生としての受け入れについてご相談いたしたく、ご連絡差し上げました。",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。 (Kenkyū dēta o kaizan shite ronbun o happyō suru nado, kenkyūsha to shite musekinin kiwamarinai kōi de ari, tōtei yōnin dekinai.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.",
     "keywords": [
-      "大学院",
-      "教授",
-      "拝読",
-      "失礼いたします",
-      "申します"
+      "tindakan",
+      "memanipulasi",
+      "data",
+      "riset"
     ],
-    "explanation": "Email pertama wajib memuat: nama institusi & gelar profesor, salam permohonan maaf mengganggu waktu, nama lengkap pelamar, dan alasan ketertarikan pada riset beliau."
+    "explanation": "Kalimat akademik pola Derajat Ekstrem Bahasa Tulis: 〜極まりない (kiwamarinai) & 〜極まる (kiwamaru): '研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。' diterjemahkan secara akurat menjadi 'Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.'."
   },
   {
     "id": "q-jp-es-2",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Mengapa dalam Proposal Rencana Riset (研究計画書) dan Skripsi (論文) mahasiswa DILARANG menggunakan gaya 'desu/masu' dan WAJIB menggunakan 'de aru' (である調)?",
-    "sampleAnswer": "である調 (gaya Da/De aru) adalah register bahasa tulis ilmiah yang menyatakan fakta, analisis logis, dan proposisi empiris secara tegas, berjarak, dan objektif. Gaya desu/masu bersifat percakapan interpersonal yang menonjolkan hubungan sopan antarpenutur, sehingga dianggap kurang tepat untuk karya ilmiah yang menuntut ketegasan akademik.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。 (Sekai-teki ninki bando no rainichi tsuā wa, raigetsu itsuka no Tōkyō Dōmu kōen o kawakiri ni zenkoku rokudai dōmu de kaisai saremasu.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.",
     "keywords": [
-      "である調",
-      "客観的",
-      "論文",
-      "論理的",
-      "事実"
+      "kedatangan",
+      "grup",
+      "musik",
+      "terkenal"
     ],
-    "explanation": "Konsistensi penggunaan である調 mencerminkan kepatuhan terhadap tradisi akademik universitas Jepang."
+    "explanation": "Kalimat akademik pola Titik Tolak Rangkaian Peristiwa: 〜を皮切りに (o kawakiri ni): '世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。' diterjemahkan secara akurat menjadi 'Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.'."
   },
   {
     "id": "q-jp-es-3",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Sebutkan dan jelaskan secara singkat 4 bab pokok yang wajib ada dalam sebuah Kenkyuu Keikakusho (研究計画書):",
-    "sampleAnswer": "1. 研究背景・動機 (Latar Belakang & Urgensi Masalah);\n2. 研究目的・学術的問い (Tujuan Penelitian & Rumusan Masalah);\n3. 研究方法・アプローチ (Metodologi Penelitian, Pengumpulan Data, & Kerangka Teoretis);\n4. 参考文献 (Daftar Pustaka & Tinjauan Literatur Terdahulu).",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。 (Kijō no kūron dewa naku, hisaichi no kibishii jitsujō ni sokushite jinsoku na fukkō shiensaku o sakutei subeki de aru.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.",
     "keywords": [
-      "研究背景",
-      "研究目的",
-      "研究方法",
-      "参考文献"
+      "sekadar",
+      "teori",
+      "hampa",
+      "atas"
     ],
-    "explanation": "Struktur 4 bab ini adalah standar evaluasi profesor Jepang dalam menilai kelayakan metodologi calon mahasiswa pascasarjana."
+    "explanation": "Kalimat akademik pola Kesesuaian Ketat terhadap Kaidah: 〜に即して (ni sokushite): '机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。' diterjemahkan secara akurat menjadi 'Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.'."
   },
   {
     "id": "q-jp-es-4",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Uraikan motivasi Anda memilih Jepang sebagai negara tujuan riset pascasarjana Anda dalam 2-3 kalimat (日本留学の志望動機):",
-    "sampleAnswer": "日本は私の専門分野において世界最先端の実験設備と緻密な研究方法論を有しており、特に貴研究室の研究業績は国際的にも極めて高く評価されています。私は先端知見を体系的に学び、将来は両国の学術交流と産業発展に貢献したいと考えております。",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。 (Taifū no sekkin ni tomonau kōtsūmō no konran to okyakusama no anzen o kangamite, honjitsu no kōen wa yamu o ezu chūshi to sasete itadakimasu.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.",
     "keywords": [
-      "専門分野",
-      "最先端",
-      "研究室",
-      "学術交流",
-      "貢献"
+      "menimbang",
+      "kekacauan",
+      "jaringan",
+      "transportasi"
     ],
-    "explanation": "Alasan memilih Jepang harus spesifik pada keunggulan teknologi/keilmuan dan relevansi riset profesor di laboratorium sasaran."
+    "explanation": "Kalimat akademik pola Mempertimbangkan Situasi Luas: 〜を鑑みて (o kangamite): '台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。' diterjemahkan secara akurat menjadi 'Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.'."
   },
   {
     "id": "q-jp-es-5",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan apa yang dimaksud dengan 'ゼミ' (Zemi / Seminar Riset) dalam tradisi universitas Jepang dan bagaimana etiket mahasiswa saat menghadiri zemi:",
-    "sampleAnswer": "ゼミ (Zemi) adalah pertemuan berkala di mana mahasiswa mempresentasikan progres penelitian dan mendiskusikannya secara kritis bersama profesor dan rekan laboratorium. Mahasiswa wajib: (1) Hadir tepat waktu tanpa terlambat (時間厳守); (2) Membaca bahan presentasi sebelum sesi dimulai; (3) Berpartisipasi aktif dalam sesi tanya jawab ilmiah secara santun.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。 (Bokō o sudachi shakai e to habataku wakamonotachi no zento ni, sachi ōkaran koto o inotte yamimasen.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.",
     "keywords": [
-      "ゼミ",
-      "発表",
-      "時間厳守",
-      "議論",
-      "教授"
+      "tiada",
+      "henti",
+      "hentinya",
+      "memanjatkan"
     ],
-    "explanation": "Zemi adalah inti kehidupan akademis mahasiswa pascasarjana di Jepang; keaktifan dan etika seminar sangat memengaruhi evaluasi kelulusan."
+    "explanation": "Kalimat akademik pola Perasaan Emosional Mendalam: 〜てやまない (te yamanai) & 〜を禁じ得ない (o kinji enai): '母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。' diterjemahkan secara akurat menjadi 'Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.'."
   },
   {
     "id": "q-jp-es-6",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan pengertian '先行研究' (Senkō Kenkyū: Riset Terdahulu) dan mengapa profesor Jepang sangat menekankan tinjauan terhadap bagian ini:",
-    "sampleAnswer": "先行研究 adalah seluruh literatur dan penelitian ilmiah relevan yang telah diterbitkan oleh peneliti terdahulu mengenai topik yang bersangkutan. Menelaah riset terdahulu krusial untuk: (1) Menemukan celah penelitian (Research Gap); (2) Memastikan orisinalitas (新規性) riset agar tidak mengulang apa yang sudah terbukti; (3) Menghindari pelanggaran hak cipta/plagiarisme.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。 (Jiko no shōgeki de ashi o kossetsu shite shimai, hashiru koto wa oroka, hitori de jiritsu shite tachiagaru koto sae dekimasen.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.",
     "keywords": [
-      "先行研究",
-      "新規性",
-      "オリジナリティ",
-      "文献",
-      "課題"
+      "kaki",
+      "patah",
+      "akibat",
+      "benturan"
     ],
-    "explanation": "Profesor Jepang menilai keilmiahan proposal dari seberapa mendalam pelamar menguasai 先行研究 di bidangnya."
+    "explanation": "Kalimat akademik pola Mengesampingkan yang Ekstrem: 〜はおろか (wa oroka) & 〜ならいざ知らず (nara iza shirazu): '事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。' diterjemahkan secara akurat menjadi 'Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.'."
   },
   {
     "id": "q-jp-es-7",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Bagaimana pandangan budaya akademik Jepang terhadap konsep '時間厳守' (Jikan Genshu: Ketepatan Waktu), dan apa yang harus dilakukan jika Anda terpaksa terlambat karena kendala kereta api?",
-    "sampleAnswer": "Di Jepang, ketepatan waktu adalah tolak ukur integritas dan kepercayaan. Terlambat tanpa kabar dianggap pelanggaran etika berat. Jika terlambat akibat gangguan kereta api, mahasiswa wajib: (1) Mengambil surat bukti keterlambatan (遅延証明書) dari petugas stasiun; (2) Segera mengirim email/pesan singkat permohonan maaf dan estimasi tiba kepada dosen sebelum jam kuliah dimulai.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。 (Kare ga kazukazu no gyakkyō o norikoete igyō o tassei dekita no wa, futōfukutsu no shinnen o mochitsuzuketa kara ni hokanaranai.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.",
     "keywords": [
-      "時間厳守",
-      "遅延証明書",
-      "連絡",
-      "信用",
-      "謝罪"
+      "keberhasilannya",
+      "melampaui",
+      "berbagai",
+      "rintangan"
     ],
-    "explanation": "Konsep 5 menit sebelum waktu (5分前行動) berlaku mutlak di seluruh kampus Jepang."
+    "explanation": "Kalimat akademik pola Kalimat Formal Akademis: 〜にほかならない (ni hokanaranai) & 〜とされている: '彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。' diterjemahkan secara akurat menjadi 'Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.'."
   },
   {
     "id": "q-jp-es-8",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Tuliskan contoh email izin tidak dapat menghadiri kuliah seminar karena sakit mendadak sesuai standar etiket universitas Jepang:",
-    "sampleAnswer": "件名：欠席のご連絡（学籍番号〇〇 氏名〇〇）\n\n〇〇教授\n\nお世話になっております。〇〇専攻の[氏名]です。\n大変申し訳ございませんが、本日早朝より発熱があり、体調が思わしくないため、本日の講義（ゼミ）を欠席させていただきたく存じます。\n直前のご連絡となり、大変ご迷惑をおかけいたしますことを深くお詫び申し上げます。\n本日の配布資料等につきましては、次回登校時に確認いたします。\n何卒よろしくお願い申し上げます。",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。 (Dai-jishin ni yoru genshiryoku hatsudensho no jiko ni yori, sūman-nin mono jūmin ga suminareta kokyō kara no hinan seikatsu o yogi naku saremashita.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.",
     "keywords": [
-      "欠席",
-      "体調",
-      "お詫び",
-      "ご連絡",
-      "ご迷惑"
+      "akibat",
+      "kecelakaan",
+      "instalasi",
+      "pembangkit"
     ],
-    "explanation": "Email izin sakit wajib mencantumkan subjek yang jelas, alasan singkat dan sopan, permohonan maaf merepotkan, dan komitmen mengejar ketertinggalan materi."
+    "explanation": "Kalimat akademik pola Tekanan Keadaan yang Tak Terelakkan: 〜を余儀なくされる (o yogi naku sareru): '大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。' diterjemahkan secara akurat menjadi 'Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.'."
   },
   {
     "id": "q-jp-es-9",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Uraikan rencana konkret Anda dalam menuntaskan target sertifikasi JLPT N1 dalam kurun waktu satu tahun perkuliahan di Jepang:",
-    "sampleAnswer": "Saya akan: (1) Menghafalkan 2.136 Kanji Joyo dengan target 10-15 kanji baru per hari beserta kosakata gabungannya (熟語); (2) Membaca kolom opini koran seperti Asahi Shimbun (天声人語) untuk mengasah kecepatan membaca naskah abstrak; (3) Menganalisis 50 pola tata bahasa tingkat N1 setiap minggu dan menerapkannya dalam draf laporan ilmiah.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。 (Manyuarudōri no kakuitsuteki na taiō ni torawarezu, genba no jōkyō ni ōjite rinki-ōhen ni taisho suru jūnansei ga motomerareru.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.",
     "keywords": [
-      "JLPT N1",
-      "漢字",
-      "天声人語",
-      "文法",
-      "読解"
+      "tanpa",
+      "terpaku",
+      "respons",
+      "seragam"
     ],
-    "explanation": "Ujian JLPT N1 menuntut pemahaman nuansa bahasa tingkat tinggi pada teks tajuk rencana dan wacana sastra modern."
+    "explanation": "Kalimat akademik pola Yojijukugo (Idiom Empat Kanji) dalam Diskursus Resmi N1: 'マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。' diterjemahkan secara akurat menjadi 'Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.'."
   },
   {
     "id": "q-jp-es-10",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan visi Anda mengenai bagaimana hasil riset Anda di universitas Jepang dapat memberikan kontribusi nyata bagi masyarakat setelah Anda lulus:",
-    "sampleAnswer": "Saya berkomitmen menerapkan metodologi riset dan teknologi terbarukan yang saya kuasai di laboratorium Jepang untuk memecahkan tantangan strategis di tanah air (seperti transisi energi bersih, otomatisasi industri, atau ketahanan pangan). Saya juga berencana menjadi penghubung riset bersama (Joint Research) antara institusi Indonesia dan universitas Jepang.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。 (Hon-kenkyū wa, kyūsoku ni shinten suru seisei Ē-ai gijutsu no rinriteki kadai o meguri, kokunaigai no hōseido to terashiawasetsutsu, genjitsu ni sokushita gabanansu moderu no kōchiku o mezasu mono de aru.)",
+    "audioVoiceLang": "ja-JP",
+    "sampleAnswer": "Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.",
     "keywords": [
-      "研究成果",
-      "社会貢献",
-      "共同研究",
-      "架け橋",
-      "実践"
+      "penelitian",
+      "seputar",
+      "tantangan",
+      "etika"
     ],
-    "explanation": "Dewan beasiswa pemerintah Jepang (MEXT) sangat mengutamakan pelamar yang mampu menjabarkan dampak sosial-ekonomi riset pascastudi."
+    "explanation": "Kalimat akademik pola Mahakarya Kelulusan JLPT N1 & Bahasa Jepang Akademik Perguruan Tinggi (Capstone Unit): '本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。' diterjemahkan secara akurat menjadi 'Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.'."
   },
   {
     "id": "q-jp-sk-1",
@@ -1123,9 +1148,9 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat permohonan bimbingan proposal riset kepada profesor:",
     "scrambledWords": [
-      "研究計画書につきまして",
+      "賜りたく存じます",
       "教授のご指導を",
-      "賜りたく存じます"
+      "研究計画書につきまして"
     ],
     "correctOrder": [
       "研究計画書につきまして",
@@ -1142,9 +1167,9 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi pengumuman batas waktu registrasi mata kuliah (KRS):",
     "scrambledWords": [
+      "完了してください",
       "今学期の履修登録は",
-      "4月20日までに",
-      "完了してください"
+      "4月20日までに"
     ],
     "correctOrder": [
       "今学期の履修登録は",
@@ -1161,9 +1186,9 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat kesiapan presentasi seminar riset:",
     "scrambledWords": [
-      "来週のゼミにて",
+      "行う予定です",
       "先行研究の発表を",
-      "行う予定です"
+      "来週のゼミにて"
     ],
     "correctOrder": [
       "来週のゼミにて",
@@ -1180,9 +1205,9 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat persiapan pendaftaran beasiswa MEXT:",
     "scrambledWords": [
+      "準備しております",
       "文部科学省の奨学金に",
-      "応募するための書類を",
-      "準備しております"
+      "応募するための書類を"
     ],
     "correctOrder": [
       "文部科学省の奨学金に",
@@ -1199,9 +1224,9 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi instruksi penutupan laboratorium riset:",
     "scrambledWords": [
-      "実験終了後は",
+      "施錠してください",
       "必ず安全確認を行い",
-      "施錠してください"
+      "実験終了後は"
     ],
     "correctOrder": [
       "実験終了後は",
@@ -1220,12 +1245,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "教務課のウェブサイトにて今学期の履修登録を行ってください。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Pendaftaran rencana studi / pengisian KRS mata kuliah semester",
       "Pembayaran uang pangkal gedung perkuliahan",
+      "Pendaftaran rencana studi / pengisian KRS mata kuliah semester",
       "Pencetakan kartu perpustakaan universitas",
       "Permohonan cuti kuliah sementara"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "履修 (pengambilan mata kuliah) + 登録 (registrasi) = pengisian Kartu Rencana Studi (KRS) resmi."
   },
   {
@@ -1236,12 +1261,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "先行研究の批判的検討を通じて、本論文の独自性を明確にする。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Studi / penelitian terdahulu yang relevan dalam tinjauan pustaka",
       "Biaya perjalanan dinas riset luar negeri",
       "Hasil eksperimen yang gagal di laboratorium",
+      "Studi / penelitian terdahulu yang relevan dalam tinjauan pustaka",
       "Rencana jadwal wisuda kelulusan mahasiswa"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "先行 (terdahulu) + 研究 (penelitian) = literatur / penelitian terdahulu yang menjadi pijakan riset."
   },
   {
@@ -1252,12 +1277,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "引用したすべての書籍や論文を参考文献リストに記載しなければならない。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Daftar pustaka / literatur rujukan ilmiah",
       "Brosur panduan beasiswa pemerintah",
       "Catatan kuliah harian mahasiswa",
-      "Surat keterangan kelakuan baik"
+      "Surat keterangan kelakuan baik",
+      "Daftar pustaka / literatur rujukan ilmiah"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "参考文献 (sankō bunken) adalah daftar pustaka / bibliografi yang dirujuk dalam karya tulis ilmiah."
   },
   {
@@ -1284,12 +1309,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "明日の経済学講義は休講となり、来週水曜日に補講が行われます。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Kuliah ditiadakan (kosong) dan kuliah pengganti",
       "Ujian tengah semester dan ujian susulan",
+      "Kuliah ditiadakan (kosong) dan kuliah pengganti",
       "Orientasi mahasiswa baru dan temu alumni",
       "Praktikum laboratorium dan seminar proposal"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "休講 = perkuliahan ditiadakan; 補講 = kelas kuliah pengganti."
   },
   {
@@ -1300,12 +1325,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "修士論文の口頭試問を無事に通過し、修了が認定された。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Tesis magister / tugas akhir jenjang S2",
       "Skripsi sarjana muda jenjang D3",
       "Disertasi doktoral jenjang S3",
+      "Tesis magister / tugas akhir jenjang S2",
       "Laporan magang kerja lapangan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "修士 (magister / S2) + 論文 (karya tulis ilmiah) = tesis magister S2."
   },
   {
@@ -1316,12 +1341,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "大学院入試の出願書類として、出身大学の成績証明書を提出した。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Transkrip nilai akademik resmi",
       "Ijazah kelulusan sementara",
       "Surat bukti pembayaran SPP",
-      "Pas foto ukuran paspor"
+      "Pas foto ukuran paspor",
+      "Transkrip nilai akademik resmi"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "成績 (nilai hasil studi) + 証明書 (surat keterangan resmi) = transkrip nilai akademik."
   },
   {
@@ -1348,12 +1373,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "大学院修士課程の本科生に入学する前、半年間研究生として在籍した。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Mahasiswa peneliti non-gelar persiapan masuk program magister/doktoral",
       "Dosen tamu dari luar negeri",
+      "Mahasiswa peneliti non-gelar persiapan masuk program magister/doktoral",
       "Alumni yang sudah lulus wisuda",
       "Asisten administrasi kantor jurusan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "研究生 adalah mahasiswa riset non-degree yang belajar di bawah bimbingan profesor sebelum menempuh ujian seleksi masuk reguler (Insei)."
   },
   {
@@ -1364,12 +1389,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "留学生がアルバイトをする場合、入国管理局から資格外活動許可を受けなければならない。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Izin resmi bekerja paruh waktu (arubaito) di luar status visa pelajar (maksimal 28 jam/minggu)",
       "Izin mengikuti ujian surat izin mengemudi mobil",
       "Izin perjalanan liburan ke luar negeri",
+      "Izin resmi bekerja paruh waktu (arubaito) di luar status visa pelajar (maksimal 28 jam/minggu)",
       "Sertifikat kelulusan uji kecakapan bahasa"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "資格外活動許可 adalah cap izin resmi dari imigrasi yang memperbolehkan pemegang visa pelajar bekerja paruh waktu secara legal."
   },
   {
@@ -1379,12 +1404,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Baca teks pengumuman evaluasi perkuliahan berikut:\n'本講義の評価基準は、期末筆記試験60%、各回小レポート30%、出席率10%とする。なお、小レポートは締め切りを過ぎた場合、理由の如何を問わず一切採点対象としない。また、出席回数が全講義の3分の2に満たない者は自動的に不合格（D評価）となる。'\n\nBerapa batas minimal kehadiran agar mahasiswa tidak otomatis dinyatakan tidak lulus (tidak mendapat nilai D)?",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Minimal hadir 2/3 (dua pertiga) dari total sesi perkuliahan",
       "Minimal hadir 50% dari total kuliah",
       "Cukup hadir saat ujian akhir semester saja",
-      "Minimal hadir 100% tanpa pernah absen satu kali pun"
+      "Minimal hadir 100% tanpa pernah absen satu kali pun",
+      "Minimal hadir 2/3 (dua pertiga) dari total sesi perkuliahan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Teks menyatakan: '出席回数が全講義の3分の2に満たない者は自動的に不合格' (Kurang dari 2/3 kehadiran otomatis tidak lulus)."
   },
   {
@@ -1409,12 +1434,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Baca wacana ketentuan beasiswa MEXT (Pemerintah Jepang):\n'文部科学省国費外国人留学生は、毎月所定の期日までに大学留学生支援窓口にて在籍簿に自筆署名（サイン）を行わなければならない。出張・病気等の正当な理由なく署名を行わなかった月は、当月分の奨学金が支給されない。'\n\nApa yang wajib dilakukan mahasiswa setiap bulan agar uang saku beasiswa MEXT cair?",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Menandatangani buku presensi kehadiran (在籍簿) secara langsung di loket kampus",
       "Mengirim email laporan pengeluaran belanja harian ke kementerian",
+      "Menandatangani buku presensi kehadiran (在籍簿) secara langsung di loket kampus",
       "Menyerahkan salinan slip gaji pekerjaan paruh waktu",
       "Mengikuti ujian wawancara online setiap awal bulan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Penerima beasiswa MEXT wajib hadir menandatangani buku bukti keberadaan di Jepang (在籍確認のサイン) setiap bulan."
   },
   {
@@ -1425,12 +1450,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "修士論文発表会は来月十日、第一共同セミナー室にて午前九時半より開始いたします。発表時間は質疑応答を含め一人三十分です。発表者は開始十五分前までにプロジェクターの接続確認を完了してください。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Sidang tesis dimulai tanggal 10 bulan depan jam 09.30, durasi 30 menit per orang, dan wajib cek proyektor 15 menit sebelumnya",
       "Sidang tesis dibatalkan karena renovasi proyektor ruang seminar",
       "Ujian lisan dipindahkan ke ruang dosen pembimbing masing-masing",
+      "Sidang tesis dimulai tanggal 10 bulan depan jam 09.30, durasi 30 menit per orang, dan wajib cek proyektor 15 menit sebelumnya",
       "Presentasi berlangsung selama 2 jam tanpa sesi tanya jawab"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Pengumuman: tanggal 10 jam 09.30, ruang seminar 1, waktu 30 menit (termasuk tanya jawab), dan cek proyektor 15 menit sebelum mulai."
   },
   {
@@ -1441,12 +1466,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "有機溶媒および酸性試薬を使用した後は、必ずドラフトチャンバー内で適切な廃液容器に分別廃棄してください。誤って一般下水に流すことは法律により厳禁されています。",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "Kewajiban membuang limbah reagen kimia dan pelarut organik ke jerigen pemilahan khusus di dalam fume hood (lemari asam)",
       "Larangan menyalakan lampu laboratorium setelah jam lima sore",
       "Petunjuk cara mencampur asam sulfat pekat dengan air keran",
-      "Pemberitahuan pemadaman listrik berkala di gedung sains"
+      "Pemberitahuan pemadaman listrik berkala di gedung sains",
+      "Kewajiban membuang limbah reagen kimia dan pelarut organik ke jerigen pemilahan khusus di dalam fume hood (lemari asam)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Instruksi: limbah pelarut organik wajib dibuang terpisah di fume hood (ドラフトチャンバー内), dilarang dibuang ke saluran air biasa."
   },
   {
@@ -1472,12 +1497,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilihlah ungkapan tata bahasa N2 yang tepat untuk melengkapi hubungan kausalitas simultan:\n'科学技術の急速な進歩____、従来のプライバシー保護法の見直しが迫られている。'",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "に伴い (ni tomonai: seiring dengan)",
-      "をおいて (o oite)",
-      "に反して (ni hanshite)",
-      "を皮切りに (o kawakiri ni)"
+      "をおいて (o oite) — selain... tidak ada yang lain",
+      "に伴い (ni tomonai) — seiring dengan / bersamaan dengan",
+      "に反して (ni hanshite) — bertentangan dengan / berlawanan dengan",
+      "を皮切りに (o kawakiri ni) — diawali dengan / dimulai dari"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "〜に伴い (ni tomonai: seiring dengan berkembangnya...) menyatakan perubahan A yang memicu perubahan B secara simultan."
   },
   {
@@ -1487,12 +1512,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilihlah bentuk tata bahasa yang tepat untuk menyatakan ketidaksanggupan psikologis/etika seorang peneliti:\n'研究不正を目の当たりにした以上、研究者としての良心から黙認する____。'",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "わけにはいかない (wake ni wa ikanai: tidak mungkin bisa membiarkannya secara nurani)",
       "わけがない (wake ga nai: mustahil kenyataannya)",
       "に違いない (ni chigainai: pasti)",
+      "わけにはいかない (wake ni wa ikanai: tidak mungkin bisa membiarkannya secara nurani)",
       "にすぎない (ni suginai: hanya sekadar)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "〜わけにはいかない menyatakan bahwa dari segi etika moral / norma sosial, tindakan tersebut tidak boleh dilakukan."
   },
   {
@@ -1502,12 +1527,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilihlah bentuk tata bahasa yang menyatakan keharusan tanpa pilihan lain:\n'台風の接近により交通機関が全面的に麻痺したため、本日の学会発表を中止____。'",
     "audioVoiceLang": "ja-JP",
     "options": [
-      "せざるを得なかった (sezaru o enakatta: terpaksa dibatalkan tanpa pilihan lain)",
-      "するはずがなかった (suru hazu ga nakatta)",
-      "したくてたまらなかった (shitakute tamaranakatta)",
-      "することになったわけではない (suru koto ni natta wake dewa nai)"
+      "するはずがなかった (suru hazu ga nakatta) — tidak mungkin dijadwalkan terjadi",
+      "したくてたまらなかった (shitakute tamaranakatta) — sangat ingin melakukannya",
+      "することになったわけではない (suru koto ni natta wake dewa nai) — bukan berarti diputuskan demikian",
+      "せざるを得なかった (sezaru o enakatta) — terpaksa membatalkan tanpa pilihan lain"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "〜ざるを得ない (sezaru o enai) berarti 'terpaksa harus melakukan hal tersebut karena tidak ada pilihan lain yang memungkinkan'."
   },
   {
@@ -1530,12 +1555,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Dalam wawancara seleksi pascasarjana, penguji menanyakan: 'Jika hipotesis Anda ternyata keliru di tengah penelitian, apa yang akan Anda lakukan?'. Jawaban paling tepat adalah:",
     "options": [
-      "Segera meninjau kembali variabel eksperimen, menganalisis faktor penyebab deviasi data bersama profesor pembimbing, dan merumuskan pendekatan alternatif",
       "Tetap memaksakan data agar sesuai dengan hipotesis awal",
+      "Segera meninjau kembali variabel eksperimen, menganalisis faktor penyebab deviasi data bersama profesor pembimbing, dan merumuskan pendekatan alternatif",
       "Langsung menyerah dan berganti topik penelitian baru",
       "Menyalahkan alat ukur laboratorium yang sudah tua"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Sikap ilmiah yang matang mengedepankan analisis penyebab anomali data (データ偏差の要因分析) dan pemecahan masalah objektif."
   },
   {
@@ -1544,12 +1569,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Di lingkungan universitas Jepang, bagaimana cara memanggil profesor pembimbing Anda saat bertegur sapa secara langsung?",
     "options": [
-      "〇〇先生 (〇〇-sensei)",
-      "〇〇教授 (〇〇-kyōju: sebutan tertulis di surat, bukan panggilan langsung sehari-hari)",
-      "〇〇さん (〇〇-san)",
-      "あなた (Anata)"
+      "〇〇教授 (〇〇-kyōju) — gelar jabatan tertulis pada dokumen/surat resmi",
+      "〇〇さん (〇〇-san) — panggilan umum antar rekan (kurang sopan untuk profesor)",
+      "〇〇先生 (〇〇-sensei) — panggilan langsung yang sopan kepada dosen/profesor di kampus",
+      "あなた (Anata) — Anda (tidak sopan bila digunakan kepada atasan/dosen)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Dalam percakapan langsung tatap muka, seluruh dosen wajib dipanggil dengan akhiran '〜先生' (Sensei). Sebutan 〇〇教授 lazimnya untuk ragam tulis."
   },
   {
@@ -1558,12 +1583,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Makna dari peribahasa akademik empat karakter (四字熟語) '切磋琢磨' (Sessa takuma) adalah:",
     "options": [
-      "Saling mengasah kemampuan, memacu prestasi, dan belajar bersama dengan rekan demi mencapai kualitas terbaik",
       "Bekerja lembur sampai larut malam tanpa istirahat",
       "Membuang barang-barang yang sudah tidak terpakai",
-      "Berdebat keras sampai bermusuhan"
+      "Berdebat keras sampai bermusuhan",
+      "Saling mengasah kemampuan, memacu prestasi, dan belajar bersama dengan rekan demi mencapai kualitas terbaik"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "切磋琢磨 (sessa takuma) adalah ungkapan yang sangat dijunjung dalam budaya laboratorium Jepang (saling mengasah dan memotivasi antarpeneliti)."
   },
   {
@@ -1586,12 +1611,12 @@ export const JAPAN_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Berapa batas maksimal jam kerja paruh waktu (arubaito) yang diizinkan oleh hukum imigrasi Jepang bagi mahasiswa asing pemegang izin resmi selama masa aktif perkuliahan?",
     "options": [
-      "Maksimal 28 jam per minggu (dan hingga 40 jam per minggu saat libur panjang semester)",
       "Bebas tanpa batas jam asalkan nilai tidak turun",
+      "Maksimal 28 jam per minggu (dan hingga 40 jam per minggu saat libur panjang semester)",
       "Maksimal 10 jam per minggu",
       "Dilarang bekerja sama sekali dalam kondisi apapun"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Undang-undang keimigrasian Jepang menetapkan batas legal arubaito mahasiswa asing adalah 28 jam per minggu (週28時間以内)."
   }
 ];
@@ -1605,12 +1630,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "그 후보자는 뛰어난 연구 실적을 갖추었을____, 유창한 한국어 구사 능력도 겸비하고 있다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "뿐만 아니라 (ppunman anira: tidak hanya... tetapi juga...)",
       "반면에 (banmyeone: di sisi lain)",
       "바람에 (barame: akibat yang merugikan)",
+      "뿐만 아니라 (ppunman anira: tidak hanya... tetapi juga...)",
       "탓에 (tase: gara-gara)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "-(으)ㄹ 뿐만 아니라 digunakan untuk menambahkan informasi pendukung sejajar (tidak hanya A, tetapi juga B)."
   },
   {
@@ -1621,12 +1646,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "이번 학기 전공과목 ____ 기간은 다음 주 월요일부터 시작됩니다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "수강신청 (sugangsincheong [受講申請])",
-      "졸업증명 (joreopjeungmyeong [卒業證明])",
-      "입학시험 (iphaksihyeom [入學試驗])",
-      "출석체크 (chulseokchekeu)"
+      "졸업증명 (joreopjeungmyeong [卒業證明]) — surat keterangan lulus / ijazah",
+      "입학시험 (iphaksihyeom [入學試驗]) — ujian saringan masuk universitas",
+      "출석체크 (chulseokchekeu) — pemeriksaan daftar hadir kuliah",
+      "수강신청 (sugangsincheong [受講申請]) — pendaftaran rencana studi / pengisian KRS"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "수강신청 (受講申請: sugangsincheong) adalah istilah resmi untuk pendaftaran mata kuliah / KRS di universitas Korea."
   },
   {
@@ -1637,10 +1662,10 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "선행 연구에 따르면, 기후 변화가 농업 생산성에 직접적인 영향을 ____.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "미친다고 보고되었다 (michindago bogodoeeotda)",
-      "미쳐요라고 했어요 (michyeoyo-rago haesseoyo)",
-      "미치네요 (michineyo)",
-      "미칠 것 같아요 (michil geot gat-ayo)"
+      "미친다고 보고되었다 (michindago bogodoeeotda) — dilaporkan memberikan pengaruh (kutipan tidak langsung ilmiah)",
+      "미쳐요라고 했어요 (michyeoyo-rago haesseoyo) — katanya berpengaruh (ragam lisan santai)",
+      "미치네요 (michineyo) — ternyata berpengaruh ya (ekspresi lisan)",
+      "미칠 것 같아요 (michil geot gat-ayo) — sepertinya akan berpengaruh (dugaan subjektif lisan)"
     ],
     "correctAnswerIndex": 0,
     "explanation": "-(ㄴ/는)다고 보고되었다/밝혀졌다 adalah bentuk kutipan objektif pasif formal dalam makalah akademik Korea."
@@ -1652,12 +1677,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Dalam esai argumentatif TOPIK II (Soal No. 54), akhiran kalimat yang WAJIB digunakan untuk menjaga nada netral ilmiah adalah:",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "해라체 / Plain Style (-ㄴ/는다, -았다/었다, -(으)ㅁ)",
-      "해요체 (-아/어요)",
-      "하십시오체 (-습니다/십니까)",
-      "반말 (-어/야)"
+      "해요체 (-아/어요) — ragam sopan percakapan sehari-hari",
+      "해라체 / Plain Style (-ㄴ/는다, -았다/었다, -(으)ㅁ) — ragam tulis netral ilmiah (wajib untuk esai TOPIK & jurnal)",
+      "하십시오체 (-습니다/십니까) — ragam formal lisan / presentasi",
+      "반말 (-어/야) — ragam akrab tidak sopan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Esai akademik dan laporan riset Korea wajib ditulis dengan gaya netral plain style (해라체: -ㄴ/는다). Penggunaan -아요/어요 akan dikenai penalti nilai."
   },
   {
@@ -1668,12 +1693,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "통계청이 발표한 최근 조사 결과____, 1인 가구의 비율이 급증하고 있다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "에 의하면 (e uihamyeon: berdasarkan / menurut)",
-      "에 비해서 (e bihaeseo)",
-      "에 대하여 (e daehayeo)",
-      "에 불구하고 (e bulguhago)"
+      "에 비해서 (e bihaeseo) — dibandingkan dengan",
+      "에 대하여 (e daehayeo) — mengenai / tentang",
+      "에 의하면 (e uihamyeon) — berdasarkan / menurut rujukan data",
+      "에 불구하고 (e bulguhago) — terlepas dari / meskipun"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "-에 의하면 / -에 따르면 digunakan secara formal untuk menunjukkan sumber rujukan data resmi."
   },
   {
@@ -1684,12 +1709,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "유례없는 집중호우____ 산사태가 발생하여 도로가 통제되었다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "로 인해 (ro inhae: dikarenakan oleh / akibat)",
       "느라고 (neurago: karena sibuk melakukan suatu aksi)",
       "자마자 (jamaja: segera setelah)",
-      "길래 (gillae: ragam lisan santai)"
+      "길래 (gillae: ragam lisan santai)",
+      "로 인해 (ro inhae: dikarenakan oleh / akibat)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "-(으)로 인해 adalah bentuk sebab-akibat formal tertulis tingkat tinggi untuk menjelaskan fenomena alam atau sosial."
   },
   {
@@ -1715,12 +1740,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Istilah hukum dan etika akademik untuk tindakan ilegal menjiplak karya orang lain tanpa mencantumkan sumber adalah:",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "표절 (pyojeol [剽竊: plagiarisme])",
       "출판 (chulpan [出版: penerbitan])",
+      "표절 (pyojeol [剽竊: plagiarisme])",
       "열람 (yeollam [閱覽: membaca])",
       "기부 (gibu [寄附: donasi])"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "표절 (pyojeol) adalah istilah hukum akademik untuk plagiarisme di perguruan tinggi Korea."
   },
   {
@@ -1731,12 +1756,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "학문적 창의성을 ____하고, 무분별한 단순 암기식 학습은 ____해야 한다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "지향(指向) - 지양(止揚)",
-      "지양(止揚) - 지향(指向)",
-      "가속(加速) - 발전(發展)",
-      "포기(抛棄) - 장려(奬勵)"
+      "지양(止揚 — menghindari) - 지향(指向 — mengarah ke tujuan)",
+      "가속(加速 — percepatan) - 발전(發展 — perkembangan)",
+      "지향(指向 — mengarah ke tujuan positif) - 지양(止揚 — menghindari hal negatif)",
+      "포기(抛棄 — menyerah) - 장려(奬勵 — mendorong/menganjurkan)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "지향하다 (指向) = mengarah ke tujuan positif; 지양하다 (止揚) = menghindari / menghentikan kebiasaan negatif."
   },
   {
@@ -1746,163 +1771,173 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilihlah format salam penutup email yang paling santun dan baku saat mengirimkan draf proposal kepada Dosen Pembimbing (지도교수님):",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "교수님의 건강과 행복을 기원합니다. 학생 [이름] 올림 (또는 드림)",
-      "그럼 다음에 또 연락할게요. 안녕히 계세요!",
-      "빨리 답장 부탁드립니다. 수고하세요!",
-      "바이바이, 다음 주에 봐요."
+      "그럼 다음에 또 연락할게요. 안녕히 계세요! — Kalau begitu lain kali saya hubungi lagi ya. Sampai jumpa!",
+      "빨리 답장 부탁드립니다. 수고하세요! — Tolong cepat balas ya. Selamat bekerja!",
+      "바이바이, 다음 주에 봐요. — Dadah, sampai ketemu minggu depan.",
+      "교수님의 건강과 행복을 기원합니다. 학생 [이름] 올림 (또는 드림) — Saya mendoakan kesehatan dan kebahagiaan Profesor. Hormat saya, Mahasiswa [Nama]."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Salam penutup Keigo Korea: mendoakan kesehatan dosen diikuti [이름] 올림 (mempersembahkan ke atas) atau 드림."
   },
   {
     "id": "q-kr-es-1",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Tuliskan struktur salam pembuka dan perkenalan diri formal saat Anda mengirim email pertama kali kepada calon Profesor Pembimbing (지도교수님께 드리는 첫 이메일):",
-    "sampleAnswer": "존경하는 [교수님 성함] 교수님께,\n안녕하십니까? 저는 인도네시아 [출신 대학교]에서 [전공]을 전공하고 이번에 귀교 대학원 석사과정에 지원하고자 하는 [본인 이름]입니다.\n평소 교수님께서 발표하신 [구체적 연구 분야]에 관한 학술 논문을 깊이 감명 깊게 읽어왔습니다.\n바쁘신 와중에 결례를 무릅쓰고, 교수님의 연구실에서 학위과정을 이수할 수 있는 기회에 대해 상담을 여쭙고자 메일을 드립니다.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다. (Sunyeon-gan-ui pinaneun noryeok-gwa yeokgyeong kkeut-e segyejeok-in ba-io bencheogieop-eul ilgwonaen daepyo-ui seong-gong seutori-neun gojingamrae-ui jinjeonghan pyosang-ida.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).",
     "keywords": [
-      "존경하는",
-      "교수님",
-      "연구실",
-      "논문",
-      "지원"
+      "kisah",
+      "sukses",
+      "membangun",
+      "perusahaan"
     ],
-    "explanation": "Email ke profesor di Korea wajib menggunakan sapaan 존경하는... 교수님께, menyebutkan latar belakang almamater, ketertarikan pada publikasi beliau, dan permohonan bimbingan."
+    "explanation": "Kalimat akademik pola Saja-seong-eo Filosofis 1 (사자성어): 고진감래, 일석이조, 작심삼일: '수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다.' diterjemahkan secara akurat menjadi 'Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).'."
   },
   {
     "id": "q-kr-es-2",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Mengapa dalam penulisan esai TOPIK No. 54 dan makalah skripsi mahasiswa dilarang menggunakan akhiran '-아요/어요' dan wajib menggunakan gaya netral (해라체: -ㄴ/는다)?",
-    "sampleAnswer": "해라체 (-ㄴ/는다) adalah laras bahasa tulis resmi (문어체) yang menjamin objektivitas, netralitas, dan sifat impersonal dari argumen ilmiah. Akhiran -아요/어요 merupakan laras lisan percakapan interpersonal (구어체) yang berorientasi pada lawan tutur, sehingga tidak sesuai dengan konvensi penulisan akademik yang menuntut ketegasan proposisi logis.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다. (Sangdaebang-ui cheoji-reul yeokjisaji-ui jase-ro he-ariji ankgo ilbangjeok-in jujangman-eul doepurihandamyeon daehwa-ui mulkko-reul teul su eopda.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.",
     "keywords": [
-      "해라체",
-      "문어체",
-      "객관성",
-      "논리",
-      "구어체"
+      "menimbang",
+      "kondisi",
+      "mitra",
+      "bicara"
     ],
-    "explanation": "Kepatuhan terhadap gaya penulisan netral adalah parameter penilaian penting dalam rubrik esai TOPIK II."
+    "explanation": "Kalimat akademik pola Saja-seong-eo Filosofis 2 (사자성어): 설상가상, 역지사지, 유비무환: '상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다.' diterjemahkan secara akurat menjadi 'Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.'."
   },
   {
     "id": "q-kr-es-3",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Uraikan motivasi Anda memilih Korea Selatan sebagai destinasi studi pascasarjana dalam 2-3 kalimat akademik (한국 유학 지원동기):",
-    "sampleAnswer": "한국은 제가 전공하고자 하는 첨단 기술 및 학문 분야에서 세계 최고 수준의 연구 인프라와 산학 협력 시스템을 구축하고 있습니다. 특히 귀교 연구진의 탁월한 학문적 성과를 직접 전수받아, 향후 인도네시아와 한국 간의 첨단 지식 교류 및 산업 협력 증진에 핵심적인 기여를 하고 싶습니다.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다. (Geu yeon-guso-neun choecheomdan yeon-gu jangbi-reul wanbihago itgeoniwa segye jeongsanggeup seokhaktdeul-i daegeo pojinhae isseo hakgye-ui gidae-reul han mom-e batgo itda.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.",
     "keywords": [
-      "인프라",
-      "연구",
-      "산학 협력",
-      "교류",
-      "기여"
+      "samping",
+      "laboratorium",
+      "tersebut",
+      "melengkapi"
     ],
-    "explanation": "Motivasi studi harus menghubungkan keunggulan akademik Korea dengan kontribusi nyata pascakelulusan."
+    "explanation": "Kalimat akademik pola Penambahan Bertingkat & Pengandaian Ekstrem: -거니와 & -라손 치더라도: '그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다.' diterjemahkan secara akurat menjadi 'Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.'."
   },
   {
     "id": "q-kr-es-4",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan perbedaan mendasar makna antara kata '지향하다 (指向)' dan '지양하다 (止揚)' dalam konteks penulisan esai kebijakan atau pendidikan:",
-    "sampleAnswer": "지향하다 (指向) bermakna mengarahkan pandangan atau menetapkan cita-cita menuju suatu target yang positif (misal: 창의적 인재 양성을 지향하다). Sebaliknya, 지양하다 (止揚) bermakna menghindari, menolak, atau menghentikan perbuatan/kebijakan yang kurang baik (misal: 주입식 교육을 지양하다).",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다. (Pyeongso pinaneun yeonseup-gwa cheoljeohan jagigwanri-reul geochiji ankoseoya jeotorok wanbyeokhago gyeong-iroun mudae-reul seonbo-il su-neun eopda.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.",
     "keywords": [
-      "지향",
-      "지양",
-      "목표",
-      "회피",
-      "차이"
+      "tanpa",
+      "melalui",
+      "latihan",
+      "berdarah"
     ],
-    "explanation": "Dua kata berlawanan ini kerap membingungkan pembelajar asing namun menjadi tolak ukur penguasaan kosakata tingkat mahir."
+    "explanation": "Kalimat akademik pola Prasyarat Kritis & Kemustahilan Absolut: -지 않고서야 & -(으)ㄹ 턱이 없다: '평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다.' diterjemahkan secara akurat menjadi 'Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.'."
   },
   {
     "id": "q-kr-es-5",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Tuliskan langkah-langkah konkret Anda jika mengalami kendala memahami penjelasan profesor yang berbicara cepat dengan dialek regional (사투리) di ruang kuliah:",
-    "sampleAnswer": "Saya akan: (1) Merekam kuliah (dengan izin profesor terlebih dahulu) dan membuat catatan poin-poin utama; (2) Meminta bantuan catatan dari rekan mahasiswa Korea (선배/동기); (3) Mengunjungi ruang dosen pada jam konsultasi (오피스 아워 - Office Hours) untuk meminta klarifikasi terhadap konsep kunci yang belum saya pahami.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다. (Du gieop-eun sangho woncheon gisul-eul dongdeunghage gong-yuhandaneun jeonjeha-e chasedae chinhwan-gyeong jeon-gicha gongdong gaebal hyeobyak-eul chegyeolhaesseumnida.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.",
     "keywords": [
-      "오피스 아워",
-      "상담",
-      "필기",
-      "선배",
-      "녹음"
+      "kedua",
+      "korporasi",
+      "menandatangani",
+      "perjanjian"
     ],
-    "explanation": "Memanfaatkan Office Hours profesor dan bergaul dengan senior (선배) adalah tradisi adaptasi akademik yang sangat dianjurkan di Korea."
+    "explanation": "Kalimat akademik pola Premis Prasyarat & Momen Titik Balik: -ㄴ/는다는 전제하에 & -를 계기로: '두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다.' diterjemahkan secara akurat menjadi 'Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.'."
   },
   {
     "id": "q-kr-es-6",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan struktur 3 bagian esai TOPIK No. 54 yang ideal beserta fungsi masing-masing paragraf:",
-    "sampleAnswer": "1. 서론 (Pendahuluan): Memperkenalkan latar belakang isu, mendefinisikan masalah, dan memaparkan tesis utama;\n2. 본론 (Batang Tubuh): Menyajikan argumen logis, bukti pendukung, analisis sebab-akibat, serta kontra-argumen dalam 2 paragraf terstruktur;\n3. 결론 (Kesimpulan): Merangkum kembali poin-poin kunci dan mengusulkan solusi konkret atau visi masa depan.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다. (Eotteohan oe-ap-ina budanghan hoeyu-ga itdeorado sabeopbu-ui dongnipseong-gwa beopchijuui-ui wonchik-eun gyeolko heundeullyeoseoneun an doemnida.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.",
     "keywords": [
-      "서론",
-      "본론",
-      "결론",
-      "논리",
-      "해결책"
+      "kendatipun",
+      "terdapat",
+      "tekanan",
+      "eksternal"
     ],
-    "explanation": "Struktur esai 600-700 karakter TOPIK No. 54 wajib seimbang antara pembuka, pembuktian argumen, dan kesimpulan."
+    "explanation": "Kalimat akademik pola Penyangkalan Paling Mutlak: 결코 -지 않다 & 전무하다: '어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다.' diterjemahkan secara akurat menjadi 'Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.'."
   },
   {
     "id": "q-kr-es-7",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Uraikan rencana karier Anda setelah meraih gelar akademik di universitas Korea (졸업 후 진로 계획):",
-    "sampleAnswer": "학위 취득 후, 저는 본국으로 귀국하여 국립 연구기관이나 글로벌 기업에 입사하여 한국에서 체득한 선진 방법론을 현장에 적용할 계획입니다. 나아가 동남아시아와 한국을 잇는 공동 연구 프로젝트를 주도하여 양국의 학술적 파트너십을 공고히 하겠습니다.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다. (Heonbeop-gwa hyeongsasosongbeop-i gyujeonghan jeokbeop jeolcha-ui wonchik-e uigeohayeo susa-reul jinhaenghago jeung-geo-reul eomgyeokhi chaetaekhaeya handa.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.",
     "keywords": [
-      "연구기관",
-      "프로젝트",
-      "파트너십",
-      "적용",
-      "발전"
+      "penyelidikan",
+      "dilangsungkan",
+      "barang",
+      "bukti"
     ],
-    "explanation": "Rencana karier pendaftar beasiswa GKS harus menunjukkan prospek kepemimpinan di tingkat global."
+    "explanation": "Kalimat akademik pola Berdasarkan Kaidah Hukum & Tanpa Dibatasi: -에 의거하여 & -에 국한되지 않다: '헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다.' diterjemahkan secara akurat menjadi 'Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.'."
   },
   {
     "id": "q-kr-es-8",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan arti peribahasa empat karakter '고진감래 (苦盡甘來)' dan bagaimana ungkapan ini memotivasi mahasiswa internasional dalam menyelesaikan studinya:",
-    "sampleAnswer": "고진감래 (苦盡甘來) bermakna: 'Setelah kepahitan dan kesulitan terlampaui, kenikmatan dan manisnya keberhasilan akan tiba'. Peribahasa ini mengajarkan bahwa rintangan bahasa, kendala budaya, dan beratnya riset laboratorium yang dihadapi mahasiswa asing adalah proses tempaan yang niscaya akan berbuah manis berupa gelar kelulusan dan masa depan gemilang.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다. (Tonggyecheong-i balpyohan jaryo-e ttareumyeon gungnae il-in gagu su-neun icheonsimnyeon sabaeksipsaman gagu-eseo icheoni-simnyeon-eneun yukbaekyuksipsaman gagu-ro simnyeon sa-i-e muryeo yuksip peosenteu geupjeonghan geos-euro natanatda.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.",
     "keywords": [
-      "고진감래",
-      "어려움",
-      "성공",
-      "극복",
-      "노력"
+      "menurut",
+      "data",
+      "dirilis",
+      "badan"
     ],
-    "explanation": "사자성어 (peribahasa 4 huruf) mencerminkan kekayaan filosofi budaya akademik Korea yang menjunjung tinggi ketekunan."
+    "explanation": "Kalimat akademik pola Retorika Analisis Grafik & Statistik Penulisan Soal No. 53: '통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다.' diterjemahkan secara akurat menjadi 'Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.'."
   },
   {
     "id": "q-kr-es-9",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Tuliskan contoh kalimat formal saat Anda memohon waktu bimbingan tesis kepada Dosen Pembimbing melalui pesan/email:",
-    "sampleAnswer": "교수님, 이번 학기 학위논문 진행 상황 및 연구 방향에 관하여 교수님의 고견을 여쭙고자 합니다. 혹시 다음 주 중에 교수님께서 편하신 시간에 연구실로 찾아뵈어도 괜찮으시겠습니까?",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다. (Pokseol-ro doro-ga jeonmyeon mabidoeneun baram-e jesigan-e dochakhagineunkeonyeong gosokdoro han-gaunde-e gachyeo kkobak bam-eul jisaewosseumnida.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.",
     "keywords": [
-      "학위논문",
-      "고견",
-      "연구실",
-      "찾아뵙다",
-      "상담"
+      "gara",
+      "salju",
+      "lebat",
+      "melumpuhkan"
     ],
-    "explanation": "Gunakan kata 고견 (pendapat berharga profesor) dan verba penghormatan 찾아뵙다 (menemui secara langsung)."
+    "explanation": "Kalimat akademik pola Penyangkalan Total & Ketiadaan Jeda: -기는커녕 & -새도 없이: '폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다.' diterjemahkan secara akurat menjadi 'Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.'."
   },
   {
     "id": "q-kr-es-10",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Jelaskan pandangan Anda mengenai pencegahan plagiarisme dan etika penelitian ilmiah (연구 윤리) yang berlaku di institusi pendidikan tinggi Korea:",
-    "sampleAnswer": "Etika riset (연구 윤리) adalah prinsip kejujuran mutlak dalam mencari kebenaran ilmiah. Plagiarisme (표절), pemalsuan data (위조/변조), atau duplikasi publikasi adalah pelanggaran berat yang mencoreng kredibilitas akademisi. Semua sumber wajib disitasi dengan benar sesuai format APA/Chicago, dan seluruh draf wajib melewati sistem uji kemiripan CopyKiller sebelum disidangkan.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다. (Bon yeon-gu-neun hyeondae damunhwa sahoe-eseo balsaenghaneun galdeung-ui gujojeok wonin-eul beobcheolhakjeok jun-geo-e uigeohayeo gyumyeonghaneun hanpyeon, teukjeong jipdan-e guk-handoeji anneun bopyeonjeok gongjon moder-eul dochulhandaneun jeonjeha-e gihoekdoe-eotda.)",
+    "audioVoiceLang": "ko-KR",
+    "sampleAnswer": "Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.",
     "keywords": [
-      "연구 윤리",
-      "표절",
-      "위조",
-      "인용",
-      "신뢰"
+      "penelitian",
+      "direncanakan",
+      "premis",
+      "asumsi"
     ],
-    "explanation": "Universitas Korea menggunakan sistem anti-plagiarisme digital CopyKiller (카피킬러) dengan batas toleransi kesamaan di bawah 10-15%."
+    "explanation": "Kalimat akademik pola Mahakarya Kelulusan TOPIK 2 Level 6 & Bahasa Korea Akademik Perguruan Tinggi (Capstone Unit): '본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다.' diterjemahkan secara akurat menjadi 'Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.'."
   },
   {
     "id": "q-kr-sk-1",
@@ -1910,9 +1945,9 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi pengumuman resmi pendaftaran mata kuliah (KRS):",
     "scrambledWords": [
+      "완료해 주시기 바랍니다",
       "이번 학기 수강신청을",
-      "기한 내에",
-      "완료해 주시기 바랍니다"
+      "기한 내에"
     ],
     "correctOrder": [
       "이번 학기 수강신청을",
@@ -1929,9 +1964,9 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat pemeriksaan berkas beasiswa pemerintah Korea:",
     "scrambledWords": [
-      "정부초청 외국인 장학생",
+      "꼼꼼하게 검토했습니다",
       "지원 서류를",
-      "꼼꼼하게 검토했습니다"
+      "정부초청 외국인 장학생"
     ],
     "correctOrder": [
       "정부초청 외국인 장학생",
@@ -1948,9 +1983,9 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi kalimat penyerahan draf proposal tesis:",
     "scrambledWords": [
+      "피드백을 받았습니다",
       "학위논문 연구계획서를",
-      "지도교수님께 제출하여",
-      "피드백을 받았습니다"
+      "지도교수님께 제출하여"
     ],
     "correctOrder": [
       "학위논문 연구계획서를",
@@ -1967,9 +2002,9 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi tata tertib peminjaman buku perpustakaan kampus:",
     "scrambledWords": [
-      "도서관에서 대출한 전공서적은",
+      "반납해야 합니다",
       "연체되지 않도록",
-      "반납해야 합니다"
+      "도서관에서 대출한 전공서적은"
     ],
     "correctOrder": [
       "도서관에서 대출한 전공서적은",
@@ -1986,9 +2021,9 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Susun kata-kata acak berikut menjadi pengumuman presentasi seminar riset lab:",
     "scrambledWords": [
+      "발표할 예정입니다",
       "다음 주 학술 세미나에서",
-      "최신 연구 동향을",
-      "발표할 예정입니다"
+      "최신 연구 동향을"
     ],
     "correctOrder": [
       "다음 주 학술 세미나에서",
@@ -2007,12 +2042,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "포털 시스템을 통해 전공 필수 과목의 수강신청을 완료했다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Pendaftaran mata kuliah / pengisian KRS semester online",
       "Pembayaran uang kuliah tunggal di bank kampus",
       "Permohonan kartu anggota perpustakaan",
+      "Pendaftaran mata kuliah / pengisian KRS semester online",
       "Pendaftaran wisuda sarjana"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "수강신청 adalah registrasi pendaftaran mata kuliah perkuliahan (Course Registration)."
   },
   {
@@ -2023,12 +2058,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "우수한 학업 성적을 인정받아 1년간 전액 장학금 수혜 대상자로 선발되었다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Penerimaan hak / perolehan manfaat beasiswa pendidikan",
       "Pengembalian dana pinjaman mahasiswa",
       "Pemotongan gaji asisten laboratorium",
-      "Iuran wajib organisasi kemahasiswaan"
+      "Iuran wajib organisasi kemahasiswaan",
+      "Penerimaan hak / perolehan manfaat beasiswa pendidikan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "수혜 (受惠: menerima manfaat/kebaikan) + 장학금 (beasiswa) = perolehan hak beasiswa."
   },
   {
@@ -2055,12 +2090,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "아포스티유 인증을 받은 최종 학력 성적증명서 원본을 제출하십시오.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Transkrip nilai akademik resmi",
       "Ijazah kelulusan sekolah",
+      "Transkrip nilai akademik resmi",
       "Surat keterangan sehat",
       "Pas foto resmi visa"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "성적 (nilai hasil belajar) + 증명서 (surat sertifikat keterangan) = transkrip nilai resmi."
   },
   {
@@ -2071,12 +2106,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "학위논문 작성을 위해서는 반드시 소속 전공의 지도교수를 배정받아야 한다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Dosen pembimbing akademik / pembimbing tugas akhir skripsi",
       "Dekan fakultas kedokteran",
       "Ketua senat universitas",
+      "Dosen pembimbing akademik / pembimbing tugas akhir skripsi",
       "Staf keamanan gerbang kampus"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "지도 (membimbing) + 교수 (profesor) = Dosen Pembimbing Akademik / Thesis Supervisor."
   },
   {
@@ -2087,12 +2122,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "군 복무를 위해 2년간 휴학한 후, 이번 학기에 성공적으로 복학하였다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Cuti kuliah sementara dan aktif kuliah kembali",
       "Lulus sarjana dan wisuda pascasarjana",
       "Ujian masuk dan orientasi mahasiswa",
-      "Pindah jurusan dan pindah universitas"
+      "Pindah jurusan dan pindah universitas",
+      "Cuti kuliah sementara dan aktif kuliah kembali"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "휴학 (休學) = cuti kuliah; 복학 (復學) = kembali aktif kuliah setelah masa cuti."
   },
   {
@@ -2119,12 +2154,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "최종 논문 심사위원회의 엄격한 구두 구술 심사를 거쳤다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Sidang ujian dan evaluasi kelayakan tesis/disertasi",
       "Pencetakan naskah tugas akhir di percetakan",
+      "Sidang ujian dan evaluasi kelayakan tesis/disertasi",
       "Penyimpanan berkas di arsip nasional",
       "Pengumuman daftar mahasiswa baru"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "논문 (tesis/disertasi) + 심사 (evaluasi/sidang penilaian) = sidang ujian tesis."
   },
   {
@@ -2135,12 +2170,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "외국인등록증 뒷면의 체류기간 만료일 전에 체류자격 연장을 신청해야 한다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Perpanjangan izin masa tinggal visa pelajar di kantor imigrasi (HiKorea)",
       "Pembuatan kartu ATM bank universitas",
       "Registrasi nomor telepon seluler pascabayar",
+      "Perpanjangan izin masa tinggal visa pelajar di kantor imigrasi (HiKorea)",
       "Pendaftaran kartu transportasi umum T-Money"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "체류자격 (status izin tinggal) + 연장 (perpanjangan masa berlaku)."
   },
   {
@@ -2151,12 +2186,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "졸업 요건을 충족하려면 전공필수 18학점을 모두 이수해야 합니다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Mata kuliah wajib program studi / jurusan",
       "Mata kuliah olahraga pilihan",
       "Kuliah kerja nyata pengabdian masyarakat",
-      "Bimbingan belajar bahasa asing tambahan"
+      "Bimbingan belajar bahasa asing tambahan",
+      "Mata kuliah wajib program studi / jurusan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "전공 (jurusan spesialisasi) + 필수 (wajib) = mata kuliah wajib jurusan (Major Required Course)."
   },
   {
@@ -2181,12 +2216,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Baca wacana aturan perpustakaan universitas berikut:\n'도서관 열람실 좌석은 모바일 앱을 통해 좌석 발권을 마친 후 이용해야 합니다. 발권 후 30분 이내에 게이트에 학생증을 태그하지 않거나, 2시간 이상 공석 상태가 지속될 경우 자동으로 퇴실 처리되며, 3회 누적 시 일주일간 좌석 배정이 제한됩니다.'\n\nApa yang terjadi jika mahasiswa meninggalkan kursi perpustakaan kosong selama lebih dari dua jam?",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Kursi otomatis dibatalkan (퇴실 처리), dan jika terjadi 3 kali akan diblokir selama satu minggu",
       "Dikenai denda uang tunai sebesar lima ribu won",
+      "Kursi otomatis dibatalkan (퇴실 처리), dan jika terjadi 3 kali akan diblokir selama satu minggu",
       "Buku yang ada di meja akan disita dan dibakar",
       "Tidak ada sanksi apapun"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Aturan menetapkan: '2시간 이상 공석 시 자동 퇴실, 3회 누적 시 일주일간 좌석 배정 제한'."
   },
   {
@@ -2196,12 +2231,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Baca wacana seleksi Beasiswa Pemerintah Korea (GKS):\n'GKS 장학생으로 선발된 자는 본 과정 진학 전 1년간 국립국제교육원이 지정한 대학 한국어연수기관에서 한국어 연수를 이수해야 한다. 1년 연수 종료 시까지 TOPIK 3급 이상을 취득하지 못할 경우 장학생 자격이 취소된다.'\n\nBerapa level minimal TOPIK yang wajib diraih setelah 1 tahun kursus bahasa agar beasiswa GKS tidak dibatalkan?",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Minimal TOPIK Level 3",
       "Minimal TOPIK Level 5",
       "Minimal TOPIK Level 1",
+      "Minimal TOPIK Level 3",
       "Tidak diwajibkan ujian TOPIK"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Ketentuan resmi GKS: wajib meraih minimal TOPIK 3급 (Level 3) setelah 1 tahun kursus bahasa sebelum masuk kuliah reguler."
   },
   {
@@ -2212,12 +2247,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "학과 사무실에서 공지합니다. 이번 학기 대학원 학위청구논문 예비심사 신청 마감은 이번 주 금요일 오후 다섯 시까지입니다. 신청서와 지도교수 추천서를 첨부하여 교학팀에 직접 제출하시기 바랍니다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Batas akhir pendaftaran ujian pra-sidang tesis adalah Jumat ini jam 17.00, berkas diserahkan langsung ke kantor jurusan",
       "Sidang skripsi dibatalkan dan diganti dengan pembuatan laporan magang",
       "Dosen pembimbing meminta seluruh mahasiswa hadir rapat di aula utama",
-      "Pendaftaran beasiswa dibuka sampai akhir bulan depan"
+      "Pendaftaran beasiswa dibuka sampai akhir bulan depan",
+      "Batas akhir pendaftaran ujian pra-sidang tesis adalah Jumat ini jam 17.00, berkas diserahkan langsung ke kantor jurusan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Pengumuman: 예비심사 신청 마감 (batas pra-sidang tesis) pada Jumat pukul 17.00 diserahkan langsung (직접 제출)."
   },
   {
@@ -2244,12 +2279,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "입국일로부터 구십 일 이내에 출입국관리사무소를 방문하여 외국인등록을 마쳐야 합니다. 하이코리아 웹사이트에서 사전에 방문 예약을 하지 않으면 당일 접수가 불가능합니다.",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "Kewajiban registrasi orang asing dalam 90 hari sejak kedatangan dan wajib reservasi online terlebih dahulu di HiKorea",
       "Pembuatan visa baru di bandara internasional Incheon",
+      "Kewajiban registrasi orang asing dalam 90 hari sejak kedatangan dan wajib reservasi online terlebih dahulu di HiKorea",
       "Pemeriksaan kesehatan gratis di puskesmas distrik",
       "Pembukaan rekening tabungan bank kampus"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Wajib lapor asing dalam 90 hari (90일 이내) dan wajib reservasi online di HiKorea (사전 방문 예약)."
   },
   {
@@ -2259,12 +2294,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilihlah bentuk tata bahasa formal penanda sudut pandang evaluasi:\n'국제 통상 환경의 급변과 공급망 불안정____, 수출 의존도가 높은 국가들은 경제적 다변화를 서둘러야 한다.'",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "에 비추어 볼 때 (e bichueo bol ttae: ditinjau / berkaca dari)",
-      "에 불과하고 (e bulgwahago)",
-      "에 다름없다 (e dareumeopda)",
-      "을 막론하고 (eul mangnonhago)"
+      "에 불과하고 (e bulgwahago) — hanya sekadar / tidak lebih dari",
+      "에 다름없다 (e dareumeopda) — sama saja dengan / tiada bedanya dengan",
+      "에 비추어 볼 때 (e bichueo bol ttae) — ditinjau dari / berkaca pada",
+      "을 막론하고 (eul mangnonhago) — tanpa memandang / terlepas dari"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "-에 비추어 볼 때 (berkaca dari / meninjau situasi...) adalah pola evaluasi formal standar dalam teks opini ilmiah."
   },
   {
@@ -2274,12 +2309,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilihlah bentuk tata bahasa penegasan ganda (double negative) yang menyatakan keniscayaan tak terbantahkan:\n'인공지능의 급속한 발전은 기존의 고용 구조에 지대한 변화를 가져____.'",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "오지 않을 수 없다 (oji aneul su eopda: niscaya pasti membawa perubahan)",
-      "올 리가 없다 (ol riga eopda)",
-      "올 턱이 없다 (ol teogi eopda)",
-      "오다시피 했다 (odasipi haetda)"
+      "올 리가 없다 (ol riga eopda) — mustahil akan terjadi",
+      "올 턱이 없다 (ol teogi eopda) — sama sekali tidak ada alasan untuk terjadi",
+      "오다시피 했다 (odasipi haetda) — hampir saja datang",
+      "오지 않을 수 없다 (oji aneul su eopda) — niscaya pasti membawa perubahan (penegasan ganda)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "-지 않을 수 없다 (tidak bisa untuk tidak...) menyatakan kepastian absolut yang niscaya terjadi."
   },
   {
@@ -2289,10 +2324,10 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Pilihlah bentuk kausatif perintah instruksional akademik:\n'지도교수는 연구원들에게 연구 윤리 지침을 철저히 ____ 조치했다.'",
     "audioVoiceLang": "ko-KR",
     "options": [
-      "준수하도록 (junsuhadorok: agar mematuhi)",
-      "준수하는 바람에 (junsuhaneun barame)",
-      "준수하다시피 (junsuhadasipi)",
-      "준수할지라도 (junsuhaljirado)"
+      "준수하도록 (junsuhadorok) — agar mematuhi / supaya menaati",
+      "준수하는 바람에 (junsuhaneun barame) — gara-gara mematuhi (sebab negatif)",
+      "준수하다시피 (junsuhadasipi) — sebagaimana hampir mematuhi",
+      "준수할지라도 (junsuhaljirado) — sekalipun mematuhi"
     ],
     "correctAnswerIndex": 0,
     "explanation": "-도록 하다 / -도록 조치하다 adalah konstruksi kausatif formal untuk memerintahkan suatu prosedur dipatuhi."
@@ -2303,12 +2338,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Analisis kesalahan tata bahasa (문법 오류 수정): Manakah kalimat yang BENAR secara penulisan netral esai TOPIK No. 54?",
     "options": [
-      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제이다.",
-      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제예요.",
-      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제입니다.",
-      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제야."
+      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제예요. — ... adalah tugas yang tak dapat ditunda lagi (ragam lisan 해요체).",
+      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제이다. — Dalam masyarakat modern, pelestarian lingkungan adalah tugas yang tak dapat ditunda lagi (ragam tulis 해라체).",
+      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제입니다. — ... adalah tugas yang tak dapat ditunda lagi (ragam formal lisan 하십시오체).",
+      "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제야. — ... adalah tugas yang tak dapat ditunda lagi (ragam akrab 반말)."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Predikat kata benda dalam gaya netral bertuliskan '과제이다' (-이다). Bentuk -예요, -입니다, -야 dilarang dalam esai No. 54."
   },
   {
@@ -2317,12 +2352,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Dalam wawancara beasiswa GKS, pewawancara menanyakan: 'Apa yang akan Anda lakukan jika riset Anda di lab mengalami kebuntuan?'. Jawaban paling berbobot adalah:",
     "options": [
-      "Mengkaji ulang literatur internasional terbaru, berdiskusi aktif mencari solusi dengan profesor pembimbing dan rekan lab, serta melakukan eksperimen alternatif",
       "Pulang ke negara asal dan liburan selama satu bulan",
       "Menyalahkan alat laboratorium universitas yang kurang canggih",
+      "Mengkaji ulang literatur internasional terbaru, berdiskusi aktif mencari solusi dengan profesor pembimbing dan rekan lab, serta melakukan eksperimen alternatif",
       "Membuat data fiktif agar laporan cepat selesai"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Kematangan mental peneliti dinilai dari ketangguhan mengatasi kegagalan eksperimen (실패 극복 능력) melalui metode ilmiah."
   },
   {
@@ -2331,12 +2366,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Bagaimana cara menyapa Dosen Pembimbing sekaligus Ketua Jurusan saat berpapasan di lorong kampus Korea?",
     "options": [
-      "교수님 (Gyosunim) / 학과장님 (Hakgwajangnim), 안녕하십니까!",
-      "야, 형! (Ya, hyeong!)",
-      "아저씨, 안녕하세요! (Ajeossi, annyeonghaseyo!)",
-      "선생, 잘 지냈어? (Seonsaeng, jal jinaesseo?)"
+      "야, 형! (Ya, hyeong!) — Hei, Bang! (sapaan kasar/akrab)",
+      "아저씨, 안녕하세요! (Ajeossi, annyeonghaseyo!) — Paman, halo! (tidak sopan untuk dosen)",
+      "선생, 잘 지냈어? (Seonsaeng, jal jinaesseo?) — Guru, apa kabar? (kalimat 반말 tidak sopan)",
+      "교수님 (Gyosunim) / 학과장님 (Hakgwajangnim), 안녕하십니까! — Profesor / Bapak-Ibu Ketua Jurusan, selamat pagi/siang! (sapaan hormat resmi)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Gunakan sebutan kehormatan 교수님 (Profesor) atau jabatan struktural 학과장님 (Ketua Jurusan) disertai salam formal 안녕하십니까."
   },
   {
@@ -2359,12 +2394,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Dalam budaya laboratorium universitas Korea (랩실 문화), apa peran dari seorang '랩장' (Raepjang)?",
     "options": [
-      "Mahasiswa senior yang ditunjuk profesor sebagai koordinator harian keselamatan, jadwal, dan administrasi laboratorium",
       "Dosen tamu dari luar negeri",
+      "Mahasiswa senior yang ditunjuk profesor sebagai koordinator harian keselamatan, jadwal, dan administrasi laboratorium",
       "Petugas kebersihan gedung kampus",
       "Dekan fakultas teknologi"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "랩장 (Lab Leader) adalah mahasiswa pascasarjana senior yang memimpin koordinasi operasional riset di laboratorium."
   },
   {
@@ -2373,12 +2408,12 @@ export const KOREA_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Berdasarkan peraturan imigrasi Korea Selatan, berapa jam batas kerja paruh waktu (알바) per minggu yang diizinkan untuk mahasiswa program gelar yang telah memiliki sertifikat TOPIK yang dipersyaratkan?",
     "options": [
-      "Maksimal 20 hingga 25 jam per minggu (dan tanpa batas jam saat liburan semester resmi)",
       "Maksimal 40 jam per minggu setiap saat",
       "Maksimal 5 jam per minggu saja",
+      "Maksimal 20 hingga 25 jam per minggu (dan tanpa batas jam saat liburan semester resmi)",
       "Dilarang bekerja sama sekali selama studi"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Mahasiswa asing dengan izin resmi (체류자격외 활동허가) diizinkan bekerja paruh waktu 20-25 jam/minggu saat masa kuliah aktif."
   }
 ];
@@ -2392,12 +2427,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "______ such unprecedented resilience in international supply chain networks.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Rarely have econometric indicators revealed",
-      "Rarely econometric indicators have revealed",
-      "Rarely econometric indicators revealed",
-      "Rarely did econometric indicators has revealed"
+      "Rarely econometric indicators have revealed — Susunan tanpa inversi kata kerja bantu (tidak baku)",
+      "Rarely econometric indicators revealed — Susunan tanpa kata kerja bantu (tidak baku)",
+      "Rarely did econometric indicators has revealed — Konjugasi ganda did + has yang salah secara gramatika",
+      "Rarely have econometric indicators revealed — Jarang sekali indikator ekonometrika memperlihatkan (inversi negatif baku)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "After restrictive adverbials like 'Rarely' or 'Seldom', subject-auxiliary inversion is mandatory ('have econometric indicators revealed')."
   },
   {
@@ -2408,10 +2443,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "The academic ethics board mandated that the doctoral candidate ______ all raw empirical datasets by Friday.",
     "audioVoiceLang": "en-US",
     "options": [
-      "submit (bare infinitive)",
-      "submits (third-person singular)",
-      "submitted (past tense)",
-      "will submit (future modal)"
+      "submit (bare infinitive) — menyerahkan (bentuk subjunktif mandatif yang tepat setelah \"mandates that...\")",
+      "submits (third-person singular) — menyerahkan (bentuk indikatif biasa, kurang tepat untuk mandatif formal)",
+      "submitted (past tense) — telah menyerahkan (bentuk lampau yang tidak sesuai konteks regulasi)",
+      "will submit (future modal) — akan menyerahkan (modal futur tidak dipakai dalam subjunktif mandatif)"
     ],
     "correctAnswerIndex": 0,
     "explanation": "In formal mandative subjunctive clauses triggered by 'mandated that', the verb must remain in bare infinitive form ('submit')."
@@ -2423,12 +2458,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Select the nominalised formulation that achieves optimal academic lexical density:",
     "audioVoiceLang": "en-US",
     "options": [
-      "The rapid proliferation of digital platforms precipitated an overhaul of antitrust jurisprudence.",
-      "Because digital platforms proliferated really fast, lawmakers had to change how antitrust laws work.",
-      "Digital platforms grew very quickly and then people decided to make new rules for them.",
-      "Since everyone uses digital platforms now, courts have changed their decisions."
+      "Because digital platforms proliferated really fast, lawmakers had to change how antitrust laws work. — Karena platform digital tumbuh sangat cepat, pembuat UU harus mengubah cara kerja hukum (gaya lisan).",
+      "The rapid proliferation of digital platforms precipitated an overhaul of antitrust jurisprudence. — Pesatnya proliferasi platform digital memicu perombakan yurisprudensi antimonopoli (nominalisasi akademik padat).",
+      "Digital platforms grew very quickly and then people decided to make new rules for them. — Platform digital tumbuh cepat lalu orang memutuskan membuat aturan baru (kosakata terlalu umum).",
+      "Since everyone uses digital platforms now, courts have changed their decisions. — Karena semua orang memakai platform digital sekarang, pengadilan mengubah putusan (kurang presisi)."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Nominalisation packs active verbal processes into dense, objective noun phrases ('The rapid proliferation... precipitated an overhaul')."
   },
   {
@@ -2438,12 +2473,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Which sentence demonstrates appropriate Academic Hedging for empirical findings?",
     "audioVoiceLang": "en-US",
     "options": [
-      "The preliminary dataset appears to suggest a tentative correlation between the two variables.",
-      "Our experiment proves with 100% certainty that all previous scientists were completely mistaken.",
-      "This data unquestionably demonstrates the absolute truth of our theory.",
-      "Everyone must agree that these results cannot possibly be challenged."
+      "Our experiment proves with 100% certainty that all previous scientists were completely mistaken. — Eksperimen kami membuktikan 100% bahwa semua ilmuwan terdahulu salah total (klaim absolut berlebihan).",
+      "This data unquestionably demonstrates the absolute truth of our theory. — Data ini tanpa keraguan menunjukkan kebenaran mutlak teori kami (tidak objektif).",
+      "The preliminary dataset appears to suggest a tentative correlation between the two variables. — Data awal tampaknya mengindikasikan korelasi tentatif antara kedua variabel (hedging akademik tepat).",
+      "Everyone must agree that these results cannot possibly be challenged. — Semua orang wajib setuju bahwa hasil ini mustahil dibantah (dogmatis)."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Academic hedging uses cautious epistemic stance ('appears to suggest a tentative correlation') rather than absolutist dogmatism."
   },
   {
@@ -2454,12 +2489,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "______ further clarification regarding the methodology, please contact the principal investigator.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Should you require",
-      "If should you require",
-      "Were you require",
-      "Had you required"
+      "If should you require — Gabungan \"if\" dan inversi yang salah secara sintaksis",
+      "Were you require — Bentuk \"were\" yang salah karena diikuti bare infinitive tanpa \"to\"",
+      "Had you required — Kondisional tipe 3 (masa lampau tak nyata), tidak tepat untuk korespondensi masa depan",
+      "Should you require — Apabila Anda memerlukan (inversi kondisional formal tanpa \"if\")"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Inverted conditional Type 1 uses 'Should + Subject + bare infinitive' ('Should you require') without the conjunction 'if'."
   },
   {
@@ -2470,10 +2505,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "The research protocol was audited ______ institutional biohazard regulations.",
     "audioVoiceLang": "en-US",
     "options": [
-      "in accordance with",
-      "in accordance to",
-      "pursuant of",
-      "with compliance at"
+      "in accordance with — sesuai dengan / berdasarkan ketentuan hukum",
+      "in accordance to — preposisi pasangan yang salah (seharusnya \"with\")",
+      "pursuant of — preposisi pasangan yang salah (seharusnya \"pursuant to\")",
+      "with compliance at — kolokasi preposisi yang tidak baku (seharusnya \"in compliance with\")"
     ],
     "correctAnswerIndex": 0,
     "explanation": "The standard collocations are 'in accordance with' and 'pursuant to'."
@@ -2485,12 +2520,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Identify the thesis statement that maintains strict syntactic parallelism:",
     "audioVoiceLang": "en-US",
     "options": [
-      "The initiative aims to enhance transparency, to streamline governance, and to foster innovation.",
-      "The initiative aims to enhance transparency, streamlining governance, and innovation.",
-      "The initiative aims at transparency, to streamline governance, and fostering innovation.",
-      "The initiative aims to enhance transparency, stream governance, and fostered innovation."
+      "The initiative aims to enhance transparency, streamlining governance, and innovation. — Mencampur to-infinitive, gerund, dan nomina (tidak paralel).",
+      "The initiative aims to enhance transparency, to streamline governance, and to foster innovation. — Inisiatif ini bertujuan meningkatkan transparansi, merampingkan tata kelola, dan mendorong inovasi (paralelisme utuh).",
+      "The initiative aims at transparency, to streamline governance, and fostering innovation. — Mencampur preposisi, to-infinitive, dan gerund (tidak paralel).",
+      "The initiative aims to enhance transparency, stream governance, and fostered innovation. — Mencampur present infinitive dan past participle (tidak paralel)."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Parallelism requires consistent grammatical structures across listed items ('to enhance... to streamline... to foster')."
   },
   {
@@ -2501,12 +2536,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "______, the upfront capital expenditure is substantial; nevertheless, the projected operational efficiencies justify the investment.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Admittedly",
-      "Because",
-      "Consequently",
-      "Furthermore"
+      "Because — Karena (konjungsi subordinatif kausal)",
+      "Consequently — Akibatnya / oleh karena itu (transisi akibat)",
+      "Admittedly — Memang harus diakui (penanda konsesif yang berpasangan dengan \"nevertheless\")",
+      "Furthermore — Selain itu / lebih lanjut (transisi aditif)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "'Admittedly... nevertheless' is a classic rhetorical pairing that concedes a counterpoint before reasserting the core thesis."
   },
   {
@@ -2517,12 +2552,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "The statistical verification in Chapter 4 regrettably ______.",
     "audioVoiceLang": "en-US",
     "options": [
-      "leaves much to be desired",
-      "is complete garbage",
-      "fails in every single way",
-      "is totally useless"
+      "is complete garbage — sama sekali sampah (bahasa kasar tidak ilmiah)",
+      "fails in every single way — gagal total dalam segala hal (hiperbola emosional)",
+      "is totally useless — sama sekali tidak berguna (bahasa informal kasar)",
+      "leaves much to be desired — masih sangat perlu ditingkatkan / belum memadai (eufemisme akademik sopan)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "'Leaves much to be desired' is the standard diplomatic understatement in British and American peer reviews for substandard work."
   },
   {
@@ -2533,10 +2568,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Subsequent longitudinal trials failed to ______ the initial hypothesis.",
     "audioVoiceLang": "en-US",
     "options": [
-      "substantiate (corroborate with evidence)",
-      "manufacture",
-      "exaggerate",
-      "speculate"
+      "substantiate (corroborate with evidence) — memperkuat / membuktikan kebenaran hipotesis dengan bukti empiris",
+      "manufacture — memproduksi barang pabrik / mengarang cerita",
+      "exaggerate — melebih-lebihkan secara tidak proporsional",
+      "speculate — berspekulasi tanpa bukti"
     ],
     "correctAnswerIndex": 0,
     "explanation": "The academic collocation is 'substantiate a hypothesis' (memperkuat/memvalidasi hipotesis dengan data empiris)."
@@ -2545,151 +2580,161 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "id": "q-en-es-1",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Write a formal 2-3 sentence opening inquiry email to a potential PhD supervisor regarding doctoral research supervision:",
-    "sampleAnswer": "Dear Professor [Surname],\n\nI hope this email finds you well. My name is [Full Name], and I recently completed my Master's degree in [Discipline] with distinction at [University]. Having closely followed your seminal publications on [Specific Research Topic], I am writing to inquire whether you might have capacity to accept a doctoral researcher under your supervision for the forthcoming academic year.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions. (ˈsɛldəm hæv ˌɪntəˈnæʃnəl ˌmækrəʊˌiːkəˈnɒmɪk ˈɪndɪkeɪtəz ʃəʊn sʌtʃ prəˈfaʊnd rɪˈzɪlɪəns əˈmɪdst ˈgləʊbl səˈplaɪ dɪsˈrʌpʃnz.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.",
     "keywords": [
-      "Professor",
-      "publications",
-      "supervision",
-      "doctoral",
-      "inquire"
+      "jarang",
+      "sekali",
+      "indikator",
+      "ekonomi"
     ],
-    "explanation": "An inquiry email to an international professor must establish academic credentials, demonstrate familiarity with their research, and politely request supervision capacity."
+    "explanation": "Kalimat akademik pola Negative Inversion & Emphatic Fronting (Formal Rhetorical Emphasis): 'Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions.' diterjemahkan secara akurat menjadi 'Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.'."
   },
   {
     "id": "q-en-es-2",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Explain why informal contractions (don't, can't, won't) and conversational idioms are strictly prohibited in international peer-reviewed journals:",
-    "sampleAnswer": "Informal contractions and idioms are colloquial oral shortcuts that introduce ambiguity, reduce lexical precision, and breach the formal objectivity expected in academic discourse. In scientific writing, full verb forms (do not, cannot) ensure clarity for global multidisciplinary readers and maintain an impartial, rigorous academic tone.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation. (ði ˌækəˈdɛmɪk ˈɛθɪks kəˈmɪti ˌrɛkəˈmɛndɪd ðæt ðə prəˈfɛsəz rɪˈsɜːtʃ grɑːnt biː ˈtɛmpərərəli səˈspɛndɪd ˈpɛndɪŋ ˈθʌrə ɪnˌvɛstɪˈgeɪʃn.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.",
     "keywords": [
-      "contractions",
-      "colloquial",
-      "precision",
-      "formality",
-      "clarity"
+      "komite",
+      "etika",
+      "akademik",
+      "merekomendasikan"
     ],
-    "explanation": "Style guides such as APA, Chicago, and Oxford unequivocally ban informal contractions in published research."
+    "explanation": "Kalimat akademik pola The Subjunctive Mood in Formal Mandates & Nuanced Recommendations: 'The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation.' diterjemahkan secara akurat menjadi 'Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.'."
   },
   {
     "id": "q-en-es-3",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Formulate a concise Statement of Purpose (SOP) core motivation paragraph in 2-3 formal academic sentences:",
-    "sampleAnswer": "My desire to pursue graduate studies at [University Name] stems from a commitment to addressing systemic inefficiencies in [Field/Sector]. Your institution's cutting-edge research facilities and distinguished faculty in [Specialisation] provide the ideal intellectual environment for me to advance empirical inquiry. Ultimately, I aspire to translate these findings into evidence-based policy solutions upon returning to Indonesia.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes. (ðə ˈræpɪd prəˌlɪfəˈreɪʃn ɒv ˈdʒɛnərətɪv ˌɑːtɪˈfɪʃl ɪnˈtɛlɪdʒəns nɪˈsɛsɪteɪts ə ˌkɒmprɪˈhɛnsɪv ˌriːˌkælɪˈbreɪʃn ɒv ˌɪntɪˈlɛktʃʊəl ˈprɒpəti ˈstætjuːts.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.",
     "keywords": [
-      "commitment",
-      "empirical",
-      "intellectual",
-      "facilities",
-      "policy"
+      "penyebaran",
+      "pesat",
+      "kecerdasan",
+      "buatan"
     ],
-    "explanation": "A stellar SOP statement connects personal intellectual curiosity with institutional resources and future impact."
+    "explanation": "Kalimat akademik pola Nominalisation for Academic Conciseness & Dense Prose: 'The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes.' diterjemahkan secara akurat menjadi 'Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.'."
   },
   {
     "id": "q-en-es-4",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Explain the concept of 'Academic Hedging' and discuss why definitive claims like 'this data proves our model is 100% correct' are considered flawed in science:",
-    "sampleAnswer": "Academic hedging is the conscious use of cautious, non-absolutist epistemic language (e.g., 'suggests', 'tends to indicate', 'arguably') to present claims proportional to empirical evidence. In scientific inquiry, empirical findings rarely constitute absolute universal truth; over-generalisation ignores contextual variables and experimental limitations, whereas hedging demonstrates intellectual rigor and openness to scholarly critique.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement. (ðə ˌlɒŋgɪˈtjuːdɪnl ˈdeɪtəsɛt əˈpɪəz tuː ˈɪndɪkeɪt ə stəˈtɪstɪkli sɪgˈnɪfɪkənt ˌkɒrəˈleɪʃn bɪˈtwiːn ˈɜːli baɪˈlɪŋgwəlɪzm ænd ɪgˈzɛkjʊtɪv ˈfʌŋkʃn ɪnˈhɑːnsmənt.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.",
     "keywords": [
-      "hedging",
-      "epistemic",
-      "cautious",
-      "limitations",
-      "empirical"
+      "kumpulan",
+      "data",
+      "longitudinal",
+      "tersebut"
     ],
-    "explanation": "Hedging protects the researcher from dogmatic overstatement and reflects the probabilistic nature of scientific findings."
+    "explanation": "Kalimat akademik pola Academic Hedging & Nuanced Epistemic Stance: 'The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement.' diterjemahkan secara akurat menjadi 'Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.'."
   },
   {
     "id": "q-en-es-5",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Outline the four standard structural components of an academic paper abstract (IMRaD framework) and describe the function of each:",
-    "sampleAnswer": "1. Introduction/Background: Contextualises the epistemic gap and articulates the research question;\n2. Methods: Delineates the research design, data collection parameters, and analytical frameworks deployed;\n3. Results: Synthesises key empirical findings and statistical trends without interpretative clutter;\n4. Discussion/Conclusion: Evaluates theoretical implications, policy relevance, and avenues for future inquiry.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments. (ʃʊd ˈfɒrɪn ˈdɛlɪgɪts ɪkˈspɪərɪəns ˈɛni ˈʃɛdjuːlɪŋ ˈkɒnflɪkts, ðə liˈeɪzɒn ˈɒfɪs stændz ˈrɛdi tuː fəˈsɪlɪteɪt aɪˈtɪnərəri əˈdʒʌstmənts.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.",
     "keywords": [
-      "Introduction",
-      "Methods",
-      "Results",
-      "Discussion",
-      "abstract"
+      "sekiranya",
+      "delegasi",
+      "asing",
+      "mengalami"
     ],
-    "explanation": "The IMRaD framework is the universal architecture of scientific abstracts in Scopus and Web of Science indexed journals."
+    "explanation": "Kalimat akademik pola Inverted Conditionals without 'If' (Had, Were, Should): 'Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments.' diterjemahkan secara akurat menjadi 'Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.'."
   },
   {
     "id": "q-en-es-6",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Discuss the ethical ramifications of academic plagiarism and explain how proper secondary citation (e.g., APA/Harvard) safeguards intellectual integrity:",
-    "sampleAnswer": "Plagiarism constitutes intellectual theft that undermines the foundational trust of academia, risking paper retractions, expulsion, and irreversible reputational damage. Proper attribution through standardised citation frameworks (such as APA or Harvard) acknowledges intellectual lineage, enables peer verification, and delineates the author's novel contributions from pre-existing scholarship.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days. (pəˈsjuːənt tuː ðə prəˈvɪʒnz ˈstɪpjʊleɪtɪd ɪn ˈsɛkʃn fɔːr ɒv ði ɪmˈplɔɪmənt raɪts ækt, ˈsɛvərəns ˈpækɪdʒɪz mʌst biː dɪsˈbɜːst wɪˈðɪn ˈfɔːˈtiːn ˈbɪznɪs deɪz.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.",
     "keywords": [
-      "plagiarism",
-      "integrity",
-      "citation",
-      "attribution",
-      "verification"
+      "sesuai",
+      "ketentuan",
+      "diatur",
+      "bagian"
     ],
-    "explanation": "Rigorous citation practices are the bedrock of scholarly accountability in global higher education."
+    "explanation": "Kalimat akademik pola Complex Prepositional Phrases & Formal Administrative Register: 'Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days.' diterjemahkan secara akurat menjadi 'Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.'."
   },
   {
     "id": "q-en-es-7",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Draft a formal email request asking for an extension on a term paper deadline due to unforeseen laboratory equipment delays:",
-    "sampleAnswer": "Dear Professor [Surname],\n\nI am writing to respectfully request a short extension on the submission deadline for the term paper in [Course Title], originally due on [Original Date]. Due to an unexpected technical recalibration of our laboratory's mass spectrometer, my empirical data extraction was unavoidably delayed by four days. I would be immensely grateful if I might be permitted to submit the final manuscript by [New Proposed Date], which will ensure the analysis meets the highest empirical standards.\n\nThank you very much for your understanding and consideration.\n\nSincerely,\n[Full Name]",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity. (ˈnaɪðə baɪ səˈprɛsɪŋ ˌækəˈdɛmɪk dɪˈsɛnʃn nɔː baɪ wɪðˈhəʊldɪŋ ˈkrɪtɪkl ˌɛvɪˈdɛnʃəri ˈɔːdɪts kæn ən ˌɪnstɪˈtjuːʃn ˈseɪfgɑːd ɪts ɪnˈdjʊərɪŋ ˌɪntɪˈlɛktʃʊəl ɪnˈtɛgrɪti.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.",
     "keywords": [
-      "extension",
-      "respectfully",
-      "unforeseen",
-      "submission",
-      "consideration"
+      "baik",
+      "cara",
+      "membungkam",
+      "perbedaan"
     ],
-    "explanation": "Deadline extension requests must be submitted well before the deadline, clearly state the legitimate academic cause, propose a realistic date, and maintain respectful deference."
+    "explanation": "Kalimat akademik pola Rhetorical Parallelism & Balanced Periodic Sentences: 'Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity.' diterjemahkan secara akurat menjadi 'Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.'."
   },
   {
     "id": "q-en-es-8",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Articulate your post-graduation career trajectory in a formal scholarship register (e.g., Chevening, Fulbright, or LPDP application):",
-    "sampleAnswer": "Upon completing my postgraduate degree, I plan to reintegrate into Indonesia's public research infrastructure, leading data-driven policy reforms in sustainable development. In the medium term, I envision establishing a collaborative research network between UK/US academic consortia and Southeast Asian institutions, fostering bilateral knowledge transfer and technological capacity building.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap. (ˈfɔːmɪdəbl ðəʊ ðə ˌdɪpləˈmætɪk ˈɒbstəklz əˈpɪəd, ðə ˈsʌmɪt ˌɪntəˈlɒkjʊtəz səkˈsiːdɪd ɪn ˈfɔːmjʊleɪtɪŋ ə prəˈvɪʒənl ˌdiːˌmɪlɪtəraɪˈzeɪʃn ˈrəʊdmæp.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.",
     "keywords": [
-      "postgraduate",
-      "trajectory",
-      "transfer",
-      "collaborative",
-      "capacity"
+      "betapapun",
+      "beratnya",
+      "rintangan",
+      "diplomatik"
     ],
-    "explanation": "Scholarship boards look for clear leadership vision and tangible plans to reinvest academic expertise into national development."
+    "explanation": "Kalimat akademik pola Stylistic Concession & Antithesis (Admittedly, Albeit, In Spite of): 'Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap.' diterjemahkan secara akurat menjadi 'Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.'."
   },
   {
     "id": "q-en-es-9",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Explain the methodological distinction between 'quantitative empirical analysis' and 'qualitative ethnographic inquiry':",
-    "sampleAnswer": "Quantitative empirical analysis relies on numerical data, statistical modeling, and inferential hypothesis testing to uncover generalisable probabilistic patterns across broad cohorts. In contrast, qualitative ethnographic inquiry utilises immersive observation, semi-structured interviews, and contextual textual analysis to elucidate nuanced human behaviors, cultural meanings, and lived experiences.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers. (ðə baɪˈlætərəl kəˈmjuːnɪkeɪ ˈnəʊtɪd ðæt ˈriːsnt krɒs-ˈbɔːdər ˈeəspeɪs ɪnˈkrəʊtʃmənts wɜː vjuːd wɪð greɪv kənˈsɜːn baɪ ˌɪntəˈnæʃnəl əbˈzɜːvəz.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.",
     "keywords": [
-      "quantitative",
-      "qualitative",
-      "statistical",
-      "empirical",
-      "ethnographic"
+      "komunike",
+      "bilateral",
+      "tersebut",
+      "mencatat"
     ],
-    "explanation": "Understanding methodological epistemology is essential for selecting appropriate research designs and defending dissertations."
+    "explanation": "Kalimat akademik pola Nuanced Diplomatic Modals & Bureaucratic Prudence: 'The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers.' diterjemahkan secara akurat menjadi 'Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.'."
   },
   {
     "id": "q-en-es-10",
     "type": "essay",
     "sectionType": "essai",
-    "prompt": "Write a constructive, diplomatically worded response to a peer reviewer's critical critique challenging your paper's theoretical framework:",
-    "sampleAnswer": "We are deeply grateful to Reviewer 2 for this perceptive critique regarding our conceptual framework. While our initial model leaned heavily on classical econometric assumptions, we fully concede that integrating institutional contingency theory substantially enriches the explanatory power. Accordingly, we have thoroughly revised Section 2.3 and added supplementary robustness tests to address this valuable observation.",
+    "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+    "targetSentence": "Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies. (ˌnɒtwɪθˈstændɪŋ ðə prəˌlɪfəˈreɪʃn ɒv ɪmˈpɪrɪkl ˈskɒləʃɪp əˈdrɛsɪŋ trænzˈnæʃnəl ˈkæpɪtl məʊˈbɪlɪti, sɪgˈnɪfɪkənt ləˈkjuːniː pəˈsɪst rɪˈgɑːdɪŋ ðə ˈsɒvrɪn dɛt ˌvʌlnərəˈbɪlɪti ɒv ɪˈmɜːdʒɪŋ ˈmɑːkɪt iːˈkɒnəmiz.)",
+    "audioVoiceLang": "en-US",
+    "sampleAnswer": "Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.",
     "keywords": [
-      "grateful",
-      "critique",
-      "concede",
-      "revised",
-      "robustness"
+      "meskipun",
+      "terjadi",
+      "pertumbuhan",
+      "pesat"
     ],
-    "explanation": "Responses to reviewers must remain courteous, receptive to constructive critique, and explicit about concrete revisions made."
+    "explanation": "Kalimat akademik pola C1 Capstone: Academic Research Paper Discursive Architecture & University Dissertation Prose: 'Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies.' diterjemahkan secara akurat menjadi 'Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.'."
   },
   {
     "id": "q-en-sk-1",
@@ -2697,10 +2742,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Reorder the scrambled phrases into a grammatically coherent academic admissions instruction:",
     "scrambledWords": [
-      "prospective international scholars",
-      "are required to submit",
       "their authenticated transcripts",
-      "prior to the deadline"
+      "prior to the deadline",
+      "prospective international scholars",
+      "are required to submit"
     ],
     "correctOrder": [
       "prospective international scholars",
@@ -2718,10 +2763,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Reorder the scrambled phrases into a formal empirical findings statement:",
     "scrambledWords": [
-      "the empirical findings indicate",
-      "a statistically significant correlation",
+      "and variable B",
       "between variable A",
-      "and variable B"
+      "a statistically significant correlation",
+      "the empirical findings indicate"
     ],
     "correctOrder": [
       "the empirical findings indicate",
@@ -2739,10 +2784,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Reorder the scrambled phrases into a bioethics research compliance protocol sentence:",
     "scrambledWords": [
-      "all biomedical research protocols",
-      "must receive prior clearance",
+      "review board",
       "from the institutional",
-      "review board"
+      "must receive prior clearance",
+      "all biomedical research protocols"
     ],
     "correctOrder": [
       "all biomedical research protocols",
@@ -2760,10 +2805,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Reorder the scrambled phrases into an academic registrar course enrollment announcement:",
     "scrambledWords": [
-      "graduate students may register",
-      "for elective seminars",
       "through the central academic portal",
-      "starting next Monday"
+      "starting next Monday",
+      "graduate students may register",
+      "for elective seminars"
     ],
     "correctOrder": [
       "graduate students may register",
@@ -2781,10 +2826,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "sambung_kata",
     "prompt": "Reorder the scrambled phrases into a doctoral dissertation defense summary sentence:",
     "scrambledWords": [
-      "the doctoral candidate successfully defended",
-      "her dissertation on renewable energy",
+      "yesterday afternoon",
       "before the academic tribunal",
-      "yesterday afternoon"
+      "her dissertation on renewable energy",
+      "the doctoral candidate successfully defended"
     ],
     "correctOrder": [
       "the doctoral candidate successfully defended",
@@ -2804,12 +2849,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Applicants must submit a 1,000-word Statement of Purpose articulating their research motivations.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Surat pernyataan tujuan dan motivasi studi akademik pelamar",
       "Daftar riwayat hidup riwayat pekerjaan",
       "Kuitansi bukti pembayaran formulir pendaftaran",
-      "Surat keterangan catatan kepolisian"
+      "Surat keterangan catatan kepolisian",
+      "Surat pernyataan tujuan dan motivasi studi akademik pelamar"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Statement of Purpose (SOP) adalah esai akademik formal yang menguraikan latar belakang intelektual, tujuan riset, dan motivasi pelamar."
   },
   {
@@ -2836,12 +2881,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Three confidential Letters of Recommendation must be submitted directly by academic referees.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Surat rekomendasi rahasia dari dosen pembimbing atau akademisi rujukan",
       "Surat pengantar izin cuti kuliah",
+      "Surat rekomendasi rahasia dari dosen pembimbing atau akademisi rujukan",
       "Surat penagihan biaya asrama universitas",
       "Surat ucapan selamat ulang tahun dari rektor"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Letters of Recommendation (LoR) adalah surat penilaian kompetensi dari profesor rujukan pelamar."
   },
   {
@@ -2852,12 +2897,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "The candidate was awarded the PhD degree upon successfully passing the oral dissertation defense.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Sidang ujian lisan pertahanan disertasi doktoral di hadapan dewan penguji",
       "Lomba debat mahasiswa antar fakultas",
       "Upacara penyambutan mahasiswa baru",
+      "Sidang ujian lisan pertahanan disertasi doktoral di hadapan dewan penguji",
       "Pemeriksaan kesehatan fisik calon wisudawan"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Dissertation defense (atau Viva Voce di sistem Inggris) adalah sidang ujian lisan akhir untuk mempertahankan disertasi PhD."
   },
   {
@@ -2868,12 +2913,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Please review the course syllabus to ensure you have fulfilled all necessary prerequisites.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Silabus perkuliahan dan mata kuliah prasyarat",
       "Denah gedung kampus dan jadwal bus antar-jemput",
       "Daftar buku wajib di toko buku universitas",
-      "Jadwal ujian akhir semester dan libur musim panas"
+      "Jadwal ujian akhir semester dan libur musim panas",
+      "Silabus perkuliahan dan mata kuliah prasyarat"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Syllabus = rencana pembelajaran semester; Prerequisites = syarat kelulusan mata kuliah dasar sebelum mengambil mata kuliah lanjutan."
   },
   {
@@ -2900,12 +2945,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Manuscripts exceeding a 15% plagiarism similarity index on Turnitin will be automatically flagged for investigation.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Indeks persentase kemiripan teks / uji plagiarisme pada piranti lunak Turnitin",
       "Peringkat kelulusan sarjana berdasarkan nilai IPK",
+      "Indeks persentase kemiripan teks / uji plagiarisme pada piranti lunak Turnitin",
       "Jumlah kata yang diketik dalam satu halaman tugas",
       "Batas kecepatan internet di laboratorium komputer"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "Similarity index adalah skor persentase kesamaan teks dengan basis data internet dan karya ilmiah terdahulu."
   },
   {
@@ -2916,12 +2961,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Enrolling in a university with rigorous institutional accreditation ensures international degree recognition.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Akreditasi resmi mutu institusi pendidikan tinggi oleh badan evaluasi independen",
       "Pemberian bantuan dana riset dari alumni",
       "Pembangunan gedung laboratorium baru",
+      "Akreditasi resmi mutu institusi pendidikan tinggi oleh badan evaluasi independen",
       "Perekrutan dosen tamu dari industri teknologi"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Institutional accreditation adalah status legal penjaminan mutu sebuah perguruan tinggi di tingkat nasional/global."
   },
   {
@@ -2932,12 +2977,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "By deploying methodological triangulation, the study integrates quantitative surveys and qualitative interviews.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Triangulasi metodologis (penggabungan berbagai metode riset untuk memverifikasi keabsahan data)",
       "Pengukuran sudut geometri dalam pemetaan lahan",
       "Pemisahan tiga kelompok responden berdasarkan usia",
-      "Pembagian tiga bab utama dalam naskah skripsi"
+      "Pembagian tiga bab utama dalam naskah skripsi",
+      "Triangulasi metodologis (penggabungan berbagai metode riset untuk memverifikasi keabsahan data)"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "Methodological triangulation adalah teknik validasi ilmiah yang menggabungkan berbagai pendekatan metodologis (mixed-methods)."
   },
   {
@@ -2963,12 +3008,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Read the following academic syllabus excerpt:\n'Grading Policy: Final Proctored Exam (50%), Research Term Paper (30%), Seminar Participation (20%). Late submissions of the term paper incur a penalty of 5 percentage points per calendar day. Submissions delayed by more than 7 days will receive an automatic failing grade (0%).'\n\nWhat is the consequence if a student submits the research paper 8 days after the official deadline?",
     "audioVoiceLang": "en-US",
     "options": [
-      "The submission automatically receives a failing grade of zero percent (0%)",
       "The grade is docked by exactly 40 percentage points",
+      "The submission automatically receives a failing grade of zero percent (0%)",
       "The student is granted an oral re-examination",
       "The student must write an additional book review"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "The text explicitly states: 'Submissions delayed by more than 7 days will receive an automatic failing grade (0%).'"
   },
   {
@@ -2978,12 +3023,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Read the university library borrowing regulation:\n'Undergraduate students may borrow up to 10 standard monographs for 21 days, whereas postgraduate researchers are entitled to borrow 30 items for up to 90 days. Special collections, rare manuscripts, and course reserves are strictly non-circulating and may only be consulted within the designated reading room.'\n\nWhere may students consult rare manuscripts and course reserve materials?",
     "audioVoiceLang": "en-US",
     "options": [
-      "Exclusively within the designated library reading room (strictly non-circulating)",
       "They may be borrowed and taken home for 90 days",
       "In the campus dormitory cafeteria",
+      "Exclusively within the designated library reading room (strictly non-circulating)",
       "They can only be read online via smartphone"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "The policy specifies that rare manuscripts are 'strictly non-circulating and may only be consulted within the designated reading room.'"
   },
   {
@@ -2993,12 +3038,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Read the scholarship guidelines for international candidates:\n'To qualify for the Chevening/Fulbright Postgraduate Fellowship, applicants must possess a minimum of two years of substantive professional work experience (equivalent to at least 2,800 hours) and have completed an undergraduate degree with at least upper second-class honours (2:1). Meeting these thresholds does not guarantee shortlisting for the panel interview.'\n\nWhat are the dual baseline eligibility criteria specified in the text?",
     "audioVoiceLang": "en-US",
     "options": [
-      "At least 2 years (2,800 hours) of professional experience and an undergraduate degree of at least 2:1 honours",
       "A doctorate in economics and fluent bilingualism in four languages",
       "Five published papers in Scopus Q1 journals and ten recommendation letters",
-      "Full residency citizenship in the United Kingdom or United States"
+      "Full residency citizenship in the United Kingdom or United States",
+      "At least 2 years (2,800 hours) of professional experience and an undergraduate degree of at least 2:1 honours"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "The criteria are two years of work experience (2,800 hours) plus a 2:1 honours bachelor's degree."
   },
   {
@@ -3025,12 +3070,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Before commencing any procedures involving volatile organic compounds, ensure that the mechanical exhaust ventilation hood is fully operational and the sash is positioned at the marked safety line. In the event of an accidental solvent spill exceeding 500 millilitres, evacuate the room and activate the emergency spill protocol.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Verifying exhaust ventilation hood operation and evacuating if a solvent spill exceeds 500 mL",
       "Switching off all electrical equipment every hour to save energy",
+      "Verifying exhaust ventilation hood operation and evacuating if a solvent spill exceeds 500 mL",
       "Wearing headphones while conducting chemical synthesis experiments",
       "Cleaning laboratory glassware using standard tap water without soap"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "The audio dictates fume hood sash positioning and immediate evacuation if an organic chemical spill exceeds 500 mL."
   },
   {
@@ -3041,12 +3086,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "targetSentence": "Doctoral dissertations must be formatted strictly in accordance with university typography guidelines and uploaded to the institutional repository in PDF/A format by the first of November. Electronic submissions will undergo automated similarity analysis before distribution to the external examiners.",
     "audioVoiceLang": "en-US",
     "options": [
-      "Dissertations must adhere to typography guidelines, be uploaded in PDF/A format by Nov 1, and pass similarity analysis prior to external examination",
       "Hard copies of dissertations must be hand-bound in leather and submitted to the dean",
       "External examiners will conduct oral interviews before reviewing the written manuscript",
+      "Dissertations must adhere to typography guidelines, be uploaded in PDF/A format by Nov 1, and pass similarity analysis prior to external examination",
       "Dissertation deadlines are indefinitely postponed until next spring semester"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Key points: PDF/A format, Nov 1 deadline, institutional repository upload, and pre-examination similarity checks."
   },
   {
@@ -3056,12 +3101,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Select the formal discourse marker that introduces a logical consequence in academic prose:\n'The macroeconomic model failed to account for sudden capital flight; ______, its fiscal projections proved substantially inaccurate.'",
     "audioVoiceLang": "en-US",
     "options": [
-      "consequently (as a direct result)",
-      "conversely",
-      "nevertheless",
-      "notwithstanding"
+      "conversely — sebaliknya / di sisi lain",
+      "nevertheless — namun demikian / meskipun begitu",
+      "notwithstanding — terlepas dari / kendatipun",
+      "consequently (as a direct result) — akibatnya / oleh karena itu"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "'Consequently' introduces a direct logical cause-and-effect relationship between the model's flaw and inaccurate projections."
   },
   {
@@ -3071,10 +3116,10 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Choose the correct academic passive modal construction for institutional policy:\n'In light of geopolitical volatility, it ______ to diversify institutional foreign exchange endowments.'",
     "audioVoiceLang": "en-US",
     "options": [
-      "is deemed advisable",
-      "is dreaming advisable",
-      "is deeming advisable",
-      "was deeming advice"
+      "is deemed advisable — dipandang bijaksana / dianjurkan secara institusional",
+      "is dreaming advisable — kesalahan leksikal (\"dreaming\" = bermimpi)",
+      "is deeming advisable — bentuk aktif progresif yang salah (seharusnya pasif \"is deemed\")",
+      "was deeming advice — kesalahan bentuk aktif dan kelas kata nomina"
     ],
     "correctAnswerIndex": 0,
     "explanation": "'It is deemed advisable' (dipandang bijaksana/dianjurkan) is the standard formal impersonal passive in administrative policy."
@@ -3086,12 +3131,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Identify the sentence that correctly deploys a participial clause without dangling modifier errors:",
     "audioVoiceLang": "en-US",
     "options": [
-      "Having analyzed the longitudinal panel data, the researchers observed a statistically robust divergence across cohorts.",
-      "Having analyzed the longitudinal panel data, a divergence across cohorts was observed by the computer.",
-      "Analyzing the longitudinal panel data, the computer crashed several times.",
-      "Having analyzed the longitudinal panel data, the hypothesis became much clearer to everybody."
+      "Having analyzed the longitudinal panel data, a divergence across cohorts was observed by the computer. — Dangling modifier (seolah-olah \"divergensi\" yang menganalisis data).",
+      "Having analyzed the longitudinal panel data, the researchers observed a statistically robust divergence across cohorts. — Setelah menganalisis data panel longitudinal, para peneliti mengamati divergensi signifikan (subjek klausa utama sesuai).",
+      "Analyzing the longitudinal panel data, the computer crashed several times. — Dangling modifier (seolah-olah \"komputer\" yang menjadi peneliti).",
+      "Having analyzed the longitudinal panel data, the hypothesis became much clearer to everybody. — Dangling modifier (seolah-olah \"hipotesis\" yang menganalisis data)."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "In Option 1, the subject of the main clause ('the researchers') logically matches the agent of the participial phrase ('Having analyzed...'). In the others, the modifier dangles."
   },
   {
@@ -3100,12 +3145,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Which response represents the most professional stance when an interviewer questions a limitation in your proposed research methodology?",
     "options": [
-      "Acknowledge the limitation candidly, explain why that trade-off was methodologically necessary, and outline supplementary sensitivity tests to mitigate bias",
       "Deny that any limitation exists and accuse the interviewer of misinterpreting scientific principles",
       "Blame your master's thesis supervisor for forcing you to use that flawed methodology",
+      "Acknowledge the limitation candidly, explain why that trade-off was methodologically necessary, and outline supplementary sensitivity tests to mitigate bias",
       "Apologize profusely and offer to abandon the research proposal immediately"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Demonstrating awareness of methodological trade-offs (batasan metodologi) and outlining mitigation strategies reflects advanced academic maturity."
   },
   {
@@ -3114,12 +3159,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "In British and Commonwealth universities, what is the formal title and etiquette for addressing a faculty member who holds a doctorate but has not been promoted to a full professorial chair?",
     "options": [
-      "Dr. [Surname] (Doctor [Surname])",
       "Professor [Surname] (reserved strictly for full chair holders in UK conventions)",
       "Mr./Ms. [Surname]",
-      "Teacher [Surname]"
+      "Teacher [Surname]",
+      "Dr. [Surname] (Doctor [Surname])"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "In the UK/Commonwealth, 'Professor' is a formal rank held only by chairs; senior lecturers with a PhD are addressed as 'Dr. [Surname]'. 'Teacher' is never used."
   },
   {
@@ -3142,12 +3187,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "In Anglo-American university lab culture, what is the primary pedagogical purpose of a 'Journal Club' meeting?",
     "options": [
-      "Graduate researchers present and critically dissect peer-reviewed papers published by external research teams to stay abreast of scientific frontiers",
       "Students gather to write recreational poetry and short stories",
+      "Graduate researchers present and critically dissect peer-reviewed papers published by external research teams to stay abreast of scientific frontiers",
       "Faculty members read novels out loud for relaxation",
       "Administrative staff review university budget invoices"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "A Journal Club is an essential seminar where lab members rigorously critique contemporary literature to sharpen analytical faculties."
   },
   {
@@ -3156,12 +3201,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "sectionType": "bebas",
     "prompt": "Under UK Student Visa (formerly Tier 4) and US F-1 Visa regulations, what is the statutory ceiling for employment hours permitted during term time?",
     "options": [
-      "A maximum of 20 hours per week during term time (with full-time employment permitted during official vacation periods)",
       "Unlimited hours provided the student maintains a 3.5 GPA",
       "Exactly 40 hours per week at all times",
+      "A maximum of 20 hours per week during term time (with full-time employment permitted during official vacation periods)",
       "No off-campus or on-campus work is ever permitted"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "explanation": "Both UK and US student visa frameworks enforce a strict cap of 20 hours per week during active academic terms."
   },
   {
@@ -3171,12 +3216,12 @@ export const ENGLISH_50_QUESTIONS: QuizQuestion[] = [
     "prompt": "Which academic phrase best conveys that two variables are mutually dependent and cannot be disentangled?",
     "audioVoiceLang": "en-US",
     "options": [
-      "inextricably linked",
-      "totally separated",
-      "somewhat friends",
-      "vaguely beside each other"
+      "totally separated — terpisah sama sekali",
+      "somewhat friends — agak berteman (ungkapan informal tidak ilmiah)",
+      "vaguely beside each other — samar-samar bersebelahan (tidak akademis)",
+      "inextricably linked — terkait erat dan tidak dapat dipisahkan satu sama lain"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "explanation": "'Inextricably linked' (terkait erat dan tak terpisahkan) is an authentic academic collocation for codependent phenomena."
   }
 ];
@@ -3196,10 +3241,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "请____学校的最新规定提交奖学金申请材料。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "按照 (ànzhào)",
-          "尽管 (jǐnguǎn)",
-          "甚至 (shènzhì)",
-          "几乎 (jīhū)"
+          "按照 (ànzhào) — sesuai dengan / menurut ketentuan",
+          "尽管 (jǐnguǎn) — meskipun / walaupun",
+          "甚至 (shènzhì) — bahkan / sampai-sampai",
+          "几乎 (jīhū) — hampir / nyaris"
         ],
         "correctAnswerIndex": 0,
         "explanation": "'按照' (ànzhào) berarti 'sesuai dengan / menurut ketentuan'. Digunakan dalam instruksi resmi administrasi universitas di Tiongkok."
@@ -3212,10 +3257,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "遇到突发紧急情况时，最重要的是保持____并听从导师指导。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "骄傲 (jiāo'ào)",
-          "冷静 (lěngjìng)",
-          "马虎 (mǎhu)",
-          "活泼 (huópo)"
+          "骄傲 (jiāo'ào) — sombong / bangga",
+          "冷静 (lěngjìng) — tenang / berkepala dingin",
+          "马虎 (mǎhu) — ceroboh / sembrono",
+          "活泼 (huópo) — lincah / ceria"
         ],
         "correctAnswerIndex": 1,
         "explanation": "'冷静' (lěngjìng) berarti tenang / berkepala dingin. Ketenangan adalah kompetensi kunci dalam SOP keselamatan laboratorium Tiongkok."
@@ -3228,12 +3273,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "经过一年的刻苦钻研，他在学术研究中____了优异的成绩。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "取得 (qǔdé)",
-          "发生 (fāshēng)",
-          "建立 (jiànlì)",
-          "造成 (zàochéng)"
+          "发生 (fāshēng) — terjadi / berlangsung",
+          "建立 (jiànlì) — membangun / mendirikan",
+          "取得 (qǔdé) — meraih / memperoleh",
+          "造成 (zàochéng) — menimbulkan / mengakibatkan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Dalam bahasa Mandarin formal, kolokasi baku untuk prestasi (成绩) adalah 取得成绩 (meraih prestasi)."
       },
       {
@@ -3244,12 +3289,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "这篇学术论文____篇幅不长，____论点非常鲜明有力。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "虽然...但是... (suīrán... dànshì...)",
-          "不但...而且... (búdàn... érqiě...)",
-          "只要...就... (zhǐyào... jiù...)",
-          "因为...所以... (yīnwèi... suǒyǐ...)"
+          "不但...而且... (búdàn... érqiě...) — tidak hanya... tetapi juga...",
+          "只要...就... (zhǐyào... jiù...) — asalkan... maka...",
+          "因为...所以... (yīnwèi... suǒyǐ...) — karena... maka...",
+          "虽然...但是... (suīrán... dànshì...) — meskipun... tetapi..."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'虽然...但是...' digunakan untuk menyatakan pertentangan konsesif (meskipun... tetapi...)."
       },
       {
@@ -3259,10 +3304,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Saat wawancara lisan beasiswa/kampus, dosen bertanya: '你为什么选择来我们大学攻读硕士学位？'. Jawaban terstruktur dan paling santun adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "在我看来，贵校在该领域拥有顶尖的科研师资和实验平台，这非常符合我的学术研究方向。",
-          "我也不知道，是我的父母让我申请贵校的，我觉得随便读哪个学校都可以。",
-          "贵校在市中心，买东西很方便，有很多好吃的餐馆，所以我很喜欢。",
-          "因为其他大学的学费太贵了，只有贵校给的奖学金最多。"
+          "在我看来，贵校在该领域拥有顶尖的科研师资和实验平台，这非常符合我的学术研究方向。 — Menurut saya, universitas Anda memiliki pengajar riset dan fasilitas lab terbaik yang sesuai dengan arah penelitian saya.",
+          "我也不知道，是我的父母让我申请贵校的，我觉得随便读哪个学校都可以。 — Saya juga tidak tahu, orang tua saya yang menyuruh mendaftar, kuliah di mana saja sama saja.",
+          "贵校在市中心，买东西很方便，有很多好吃的餐馆，所以我很喜欢。 — Kampus Anda di pusat kota, mudah berbelanja dan banyak restoran enak.",
+          "因为其他大学的学费太贵了，只有贵校给的奖学金最多。 — Karena biaya kuliah kampus lain terlalu mahal dan hanya kampus Anda yang memberi beasiswa terbesar."
         ],
         "correctAnswerIndex": 0,
         "explanation": "Jawaban formal akademik harus berorientasi pada reputasi ilmiah (科研师资), sarana riset (实验平台), dan kesesuaian minat studi (学术研究方向)."
@@ -3274,12 +3319,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Jika dalam seminar dosen berbicara terlalu cepat dan Anda belum paham, ungkapan paling santun untuk memohon pengulangan adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "教授，不好意思，刚才那部分我没太听懂，能不能请您再详细阐述一下？",
-          "你说得太快了，我听不懂，你重新说一遍吧！",
-          "算了，我不想听了，你直接把PPT发给我看吧。",
-          "你说的这个理论根本就不对，我不赞成。"
+          "你说得太快了，我听不懂，你重新说一遍吧！ — Anda bicara terlalu cepat, saya tidak mengerti, ulangi sekali lagi!",
+          "教授，不好意思，刚才那部分我没太听懂，能不能请您再详细阐述一下？ — Profesor, mohon maaf, bagian tadi saya kurang paham, bisakah Anda menjelaskannya lebih rinci?",
+          "算了，我不想听了，你直接把PPT发给我看吧。 — Sudahlah, saya malas mendengar, kirimkan saja PPT-nya kepada saya.",
+          "你说的这个理论根本就不对，我不赞成。 — Teori yang Anda katakan sama sekali salah, saya tidak setuju."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Gunakan kata santun 不好意思 (maaf), sebut gelar 教授 (Profesor), dan gunakan verba formal 请您再详细阐述一下 (mohon berkenan menguraikan kembali)."
       },
       {
@@ -3289,12 +3334,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pada silabus ujian tertulis tertulis: '本门课程期末考核形式为闭卷笔试'. Arti istilah '闭卷笔试' adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Ujian tertulis tutup buku (tanpa boleh membuka catatan atau buku)",
           "Ujian lisan wawancara tatap muka",
           "Ujian kelompok santai tanpa batas waktu",
+          "Ujian tertulis tutup buku (tanpa boleh membuka catatan atau buku)",
           "Ujian praktik lapangan mandiri"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "闭卷笔试 (bìjuàn bǐshì) adalah ujian tertulis tutup buku resmi (lawan dari 开卷考试 - open book)."
       },
       {
@@ -3304,12 +3349,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Konjungsi ragam tulis resmi (书面语) yang paling tepat untuk menambahkan poin pendukung dalam Proposal Rencana Studi (学习计划) adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "此外 (cǐwài)",
-          "还有啊 (hái yǒu a)",
-          "顺便说一下 (shùnbiàn shuō yíxià)",
-          "对啦 (duì le)"
+          "还有啊 (hái yǒu a) — satu lagi ya (ragam lisan santai)",
+          "顺便说一下 (shùnbiàn shuō yíxià) — ngomong-ngomong (ragam percakapan)",
+          "对啦 (duì le) — oh iya (ragam lisan)",
+          "此外 (cǐwài) — selain itu / di samping itu (ragam tulis formal)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'此外' (cǐwài: selain itu) adalah konjungsi书面语 standar; hindari bahasa lisan santai seperti '还有啊' atau '对啦'."
       },
       {
@@ -3320,10 +3365,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "实验过程中温度控制不当，往往会____化合物发生不可逆的化学分解。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "导致 (dǎozhì)",
-          "促进 (cùjìn)",
-          "有利于 (yǒulì yú)",
-          "取得 (qǔdé)"
+          "导致 (dǎozhì) — mengakibatkan / menyebabkan (dampak negatif)",
+          "促进 (cùjìn) — mendorong / memajukan (dampak positif)",
+          "有利于 (yǒulì yú) — bermanfaat bagi / menguntungkan",
+          "取得 (qǔdé) — memperoleh / meraih (prestasi)"
         ],
         "correctAnswerIndex": 0,
         "explanation": "'导致' (dǎozhì) khusus digunakan untuk akibat negatif yang tidak diharapkan (dekomposisi senyawa yang merusak)."
@@ -3335,19 +3380,19 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Partikel klasik '之' (zhī) dalam kalimat ilmiah '重中之重' (zhòng zhōng zhī zhòng) berfungsi sebagai:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Penanda kepemilikan / relasi atributif formal (setara dengan kata '的')",
           "Kata ganti penunjuk orang ketiga jamak",
+          "Penanda kepemilikan / relasi atributif formal (setara dengan kata '的')",
           "Kata seru penutup kalimat tanya",
           "Kata bilangan kelipatan sepuluh"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Partikel 文言文 '之' dalam bahasa tulis akademik modern berfungsi sebagai modifikator atributif formal yang setara dengan '的'."
       }
     ]
   },
   "cn-2": {
     "id": "test-cn-2",
-    "title": "Bagian 2: Esai Rencana Studi & Analisis Konseptual Tiongkok (10 Soal Essai)",
+    "title": "Bagian 2: Terjemahan Kalimat Akademik (10 Soal Terjemahkan)",
     "description": "Uji kemampuan menyusun esai motivasi, proposal rencana riset, etika akademik, dan korespondensi formal dengan dosen di Tiongkok.",
     "passingScorePercent": 75,
     "questions": [
@@ -3355,151 +3400,161 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "id": "q-cn-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan dalam 2-3 kalimat mengenai motivasi utama Anda memilih kuliah di universitas Tiongkok dan jurusan yang Anda tuju (留学动机与专业选择):",
-        "sampleAnswer": "我选择赴华深造，是因为中国在我的专业领域（如人工智能/国际商贸/工程技术）拥有世界一流的师资力量和科研平台。通过在贵校的学习，我希望能深入掌握专业前沿知识，提升跨文化交流能力，并在毕业后为两国在科技与经贸领域的合作做出积极贡献。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。 (Kēxué yánjiū shì yì tiáo màncháng ér jiānxīn de dàolù, zuì jìhuì de jiù shì bàntú'érfèi.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.",
         "keywords": [
-          "专业领域",
-          "科研",
-          "师资",
-          "贡献",
-          "深造"
+          "penelitian",
+          "ilmiah",
+          "jalan",
+          "panjang"
         ],
-        "explanation": "Esai motivasi studi harus mencantumkan 3 pilar: (1) keunggulan riset/kampus di Tiongkok, (2) relevansi dengan rencana karier pribadi, dan (3) komitmen kontribusi bilateral."
+        "explanation": "Kalimat akademik pola 成语 (Chéngyǔ) Kunci 1: Filosofi Ketekunan & Perjuangan Hidup: '科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。' diterjemahkan secara akurat menjadi 'Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.'."
       },
       {
         "id": "q-cn-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan rencana studi dan adaptasi akademik Anda pada semester pertama perkuliahan di Tiongkok (第一学期的学业规划):",
-        "sampleAnswer": "在入学第一学期，我的核心任务是顺利通过全中文授课的专业基础必修课，并迅速适应实验室的科研节奏。同时，我计划积极参与导师组织的学术研讨会（组会），扎实阅读本领域的核心专业文献，并强化汉语言学术写作能力。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。 (Miànduì wèilái kěnéng chūxiàn de jiùyè jìngzhēng yālì, dàxuéshēng yīngdāng wèiyǔchóumóu, jízǎo guīhuà zhíyè dàolù.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.",
         "keywords": [
-          "必修课",
-          "研讨会",
-          "文献",
-          "适应",
-          "学术写作"
+          "menghadapi",
+          "tekanan",
+          "persaingan",
+          "kerja"
         ],
-        "explanation": "Rencana semester pertama harus menitikberatkan pada penguasaan mata kuliah wajib dasar (必修课), partisipasi seminar riset (组会), dan pembacaan literatur ilmiah (专业文献)."
+        "explanation": "Kalimat akademik pola 成语 (Chéngyǔ) Kunci 2: Strategi, Kebijaksanaan, & Kewaspadaan: '面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。' diterjemahkan secara akurat menjadi 'Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.'."
       },
       {
         "id": "q-cn-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan format salam pembuka dan identitas diri yang sopan saat Anda pertama kali mengirim email kepada calon Dosen Pembimbing (导师):",
-        "sampleAnswer": "尊敬的[导师姓名]教授：您好！学生名叫[自己的名字]，来自印度尼西亚，本科毕业于[毕业院校]。非常冒昧给您写信，我一直拜读您在[具体研究方向]领域的学术著作，深受启发。我希望能申请成为您的硕士研究生，附上我的个人简历与研究计划，恳请您批评指正。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "该学者毕业于北京大学物理系，其主要研究方向为量子计算。 (Gāi xuézhě bìyè yú Běijīng Dàxué wùlǐ xì, qí zhǔyào yánjiū fāngxiàng wéi liàngzǐ jìsuàn.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.",
         "keywords": [
-          "尊敬的",
-          "教授",
-          "拜读",
-          "指正",
-          "简历"
+          "ilmuwan",
+          "tersebut",
+          "lulus",
+          "departemen"
         ],
-        "explanation": "Email kepada dosen di Tiongkok wajib menggunakan kata sapaan formal 尊敬的...教授, merendahkan diri dengan kata 学生, dan diakhiri dengan permohonan bimbingan 恳请批评指正."
+        "explanation": "Kalimat akademik pola Partikel Klasik 文言虚词 dalam Mandarin Modern: 之, 其, 以, 于: '该学者毕业于北京大学物理系，其主要研究方向为量子计算。' diterjemahkan secara akurat menjadi 'Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.'."
       },
       {
         "id": "q-cn-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Mengapa dalam penulisan tugas ilmiah (论文) mahasiswa dilarang memakai bahasa lisan (口语) dan wajib menggunakan bahasa tertulis formal (书面语)? Berikan 2 contoh pasangan katanya:",
-        "sampleAnswer": "Bahasa tertulis formal (书面语) menjamin objektivitas, presisi leksikal, dan wibawa akademis sebuah karya ilmiah, sedangkan bahasa lisan (口语) bersifat santai dan ambigu. Contoh pasangan: (1) Lisan: '随便' vs Tulisan: '任意/视情况而定'; (2) Lisan: '很多' vs Tulisan: '众多/大量/不胜枚举'; (3) Lisan: '后来' vs Tulisan: '随后/进而'.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。 (Jiànyú dāngqián guójì jīnróng shìchǎng de yánjùn xíngshì, gè guó yāngháng shìbì cǎiqǔ gèngjiā jǐnshèn de huòbì zhèngcè.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.",
         "keywords": [
-          "书面语",
-          "口语",
-          "客观",
-          "精确",
-          "论文"
+          "menimbang",
+          "situasi",
+          "genting",
+          "pasar"
         ],
-        "explanation": "Perbedaan register bahasa sangat krusial; penggunaan diksi formal mencerminkan tingkat kematangan intelektual sarjana."
+        "explanation": "Kalimat akademik pola Penanda Wacana Deduktif Akademis: 鉴于 (jiànyú), 势必 (shìbì), 毋庸置疑: '鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。' diterjemahkan secara akurat menjadi 'Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.'."
       },
       {
         "id": "q-cn-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana langkah terstruktur Anda jika mengalami kendala dalam memahami instruksi dosen atau rekan lab yang menggunakan dialek lokal atau istilah teknis tinggi?",
-        "sampleAnswer": "Saya akan: (1) Mencatat istilah teknis tersebut dan menanyakan konfirmasi definisi bakunya secara santun setelah kelas; (2) Memanfaatkan kamus istilah spesifik (专业词典) dan jurnal rujukan; (3) Berdiskusi dengan rekan lab senior (师兄/师姐) untuk meminta bimbingan teknis.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。 (Tā jīntiān zài xuéshù shàng suǒ qǔdé de fēifán chéngjiù, hěn dà chéngdù shàng yuányú tā tóngnián shíqī yǎngchéng de yuèdú xíguàn.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.",
         "keywords": [
-          "师兄",
-          "词典",
-          "请教",
-          "记录",
-          "沟通"
+          "prestasi",
+          "luar",
+          "biasa",
+          "diraihnya"
         ],
-        "explanation": "Sikap proaktif mahasiswa asing dalam bertanya secara santun dan memanfaatkan sumber daya akademik kampus sangat dihargai oleh sivitas akademika Tiongkok."
+        "explanation": "Kalimat akademik pola Pola Kausalitas Filosofis: 缘于 (yuányú), 归咎于 (guījiùyú), 取决于: '他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。' diterjemahkan secara akurat menjadi 'Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.'."
       },
       {
         "id": "q-cn-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan rencana karier Anda setelah berhasil menyelesaikan studi sarjana/pascasarjana di Tiongkok (毕业后的职业规划):",
-        "sampleAnswer": "毕业后，我计划回国进入高等院校或跨国高新技术企业，将在中国学到的先进专业技术与跨文化管理经验付诸实践。同时，我也致力于搭建中印尼两国在相关学术及产业领域的合作桥梁。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。 (Fánshì zài běn xuéqī qǔdé HSK liù jí gāofēn de guójì liúxuéshēng, jūn yǒu zīgé shēnqǐng yōuxiù xuéyè yīděng jiǎngxuéjīn.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.",
         "keywords": [
-          "毕业",
-          "技术",
-          "实践",
-          "合作",
-          "桥梁"
+          "semua",
+          "mahasiswa",
+          "internasional",
+          "meraih"
         ],
-        "explanation": "Pemberi beasiswa CSC sangat menyukai kandidat yang memiliki visi jangka panjang untuk menjadi jembatan kerja sama antara Tiongkok dan negara asal."
+        "explanation": "Kalimat akademik pola Sintaksis Bahasa Hukum & Regulasi: 凡是...均... / 一概 (yígài): '凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。' diterjemahkan secara akurat menjadi 'Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.'."
       },
       {
         "id": "q-cn-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan pemahaman Anda mengenai integritas akademik (学术诚信) dan konsekuensi jika melakukan kecurangan plagiarisme (抄袭/剽窃) di kampus Tiongkok:",
-        "sampleAnswer": "Integritas akademik adalah fondasi kejujuran ilmiah seorang peneliti. Plagiarisme (抄袭) adalah pelanggaran berat yang dapat menyebabkan nilai ujian dibatalkan (作废), pencabutan status beasiswa (取消奖学金资格), hingga dikeluarkan secara tidak hormat dari universitas (开除学籍). Seluruh kutipan wajib mencantumkan sumber rujukan secara sah.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。 (Gùgōng Bówùyuàn zhǎnchū de lìdài qīngtóngqì yǔ gǔdài shūhuà cángpǐn, qí gōngyì jīngzhàn, lìng rén tànwéiguānzhǐ.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.",
         "keywords": [
-          "抄袭",
-          "学术诚信",
-          "处分",
-          "开除",
-          "引用"
+          "koleksi",
+          "bejana",
+          "perunggu",
+          "lukisan"
         ],
-        "explanation": "Universitas di Tiongkok menerapkan sistem uji kemiripan digital (查重系统) yang ketat; batas plagiarisme tesis umumnya di bawah 10-15%."
+        "explanation": "Kalimat akademik pola Ekspresi Derajat Ekstrem Abstrak: 无可奈何, 叹为观止, 淋漓尽致: '故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。' diterjemahkan secara akurat menjadi 'Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.'."
       },
       {
         "id": "q-cn-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana strategi manajemen waktu Anda dalam menyeimbangkan antara tuntutan riset laboratorium yang padat dan adaptasi sosial di lingkungan baru?",
-        "sampleAnswer": "Saya akan menerapkan skala prioritas dengan metode time-blocking: mendedikasikan jam kerja efektif siang hari untuk eksperimen lab dan perkuliahan, memanfaatkan malam hari untuk tinjauan literatur mandiri, serta mengalokasikan akhir pekan untuk bersosialisasi dan mengenal budaya masyarakat lokal.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "这次学术讲座使我明白了科研诚信的重要性。 (Zhè cì xuéshù jiǎngzuò shǐ wǒ míngbai le kēyán chéngxìn de zhòngyàoxìng.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.",
         "keywords": [
-          "时间管理",
-          "优先级",
-          "实验",
-          "学习",
-          "平衡"
+          "kuliah",
+          "umum",
+          "akademik",
+          "kali"
         ],
-        "explanation": "Manajemen waktu yang disiplin adalah kunci sukses bertahan dalam budaya kerja riset Tiongkok yang berkecepatan tinggi."
+        "explanation": "Kalimat akademik pola Analisis Kesalahan Kalimat Kompleks 病句 (Bìngjù): Kerancuan Subjek & Logika: '这次学术讲座使我明白了科研诚信的重要性。' diterjemahkan secara akurat menjadi 'Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.'."
       },
       {
         "id": "q-cn-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan strategi konkret Anda dalam mencapai sertifikasi HSK 6 sebelum masa studi Anda selesai:",
-        "sampleAnswer": "Saya akan: (1) Membaca rutin artikel surat kabar People's Daily (人民日报) dan makalah jurnal bereputasi; (2) Memperkaya hafalan idiom Chengyu (成语) dan tata bahasa ragam tulis; (3) Melakukan latihan menulis ringkasan esai 400 kata (缩写) setiap minggu sesuai format resmi HSK 6.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。 (Réngōng zhìnéng jìshù de xùnměng fāzhǎn chéngrán jí dà de jiěfàng le shēngchǎnlì, rán'ér qí yǐnfā de lúnlǐ fēngxiǎn yǔ fǎlǜ zhìhòu yì bùróng hūshì.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.",
         "keywords": [
-          "HSK 6",
-          "成语",
-          "阅读",
-          "缩写",
-          "词汇"
+          "perkembangan",
+          "pesat",
+          "teknologi",
+          "kecerdasan"
         ],
-        "explanation": "Ujian HSK 6 menuntut kemampuan membaca cepat teks panjang dan menulis esai ringkasan tanpa bantuan kamus."
+        "explanation": "Kalimat akademik pola Retorika Debat Publik & Esai Kritis: 诚然...固然...然而: '人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。' diterjemahkan secara akurat menjadi 'Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.'."
       },
       {
         "id": "q-cn-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana sikap dan tindakan profesional Anda jika draf proposal penelitian Anda dikritik tajam atau diminta revisi mayor oleh Dosen Pembimbing?",
-        "sampleAnswer": "Saya akan menyikapi kritik tersebut dengan rendah hati dan pandangan positif, karena masukan dari dosen pembimbing adalah demi kesempurnaan mutu riset. Saya akan membuat tabel daftar revisi (修改清单), memperbaiki bagian metodologi sesuai saran beliau, dan menjadwalkan konsultasi lanjutan untuk memaparkan perbaikannya.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。 (Zòngguān rénlèi lìshǐ chánghé, wéiyǒu bǐngchí kāifàng bāoróng, jiānshōubìngxù zhī xiōngjīn, bùtóng wénmíng fāng néng zài hùxué hùjiàn zhōng gòngtóng zhànfàng yìcǎi.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.",
         "keywords": [
-          "导师",
-          "修改",
-          "反馈",
-          "积极",
-          "完善"
+          "memandang",
+          "panorama",
+          "panjang",
+          "sejarah"
         ],
-        "explanation": "Di lingkungan universitas Tiongkok, revisi naskah berulang kali (修改多遍) adalah proses lumrah untuk membentuk standar kualitas ilmiah."
+        "explanation": "Kalimat akademik pola Sintaksis Tingkat Mahir Fluktuasi Wacana & Evaluasi Komprehensif HSK 6: '纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。' diterjemahkan secara akurat menjadi 'Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.'."
       }
     ]
   },
@@ -3515,10 +3570,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat instruksi penyerahan berkas beasiswa yang baku:",
         "scrambledWords": [
-          "申请奖学金的材料",
-          "请在截止日期前",
           "提交至",
-          "留学生办公室"
+          "留学生办公室",
+          "请在截止日期前",
+          "将申请奖学金的材料"
         ],
         "correctOrder": [
           "请在截止日期前",
@@ -3536,18 +3591,20 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat permohonan bimbingan skripsi formal:",
         "scrambledWords": [
-          "关于毕业论文的提纲",
-          "我想与导师",
-          "进行深入的探讨"
+          "深入的探讨",
+          "进行",
+          "就毕业论文的提纲",
+          "我想与导师"
         ],
         "correctOrder": [
           "我想与导师",
-          "关于毕业论文的提纲",
-          "进行深入的探讨"
+          "就毕业论文的提纲",
+          "进行",
+          "深入的探讨"
         ],
         "targetSentence": "我想与导师就毕业论文的提纲进行深入的探讨。",
         "audioVoiceLang": "zh-CN",
-        "explanation": "Urutan baku: Subjek (我想与导师) + Topik preposisi (关于毕业论文的提纲) + Frasa predikat (进行深入的探讨)."
+        "explanation": "Urutan baku: Subjek (我想与导师) + Frasa preposisi topik (就毕业论文的提纲) + Kata kerja formal (进行) + Objek tindakan (深入的探讨)."
       },
       {
         "id": "q-cn-sk-3",
@@ -3555,10 +3612,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat tata tertib keselamatan laboratorium:",
         "scrambledWords": [
-          "进入重点实验室前",
-          "所有科研人员",
+          "专业防护装备",
           "必须佩戴",
-          "专业防护装备"
+          "所有科研人员",
+          "进入重点实验室前"
         ],
         "correctOrder": [
           "进入重点实验室前",
@@ -3576,13 +3633,15 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman pengisian KRS perkuliahan:",
         "scrambledWords": [
+          "尽快完成",
+          "本学期的专业选课",
           "教务系统开放之后",
-          "请同学们尽快完成",
-          "本学期的专业选课"
+          "请同学们"
         ],
         "correctOrder": [
           "教务系统开放之后",
-          "请同学们尽快完成",
+          "请同学们",
+          "尽快完成",
           "本学期的专业选课"
         ],
         "targetSentence": "教务系统开放之后，请同学们尽快完成本学期的专业选课。",
@@ -3595,10 +3654,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi penjelasan fasilitas Beasiswa Pemerintah Tiongkok:",
         "scrambledWords": [
-          "中国政府奖学金",
-          "为优秀留学生提供",
+          "以及生活补贴",
           "全额学费减免",
-          "以及生活补贴"
+          "为优秀留学生提供",
+          "中国政府奖学金"
         ],
         "correctOrder": [
           "中国政府奖学金",
@@ -3638,16 +3697,16 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "id": "q-cn-ar-2",
         "type": "translation",
         "sectionType": "artikan",
-        "prompt": "Pilihlah arti yang tepat dari istilah akademik penting: '毕业论文答辩 (Bìyè lùnwén dábbiàn)':",
+        "prompt": "Pilihlah arti yang tepat dari istilah akademik penting: '毕业论文答辩 (Bìyè lùnwén dábiàn)':",
         "targetSentence": "通过毕业论文答辩是获得硕士学位证书的前提条件。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Sidang ujian / pertahanan skripsi atau tesis kelulusan",
           "Pencetakan jilid sampul buku tugas akhir",
+          "Sidang ujian / pertahanan skripsi atau tesis kelulusan",
           "Pendaftaran wisuda akbar universitas",
           "Pembagian toga kelulusan mahasiswa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "答辩 (dábiàn) dalam konteks perguruan tinggi bermakna sidang ujian pertahanan tesis/disertasi di hadapan dewan penguji."
       },
       {
@@ -3658,12 +3717,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "留学生在校期间参加勤工俭学，必须遵守国家相关出入境法规。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Bekerja paruh waktu resmi sambil kuliah (work-study program)",
           "Kegiatan olahraga bersama mahasiswa lokal",
           "Program pertukaran pelajar antar negara",
+          "Bekerja paruh waktu resmi sambil kuliah (work-study program)",
           "Membayar uang SPP secara mencicil"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "勤工俭学 adalah istilah resmi Tiongkok untuk program bekerja paruh waktu yang sah bagi mahasiswa sambil menempuh pendidikan."
       },
       {
@@ -3674,12 +3733,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "研究生必须在入学第二学期结束前完成学位论文的开题报告。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Laporan / seminar pembukaan proposal penelitian tugas akhir",
           "Laporan keuangan kegiatan organisasi kemahasiswaan",
           "Kartu hasil studi semester pertama",
-          "Surat izin sakit dari klinik kampus"
+          "Surat izin sakit dari klinik kampus",
+          "Laporan / seminar pembukaan proposal penelitian tugas akhir"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "开题报告 adalah tahapan seminar proposal penelitian di mana mahasiswa memaparkan latar belakang, metodologi, dan urgensi riset di hadapan dewan dosen."
       },
       {
@@ -3706,12 +3765,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "申请中国政府奖学金需随附两名教授或副教授出具的专家推荐信。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Surat rekomendasi akademik dari pakar / profesor",
           "Surat keterangan sehat dari rumah sakit",
+          "Surat rekomendasi akademik dari pakar / profesor",
           "Surat pernyataan bebas catatan kepolisian",
           "Surat bukti kepemilikan rekening tabungan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "推荐信 = surat rekomendasi (letter of recommendation); 专家 = pakar/guru besar."
       },
       {
@@ -3722,12 +3781,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "护照上的学习类居留许可延期手续，必须在到期前三十日内办理。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Perpanjangan izin tinggal (Residence Permit) pelajar asing di kepolisian (PSB)",
           "Pembuatan paspor baru di kedutaan besar",
           "Pembelian tiket pesawat pulang pergi",
+          "Perpanjangan izin tinggal (Residence Permit) pelajar asing di kepolisian (PSB)",
           "Penyewaan kamar asrama internasional"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "居留许可 = izin tinggal (Residence Permit); 延期 = perpanjangan masa berlaku."
       },
       {
@@ -3738,12 +3797,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "提交毕业论文终稿前，全文学术查重率不得超过百分之十。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Tingkat persentase kemiripan / uji plagiarisme karya tulis ilmiah",
           "Jumlah cetakan buku di percetakan universitas",
           "Kecepatan pengetikan naskah dalam satu menit",
-          "Bobot persentase nilai ujian akhir semester"
+          "Bobot persentase nilai ujian akhir semester",
+          "Tingkat persentase kemiripan / uji plagiarisme karya tulis ilmiah"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "查重率 (similarity index) adalah persentase kesamaan teks dengan basis data publikasi terdahulu untuk mencegah plagiarisme."
       },
       {
@@ -3770,12 +3829,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "获得全额奖学金的学生享有学费免除、免费住宿及每月生活津贴。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Beasiswa penuh (mencakup biaya kuliah, asrama, dan tunjangan hidup bulanan)",
           "Potongan biaya kuliah setengah semester",
+          "Beasiswa penuh (mencakup biaya kuliah, asrama, dan tunjangan hidup bulanan)",
           "Pinjaman dana pendidikan tanpa bunga",
           "Hadiah uang tunai satu kali untuk juara lomba"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "全额 (jumlah penuh) + 奖学金 (beasiswa) = beasiswa penuh (Full Scholarship)."
       }
     ]
@@ -3793,12 +3852,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca teks silabus singkat berikut:\n'本门专业课考核采用综合评定制：期末闭卷考试占总成绩50%，课堂讨论及文献汇报占30%，平时出勤与课后作业占20%。旷课超过三次者，取消期末考试资格。'\n\nApa akibat yang akan diterima mahasiswa jika membolos kuliah lebih dari tiga kali?",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Didiskualifikasi dan kehilangan hak mengikuti ujian akhir semester",
           "Diberikan tugas tambahan membuat rangkuman buku",
           "Hanya dikenai pemotongan nilai sebesar lima persen",
+          "Didiskualifikasi dan kehilangan hak mengikuti ujian akhir semester",
           "Diminta pindah ke kelas perkuliahan malam"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Teks menyatakan tegas: '旷课超过三次者，取消期末考试资格' (Membolos lebih dari 3 kali akan dibatalkan hak ujian akhirnya)."
       },
       {
@@ -3808,12 +3867,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca teks aturan perpustakaan berikut:\n'读者借阅中文图书每次限借10本，借期30天；外文原版图书限借3本，借期15天。图书逾期未还者，系统将每日计收滞纳金，并冻结借书权限直至还清欠费。'\n\nBerapa batas waktu peminjaman buku asli berbahasa asing (外文原版图书)?",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "15 hari",
           "30 hari",
           "60 hari",
-          "Satu semester"
+          "Satu semester",
+          "15 hari"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Dalam teks tertulis: '外文原版图书限借3本，借期15天' (Buku berbahasa asing dibatasi 3 eksemplar dengan masa pinjam 15 hari)."
       },
       {
@@ -3839,12 +3898,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "各位留学生同学请注意：本周五下午两点在学术报告厅举行毕业论文开题动员大会，届时将详细讲解论文查重与答辩时间节点，请全体研二同学务必准时出席。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Pertemuan sosialisasi seminar proposal dan jadwal ujian skripsi diadakan Jumat jam 2 siang untuk mahasiswa tingkat dua",
           "Ujian skripsi dimajukan ke hari Jumat pagi di laboratorium komputer",
+          "Pertemuan sosialisasi seminar proposal dan jadwal ujian skripsi diadakan Jumat jam 2 siang untuk mahasiswa tingkat dua",
           "Perpustakaan pusat akan ditutup pada hari Jumat siang untuk renovasi",
           "Wisuda akbar mahasiswa asing akan diselenggarakan di aula utama"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Audio mengumumkan: 开题动员大会 (rapat pengarahan proposal) pada Jumat jam 14.00 di aula akademik untuk mahasiswa tahun ke-2."
       },
       {
@@ -3855,12 +3914,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "实验人员离开实验室前，必须逐一检查水阀、气阀、电源开关是否完全关闭，并确认门窗上锁。如遇突发漏气或电路短路，请立即按下紧急报警按钮并迅速撤离。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Kewajiban memeriksa air, gas, listrik, dan mengunci pintu sebelum meninggalkan lab",
           "Larangan membawa tas ransel dan jaket tebal ke dalam laboratorium",
           "Jadwal pergantian shift asisten peneliti laboratorium",
+          "Kewajiban memeriksa air, gas, listrik, dan mengunci pintu sebelum meninggalkan lab",
           "Petunjuk tata cara mencuci alat gelas kimia setelah percobaan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Audio menjelaskan protokol penutupan kran air, katup gas, listrik, serta evakuasi darurat laboratorium."
       },
       {
@@ -3871,12 +3930,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "你的在读证明和中文成绩单已经打印盖章了，请带上学生证到留学生事务大厅三号窗口领取。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Surat keterangan mahasiswa aktif dan transkrip nilai resmi sudah siap diambil di loket 3",
           "Pendaftaran kartu asuransi kesehatan ditolak karena berkas tidak lengkap",
           "Kartu tanda mahasiswa hilang dan harus membayar denda pembuatan ulang",
-          "Jadwal wawancara beasiswa dipindahkan ke aula administrasi"
+          "Jadwal wawancara beasiswa dipindahkan ke aula administrasi",
+          "Surat keterangan mahasiswa aktif dan transkrip nilai resmi sudah siap diambil di loket 3"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "在读证明 = surat keterangan mahasiswa aktif; 盖章 = telah dicap resmi; 领取 = silakan diambil."
       },
       {
@@ -3886,10 +3945,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Isilah bagian rumpang kalimat akademik berikut dengan konjungsi 书面语 yang tepat:\n'____传统宏观经济模型无法完全解释近期的金融市场波动，学术界____提出了多项修正假设。'",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "鉴于...因而... (Jiànyú... yīn'ér...)",
-          "不管...但也... (bùguǎn... dàn yě...)",
-          "只要...才... (zhǐyào... cái...)",
-          "虽然...所以... (suīrán... suǒyǐ...)"
+          "鉴于...因而... (Jiànyú... yīn'ér...) — mengingat... oleh karena itu...",
+          "不管...但也... (bùguǎn... dàn yě...) — tidak peduli... namun juga...",
+          "只要...才... (zhǐyào... cái...) — asalkan... barulah...",
+          "虽然...所以... (suīrán... suǒyǐ...) — meskipun... jadi..."
         ],
         "correctAnswerIndex": 0,
         "explanation": "'鉴于' (mengingat / mempertimbangkan bahwa...) berkolokasi formal dengan '因而' (oleh karenanya) dalam teks karya ilmiah."
@@ -3901,12 +3960,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilih kata bentukan istilah ilmiah yang tepat untuk melengkapi kalimat:\n'随着数字技术的普及，该研究项目旨在推动传统文献资源的数字化与____建设。'",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "规范化 (guīfànhuà)",
-          "规范性 (guīfànxìng)",
-          "规范度 (guīfàndù)",
-          "规范感 (guīfàngǎn)"
+          "规范性 (guīfànxìng) — sifat normatif / keteraturan",
+          "规范化 (guīfànhuà) — standardisasi / pembakuan",
+          "规范度 (guīfàndù) — tingkat keteraturan",
+          "规范感 (guīfàngǎn) — kesan keteraturan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Sufiks '化' (-isasi) menyatakan proses perubahan menuju suatu standar (数字化 dan 规范化: standardisasi)."
       },
       {
@@ -3916,12 +3975,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilih pasangan kata penanda topik perbandingan yang tepat:\n'____实验组的数据表现稳定，对照组的测量指标____出现了较大的离散偏差。'",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "相较于...则... (Xiāng jiàoyú... zé...)",
-          "虽然...就... (suīrán... jiù...)",
-          "即使...才... (jíshǐ... cái...)",
-          "不但...反之... (búdàn... fǎnzhī...)"
+          "虽然...就... (suīrán... jiù...) — meskipun... langsung...",
+          "即使...才... (jíshǐ... cái...) — kalaupun... barulah...",
+          "相较于...则... (Xiāng jiàoyú... zé...) — dibandingkan dengan... sedangkan...",
+          "不但...反之... (búdàn... fǎnzhī...) — tidak hanya... sebaliknya..."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "'相较于 [A] ... [B] 则 ...' (Dibandingkan dengan A, maka B justru ...) adalah sintaksis komparatif standar laporan penelitian."
       },
       {
@@ -3930,13 +3989,13 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Analisis kalimat rusak (病句辨析): Manakah kalimat di bawah ini yang SALAH secara tata bahasa struktur 把 (bǎ)?",
         "options": [
-          "他把那个实验结果没有记录在笔记本上。",
-          "他没有把那个实验结果记录在笔记本上。",
-          "请把你的学术论文按时提交给导师。",
-          "研究人员把样本放进了超低温冰箱。"
+          "他没有把那个实验结果记录在笔记本上。 — Dia tidak mencatat hasil eksperimen itu di buku catatan.",
+          "请把你的学术论文按时提交给导师。 — Harap serahkan makalah akademik Anda tepat waktu kepada dosen pembimbing.",
+          "研究人员把样本放进了超低温冰箱。 — Peneliti memasukkan sampel ke dalam lemari pendingin suhu ultra-rendah.",
+          "他把那个实验结果没有记录在笔记本上。 — Dia hasil eksperimen itu tidak mencatat di buku catatan (negasi salah posisi)."
         ],
-        "correctAnswerIndex": 0,
-        "explanation": "Dalam kalimat 把 (bǎ), kata negasi (没有 / 不) wajib diletakkan SEBELUM kata 把, bukan setelahnya. Kalimat 1 salah fatal."
+        "correctAnswerIndex": 3,
+        "explanation": "Dalam kalimat 把 (bǎ), kata negasi (没有 / 不) wajib diletakkan SEBELUM kata 把 ('他没有把那个实验结果记录在笔记本上'), bukan sesudah objek 把."
       },
       {
         "id": "q-cn-bb-11",
@@ -3944,13 +4003,13 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Analisis kalimat rusak (病句辨析): Manakah kalimat berikut yang memiliki susunan sintaksis paling SEMPURNA dan bebas cacat gramatika?",
         "options": [
-          "经过导师的悉心指导，使我的学术论文质量得到了显著提高。",
-          "导师的悉心指导，使我的学术论文质量得到了显著提高。",
-          "在导师的悉心指导下，使我成功发表了高水平学术论文。",
-          "通过导师的悉心指导，从而让我掌握了正确的实验方法。"
+          "导师的悉心指导，使我的学术论文质量得到了显著提高。 — Bimbingan cermat dosen pembimbing membuat kualitas tesis akademik saya meningkat pesat (subjek utuh).",
+          "经过导师的悉心指导，使我的学术论文质量得到了显著提高。 — Melalui bimbingan cermat dosen, membuat kualitas tesis saya meningkat (kehilangan subjek).",
+          "在导师的悉心指导下，使我成功发表了高水平学术论文。 — Di bawah bimbingan cermat dosen, membuat saya berhasil menerbitkan makalah (kehilangan subjek).",
+          "通过导师的悉心指导，从而让我掌握了正确的实验方法。 — Lewat bimbingan dosen, sehingga membuat saya menguasai metode eksperimen (kehilangan subjek)."
         ],
-        "correctAnswerIndex": 1,
-        "explanation": "Kalimat 1, 3, dan 4 mengalami cacat 'kehilangan subjek utama' (滥用介词导致主语残缺: 经过...使...). Kalimat 2 adalah kalimat baku yang memiliki subjek jelas."
+        "correctAnswerIndex": 0,
+        "explanation": "Kalimat '导师的悉心指导，使我的学术论文质量得到了显著提高。' adalah kalimat baku yang memiliki subjek jelas (导师的悉心指导), sedangkan opsi lainnya kehilangan subjek akibat menggabungkan preposisi (经过/在/通过) dengan 使/让."
       },
       {
         "id": "q-cn-bb-12",
@@ -3958,12 +4017,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam wawancara sidang skripsi, penguji mengajukan pertanyaan teoretis yang sama sekali belum pernah Anda pelajari. Sikap akademis paling etis adalah:",
         "options": [
-          "Jujur mengakui bahwa topik tersebut belum tercakup dalam batasan riset saat ini, dan berterima kasih atas masukan berharga penguji untuk riset lanjutan.",
           "Mengarang teori palsu secara percaya diri agar tidak dianggap bodoh oleh penguji.",
+          "Jujur mengakui bahwa topik tersebut belum tercakup dalam batasan riset saat ini, dan berterima kasih atas masukan berharga penguji untuk riset lanjutan.",
           "Menyalahkan dosen pembimbing karena tidak mengajarkan materi tersebut saat bimbingan.",
           "Diam seribu bahasa dan menatap lantai selama lima menit."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Kejujuran intelektual dan sikap terbuka terhadap batasan riset (局限性) adalah etika ilmiah universal yang sangat dihormati."
       },
       {
@@ -3972,12 +4031,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Jika seorang dosen memiliki gelar fungsional Profesor (教授) sekaligus menjabat sebagai Dekan Fakultas (院长), cara menyapa lisan yang paling lazim dan santun adalah:",
         "options": [
-          "王院长 (Wáng Yuànzhǎng) / 王教授 (Wáng Jiàoshòu)",
-          "老王 (Lǎo Wáng)",
-          "王老师的朋友 (Wáng lǎoshī de péngyǒu)",
-          "大叔 (Dàshū)"
+          "老王 (Lǎo Wáng) — Si Tua Wang (sapaan akrab sebaya, tidak sopan untuk dosen)",
+          "王老师的朋友 (Wáng lǎoshī de péngyǒu) — Temannya Guru Wang",
+          "王院长 (Wáng Yuànzhǎng) / 王教授 (Wáng Jiàoshòu) — Dekan Wang / Profesor Wang (sapaan resmi akademik)",
+          "大叔 (Dàshū) — Paman (sapaan jalanan informal)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Gunakan nama marga + jabatan administratif (王院长) atau jabatan fungsional akademik (王教授). Jangan gunakan sebutan informal."
       },
       {
@@ -3986,12 +4045,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Idiom Chengyu (成语) '严谨治学' (Yánjǐn zhìxué) paling tepat menggambarkan profil seorang akademisi yang:",
         "options": [
-          "Menjalankan penelitian ilmiah dengan dedikasi tinggi, cermat, teliti, dan tanpa kompromi terhadap kesalahan data",
           "Suka mengkritik orang lain tanpa memberikan solusi konkret",
           "Belajar hanya saat menjelang malam sebelum ujian semester",
-          "Memiliki banyak gelar tetapi jarang masuk laboratorium"
+          "Memiliki banyak gelar tetapi jarang masuk laboratorium",
+          "Menjalankan penelitian ilmiah dengan dedikasi tinggi, cermat, teliti, dan tanpa kompromi terhadap kesalahan data"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "严谨治学 adalah semboyan integritas universitas top Tiongkok yang berarti ketat, cermat, dan berdisiplin tinggi dalam menuntut ilmu."
       },
       {
@@ -4024,10 +4083,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "请____学校的最新规定提交奖学金申请材料。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "按照 (ànzhào)",
-          "尽管 (jǐnguǎn)",
-          "甚至 (shènzhì)",
-          "几乎 (jīhū)"
+          "按照 (ànzhào) — sesuai dengan / menurut ketentuan",
+          "尽管 (jǐnguǎn) — meskipun / walaupun",
+          "甚至 (shènzhì) — bahkan / sampai-sampai",
+          "几乎 (jīhū) — hampir / nyaris"
         ],
         "correctAnswerIndex": 0,
         "explanation": "'按照' (ànzhào) berarti 'sesuai dengan / menurut ketentuan'. Digunakan dalam instruksi resmi administrasi universitas di Tiongkok."
@@ -4040,10 +4099,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "遇到突发紧急情况时，最重要的是保持____并听从导师指导。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "骄傲 (jiāo'ào)",
-          "冷静 (lěngjìng)",
-          "马虎 (mǎhu)",
-          "活泼 (huópo)"
+          "骄傲 (jiāo'ào) — sombong / bangga",
+          "冷静 (lěngjìng) — tenang / berkepala dingin",
+          "马虎 (mǎhu) — ceroboh / sembrono",
+          "活泼 (huópo) — lincah / ceria"
         ],
         "correctAnswerIndex": 1,
         "explanation": "'冷静' (lěngjìng) berarti tenang / berkepala dingin. Ketenangan adalah kompetensi kunci dalam SOP keselamatan laboratorium Tiongkok."
@@ -4056,12 +4115,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "经过一年的刻苦钻研，他在学术研究中____了优异的成绩。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "取得 (qǔdé)",
-          "发生 (fāshēng)",
-          "建立 (jiànlì)",
-          "造成 (zàochéng)"
+          "发生 (fāshēng) — terjadi / berlangsung",
+          "建立 (jiànlì) — membangun / mendirikan",
+          "取得 (qǔdé) — meraih / memperoleh",
+          "造成 (zàochéng) — menimbulkan / mengakibatkan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Dalam bahasa Mandarin formal, kolokasi baku untuk prestasi (成绩) adalah 取得成绩 (meraih prestasi)."
       },
       {
@@ -4072,12 +4131,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "这篇学术论文____篇幅不长，____论点非常鲜明有力。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "虽然...但是... (suīrán... dànshì...)",
-          "不但...而且... (búdàn... érqiě...)",
-          "只要...就... (zhǐyào... jiù...)",
-          "因为...所以... (yīnwèi... suǒyǐ...)"
+          "不但...而且... (búdàn... érqiě...) — tidak hanya... tetapi juga...",
+          "只要...就... (zhǐyào... jiù...) — asalkan... maka...",
+          "因为...所以... (yīnwèi... suǒyǐ...) — karena... maka...",
+          "虽然...但是... (suīrán... dànshì...) — meskipun... tetapi..."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'虽然...但是...' digunakan untuk menyatakan pertentangan konsesif (meskipun... tetapi...)."
       },
       {
@@ -4087,10 +4146,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Saat wawancara lisan beasiswa/kampus, dosen bertanya: '你为什么选择来我们大学攻读硕士学位？'. Jawaban terstruktur dan paling santun adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "在我看来，贵校在该领域拥有顶尖的科研师资和实验平台，这非常符合我的学术研究方向。",
-          "我也不知道，是我的父母让我申请贵校的，我觉得随便读哪个学校都可以。",
-          "贵校在市中心，买东西很方便，有很多好吃的餐馆，所以我很喜欢。",
-          "因为其他大学的学费太贵了，只有贵校给的奖学金最多。"
+          "在我看来，贵校在该领域拥有顶尖的科研师资和实验平台，这非常符合我的学术研究方向。 — Menurut saya, universitas Anda memiliki pengajar riset dan fasilitas lab terbaik yang sesuai dengan arah penelitian saya.",
+          "我也不知道，是我的父母让我申请贵校的，我觉得随便读哪个学校都可以。 — Saya juga tidak tahu, orang tua saya yang menyuruh mendaftar, kuliah di mana saja sama saja.",
+          "贵校在市中心，买东西很方便，有很多好吃的餐馆，所以我很喜欢。 — Kampus Anda di pusat kota, mudah berbelanja dan banyak restoran enak.",
+          "因为其他大学的学费太贵了，只有贵校给的奖学金最多。 — Karena biaya kuliah kampus lain terlalu mahal dan hanya kampus Anda yang memberi beasiswa terbesar."
         ],
         "correctAnswerIndex": 0,
         "explanation": "Jawaban formal akademik harus berorientasi pada reputasi ilmiah (科研师资), sarana riset (实验平台), dan kesesuaian minat studi (学术研究方向)."
@@ -4102,12 +4161,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Jika dalam seminar dosen berbicara terlalu cepat dan Anda belum paham, ungkapan paling santun untuk memohon pengulangan adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "教授，不好意思，刚才那部分我没太听懂，能不能请您再详细阐述一下？",
-          "你说得太快了，我听不懂，你重新说一遍吧！",
-          "算了，我不想听了，你直接把PPT发给我看吧。",
-          "你说的这个理论根本就不对，我不赞成。"
+          "你说得太快了，我听不懂，你重新说一遍吧！ — Anda bicara terlalu cepat, saya tidak mengerti, ulangi sekali lagi!",
+          "教授，不好意思，刚才那部分我没太听懂，能不能请您再详细阐述一下？ — Profesor, mohon maaf, bagian tadi saya kurang paham, bisakah Anda menjelaskannya lebih rinci?",
+          "算了，我不想听了，你直接把PPT发给我看吧。 — Sudahlah, saya malas mendengar, kirimkan saja PPT-nya kepada saya.",
+          "你说的这个理论根本就不对，我不赞成。 — Teori yang Anda katakan sama sekali salah, saya tidak setuju."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Gunakan kata santun 不好意思 (maaf), sebut gelar 教授 (Profesor), dan gunakan verba formal 请您再详细阐述一下 (mohon berkenan menguraikan kembali)."
       },
       {
@@ -4117,12 +4176,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pada silabus ujian tertulis tertulis: '本门课程期末考核形式为闭卷笔试'. Arti istilah '闭卷笔试' adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Ujian tertulis tutup buku (tanpa boleh membuka catatan atau buku)",
           "Ujian lisan wawancara tatap muka",
           "Ujian kelompok santai tanpa batas waktu",
+          "Ujian tertulis tutup buku (tanpa boleh membuka catatan atau buku)",
           "Ujian praktik lapangan mandiri"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "闭卷笔试 (bìjuàn bǐshì) adalah ujian tertulis tutup buku resmi (lawan dari 开卷考试 - open book)."
       },
       {
@@ -4132,12 +4191,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Konjungsi ragam tulis resmi (书面语) yang paling tepat untuk menambahkan poin pendukung dalam Proposal Rencana Studi (学习计划) adalah:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "此外 (cǐwài)",
-          "还有啊 (hái yǒu a)",
-          "顺便说一下 (shùnbiàn shuō yíxià)",
-          "对啦 (duì le)"
+          "还有啊 (hái yǒu a) — satu lagi ya (ragam lisan santai)",
+          "顺便说一下 (shùnbiàn shuō yíxià) — ngomong-ngomong (ragam percakapan)",
+          "对啦 (duì le) — oh iya (ragam lisan)",
+          "此外 (cǐwài) — selain itu / di samping itu (ragam tulis formal)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'此外' (cǐwài: selain itu) adalah konjungsi书面语 standar; hindari bahasa lisan santai seperti '还有啊' atau '对啦'."
       },
       {
@@ -4148,10 +4207,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "实验过程中温度控制不当，往往会____化合物发生不可逆的化学分解。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "导致 (dǎozhì)",
-          "促进 (cùjìn)",
-          "有利于 (yǒulì yú)",
-          "取得 (qǔdé)"
+          "导致 (dǎozhì) — mengakibatkan / menyebabkan (dampak negatif)",
+          "促进 (cùjìn) — mendorong / memajukan (dampak positif)",
+          "有利于 (yǒulì yú) — bermanfaat bagi / menguntungkan",
+          "取得 (qǔdé) — memperoleh / meraih (prestasi)"
         ],
         "correctAnswerIndex": 0,
         "explanation": "'导致' (dǎozhì) khusus digunakan untuk akibat negatif yang tidak diharapkan (dekomposisi senyawa yang merusak)."
@@ -4163,163 +4222,173 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Partikel klasik '之' (zhī) dalam kalimat ilmiah '重中之重' (zhòng zhōng zhī zhòng) berfungsi sebagai:",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Penanda kepemilikan / relasi atributif formal (setara dengan kata '的')",
           "Kata ganti penunjuk orang ketiga jamak",
+          "Penanda kepemilikan / relasi atributif formal (setara dengan kata '的')",
           "Kata seru penutup kalimat tanya",
           "Kata bilangan kelipatan sepuluh"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Partikel 文言文 '之' dalam bahasa tulis akademik modern berfungsi sebagai modifikator atributif formal yang setara dengan '的'."
       },
       {
         "id": "q-cn-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan dalam 2-3 kalimat mengenai motivasi utama Anda memilih kuliah di universitas Tiongkok dan jurusan yang Anda tuju (留学动机与专业选择):",
-        "sampleAnswer": "我选择赴华深造，是因为中国在我的专业领域（如人工智能/国际商贸/工程技术）拥有世界一流的师资力量和科研平台。通过在贵校的学习，我希望能深入掌握专业前沿知识，提升跨文化交流能力，并在毕业后为两国在科技与经贸领域的合作做出积极贡献。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。 (Kēxué yánjiū shì yì tiáo màncháng ér jiānxīn de dàolù, zuì jìhuì de jiù shì bàntú'érfèi.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.",
         "keywords": [
-          "专业领域",
-          "科研",
-          "师资",
-          "贡献",
-          "深造"
+          "penelitian",
+          "ilmiah",
+          "jalan",
+          "panjang"
         ],
-        "explanation": "Esai motivasi studi harus mencantumkan 3 pilar: (1) keunggulan riset/kampus di Tiongkok, (2) relevansi dengan rencana karier pribadi, dan (3) komitmen kontribusi bilateral."
+        "explanation": "Kalimat akademik pola 成语 (Chéngyǔ) Kunci 1: Filosofi Ketekunan & Perjuangan Hidup: '科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。' diterjemahkan secara akurat menjadi 'Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.'."
       },
       {
         "id": "q-cn-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan rencana studi dan adaptasi akademik Anda pada semester pertama perkuliahan di Tiongkok (第一学期的学业规划):",
-        "sampleAnswer": "在入学第一学期，我的核心任务是顺利通过全中文授课的专业基础必修课，并迅速适应实验室的科研节奏。同时，我计划积极参与导师组织的学术研讨会（组会），扎实阅读本领域的核心专业文献，并强化汉语言学术写作能力。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。 (Miànduì wèilái kěnéng chūxiàn de jiùyè jìngzhēng yālì, dàxuéshēng yīngdāng wèiyǔchóumóu, jízǎo guīhuà zhíyè dàolù.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.",
         "keywords": [
-          "必修课",
-          "研讨会",
-          "文献",
-          "适应",
-          "学术写作"
+          "menghadapi",
+          "tekanan",
+          "persaingan",
+          "kerja"
         ],
-        "explanation": "Rencana semester pertama harus menitikberatkan pada penguasaan mata kuliah wajib dasar (必修课), partisipasi seminar riset (组会), dan pembacaan literatur ilmiah (专业文献)."
+        "explanation": "Kalimat akademik pola 成语 (Chéngyǔ) Kunci 2: Strategi, Kebijaksanaan, & Kewaspadaan: '面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。' diterjemahkan secara akurat menjadi 'Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.'."
       },
       {
         "id": "q-cn-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan format salam pembuka dan identitas diri yang sopan saat Anda pertama kali mengirim email kepada calon Dosen Pembimbing (导师):",
-        "sampleAnswer": "尊敬的[导师姓名]教授：您好！学生名叫[自己的名字]，来自印度尼西亚，本科毕业于[毕业院校]。非常冒昧给您写信，我一直拜读您在[具体研究方向]领域的学术著作，深受启发。我希望能申请成为您的硕士研究生，附上我的个人简历与研究计划，恳请您批评指正。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "该学者毕业于北京大学物理系，其主要研究方向为量子计算。 (Gāi xuézhě bìyè yú Běijīng Dàxué wùlǐ xì, qí zhǔyào yánjiū fāngxiàng wéi liàngzǐ jìsuàn.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.",
         "keywords": [
-          "尊敬的",
-          "教授",
-          "拜读",
-          "指正",
-          "简历"
+          "ilmuwan",
+          "tersebut",
+          "lulus",
+          "departemen"
         ],
-        "explanation": "Email kepada dosen di Tiongkok wajib menggunakan kata sapaan formal 尊敬的...教授, merendahkan diri dengan kata 学生, dan diakhiri dengan permohonan bimbingan 恳请批评指正."
+        "explanation": "Kalimat akademik pola Partikel Klasik 文言虚词 dalam Mandarin Modern: 之, 其, 以, 于: '该学者毕业于北京大学物理系，其主要研究方向为量子计算。' diterjemahkan secara akurat menjadi 'Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.'."
       },
       {
         "id": "q-cn-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Mengapa dalam penulisan tugas ilmiah (论文) mahasiswa dilarang memakai bahasa lisan (口语) dan wajib menggunakan bahasa tertulis formal (书面语)? Berikan 2 contoh pasangan katanya:",
-        "sampleAnswer": "Bahasa tertulis formal (书面语) menjamin objektivitas, presisi leksikal, dan wibawa akademis sebuah karya ilmiah, sedangkan bahasa lisan (口语) bersifat santai dan ambigu. Contoh pasangan: (1) Lisan: '随便' vs Tulisan: '任意/视情况而定'; (2) Lisan: '很多' vs Tulisan: '众多/大量/不胜枚举'; (3) Lisan: '后来' vs Tulisan: '随后/进而'.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。 (Jiànyú dāngqián guójì jīnróng shìchǎng de yánjùn xíngshì, gè guó yāngháng shìbì cǎiqǔ gèngjiā jǐnshèn de huòbì zhèngcè.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.",
         "keywords": [
-          "书面语",
-          "口语",
-          "客观",
-          "精确",
-          "论文"
+          "menimbang",
+          "situasi",
+          "genting",
+          "pasar"
         ],
-        "explanation": "Perbedaan register bahasa sangat krusial; penggunaan diksi formal mencerminkan tingkat kematangan intelektual sarjana."
+        "explanation": "Kalimat akademik pola Penanda Wacana Deduktif Akademis: 鉴于 (jiànyú), 势必 (shìbì), 毋庸置疑: '鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。' diterjemahkan secara akurat menjadi 'Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.'."
       },
       {
         "id": "q-cn-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana langkah terstruktur Anda jika mengalami kendala dalam memahami instruksi dosen atau rekan lab yang menggunakan dialek lokal atau istilah teknis tinggi?",
-        "sampleAnswer": "Saya akan: (1) Mencatat istilah teknis tersebut dan menanyakan konfirmasi definisi bakunya secara santun setelah kelas; (2) Memanfaatkan kamus istilah spesifik (专业词典) dan jurnal rujukan; (3) Berdiskusi dengan rekan lab senior (师兄/师姐) untuk meminta bimbingan teknis.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。 (Tā jīntiān zài xuéshù shàng suǒ qǔdé de fēifán chéngjiù, hěn dà chéngdù shàng yuányú tā tóngnián shíqī yǎngchéng de yuèdú xíguàn.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.",
         "keywords": [
-          "师兄",
-          "词典",
-          "请教",
-          "记录",
-          "沟通"
+          "prestasi",
+          "luar",
+          "biasa",
+          "diraihnya"
         ],
-        "explanation": "Sikap proaktif mahasiswa asing dalam bertanya secara santun dan memanfaatkan sumber daya akademik kampus sangat dihargai oleh sivitas akademika Tiongkok."
+        "explanation": "Kalimat akademik pola Pola Kausalitas Filosofis: 缘于 (yuányú), 归咎于 (guījiùyú), 取决于: '他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。' diterjemahkan secara akurat menjadi 'Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.'."
       },
       {
         "id": "q-cn-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan rencana karier Anda setelah berhasil menyelesaikan studi sarjana/pascasarjana di Tiongkok (毕业后的职业规划):",
-        "sampleAnswer": "毕业后，我计划回国进入高等院校或跨国高新技术企业，将在中国学到的先进专业技术与跨文化管理经验付诸实践。同时，我也致力于搭建中印尼两国在相关学术及产业领域的合作桥梁。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。 (Fánshì zài běn xuéqī qǔdé HSK liù jí gāofēn de guójì liúxuéshēng, jūn yǒu zīgé shēnqǐng yōuxiù xuéyè yīděng jiǎngxuéjīn.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.",
         "keywords": [
-          "毕业",
-          "技术",
-          "实践",
-          "合作",
-          "桥梁"
+          "semua",
+          "mahasiswa",
+          "internasional",
+          "meraih"
         ],
-        "explanation": "Pemberi beasiswa CSC sangat menyukai kandidat yang memiliki visi jangka panjang untuk menjadi jembatan kerja sama antara Tiongkok dan negara asal."
+        "explanation": "Kalimat akademik pola Sintaksis Bahasa Hukum & Regulasi: 凡是...均... / 一概 (yígài): '凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。' diterjemahkan secara akurat menjadi 'Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.'."
       },
       {
         "id": "q-cn-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan pemahaman Anda mengenai integritas akademik (学术诚信) dan konsekuensi jika melakukan kecurangan plagiarisme (抄袭/剽窃) di kampus Tiongkok:",
-        "sampleAnswer": "Integritas akademik adalah fondasi kejujuran ilmiah seorang peneliti. Plagiarisme (抄袭) adalah pelanggaran berat yang dapat menyebabkan nilai ujian dibatalkan (作废), pencabutan status beasiswa (取消奖学金资格), hingga dikeluarkan secara tidak hormat dari universitas (开除学籍). Seluruh kutipan wajib mencantumkan sumber rujukan secara sah.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。 (Gùgōng Bówùyuàn zhǎnchū de lìdài qīngtóngqì yǔ gǔdài shūhuà cángpǐn, qí gōngyì jīngzhàn, lìng rén tànwéiguānzhǐ.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.",
         "keywords": [
-          "抄袭",
-          "学术诚信",
-          "处分",
-          "开除",
-          "引用"
+          "koleksi",
+          "bejana",
+          "perunggu",
+          "lukisan"
         ],
-        "explanation": "Universitas di Tiongkok menerapkan sistem uji kemiripan digital (查重系统) yang ketat; batas plagiarisme tesis umumnya di bawah 10-15%."
+        "explanation": "Kalimat akademik pola Ekspresi Derajat Ekstrem Abstrak: 无可奈何, 叹为观止, 淋漓尽致: '故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。' diterjemahkan secara akurat menjadi 'Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.'."
       },
       {
         "id": "q-cn-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana strategi manajemen waktu Anda dalam menyeimbangkan antara tuntutan riset laboratorium yang padat dan adaptasi sosial di lingkungan baru?",
-        "sampleAnswer": "Saya akan menerapkan skala prioritas dengan metode time-blocking: mendedikasikan jam kerja efektif siang hari untuk eksperimen lab dan perkuliahan, memanfaatkan malam hari untuk tinjauan literatur mandiri, serta mengalokasikan akhir pekan untuk bersosialisasi dan mengenal budaya masyarakat lokal.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "这次学术讲座使我明白了科研诚信的重要性。 (Zhè cì xuéshù jiǎngzuò shǐ wǒ míngbai le kēyán chéngxìn de zhòngyàoxìng.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.",
         "keywords": [
-          "时间管理",
-          "优先级",
-          "实验",
-          "学习",
-          "平衡"
+          "kuliah",
+          "umum",
+          "akademik",
+          "kali"
         ],
-        "explanation": "Manajemen waktu yang disiplin adalah kunci sukses bertahan dalam budaya kerja riset Tiongkok yang berkecepatan tinggi."
+        "explanation": "Kalimat akademik pola Analisis Kesalahan Kalimat Kompleks 病句 (Bìngjù): Kerancuan Subjek & Logika: '这次学术讲座使我明白了科研诚信的重要性。' diterjemahkan secara akurat menjadi 'Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.'."
       },
       {
         "id": "q-cn-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan strategi konkret Anda dalam mencapai sertifikasi HSK 6 sebelum masa studi Anda selesai:",
-        "sampleAnswer": "Saya akan: (1) Membaca rutin artikel surat kabar People's Daily (人民日报) dan makalah jurnal bereputasi; (2) Memperkaya hafalan idiom Chengyu (成语) dan tata bahasa ragam tulis; (3) Melakukan latihan menulis ringkasan esai 400 kata (缩写) setiap minggu sesuai format resmi HSK 6.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。 (Réngōng zhìnéng jìshù de xùnměng fāzhǎn chéngrán jí dà de jiěfàng le shēngchǎnlì, rán'ér qí yǐnfā de lúnlǐ fēngxiǎn yǔ fǎlǜ zhìhòu yì bùróng hūshì.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.",
         "keywords": [
-          "HSK 6",
-          "成语",
-          "阅读",
-          "缩写",
-          "词汇"
+          "perkembangan",
+          "pesat",
+          "teknologi",
+          "kecerdasan"
         ],
-        "explanation": "Ujian HSK 6 menuntut kemampuan membaca cepat teks panjang dan menulis esai ringkasan tanpa bantuan kamus."
+        "explanation": "Kalimat akademik pola Retorika Debat Publik & Esai Kritis: 诚然...固然...然而: '人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。' diterjemahkan secara akurat menjadi 'Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.'."
       },
       {
         "id": "q-cn-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana sikap dan tindakan profesional Anda jika draf proposal penelitian Anda dikritik tajam atau diminta revisi mayor oleh Dosen Pembimbing?",
-        "sampleAnswer": "Saya akan menyikapi kritik tersebut dengan rendah hati dan pandangan positif, karena masukan dari dosen pembimbing adalah demi kesempurnaan mutu riset. Saya akan membuat tabel daftar revisi (修改清单), memperbaiki bagian metodologi sesuai saran beliau, dan menjadwalkan konsultasi lanjutan untuk memaparkan perbaikannya.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。 (Zòngguān rénlèi lìshǐ chánghé, wéiyǒu bǐngchí kāifàng bāoróng, jiānshōubìngxù zhī xiōngjīn, bùtóng wénmíng fāng néng zài hùxué hùjiàn zhōng gòngtóng zhànfàng yìcǎi.)",
+        "audioVoiceLang": "zh-CN",
+        "sampleAnswer": "Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.",
         "keywords": [
-          "导师",
-          "修改",
-          "反馈",
-          "积极",
-          "完善"
+          "memandang",
+          "panorama",
+          "panjang",
+          "sejarah"
         ],
-        "explanation": "Di lingkungan universitas Tiongkok, revisi naskah berulang kali (修改多遍) adalah proses lumrah untuk membentuk standar kualitas ilmiah."
+        "explanation": "Kalimat akademik pola Sintaksis Tingkat Mahir Fluktuasi Wacana & Evaluasi Komprehensif HSK 6: '纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。' diterjemahkan secara akurat menjadi 'Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.'."
       },
       {
         "id": "q-cn-sk-1",
@@ -4327,10 +4396,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat instruksi penyerahan berkas beasiswa yang baku:",
         "scrambledWords": [
-          "申请奖学金的材料",
-          "请在截止日期前",
           "提交至",
-          "留学生办公室"
+          "留学生办公室",
+          "请在截止日期前",
+          "将申请奖学金的材料"
         ],
         "correctOrder": [
           "请在截止日期前",
@@ -4348,18 +4417,20 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat permohonan bimbingan skripsi formal:",
         "scrambledWords": [
-          "关于毕业论文的提纲",
-          "我想与导师",
-          "进行深入的探讨"
+          "深入的探讨",
+          "进行",
+          "就毕业论文的提纲",
+          "我想与导师"
         ],
         "correctOrder": [
           "我想与导师",
-          "关于毕业论文的提纲",
-          "进行深入的探讨"
+          "就毕业论文的提纲",
+          "进行",
+          "深入的探讨"
         ],
         "targetSentence": "我想与导师就毕业论文的提纲进行深入的探讨。",
         "audioVoiceLang": "zh-CN",
-        "explanation": "Urutan baku: Subjek (我想与导师) + Topik preposisi (关于毕业论文的提纲) + Frasa predikat (进行深入的探讨)."
+        "explanation": "Urutan baku: Subjek (我想与导师) + Frasa preposisi topik (就毕业论文的提纲) + Kata kerja formal (进行) + Objek tindakan (深入的探讨)."
       },
       {
         "id": "q-cn-sk-3",
@@ -4367,10 +4438,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat tata tertib keselamatan laboratorium:",
         "scrambledWords": [
-          "进入重点实验室前",
-          "所有科研人员",
+          "专业防护装备",
           "必须佩戴",
-          "专业防护装备"
+          "所有科研人员",
+          "进入重点实验室前"
         ],
         "correctOrder": [
           "进入重点实验室前",
@@ -4388,13 +4459,15 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman pengisian KRS perkuliahan:",
         "scrambledWords": [
+          "尽快完成",
+          "本学期的专业选课",
           "教务系统开放之后",
-          "请同学们尽快完成",
-          "本学期的专业选课"
+          "请同学们"
         ],
         "correctOrder": [
           "教务系统开放之后",
-          "请同学们尽快完成",
+          "请同学们",
+          "尽快完成",
           "本学期的专业选课"
         ],
         "targetSentence": "教务系统开放之后，请同学们尽快完成本学期的专业选课。",
@@ -4407,10 +4480,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi penjelasan fasilitas Beasiswa Pemerintah Tiongkok:",
         "scrambledWords": [
-          "中国政府奖学金",
-          "为优秀留学生提供",
+          "以及生活补贴",
           "全额学费减免",
-          "以及生活补贴"
+          "为优秀留学生提供",
+          "中国政府奖学金"
         ],
         "correctOrder": [
           "中国政府奖学金",
@@ -4442,16 +4515,16 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "id": "q-cn-ar-2",
         "type": "translation",
         "sectionType": "artikan",
-        "prompt": "Pilihlah arti yang tepat dari istilah akademik penting: '毕业论文答辩 (Bìyè lùnwén dábbiàn)':",
+        "prompt": "Pilihlah arti yang tepat dari istilah akademik penting: '毕业论文答辩 (Bìyè lùnwén dábiàn)':",
         "targetSentence": "通过毕业论文答辩是获得硕士学位证书的前提条件。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Sidang ujian / pertahanan skripsi atau tesis kelulusan",
           "Pencetakan jilid sampul buku tugas akhir",
+          "Sidang ujian / pertahanan skripsi atau tesis kelulusan",
           "Pendaftaran wisuda akbar universitas",
           "Pembagian toga kelulusan mahasiswa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "答辩 (dábiàn) dalam konteks perguruan tinggi bermakna sidang ujian pertahanan tesis/disertasi di hadapan dewan penguji."
       },
       {
@@ -4462,12 +4535,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "留学生在校期间参加勤工俭学，必须遵守国家相关出入境法规。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Bekerja paruh waktu resmi sambil kuliah (work-study program)",
           "Kegiatan olahraga bersama mahasiswa lokal",
           "Program pertukaran pelajar antar negara",
+          "Bekerja paruh waktu resmi sambil kuliah (work-study program)",
           "Membayar uang SPP secara mencicil"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "勤工俭学 adalah istilah resmi Tiongkok untuk program bekerja paruh waktu yang sah bagi mahasiswa sambil menempuh pendidikan."
       },
       {
@@ -4478,12 +4551,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "研究生必须在入学第二学期结束前完成学位论文的开题报告。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Laporan / seminar pembukaan proposal penelitian tugas akhir",
           "Laporan keuangan kegiatan organisasi kemahasiswaan",
           "Kartu hasil studi semester pertama",
-          "Surat izin sakit dari klinik kampus"
+          "Surat izin sakit dari klinik kampus",
+          "Laporan / seminar pembukaan proposal penelitian tugas akhir"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "开题报告 adalah tahapan seminar proposal penelitian di mana mahasiswa memaparkan latar belakang, metodologi, dan urgensi riset di hadapan dewan dosen."
       },
       {
@@ -4510,12 +4583,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "申请中国政府奖学金需随附两名教授或副教授出具的专家推荐信。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Surat rekomendasi akademik dari pakar / profesor",
           "Surat keterangan sehat dari rumah sakit",
+          "Surat rekomendasi akademik dari pakar / profesor",
           "Surat pernyataan bebas catatan kepolisian",
           "Surat bukti kepemilikan rekening tabungan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "推荐信 = surat rekomendasi (letter of recommendation); 专家 = pakar/guru besar."
       },
       {
@@ -4526,12 +4599,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "护照上的学习类居留许可延期手续，必须在到期前三十日内办理。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Perpanjangan izin tinggal (Residence Permit) pelajar asing di kepolisian (PSB)",
           "Pembuatan paspor baru di kedutaan besar",
           "Pembelian tiket pesawat pulang pergi",
+          "Perpanjangan izin tinggal (Residence Permit) pelajar asing di kepolisian (PSB)",
           "Penyewaan kamar asrama internasional"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "居留许可 = izin tinggal (Residence Permit); 延期 = perpanjangan masa berlaku."
       },
       {
@@ -4542,12 +4615,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "提交毕业论文终稿前，全文学术查重率不得超过百分之十。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Tingkat persentase kemiripan / uji plagiarisme karya tulis ilmiah",
           "Jumlah cetakan buku di percetakan universitas",
           "Kecepatan pengetikan naskah dalam satu menit",
-          "Bobot persentase nilai ujian akhir semester"
+          "Bobot persentase nilai ujian akhir semester",
+          "Tingkat persentase kemiripan / uji plagiarisme karya tulis ilmiah"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "查重率 (similarity index) adalah persentase kesamaan teks dengan basis data publikasi terdahulu untuk mencegah plagiarisme."
       },
       {
@@ -4574,12 +4647,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "获得全额奖学金的学生享有学费免除、免费住宿及每月生活津贴。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Beasiswa penuh (mencakup biaya kuliah, asrama, dan tunjangan hidup bulanan)",
           "Potongan biaya kuliah setengah semester",
+          "Beasiswa penuh (mencakup biaya kuliah, asrama, dan tunjangan hidup bulanan)",
           "Pinjaman dana pendidikan tanpa bunga",
           "Hadiah uang tunai satu kali untuk juara lomba"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "全额 (jumlah penuh) + 奖学金 (beasiswa) = beasiswa penuh (Full Scholarship)."
       },
       {
@@ -4589,12 +4662,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca teks silabus singkat berikut:\n'本门专业课考核采用综合评定制：期末闭卷考试占总成绩50%，课堂讨论及文献汇报占30%，平时出勤与课后作业占20%。旷课超过三次者，取消期末考试资格。'\n\nApa akibat yang akan diterima mahasiswa jika membolos kuliah lebih dari tiga kali?",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Didiskualifikasi dan kehilangan hak mengikuti ujian akhir semester",
           "Diberikan tugas tambahan membuat rangkuman buku",
           "Hanya dikenai pemotongan nilai sebesar lima persen",
+          "Didiskualifikasi dan kehilangan hak mengikuti ujian akhir semester",
           "Diminta pindah ke kelas perkuliahan malam"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Teks menyatakan tegas: '旷课超过三次者，取消期末考试资格' (Membolos lebih dari 3 kali akan dibatalkan hak ujian akhirnya)."
       },
       {
@@ -4604,12 +4677,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca teks aturan perpustakaan berikut:\n'读者借阅中文图书每次限借10本，借期30天；外文原版图书限借3本，借期15天。图书逾期未还者，系统将每日计收滞纳金，并冻结借书权限直至还清欠费。'\n\nBerapa batas waktu peminjaman buku asli berbahasa asing (外文原版图书)?",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "15 hari",
           "30 hari",
           "60 hari",
-          "Satu semester"
+          "Satu semester",
+          "15 hari"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Dalam teks tertulis: '外文原版图书限借3本，借期15天' (Buku berbahasa asing dibatasi 3 eksemplar dengan masa pinjam 15 hari)."
       },
       {
@@ -4635,12 +4708,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "各位留学生同学请注意：本周五下午两点在学术报告厅举行毕业论文开题动员大会，届时将详细讲解论文查重与答辩时间节点，请全体研二同学务必准时出席。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Pertemuan sosialisasi seminar proposal dan jadwal ujian skripsi diadakan Jumat jam 2 siang untuk mahasiswa tingkat dua",
           "Ujian skripsi dimajukan ke hari Jumat pagi di laboratorium komputer",
+          "Pertemuan sosialisasi seminar proposal dan jadwal ujian skripsi diadakan Jumat jam 2 siang untuk mahasiswa tingkat dua",
           "Perpustakaan pusat akan ditutup pada hari Jumat siang untuk renovasi",
           "Wisuda akbar mahasiswa asing akan diselenggarakan di aula utama"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Audio mengumumkan: 开题动员大会 (rapat pengarahan proposal) pada Jumat jam 14.00 di aula akademik untuk mahasiswa tahun ke-2."
       },
       {
@@ -4651,12 +4724,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "实验人员离开实验室前，必须逐一检查水阀、气阀、电源开关是否完全关闭，并确认门窗上锁。如遇突发漏气或电路短路，请立即按下紧急报警按钮并迅速撤离。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Kewajiban memeriksa air, gas, listrik, dan mengunci pintu sebelum meninggalkan lab",
           "Larangan membawa tas ransel dan jaket tebal ke dalam laboratorium",
           "Jadwal pergantian shift asisten peneliti laboratorium",
+          "Kewajiban memeriksa air, gas, listrik, dan mengunci pintu sebelum meninggalkan lab",
           "Petunjuk tata cara mencuci alat gelas kimia setelah percobaan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Audio menjelaskan protokol penutupan kran air, katup gas, listrik, serta evakuasi darurat laboratorium."
       },
       {
@@ -4667,12 +4740,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "你的在读证明和中文成绩单已经打印盖章了，请带上学生证到留学生事务大厅三号窗口领取。",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "Surat keterangan mahasiswa aktif dan transkrip nilai resmi sudah siap diambil di loket 3",
           "Pendaftaran kartu asuransi kesehatan ditolak karena berkas tidak lengkap",
           "Kartu tanda mahasiswa hilang dan harus membayar denda pembuatan ulang",
-          "Jadwal wawancara beasiswa dipindahkan ke aula administrasi"
+          "Jadwal wawancara beasiswa dipindahkan ke aula administrasi",
+          "Surat keterangan mahasiswa aktif dan transkrip nilai resmi sudah siap diambil di loket 3"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "在读证明 = surat keterangan mahasiswa aktif; 盖章 = telah dicap resmi; 领取 = silakan diambil."
       },
       {
@@ -4682,10 +4755,10 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Isilah bagian rumpang kalimat akademik berikut dengan konjungsi 书面语 yang tepat:\n'____传统宏观经济模型无法完全解释近期的金融市场波动，学术界____提出了多项修正假设。'",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "鉴于...因而... (Jiànyú... yīn'ér...)",
-          "不管...但也... (bùguǎn... dàn yě...)",
-          "只要...才... (zhǐyào... cái...)",
-          "虽然...所以... (suīrán... suǒyǐ...)"
+          "鉴于...因而... (Jiànyú... yīn'ér...) — mengingat... oleh karena itu...",
+          "不管...但也... (bùguǎn... dàn yě...) — tidak peduli... namun juga...",
+          "只要...才... (zhǐyào... cái...) — asalkan... barulah...",
+          "虽然...所以... (suīrán... suǒyǐ...) — meskipun... jadi..."
         ],
         "correctAnswerIndex": 0,
         "explanation": "'鉴于' (mengingat / mempertimbangkan bahwa...) berkolokasi formal dengan '因而' (oleh karenanya) dalam teks karya ilmiah."
@@ -4697,12 +4770,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilih kata bentukan istilah ilmiah yang tepat untuk melengkapi kalimat:\n'随着数字技术的普及，该研究项目旨在推动传统文献资源的数字化与____建设。'",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "规范化 (guīfànhuà)",
-          "规范性 (guīfànxìng)",
-          "规范度 (guīfàndù)",
-          "规范感 (guīfàngǎn)"
+          "规范性 (guīfànxìng) — sifat normatif / keteraturan",
+          "规范化 (guīfànhuà) — standardisasi / pembakuan",
+          "规范度 (guīfàndù) — tingkat keteraturan",
+          "规范感 (guīfàngǎn) — kesan keteraturan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Sufiks '化' (-isasi) menyatakan proses perubahan menuju suatu standar (数字化 dan 规范化: standardisasi)."
       },
       {
@@ -4712,12 +4785,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilih pasangan kata penanda topik perbandingan yang tepat:\n'____实验组的数据表现稳定，对照组的测量指标____出现了较大的离散偏差。'",
         "audioVoiceLang": "zh-CN",
         "options": [
-          "相较于...则... (Xiāng jiàoyú... zé...)",
-          "虽然...就... (suīrán... jiù...)",
-          "即使...才... (jíshǐ... cái...)",
-          "不但...反之... (búdàn... fǎnzhī...)"
+          "虽然...就... (suīrán... jiù...) — meskipun... langsung...",
+          "即使...才... (jíshǐ... cái...) — kalaupun... barulah...",
+          "相较于...则... (Xiāng jiàoyú... zé...) — dibandingkan dengan... sedangkan...",
+          "不但...反之... (búdàn... fǎnzhī...) — tidak hanya... sebaliknya..."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "'相较于 [A] ... [B] 则 ...' (Dibandingkan dengan A, maka B justru ...) adalah sintaksis komparatif standar laporan penelitian."
       },
       {
@@ -4726,13 +4799,13 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Analisis kalimat rusak (病句辨析): Manakah kalimat di bawah ini yang SALAH secara tata bahasa struktur 把 (bǎ)?",
         "options": [
-          "他把那个实验结果没有记录在笔记本上。",
-          "他没有把那个实验结果记录在笔记本上。",
-          "请把你的学术论文按时提交给导师。",
-          "研究人员把样本放进了超低温冰箱。"
+          "他没有把那个实验结果记录在笔记本上。 — Dia tidak mencatat hasil eksperimen itu di buku catatan.",
+          "请把你的学术论文按时提交给导师。 — Harap serahkan makalah akademik Anda tepat waktu kepada dosen pembimbing.",
+          "研究人员把样本放进了超低温冰箱。 — Peneliti memasukkan sampel ke dalam lemari pendingin suhu ultra-rendah.",
+          "他把那个实验结果没有记录在笔记本上。 — Dia hasil eksperimen itu tidak mencatat di buku catatan (negasi salah posisi)."
         ],
-        "correctAnswerIndex": 0,
-        "explanation": "Dalam kalimat 把 (bǎ), kata negasi (没有 / 不) wajib diletakkan SEBELUM kata 把, bukan setelahnya. Kalimat 1 salah fatal."
+        "correctAnswerIndex": 3,
+        "explanation": "Dalam kalimat 把 (bǎ), kata negasi (没有 / 不) wajib diletakkan SEBELUM kata 把 ('他没有把那个实验结果记录在笔记本上'), bukan sesudah objek 把."
       },
       {
         "id": "q-cn-bb-11",
@@ -4740,13 +4813,13 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Analisis kalimat rusak (病句辨析): Manakah kalimat berikut yang memiliki susunan sintaksis paling SEMPURNA dan bebas cacat gramatika?",
         "options": [
-          "经过导师的悉心指导，使我的学术论文质量得到了显著提高。",
-          "导师的悉心指导，使我的学术论文质量得到了显著提高。",
-          "在导师的悉心指导下，使我成功发表了高水平学术论文。",
-          "通过导师的悉心指导，从而让我掌握了正确的实验方法。"
+          "导师的悉心指导，使我的学术论文质量得到了显著提高。 — Bimbingan cermat dosen pembimbing membuat kualitas tesis akademik saya meningkat pesat (subjek utuh).",
+          "经过导师的悉心指导，使我的学术论文质量得到了显著提高。 — Melalui bimbingan cermat dosen, membuat kualitas tesis saya meningkat (kehilangan subjek).",
+          "在导师的悉心指导下，使我成功发表了高水平学术论文。 — Di bawah bimbingan cermat dosen, membuat saya berhasil menerbitkan makalah (kehilangan subjek).",
+          "通过导师的悉心指导，从而让我掌握了正确的实验方法。 — Lewat bimbingan dosen, sehingga membuat saya menguasai metode eksperimen (kehilangan subjek)."
         ],
-        "correctAnswerIndex": 1,
-        "explanation": "Kalimat 1, 3, dan 4 mengalami cacat 'kehilangan subjek utama' (滥用介词导致主语残缺: 经过...使...). Kalimat 2 adalah kalimat baku yang memiliki subjek jelas."
+        "correctAnswerIndex": 0,
+        "explanation": "Kalimat '导师的悉心指导，使我的学术论文质量得到了显著提高。' adalah kalimat baku yang memiliki subjek jelas (导师的悉心指导), sedangkan opsi lainnya kehilangan subjek akibat menggabungkan preposisi (经过/在/通过) dengan 使/让."
       },
       {
         "id": "q-cn-bb-12",
@@ -4754,12 +4827,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam wawancara sidang skripsi, penguji mengajukan pertanyaan teoretis yang sama sekali belum pernah Anda pelajari. Sikap akademis paling etis adalah:",
         "options": [
-          "Jujur mengakui bahwa topik tersebut belum tercakup dalam batasan riset saat ini, dan berterima kasih atas masukan berharga penguji untuk riset lanjutan.",
           "Mengarang teori palsu secara percaya diri agar tidak dianggap bodoh oleh penguji.",
+          "Jujur mengakui bahwa topik tersebut belum tercakup dalam batasan riset saat ini, dan berterima kasih atas masukan berharga penguji untuk riset lanjutan.",
           "Menyalahkan dosen pembimbing karena tidak mengajarkan materi tersebut saat bimbingan.",
           "Diam seribu bahasa dan menatap lantai selama lima menit."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Kejujuran intelektual dan sikap terbuka terhadap batasan riset (局限性) adalah etika ilmiah universal yang sangat dihormati."
       },
       {
@@ -4768,12 +4841,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Jika seorang dosen memiliki gelar fungsional Profesor (教授) sekaligus menjabat sebagai Dekan Fakultas (院长), cara menyapa lisan yang paling lazim dan santun adalah:",
         "options": [
-          "王院长 (Wáng Yuànzhǎng) / 王教授 (Wáng Jiàoshòu)",
-          "老王 (Lǎo Wáng)",
-          "王老师的朋友 (Wáng lǎoshī de péngyǒu)",
-          "大叔 (Dàshū)"
+          "老王 (Lǎo Wáng) — Si Tua Wang (sapaan akrab sebaya, tidak sopan untuk dosen)",
+          "王老师的朋友 (Wáng lǎoshī de péngyǒu) — Temannya Guru Wang",
+          "王院长 (Wáng Yuànzhǎng) / 王教授 (Wáng Jiàoshòu) — Dekan Wang / Profesor Wang (sapaan resmi akademik)",
+          "大叔 (Dàshū) — Paman (sapaan jalanan informal)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Gunakan nama marga + jabatan administratif (王院长) atau jabatan fungsional akademik (王教授). Jangan gunakan sebutan informal."
       },
       {
@@ -4782,12 +4855,12 @@ export const CHINA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Idiom Chengyu (成语) '严谨治学' (Yánjǐn zhìxué) paling tepat menggambarkan profil seorang akademisi yang:",
         "options": [
-          "Menjalankan penelitian ilmiah dengan dedikasi tinggi, cermat, teliti, dan tanpa kompromi terhadap kesalahan data",
           "Suka mengkritik orang lain tanpa memberikan solusi konkret",
           "Belajar hanya saat menjelang malam sebelum ujian semester",
-          "Memiliki banyak gelar tetapi jarang masuk laboratorium"
+          "Memiliki banyak gelar tetapi jarang masuk laboratorium",
+          "Menjalankan penelitian ilmiah dengan dedikasi tinggi, cermat, teliti, dan tanpa kompromi terhadap kesalahan data"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "严谨治学 adalah semboyan integritas universitas top Tiongkok yang berarti ketat, cermat, dan berdisiplin tinggi dalam menuntut ilmu."
       },
       {
@@ -4823,12 +4896,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "先生、私の研究計画書を____いただけましたでしょうか。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "ご覧になって (goran ni natte)",
-          "拝見して (haiken shite)",
-          "読まれてきて (yomarete kite)",
-          "見せて (misete)"
+          "拝見して (haiken shite) — membaca / melihat (bentuk merendah Kenjougo untuk diri sendiri)",
+          "ご覧になって (goran ni natte) — membaca / melihat (bentuk hormat Sonkeigo untuk dosen)",
+          "読まれてきて (yomarete kite) — dibaca lalu datang (bentuk pasif tidak lazim)",
+          "見せて (misete) — memperlihatkan (bentuk kasual)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "ご覧になる (goran ni naru) adalah bentuk Sonkeigo (menghormati tindakan dosen). Sedangkan 拝见する (haiken suru) adalah Kenjougo (merendahkan diri sendiri)."
       },
       {
@@ -4839,12 +4912,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "先生の最新のご著書を昨晩、確かに____。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "拝見いたしました (haiken itashimashita)",
-          "ご覧になりました (goran ni narimashita)",
-          "お読みになられました (oyomi ni nararemashita)",
-          "見ちゃいました (micha imashita)"
+          "ご覧になりました (goran ni narimashita) — beliau telah membaca (Sonkeigo)",
+          "お読みになられました (oyomi ni nararemashita) — beliau telah membaca (hormat ganda)",
+          "拝見いたしました (haiken itashimashita) — saya telah membaca dengan hormat (Kenjougo)",
+          "見ちゃいました (micha imashita) — sudah telanjur melihat (ragam lisan santai)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "拝見いたしました adalah bentuk Kenjougo resmi yang digunakan saat merendahkan tindakan diri sendiri di hadapan profesor/atasan."
       },
       {
@@ -4855,12 +4928,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "履修登録の要件を正確に把握してください。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "りしゅう (rishū) & はあく (ha'aku)",
-          "ふしゅう (fushū) & はそく (hasoku)",
-          "りしょう (rishō) & ばあく (ba'aku)",
-          "はいしゅう (haishū) & はくあ (hakua)"
+          "ふしゅう (fushū — bacaan salah) & はそく (hasoku — bacaan salah)",
+          "りしょう (rishō — bacaan salah) & ばあく (ba'aku — bacaan salah)",
+          "はいしゅう (haishū — bacaan salah) & はくあ (hakua — bacaan salah)",
+          "りしゅう (rishū — pengambilan mata kuliah) & はあく (ha'aku — pemahaman situasi)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "履修 dibaca りしゅう (rishū) dan 把握 dibaca はあく (ha'aku)."
       },
       {
@@ -4871,10 +4944,10 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "本日の入学ガイダンス____、各研究室の専門セミナーが開始されます。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "を皮切りに (o kawakiri ni)",
-          "に際して (ni saishite)",
-          "を通じて (o tsūjite)",
-          "を抜きにして (o nuki ni shite)"
+          "を皮切りに (o kawakiri ni) — dimulai dari / diawali dengan",
+          "に際して (ni saishite) — pada kesempatan / saat menghadapi",
+          "を通じて (o tsūjite) — melalui / sepanjang",
+          "を抜きにして (o nuki ni shite) — dengan mengesampingkan / tanpa"
         ],
         "correctAnswerIndex": 0,
         "explanation": "〜を皮切りに (o kawakiri ni) berarti 'dimulai dengan... lalu disusul peristiwa-peristiwa penting lainnya'."
@@ -4886,12 +4959,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Dalam penulisan Proposal Riset (研究計画書) dan Skripsi (論文) di Jepang, gaya bahasa akhir kalimat yang WAJIB digunakan adalah:",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "である調 (da/de aru: 〜である, 〜だ)",
-          "です・ます調 (desu/masu)",
-          "カジュアル会話調 (kasual bahasa lisan)",
-          "方言調 (dialek kedaerahan)"
+          "です・ます調 (desu/masu) — ragam sopan umum (untuk surat/percakapan)",
+          "である調 (da/de aru: 〜である, 〜だ) — ragam tulis ilmiah objektif (wajib untuk skripsi/proposal)",
+          "カジュアル会話調 — ragam percakapan kasual sehari-hari",
+          "方言調 — ragam dialek daerah"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Seluruh karya ilmiah di universitas Jepang wajib ditulis dalam である調 (da/de aru). Dilarang keras menggunakan です・ます調."
       },
       {
@@ -4902,12 +4975,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "国内消費が低迷している____、海外市場における売上は急速に拡大している。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "一方で (ippō de)",
-          "したがって (shitagatte)",
-          "すなわち (sunawachi)",
-          "つまり (tsumari)"
+          "したがって (shitagatte) — oleh karena itu (konklusi kausal)",
+          "すなわち (sunawachi) — yaitu / dengan kata lain",
+          "一方で (ippō de) — di sisi lain / sebaliknya (kontras berimbang)",
+          "つまり (tsumari) — intinya / singkatnya"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "〜一方で (ippō de: di satu sisi... di sisi lain...) membandingkan dua situasi yang saling bertolak belakang secara berimbang."
       },
       {
@@ -4918,12 +4991,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "誠に申し訳ございませんが、締め切り後の提出は受理____。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "いたしかねます (itashikanemasu)",
-          "いたしかねません (itashikanemasen)",
-          "できませんよ (dekimasen yo)",
-          "やりません (yarimasen)"
+          "いたしかねません (itashikanemasen) — berisiko dapat terjadi (makna kemungkinan negatif)",
+          "できませんよ (dekimasen yo) — tidak bisa lho (lisan langsung)",
+          "やりません (yarimasen) — tidak mau mengerjakan (kasar/langsung)",
+          "いたしかねます (itashikanemasu) — mohon maaf, kami tidak dapat melakukannya (penolakan formal)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "〜かねます (〜kanemasu: sulit/tidak dapat kami lakukan) adalah eufemisme formal resmi dalam korespondensi administrasi Jepang."
       },
       {
@@ -4933,10 +5006,10 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Istilah resmi untuk 'Satuan Kredit Semester (SKS)' dalam sistem akademik Jepang adalah:",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "単位 (tan'i)",
-          "点数 (tensū)",
-          "等級 (tōkyū)",
-          "学年 (gakunen)"
+          "単位 (tan'i) — Satuan Kredit Semester (SKS)",
+          "点数 (tensū) — skor / poin nilai ujian",
+          "等級 (tōkyū) — kelas / tingkatan mutu",
+          "学年 (gakunen) — tingkat tahun ajaran"
         ],
         "correctAnswerIndex": 0,
         "explanation": "Di universitas Jepang, bobot kredit perkuliahan disebut 単位 (tan'i). Contoh: 履修登録で20単位を取得する."
@@ -4949,12 +5022,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "研究データの一部を故意に改ざんする行為は、研究者として無責任____。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "極まりない (kiwamarinai: sangat tidak bertanggung jawab tak ada batasnya)",
           "にすぎない (ni suginai: hanya sekadar)",
+          "極まりない (kiwamarinai: sangat tidak bertanggung jawab tak ada batasnya)",
           "ほかはない (hoka wa nai: tidak ada pilihan lain)",
           "にこしたことはない (ni koshita koto wa nai: lebih baik)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "〜極まりない (kiwamarinai) menyatakan derajat puncak kemutlakan suatu sifat ekstrem yang tidak dapat ditoleransi."
       },
       {
@@ -4964,19 +5037,19 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Kalimat penutup surat/email paling standar dan berbobot sopan tinggi saat meminta bantuan bimbingan kepada dosen adalah:",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます。",
-          "じゃあ、お返事待ってますね！よろしく！",
-          "早く返信してください、困っています。",
-          "それではバイバイ、また来週。"
+          "じゃあ、お返事待ってますね！よろしく！ — Kalau begitu, saya tunggu balasannya ya! Salam!",
+          "早く返信してください、困っています。 — Tolong cepat balas, saya sedang kesulitan.",
+          "ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます。 — Di tengah kesibukan Profesor, dengan segala kerendahan hati saya memohon bimbingan Anda.",
+          "それではバイバイ、また来週。 — Kalau begitu dadah, sampai minggu depan."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Frasa penutup standar Keigo: 'ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます' (Di tengah kesibukan Anda, mohon maaf merepotkan, mohon bimbingannya)."
       }
     ]
   },
   "jp-2": {
     "id": "test-jp-2",
-    "title": "Bagian 2: Esai Rencana Studi & Analisis Konseptual Jepang (10 Soal Essai)",
+    "title": "Bagian 2: Terjemahan Kalimat Akademik (10 Soal Terjemahkan)",
     "description": "Uji kemampuan menyusun esai motivasi, proposal rencana riset, etika akademik, dan korespondensi formal dengan dosen di Jepang.",
     "passingScorePercent": 75,
     "questions": [
@@ -4984,150 +5057,161 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "id": "q-jp-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan struktur salam pembuka dan identitas diri yang baku saat pertama kali mengirim email kepada calon Profesor di universitas Jepang:",
-        "sampleAnswer": "〇〇大学大学院 〇〇研究科\n〇〇 〇〇 教授\n\n突然のメールにて失礼いたします。\n私、インドネシアの〇〇大学を卒業いたしました[氏名]と申します。\n日頃より教授の[専門研究分野]に関する論文を拝読しており、深く感銘を受けております。\n本日は、来年度の大学院研究生としての受け入れについてご相談いたしたく、ご連絡差し上げました。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。 (Kenkyū dēta o kaizan shite ronbun o happyō suru nado, kenkyūsha to shite musekinin kiwamarinai kōi de ari, tōtei yōnin dekinai.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.",
         "keywords": [
-          "大学院",
-          "教授",
-          "拝読",
-          "失礼いたします",
-          "申します"
+          "tindakan",
+          "memanipulasi",
+          "data",
+          "riset"
         ],
-        "explanation": "Email pertama wajib memuat: nama institusi & gelar profesor, salam permohonan maaf mengganggu waktu, nama lengkap pelamar, dan alasan ketertarikan pada riset beliau."
+        "explanation": "Kalimat akademik pola Derajat Ekstrem Bahasa Tulis: 〜極まりない (kiwamarinai) & 〜極まる (kiwamaru): '研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。' diterjemahkan secara akurat menjadi 'Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.'."
       },
       {
         "id": "q-jp-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Mengapa dalam Proposal Rencana Riset (研究計画書) dan Skripsi (論文) mahasiswa DILARANG menggunakan gaya 'desu/masu' dan WAJIB menggunakan 'de aru' (である調)?",
-        "sampleAnswer": "である調 (gaya Da/De aru) adalah register bahasa tulis ilmiah yang menyatakan fakta, analisis logis, dan proposisi empiris secara tegas, berjarak, dan objektif. Gaya desu/masu bersifat percakapan interpersonal yang menonjolkan hubungan sopan antarpenutur, sehingga dianggap kurang tepat untuk karya ilmiah yang menuntut ketegasan akademik.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。 (Sekai-teki ninki bando no rainichi tsuā wa, raigetsu itsuka no Tōkyō Dōmu kōen o kawakiri ni zenkoku rokudai dōmu de kaisai saremasu.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.",
         "keywords": [
-          "である調",
-          "客観的",
-          "論文",
-          "論理的",
-          "事実"
+          "kedatangan",
+          "grup",
+          "musik",
+          "terkenal"
         ],
-        "explanation": "Konsistensi penggunaan である調 mencerminkan kepatuhan terhadap tradisi akademik universitas Jepang."
+        "explanation": "Kalimat akademik pola Titik Tolak Rangkaian Peristiwa: 〜を皮切りに (o kawakiri ni): '世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。' diterjemahkan secara akurat menjadi 'Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.'."
       },
       {
         "id": "q-jp-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Sebutkan dan jelaskan secara singkat 4 bab pokok yang wajib ada dalam sebuah Kenkyuu Keikakusho (研究計画書):",
-        "sampleAnswer": "1. 研究背景・動機 (Latar Belakang & Urgensi Masalah);\n2. 研究目的・学術的問い (Tujuan Penelitian & Rumusan Masalah);\n3. 研究方法・アプローチ (Metodologi Penelitian, Pengumpulan Data, & Kerangka Teoretis);\n4. 参考文献 (Daftar Pustaka & Tinjauan Literatur Terdahulu).",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。 (Kijō no kūron dewa naku, hisaichi no kibishii jitsujō ni sokushite jinsoku na fukkō shiensaku o sakutei subeki de aru.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.",
         "keywords": [
-          "研究背景",
-          "研究目的",
-          "研究方法",
-          "参考文献"
+          "sekadar",
+          "teori",
+          "hampa",
+          "atas"
         ],
-        "explanation": "Struktur 4 bab ini adalah standar evaluasi profesor Jepang dalam menilai kelayakan metodologi calon mahasiswa pascasarjana."
+        "explanation": "Kalimat akademik pola Kesesuaian Ketat terhadap Kaidah: 〜に即して (ni sokushite): '机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。' diterjemahkan secara akurat menjadi 'Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.'."
       },
       {
         "id": "q-jp-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan motivasi Anda memilih Jepang sebagai negara tujuan riset pascasarjana Anda dalam 2-3 kalimat (日本留学の志望動機):",
-        "sampleAnswer": "日本は私の専門分野において世界最先端の実験設備と緻密な研究方法論を有しており、特に貴研究室の研究業績は国際的にも極めて高く評価されています。私は先端知見を体系的に学び、将来は両国の学術交流と産業発展に貢献したいと考えております。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。 (Taifū no sekkin ni tomonau kōtsūmō no konran to okyakusama no anzen o kangamite, honjitsu no kōen wa yamu o ezu chūshi to sasete itadakimasu.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.",
         "keywords": [
-          "専門分野",
-          "最先端",
-          "研究室",
-          "学術交流",
-          "貢献"
+          "menimbang",
+          "kekacauan",
+          "jaringan",
+          "transportasi"
         ],
-        "explanation": "Alasan memilih Jepang harus spesifik pada keunggulan teknologi/keilmuan dan relevansi riset profesor di laboratorium sasaran."
+        "explanation": "Kalimat akademik pola Mempertimbangkan Situasi Luas: 〜を鑑みて (o kangamite): '台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。' diterjemahkan secara akurat menjadi 'Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.'."
       },
       {
         "id": "q-jp-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan apa yang dimaksud dengan 'ゼミ' (Zemi / Seminar Riset) dalam tradisi universitas Jepang dan bagaimana etiket mahasiswa saat menghadiri zemi:",
-        "sampleAnswer": "ゼミ (Zemi) adalah pertemuan berkala di mana mahasiswa mempresentasikan progres penelitian dan mendiskusikannya secara kritis bersama profesor dan rekan laboratorium. Mahasiswa wajib: (1) Hadir tepat waktu tanpa terlambat (時間厳守); (2) Membaca bahan presentasi sebelum sesi dimulai; (3) Berpartisipasi aktif dalam sesi tanya jawab ilmiah secara santun.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。 (Bokō o sudachi shakai e to habataku wakamonotachi no zento ni, sachi ōkaran koto o inotte yamimasen.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.",
         "keywords": [
-          "ゼミ",
-          "発表",
-          "時間厳守",
-          "議論",
-          "教授"
+          "tiada",
+          "henti",
+          "hentinya",
+          "memanjatkan"
         ],
-        "explanation": "Zemi adalah inti kehidupan akademis mahasiswa pascasarjana di Jepang; keaktifan dan etika seminar sangat memengaruhi evaluasi kelulusan."
+        "explanation": "Kalimat akademik pola Perasaan Emosional Mendalam: 〜てやまない (te yamanai) & 〜を禁じ得ない (o kinji enai): '母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。' diterjemahkan secara akurat menjadi 'Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.'."
       },
       {
         "id": "q-jp-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan pengertian '先行研究' (Senkō Kenkyū: Riset Terdahulu) dan mengapa profesor Jepang sangat menekankan tinjauan terhadap bagian ini:",
-        "sampleAnswer": "先行研究 adalah seluruh literatur dan penelitian ilmiah relevan yang telah diterbitkan oleh peneliti terdahulu mengenai topik yang bersangkutan. Menelaah riset terdahulu krusial untuk: (1) Menemukan celah penelitian (Research Gap); (2) Memastikan orisinalitas (新規性) riset agar tidak mengulang apa yang sudah terbukti; (3) Menghindari pelanggaran hak cipta/plagiarisme.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。 (Jiko no shōgeki de ashi o kossetsu shite shimai, hashiru koto wa oroka, hitori de jiritsu shite tachiagaru koto sae dekimasen.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.",
         "keywords": [
-          "先行研究",
-          "新規性",
-          "オリジナリティ",
-          "文献",
-          "課題"
+          "kaki",
+          "patah",
+          "akibat",
+          "benturan"
         ],
-        "explanation": "Profesor Jepang menilai keilmiahan proposal dari seberapa mendalam pelamar menguasai 先行研究 di bidangnya."
+        "explanation": "Kalimat akademik pola Mengesampingkan yang Ekstrem: 〜はおろか (wa oroka) & 〜ならいざ知らず (nara iza shirazu): '事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。' diterjemahkan secara akurat menjadi 'Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.'."
       },
       {
         "id": "q-jp-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana pandangan budaya akademik Jepang terhadap konsep '時間厳守' (Jikan Genshu: Ketepatan Waktu), dan apa yang harus dilakukan jika Anda terpaksa terlambat karena kendala kereta api?",
-        "sampleAnswer": "Di Jepang, ketepatan waktu adalah tolak ukur integritas dan kepercayaan. Terlambat tanpa kabar dianggap pelanggaran etika berat. Jika terlambat akibat gangguan kereta api, mahasiswa wajib: (1) Mengambil surat bukti keterlambatan (遅延証明書) dari petugas stasiun; (2) Segera mengirim email/pesan singkat permohonan maaf dan estimasi tiba kepada dosen sebelum jam kuliah dimulai.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。 (Kare ga kazukazu no gyakkyō o norikoete igyō o tassei dekita no wa, futōfukutsu no shinnen o mochitsuzuketa kara ni hokanaranai.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.",
         "keywords": [
-          "時間厳守",
-          "遅延証明書",
-          "連絡",
-          "信用",
-          "謝罪"
+          "keberhasilannya",
+          "melampaui",
+          "berbagai",
+          "rintangan"
         ],
-        "explanation": "Konsep 5 menit sebelum waktu (5分前行動) berlaku mutlak di seluruh kampus Jepang."
+        "explanation": "Kalimat akademik pola Kalimat Formal Akademis: 〜にほかならない (ni hokanaranai) & 〜とされている: '彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。' diterjemahkan secara akurat menjadi 'Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.'."
       },
       {
         "id": "q-jp-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan contoh email izin tidak dapat menghadiri kuliah seminar karena sakit mendadak sesuai standar etiket universitas Jepang:",
-        "sampleAnswer": "件名：欠席のご連絡（学籍番号〇〇 氏名〇〇）\n\n〇〇教授\n\nお世話になっております。〇〇専攻の[氏名]です。\n大変申し訳ございませんが、本日早朝より発熱があり、体調が思わしくないため、本日の講義（ゼミ）を欠席させていただきたく存じます。\n直前のご連絡となり、大変ご迷惑をおかけいたしますことを深くお詫び申し上げます。\n本日の配布資料等につきましては、次回登校時に確認いたします。\n何卒よろしくお願い申し上げます。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。 (Dai-jishin ni yoru genshiryoku hatsudensho no jiko ni yori, sūman-nin mono jūmin ga suminareta kokyō kara no hinan seikatsu o yogi naku saremashita.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.",
         "keywords": [
-          "欠席",
-          "体調",
-          "お詫び",
-          "ご連絡",
-          "ご迷惑"
+          "akibat",
+          "kecelakaan",
+          "instalasi",
+          "pembangkit"
         ],
-        "explanation": "Email izin sakit wajib mencantumkan subjek yang jelas, alasan singkat dan sopan, permohonan maaf merepotkan, dan komitmen mengejar ketertinggalan materi."
+        "explanation": "Kalimat akademik pola Tekanan Keadaan yang Tak Terelakkan: 〜を余儀なくされる (o yogi naku sareru): '大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。' diterjemahkan secara akurat menjadi 'Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.'."
       },
       {
         "id": "q-jp-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan rencana konkret Anda dalam menuntaskan target sertifikasi JLPT N1 dalam kurun waktu satu tahun perkuliahan di Jepang:",
-        "sampleAnswer": "Saya akan: (1) Menghafalkan 2.136 Kanji Joyo dengan target 10-15 kanji baru per hari beserta kosakata gabungannya (熟語); (2) Membaca kolom opini koran seperti Asahi Shimbun (天声人語) untuk mengasah kecepatan membaca naskah abstrak; (3) Menganalisis 50 pola tata bahasa tingkat N1 setiap minggu dan menerapkannya dalam draf laporan ilmiah.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。 (Manyuarudōri no kakuitsuteki na taiō ni torawarezu, genba no jōkyō ni ōjite rinki-ōhen ni taisho suru jūnansei ga motomerareru.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.",
         "keywords": [
-          "JLPT N1",
-          "漢字",
-          "天声人語",
-          "文法",
-          "読解"
+          "tanpa",
+          "terpaku",
+          "respons",
+          "seragam"
         ],
-        "explanation": "Ujian JLPT N1 menuntut pemahaman nuansa bahasa tingkat tinggi pada teks tajuk rencana dan wacana sastra modern."
+        "explanation": "Kalimat akademik pola Yojijukugo (Idiom Empat Kanji) dalam Diskursus Resmi N1: 'マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。' diterjemahkan secara akurat menjadi 'Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.'."
       },
       {
         "id": "q-jp-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan visi Anda mengenai bagaimana hasil riset Anda di universitas Jepang dapat memberikan kontribusi nyata bagi masyarakat setelah Anda lulus:",
-        "sampleAnswer": "Saya berkomitmen menerapkan metodologi riset dan teknologi terbarukan yang saya kuasai di laboratorium Jepang untuk memecahkan tantangan strategis di tanah air (seperti transisi energi bersih, otomatisasi industri, atau ketahanan pangan). Saya juga berencana menjadi penghubung riset bersama (Joint Research) antara institusi Indonesia dan universitas Jepang.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。 (Hon-kenkyū wa, kyūsoku ni shinten suru seisei Ē-ai gijutsu no rinriteki kadai o meguri, kokunaigai no hōseido to terashiawasetsutsu, genjitsu ni sokushita gabanansu moderu no kōchiku o mezasu mono de aru.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.",
         "keywords": [
-          "研究成果",
-          "社会貢献",
-          "共同研究",
-          "架け橋",
-          "実践"
+          "penelitian",
+          "seputar",
+          "tantangan",
+          "etika"
         ],
-        "explanation": "Dewan beasiswa pemerintah Jepang (MEXT) sangat mengutamakan pelamar yang mampu menjabarkan dampak sosial-ekonomi riset pascastudi."
+        "explanation": "Kalimat akademik pola Mahakarya Kelulusan JLPT N1 & Bahasa Jepang Akademik Perguruan Tinggi (Capstone Unit): '本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。' diterjemahkan secara akurat menjadi 'Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.'."
       }
     ]
   },
@@ -5143,9 +5227,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat permohonan bimbingan proposal riset kepada profesor:",
         "scrambledWords": [
-          "研究計画書につきまして",
+          "賜りたく存じます",
           "教授のご指導を",
-          "賜りたく存じます"
+          "研究計画書につきまして"
         ],
         "correctOrder": [
           "研究計画書につきまして",
@@ -5162,9 +5246,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman batas waktu registrasi mata kuliah (KRS):",
         "scrambledWords": [
+          "完了してください",
           "今学期の履修登録は",
-          "4月20日までに",
-          "完了してください"
+          "4月20日までに"
         ],
         "correctOrder": [
           "今学期の履修登録は",
@@ -5181,9 +5265,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat kesiapan presentasi seminar riset:",
         "scrambledWords": [
-          "来週のゼミにて",
+          "行う予定です",
           "先行研究の発表を",
-          "行う予定です"
+          "来週のゼミにて"
         ],
         "correctOrder": [
           "来週のゼミにて",
@@ -5200,9 +5284,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat persiapan pendaftaran beasiswa MEXT:",
         "scrambledWords": [
+          "準備しております",
           "文部科学省の奨学金に",
-          "応募するための書類を",
-          "準備しております"
+          "応募するための書類を"
         ],
         "correctOrder": [
           "文部科学省の奨学金に",
@@ -5219,9 +5303,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi instruksi penutupan laboratorium riset:",
         "scrambledWords": [
-          "実験終了後は",
+          "施錠してください",
           "必ず安全確認を行い",
-          "施錠してください"
+          "実験終了後は"
         ],
         "correctOrder": [
           "実験終了後は",
@@ -5248,12 +5332,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "教務課のウェブサイトにて今学期の履修登録を行ってください。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Pendaftaran rencana studi / pengisian KRS mata kuliah semester",
           "Pembayaran uang pangkal gedung perkuliahan",
+          "Pendaftaran rencana studi / pengisian KRS mata kuliah semester",
           "Pencetakan kartu perpustakaan universitas",
           "Permohonan cuti kuliah sementara"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "履修 (pengambilan mata kuliah) + 登録 (registrasi) = pengisian Kartu Rencana Studi (KRS) resmi."
       },
       {
@@ -5264,12 +5348,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "先行研究の批判的検討を通じて、本論文の独自性を明確にする。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Studi / penelitian terdahulu yang relevan dalam tinjauan pustaka",
           "Biaya perjalanan dinas riset luar negeri",
           "Hasil eksperimen yang gagal di laboratorium",
+          "Studi / penelitian terdahulu yang relevan dalam tinjauan pustaka",
           "Rencana jadwal wisuda kelulusan mahasiswa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "先行 (terdahulu) + 研究 (penelitian) = literatur / penelitian terdahulu yang menjadi pijakan riset."
       },
       {
@@ -5280,12 +5364,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "引用したすべての書籍や論文を参考文献リストに記載しなければならない。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Daftar pustaka / literatur rujukan ilmiah",
           "Brosur panduan beasiswa pemerintah",
           "Catatan kuliah harian mahasiswa",
-          "Surat keterangan kelakuan baik"
+          "Surat keterangan kelakuan baik",
+          "Daftar pustaka / literatur rujukan ilmiah"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "参考文献 (sankō bunken) adalah daftar pustaka / bibliografi yang dirujuk dalam karya tulis ilmiah."
       },
       {
@@ -5312,12 +5396,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "明日の経済学講義は休講となり、来週水曜日に補講が行われます。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Kuliah ditiadakan (kosong) dan kuliah pengganti",
           "Ujian tengah semester dan ujian susulan",
+          "Kuliah ditiadakan (kosong) dan kuliah pengganti",
           "Orientasi mahasiswa baru dan temu alumni",
           "Praktikum laboratorium dan seminar proposal"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "休講 = perkuliahan ditiadakan; 補講 = kelas kuliah pengganti."
       },
       {
@@ -5328,12 +5412,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "修士論文の口頭試問を無事に通過し、修了が認定された。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Tesis magister / tugas akhir jenjang S2",
           "Skripsi sarjana muda jenjang D3",
           "Disertasi doktoral jenjang S3",
+          "Tesis magister / tugas akhir jenjang S2",
           "Laporan magang kerja lapangan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "修士 (magister / S2) + 論文 (karya tulis ilmiah) = tesis magister S2."
       },
       {
@@ -5344,12 +5428,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "大学院入試の出願書類として、出身大学の成績証明書を提出した。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Transkrip nilai akademik resmi",
           "Ijazah kelulusan sementara",
           "Surat bukti pembayaran SPP",
-          "Pas foto ukuran paspor"
+          "Pas foto ukuran paspor",
+          "Transkrip nilai akademik resmi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "成績 (nilai hasil studi) + 証明書 (surat keterangan resmi) = transkrip nilai akademik."
       },
       {
@@ -5376,12 +5460,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "大学院修士課程の本科生に入学する前、半年間研究生として在籍した。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Mahasiswa peneliti non-gelar persiapan masuk program magister/doktoral",
           "Dosen tamu dari luar negeri",
+          "Mahasiswa peneliti non-gelar persiapan masuk program magister/doktoral",
           "Alumni yang sudah lulus wisuda",
           "Asisten administrasi kantor jurusan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "研究生 adalah mahasiswa riset non-degree yang belajar di bawah bimbingan profesor sebelum menempuh ujian seleksi masuk reguler (Insei)."
       },
       {
@@ -5392,12 +5476,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "留学生がアルバイトをする場合、入国管理局から資格外活動許可を受けなければならない。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Izin resmi bekerja paruh waktu (arubaito) di luar status visa pelajar (maksimal 28 jam/minggu)",
           "Izin mengikuti ujian surat izin mengemudi mobil",
           "Izin perjalanan liburan ke luar negeri",
+          "Izin resmi bekerja paruh waktu (arubaito) di luar status visa pelajar (maksimal 28 jam/minggu)",
           "Sertifikat kelulusan uji kecakapan bahasa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "資格外活動許可 adalah cap izin resmi dari imigrasi yang memperbolehkan pemegang visa pelajar bekerja paruh waktu secara legal."
       }
     ]
@@ -5415,12 +5499,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca teks pengumuman evaluasi perkuliahan berikut:\n'本講義の評価基準は、期末筆記試験60%、各回小レポート30%、出席率10%とする。なお、小レポートは締め切りを過ぎた場合、理由の如何を問わず一切採点対象としない。また、出席回数が全講義の3分の2に満たない者は自動的に不合格（D評価）となる。'\n\nBerapa batas minimal kehadiran agar mahasiswa tidak otomatis dinyatakan tidak lulus (tidak mendapat nilai D)?",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Minimal hadir 2/3 (dua pertiga) dari total sesi perkuliahan",
           "Minimal hadir 50% dari total kuliah",
           "Cukup hadir saat ujian akhir semester saja",
-          "Minimal hadir 100% tanpa pernah absen satu kali pun"
+          "Minimal hadir 100% tanpa pernah absen satu kali pun",
+          "Minimal hadir 2/3 (dua pertiga) dari total sesi perkuliahan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Teks menyatakan: '出席回数が全講義の3分の2に満たない者は自動的に不合格' (Kurang dari 2/3 kehadiran otomatis tidak lulus)."
       },
       {
@@ -5445,12 +5529,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca wacana ketentuan beasiswa MEXT (Pemerintah Jepang):\n'文部科学省国費外国人留学生は、毎月所定の期日までに大学留学生支援窓口にて在籍簿に自筆署名（サイン）を行わなければならない。出張・病気等の正当な理由なく署名を行わなかった月は、当月分の奨学金が支給されない。'\n\nApa yang wajib dilakukan mahasiswa setiap bulan agar uang saku beasiswa MEXT cair?",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Menandatangani buku presensi kehadiran (在籍簿) secara langsung di loket kampus",
           "Mengirim email laporan pengeluaran belanja harian ke kementerian",
+          "Menandatangani buku presensi kehadiran (在籍簿) secara langsung di loket kampus",
           "Menyerahkan salinan slip gaji pekerjaan paruh waktu",
           "Mengikuti ujian wawancara online setiap awal bulan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Penerima beasiswa MEXT wajib hadir menandatangani buku bukti keberadaan di Jepang (在籍確認のサイン) setiap bulan."
       },
       {
@@ -5461,12 +5545,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "修士論文発表会は来月十日、第一共同セミナー室にて午前九時半より開始いたします。発表時間は質疑応答を含め一人三十分です。発表者は開始十五分前までにプロジェクターの接続確認を完了してください。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Sidang tesis dimulai tanggal 10 bulan depan jam 09.30, durasi 30 menit per orang, dan wajib cek proyektor 15 menit sebelumnya",
           "Sidang tesis dibatalkan karena renovasi proyektor ruang seminar",
           "Ujian lisan dipindahkan ke ruang dosen pembimbing masing-masing",
+          "Sidang tesis dimulai tanggal 10 bulan depan jam 09.30, durasi 30 menit per orang, dan wajib cek proyektor 15 menit sebelumnya",
           "Presentasi berlangsung selama 2 jam tanpa sesi tanya jawab"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Pengumuman: tanggal 10 jam 09.30, ruang seminar 1, waktu 30 menit (termasuk tanya jawab), dan cek proyektor 15 menit sebelum mulai."
       },
       {
@@ -5477,12 +5561,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "有機溶媒および酸性試薬を使用した後は、必ずドラフトチャンバー内で適切な廃液容器に分別廃棄してください。誤って一般下水に流すことは法律により厳禁されています。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Kewajiban membuang limbah reagen kimia dan pelarut organik ke jerigen pemilahan khusus di dalam fume hood (lemari asam)",
           "Larangan menyalakan lampu laboratorium setelah jam lima sore",
           "Petunjuk cara mencampur asam sulfat pekat dengan air keran",
-          "Pemberitahuan pemadaman listrik berkala di gedung sains"
+          "Pemberitahuan pemadaman listrik berkala di gedung sains",
+          "Kewajiban membuang limbah reagen kimia dan pelarut organik ke jerigen pemilahan khusus di dalam fume hood (lemari asam)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Instruksi: limbah pelarut organik wajib dibuang terpisah di fume hood (ドラフトチャンバー内), dilarang dibuang ke saluran air biasa."
       },
       {
@@ -5508,12 +5592,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah ungkapan tata bahasa N2 yang tepat untuk melengkapi hubungan kausalitas simultan:\n'科学技術の急速な進歩____、従来のプライバシー保護法の見直しが迫られている。'",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "に伴い (ni tomonai: seiring dengan)",
-          "をおいて (o oite)",
-          "に反して (ni hanshite)",
-          "を皮切りに (o kawakiri ni)"
+          "をおいて (o oite) — selain... tidak ada yang lain",
+          "に伴い (ni tomonai) — seiring dengan / bersamaan dengan",
+          "に反して (ni hanshite) — bertentangan dengan / berlawanan dengan",
+          "を皮切りに (o kawakiri ni) — diawali dengan / dimulai dari"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "〜に伴い (ni tomonai: seiring dengan berkembangnya...) menyatakan perubahan A yang memicu perubahan B secara simultan."
       },
       {
@@ -5523,12 +5607,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa yang tepat untuk menyatakan ketidaksanggupan psikologis/etika seorang peneliti:\n'研究不正を目の当たりにした以上、研究者としての良心から黙認する____。'",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "わけにはいかない (wake ni wa ikanai: tidak mungkin bisa membiarkannya secara nurani)",
           "わけがない (wake ga nai: mustahil kenyataannya)",
           "に違いない (ni chigainai: pasti)",
+          "わけにはいかない (wake ni wa ikanai: tidak mungkin bisa membiarkannya secara nurani)",
           "にすぎない (ni suginai: hanya sekadar)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "〜わけにはいかない menyatakan bahwa dari segi etika moral / norma sosial, tindakan tersebut tidak boleh dilakukan."
       },
       {
@@ -5538,12 +5622,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa yang menyatakan keharusan tanpa pilihan lain:\n'台風の接近により交通機関が全面的に麻痺したため、本日の学会発表を中止____。'",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "せざるを得なかった (sezaru o enakatta: terpaksa dibatalkan tanpa pilihan lain)",
-          "するはずがなかった (suru hazu ga nakatta)",
-          "したくてたまらなかった (shitakute tamaranakatta)",
-          "することになったわけではない (suru koto ni natta wake dewa nai)"
+          "するはずがなかった (suru hazu ga nakatta) — tidak mungkin dijadwalkan terjadi",
+          "したくてたまらなかった (shitakute tamaranakatta) — sangat ingin melakukannya",
+          "することになったわけではない (suru koto ni natta wake dewa nai) — bukan berarti diputuskan demikian",
+          "せざるを得なかった (sezaru o enakatta) — terpaksa membatalkan tanpa pilihan lain"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "〜ざるを得ない (sezaru o enai) berarti 'terpaksa harus melakukan hal tersebut karena tidak ada pilihan lain yang memungkinkan'."
       },
       {
@@ -5566,12 +5650,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam wawancara seleksi pascasarjana, penguji menanyakan: 'Jika hipotesis Anda ternyata keliru di tengah penelitian, apa yang akan Anda lakukan?'. Jawaban paling tepat adalah:",
         "options": [
-          "Segera meninjau kembali variabel eksperimen, menganalisis faktor penyebab deviasi data bersama profesor pembimbing, dan merumuskan pendekatan alternatif",
           "Tetap memaksakan data agar sesuai dengan hipotesis awal",
+          "Segera meninjau kembali variabel eksperimen, menganalisis faktor penyebab deviasi data bersama profesor pembimbing, dan merumuskan pendekatan alternatif",
           "Langsung menyerah dan berganti topik penelitian baru",
           "Menyalahkan alat ukur laboratorium yang sudah tua"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Sikap ilmiah yang matang mengedepankan analisis penyebab anomali data (データ偏差の要因分析) dan pemecahan masalah objektif."
       },
       {
@@ -5580,12 +5664,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Di lingkungan universitas Jepang, bagaimana cara memanggil profesor pembimbing Anda saat bertegur sapa secara langsung?",
         "options": [
-          "〇〇先生 (〇〇-sensei)",
-          "〇〇教授 (〇〇-kyōju: sebutan tertulis di surat, bukan panggilan langsung sehari-hari)",
-          "〇〇さん (〇〇-san)",
-          "あなた (Anata)"
+          "〇〇教授 (〇〇-kyōju) — gelar jabatan tertulis pada dokumen/surat resmi",
+          "〇〇さん (〇〇-san) — panggilan umum antar rekan (kurang sopan untuk profesor)",
+          "〇〇先生 (〇〇-sensei) — panggilan langsung yang sopan kepada dosen/profesor di kampus",
+          "あなた (Anata) — Anda (tidak sopan bila digunakan kepada atasan/dosen)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Dalam percakapan langsung tatap muka, seluruh dosen wajib dipanggil dengan akhiran '〜先生' (Sensei). Sebutan 〇〇教授 lazimnya untuk ragam tulis."
       },
       {
@@ -5594,12 +5678,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Makna dari peribahasa akademik empat karakter (四字熟語) '切磋琢磨' (Sessa takuma) adalah:",
         "options": [
-          "Saling mengasah kemampuan, memacu prestasi, dan belajar bersama dengan rekan demi mencapai kualitas terbaik",
           "Bekerja lembur sampai larut malam tanpa istirahat",
           "Membuang barang-barang yang sudah tidak terpakai",
-          "Berdebat keras sampai bermusuhan"
+          "Berdebat keras sampai bermusuhan",
+          "Saling mengasah kemampuan, memacu prestasi, dan belajar bersama dengan rekan demi mencapai kualitas terbaik"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "切磋琢磨 (sessa takuma) adalah ungkapan yang sangat dijunjung dalam budaya laboratorium Jepang (saling mengasah dan memotivasi antarpeneliti)."
       },
       {
@@ -5622,12 +5706,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Berapa batas maksimal jam kerja paruh waktu (arubaito) yang diizinkan oleh hukum imigrasi Jepang bagi mahasiswa asing pemegang izin resmi selama masa aktif perkuliahan?",
         "options": [
-          "Maksimal 28 jam per minggu (dan hingga 40 jam per minggu saat libur panjang semester)",
           "Bebas tanpa batas jam asalkan nilai tidak turun",
+          "Maksimal 28 jam per minggu (dan hingga 40 jam per minggu saat libur panjang semester)",
           "Maksimal 10 jam per minggu",
           "Dilarang bekerja sama sekali dalam kondisi apapun"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Undang-undang keimigrasian Jepang menetapkan batas legal arubaito mahasiswa asing adalah 28 jam per minggu (週28時間以内)."
       }
     ]
@@ -5646,12 +5730,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "先生、私の研究計画書を____いただけましたでしょうか。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "ご覧になって (goran ni natte)",
-          "拝見して (haiken shite)",
-          "読まれてきて (yomarete kite)",
-          "見せて (misete)"
+          "拝見して (haiken shite) — membaca / melihat (bentuk merendah Kenjougo untuk diri sendiri)",
+          "ご覧になって (goran ni natte) — membaca / melihat (bentuk hormat Sonkeigo untuk dosen)",
+          "読まれてきて (yomarete kite) — dibaca lalu datang (bentuk pasif tidak lazim)",
+          "見せて (misete) — memperlihatkan (bentuk kasual)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "ご覧になる (goran ni naru) adalah bentuk Sonkeigo (menghormati tindakan dosen). Sedangkan 拝见する (haiken suru) adalah Kenjougo (merendahkan diri sendiri)."
       },
       {
@@ -5662,12 +5746,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "先生の最新のご著書を昨晩、確かに____。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "拝見いたしました (haiken itashimashita)",
-          "ご覧になりました (goran ni narimashita)",
-          "お読みになられました (oyomi ni nararemashita)",
-          "見ちゃいました (micha imashita)"
+          "ご覧になりました (goran ni narimashita) — beliau telah membaca (Sonkeigo)",
+          "お読みになられました (oyomi ni nararemashita) — beliau telah membaca (hormat ganda)",
+          "拝見いたしました (haiken itashimashita) — saya telah membaca dengan hormat (Kenjougo)",
+          "見ちゃいました (micha imashita) — sudah telanjur melihat (ragam lisan santai)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "拝見いたしました adalah bentuk Kenjougo resmi yang digunakan saat merendahkan tindakan diri sendiri di hadapan profesor/atasan."
       },
       {
@@ -5678,12 +5762,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "履修登録の要件を正確に把握してください。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "りしゅう (rishū) & はあく (ha'aku)",
-          "ふしゅう (fushū) & はそく (hasoku)",
-          "りしょう (rishō) & ばあく (ba'aku)",
-          "はいしゅう (haishū) & はくあ (hakua)"
+          "ふしゅう (fushū — bacaan salah) & はそく (hasoku — bacaan salah)",
+          "りしょう (rishō — bacaan salah) & ばあく (ba'aku — bacaan salah)",
+          "はいしゅう (haishū — bacaan salah) & はくあ (hakua — bacaan salah)",
+          "りしゅう (rishū — pengambilan mata kuliah) & はあく (ha'aku — pemahaman situasi)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "履修 dibaca りしゅう (rishū) dan 把握 dibaca はあく (ha'aku)."
       },
       {
@@ -5694,10 +5778,10 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "本日の入学ガイダンス____、各研究室の専門セミナーが開始されます。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "を皮切りに (o kawakiri ni)",
-          "に際して (ni saishite)",
-          "を通じて (o tsūjite)",
-          "を抜きにして (o nuki ni shite)"
+          "を皮切りに (o kawakiri ni) — dimulai dari / diawali dengan",
+          "に際して (ni saishite) — pada kesempatan / saat menghadapi",
+          "を通じて (o tsūjite) — melalui / sepanjang",
+          "を抜きにして (o nuki ni shite) — dengan mengesampingkan / tanpa"
         ],
         "correctAnswerIndex": 0,
         "explanation": "〜を皮切りに (o kawakiri ni) berarti 'dimulai dengan... lalu disusul peristiwa-peristiwa penting lainnya'."
@@ -5709,12 +5793,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Dalam penulisan Proposal Riset (研究計画書) dan Skripsi (論文) di Jepang, gaya bahasa akhir kalimat yang WAJIB digunakan adalah:",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "である調 (da/de aru: 〜である, 〜だ)",
-          "です・ます調 (desu/masu)",
-          "カジュアル会話調 (kasual bahasa lisan)",
-          "方言調 (dialek kedaerahan)"
+          "です・ます調 (desu/masu) — ragam sopan umum (untuk surat/percakapan)",
+          "である調 (da/de aru: 〜である, 〜だ) — ragam tulis ilmiah objektif (wajib untuk skripsi/proposal)",
+          "カジュアル会話調 — ragam percakapan kasual sehari-hari",
+          "方言調 — ragam dialek daerah"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Seluruh karya ilmiah di universitas Jepang wajib ditulis dalam である調 (da/de aru). Dilarang keras menggunakan です・ます調."
       },
       {
@@ -5725,12 +5809,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "国内消費が低迷している____、海外市場における売上は急速に拡大している。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "一方で (ippō de)",
-          "したがって (shitagatte)",
-          "すなわち (sunawachi)",
-          "つまり (tsumari)"
+          "したがって (shitagatte) — oleh karena itu (konklusi kausal)",
+          "すなわち (sunawachi) — yaitu / dengan kata lain",
+          "一方で (ippō de) — di sisi lain / sebaliknya (kontras berimbang)",
+          "つまり (tsumari) — intinya / singkatnya"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "〜一方で (ippō de: di satu sisi... di sisi lain...) membandingkan dua situasi yang saling bertolak belakang secara berimbang."
       },
       {
@@ -5741,12 +5825,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "誠に申し訳ございませんが、締め切り後の提出は受理____。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "いたしかねます (itashikanemasu)",
-          "いたしかねません (itashikanemasen)",
-          "できませんよ (dekimasen yo)",
-          "やりません (yarimasen)"
+          "いたしかねません (itashikanemasen) — berisiko dapat terjadi (makna kemungkinan negatif)",
+          "できませんよ (dekimasen yo) — tidak bisa lho (lisan langsung)",
+          "やりません (yarimasen) — tidak mau mengerjakan (kasar/langsung)",
+          "いたしかねます (itashikanemasu) — mohon maaf, kami tidak dapat melakukannya (penolakan formal)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "〜かねます (〜kanemasu: sulit/tidak dapat kami lakukan) adalah eufemisme formal resmi dalam korespondensi administrasi Jepang."
       },
       {
@@ -5756,10 +5840,10 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Istilah resmi untuk 'Satuan Kredit Semester (SKS)' dalam sistem akademik Jepang adalah:",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "単位 (tan'i)",
-          "点数 (tensū)",
-          "等級 (tōkyū)",
-          "学年 (gakunen)"
+          "単位 (tan'i) — Satuan Kredit Semester (SKS)",
+          "点数 (tensū) — skor / poin nilai ujian",
+          "等級 (tōkyū) — kelas / tingkatan mutu",
+          "学年 (gakunen) — tingkat tahun ajaran"
         ],
         "correctAnswerIndex": 0,
         "explanation": "Di universitas Jepang, bobot kredit perkuliahan disebut 単位 (tan'i). Contoh: 履修登録で20単位を取得する."
@@ -5772,12 +5856,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "研究データの一部を故意に改ざんする行為は、研究者として無責任____。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "極まりない (kiwamarinai: sangat tidak bertanggung jawab tak ada batasnya)",
           "にすぎない (ni suginai: hanya sekadar)",
+          "極まりない (kiwamarinai: sangat tidak bertanggung jawab tak ada batasnya)",
           "ほかはない (hoka wa nai: tidak ada pilihan lain)",
           "にこしたことはない (ni koshita koto wa nai: lebih baik)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "〜極まりない (kiwamarinai) menyatakan derajat puncak kemutlakan suatu sifat ekstrem yang tidak dapat ditoleransi."
       },
       {
@@ -5787,162 +5871,173 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Kalimat penutup surat/email paling standar dan berbobot sopan tinggi saat meminta bantuan bimbingan kepada dosen adalah:",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます。",
-          "じゃあ、お返事待ってますね！よろしく！",
-          "早く返信してください、困っています。",
-          "それではバイバイ、また来週。"
+          "じゃあ、お返事待ってますね！よろしく！ — Kalau begitu, saya tunggu balasannya ya! Salam!",
+          "早く返信してください、困っています。 — Tolong cepat balas, saya sedang kesulitan.",
+          "ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます。 — Di tengah kesibukan Profesor, dengan segala kerendahan hati saya memohon bimbingan Anda.",
+          "それではバイバイ、また来週。 — Kalau begitu dadah, sampai minggu depan."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Frasa penutup standar Keigo: 'ご多忙の折、大変恐縮ではございますが、何卒よろしくお願い申し上げます' (Di tengah kesibukan Anda, mohon maaf merepotkan, mohon bimbingannya)."
       },
       {
         "id": "q-jp-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan struktur salam pembuka dan identitas diri yang baku saat pertama kali mengirim email kepada calon Profesor di universitas Jepang:",
-        "sampleAnswer": "〇〇大学大学院 〇〇研究科\n〇〇 〇〇 教授\n\n突然のメールにて失礼いたします。\n私、インドネシアの〇〇大学を卒業いたしました[氏名]と申します。\n日頃より教授の[専門研究分野]に関する論文を拝読しており、深く感銘を受けております。\n本日は、来年度の大学院研究生としての受け入れについてご相談いたしたく、ご連絡差し上げました。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。 (Kenkyū dēta o kaizan shite ronbun o happyō suru nado, kenkyūsha to shite musekinin kiwamarinai kōi de ari, tōtei yōnin dekinai.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.",
         "keywords": [
-          "大学院",
-          "教授",
-          "拝読",
-          "失礼いたします",
-          "申します"
+          "tindakan",
+          "memanipulasi",
+          "data",
+          "riset"
         ],
-        "explanation": "Email pertama wajib memuat: nama institusi & gelar profesor, salam permohonan maaf mengganggu waktu, nama lengkap pelamar, dan alasan ketertarikan pada riset beliau."
+        "explanation": "Kalimat akademik pola Derajat Ekstrem Bahasa Tulis: 〜極まりない (kiwamarinai) & 〜極まる (kiwamaru): '研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。' diterjemahkan secara akurat menjadi 'Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.'."
       },
       {
         "id": "q-jp-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Mengapa dalam Proposal Rencana Riset (研究計画書) dan Skripsi (論文) mahasiswa DILARANG menggunakan gaya 'desu/masu' dan WAJIB menggunakan 'de aru' (である調)?",
-        "sampleAnswer": "である調 (gaya Da/De aru) adalah register bahasa tulis ilmiah yang menyatakan fakta, analisis logis, dan proposisi empiris secara tegas, berjarak, dan objektif. Gaya desu/masu bersifat percakapan interpersonal yang menonjolkan hubungan sopan antarpenutur, sehingga dianggap kurang tepat untuk karya ilmiah yang menuntut ketegasan akademik.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。 (Sekai-teki ninki bando no rainichi tsuā wa, raigetsu itsuka no Tōkyō Dōmu kōen o kawakiri ni zenkoku rokudai dōmu de kaisai saremasu.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.",
         "keywords": [
-          "である調",
-          "客観的",
-          "論文",
-          "論理的",
-          "事実"
+          "kedatangan",
+          "grup",
+          "musik",
+          "terkenal"
         ],
-        "explanation": "Konsistensi penggunaan である調 mencerminkan kepatuhan terhadap tradisi akademik universitas Jepang."
+        "explanation": "Kalimat akademik pola Titik Tolak Rangkaian Peristiwa: 〜を皮切りに (o kawakiri ni): '世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。' diterjemahkan secara akurat menjadi 'Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.'."
       },
       {
         "id": "q-jp-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Sebutkan dan jelaskan secara singkat 4 bab pokok yang wajib ada dalam sebuah Kenkyuu Keikakusho (研究計画書):",
-        "sampleAnswer": "1. 研究背景・動機 (Latar Belakang & Urgensi Masalah);\n2. 研究目的・学術的問い (Tujuan Penelitian & Rumusan Masalah);\n3. 研究方法・アプローチ (Metodologi Penelitian, Pengumpulan Data, & Kerangka Teoretis);\n4. 参考文献 (Daftar Pustaka & Tinjauan Literatur Terdahulu).",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。 (Kijō no kūron dewa naku, hisaichi no kibishii jitsujō ni sokushite jinsoku na fukkō shiensaku o sakutei subeki de aru.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.",
         "keywords": [
-          "研究背景",
-          "研究目的",
-          "研究方法",
-          "参考文献"
+          "sekadar",
+          "teori",
+          "hampa",
+          "atas"
         ],
-        "explanation": "Struktur 4 bab ini adalah standar evaluasi profesor Jepang dalam menilai kelayakan metodologi calon mahasiswa pascasarjana."
+        "explanation": "Kalimat akademik pola Kesesuaian Ketat terhadap Kaidah: 〜に即して (ni sokushite): '机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。' diterjemahkan secara akurat menjadi 'Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.'."
       },
       {
         "id": "q-jp-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan motivasi Anda memilih Jepang sebagai negara tujuan riset pascasarjana Anda dalam 2-3 kalimat (日本留学の志望動機):",
-        "sampleAnswer": "日本は私の専門分野において世界最先端の実験設備と緻密な研究方法論を有しており、特に貴研究室の研究業績は国際的にも極めて高く評価されています。私は先端知見を体系的に学び、将来は両国の学術交流と産業発展に貢献したいと考えております。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。 (Taifū no sekkin ni tomonau kōtsūmō no konran to okyakusama no anzen o kangamite, honjitsu no kōen wa yamu o ezu chūshi to sasete itadakimasu.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.",
         "keywords": [
-          "専門分野",
-          "最先端",
-          "研究室",
-          "学術交流",
-          "貢献"
+          "menimbang",
+          "kekacauan",
+          "jaringan",
+          "transportasi"
         ],
-        "explanation": "Alasan memilih Jepang harus spesifik pada keunggulan teknologi/keilmuan dan relevansi riset profesor di laboratorium sasaran."
+        "explanation": "Kalimat akademik pola Mempertimbangkan Situasi Luas: 〜を鑑みて (o kangamite): '台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。' diterjemahkan secara akurat menjadi 'Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.'."
       },
       {
         "id": "q-jp-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan apa yang dimaksud dengan 'ゼミ' (Zemi / Seminar Riset) dalam tradisi universitas Jepang dan bagaimana etiket mahasiswa saat menghadiri zemi:",
-        "sampleAnswer": "ゼミ (Zemi) adalah pertemuan berkala di mana mahasiswa mempresentasikan progres penelitian dan mendiskusikannya secara kritis bersama profesor dan rekan laboratorium. Mahasiswa wajib: (1) Hadir tepat waktu tanpa terlambat (時間厳守); (2) Membaca bahan presentasi sebelum sesi dimulai; (3) Berpartisipasi aktif dalam sesi tanya jawab ilmiah secara santun.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。 (Bokō o sudachi shakai e to habataku wakamonotachi no zento ni, sachi ōkaran koto o inotte yamimasen.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.",
         "keywords": [
-          "ゼミ",
-          "発表",
-          "時間厳守",
-          "議論",
-          "教授"
+          "tiada",
+          "henti",
+          "hentinya",
+          "memanjatkan"
         ],
-        "explanation": "Zemi adalah inti kehidupan akademis mahasiswa pascasarjana di Jepang; keaktifan dan etika seminar sangat memengaruhi evaluasi kelulusan."
+        "explanation": "Kalimat akademik pola Perasaan Emosional Mendalam: 〜てやまない (te yamanai) & 〜を禁じ得ない (o kinji enai): '母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。' diterjemahkan secara akurat menjadi 'Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.'."
       },
       {
         "id": "q-jp-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan pengertian '先行研究' (Senkō Kenkyū: Riset Terdahulu) dan mengapa profesor Jepang sangat menekankan tinjauan terhadap bagian ini:",
-        "sampleAnswer": "先行研究 adalah seluruh literatur dan penelitian ilmiah relevan yang telah diterbitkan oleh peneliti terdahulu mengenai topik yang bersangkutan. Menelaah riset terdahulu krusial untuk: (1) Menemukan celah penelitian (Research Gap); (2) Memastikan orisinalitas (新規性) riset agar tidak mengulang apa yang sudah terbukti; (3) Menghindari pelanggaran hak cipta/plagiarisme.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。 (Jiko no shōgeki de ashi o kossetsu shite shimai, hashiru koto wa oroka, hitori de jiritsu shite tachiagaru koto sae dekimasen.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.",
         "keywords": [
-          "先行研究",
-          "新規性",
-          "オリジナリティ",
-          "文献",
-          "課題"
+          "kaki",
+          "patah",
+          "akibat",
+          "benturan"
         ],
-        "explanation": "Profesor Jepang menilai keilmiahan proposal dari seberapa mendalam pelamar menguasai 先行研究 di bidangnya."
+        "explanation": "Kalimat akademik pola Mengesampingkan yang Ekstrem: 〜はおろか (wa oroka) & 〜ならいざ知らず (nara iza shirazu): '事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。' diterjemahkan secara akurat menjadi 'Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.'."
       },
       {
         "id": "q-jp-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Bagaimana pandangan budaya akademik Jepang terhadap konsep '時間厳守' (Jikan Genshu: Ketepatan Waktu), dan apa yang harus dilakukan jika Anda terpaksa terlambat karena kendala kereta api?",
-        "sampleAnswer": "Di Jepang, ketepatan waktu adalah tolak ukur integritas dan kepercayaan. Terlambat tanpa kabar dianggap pelanggaran etika berat. Jika terlambat akibat gangguan kereta api, mahasiswa wajib: (1) Mengambil surat bukti keterlambatan (遅延証明書) dari petugas stasiun; (2) Segera mengirim email/pesan singkat permohonan maaf dan estimasi tiba kepada dosen sebelum jam kuliah dimulai.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。 (Kare ga kazukazu no gyakkyō o norikoete igyō o tassei dekita no wa, futōfukutsu no shinnen o mochitsuzuketa kara ni hokanaranai.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.",
         "keywords": [
-          "時間厳守",
-          "遅延証明書",
-          "連絡",
-          "信用",
-          "謝罪"
+          "keberhasilannya",
+          "melampaui",
+          "berbagai",
+          "rintangan"
         ],
-        "explanation": "Konsep 5 menit sebelum waktu (5分前行動) berlaku mutlak di seluruh kampus Jepang."
+        "explanation": "Kalimat akademik pola Kalimat Formal Akademis: 〜にほかならない (ni hokanaranai) & 〜とされている: '彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。' diterjemahkan secara akurat menjadi 'Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.'."
       },
       {
         "id": "q-jp-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan contoh email izin tidak dapat menghadiri kuliah seminar karena sakit mendadak sesuai standar etiket universitas Jepang:",
-        "sampleAnswer": "件名：欠席のご連絡（学籍番号〇〇 氏名〇〇）\n\n〇〇教授\n\nお世話になっております。〇〇専攻の[氏名]です。\n大変申し訳ございませんが、本日早朝より発熱があり、体調が思わしくないため、本日の講義（ゼミ）を欠席させていただきたく存じます。\n直前のご連絡となり、大変ご迷惑をおかけいたしますことを深くお詫び申し上げます。\n本日の配布資料等につきましては、次回登校時に確認いたします。\n何卒よろしくお願い申し上げます。",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。 (Dai-jishin ni yoru genshiryoku hatsudensho no jiko ni yori, sūman-nin mono jūmin ga suminareta kokyō kara no hinan seikatsu o yogi naku saremashita.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.",
         "keywords": [
-          "欠席",
-          "体調",
-          "お詫び",
-          "ご連絡",
-          "ご迷惑"
+          "akibat",
+          "kecelakaan",
+          "instalasi",
+          "pembangkit"
         ],
-        "explanation": "Email izin sakit wajib mencantumkan subjek yang jelas, alasan singkat dan sopan, permohonan maaf merepotkan, dan komitmen mengejar ketertinggalan materi."
+        "explanation": "Kalimat akademik pola Tekanan Keadaan yang Tak Terelakkan: 〜を余儀なくされる (o yogi naku sareru): '大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。' diterjemahkan secara akurat menjadi 'Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.'."
       },
       {
         "id": "q-jp-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan rencana konkret Anda dalam menuntaskan target sertifikasi JLPT N1 dalam kurun waktu satu tahun perkuliahan di Jepang:",
-        "sampleAnswer": "Saya akan: (1) Menghafalkan 2.136 Kanji Joyo dengan target 10-15 kanji baru per hari beserta kosakata gabungannya (熟語); (2) Membaca kolom opini koran seperti Asahi Shimbun (天声人語) untuk mengasah kecepatan membaca naskah abstrak; (3) Menganalisis 50 pola tata bahasa tingkat N1 setiap minggu dan menerapkannya dalam draf laporan ilmiah.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。 (Manyuarudōri no kakuitsuteki na taiō ni torawarezu, genba no jōkyō ni ōjite rinki-ōhen ni taisho suru jūnansei ga motomerareru.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.",
         "keywords": [
-          "JLPT N1",
-          "漢字",
-          "天声人語",
-          "文法",
-          "読解"
+          "tanpa",
+          "terpaku",
+          "respons",
+          "seragam"
         ],
-        "explanation": "Ujian JLPT N1 menuntut pemahaman nuansa bahasa tingkat tinggi pada teks tajuk rencana dan wacana sastra modern."
+        "explanation": "Kalimat akademik pola Yojijukugo (Idiom Empat Kanji) dalam Diskursus Resmi N1: 'マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。' diterjemahkan secara akurat menjadi 'Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.'."
       },
       {
         "id": "q-jp-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan visi Anda mengenai bagaimana hasil riset Anda di universitas Jepang dapat memberikan kontribusi nyata bagi masyarakat setelah Anda lulus:",
-        "sampleAnswer": "Saya berkomitmen menerapkan metodologi riset dan teknologi terbarukan yang saya kuasai di laboratorium Jepang untuk memecahkan tantangan strategis di tanah air (seperti transisi energi bersih, otomatisasi industri, atau ketahanan pangan). Saya juga berencana menjadi penghubung riset bersama (Joint Research) antara institusi Indonesia dan universitas Jepang.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。 (Hon-kenkyū wa, kyūsoku ni shinten suru seisei Ē-ai gijutsu no rinriteki kadai o meguri, kokunaigai no hōseido to terashiawasetsutsu, genjitsu ni sokushita gabanansu moderu no kōchiku o mezasu mono de aru.)",
+        "audioVoiceLang": "ja-JP",
+        "sampleAnswer": "Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.",
         "keywords": [
-          "研究成果",
-          "社会貢献",
-          "共同研究",
-          "架け橋",
-          "実践"
+          "penelitian",
+          "seputar",
+          "tantangan",
+          "etika"
         ],
-        "explanation": "Dewan beasiswa pemerintah Jepang (MEXT) sangat mengutamakan pelamar yang mampu menjabarkan dampak sosial-ekonomi riset pascastudi."
+        "explanation": "Kalimat akademik pola Mahakarya Kelulusan JLPT N1 & Bahasa Jepang Akademik Perguruan Tinggi (Capstone Unit): '本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。' diterjemahkan secara akurat menjadi 'Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.'."
       },
       {
         "id": "q-jp-sk-1",
@@ -5950,9 +6045,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat permohonan bimbingan proposal riset kepada profesor:",
         "scrambledWords": [
-          "研究計画書につきまして",
+          "賜りたく存じます",
           "教授のご指導を",
-          "賜りたく存じます"
+          "研究計画書につきまして"
         ],
         "correctOrder": [
           "研究計画書につきまして",
@@ -5969,9 +6064,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman batas waktu registrasi mata kuliah (KRS):",
         "scrambledWords": [
+          "完了してください",
           "今学期の履修登録は",
-          "4月20日までに",
-          "完了してください"
+          "4月20日までに"
         ],
         "correctOrder": [
           "今学期の履修登録は",
@@ -5988,9 +6083,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat kesiapan presentasi seminar riset:",
         "scrambledWords": [
-          "来週のゼミにて",
+          "行う予定です",
           "先行研究の発表を",
-          "行う予定です"
+          "来週のゼミにて"
         ],
         "correctOrder": [
           "来週のゼミにて",
@@ -6007,9 +6102,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat persiapan pendaftaran beasiswa MEXT:",
         "scrambledWords": [
+          "準備しております",
           "文部科学省の奨学金に",
-          "応募するための書類を",
-          "準備しております"
+          "応募するための書類を"
         ],
         "correctOrder": [
           "文部科学省の奨学金に",
@@ -6026,9 +6121,9 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi instruksi penutupan laboratorium riset:",
         "scrambledWords": [
-          "実験終了後は",
+          "施錠してください",
           "必ず安全確認を行い",
-          "施錠してください"
+          "実験終了後は"
         ],
         "correctOrder": [
           "実験終了後は",
@@ -6047,12 +6142,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "教務課のウェブサイトにて今学期の履修登録を行ってください。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Pendaftaran rencana studi / pengisian KRS mata kuliah semester",
           "Pembayaran uang pangkal gedung perkuliahan",
+          "Pendaftaran rencana studi / pengisian KRS mata kuliah semester",
           "Pencetakan kartu perpustakaan universitas",
           "Permohonan cuti kuliah sementara"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "履修 (pengambilan mata kuliah) + 登録 (registrasi) = pengisian Kartu Rencana Studi (KRS) resmi."
       },
       {
@@ -6063,12 +6158,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "先行研究の批判的検討を通じて、本論文の独自性を明確にする。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Studi / penelitian terdahulu yang relevan dalam tinjauan pustaka",
           "Biaya perjalanan dinas riset luar negeri",
           "Hasil eksperimen yang gagal di laboratorium",
+          "Studi / penelitian terdahulu yang relevan dalam tinjauan pustaka",
           "Rencana jadwal wisuda kelulusan mahasiswa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "先行 (terdahulu) + 研究 (penelitian) = literatur / penelitian terdahulu yang menjadi pijakan riset."
       },
       {
@@ -6079,12 +6174,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "引用したすべての書籍や論文を参考文献リストに記載しなければならない。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Daftar pustaka / literatur rujukan ilmiah",
           "Brosur panduan beasiswa pemerintah",
           "Catatan kuliah harian mahasiswa",
-          "Surat keterangan kelakuan baik"
+          "Surat keterangan kelakuan baik",
+          "Daftar pustaka / literatur rujukan ilmiah"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "参考文献 (sankō bunken) adalah daftar pustaka / bibliografi yang dirujuk dalam karya tulis ilmiah."
       },
       {
@@ -6111,12 +6206,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "明日の経済学講義は休講となり、来週水曜日に補講が行われます。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Kuliah ditiadakan (kosong) dan kuliah pengganti",
           "Ujian tengah semester dan ujian susulan",
+          "Kuliah ditiadakan (kosong) dan kuliah pengganti",
           "Orientasi mahasiswa baru dan temu alumni",
           "Praktikum laboratorium dan seminar proposal"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "休講 = perkuliahan ditiadakan; 補講 = kelas kuliah pengganti."
       },
       {
@@ -6127,12 +6222,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "修士論文の口頭試問を無事に通過し、修了が認定された。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Tesis magister / tugas akhir jenjang S2",
           "Skripsi sarjana muda jenjang D3",
           "Disertasi doktoral jenjang S3",
+          "Tesis magister / tugas akhir jenjang S2",
           "Laporan magang kerja lapangan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "修士 (magister / S2) + 論文 (karya tulis ilmiah) = tesis magister S2."
       },
       {
@@ -6143,12 +6238,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "大学院入試の出願書類として、出身大学の成績証明書を提出した。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Transkrip nilai akademik resmi",
           "Ijazah kelulusan sementara",
           "Surat bukti pembayaran SPP",
-          "Pas foto ukuran paspor"
+          "Pas foto ukuran paspor",
+          "Transkrip nilai akademik resmi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "成績 (nilai hasil studi) + 証明書 (surat keterangan resmi) = transkrip nilai akademik."
       },
       {
@@ -6175,12 +6270,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "大学院修士課程の本科生に入学する前、半年間研究生として在籍した。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Mahasiswa peneliti non-gelar persiapan masuk program magister/doktoral",
           "Dosen tamu dari luar negeri",
+          "Mahasiswa peneliti non-gelar persiapan masuk program magister/doktoral",
           "Alumni yang sudah lulus wisuda",
           "Asisten administrasi kantor jurusan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "研究生 adalah mahasiswa riset non-degree yang belajar di bawah bimbingan profesor sebelum menempuh ujian seleksi masuk reguler (Insei)."
       },
       {
@@ -6191,12 +6286,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "留学生がアルバイトをする場合、入国管理局から資格外活動許可を受けなければならない。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Izin resmi bekerja paruh waktu (arubaito) di luar status visa pelajar (maksimal 28 jam/minggu)",
           "Izin mengikuti ujian surat izin mengemudi mobil",
           "Izin perjalanan liburan ke luar negeri",
+          "Izin resmi bekerja paruh waktu (arubaito) di luar status visa pelajar (maksimal 28 jam/minggu)",
           "Sertifikat kelulusan uji kecakapan bahasa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "資格外活動許可 adalah cap izin resmi dari imigrasi yang memperbolehkan pemegang visa pelajar bekerja paruh waktu secara legal."
       },
       {
@@ -6206,12 +6301,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca teks pengumuman evaluasi perkuliahan berikut:\n'本講義の評価基準は、期末筆記試験60%、各回小レポート30%、出席率10%とする。なお、小レポートは締め切りを過ぎた場合、理由の如何を問わず一切採点対象としない。また、出席回数が全講義の3分の2に満たない者は自動的に不合格（D評価）となる。'\n\nBerapa batas minimal kehadiran agar mahasiswa tidak otomatis dinyatakan tidak lulus (tidak mendapat nilai D)?",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Minimal hadir 2/3 (dua pertiga) dari total sesi perkuliahan",
           "Minimal hadir 50% dari total kuliah",
           "Cukup hadir saat ujian akhir semester saja",
-          "Minimal hadir 100% tanpa pernah absen satu kali pun"
+          "Minimal hadir 100% tanpa pernah absen satu kali pun",
+          "Minimal hadir 2/3 (dua pertiga) dari total sesi perkuliahan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Teks menyatakan: '出席回数が全講義の3分の2に満たない者は自動的に不合格' (Kurang dari 2/3 kehadiran otomatis tidak lulus)."
       },
       {
@@ -6236,12 +6331,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca wacana ketentuan beasiswa MEXT (Pemerintah Jepang):\n'文部科学省国費外国人留学生は、毎月所定の期日までに大学留学生支援窓口にて在籍簿に自筆署名（サイン）を行わなければならない。出張・病気等の正当な理由なく署名を行わなかった月は、当月分の奨学金が支給されない。'\n\nApa yang wajib dilakukan mahasiswa setiap bulan agar uang saku beasiswa MEXT cair?",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Menandatangani buku presensi kehadiran (在籍簿) secara langsung di loket kampus",
           "Mengirim email laporan pengeluaran belanja harian ke kementerian",
+          "Menandatangani buku presensi kehadiran (在籍簿) secara langsung di loket kampus",
           "Menyerahkan salinan slip gaji pekerjaan paruh waktu",
           "Mengikuti ujian wawancara online setiap awal bulan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Penerima beasiswa MEXT wajib hadir menandatangani buku bukti keberadaan di Jepang (在籍確認のサイン) setiap bulan."
       },
       {
@@ -6252,12 +6347,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "修士論文発表会は来月十日、第一共同セミナー室にて午前九時半より開始いたします。発表時間は質疑応答を含め一人三十分です。発表者は開始十五分前までにプロジェクターの接続確認を完了してください。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Sidang tesis dimulai tanggal 10 bulan depan jam 09.30, durasi 30 menit per orang, dan wajib cek proyektor 15 menit sebelumnya",
           "Sidang tesis dibatalkan karena renovasi proyektor ruang seminar",
           "Ujian lisan dipindahkan ke ruang dosen pembimbing masing-masing",
+          "Sidang tesis dimulai tanggal 10 bulan depan jam 09.30, durasi 30 menit per orang, dan wajib cek proyektor 15 menit sebelumnya",
           "Presentasi berlangsung selama 2 jam tanpa sesi tanya jawab"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Pengumuman: tanggal 10 jam 09.30, ruang seminar 1, waktu 30 menit (termasuk tanya jawab), dan cek proyektor 15 menit sebelum mulai."
       },
       {
@@ -6268,12 +6363,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "有機溶媒および酸性試薬を使用した後は、必ずドラフトチャンバー内で適切な廃液容器に分別廃棄してください。誤って一般下水に流すことは法律により厳禁されています。",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "Kewajiban membuang limbah reagen kimia dan pelarut organik ke jerigen pemilahan khusus di dalam fume hood (lemari asam)",
           "Larangan menyalakan lampu laboratorium setelah jam lima sore",
           "Petunjuk cara mencampur asam sulfat pekat dengan air keran",
-          "Pemberitahuan pemadaman listrik berkala di gedung sains"
+          "Pemberitahuan pemadaman listrik berkala di gedung sains",
+          "Kewajiban membuang limbah reagen kimia dan pelarut organik ke jerigen pemilahan khusus di dalam fume hood (lemari asam)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Instruksi: limbah pelarut organik wajib dibuang terpisah di fume hood (ドラフトチャンバー内), dilarang dibuang ke saluran air biasa."
       },
       {
@@ -6299,12 +6394,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah ungkapan tata bahasa N2 yang tepat untuk melengkapi hubungan kausalitas simultan:\n'科学技術の急速な進歩____、従来のプライバシー保護法の見直しが迫られている。'",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "に伴い (ni tomonai: seiring dengan)",
-          "をおいて (o oite)",
-          "に反して (ni hanshite)",
-          "を皮切りに (o kawakiri ni)"
+          "をおいて (o oite) — selain... tidak ada yang lain",
+          "に伴い (ni tomonai) — seiring dengan / bersamaan dengan",
+          "に反して (ni hanshite) — bertentangan dengan / berlawanan dengan",
+          "を皮切りに (o kawakiri ni) — diawali dengan / dimulai dari"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "〜に伴い (ni tomonai: seiring dengan berkembangnya...) menyatakan perubahan A yang memicu perubahan B secara simultan."
       },
       {
@@ -6314,12 +6409,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa yang tepat untuk menyatakan ketidaksanggupan psikologis/etika seorang peneliti:\n'研究不正を目の当たりにした以上、研究者としての良心から黙認する____。'",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "わけにはいかない (wake ni wa ikanai: tidak mungkin bisa membiarkannya secara nurani)",
           "わけがない (wake ga nai: mustahil kenyataannya)",
           "に違いない (ni chigainai: pasti)",
+          "わけにはいかない (wake ni wa ikanai: tidak mungkin bisa membiarkannya secara nurani)",
           "にすぎない (ni suginai: hanya sekadar)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "〜わけにはいかない menyatakan bahwa dari segi etika moral / norma sosial, tindakan tersebut tidak boleh dilakukan."
       },
       {
@@ -6329,12 +6424,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa yang menyatakan keharusan tanpa pilihan lain:\n'台風の接近により交通機関が全面的に麻痺したため、本日の学会発表を中止____。'",
         "audioVoiceLang": "ja-JP",
         "options": [
-          "せざるを得なかった (sezaru o enakatta: terpaksa dibatalkan tanpa pilihan lain)",
-          "するはずがなかった (suru hazu ga nakatta)",
-          "したくてたまらなかった (shitakute tamaranakatta)",
-          "することになったわけではない (suru koto ni natta wake dewa nai)"
+          "するはずがなかった (suru hazu ga nakatta) — tidak mungkin dijadwalkan terjadi",
+          "したくてたまらなかった (shitakute tamaranakatta) — sangat ingin melakukannya",
+          "することになったわけではない (suru koto ni natta wake dewa nai) — bukan berarti diputuskan demikian",
+          "せざるを得なかった (sezaru o enakatta) — terpaksa membatalkan tanpa pilihan lain"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "〜ざるを得ない (sezaru o enai) berarti 'terpaksa harus melakukan hal tersebut karena tidak ada pilihan lain yang memungkinkan'."
       },
       {
@@ -6357,12 +6452,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam wawancara seleksi pascasarjana, penguji menanyakan: 'Jika hipotesis Anda ternyata keliru di tengah penelitian, apa yang akan Anda lakukan?'. Jawaban paling tepat adalah:",
         "options": [
-          "Segera meninjau kembali variabel eksperimen, menganalisis faktor penyebab deviasi data bersama profesor pembimbing, dan merumuskan pendekatan alternatif",
           "Tetap memaksakan data agar sesuai dengan hipotesis awal",
+          "Segera meninjau kembali variabel eksperimen, menganalisis faktor penyebab deviasi data bersama profesor pembimbing, dan merumuskan pendekatan alternatif",
           "Langsung menyerah dan berganti topik penelitian baru",
           "Menyalahkan alat ukur laboratorium yang sudah tua"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Sikap ilmiah yang matang mengedepankan analisis penyebab anomali data (データ偏差の要因分析) dan pemecahan masalah objektif."
       },
       {
@@ -6371,12 +6466,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Di lingkungan universitas Jepang, bagaimana cara memanggil profesor pembimbing Anda saat bertegur sapa secara langsung?",
         "options": [
-          "〇〇先生 (〇〇-sensei)",
-          "〇〇教授 (〇〇-kyōju: sebutan tertulis di surat, bukan panggilan langsung sehari-hari)",
-          "〇〇さん (〇〇-san)",
-          "あなた (Anata)"
+          "〇〇教授 (〇〇-kyōju) — gelar jabatan tertulis pada dokumen/surat resmi",
+          "〇〇さん (〇〇-san) — panggilan umum antar rekan (kurang sopan untuk profesor)",
+          "〇〇先生 (〇〇-sensei) — panggilan langsung yang sopan kepada dosen/profesor di kampus",
+          "あなた (Anata) — Anda (tidak sopan bila digunakan kepada atasan/dosen)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Dalam percakapan langsung tatap muka, seluruh dosen wajib dipanggil dengan akhiran '〜先生' (Sensei). Sebutan 〇〇教授 lazimnya untuk ragam tulis."
       },
       {
@@ -6385,12 +6480,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Makna dari peribahasa akademik empat karakter (四字熟語) '切磋琢磨' (Sessa takuma) adalah:",
         "options": [
-          "Saling mengasah kemampuan, memacu prestasi, dan belajar bersama dengan rekan demi mencapai kualitas terbaik",
           "Bekerja lembur sampai larut malam tanpa istirahat",
           "Membuang barang-barang yang sudah tidak terpakai",
-          "Berdebat keras sampai bermusuhan"
+          "Berdebat keras sampai bermusuhan",
+          "Saling mengasah kemampuan, memacu prestasi, dan belajar bersama dengan rekan demi mencapai kualitas terbaik"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "切磋琢磨 (sessa takuma) adalah ungkapan yang sangat dijunjung dalam budaya laboratorium Jepang (saling mengasah dan memotivasi antarpeneliti)."
       },
       {
@@ -6413,12 +6508,12 @@ export const JAPAN_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Berapa batas maksimal jam kerja paruh waktu (arubaito) yang diizinkan oleh hukum imigrasi Jepang bagi mahasiswa asing pemegang izin resmi selama masa aktif perkuliahan?",
         "options": [
-          "Maksimal 28 jam per minggu (dan hingga 40 jam per minggu saat libur panjang semester)",
           "Bebas tanpa batas jam asalkan nilai tidak turun",
+          "Maksimal 28 jam per minggu (dan hingga 40 jam per minggu saat libur panjang semester)",
           "Maksimal 10 jam per minggu",
           "Dilarang bekerja sama sekali dalam kondisi apapun"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Undang-undang keimigrasian Jepang menetapkan batas legal arubaito mahasiswa asing adalah 28 jam per minggu (週28時間以内)."
       }
     ]
@@ -6440,12 +6535,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "그 후보자는 뛰어난 연구 실적을 갖추었을____, 유창한 한국어 구사 능력도 겸비하고 있다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "뿐만 아니라 (ppunman anira: tidak hanya... tetapi juga...)",
           "반면에 (banmyeone: di sisi lain)",
           "바람에 (barame: akibat yang merugikan)",
+          "뿐만 아니라 (ppunman anira: tidak hanya... tetapi juga...)",
           "탓에 (tase: gara-gara)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "-(으)ㄹ 뿐만 아니라 digunakan untuk menambahkan informasi pendukung sejajar (tidak hanya A, tetapi juga B)."
       },
       {
@@ -6456,12 +6551,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "이번 학기 전공과목 ____ 기간은 다음 주 월요일부터 시작됩니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "수강신청 (sugangsincheong [受講申請])",
-          "졸업증명 (joreopjeungmyeong [卒業證明])",
-          "입학시험 (iphaksihyeom [入學試驗])",
-          "출석체크 (chulseokchekeu)"
+          "졸업증명 (joreopjeungmyeong [卒業證明]) — surat keterangan lulus / ijazah",
+          "입학시험 (iphaksihyeom [入學試驗]) — ujian saringan masuk universitas",
+          "출석체크 (chulseokchekeu) — pemeriksaan daftar hadir kuliah",
+          "수강신청 (sugangsincheong [受講申請]) — pendaftaran rencana studi / pengisian KRS"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "수강신청 (受講申請: sugangsincheong) adalah istilah resmi untuk pendaftaran mata kuliah / KRS di universitas Korea."
       },
       {
@@ -6472,10 +6567,10 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "선행 연구에 따르면, 기후 변화가 농업 생산성에 직접적인 영향을 ____.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "미친다고 보고되었다 (michindago bogodoeeotda)",
-          "미쳐요라고 했어요 (michyeoyo-rago haesseoyo)",
-          "미치네요 (michineyo)",
-          "미칠 것 같아요 (michil geot gat-ayo)"
+          "미친다고 보고되었다 (michindago bogodoeeotda) — dilaporkan memberikan pengaruh (kutipan tidak langsung ilmiah)",
+          "미쳐요라고 했어요 (michyeoyo-rago haesseoyo) — katanya berpengaruh (ragam lisan santai)",
+          "미치네요 (michineyo) — ternyata berpengaruh ya (ekspresi lisan)",
+          "미칠 것 같아요 (michil geot gat-ayo) — sepertinya akan berpengaruh (dugaan subjektif lisan)"
         ],
         "correctAnswerIndex": 0,
         "explanation": "-(ㄴ/는)다고 보고되었다/밝혀졌다 adalah bentuk kutipan objektif pasif formal dalam makalah akademik Korea."
@@ -6487,12 +6582,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Dalam esai argumentatif TOPIK II (Soal No. 54), akhiran kalimat yang WAJIB digunakan untuk menjaga nada netral ilmiah adalah:",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "해라체 / Plain Style (-ㄴ/는다, -았다/었다, -(으)ㅁ)",
-          "해요체 (-아/어요)",
-          "하십시오체 (-습니다/십니까)",
-          "반말 (-어/야)"
+          "해요체 (-아/어요) — ragam sopan percakapan sehari-hari",
+          "해라체 / Plain Style (-ㄴ/는다, -았다/었다, -(으)ㅁ) — ragam tulis netral ilmiah (wajib untuk esai TOPIK & jurnal)",
+          "하십시오체 (-습니다/십니까) — ragam formal lisan / presentasi",
+          "반말 (-어/야) — ragam akrab tidak sopan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Esai akademik dan laporan riset Korea wajib ditulis dengan gaya netral plain style (해라체: -ㄴ/는다). Penggunaan -아요/어요 akan dikenai penalti nilai."
       },
       {
@@ -6503,12 +6598,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "통계청이 발표한 최근 조사 결과____, 1인 가구의 비율이 급증하고 있다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "에 의하면 (e uihamyeon: berdasarkan / menurut)",
-          "에 비해서 (e bihaeseo)",
-          "에 대하여 (e daehayeo)",
-          "에 불구하고 (e bulguhago)"
+          "에 비해서 (e bihaeseo) — dibandingkan dengan",
+          "에 대하여 (e daehayeo) — mengenai / tentang",
+          "에 의하면 (e uihamyeon) — berdasarkan / menurut rujukan data",
+          "에 불구하고 (e bulguhago) — terlepas dari / meskipun"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "-에 의하면 / -에 따르면 digunakan secara formal untuk menunjukkan sumber rujukan data resmi."
       },
       {
@@ -6519,12 +6614,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "유례없는 집중호우____ 산사태가 발생하여 도로가 통제되었다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "로 인해 (ro inhae: dikarenakan oleh / akibat)",
           "느라고 (neurago: karena sibuk melakukan suatu aksi)",
           "자마자 (jamaja: segera setelah)",
-          "길래 (gillae: ragam lisan santai)"
+          "길래 (gillae: ragam lisan santai)",
+          "로 인해 (ro inhae: dikarenakan oleh / akibat)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "-(으)로 인해 adalah bentuk sebab-akibat formal tertulis tingkat tinggi untuk menjelaskan fenomena alam atau sosial."
       },
       {
@@ -6550,12 +6645,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Istilah hukum dan etika akademik untuk tindakan ilegal menjiplak karya orang lain tanpa mencantumkan sumber adalah:",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "표절 (pyojeol [剽竊: plagiarisme])",
           "출판 (chulpan [出版: penerbitan])",
+          "표절 (pyojeol [剽竊: plagiarisme])",
           "열람 (yeollam [閱覽: membaca])",
           "기부 (gibu [寄附: donasi])"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "표절 (pyojeol) adalah istilah hukum akademik untuk plagiarisme di perguruan tinggi Korea."
       },
       {
@@ -6566,12 +6661,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "학문적 창의성을 ____하고, 무분별한 단순 암기식 학습은 ____해야 한다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "지향(指向) - 지양(止揚)",
-          "지양(止揚) - 지향(指向)",
-          "가속(加速) - 발전(發展)",
-          "포기(抛棄) - 장려(奬勵)"
+          "지양(止揚 — menghindari) - 지향(指向 — mengarah ke tujuan)",
+          "가속(加速 — percepatan) - 발전(發展 — perkembangan)",
+          "지향(指向 — mengarah ke tujuan positif) - 지양(止揚 — menghindari hal negatif)",
+          "포기(抛棄 — menyerah) - 장려(奬勵 — mendorong/menganjurkan)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "지향하다 (指向) = mengarah ke tujuan positif; 지양하다 (止揚) = menghindari / menghentikan kebiasaan negatif."
       },
       {
@@ -6581,19 +6676,19 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah format salam penutup email yang paling santun dan baku saat mengirimkan draf proposal kepada Dosen Pembimbing (지도교수님):",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "교수님의 건강과 행복을 기원합니다. 학생 [이름] 올림 (또는 드림)",
-          "그럼 다음에 또 연락할게요. 안녕히 계세요!",
-          "빨리 답장 부탁드립니다. 수고하세요!",
-          "바이바이, 다음 주에 봐요."
+          "그럼 다음에 또 연락할게요. 안녕히 계세요! — Kalau begitu lain kali saya hubungi lagi ya. Sampai jumpa!",
+          "빨리 답장 부탁드립니다. 수고하세요! — Tolong cepat balas ya. Selamat bekerja!",
+          "바이바이, 다음 주에 봐요. — Dadah, sampai ketemu minggu depan.",
+          "교수님의 건강과 행복을 기원합니다. 학생 [이름] 올림 (또는 드림) — Saya mendoakan kesehatan dan kebahagiaan Profesor. Hormat saya, Mahasiswa [Nama]."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Salam penutup Keigo Korea: mendoakan kesehatan dosen diikuti [이름] 올림 (mempersembahkan ke atas) atau 드림."
       }
     ]
   },
   "kr-2": {
     "id": "test-kr-2",
-    "title": "Bagian 2: Esai Rencana Studi & Analisis Konseptual Korea Selatan (10 Soal Essai)",
+    "title": "Bagian 2: Terjemahan Kalimat Akademik (10 Soal Terjemahkan)",
     "description": "Uji kemampuan menyusun esai motivasi, proposal rencana riset, etika akademik, dan korespondensi formal dengan dosen di Korea Selatan.",
     "passingScorePercent": 75,
     "questions": [
@@ -6601,151 +6696,161 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "id": "q-kr-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan struktur salam pembuka dan perkenalan diri formal saat Anda mengirim email pertama kali kepada calon Profesor Pembimbing (지도교수님께 드리는 첫 이메일):",
-        "sampleAnswer": "존경하는 [교수님 성함] 교수님께,\n안녕하십니까? 저는 인도네시아 [출신 대학교]에서 [전공]을 전공하고 이번에 귀교 대학원 석사과정에 지원하고자 하는 [본인 이름]입니다.\n평소 교수님께서 발표하신 [구체적 연구 분야]에 관한 학술 논문을 깊이 감명 깊게 읽어왔습니다.\n바쁘신 와중에 결례를 무릅쓰고, 교수님의 연구실에서 학위과정을 이수할 수 있는 기회에 대해 상담을 여쭙고자 메일을 드립니다.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다. (Sunyeon-gan-ui pinaneun noryeok-gwa yeokgyeong kkeut-e segyejeok-in ba-io bencheogieop-eul ilgwonaen daepyo-ui seong-gong seutori-neun gojingamrae-ui jinjeonghan pyosang-ida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).",
         "keywords": [
-          "존경하는",
-          "교수님",
-          "연구실",
-          "논문",
-          "지원"
+          "kisah",
+          "sukses",
+          "membangun",
+          "perusahaan"
         ],
-        "explanation": "Email ke profesor di Korea wajib menggunakan sapaan 존경하는... 교수님께, menyebutkan latar belakang almamater, ketertarikan pada publikasi beliau, dan permohonan bimbingan."
+        "explanation": "Kalimat akademik pola Saja-seong-eo Filosofis 1 (사자성어): 고진감래, 일석이조, 작심삼일: '수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다.' diterjemahkan secara akurat menjadi 'Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).'."
       },
       {
         "id": "q-kr-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Mengapa dalam penulisan esai TOPIK No. 54 dan makalah skripsi mahasiswa dilarang menggunakan akhiran '-아요/어요' dan wajib menggunakan gaya netral (해라체: -ㄴ/는다)?",
-        "sampleAnswer": "해라체 (-ㄴ/는다) adalah laras bahasa tulis resmi (문어체) yang menjamin objektivitas, netralitas, dan sifat impersonal dari argumen ilmiah. Akhiran -아요/어요 merupakan laras lisan percakapan interpersonal (구어체) yang berorientasi pada lawan tutur, sehingga tidak sesuai dengan konvensi penulisan akademik yang menuntut ketegasan proposisi logis.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다. (Sangdaebang-ui cheoji-reul yeokjisaji-ui jase-ro he-ariji ankgo ilbangjeok-in jujangman-eul doepurihandamyeon daehwa-ui mulkko-reul teul su eopda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.",
         "keywords": [
-          "해라체",
-          "문어체",
-          "객관성",
-          "논리",
-          "구어체"
+          "menimbang",
+          "kondisi",
+          "mitra",
+          "bicara"
         ],
-        "explanation": "Kepatuhan terhadap gaya penulisan netral adalah parameter penilaian penting dalam rubrik esai TOPIK II."
+        "explanation": "Kalimat akademik pola Saja-seong-eo Filosofis 2 (사자성어): 설상가상, 역지사지, 유비무환: '상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다.' diterjemahkan secara akurat menjadi 'Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.'."
       },
       {
         "id": "q-kr-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan motivasi Anda memilih Korea Selatan sebagai destinasi studi pascasarjana dalam 2-3 kalimat akademik (한국 유학 지원동기):",
-        "sampleAnswer": "한국은 제가 전공하고자 하는 첨단 기술 및 학문 분야에서 세계 최고 수준의 연구 인프라와 산학 협력 시스템을 구축하고 있습니다. 특히 귀교 연구진의 탁월한 학문적 성과를 직접 전수받아, 향후 인도네시아와 한국 간의 첨단 지식 교류 및 산업 협력 증진에 핵심적인 기여를 하고 싶습니다.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다. (Geu yeon-guso-neun choecheomdan yeon-gu jangbi-reul wanbihago itgeoniwa segye jeongsanggeup seokhaktdeul-i daegeo pojinhae isseo hakgye-ui gidae-reul han mom-e batgo itda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.",
         "keywords": [
-          "인프라",
-          "연구",
-          "산학 협력",
-          "교류",
-          "기여"
+          "samping",
+          "laboratorium",
+          "tersebut",
+          "melengkapi"
         ],
-        "explanation": "Motivasi studi harus menghubungkan keunggulan akademik Korea dengan kontribusi nyata pascakelulusan."
+        "explanation": "Kalimat akademik pola Penambahan Bertingkat & Pengandaian Ekstrem: -거니와 & -라손 치더라도: '그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다.' diterjemahkan secara akurat menjadi 'Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.'."
       },
       {
         "id": "q-kr-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan perbedaan mendasar makna antara kata '지향하다 (指向)' dan '지양하다 (止揚)' dalam konteks penulisan esai kebijakan atau pendidikan:",
-        "sampleAnswer": "지향하다 (指向) bermakna mengarahkan pandangan atau menetapkan cita-cita menuju suatu target yang positif (misal: 창의적 인재 양성을 지향하다). Sebaliknya, 지양하다 (止揚) bermakna menghindari, menolak, atau menghentikan perbuatan/kebijakan yang kurang baik (misal: 주입식 교육을 지양하다).",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다. (Pyeongso pinaneun yeonseup-gwa cheoljeohan jagigwanri-reul geochiji ankoseoya jeotorok wanbyeokhago gyeong-iroun mudae-reul seonbo-il su-neun eopda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.",
         "keywords": [
-          "지향",
-          "지양",
-          "목표",
-          "회피",
-          "차이"
+          "tanpa",
+          "melalui",
+          "latihan",
+          "berdarah"
         ],
-        "explanation": "Dua kata berlawanan ini kerap membingungkan pembelajar asing namun menjadi tolak ukur penguasaan kosakata tingkat mahir."
+        "explanation": "Kalimat akademik pola Prasyarat Kritis & Kemustahilan Absolut: -지 않고서야 & -(으)ㄹ 턱이 없다: '평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다.' diterjemahkan secara akurat menjadi 'Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.'."
       },
       {
         "id": "q-kr-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan langkah-langkah konkret Anda jika mengalami kendala memahami penjelasan profesor yang berbicara cepat dengan dialek regional (사투리) di ruang kuliah:",
-        "sampleAnswer": "Saya akan: (1) Merekam kuliah (dengan izin profesor terlebih dahulu) dan membuat catatan poin-poin utama; (2) Meminta bantuan catatan dari rekan mahasiswa Korea (선배/동기); (3) Mengunjungi ruang dosen pada jam konsultasi (오피스 아워 - Office Hours) untuk meminta klarifikasi terhadap konsep kunci yang belum saya pahami.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다. (Du gieop-eun sangho woncheon gisul-eul dongdeunghage gong-yuhandaneun jeonjeha-e chasedae chinhwan-gyeong jeon-gicha gongdong gaebal hyeobyak-eul chegyeolhaesseumnida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.",
         "keywords": [
-          "오피스 아워",
-          "상담",
-          "필기",
-          "선배",
-          "녹음"
+          "kedua",
+          "korporasi",
+          "menandatangani",
+          "perjanjian"
         ],
-        "explanation": "Memanfaatkan Office Hours profesor dan bergaul dengan senior (선배) adalah tradisi adaptasi akademik yang sangat dianjurkan di Korea."
+        "explanation": "Kalimat akademik pola Premis Prasyarat & Momen Titik Balik: -ㄴ/는다는 전제하에 & -를 계기로: '두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다.' diterjemahkan secara akurat menjadi 'Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.'."
       },
       {
         "id": "q-kr-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan struktur 3 bagian esai TOPIK No. 54 yang ideal beserta fungsi masing-masing paragraf:",
-        "sampleAnswer": "1. 서론 (Pendahuluan): Memperkenalkan latar belakang isu, mendefinisikan masalah, dan memaparkan tesis utama;\n2. 본론 (Batang Tubuh): Menyajikan argumen logis, bukti pendukung, analisis sebab-akibat, serta kontra-argumen dalam 2 paragraf terstruktur;\n3. 결론 (Kesimpulan): Merangkum kembali poin-poin kunci dan mengusulkan solusi konkret atau visi masa depan.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다. (Eotteohan oe-ap-ina budanghan hoeyu-ga itdeorado sabeopbu-ui dongnipseong-gwa beopchijuui-ui wonchik-eun gyeolko heundeullyeoseoneun an doemnida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.",
         "keywords": [
-          "서론",
-          "본론",
-          "결론",
-          "논리",
-          "해결책"
+          "kendatipun",
+          "terdapat",
+          "tekanan",
+          "eksternal"
         ],
-        "explanation": "Struktur esai 600-700 karakter TOPIK No. 54 wajib seimbang antara pembuka, pembuktian argumen, dan kesimpulan."
+        "explanation": "Kalimat akademik pola Penyangkalan Paling Mutlak: 결코 -지 않다 & 전무하다: '어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다.' diterjemahkan secara akurat menjadi 'Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.'."
       },
       {
         "id": "q-kr-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan rencana karier Anda setelah meraih gelar akademik di universitas Korea (졸업 후 진로 계획):",
-        "sampleAnswer": "학위 취득 후, 저는 본국으로 귀국하여 국립 연구기관이나 글로벌 기업에 입사하여 한국에서 체득한 선진 방법론을 현장에 적용할 계획입니다. 나아가 동남아시아와 한국을 잇는 공동 연구 프로젝트를 주도하여 양국의 학술적 파트너십을 공고히 하겠습니다.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다. (Heonbeop-gwa hyeongsasosongbeop-i gyujeonghan jeokbeop jeolcha-ui wonchik-e uigeohayeo susa-reul jinhaenghago jeung-geo-reul eomgyeokhi chaetaekhaeya handa.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.",
         "keywords": [
-          "연구기관",
-          "프로젝트",
-          "파트너십",
-          "적용",
-          "발전"
+          "penyelidikan",
+          "dilangsungkan",
+          "barang",
+          "bukti"
         ],
-        "explanation": "Rencana karier pendaftar beasiswa GKS harus menunjukkan prospek kepemimpinan di tingkat global."
+        "explanation": "Kalimat akademik pola Berdasarkan Kaidah Hukum & Tanpa Dibatasi: -에 의거하여 & -에 국한되지 않다: '헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다.' diterjemahkan secara akurat menjadi 'Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.'."
       },
       {
         "id": "q-kr-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan arti peribahasa empat karakter '고진감래 (苦盡甘來)' dan bagaimana ungkapan ini memotivasi mahasiswa internasional dalam menyelesaikan studinya:",
-        "sampleAnswer": "고진감래 (苦盡甘來) bermakna: 'Setelah kepahitan dan kesulitan terlampaui, kenikmatan dan manisnya keberhasilan akan tiba'. Peribahasa ini mengajarkan bahwa rintangan bahasa, kendala budaya, dan beratnya riset laboratorium yang dihadapi mahasiswa asing adalah proses tempaan yang niscaya akan berbuah manis berupa gelar kelulusan dan masa depan gemilang.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다. (Tonggyecheong-i balpyohan jaryo-e ttareumyeon gungnae il-in gagu su-neun icheonsimnyeon sabaeksipsaman gagu-eseo icheoni-simnyeon-eneun yukbaekyuksipsaman gagu-ro simnyeon sa-i-e muryeo yuksip peosenteu geupjeonghan geos-euro natanatda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.",
         "keywords": [
-          "고진감래",
-          "어려움",
-          "성공",
-          "극복",
-          "노력"
+          "menurut",
+          "data",
+          "dirilis",
+          "badan"
         ],
-        "explanation": "사자성어 (peribahasa 4 huruf) mencerminkan kekayaan filosofi budaya akademik Korea yang menjunjung tinggi ketekunan."
+        "explanation": "Kalimat akademik pola Retorika Analisis Grafik & Statistik Penulisan Soal No. 53: '통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다.' diterjemahkan secara akurat menjadi 'Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.'."
       },
       {
         "id": "q-kr-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan contoh kalimat formal saat Anda memohon waktu bimbingan tesis kepada Dosen Pembimbing melalui pesan/email:",
-        "sampleAnswer": "교수님, 이번 학기 학위논문 진행 상황 및 연구 방향에 관하여 교수님의 고견을 여쭙고자 합니다. 혹시 다음 주 중에 교수님께서 편하신 시간에 연구실로 찾아뵈어도 괜찮으시겠습니까?",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다. (Pokseol-ro doro-ga jeonmyeon mabidoeneun baram-e jesigan-e dochakhagineunkeonyeong gosokdoro han-gaunde-e gachyeo kkobak bam-eul jisaewosseumnida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.",
         "keywords": [
-          "학위논문",
-          "고견",
-          "연구실",
-          "찾아뵙다",
-          "상담"
+          "gara",
+          "salju",
+          "lebat",
+          "melumpuhkan"
         ],
-        "explanation": "Gunakan kata 고견 (pendapat berharga profesor) dan verba penghormatan 찾아뵙다 (menemui secara langsung)."
+        "explanation": "Kalimat akademik pola Penyangkalan Total & Ketiadaan Jeda: -기는커녕 & -새도 없이: '폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다.' diterjemahkan secara akurat menjadi 'Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.'."
       },
       {
         "id": "q-kr-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan pandangan Anda mengenai pencegahan plagiarisme dan etika penelitian ilmiah (연구 윤리) yang berlaku di institusi pendidikan tinggi Korea:",
-        "sampleAnswer": "Etika riset (연구 윤리) adalah prinsip kejujuran mutlak dalam mencari kebenaran ilmiah. Plagiarisme (표절), pemalsuan data (위조/변조), atau duplikasi publikasi adalah pelanggaran berat yang mencoreng kredibilitas akademisi. Semua sumber wajib disitasi dengan benar sesuai format APA/Chicago, dan seluruh draf wajib melewati sistem uji kemiripan CopyKiller sebelum disidangkan.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다. (Bon yeon-gu-neun hyeondae damunhwa sahoe-eseo balsaenghaneun galdeung-ui gujojeok wonin-eul beobcheolhakjeok jun-geo-e uigeohayeo gyumyeonghaneun hanpyeon, teukjeong jipdan-e guk-handoeji anneun bopyeonjeok gongjon moder-eul dochulhandaneun jeonjeha-e gihoekdoe-eotda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.",
         "keywords": [
-          "연구 윤리",
-          "표절",
-          "위조",
-          "인용",
-          "신뢰"
+          "penelitian",
+          "direncanakan",
+          "premis",
+          "asumsi"
         ],
-        "explanation": "Universitas Korea menggunakan sistem anti-plagiarisme digital CopyKiller (카피킬러) dengan batas toleransi kesamaan di bawah 10-15%."
+        "explanation": "Kalimat akademik pola Mahakarya Kelulusan TOPIK 2 Level 6 & Bahasa Korea Akademik Perguruan Tinggi (Capstone Unit): '본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다.' diterjemahkan secara akurat menjadi 'Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.'."
       }
     ]
   },
@@ -6761,9 +6866,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman resmi pendaftaran mata kuliah (KRS):",
         "scrambledWords": [
+          "완료해 주시기 바랍니다",
           "이번 학기 수강신청을",
-          "기한 내에",
-          "완료해 주시기 바랍니다"
+          "기한 내에"
         ],
         "correctOrder": [
           "이번 학기 수강신청을",
@@ -6780,9 +6885,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat pemeriksaan berkas beasiswa pemerintah Korea:",
         "scrambledWords": [
-          "정부초청 외국인 장학생",
+          "꼼꼼하게 검토했습니다",
           "지원 서류를",
-          "꼼꼼하게 검토했습니다"
+          "정부초청 외국인 장학생"
         ],
         "correctOrder": [
           "정부초청 외국인 장학생",
@@ -6799,9 +6904,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat penyerahan draf proposal tesis:",
         "scrambledWords": [
+          "피드백을 받았습니다",
           "학위논문 연구계획서를",
-          "지도교수님께 제출하여",
-          "피드백을 받았습니다"
+          "지도교수님께 제출하여"
         ],
         "correctOrder": [
           "학위논문 연구계획서를",
@@ -6818,9 +6923,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi tata tertib peminjaman buku perpustakaan kampus:",
         "scrambledWords": [
-          "도서관에서 대출한 전공서적은",
+          "반납해야 합니다",
           "연체되지 않도록",
-          "반납해야 합니다"
+          "도서관에서 대출한 전공서적은"
         ],
         "correctOrder": [
           "도서관에서 대출한 전공서적은",
@@ -6837,9 +6942,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman presentasi seminar riset lab:",
         "scrambledWords": [
+          "발표할 예정입니다",
           "다음 주 학술 세미나에서",
-          "최신 연구 동향을",
-          "발표할 예정입니다"
+          "최신 연구 동향을"
         ],
         "correctOrder": [
           "다음 주 학술 세미나에서",
@@ -6866,12 +6971,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "포털 시스템을 통해 전공 필수 과목의 수강신청을 완료했다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Pendaftaran mata kuliah / pengisian KRS semester online",
           "Pembayaran uang kuliah tunggal di bank kampus",
           "Permohonan kartu anggota perpustakaan",
+          "Pendaftaran mata kuliah / pengisian KRS semester online",
           "Pendaftaran wisuda sarjana"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "수강신청 adalah registrasi pendaftaran mata kuliah perkuliahan (Course Registration)."
       },
       {
@@ -6882,12 +6987,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "우수한 학업 성적을 인정받아 1년간 전액 장학금 수혜 대상자로 선발되었다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Penerimaan hak / perolehan manfaat beasiswa pendidikan",
           "Pengembalian dana pinjaman mahasiswa",
           "Pemotongan gaji asisten laboratorium",
-          "Iuran wajib organisasi kemahasiswaan"
+          "Iuran wajib organisasi kemahasiswaan",
+          "Penerimaan hak / perolehan manfaat beasiswa pendidikan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "수혜 (受惠: menerima manfaat/kebaikan) + 장학금 (beasiswa) = perolehan hak beasiswa."
       },
       {
@@ -6914,12 +7019,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "아포스티유 인증을 받은 최종 학력 성적증명서 원본을 제출하십시오.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Transkrip nilai akademik resmi",
           "Ijazah kelulusan sekolah",
+          "Transkrip nilai akademik resmi",
           "Surat keterangan sehat",
           "Pas foto resmi visa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "성적 (nilai hasil belajar) + 증명서 (surat sertifikat keterangan) = transkrip nilai resmi."
       },
       {
@@ -6930,12 +7035,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "학위논문 작성을 위해서는 반드시 소속 전공의 지도교수를 배정받아야 한다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Dosen pembimbing akademik / pembimbing tugas akhir skripsi",
           "Dekan fakultas kedokteran",
           "Ketua senat universitas",
+          "Dosen pembimbing akademik / pembimbing tugas akhir skripsi",
           "Staf keamanan gerbang kampus"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "지도 (membimbing) + 교수 (profesor) = Dosen Pembimbing Akademik / Thesis Supervisor."
       },
       {
@@ -6946,12 +7051,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "군 복무를 위해 2년간 휴학한 후, 이번 학기에 성공적으로 복학하였다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Cuti kuliah sementara dan aktif kuliah kembali",
           "Lulus sarjana dan wisuda pascasarjana",
           "Ujian masuk dan orientasi mahasiswa",
-          "Pindah jurusan dan pindah universitas"
+          "Pindah jurusan dan pindah universitas",
+          "Cuti kuliah sementara dan aktif kuliah kembali"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "휴학 (休學) = cuti kuliah; 복학 (復學) = kembali aktif kuliah setelah masa cuti."
       },
       {
@@ -6978,12 +7083,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "최종 논문 심사위원회의 엄격한 구두 구술 심사를 거쳤다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Sidang ujian dan evaluasi kelayakan tesis/disertasi",
           "Pencetakan naskah tugas akhir di percetakan",
+          "Sidang ujian dan evaluasi kelayakan tesis/disertasi",
           "Penyimpanan berkas di arsip nasional",
           "Pengumuman daftar mahasiswa baru"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "논문 (tesis/disertasi) + 심사 (evaluasi/sidang penilaian) = sidang ujian tesis."
       },
       {
@@ -6994,12 +7099,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "외국인등록증 뒷면의 체류기간 만료일 전에 체류자격 연장을 신청해야 한다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Perpanjangan izin masa tinggal visa pelajar di kantor imigrasi (HiKorea)",
           "Pembuatan kartu ATM bank universitas",
           "Registrasi nomor telepon seluler pascabayar",
+          "Perpanjangan izin masa tinggal visa pelajar di kantor imigrasi (HiKorea)",
           "Pendaftaran kartu transportasi umum T-Money"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "체류자격 (status izin tinggal) + 연장 (perpanjangan masa berlaku)."
       },
       {
@@ -7010,12 +7115,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "졸업 요건을 충족하려면 전공필수 18학점을 모두 이수해야 합니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Mata kuliah wajib program studi / jurusan",
           "Mata kuliah olahraga pilihan",
           "Kuliah kerja nyata pengabdian masyarakat",
-          "Bimbingan belajar bahasa asing tambahan"
+          "Bimbingan belajar bahasa asing tambahan",
+          "Mata kuliah wajib program studi / jurusan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "전공 (jurusan spesialisasi) + 필수 (wajib) = mata kuliah wajib jurusan (Major Required Course)."
       }
     ]
@@ -7048,12 +7153,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca wacana aturan perpustakaan universitas berikut:\n'도서관 열람실 좌석은 모바일 앱을 통해 좌석 발권을 마친 후 이용해야 합니다. 발권 후 30분 이내에 게이트에 학생증을 태그하지 않거나, 2시간 이상 공석 상태가 지속될 경우 자동으로 퇴실 처리되며, 3회 누적 시 일주일간 좌석 배정이 제한됩니다.'\n\nApa yang terjadi jika mahasiswa meninggalkan kursi perpustakaan kosong selama lebih dari dua jam?",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Kursi otomatis dibatalkan (퇴실 처리), dan jika terjadi 3 kali akan diblokir selama satu minggu",
           "Dikenai denda uang tunai sebesar lima ribu won",
+          "Kursi otomatis dibatalkan (퇴실 처리), dan jika terjadi 3 kali akan diblokir selama satu minggu",
           "Buku yang ada di meja akan disita dan dibakar",
           "Tidak ada sanksi apapun"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Aturan menetapkan: '2시간 이상 공석 시 자동 퇴실, 3회 누적 시 일주일간 좌석 배정 제한'."
       },
       {
@@ -7063,12 +7168,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca wacana seleksi Beasiswa Pemerintah Korea (GKS):\n'GKS 장학생으로 선발된 자는 본 과정 진학 전 1년간 국립국제교육원이 지정한 대학 한국어연수기관에서 한국어 연수를 이수해야 한다. 1년 연수 종료 시까지 TOPIK 3급 이상을 취득하지 못할 경우 장학생 자격이 취소된다.'\n\nBerapa level minimal TOPIK yang wajib diraih setelah 1 tahun kursus bahasa agar beasiswa GKS tidak dibatalkan?",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Minimal TOPIK Level 3",
           "Minimal TOPIK Level 5",
           "Minimal TOPIK Level 1",
+          "Minimal TOPIK Level 3",
           "Tidak diwajibkan ujian TOPIK"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Ketentuan resmi GKS: wajib meraih minimal TOPIK 3급 (Level 3) setelah 1 tahun kursus bahasa sebelum masuk kuliah reguler."
       },
       {
@@ -7079,12 +7184,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "학과 사무실에서 공지합니다. 이번 학기 대학원 학위청구논문 예비심사 신청 마감은 이번 주 금요일 오후 다섯 시까지입니다. 신청서와 지도교수 추천서를 첨부하여 교학팀에 직접 제출하시기 바랍니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Batas akhir pendaftaran ujian pra-sidang tesis adalah Jumat ini jam 17.00, berkas diserahkan langsung ke kantor jurusan",
           "Sidang skripsi dibatalkan dan diganti dengan pembuatan laporan magang",
           "Dosen pembimbing meminta seluruh mahasiswa hadir rapat di aula utama",
-          "Pendaftaran beasiswa dibuka sampai akhir bulan depan"
+          "Pendaftaran beasiswa dibuka sampai akhir bulan depan",
+          "Batas akhir pendaftaran ujian pra-sidang tesis adalah Jumat ini jam 17.00, berkas diserahkan langsung ke kantor jurusan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Pengumuman: 예비심사 신청 마감 (batas pra-sidang tesis) pada Jumat pukul 17.00 diserahkan langsung (직접 제출)."
       },
       {
@@ -7111,12 +7216,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "입국일로부터 구십 일 이내에 출입국관리사무소를 방문하여 외국인등록을 마쳐야 합니다. 하이코리아 웹사이트에서 사전에 방문 예약을 하지 않으면 당일 접수가 불가능합니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Kewajiban registrasi orang asing dalam 90 hari sejak kedatangan dan wajib reservasi online terlebih dahulu di HiKorea",
           "Pembuatan visa baru di bandara internasional Incheon",
+          "Kewajiban registrasi orang asing dalam 90 hari sejak kedatangan dan wajib reservasi online terlebih dahulu di HiKorea",
           "Pemeriksaan kesehatan gratis di puskesmas distrik",
           "Pembukaan rekening tabungan bank kampus"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Wajib lapor asing dalam 90 hari (90일 이내) dan wajib reservasi online di HiKorea (사전 방문 예약)."
       },
       {
@@ -7126,12 +7231,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa formal penanda sudut pandang evaluasi:\n'국제 통상 환경의 급변과 공급망 불안정____, 수출 의존도가 높은 국가들은 경제적 다변화를 서둘러야 한다.'",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "에 비추어 볼 때 (e bichueo bol ttae: ditinjau / berkaca dari)",
-          "에 불과하고 (e bulgwahago)",
-          "에 다름없다 (e dareumeopda)",
-          "을 막론하고 (eul mangnonhago)"
+          "에 불과하고 (e bulgwahago) — hanya sekadar / tidak lebih dari",
+          "에 다름없다 (e dareumeopda) — sama saja dengan / tiada bedanya dengan",
+          "에 비추어 볼 때 (e bichueo bol ttae) — ditinjau dari / berkaca pada",
+          "을 막론하고 (eul mangnonhago) — tanpa memandang / terlepas dari"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "-에 비추어 볼 때 (berkaca dari / meninjau situasi...) adalah pola evaluasi formal standar dalam teks opini ilmiah."
       },
       {
@@ -7141,12 +7246,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa penegasan ganda (double negative) yang menyatakan keniscayaan tak terbantahkan:\n'인공지능의 급속한 발전은 기존의 고용 구조에 지대한 변화를 가져____.'",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "오지 않을 수 없다 (oji aneul su eopda: niscaya pasti membawa perubahan)",
-          "올 리가 없다 (ol riga eopda)",
-          "올 턱이 없다 (ol teogi eopda)",
-          "오다시피 했다 (odasipi haetda)"
+          "올 리가 없다 (ol riga eopda) — mustahil akan terjadi",
+          "올 턱이 없다 (ol teogi eopda) — sama sekali tidak ada alasan untuk terjadi",
+          "오다시피 했다 (odasipi haetda) — hampir saja datang",
+          "오지 않을 수 없다 (oji aneul su eopda) — niscaya pasti membawa perubahan (penegasan ganda)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "-지 않을 수 없다 (tidak bisa untuk tidak...) menyatakan kepastian absolut yang niscaya terjadi."
       },
       {
@@ -7156,10 +7261,10 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk kausatif perintah instruksional akademik:\n'지도교수는 연구원들에게 연구 윤리 지침을 철저히 ____ 조치했다.'",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "준수하도록 (junsuhadorok: agar mematuhi)",
-          "준수하는 바람에 (junsuhaneun barame)",
-          "준수하다시피 (junsuhadasipi)",
-          "준수할지라도 (junsuhaljirado)"
+          "준수하도록 (junsuhadorok) — agar mematuhi / supaya menaati",
+          "준수하는 바람에 (junsuhaneun barame) — gara-gara mematuhi (sebab negatif)",
+          "준수하다시피 (junsuhadasipi) — sebagaimana hampir mematuhi",
+          "준수할지라도 (junsuhaljirado) — sekalipun mematuhi"
         ],
         "correctAnswerIndex": 0,
         "explanation": "-도록 하다 / -도록 조치하다 adalah konstruksi kausatif formal untuk memerintahkan suatu prosedur dipatuhi."
@@ -7170,12 +7275,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Analisis kesalahan tata bahasa (문법 오류 수정): Manakah kalimat yang BENAR secara penulisan netral esai TOPIK No. 54?",
         "options": [
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제이다.",
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제예요.",
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제입니다.",
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제야."
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제예요. — ... adalah tugas yang tak dapat ditunda lagi (ragam lisan 해요체).",
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제이다. — Dalam masyarakat modern, pelestarian lingkungan adalah tugas yang tak dapat ditunda lagi (ragam tulis 해라체).",
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제입니다. — ... adalah tugas yang tak dapat ditunda lagi (ragam formal lisan 하십시오체).",
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제야. — ... adalah tugas yang tak dapat ditunda lagi (ragam akrab 반말)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Predikat kata benda dalam gaya netral bertuliskan '과제이다' (-이다). Bentuk -예요, -입니다, -야 dilarang dalam esai No. 54."
       },
       {
@@ -7184,12 +7289,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam wawancara beasiswa GKS, pewawancara menanyakan: 'Apa yang akan Anda lakukan jika riset Anda di lab mengalami kebuntuan?'. Jawaban paling berbobot adalah:",
         "options": [
-          "Mengkaji ulang literatur internasional terbaru, berdiskusi aktif mencari solusi dengan profesor pembimbing dan rekan lab, serta melakukan eksperimen alternatif",
           "Pulang ke negara asal dan liburan selama satu bulan",
           "Menyalahkan alat laboratorium universitas yang kurang canggih",
+          "Mengkaji ulang literatur internasional terbaru, berdiskusi aktif mencari solusi dengan profesor pembimbing dan rekan lab, serta melakukan eksperimen alternatif",
           "Membuat data fiktif agar laporan cepat selesai"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Kematangan mental peneliti dinilai dari ketangguhan mengatasi kegagalan eksperimen (실패 극복 능력) melalui metode ilmiah."
       },
       {
@@ -7198,12 +7303,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Bagaimana cara menyapa Dosen Pembimbing sekaligus Ketua Jurusan saat berpapasan di lorong kampus Korea?",
         "options": [
-          "교수님 (Gyosunim) / 학과장님 (Hakgwajangnim), 안녕하십니까!",
-          "야, 형! (Ya, hyeong!)",
-          "아저씨, 안녕하세요! (Ajeossi, annyeonghaseyo!)",
-          "선생, 잘 지냈어? (Seonsaeng, jal jinaesseo?)"
+          "야, 형! (Ya, hyeong!) — Hei, Bang! (sapaan kasar/akrab)",
+          "아저씨, 안녕하세요! (Ajeossi, annyeonghaseyo!) — Paman, halo! (tidak sopan untuk dosen)",
+          "선생, 잘 지냈어? (Seonsaeng, jal jinaesseo?) — Guru, apa kabar? (kalimat 반말 tidak sopan)",
+          "교수님 (Gyosunim) / 학과장님 (Hakgwajangnim), 안녕하십니까! — Profesor / Bapak-Ibu Ketua Jurusan, selamat pagi/siang! (sapaan hormat resmi)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Gunakan sebutan kehormatan 교수님 (Profesor) atau jabatan struktural 학과장님 (Ketua Jurusan) disertai salam formal 안녕하십니까."
       },
       {
@@ -7226,12 +7331,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam budaya laboratorium universitas Korea (랩실 문화), apa peran dari seorang '랩장' (Raepjang)?",
         "options": [
-          "Mahasiswa senior yang ditunjuk profesor sebagai koordinator harian keselamatan, jadwal, dan administrasi laboratorium",
           "Dosen tamu dari luar negeri",
+          "Mahasiswa senior yang ditunjuk profesor sebagai koordinator harian keselamatan, jadwal, dan administrasi laboratorium",
           "Petugas kebersihan gedung kampus",
           "Dekan fakultas teknologi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "랩장 (Lab Leader) adalah mahasiswa pascasarjana senior yang memimpin koordinasi operasional riset di laboratorium."
       },
       {
@@ -7240,12 +7345,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Berdasarkan peraturan imigrasi Korea Selatan, berapa jam batas kerja paruh waktu (알바) per minggu yang diizinkan untuk mahasiswa program gelar yang telah memiliki sertifikat TOPIK yang dipersyaratkan?",
         "options": [
-          "Maksimal 20 hingga 25 jam per minggu (dan tanpa batas jam saat liburan semester resmi)",
           "Maksimal 40 jam per minggu setiap saat",
           "Maksimal 5 jam per minggu saja",
+          "Maksimal 20 hingga 25 jam per minggu (dan tanpa batas jam saat liburan semester resmi)",
           "Dilarang bekerja sama sekali selama studi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Mahasiswa asing dengan izin resmi (체류자격외 활동허가) diizinkan bekerja paruh waktu 20-25 jam/minggu saat masa kuliah aktif."
       }
     ]
@@ -7264,12 +7369,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "그 후보자는 뛰어난 연구 실적을 갖추었을____, 유창한 한국어 구사 능력도 겸비하고 있다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "뿐만 아니라 (ppunman anira: tidak hanya... tetapi juga...)",
           "반면에 (banmyeone: di sisi lain)",
           "바람에 (barame: akibat yang merugikan)",
+          "뿐만 아니라 (ppunman anira: tidak hanya... tetapi juga...)",
           "탓에 (tase: gara-gara)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "-(으)ㄹ 뿐만 아니라 digunakan untuk menambahkan informasi pendukung sejajar (tidak hanya A, tetapi juga B)."
       },
       {
@@ -7280,12 +7385,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "이번 학기 전공과목 ____ 기간은 다음 주 월요일부터 시작됩니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "수강신청 (sugangsincheong [受講申請])",
-          "졸업증명 (joreopjeungmyeong [卒業證明])",
-          "입학시험 (iphaksihyeom [入學試驗])",
-          "출석체크 (chulseokchekeu)"
+          "졸업증명 (joreopjeungmyeong [卒業證明]) — surat keterangan lulus / ijazah",
+          "입학시험 (iphaksihyeom [入學試驗]) — ujian saringan masuk universitas",
+          "출석체크 (chulseokchekeu) — pemeriksaan daftar hadir kuliah",
+          "수강신청 (sugangsincheong [受講申請]) — pendaftaran rencana studi / pengisian KRS"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "수강신청 (受講申請: sugangsincheong) adalah istilah resmi untuk pendaftaran mata kuliah / KRS di universitas Korea."
       },
       {
@@ -7296,10 +7401,10 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "선행 연구에 따르면, 기후 변화가 농업 생산성에 직접적인 영향을 ____.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "미친다고 보고되었다 (michindago bogodoeeotda)",
-          "미쳐요라고 했어요 (michyeoyo-rago haesseoyo)",
-          "미치네요 (michineyo)",
-          "미칠 것 같아요 (michil geot gat-ayo)"
+          "미친다고 보고되었다 (michindago bogodoeeotda) — dilaporkan memberikan pengaruh (kutipan tidak langsung ilmiah)",
+          "미쳐요라고 했어요 (michyeoyo-rago haesseoyo) — katanya berpengaruh (ragam lisan santai)",
+          "미치네요 (michineyo) — ternyata berpengaruh ya (ekspresi lisan)",
+          "미칠 것 같아요 (michil geot gat-ayo) — sepertinya akan berpengaruh (dugaan subjektif lisan)"
         ],
         "correctAnswerIndex": 0,
         "explanation": "-(ㄴ/는)다고 보고되었다/밝혀졌다 adalah bentuk kutipan objektif pasif formal dalam makalah akademik Korea."
@@ -7311,12 +7416,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Dalam esai argumentatif TOPIK II (Soal No. 54), akhiran kalimat yang WAJIB digunakan untuk menjaga nada netral ilmiah adalah:",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "해라체 / Plain Style (-ㄴ/는다, -았다/었다, -(으)ㅁ)",
-          "해요체 (-아/어요)",
-          "하십시오체 (-습니다/십니까)",
-          "반말 (-어/야)"
+          "해요체 (-아/어요) — ragam sopan percakapan sehari-hari",
+          "해라체 / Plain Style (-ㄴ/는다, -았다/었다, -(으)ㅁ) — ragam tulis netral ilmiah (wajib untuk esai TOPIK & jurnal)",
+          "하십시오체 (-습니다/십니까) — ragam formal lisan / presentasi",
+          "반말 (-어/야) — ragam akrab tidak sopan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Esai akademik dan laporan riset Korea wajib ditulis dengan gaya netral plain style (해라체: -ㄴ/는다). Penggunaan -아요/어요 akan dikenai penalti nilai."
       },
       {
@@ -7327,12 +7432,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "통계청이 발표한 최근 조사 결과____, 1인 가구의 비율이 급증하고 있다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "에 의하면 (e uihamyeon: berdasarkan / menurut)",
-          "에 비해서 (e bihaeseo)",
-          "에 대하여 (e daehayeo)",
-          "에 불구하고 (e bulguhago)"
+          "에 비해서 (e bihaeseo) — dibandingkan dengan",
+          "에 대하여 (e daehayeo) — mengenai / tentang",
+          "에 의하면 (e uihamyeon) — berdasarkan / menurut rujukan data",
+          "에 불구하고 (e bulguhago) — terlepas dari / meskipun"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "-에 의하면 / -에 따르면 digunakan secara formal untuk menunjukkan sumber rujukan data resmi."
       },
       {
@@ -7343,12 +7448,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "유례없는 집중호우____ 산사태가 발생하여 도로가 통제되었다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "로 인해 (ro inhae: dikarenakan oleh / akibat)",
           "느라고 (neurago: karena sibuk melakukan suatu aksi)",
           "자마자 (jamaja: segera setelah)",
-          "길래 (gillae: ragam lisan santai)"
+          "길래 (gillae: ragam lisan santai)",
+          "로 인해 (ro inhae: dikarenakan oleh / akibat)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "-(으)로 인해 adalah bentuk sebab-akibat formal tertulis tingkat tinggi untuk menjelaskan fenomena alam atau sosial."
       },
       {
@@ -7374,12 +7479,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Istilah hukum dan etika akademik untuk tindakan ilegal menjiplak karya orang lain tanpa mencantumkan sumber adalah:",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "표절 (pyojeol [剽竊: plagiarisme])",
           "출판 (chulpan [出版: penerbitan])",
+          "표절 (pyojeol [剽竊: plagiarisme])",
           "열람 (yeollam [閱覽: membaca])",
           "기부 (gibu [寄附: donasi])"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "표절 (pyojeol) adalah istilah hukum akademik untuk plagiarisme di perguruan tinggi Korea."
       },
       {
@@ -7390,12 +7495,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "학문적 창의성을 ____하고, 무분별한 단순 암기식 학습은 ____해야 한다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "지향(指向) - 지양(止揚)",
-          "지양(止揚) - 지향(指向)",
-          "가속(加速) - 발전(發展)",
-          "포기(抛棄) - 장려(奬勵)"
+          "지양(止揚 — menghindari) - 지향(指向 — mengarah ke tujuan)",
+          "가속(加速 — percepatan) - 발전(發展 — perkembangan)",
+          "지향(指向 — mengarah ke tujuan positif) - 지양(止揚 — menghindari hal negatif)",
+          "포기(抛棄 — menyerah) - 장려(奬勵 — mendorong/menganjurkan)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "지향하다 (指向) = mengarah ke tujuan positif; 지양하다 (止揚) = menghindari / menghentikan kebiasaan negatif."
       },
       {
@@ -7405,163 +7510,173 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah format salam penutup email yang paling santun dan baku saat mengirimkan draf proposal kepada Dosen Pembimbing (지도교수님):",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "교수님의 건강과 행복을 기원합니다. 학생 [이름] 올림 (또는 드림)",
-          "그럼 다음에 또 연락할게요. 안녕히 계세요!",
-          "빨리 답장 부탁드립니다. 수고하세요!",
-          "바이바이, 다음 주에 봐요."
+          "그럼 다음에 또 연락할게요. 안녕히 계세요! — Kalau begitu lain kali saya hubungi lagi ya. Sampai jumpa!",
+          "빨리 답장 부탁드립니다. 수고하세요! — Tolong cepat balas ya. Selamat bekerja!",
+          "바이바이, 다음 주에 봐요. — Dadah, sampai ketemu minggu depan.",
+          "교수님의 건강과 행복을 기원합니다. 학생 [이름] 올림 (또는 드림) — Saya mendoakan kesehatan dan kebahagiaan Profesor. Hormat saya, Mahasiswa [Nama]."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Salam penutup Keigo Korea: mendoakan kesehatan dosen diikuti [이름] 올림 (mempersembahkan ke atas) atau 드림."
       },
       {
         "id": "q-kr-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan struktur salam pembuka dan perkenalan diri formal saat Anda mengirim email pertama kali kepada calon Profesor Pembimbing (지도교수님께 드리는 첫 이메일):",
-        "sampleAnswer": "존경하는 [교수님 성함] 교수님께,\n안녕하십니까? 저는 인도네시아 [출신 대학교]에서 [전공]을 전공하고 이번에 귀교 대학원 석사과정에 지원하고자 하는 [본인 이름]입니다.\n평소 교수님께서 발표하신 [구체적 연구 분야]에 관한 학술 논문을 깊이 감명 깊게 읽어왔습니다.\n바쁘신 와중에 결례를 무릅쓰고, 교수님의 연구실에서 학위과정을 이수할 수 있는 기회에 대해 상담을 여쭙고자 메일을 드립니다.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다. (Sunyeon-gan-ui pinaneun noryeok-gwa yeokgyeong kkeut-e segyejeok-in ba-io bencheogieop-eul ilgwonaen daepyo-ui seong-gong seutori-neun gojingamrae-ui jinjeonghan pyosang-ida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).",
         "keywords": [
-          "존경하는",
-          "교수님",
-          "연구실",
-          "논문",
-          "지원"
+          "kisah",
+          "sukses",
+          "membangun",
+          "perusahaan"
         ],
-        "explanation": "Email ke profesor di Korea wajib menggunakan sapaan 존경하는... 교수님께, menyebutkan latar belakang almamater, ketertarikan pada publikasi beliau, dan permohonan bimbingan."
+        "explanation": "Kalimat akademik pola Saja-seong-eo Filosofis 1 (사자성어): 고진감래, 일석이조, 작심삼일: '수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다.' diterjemahkan secara akurat menjadi 'Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).'."
       },
       {
         "id": "q-kr-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Mengapa dalam penulisan esai TOPIK No. 54 dan makalah skripsi mahasiswa dilarang menggunakan akhiran '-아요/어요' dan wajib menggunakan gaya netral (해라체: -ㄴ/는다)?",
-        "sampleAnswer": "해라체 (-ㄴ/는다) adalah laras bahasa tulis resmi (문어체) yang menjamin objektivitas, netralitas, dan sifat impersonal dari argumen ilmiah. Akhiran -아요/어요 merupakan laras lisan percakapan interpersonal (구어체) yang berorientasi pada lawan tutur, sehingga tidak sesuai dengan konvensi penulisan akademik yang menuntut ketegasan proposisi logis.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다. (Sangdaebang-ui cheoji-reul yeokjisaji-ui jase-ro he-ariji ankgo ilbangjeok-in jujangman-eul doepurihandamyeon daehwa-ui mulkko-reul teul su eopda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.",
         "keywords": [
-          "해라체",
-          "문어체",
-          "객관성",
-          "논리",
-          "구어체"
+          "menimbang",
+          "kondisi",
+          "mitra",
+          "bicara"
         ],
-        "explanation": "Kepatuhan terhadap gaya penulisan netral adalah parameter penilaian penting dalam rubrik esai TOPIK II."
+        "explanation": "Kalimat akademik pola Saja-seong-eo Filosofis 2 (사자성어): 설상가상, 역지사지, 유비무환: '상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다.' diterjemahkan secara akurat menjadi 'Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.'."
       },
       {
         "id": "q-kr-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan motivasi Anda memilih Korea Selatan sebagai destinasi studi pascasarjana dalam 2-3 kalimat akademik (한국 유학 지원동기):",
-        "sampleAnswer": "한국은 제가 전공하고자 하는 첨단 기술 및 학문 분야에서 세계 최고 수준의 연구 인프라와 산학 협력 시스템을 구축하고 있습니다. 특히 귀교 연구진의 탁월한 학문적 성과를 직접 전수받아, 향후 인도네시아와 한국 간의 첨단 지식 교류 및 산업 협력 증진에 핵심적인 기여를 하고 싶습니다.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다. (Geu yeon-guso-neun choecheomdan yeon-gu jangbi-reul wanbihago itgeoniwa segye jeongsanggeup seokhaktdeul-i daegeo pojinhae isseo hakgye-ui gidae-reul han mom-e batgo itda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.",
         "keywords": [
-          "인프라",
-          "연구",
-          "산학 협력",
-          "교류",
-          "기여"
+          "samping",
+          "laboratorium",
+          "tersebut",
+          "melengkapi"
         ],
-        "explanation": "Motivasi studi harus menghubungkan keunggulan akademik Korea dengan kontribusi nyata pascakelulusan."
+        "explanation": "Kalimat akademik pola Penambahan Bertingkat & Pengandaian Ekstrem: -거니와 & -라손 치더라도: '그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다.' diterjemahkan secara akurat menjadi 'Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.'."
       },
       {
         "id": "q-kr-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan perbedaan mendasar makna antara kata '지향하다 (指向)' dan '지양하다 (止揚)' dalam konteks penulisan esai kebijakan atau pendidikan:",
-        "sampleAnswer": "지향하다 (指向) bermakna mengarahkan pandangan atau menetapkan cita-cita menuju suatu target yang positif (misal: 창의적 인재 양성을 지향하다). Sebaliknya, 지양하다 (止揚) bermakna menghindari, menolak, atau menghentikan perbuatan/kebijakan yang kurang baik (misal: 주입식 교육을 지양하다).",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다. (Pyeongso pinaneun yeonseup-gwa cheoljeohan jagigwanri-reul geochiji ankoseoya jeotorok wanbyeokhago gyeong-iroun mudae-reul seonbo-il su-neun eopda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.",
         "keywords": [
-          "지향",
-          "지양",
-          "목표",
-          "회피",
-          "차이"
+          "tanpa",
+          "melalui",
+          "latihan",
+          "berdarah"
         ],
-        "explanation": "Dua kata berlawanan ini kerap membingungkan pembelajar asing namun menjadi tolak ukur penguasaan kosakata tingkat mahir."
+        "explanation": "Kalimat akademik pola Prasyarat Kritis & Kemustahilan Absolut: -지 않고서야 & -(으)ㄹ 턱이 없다: '평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다.' diterjemahkan secara akurat menjadi 'Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.'."
       },
       {
         "id": "q-kr-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan langkah-langkah konkret Anda jika mengalami kendala memahami penjelasan profesor yang berbicara cepat dengan dialek regional (사투리) di ruang kuliah:",
-        "sampleAnswer": "Saya akan: (1) Merekam kuliah (dengan izin profesor terlebih dahulu) dan membuat catatan poin-poin utama; (2) Meminta bantuan catatan dari rekan mahasiswa Korea (선배/동기); (3) Mengunjungi ruang dosen pada jam konsultasi (오피스 아워 - Office Hours) untuk meminta klarifikasi terhadap konsep kunci yang belum saya pahami.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다. (Du gieop-eun sangho woncheon gisul-eul dongdeunghage gong-yuhandaneun jeonjeha-e chasedae chinhwan-gyeong jeon-gicha gongdong gaebal hyeobyak-eul chegyeolhaesseumnida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.",
         "keywords": [
-          "오피스 아워",
-          "상담",
-          "필기",
-          "선배",
-          "녹음"
+          "kedua",
+          "korporasi",
+          "menandatangani",
+          "perjanjian"
         ],
-        "explanation": "Memanfaatkan Office Hours profesor dan bergaul dengan senior (선배) adalah tradisi adaptasi akademik yang sangat dianjurkan di Korea."
+        "explanation": "Kalimat akademik pola Premis Prasyarat & Momen Titik Balik: -ㄴ/는다는 전제하에 & -를 계기로: '두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다.' diterjemahkan secara akurat menjadi 'Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.'."
       },
       {
         "id": "q-kr-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan struktur 3 bagian esai TOPIK No. 54 yang ideal beserta fungsi masing-masing paragraf:",
-        "sampleAnswer": "1. 서론 (Pendahuluan): Memperkenalkan latar belakang isu, mendefinisikan masalah, dan memaparkan tesis utama;\n2. 본론 (Batang Tubuh): Menyajikan argumen logis, bukti pendukung, analisis sebab-akibat, serta kontra-argumen dalam 2 paragraf terstruktur;\n3. 결론 (Kesimpulan): Merangkum kembali poin-poin kunci dan mengusulkan solusi konkret atau visi masa depan.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다. (Eotteohan oe-ap-ina budanghan hoeyu-ga itdeorado sabeopbu-ui dongnipseong-gwa beopchijuui-ui wonchik-eun gyeolko heundeullyeoseoneun an doemnida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.",
         "keywords": [
-          "서론",
-          "본론",
-          "결론",
-          "논리",
-          "해결책"
+          "kendatipun",
+          "terdapat",
+          "tekanan",
+          "eksternal"
         ],
-        "explanation": "Struktur esai 600-700 karakter TOPIK No. 54 wajib seimbang antara pembuka, pembuktian argumen, dan kesimpulan."
+        "explanation": "Kalimat akademik pola Penyangkalan Paling Mutlak: 결코 -지 않다 & 전무하다: '어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다.' diterjemahkan secara akurat menjadi 'Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.'."
       },
       {
         "id": "q-kr-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Uraikan rencana karier Anda setelah meraih gelar akademik di universitas Korea (졸업 후 진로 계획):",
-        "sampleAnswer": "학위 취득 후, 저는 본국으로 귀국하여 국립 연구기관이나 글로벌 기업에 입사하여 한국에서 체득한 선진 방법론을 현장에 적용할 계획입니다. 나아가 동남아시아와 한국을 잇는 공동 연구 프로젝트를 주도하여 양국의 학술적 파트너십을 공고히 하겠습니다.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다. (Heonbeop-gwa hyeongsasosongbeop-i gyujeonghan jeokbeop jeolcha-ui wonchik-e uigeohayeo susa-reul jinhaenghago jeung-geo-reul eomgyeokhi chaetaekhaeya handa.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.",
         "keywords": [
-          "연구기관",
-          "프로젝트",
-          "파트너십",
-          "적용",
-          "발전"
+          "penyelidikan",
+          "dilangsungkan",
+          "barang",
+          "bukti"
         ],
-        "explanation": "Rencana karier pendaftar beasiswa GKS harus menunjukkan prospek kepemimpinan di tingkat global."
+        "explanation": "Kalimat akademik pola Berdasarkan Kaidah Hukum & Tanpa Dibatasi: -에 의거하여 & -에 국한되지 않다: '헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다.' diterjemahkan secara akurat menjadi 'Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.'."
       },
       {
         "id": "q-kr-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan arti peribahasa empat karakter '고진감래 (苦盡甘來)' dan bagaimana ungkapan ini memotivasi mahasiswa internasional dalam menyelesaikan studinya:",
-        "sampleAnswer": "고진감래 (苦盡甘來) bermakna: 'Setelah kepahitan dan kesulitan terlampaui, kenikmatan dan manisnya keberhasilan akan tiba'. Peribahasa ini mengajarkan bahwa rintangan bahasa, kendala budaya, dan beratnya riset laboratorium yang dihadapi mahasiswa asing adalah proses tempaan yang niscaya akan berbuah manis berupa gelar kelulusan dan masa depan gemilang.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다. (Tonggyecheong-i balpyohan jaryo-e ttareumyeon gungnae il-in gagu su-neun icheonsimnyeon sabaeksipsaman gagu-eseo icheoni-simnyeon-eneun yukbaekyuksipsaman gagu-ro simnyeon sa-i-e muryeo yuksip peosenteu geupjeonghan geos-euro natanatda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.",
         "keywords": [
-          "고진감래",
-          "어려움",
-          "성공",
-          "극복",
-          "노력"
+          "menurut",
+          "data",
+          "dirilis",
+          "badan"
         ],
-        "explanation": "사자성어 (peribahasa 4 huruf) mencerminkan kekayaan filosofi budaya akademik Korea yang menjunjung tinggi ketekunan."
+        "explanation": "Kalimat akademik pola Retorika Analisis Grafik & Statistik Penulisan Soal No. 53: '통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다.' diterjemahkan secara akurat menjadi 'Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.'."
       },
       {
         "id": "q-kr-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Tuliskan contoh kalimat formal saat Anda memohon waktu bimbingan tesis kepada Dosen Pembimbing melalui pesan/email:",
-        "sampleAnswer": "교수님, 이번 학기 학위논문 진행 상황 및 연구 방향에 관하여 교수님의 고견을 여쭙고자 합니다. 혹시 다음 주 중에 교수님께서 편하신 시간에 연구실로 찾아뵈어도 괜찮으시겠습니까?",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다. (Pokseol-ro doro-ga jeonmyeon mabidoeneun baram-e jesigan-e dochakhagineunkeonyeong gosokdoro han-gaunde-e gachyeo kkobak bam-eul jisaewosseumnida.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.",
         "keywords": [
-          "학위논문",
-          "고견",
-          "연구실",
-          "찾아뵙다",
-          "상담"
+          "gara",
+          "salju",
+          "lebat",
+          "melumpuhkan"
         ],
-        "explanation": "Gunakan kata 고견 (pendapat berharga profesor) dan verba penghormatan 찾아뵙다 (menemui secara langsung)."
+        "explanation": "Kalimat akademik pola Penyangkalan Total & Ketiadaan Jeda: -기는커녕 & -새도 없이: '폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다.' diterjemahkan secara akurat menjadi 'Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.'."
       },
       {
         "id": "q-kr-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Jelaskan pandangan Anda mengenai pencegahan plagiarisme dan etika penelitian ilmiah (연구 윤리) yang berlaku di institusi pendidikan tinggi Korea:",
-        "sampleAnswer": "Etika riset (연구 윤리) adalah prinsip kejujuran mutlak dalam mencari kebenaran ilmiah. Plagiarisme (표절), pemalsuan data (위조/변조), atau duplikasi publikasi adalah pelanggaran berat yang mencoreng kredibilitas akademisi. Semua sumber wajib disitasi dengan benar sesuai format APA/Chicago, dan seluruh draf wajib melewati sistem uji kemiripan CopyKiller sebelum disidangkan.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다. (Bon yeon-gu-neun hyeondae damunhwa sahoe-eseo balsaenghaneun galdeung-ui gujojeok wonin-eul beobcheolhakjeok jun-geo-e uigeohayeo gyumyeonghaneun hanpyeon, teukjeong jipdan-e guk-handoeji anneun bopyeonjeok gongjon moder-eul dochulhandaneun jeonjeha-e gihoekdoe-eotda.)",
+        "audioVoiceLang": "ko-KR",
+        "sampleAnswer": "Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.",
         "keywords": [
-          "연구 윤리",
-          "표절",
-          "위조",
-          "인용",
-          "신뢰"
+          "penelitian",
+          "direncanakan",
+          "premis",
+          "asumsi"
         ],
-        "explanation": "Universitas Korea menggunakan sistem anti-plagiarisme digital CopyKiller (카피킬러) dengan batas toleransi kesamaan di bawah 10-15%."
+        "explanation": "Kalimat akademik pola Mahakarya Kelulusan TOPIK 2 Level 6 & Bahasa Korea Akademik Perguruan Tinggi (Capstone Unit): '본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다.' diterjemahkan secara akurat menjadi 'Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.'."
       },
       {
         "id": "q-kr-sk-1",
@@ -7569,9 +7684,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman resmi pendaftaran mata kuliah (KRS):",
         "scrambledWords": [
+          "완료해 주시기 바랍니다",
           "이번 학기 수강신청을",
-          "기한 내에",
-          "완료해 주시기 바랍니다"
+          "기한 내에"
         ],
         "correctOrder": [
           "이번 학기 수강신청을",
@@ -7588,9 +7703,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat pemeriksaan berkas beasiswa pemerintah Korea:",
         "scrambledWords": [
-          "정부초청 외국인 장학생",
+          "꼼꼼하게 검토했습니다",
           "지원 서류를",
-          "꼼꼼하게 검토했습니다"
+          "정부초청 외국인 장학생"
         ],
         "correctOrder": [
           "정부초청 외국인 장학생",
@@ -7607,9 +7722,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi kalimat penyerahan draf proposal tesis:",
         "scrambledWords": [
+          "피드백을 받았습니다",
           "학위논문 연구계획서를",
-          "지도교수님께 제출하여",
-          "피드백을 받았습니다"
+          "지도교수님께 제출하여"
         ],
         "correctOrder": [
           "학위논문 연구계획서를",
@@ -7626,9 +7741,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi tata tertib peminjaman buku perpustakaan kampus:",
         "scrambledWords": [
-          "도서관에서 대출한 전공서적은",
+          "반납해야 합니다",
           "연체되지 않도록",
-          "반납해야 합니다"
+          "도서관에서 대출한 전공서적은"
         ],
         "correctOrder": [
           "도서관에서 대출한 전공서적은",
@@ -7645,9 +7760,9 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Susun kata-kata acak berikut menjadi pengumuman presentasi seminar riset lab:",
         "scrambledWords": [
+          "발표할 예정입니다",
           "다음 주 학술 세미나에서",
-          "최신 연구 동향을",
-          "발표할 예정입니다"
+          "최신 연구 동향을"
         ],
         "correctOrder": [
           "다음 주 학술 세미나에서",
@@ -7666,12 +7781,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "포털 시스템을 통해 전공 필수 과목의 수강신청을 완료했다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Pendaftaran mata kuliah / pengisian KRS semester online",
           "Pembayaran uang kuliah tunggal di bank kampus",
           "Permohonan kartu anggota perpustakaan",
+          "Pendaftaran mata kuliah / pengisian KRS semester online",
           "Pendaftaran wisuda sarjana"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "수강신청 adalah registrasi pendaftaran mata kuliah perkuliahan (Course Registration)."
       },
       {
@@ -7682,12 +7797,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "우수한 학업 성적을 인정받아 1년간 전액 장학금 수혜 대상자로 선발되었다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Penerimaan hak / perolehan manfaat beasiswa pendidikan",
           "Pengembalian dana pinjaman mahasiswa",
           "Pemotongan gaji asisten laboratorium",
-          "Iuran wajib organisasi kemahasiswaan"
+          "Iuran wajib organisasi kemahasiswaan",
+          "Penerimaan hak / perolehan manfaat beasiswa pendidikan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "수혜 (受惠: menerima manfaat/kebaikan) + 장학금 (beasiswa) = perolehan hak beasiswa."
       },
       {
@@ -7714,12 +7829,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "아포스티유 인증을 받은 최종 학력 성적증명서 원본을 제출하십시오.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Transkrip nilai akademik resmi",
           "Ijazah kelulusan sekolah",
+          "Transkrip nilai akademik resmi",
           "Surat keterangan sehat",
           "Pas foto resmi visa"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "성적 (nilai hasil belajar) + 증명서 (surat sertifikat keterangan) = transkrip nilai resmi."
       },
       {
@@ -7730,12 +7845,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "학위논문 작성을 위해서는 반드시 소속 전공의 지도교수를 배정받아야 한다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Dosen pembimbing akademik / pembimbing tugas akhir skripsi",
           "Dekan fakultas kedokteran",
           "Ketua senat universitas",
+          "Dosen pembimbing akademik / pembimbing tugas akhir skripsi",
           "Staf keamanan gerbang kampus"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "지도 (membimbing) + 교수 (profesor) = Dosen Pembimbing Akademik / Thesis Supervisor."
       },
       {
@@ -7746,12 +7861,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "군 복무를 위해 2년간 휴학한 후, 이번 학기에 성공적으로 복학하였다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Cuti kuliah sementara dan aktif kuliah kembali",
           "Lulus sarjana dan wisuda pascasarjana",
           "Ujian masuk dan orientasi mahasiswa",
-          "Pindah jurusan dan pindah universitas"
+          "Pindah jurusan dan pindah universitas",
+          "Cuti kuliah sementara dan aktif kuliah kembali"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "휴학 (休學) = cuti kuliah; 복학 (復學) = kembali aktif kuliah setelah masa cuti."
       },
       {
@@ -7778,12 +7893,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "최종 논문 심사위원회의 엄격한 구두 구술 심사를 거쳤다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Sidang ujian dan evaluasi kelayakan tesis/disertasi",
           "Pencetakan naskah tugas akhir di percetakan",
+          "Sidang ujian dan evaluasi kelayakan tesis/disertasi",
           "Penyimpanan berkas di arsip nasional",
           "Pengumuman daftar mahasiswa baru"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "논문 (tesis/disertasi) + 심사 (evaluasi/sidang penilaian) = sidang ujian tesis."
       },
       {
@@ -7794,12 +7909,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "외국인등록증 뒷면의 체류기간 만료일 전에 체류자격 연장을 신청해야 한다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Perpanjangan izin masa tinggal visa pelajar di kantor imigrasi (HiKorea)",
           "Pembuatan kartu ATM bank universitas",
           "Registrasi nomor telepon seluler pascabayar",
+          "Perpanjangan izin masa tinggal visa pelajar di kantor imigrasi (HiKorea)",
           "Pendaftaran kartu transportasi umum T-Money"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "체류자격 (status izin tinggal) + 연장 (perpanjangan masa berlaku)."
       },
       {
@@ -7810,12 +7925,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "졸업 요건을 충족하려면 전공필수 18학점을 모두 이수해야 합니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Mata kuliah wajib program studi / jurusan",
           "Mata kuliah olahraga pilihan",
           "Kuliah kerja nyata pengabdian masyarakat",
-          "Bimbingan belajar bahasa asing tambahan"
+          "Bimbingan belajar bahasa asing tambahan",
+          "Mata kuliah wajib program studi / jurusan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "전공 (jurusan spesialisasi) + 필수 (wajib) = mata kuliah wajib jurusan (Major Required Course)."
       },
       {
@@ -7840,12 +7955,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca wacana aturan perpustakaan universitas berikut:\n'도서관 열람실 좌석은 모바일 앱을 통해 좌석 발권을 마친 후 이용해야 합니다. 발권 후 30분 이내에 게이트에 학생증을 태그하지 않거나, 2시간 이상 공석 상태가 지속될 경우 자동으로 퇴실 처리되며, 3회 누적 시 일주일간 좌석 배정이 제한됩니다.'\n\nApa yang terjadi jika mahasiswa meninggalkan kursi perpustakaan kosong selama lebih dari dua jam?",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Kursi otomatis dibatalkan (퇴실 처리), dan jika terjadi 3 kali akan diblokir selama satu minggu",
           "Dikenai denda uang tunai sebesar lima ribu won",
+          "Kursi otomatis dibatalkan (퇴실 처리), dan jika terjadi 3 kali akan diblokir selama satu minggu",
           "Buku yang ada di meja akan disita dan dibakar",
           "Tidak ada sanksi apapun"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Aturan menetapkan: '2시간 이상 공석 시 자동 퇴실, 3회 누적 시 일주일간 좌석 배정 제한'."
       },
       {
@@ -7855,12 +7970,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Baca wacana seleksi Beasiswa Pemerintah Korea (GKS):\n'GKS 장학생으로 선발된 자는 본 과정 진학 전 1년간 국립국제교육원이 지정한 대학 한국어연수기관에서 한국어 연수를 이수해야 한다. 1년 연수 종료 시까지 TOPIK 3급 이상을 취득하지 못할 경우 장학생 자격이 취소된다.'\n\nBerapa level minimal TOPIK yang wajib diraih setelah 1 tahun kursus bahasa agar beasiswa GKS tidak dibatalkan?",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Minimal TOPIK Level 3",
           "Minimal TOPIK Level 5",
           "Minimal TOPIK Level 1",
+          "Minimal TOPIK Level 3",
           "Tidak diwajibkan ujian TOPIK"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Ketentuan resmi GKS: wajib meraih minimal TOPIK 3급 (Level 3) setelah 1 tahun kursus bahasa sebelum masuk kuliah reguler."
       },
       {
@@ -7871,12 +7986,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "학과 사무실에서 공지합니다. 이번 학기 대학원 학위청구논문 예비심사 신청 마감은 이번 주 금요일 오후 다섯 시까지입니다. 신청서와 지도교수 추천서를 첨부하여 교학팀에 직접 제출하시기 바랍니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Batas akhir pendaftaran ujian pra-sidang tesis adalah Jumat ini jam 17.00, berkas diserahkan langsung ke kantor jurusan",
           "Sidang skripsi dibatalkan dan diganti dengan pembuatan laporan magang",
           "Dosen pembimbing meminta seluruh mahasiswa hadir rapat di aula utama",
-          "Pendaftaran beasiswa dibuka sampai akhir bulan depan"
+          "Pendaftaran beasiswa dibuka sampai akhir bulan depan",
+          "Batas akhir pendaftaran ujian pra-sidang tesis adalah Jumat ini jam 17.00, berkas diserahkan langsung ke kantor jurusan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Pengumuman: 예비심사 신청 마감 (batas pra-sidang tesis) pada Jumat pukul 17.00 diserahkan langsung (직접 제출)."
       },
       {
@@ -7903,12 +8018,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "입국일로부터 구십 일 이내에 출입국관리사무소를 방문하여 외국인등록을 마쳐야 합니다. 하이코리아 웹사이트에서 사전에 방문 예약을 하지 않으면 당일 접수가 불가능합니다.",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "Kewajiban registrasi orang asing dalam 90 hari sejak kedatangan dan wajib reservasi online terlebih dahulu di HiKorea",
           "Pembuatan visa baru di bandara internasional Incheon",
+          "Kewajiban registrasi orang asing dalam 90 hari sejak kedatangan dan wajib reservasi online terlebih dahulu di HiKorea",
           "Pemeriksaan kesehatan gratis di puskesmas distrik",
           "Pembukaan rekening tabungan bank kampus"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Wajib lapor asing dalam 90 hari (90일 이내) dan wajib reservasi online di HiKorea (사전 방문 예약)."
       },
       {
@@ -7918,12 +8033,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa formal penanda sudut pandang evaluasi:\n'국제 통상 환경의 급변과 공급망 불안정____, 수출 의존도가 높은 국가들은 경제적 다변화를 서둘러야 한다.'",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "에 비추어 볼 때 (e bichueo bol ttae: ditinjau / berkaca dari)",
-          "에 불과하고 (e bulgwahago)",
-          "에 다름없다 (e dareumeopda)",
-          "을 막론하고 (eul mangnonhago)"
+          "에 불과하고 (e bulgwahago) — hanya sekadar / tidak lebih dari",
+          "에 다름없다 (e dareumeopda) — sama saja dengan / tiada bedanya dengan",
+          "에 비추어 볼 때 (e bichueo bol ttae) — ditinjau dari / berkaca pada",
+          "을 막론하고 (eul mangnonhago) — tanpa memandang / terlepas dari"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "-에 비추어 볼 때 (berkaca dari / meninjau situasi...) adalah pola evaluasi formal standar dalam teks opini ilmiah."
       },
       {
@@ -7933,12 +8048,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk tata bahasa penegasan ganda (double negative) yang menyatakan keniscayaan tak terbantahkan:\n'인공지능의 급속한 발전은 기존의 고용 구조에 지대한 변화를 가져____.'",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "오지 않을 수 없다 (oji aneul su eopda: niscaya pasti membawa perubahan)",
-          "올 리가 없다 (ol riga eopda)",
-          "올 턱이 없다 (ol teogi eopda)",
-          "오다시피 했다 (odasipi haetda)"
+          "올 리가 없다 (ol riga eopda) — mustahil akan terjadi",
+          "올 턱이 없다 (ol teogi eopda) — sama sekali tidak ada alasan untuk terjadi",
+          "오다시피 했다 (odasipi haetda) — hampir saja datang",
+          "오지 않을 수 없다 (oji aneul su eopda) — niscaya pasti membawa perubahan (penegasan ganda)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "-지 않을 수 없다 (tidak bisa untuk tidak...) menyatakan kepastian absolut yang niscaya terjadi."
       },
       {
@@ -7948,10 +8063,10 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Pilihlah bentuk kausatif perintah instruksional akademik:\n'지도교수는 연구원들에게 연구 윤리 지침을 철저히 ____ 조치했다.'",
         "audioVoiceLang": "ko-KR",
         "options": [
-          "준수하도록 (junsuhadorok: agar mematuhi)",
-          "준수하는 바람에 (junsuhaneun barame)",
-          "준수하다시피 (junsuhadasipi)",
-          "준수할지라도 (junsuhaljirado)"
+          "준수하도록 (junsuhadorok) — agar mematuhi / supaya menaati",
+          "준수하는 바람에 (junsuhaneun barame) — gara-gara mematuhi (sebab negatif)",
+          "준수하다시피 (junsuhadasipi) — sebagaimana hampir mematuhi",
+          "준수할지라도 (junsuhaljirado) — sekalipun mematuhi"
         ],
         "correctAnswerIndex": 0,
         "explanation": "-도록 하다 / -도록 조치하다 adalah konstruksi kausatif formal untuk memerintahkan suatu prosedur dipatuhi."
@@ -7962,12 +8077,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Analisis kesalahan tata bahasa (문법 오류 수정): Manakah kalimat yang BENAR secara penulisan netral esai TOPIK No. 54?",
         "options": [
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제이다.",
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제예요.",
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제입니다.",
-          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제야."
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제예요. — ... adalah tugas yang tak dapat ditunda lagi (ragam lisan 해요체).",
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제이다. — Dalam masyarakat modern, pelestarian lingkungan adalah tugas yang tak dapat ditunda lagi (ragam tulis 해라체).",
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제입니다. — ... adalah tugas yang tak dapat ditunda lagi (ragam formal lisan 하십시오체).",
+          "현대 사회에서 환경 보호는 더 이상 미룰 수 없는 과제야. — ... adalah tugas yang tak dapat ditunda lagi (ragam akrab 반말)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Predikat kata benda dalam gaya netral bertuliskan '과제이다' (-이다). Bentuk -예요, -입니다, -야 dilarang dalam esai No. 54."
       },
       {
@@ -7976,12 +8091,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam wawancara beasiswa GKS, pewawancara menanyakan: 'Apa yang akan Anda lakukan jika riset Anda di lab mengalami kebuntuan?'. Jawaban paling berbobot adalah:",
         "options": [
-          "Mengkaji ulang literatur internasional terbaru, berdiskusi aktif mencari solusi dengan profesor pembimbing dan rekan lab, serta melakukan eksperimen alternatif",
           "Pulang ke negara asal dan liburan selama satu bulan",
           "Menyalahkan alat laboratorium universitas yang kurang canggih",
+          "Mengkaji ulang literatur internasional terbaru, berdiskusi aktif mencari solusi dengan profesor pembimbing dan rekan lab, serta melakukan eksperimen alternatif",
           "Membuat data fiktif agar laporan cepat selesai"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Kematangan mental peneliti dinilai dari ketangguhan mengatasi kegagalan eksperimen (실패 극복 능력) melalui metode ilmiah."
       },
       {
@@ -7990,12 +8105,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Bagaimana cara menyapa Dosen Pembimbing sekaligus Ketua Jurusan saat berpapasan di lorong kampus Korea?",
         "options": [
-          "교수님 (Gyosunim) / 학과장님 (Hakgwajangnim), 안녕하십니까!",
-          "야, 형! (Ya, hyeong!)",
-          "아저씨, 안녕하세요! (Ajeossi, annyeonghaseyo!)",
-          "선생, 잘 지냈어? (Seonsaeng, jal jinaesseo?)"
+          "야, 형! (Ya, hyeong!) — Hei, Bang! (sapaan kasar/akrab)",
+          "아저씨, 안녕하세요! (Ajeossi, annyeonghaseyo!) — Paman, halo! (tidak sopan untuk dosen)",
+          "선생, 잘 지냈어? (Seonsaeng, jal jinaesseo?) — Guru, apa kabar? (kalimat 반말 tidak sopan)",
+          "교수님 (Gyosunim) / 학과장님 (Hakgwajangnim), 안녕하십니까! — Profesor / Bapak-Ibu Ketua Jurusan, selamat pagi/siang! (sapaan hormat resmi)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Gunakan sebutan kehormatan 교수님 (Profesor) atau jabatan struktural 학과장님 (Ketua Jurusan) disertai salam formal 안녕하십니까."
       },
       {
@@ -8018,12 +8133,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Dalam budaya laboratorium universitas Korea (랩실 문화), apa peran dari seorang '랩장' (Raepjang)?",
         "options": [
-          "Mahasiswa senior yang ditunjuk profesor sebagai koordinator harian keselamatan, jadwal, dan administrasi laboratorium",
           "Dosen tamu dari luar negeri",
+          "Mahasiswa senior yang ditunjuk profesor sebagai koordinator harian keselamatan, jadwal, dan administrasi laboratorium",
           "Petugas kebersihan gedung kampus",
           "Dekan fakultas teknologi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "랩장 (Lab Leader) adalah mahasiswa pascasarjana senior yang memimpin koordinasi operasional riset di laboratorium."
       },
       {
@@ -8032,12 +8147,12 @@ export const KOREA_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Berdasarkan peraturan imigrasi Korea Selatan, berapa jam batas kerja paruh waktu (알바) per minggu yang diizinkan untuk mahasiswa program gelar yang telah memiliki sertifikat TOPIK yang dipersyaratkan?",
         "options": [
-          "Maksimal 20 hingga 25 jam per minggu (dan tanpa batas jam saat liburan semester resmi)",
           "Maksimal 40 jam per minggu setiap saat",
           "Maksimal 5 jam per minggu saja",
+          "Maksimal 20 hingga 25 jam per minggu (dan tanpa batas jam saat liburan semester resmi)",
           "Dilarang bekerja sama sekali selama studi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Mahasiswa asing dengan izin resmi (체류자격외 활동허가) diizinkan bekerja paruh waktu 20-25 jam/minggu saat masa kuliah aktif."
       }
     ]
@@ -8059,12 +8174,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "______ such unprecedented resilience in international supply chain networks.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Rarely have econometric indicators revealed",
-          "Rarely econometric indicators have revealed",
-          "Rarely econometric indicators revealed",
-          "Rarely did econometric indicators has revealed"
+          "Rarely econometric indicators have revealed — Susunan tanpa inversi kata kerja bantu (tidak baku)",
+          "Rarely econometric indicators revealed — Susunan tanpa kata kerja bantu (tidak baku)",
+          "Rarely did econometric indicators has revealed — Konjugasi ganda did + has yang salah secara gramatika",
+          "Rarely have econometric indicators revealed — Jarang sekali indikator ekonometrika memperlihatkan (inversi negatif baku)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "After restrictive adverbials like 'Rarely' or 'Seldom', subject-auxiliary inversion is mandatory ('have econometric indicators revealed')."
       },
       {
@@ -8075,10 +8190,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The academic ethics board mandated that the doctoral candidate ______ all raw empirical datasets by Friday.",
         "audioVoiceLang": "en-US",
         "options": [
-          "submit (bare infinitive)",
-          "submits (third-person singular)",
-          "submitted (past tense)",
-          "will submit (future modal)"
+          "submit (bare infinitive) — menyerahkan (bentuk subjunktif mandatif yang tepat setelah \"mandates that...\")",
+          "submits (third-person singular) — menyerahkan (bentuk indikatif biasa, kurang tepat untuk mandatif formal)",
+          "submitted (past tense) — telah menyerahkan (bentuk lampau yang tidak sesuai konteks regulasi)",
+          "will submit (future modal) — akan menyerahkan (modal futur tidak dipakai dalam subjunktif mandatif)"
         ],
         "correctAnswerIndex": 0,
         "explanation": "In formal mandative subjunctive clauses triggered by 'mandated that', the verb must remain in bare infinitive form ('submit')."
@@ -8090,12 +8205,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Select the nominalised formulation that achieves optimal academic lexical density:",
         "audioVoiceLang": "en-US",
         "options": [
-          "The rapid proliferation of digital platforms precipitated an overhaul of antitrust jurisprudence.",
-          "Because digital platforms proliferated really fast, lawmakers had to change how antitrust laws work.",
-          "Digital platforms grew very quickly and then people decided to make new rules for them.",
-          "Since everyone uses digital platforms now, courts have changed their decisions."
+          "Because digital platforms proliferated really fast, lawmakers had to change how antitrust laws work. — Karena platform digital tumbuh sangat cepat, pembuat UU harus mengubah cara kerja hukum (gaya lisan).",
+          "The rapid proliferation of digital platforms precipitated an overhaul of antitrust jurisprudence. — Pesatnya proliferasi platform digital memicu perombakan yurisprudensi antimonopoli (nominalisasi akademik padat).",
+          "Digital platforms grew very quickly and then people decided to make new rules for them. — Platform digital tumbuh cepat lalu orang memutuskan membuat aturan baru (kosakata terlalu umum).",
+          "Since everyone uses digital platforms now, courts have changed their decisions. — Karena semua orang memakai platform digital sekarang, pengadilan mengubah putusan (kurang presisi)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Nominalisation packs active verbal processes into dense, objective noun phrases ('The rapid proliferation... precipitated an overhaul')."
       },
       {
@@ -8105,12 +8220,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Which sentence demonstrates appropriate Academic Hedging for empirical findings?",
         "audioVoiceLang": "en-US",
         "options": [
-          "The preliminary dataset appears to suggest a tentative correlation between the two variables.",
-          "Our experiment proves with 100% certainty that all previous scientists were completely mistaken.",
-          "This data unquestionably demonstrates the absolute truth of our theory.",
-          "Everyone must agree that these results cannot possibly be challenged."
+          "Our experiment proves with 100% certainty that all previous scientists were completely mistaken. — Eksperimen kami membuktikan 100% bahwa semua ilmuwan terdahulu salah total (klaim absolut berlebihan).",
+          "This data unquestionably demonstrates the absolute truth of our theory. — Data ini tanpa keraguan menunjukkan kebenaran mutlak teori kami (tidak objektif).",
+          "The preliminary dataset appears to suggest a tentative correlation between the two variables. — Data awal tampaknya mengindikasikan korelasi tentatif antara kedua variabel (hedging akademik tepat).",
+          "Everyone must agree that these results cannot possibly be challenged. — Semua orang wajib setuju bahwa hasil ini mustahil dibantah (dogmatis)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Academic hedging uses cautious epistemic stance ('appears to suggest a tentative correlation') rather than absolutist dogmatism."
       },
       {
@@ -8121,12 +8236,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "______ further clarification regarding the methodology, please contact the principal investigator.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Should you require",
-          "If should you require",
-          "Were you require",
-          "Had you required"
+          "If should you require — Gabungan \"if\" dan inversi yang salah secara sintaksis",
+          "Were you require — Bentuk \"were\" yang salah karena diikuti bare infinitive tanpa \"to\"",
+          "Had you required — Kondisional tipe 3 (masa lampau tak nyata), tidak tepat untuk korespondensi masa depan",
+          "Should you require — Apabila Anda memerlukan (inversi kondisional formal tanpa \"if\")"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Inverted conditional Type 1 uses 'Should + Subject + bare infinitive' ('Should you require') without the conjunction 'if'."
       },
       {
@@ -8137,10 +8252,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The research protocol was audited ______ institutional biohazard regulations.",
         "audioVoiceLang": "en-US",
         "options": [
-          "in accordance with",
-          "in accordance to",
-          "pursuant of",
-          "with compliance at"
+          "in accordance with — sesuai dengan / berdasarkan ketentuan hukum",
+          "in accordance to — preposisi pasangan yang salah (seharusnya \"with\")",
+          "pursuant of — preposisi pasangan yang salah (seharusnya \"pursuant to\")",
+          "with compliance at — kolokasi preposisi yang tidak baku (seharusnya \"in compliance with\")"
         ],
         "correctAnswerIndex": 0,
         "explanation": "The standard collocations are 'in accordance with' and 'pursuant to'."
@@ -8152,12 +8267,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Identify the thesis statement that maintains strict syntactic parallelism:",
         "audioVoiceLang": "en-US",
         "options": [
-          "The initiative aims to enhance transparency, to streamline governance, and to foster innovation.",
-          "The initiative aims to enhance transparency, streamlining governance, and innovation.",
-          "The initiative aims at transparency, to streamline governance, and fostering innovation.",
-          "The initiative aims to enhance transparency, stream governance, and fostered innovation."
+          "The initiative aims to enhance transparency, streamlining governance, and innovation. — Mencampur to-infinitive, gerund, dan nomina (tidak paralel).",
+          "The initiative aims to enhance transparency, to streamline governance, and to foster innovation. — Inisiatif ini bertujuan meningkatkan transparansi, merampingkan tata kelola, dan mendorong inovasi (paralelisme utuh).",
+          "The initiative aims at transparency, to streamline governance, and fostering innovation. — Mencampur preposisi, to-infinitive, dan gerund (tidak paralel).",
+          "The initiative aims to enhance transparency, stream governance, and fostered innovation. — Mencampur present infinitive dan past participle (tidak paralel)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Parallelism requires consistent grammatical structures across listed items ('to enhance... to streamline... to foster')."
       },
       {
@@ -8168,12 +8283,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "______, the upfront capital expenditure is substantial; nevertheless, the projected operational efficiencies justify the investment.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Admittedly",
-          "Because",
-          "Consequently",
-          "Furthermore"
+          "Because — Karena (konjungsi subordinatif kausal)",
+          "Consequently — Akibatnya / oleh karena itu (transisi akibat)",
+          "Admittedly — Memang harus diakui (penanda konsesif yang berpasangan dengan \"nevertheless\")",
+          "Furthermore — Selain itu / lebih lanjut (transisi aditif)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "'Admittedly... nevertheless' is a classic rhetorical pairing that concedes a counterpoint before reasserting the core thesis."
       },
       {
@@ -8184,12 +8299,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The statistical verification in Chapter 4 regrettably ______.",
         "audioVoiceLang": "en-US",
         "options": [
-          "leaves much to be desired",
-          "is complete garbage",
-          "fails in every single way",
-          "is totally useless"
+          "is complete garbage — sama sekali sampah (bahasa kasar tidak ilmiah)",
+          "fails in every single way — gagal total dalam segala hal (hiperbola emosional)",
+          "is totally useless — sama sekali tidak berguna (bahasa informal kasar)",
+          "leaves much to be desired — masih sangat perlu ditingkatkan / belum memadai (eufemisme akademik sopan)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'Leaves much to be desired' is the standard diplomatic understatement in British and American peer reviews for substandard work."
       },
       {
@@ -8200,10 +8315,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Subsequent longitudinal trials failed to ______ the initial hypothesis.",
         "audioVoiceLang": "en-US",
         "options": [
-          "substantiate (corroborate with evidence)",
-          "manufacture",
-          "exaggerate",
-          "speculate"
+          "substantiate (corroborate with evidence) — memperkuat / membuktikan kebenaran hipotesis dengan bukti empiris",
+          "manufacture — memproduksi barang pabrik / mengarang cerita",
+          "exaggerate — melebih-lebihkan secara tidak proporsional",
+          "speculate — berspekulasi tanpa bukti"
         ],
         "correctAnswerIndex": 0,
         "explanation": "The academic collocation is 'substantiate a hypothesis' (memperkuat/memvalidasi hipotesis dengan data empiris)."
@@ -8212,7 +8327,7 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
   },
   "en-2": {
     "id": "test-en-2",
-    "title": "Bagian 2: Esai Rencana Studi & Analisis Konseptual Inggris & Global (10 Soal Essai)",
+    "title": "Bagian 2: Terjemahan Kalimat Akademik (10 Soal Terjemahkan)",
     "description": "Uji kemampuan menyusun esai motivasi, proposal rencana riset, etika akademik, dan korespondensi formal dengan dosen di Inggris & Global.",
     "passingScorePercent": 75,
     "questions": [
@@ -8220,151 +8335,161 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "id": "q-en-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Write a formal 2-3 sentence opening inquiry email to a potential PhD supervisor regarding doctoral research supervision:",
-        "sampleAnswer": "Dear Professor [Surname],\n\nI hope this email finds you well. My name is [Full Name], and I recently completed my Master's degree in [Discipline] with distinction at [University]. Having closely followed your seminal publications on [Specific Research Topic], I am writing to inquire whether you might have capacity to accept a doctoral researcher under your supervision for the forthcoming academic year.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions. (ˈsɛldəm hæv ˌɪntəˈnæʃnəl ˌmækrəʊˌiːkəˈnɒmɪk ˈɪndɪkeɪtəz ʃəʊn sʌtʃ prəˈfaʊnd rɪˈzɪlɪəns əˈmɪdst ˈgləʊbl səˈplaɪ dɪsˈrʌpʃnz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.",
         "keywords": [
-          "Professor",
-          "publications",
-          "supervision",
-          "doctoral",
-          "inquire"
+          "jarang",
+          "sekali",
+          "indikator",
+          "ekonomi"
         ],
-        "explanation": "An inquiry email to an international professor must establish academic credentials, demonstrate familiarity with their research, and politely request supervision capacity."
+        "explanation": "Kalimat akademik pola Negative Inversion & Emphatic Fronting (Formal Rhetorical Emphasis): 'Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions.' diterjemahkan secara akurat menjadi 'Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.'."
       },
       {
         "id": "q-en-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Explain why informal contractions (don't, can't, won't) and conversational idioms are strictly prohibited in international peer-reviewed journals:",
-        "sampleAnswer": "Informal contractions and idioms are colloquial oral shortcuts that introduce ambiguity, reduce lexical precision, and breach the formal objectivity expected in academic discourse. In scientific writing, full verb forms (do not, cannot) ensure clarity for global multidisciplinary readers and maintain an impartial, rigorous academic tone.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation. (ði ˌækəˈdɛmɪk ˈɛθɪks kəˈmɪti ˌrɛkəˈmɛndɪd ðæt ðə prəˈfɛsəz rɪˈsɜːtʃ grɑːnt biː ˈtɛmpərərəli səˈspɛndɪd ˈpɛndɪŋ ˈθʌrə ɪnˌvɛstɪˈgeɪʃn.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.",
         "keywords": [
-          "contractions",
-          "colloquial",
-          "precision",
-          "formality",
-          "clarity"
+          "komite",
+          "etika",
+          "akademik",
+          "merekomendasikan"
         ],
-        "explanation": "Style guides such as APA, Chicago, and Oxford unequivocally ban informal contractions in published research."
+        "explanation": "Kalimat akademik pola The Subjunctive Mood in Formal Mandates & Nuanced Recommendations: 'The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation.' diterjemahkan secara akurat menjadi 'Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.'."
       },
       {
         "id": "q-en-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Formulate a concise Statement of Purpose (SOP) core motivation paragraph in 2-3 formal academic sentences:",
-        "sampleAnswer": "My desire to pursue graduate studies at [University Name] stems from a commitment to addressing systemic inefficiencies in [Field/Sector]. Your institution's cutting-edge research facilities and distinguished faculty in [Specialisation] provide the ideal intellectual environment for me to advance empirical inquiry. Ultimately, I aspire to translate these findings into evidence-based policy solutions upon returning to Indonesia.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes. (ðə ˈræpɪd prəˌlɪfəˈreɪʃn ɒv ˈdʒɛnərətɪv ˌɑːtɪˈfɪʃl ɪnˈtɛlɪdʒəns nɪˈsɛsɪteɪts ə ˌkɒmprɪˈhɛnsɪv ˌriːˌkælɪˈbreɪʃn ɒv ˌɪntɪˈlɛktʃʊəl ˈprɒpəti ˈstætjuːts.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.",
         "keywords": [
-          "commitment",
-          "empirical",
-          "intellectual",
-          "facilities",
-          "policy"
+          "penyebaran",
+          "pesat",
+          "kecerdasan",
+          "buatan"
         ],
-        "explanation": "A stellar SOP statement connects personal intellectual curiosity with institutional resources and future impact."
+        "explanation": "Kalimat akademik pola Nominalisation for Academic Conciseness & Dense Prose: 'The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes.' diterjemahkan secara akurat menjadi 'Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.'."
       },
       {
         "id": "q-en-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Explain the concept of 'Academic Hedging' and discuss why definitive claims like 'this data proves our model is 100% correct' are considered flawed in science:",
-        "sampleAnswer": "Academic hedging is the conscious use of cautious, non-absolutist epistemic language (e.g., 'suggests', 'tends to indicate', 'arguably') to present claims proportional to empirical evidence. In scientific inquiry, empirical findings rarely constitute absolute universal truth; over-generalisation ignores contextual variables and experimental limitations, whereas hedging demonstrates intellectual rigor and openness to scholarly critique.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement. (ðə ˌlɒŋgɪˈtjuːdɪnl ˈdeɪtəsɛt əˈpɪəz tuː ˈɪndɪkeɪt ə stəˈtɪstɪkli sɪgˈnɪfɪkənt ˌkɒrəˈleɪʃn bɪˈtwiːn ˈɜːli baɪˈlɪŋgwəlɪzm ænd ɪgˈzɛkjʊtɪv ˈfʌŋkʃn ɪnˈhɑːnsmənt.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.",
         "keywords": [
-          "hedging",
-          "epistemic",
-          "cautious",
-          "limitations",
-          "empirical"
+          "kumpulan",
+          "data",
+          "longitudinal",
+          "tersebut"
         ],
-        "explanation": "Hedging protects the researcher from dogmatic overstatement and reflects the probabilistic nature of scientific findings."
+        "explanation": "Kalimat akademik pola Academic Hedging & Nuanced Epistemic Stance: 'The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement.' diterjemahkan secara akurat menjadi 'Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.'."
       },
       {
         "id": "q-en-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Outline the four standard structural components of an academic paper abstract (IMRaD framework) and describe the function of each:",
-        "sampleAnswer": "1. Introduction/Background: Contextualises the epistemic gap and articulates the research question;\n2. Methods: Delineates the research design, data collection parameters, and analytical frameworks deployed;\n3. Results: Synthesises key empirical findings and statistical trends without interpretative clutter;\n4. Discussion/Conclusion: Evaluates theoretical implications, policy relevance, and avenues for future inquiry.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments. (ʃʊd ˈfɒrɪn ˈdɛlɪgɪts ɪkˈspɪərɪəns ˈɛni ˈʃɛdjuːlɪŋ ˈkɒnflɪkts, ðə liˈeɪzɒn ˈɒfɪs stændz ˈrɛdi tuː fəˈsɪlɪteɪt aɪˈtɪnərəri əˈdʒʌstmənts.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.",
         "keywords": [
-          "Introduction",
-          "Methods",
-          "Results",
-          "Discussion",
-          "abstract"
+          "sekiranya",
+          "delegasi",
+          "asing",
+          "mengalami"
         ],
-        "explanation": "The IMRaD framework is the universal architecture of scientific abstracts in Scopus and Web of Science indexed journals."
+        "explanation": "Kalimat akademik pola Inverted Conditionals without 'If' (Had, Were, Should): 'Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments.' diterjemahkan secara akurat menjadi 'Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.'."
       },
       {
         "id": "q-en-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Discuss the ethical ramifications of academic plagiarism and explain how proper secondary citation (e.g., APA/Harvard) safeguards intellectual integrity:",
-        "sampleAnswer": "Plagiarism constitutes intellectual theft that undermines the foundational trust of academia, risking paper retractions, expulsion, and irreversible reputational damage. Proper attribution through standardised citation frameworks (such as APA or Harvard) acknowledges intellectual lineage, enables peer verification, and delineates the author's novel contributions from pre-existing scholarship.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days. (pəˈsjuːənt tuː ðə prəˈvɪʒnz ˈstɪpjʊleɪtɪd ɪn ˈsɛkʃn fɔːr ɒv ði ɪmˈplɔɪmənt raɪts ækt, ˈsɛvərəns ˈpækɪdʒɪz mʌst biː dɪsˈbɜːst wɪˈðɪn ˈfɔːˈtiːn ˈbɪznɪs deɪz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.",
         "keywords": [
-          "plagiarism",
-          "integrity",
-          "citation",
-          "attribution",
-          "verification"
+          "sesuai",
+          "ketentuan",
+          "diatur",
+          "bagian"
         ],
-        "explanation": "Rigorous citation practices are the bedrock of scholarly accountability in global higher education."
+        "explanation": "Kalimat akademik pola Complex Prepositional Phrases & Formal Administrative Register: 'Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days.' diterjemahkan secara akurat menjadi 'Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.'."
       },
       {
         "id": "q-en-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Draft a formal email request asking for an extension on a term paper deadline due to unforeseen laboratory equipment delays:",
-        "sampleAnswer": "Dear Professor [Surname],\n\nI am writing to respectfully request a short extension on the submission deadline for the term paper in [Course Title], originally due on [Original Date]. Due to an unexpected technical recalibration of our laboratory's mass spectrometer, my empirical data extraction was unavoidably delayed by four days. I would be immensely grateful if I might be permitted to submit the final manuscript by [New Proposed Date], which will ensure the analysis meets the highest empirical standards.\n\nThank you very much for your understanding and consideration.\n\nSincerely,\n[Full Name]",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity. (ˈnaɪðə baɪ səˈprɛsɪŋ ˌækəˈdɛmɪk dɪˈsɛnʃn nɔː baɪ wɪðˈhəʊldɪŋ ˈkrɪtɪkl ˌɛvɪˈdɛnʃəri ˈɔːdɪts kæn ən ˌɪnstɪˈtjuːʃn ˈseɪfgɑːd ɪts ɪnˈdjʊərɪŋ ˌɪntɪˈlɛktʃʊəl ɪnˈtɛgrɪti.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.",
         "keywords": [
-          "extension",
-          "respectfully",
-          "unforeseen",
-          "submission",
-          "consideration"
+          "baik",
+          "cara",
+          "membungkam",
+          "perbedaan"
         ],
-        "explanation": "Deadline extension requests must be submitted well before the deadline, clearly state the legitimate academic cause, propose a realistic date, and maintain respectful deference."
+        "explanation": "Kalimat akademik pola Rhetorical Parallelism & Balanced Periodic Sentences: 'Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity.' diterjemahkan secara akurat menjadi 'Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.'."
       },
       {
         "id": "q-en-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Articulate your post-graduation career trajectory in a formal scholarship register (e.g., Chevening, Fulbright, or LPDP application):",
-        "sampleAnswer": "Upon completing my postgraduate degree, I plan to reintegrate into Indonesia's public research infrastructure, leading data-driven policy reforms in sustainable development. In the medium term, I envision establishing a collaborative research network between UK/US academic consortia and Southeast Asian institutions, fostering bilateral knowledge transfer and technological capacity building.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap. (ˈfɔːmɪdəbl ðəʊ ðə ˌdɪpləˈmætɪk ˈɒbstəklz əˈpɪəd, ðə ˈsʌmɪt ˌɪntəˈlɒkjʊtəz səkˈsiːdɪd ɪn ˈfɔːmjʊleɪtɪŋ ə prəˈvɪʒənl ˌdiːˌmɪlɪtəraɪˈzeɪʃn ˈrəʊdmæp.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.",
         "keywords": [
-          "postgraduate",
-          "trajectory",
-          "transfer",
-          "collaborative",
-          "capacity"
+          "betapapun",
+          "beratnya",
+          "rintangan",
+          "diplomatik"
         ],
-        "explanation": "Scholarship boards look for clear leadership vision and tangible plans to reinvest academic expertise into national development."
+        "explanation": "Kalimat akademik pola Stylistic Concession & Antithesis (Admittedly, Albeit, In Spite of): 'Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap.' diterjemahkan secara akurat menjadi 'Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.'."
       },
       {
         "id": "q-en-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Explain the methodological distinction between 'quantitative empirical analysis' and 'qualitative ethnographic inquiry':",
-        "sampleAnswer": "Quantitative empirical analysis relies on numerical data, statistical modeling, and inferential hypothesis testing to uncover generalisable probabilistic patterns across broad cohorts. In contrast, qualitative ethnographic inquiry utilises immersive observation, semi-structured interviews, and contextual textual analysis to elucidate nuanced human behaviors, cultural meanings, and lived experiences.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers. (ðə baɪˈlætərəl kəˈmjuːnɪkeɪ ˈnəʊtɪd ðæt ˈriːsnt krɒs-ˈbɔːdər ˈeəspeɪs ɪnˈkrəʊtʃmənts wɜː vjuːd wɪð greɪv kənˈsɜːn baɪ ˌɪntəˈnæʃnəl əbˈzɜːvəz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.",
         "keywords": [
-          "quantitative",
-          "qualitative",
-          "statistical",
-          "empirical",
-          "ethnographic"
+          "komunike",
+          "bilateral",
+          "tersebut",
+          "mencatat"
         ],
-        "explanation": "Understanding methodological epistemology is essential for selecting appropriate research designs and defending dissertations."
+        "explanation": "Kalimat akademik pola Nuanced Diplomatic Modals & Bureaucratic Prudence: 'The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers.' diterjemahkan secara akurat menjadi 'Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.'."
       },
       {
         "id": "q-en-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Write a constructive, diplomatically worded response to a peer reviewer's critical critique challenging your paper's theoretical framework:",
-        "sampleAnswer": "We are deeply grateful to Reviewer 2 for this perceptive critique regarding our conceptual framework. While our initial model leaned heavily on classical econometric assumptions, we fully concede that integrating institutional contingency theory substantially enriches the explanatory power. Accordingly, we have thoroughly revised Section 2.3 and added supplementary robustness tests to address this valuable observation.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies. (ˌnɒtwɪθˈstændɪŋ ðə prəˌlɪfəˈreɪʃn ɒv ɪmˈpɪrɪkl ˈskɒləʃɪp əˈdrɛsɪŋ trænzˈnæʃnəl ˈkæpɪtl məʊˈbɪlɪti, sɪgˈnɪfɪkənt ləˈkjuːniː pəˈsɪst rɪˈgɑːdɪŋ ðə ˈsɒvrɪn dɛt ˌvʌlnərəˈbɪlɪti ɒv ɪˈmɜːdʒɪŋ ˈmɑːkɪt iːˈkɒnəmiz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.",
         "keywords": [
-          "grateful",
-          "critique",
-          "concede",
-          "revised",
-          "robustness"
+          "meskipun",
+          "terjadi",
+          "pertumbuhan",
+          "pesat"
         ],
-        "explanation": "Responses to reviewers must remain courteous, receptive to constructive critique, and explicit about concrete revisions made."
+        "explanation": "Kalimat akademik pola C1 Capstone: Academic Research Paper Discursive Architecture & University Dissertation Prose: 'Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies.' diterjemahkan secara akurat menjadi 'Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.'."
       }
     ]
   },
@@ -8380,10 +8505,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a grammatically coherent academic admissions instruction:",
         "scrambledWords": [
-          "prospective international scholars",
-          "are required to submit",
           "their authenticated transcripts",
-          "prior to the deadline"
+          "prior to the deadline",
+          "prospective international scholars",
+          "are required to submit"
         ],
         "correctOrder": [
           "prospective international scholars",
@@ -8401,10 +8526,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a formal empirical findings statement:",
         "scrambledWords": [
-          "the empirical findings indicate",
-          "a statistically significant correlation",
+          "and variable B",
           "between variable A",
-          "and variable B"
+          "a statistically significant correlation",
+          "the empirical findings indicate"
         ],
         "correctOrder": [
           "the empirical findings indicate",
@@ -8422,10 +8547,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a bioethics research compliance protocol sentence:",
         "scrambledWords": [
-          "all biomedical research protocols",
-          "must receive prior clearance",
+          "review board",
           "from the institutional",
-          "review board"
+          "must receive prior clearance",
+          "all biomedical research protocols"
         ],
         "correctOrder": [
           "all biomedical research protocols",
@@ -8443,10 +8568,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into an academic registrar course enrollment announcement:",
         "scrambledWords": [
-          "graduate students may register",
-          "for elective seminars",
           "through the central academic portal",
-          "starting next Monday"
+          "starting next Monday",
+          "graduate students may register",
+          "for elective seminars"
         ],
         "correctOrder": [
           "graduate students may register",
@@ -8464,10 +8589,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a doctoral dissertation defense summary sentence:",
         "scrambledWords": [
-          "the doctoral candidate successfully defended",
-          "her dissertation on renewable energy",
+          "yesterday afternoon",
           "before the academic tribunal",
-          "yesterday afternoon"
+          "her dissertation on renewable energy",
+          "the doctoral candidate successfully defended"
         ],
         "correctOrder": [
           "the doctoral candidate successfully defended",
@@ -8495,12 +8620,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Applicants must submit a 1,000-word Statement of Purpose articulating their research motivations.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Surat pernyataan tujuan dan motivasi studi akademik pelamar",
           "Daftar riwayat hidup riwayat pekerjaan",
           "Kuitansi bukti pembayaran formulir pendaftaran",
-          "Surat keterangan catatan kepolisian"
+          "Surat keterangan catatan kepolisian",
+          "Surat pernyataan tujuan dan motivasi studi akademik pelamar"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Statement of Purpose (SOP) adalah esai akademik formal yang menguraikan latar belakang intelektual, tujuan riset, dan motivasi pelamar."
       },
       {
@@ -8527,12 +8652,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Three confidential Letters of Recommendation must be submitted directly by academic referees.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Surat rekomendasi rahasia dari dosen pembimbing atau akademisi rujukan",
           "Surat pengantar izin cuti kuliah",
+          "Surat rekomendasi rahasia dari dosen pembimbing atau akademisi rujukan",
           "Surat penagihan biaya asrama universitas",
           "Surat ucapan selamat ulang tahun dari rektor"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Letters of Recommendation (LoR) adalah surat penilaian kompetensi dari profesor rujukan pelamar."
       },
       {
@@ -8543,12 +8668,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The candidate was awarded the PhD degree upon successfully passing the oral dissertation defense.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Sidang ujian lisan pertahanan disertasi doktoral di hadapan dewan penguji",
           "Lomba debat mahasiswa antar fakultas",
           "Upacara penyambutan mahasiswa baru",
+          "Sidang ujian lisan pertahanan disertasi doktoral di hadapan dewan penguji",
           "Pemeriksaan kesehatan fisik calon wisudawan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Dissertation defense (atau Viva Voce di sistem Inggris) adalah sidang ujian lisan akhir untuk mempertahankan disertasi PhD."
       },
       {
@@ -8559,12 +8684,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Please review the course syllabus to ensure you have fulfilled all necessary prerequisites.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Silabus perkuliahan dan mata kuliah prasyarat",
           "Denah gedung kampus dan jadwal bus antar-jemput",
           "Daftar buku wajib di toko buku universitas",
-          "Jadwal ujian akhir semester dan libur musim panas"
+          "Jadwal ujian akhir semester dan libur musim panas",
+          "Silabus perkuliahan dan mata kuliah prasyarat"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Syllabus = rencana pembelajaran semester; Prerequisites = syarat kelulusan mata kuliah dasar sebelum mengambil mata kuliah lanjutan."
       },
       {
@@ -8591,12 +8716,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Manuscripts exceeding a 15% plagiarism similarity index on Turnitin will be automatically flagged for investigation.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Indeks persentase kemiripan teks / uji plagiarisme pada piranti lunak Turnitin",
           "Peringkat kelulusan sarjana berdasarkan nilai IPK",
+          "Indeks persentase kemiripan teks / uji plagiarisme pada piranti lunak Turnitin",
           "Jumlah kata yang diketik dalam satu halaman tugas",
           "Batas kecepatan internet di laboratorium komputer"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Similarity index adalah skor persentase kesamaan teks dengan basis data internet dan karya ilmiah terdahulu."
       },
       {
@@ -8607,12 +8732,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Enrolling in a university with rigorous institutional accreditation ensures international degree recognition.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Akreditasi resmi mutu institusi pendidikan tinggi oleh badan evaluasi independen",
           "Pemberian bantuan dana riset dari alumni",
           "Pembangunan gedung laboratorium baru",
+          "Akreditasi resmi mutu institusi pendidikan tinggi oleh badan evaluasi independen",
           "Perekrutan dosen tamu dari industri teknologi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Institutional accreditation adalah status legal penjaminan mutu sebuah perguruan tinggi di tingkat nasional/global."
       },
       {
@@ -8623,12 +8748,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "By deploying methodological triangulation, the study integrates quantitative surveys and qualitative interviews.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Triangulasi metodologis (penggabungan berbagai metode riset untuk memverifikasi keabsahan data)",
           "Pengukuran sudut geometri dalam pemetaan lahan",
           "Pemisahan tiga kelompok responden berdasarkan usia",
-          "Pembagian tiga bab utama dalam naskah skripsi"
+          "Pembagian tiga bab utama dalam naskah skripsi",
+          "Triangulasi metodologis (penggabungan berbagai metode riset untuk memverifikasi keabsahan data)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Methodological triangulation adalah teknik validasi ilmiah yang menggabungkan berbagai pendekatan metodologis (mixed-methods)."
       },
       {
@@ -8662,12 +8787,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Read the following academic syllabus excerpt:\n'Grading Policy: Final Proctored Exam (50%), Research Term Paper (30%), Seminar Participation (20%). Late submissions of the term paper incur a penalty of 5 percentage points per calendar day. Submissions delayed by more than 7 days will receive an automatic failing grade (0%).'\n\nWhat is the consequence if a student submits the research paper 8 days after the official deadline?",
         "audioVoiceLang": "en-US",
         "options": [
-          "The submission automatically receives a failing grade of zero percent (0%)",
           "The grade is docked by exactly 40 percentage points",
+          "The submission automatically receives a failing grade of zero percent (0%)",
           "The student is granted an oral re-examination",
           "The student must write an additional book review"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "The text explicitly states: 'Submissions delayed by more than 7 days will receive an automatic failing grade (0%).'"
       },
       {
@@ -8677,12 +8802,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Read the university library borrowing regulation:\n'Undergraduate students may borrow up to 10 standard monographs for 21 days, whereas postgraduate researchers are entitled to borrow 30 items for up to 90 days. Special collections, rare manuscripts, and course reserves are strictly non-circulating and may only be consulted within the designated reading room.'\n\nWhere may students consult rare manuscripts and course reserve materials?",
         "audioVoiceLang": "en-US",
         "options": [
-          "Exclusively within the designated library reading room (strictly non-circulating)",
           "They may be borrowed and taken home for 90 days",
           "In the campus dormitory cafeteria",
+          "Exclusively within the designated library reading room (strictly non-circulating)",
           "They can only be read online via smartphone"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "The policy specifies that rare manuscripts are 'strictly non-circulating and may only be consulted within the designated reading room.'"
       },
       {
@@ -8692,12 +8817,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Read the scholarship guidelines for international candidates:\n'To qualify for the Chevening/Fulbright Postgraduate Fellowship, applicants must possess a minimum of two years of substantive professional work experience (equivalent to at least 2,800 hours) and have completed an undergraduate degree with at least upper second-class honours (2:1). Meeting these thresholds does not guarantee shortlisting for the panel interview.'\n\nWhat are the dual baseline eligibility criteria specified in the text?",
         "audioVoiceLang": "en-US",
         "options": [
-          "At least 2 years (2,800 hours) of professional experience and an undergraduate degree of at least 2:1 honours",
           "A doctorate in economics and fluent bilingualism in four languages",
           "Five published papers in Scopus Q1 journals and ten recommendation letters",
-          "Full residency citizenship in the United Kingdom or United States"
+          "Full residency citizenship in the United Kingdom or United States",
+          "At least 2 years (2,800 hours) of professional experience and an undergraduate degree of at least 2:1 honours"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "The criteria are two years of work experience (2,800 hours) plus a 2:1 honours bachelor's degree."
       },
       {
@@ -8724,12 +8849,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Before commencing any procedures involving volatile organic compounds, ensure that the mechanical exhaust ventilation hood is fully operational and the sash is positioned at the marked safety line. In the event of an accidental solvent spill exceeding 500 millilitres, evacuate the room and activate the emergency spill protocol.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Verifying exhaust ventilation hood operation and evacuating if a solvent spill exceeds 500 mL",
           "Switching off all electrical equipment every hour to save energy",
+          "Verifying exhaust ventilation hood operation and evacuating if a solvent spill exceeds 500 mL",
           "Wearing headphones while conducting chemical synthesis experiments",
           "Cleaning laboratory glassware using standard tap water without soap"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "The audio dictates fume hood sash positioning and immediate evacuation if an organic chemical spill exceeds 500 mL."
       },
       {
@@ -8740,12 +8865,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Doctoral dissertations must be formatted strictly in accordance with university typography guidelines and uploaded to the institutional repository in PDF/A format by the first of November. Electronic submissions will undergo automated similarity analysis before distribution to the external examiners.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Dissertations must adhere to typography guidelines, be uploaded in PDF/A format by Nov 1, and pass similarity analysis prior to external examination",
           "Hard copies of dissertations must be hand-bound in leather and submitted to the dean",
           "External examiners will conduct oral interviews before reviewing the written manuscript",
+          "Dissertations must adhere to typography guidelines, be uploaded in PDF/A format by Nov 1, and pass similarity analysis prior to external examination",
           "Dissertation deadlines are indefinitely postponed until next spring semester"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Key points: PDF/A format, Nov 1 deadline, institutional repository upload, and pre-examination similarity checks."
       },
       {
@@ -8755,12 +8880,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Select the formal discourse marker that introduces a logical consequence in academic prose:\n'The macroeconomic model failed to account for sudden capital flight; ______, its fiscal projections proved substantially inaccurate.'",
         "audioVoiceLang": "en-US",
         "options": [
-          "consequently (as a direct result)",
-          "conversely",
-          "nevertheless",
-          "notwithstanding"
+          "conversely — sebaliknya / di sisi lain",
+          "nevertheless — namun demikian / meskipun begitu",
+          "notwithstanding — terlepas dari / kendatipun",
+          "consequently (as a direct result) — akibatnya / oleh karena itu"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'Consequently' introduces a direct logical cause-and-effect relationship between the model's flaw and inaccurate projections."
       },
       {
@@ -8770,10 +8895,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Choose the correct academic passive modal construction for institutional policy:\n'In light of geopolitical volatility, it ______ to diversify institutional foreign exchange endowments.'",
         "audioVoiceLang": "en-US",
         "options": [
-          "is deemed advisable",
-          "is dreaming advisable",
-          "is deeming advisable",
-          "was deeming advice"
+          "is deemed advisable — dipandang bijaksana / dianjurkan secara institusional",
+          "is dreaming advisable — kesalahan leksikal (\"dreaming\" = bermimpi)",
+          "is deeming advisable — bentuk aktif progresif yang salah (seharusnya pasif \"is deemed\")",
+          "was deeming advice — kesalahan bentuk aktif dan kelas kata nomina"
         ],
         "correctAnswerIndex": 0,
         "explanation": "'It is deemed advisable' (dipandang bijaksana/dianjurkan) is the standard formal impersonal passive in administrative policy."
@@ -8785,12 +8910,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Identify the sentence that correctly deploys a participial clause without dangling modifier errors:",
         "audioVoiceLang": "en-US",
         "options": [
-          "Having analyzed the longitudinal panel data, the researchers observed a statistically robust divergence across cohorts.",
-          "Having analyzed the longitudinal panel data, a divergence across cohorts was observed by the computer.",
-          "Analyzing the longitudinal panel data, the computer crashed several times.",
-          "Having analyzed the longitudinal panel data, the hypothesis became much clearer to everybody."
+          "Having analyzed the longitudinal panel data, a divergence across cohorts was observed by the computer. — Dangling modifier (seolah-olah \"divergensi\" yang menganalisis data).",
+          "Having analyzed the longitudinal panel data, the researchers observed a statistically robust divergence across cohorts. — Setelah menganalisis data panel longitudinal, para peneliti mengamati divergensi signifikan (subjek klausa utama sesuai).",
+          "Analyzing the longitudinal panel data, the computer crashed several times. — Dangling modifier (seolah-olah \"komputer\" yang menjadi peneliti).",
+          "Having analyzed the longitudinal panel data, the hypothesis became much clearer to everybody. — Dangling modifier (seolah-olah \"hipotesis\" yang menganalisis data)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "In Option 1, the subject of the main clause ('the researchers') logically matches the agent of the participial phrase ('Having analyzed...'). In the others, the modifier dangles."
       },
       {
@@ -8799,12 +8924,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Which response represents the most professional stance when an interviewer questions a limitation in your proposed research methodology?",
         "options": [
-          "Acknowledge the limitation candidly, explain why that trade-off was methodologically necessary, and outline supplementary sensitivity tests to mitigate bias",
           "Deny that any limitation exists and accuse the interviewer of misinterpreting scientific principles",
           "Blame your master's thesis supervisor for forcing you to use that flawed methodology",
+          "Acknowledge the limitation candidly, explain why that trade-off was methodologically necessary, and outline supplementary sensitivity tests to mitigate bias",
           "Apologize profusely and offer to abandon the research proposal immediately"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Demonstrating awareness of methodological trade-offs (batasan metodologi) and outlining mitigation strategies reflects advanced academic maturity."
       },
       {
@@ -8813,12 +8938,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "In British and Commonwealth universities, what is the formal title and etiquette for addressing a faculty member who holds a doctorate but has not been promoted to a full professorial chair?",
         "options": [
-          "Dr. [Surname] (Doctor [Surname])",
           "Professor [Surname] (reserved strictly for full chair holders in UK conventions)",
           "Mr./Ms. [Surname]",
-          "Teacher [Surname]"
+          "Teacher [Surname]",
+          "Dr. [Surname] (Doctor [Surname])"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "In the UK/Commonwealth, 'Professor' is a formal rank held only by chairs; senior lecturers with a PhD are addressed as 'Dr. [Surname]'. 'Teacher' is never used."
       },
       {
@@ -8841,12 +8966,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "In Anglo-American university lab culture, what is the primary pedagogical purpose of a 'Journal Club' meeting?",
         "options": [
-          "Graduate researchers present and critically dissect peer-reviewed papers published by external research teams to stay abreast of scientific frontiers",
           "Students gather to write recreational poetry and short stories",
+          "Graduate researchers present and critically dissect peer-reviewed papers published by external research teams to stay abreast of scientific frontiers",
           "Faculty members read novels out loud for relaxation",
           "Administrative staff review university budget invoices"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "A Journal Club is an essential seminar where lab members rigorously critique contemporary literature to sharpen analytical faculties."
       },
       {
@@ -8855,12 +8980,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Under UK Student Visa (formerly Tier 4) and US F-1 Visa regulations, what is the statutory ceiling for employment hours permitted during term time?",
         "options": [
-          "A maximum of 20 hours per week during term time (with full-time employment permitted during official vacation periods)",
           "Unlimited hours provided the student maintains a 3.5 GPA",
           "Exactly 40 hours per week at all times",
+          "A maximum of 20 hours per week during term time (with full-time employment permitted during official vacation periods)",
           "No off-campus or on-campus work is ever permitted"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Both UK and US student visa frameworks enforce a strict cap of 20 hours per week during active academic terms."
       },
       {
@@ -8870,12 +8995,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Which academic phrase best conveys that two variables are mutually dependent and cannot be disentangled?",
         "audioVoiceLang": "en-US",
         "options": [
-          "inextricably linked",
-          "totally separated",
-          "somewhat friends",
-          "vaguely beside each other"
+          "totally separated — terpisah sama sekali",
+          "somewhat friends — agak berteman (ungkapan informal tidak ilmiah)",
+          "vaguely beside each other — samar-samar bersebelahan (tidak akademis)",
+          "inextricably linked — terkait erat dan tidak dapat dipisahkan satu sama lain"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'Inextricably linked' (terkait erat dan tak terpisahkan) is an authentic academic collocation for codependent phenomena."
       }
     ]
@@ -8894,12 +9019,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "______ such unprecedented resilience in international supply chain networks.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Rarely have econometric indicators revealed",
-          "Rarely econometric indicators have revealed",
-          "Rarely econometric indicators revealed",
-          "Rarely did econometric indicators has revealed"
+          "Rarely econometric indicators have revealed — Susunan tanpa inversi kata kerja bantu (tidak baku)",
+          "Rarely econometric indicators revealed — Susunan tanpa kata kerja bantu (tidak baku)",
+          "Rarely did econometric indicators has revealed — Konjugasi ganda did + has yang salah secara gramatika",
+          "Rarely have econometric indicators revealed — Jarang sekali indikator ekonometrika memperlihatkan (inversi negatif baku)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "After restrictive adverbials like 'Rarely' or 'Seldom', subject-auxiliary inversion is mandatory ('have econometric indicators revealed')."
       },
       {
@@ -8910,10 +9035,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The academic ethics board mandated that the doctoral candidate ______ all raw empirical datasets by Friday.",
         "audioVoiceLang": "en-US",
         "options": [
-          "submit (bare infinitive)",
-          "submits (third-person singular)",
-          "submitted (past tense)",
-          "will submit (future modal)"
+          "submit (bare infinitive) — menyerahkan (bentuk subjunktif mandatif yang tepat setelah \"mandates that...\")",
+          "submits (third-person singular) — menyerahkan (bentuk indikatif biasa, kurang tepat untuk mandatif formal)",
+          "submitted (past tense) — telah menyerahkan (bentuk lampau yang tidak sesuai konteks regulasi)",
+          "will submit (future modal) — akan menyerahkan (modal futur tidak dipakai dalam subjunktif mandatif)"
         ],
         "correctAnswerIndex": 0,
         "explanation": "In formal mandative subjunctive clauses triggered by 'mandated that', the verb must remain in bare infinitive form ('submit')."
@@ -8925,12 +9050,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Select the nominalised formulation that achieves optimal academic lexical density:",
         "audioVoiceLang": "en-US",
         "options": [
-          "The rapid proliferation of digital platforms precipitated an overhaul of antitrust jurisprudence.",
-          "Because digital platforms proliferated really fast, lawmakers had to change how antitrust laws work.",
-          "Digital platforms grew very quickly and then people decided to make new rules for them.",
-          "Since everyone uses digital platforms now, courts have changed their decisions."
+          "Because digital platforms proliferated really fast, lawmakers had to change how antitrust laws work. — Karena platform digital tumbuh sangat cepat, pembuat UU harus mengubah cara kerja hukum (gaya lisan).",
+          "The rapid proliferation of digital platforms precipitated an overhaul of antitrust jurisprudence. — Pesatnya proliferasi platform digital memicu perombakan yurisprudensi antimonopoli (nominalisasi akademik padat).",
+          "Digital platforms grew very quickly and then people decided to make new rules for them. — Platform digital tumbuh cepat lalu orang memutuskan membuat aturan baru (kosakata terlalu umum).",
+          "Since everyone uses digital platforms now, courts have changed their decisions. — Karena semua orang memakai platform digital sekarang, pengadilan mengubah putusan (kurang presisi)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Nominalisation packs active verbal processes into dense, objective noun phrases ('The rapid proliferation... precipitated an overhaul')."
       },
       {
@@ -8940,12 +9065,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Which sentence demonstrates appropriate Academic Hedging for empirical findings?",
         "audioVoiceLang": "en-US",
         "options": [
-          "The preliminary dataset appears to suggest a tentative correlation between the two variables.",
-          "Our experiment proves with 100% certainty that all previous scientists were completely mistaken.",
-          "This data unquestionably demonstrates the absolute truth of our theory.",
-          "Everyone must agree that these results cannot possibly be challenged."
+          "Our experiment proves with 100% certainty that all previous scientists were completely mistaken. — Eksperimen kami membuktikan 100% bahwa semua ilmuwan terdahulu salah total (klaim absolut berlebihan).",
+          "This data unquestionably demonstrates the absolute truth of our theory. — Data ini tanpa keraguan menunjukkan kebenaran mutlak teori kami (tidak objektif).",
+          "The preliminary dataset appears to suggest a tentative correlation between the two variables. — Data awal tampaknya mengindikasikan korelasi tentatif antara kedua variabel (hedging akademik tepat).",
+          "Everyone must agree that these results cannot possibly be challenged. — Semua orang wajib setuju bahwa hasil ini mustahil dibantah (dogmatis)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Academic hedging uses cautious epistemic stance ('appears to suggest a tentative correlation') rather than absolutist dogmatism."
       },
       {
@@ -8956,12 +9081,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "______ further clarification regarding the methodology, please contact the principal investigator.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Should you require",
-          "If should you require",
-          "Were you require",
-          "Had you required"
+          "If should you require — Gabungan \"if\" dan inversi yang salah secara sintaksis",
+          "Were you require — Bentuk \"were\" yang salah karena diikuti bare infinitive tanpa \"to\"",
+          "Had you required — Kondisional tipe 3 (masa lampau tak nyata), tidak tepat untuk korespondensi masa depan",
+          "Should you require — Apabila Anda memerlukan (inversi kondisional formal tanpa \"if\")"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Inverted conditional Type 1 uses 'Should + Subject + bare infinitive' ('Should you require') without the conjunction 'if'."
       },
       {
@@ -8972,10 +9097,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The research protocol was audited ______ institutional biohazard regulations.",
         "audioVoiceLang": "en-US",
         "options": [
-          "in accordance with",
-          "in accordance to",
-          "pursuant of",
-          "with compliance at"
+          "in accordance with — sesuai dengan / berdasarkan ketentuan hukum",
+          "in accordance to — preposisi pasangan yang salah (seharusnya \"with\")",
+          "pursuant of — preposisi pasangan yang salah (seharusnya \"pursuant to\")",
+          "with compliance at — kolokasi preposisi yang tidak baku (seharusnya \"in compliance with\")"
         ],
         "correctAnswerIndex": 0,
         "explanation": "The standard collocations are 'in accordance with' and 'pursuant to'."
@@ -8987,12 +9112,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Identify the thesis statement that maintains strict syntactic parallelism:",
         "audioVoiceLang": "en-US",
         "options": [
-          "The initiative aims to enhance transparency, to streamline governance, and to foster innovation.",
-          "The initiative aims to enhance transparency, streamlining governance, and innovation.",
-          "The initiative aims at transparency, to streamline governance, and fostering innovation.",
-          "The initiative aims to enhance transparency, stream governance, and fostered innovation."
+          "The initiative aims to enhance transparency, streamlining governance, and innovation. — Mencampur to-infinitive, gerund, dan nomina (tidak paralel).",
+          "The initiative aims to enhance transparency, to streamline governance, and to foster innovation. — Inisiatif ini bertujuan meningkatkan transparansi, merampingkan tata kelola, dan mendorong inovasi (paralelisme utuh).",
+          "The initiative aims at transparency, to streamline governance, and fostering innovation. — Mencampur preposisi, to-infinitive, dan gerund (tidak paralel).",
+          "The initiative aims to enhance transparency, stream governance, and fostered innovation. — Mencampur present infinitive dan past participle (tidak paralel)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Parallelism requires consistent grammatical structures across listed items ('to enhance... to streamline... to foster')."
       },
       {
@@ -9003,12 +9128,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "______, the upfront capital expenditure is substantial; nevertheless, the projected operational efficiencies justify the investment.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Admittedly",
-          "Because",
-          "Consequently",
-          "Furthermore"
+          "Because — Karena (konjungsi subordinatif kausal)",
+          "Consequently — Akibatnya / oleh karena itu (transisi akibat)",
+          "Admittedly — Memang harus diakui (penanda konsesif yang berpasangan dengan \"nevertheless\")",
+          "Furthermore — Selain itu / lebih lanjut (transisi aditif)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "'Admittedly... nevertheless' is a classic rhetorical pairing that concedes a counterpoint before reasserting the core thesis."
       },
       {
@@ -9019,12 +9144,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The statistical verification in Chapter 4 regrettably ______.",
         "audioVoiceLang": "en-US",
         "options": [
-          "leaves much to be desired",
-          "is complete garbage",
-          "fails in every single way",
-          "is totally useless"
+          "is complete garbage — sama sekali sampah (bahasa kasar tidak ilmiah)",
+          "fails in every single way — gagal total dalam segala hal (hiperbola emosional)",
+          "is totally useless — sama sekali tidak berguna (bahasa informal kasar)",
+          "leaves much to be desired — masih sangat perlu ditingkatkan / belum memadai (eufemisme akademik sopan)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'Leaves much to be desired' is the standard diplomatic understatement in British and American peer reviews for substandard work."
       },
       {
@@ -9035,10 +9160,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Subsequent longitudinal trials failed to ______ the initial hypothesis.",
         "audioVoiceLang": "en-US",
         "options": [
-          "substantiate (corroborate with evidence)",
-          "manufacture",
-          "exaggerate",
-          "speculate"
+          "substantiate (corroborate with evidence) — memperkuat / membuktikan kebenaran hipotesis dengan bukti empiris",
+          "manufacture — memproduksi barang pabrik / mengarang cerita",
+          "exaggerate — melebih-lebihkan secara tidak proporsional",
+          "speculate — berspekulasi tanpa bukti"
         ],
         "correctAnswerIndex": 0,
         "explanation": "The academic collocation is 'substantiate a hypothesis' (memperkuat/memvalidasi hipotesis dengan data empiris)."
@@ -9047,151 +9172,161 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "id": "q-en-es-1",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Write a formal 2-3 sentence opening inquiry email to a potential PhD supervisor regarding doctoral research supervision:",
-        "sampleAnswer": "Dear Professor [Surname],\n\nI hope this email finds you well. My name is [Full Name], and I recently completed my Master's degree in [Discipline] with distinction at [University]. Having closely followed your seminal publications on [Specific Research Topic], I am writing to inquire whether you might have capacity to accept a doctoral researcher under your supervision for the forthcoming academic year.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions. (ˈsɛldəm hæv ˌɪntəˈnæʃnəl ˌmækrəʊˌiːkəˈnɒmɪk ˈɪndɪkeɪtəz ʃəʊn sʌtʃ prəˈfaʊnd rɪˈzɪlɪəns əˈmɪdst ˈgləʊbl səˈplaɪ dɪsˈrʌpʃnz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.",
         "keywords": [
-          "Professor",
-          "publications",
-          "supervision",
-          "doctoral",
-          "inquire"
+          "jarang",
+          "sekali",
+          "indikator",
+          "ekonomi"
         ],
-        "explanation": "An inquiry email to an international professor must establish academic credentials, demonstrate familiarity with their research, and politely request supervision capacity."
+        "explanation": "Kalimat akademik pola Negative Inversion & Emphatic Fronting (Formal Rhetorical Emphasis): 'Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions.' diterjemahkan secara akurat menjadi 'Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.'."
       },
       {
         "id": "q-en-es-2",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Explain why informal contractions (don't, can't, won't) and conversational idioms are strictly prohibited in international peer-reviewed journals:",
-        "sampleAnswer": "Informal contractions and idioms are colloquial oral shortcuts that introduce ambiguity, reduce lexical precision, and breach the formal objectivity expected in academic discourse. In scientific writing, full verb forms (do not, cannot) ensure clarity for global multidisciplinary readers and maintain an impartial, rigorous academic tone.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation. (ði ˌækəˈdɛmɪk ˈɛθɪks kəˈmɪti ˌrɛkəˈmɛndɪd ðæt ðə prəˈfɛsəz rɪˈsɜːtʃ grɑːnt biː ˈtɛmpərərəli səˈspɛndɪd ˈpɛndɪŋ ˈθʌrə ɪnˌvɛstɪˈgeɪʃn.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.",
         "keywords": [
-          "contractions",
-          "colloquial",
-          "precision",
-          "formality",
-          "clarity"
+          "komite",
+          "etika",
+          "akademik",
+          "merekomendasikan"
         ],
-        "explanation": "Style guides such as APA, Chicago, and Oxford unequivocally ban informal contractions in published research."
+        "explanation": "Kalimat akademik pola The Subjunctive Mood in Formal Mandates & Nuanced Recommendations: 'The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation.' diterjemahkan secara akurat menjadi 'Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.'."
       },
       {
         "id": "q-en-es-3",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Formulate a concise Statement of Purpose (SOP) core motivation paragraph in 2-3 formal academic sentences:",
-        "sampleAnswer": "My desire to pursue graduate studies at [University Name] stems from a commitment to addressing systemic inefficiencies in [Field/Sector]. Your institution's cutting-edge research facilities and distinguished faculty in [Specialisation] provide the ideal intellectual environment for me to advance empirical inquiry. Ultimately, I aspire to translate these findings into evidence-based policy solutions upon returning to Indonesia.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes. (ðə ˈræpɪd prəˌlɪfəˈreɪʃn ɒv ˈdʒɛnərətɪv ˌɑːtɪˈfɪʃl ɪnˈtɛlɪdʒəns nɪˈsɛsɪteɪts ə ˌkɒmprɪˈhɛnsɪv ˌriːˌkælɪˈbreɪʃn ɒv ˌɪntɪˈlɛktʃʊəl ˈprɒpəti ˈstætjuːts.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.",
         "keywords": [
-          "commitment",
-          "empirical",
-          "intellectual",
-          "facilities",
-          "policy"
+          "penyebaran",
+          "pesat",
+          "kecerdasan",
+          "buatan"
         ],
-        "explanation": "A stellar SOP statement connects personal intellectual curiosity with institutional resources and future impact."
+        "explanation": "Kalimat akademik pola Nominalisation for Academic Conciseness & Dense Prose: 'The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes.' diterjemahkan secara akurat menjadi 'Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.'."
       },
       {
         "id": "q-en-es-4",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Explain the concept of 'Academic Hedging' and discuss why definitive claims like 'this data proves our model is 100% correct' are considered flawed in science:",
-        "sampleAnswer": "Academic hedging is the conscious use of cautious, non-absolutist epistemic language (e.g., 'suggests', 'tends to indicate', 'arguably') to present claims proportional to empirical evidence. In scientific inquiry, empirical findings rarely constitute absolute universal truth; over-generalisation ignores contextual variables and experimental limitations, whereas hedging demonstrates intellectual rigor and openness to scholarly critique.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement. (ðə ˌlɒŋgɪˈtjuːdɪnl ˈdeɪtəsɛt əˈpɪəz tuː ˈɪndɪkeɪt ə stəˈtɪstɪkli sɪgˈnɪfɪkənt ˌkɒrəˈleɪʃn bɪˈtwiːn ˈɜːli baɪˈlɪŋgwəlɪzm ænd ɪgˈzɛkjʊtɪv ˈfʌŋkʃn ɪnˈhɑːnsmənt.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.",
         "keywords": [
-          "hedging",
-          "epistemic",
-          "cautious",
-          "limitations",
-          "empirical"
+          "kumpulan",
+          "data",
+          "longitudinal",
+          "tersebut"
         ],
-        "explanation": "Hedging protects the researcher from dogmatic overstatement and reflects the probabilistic nature of scientific findings."
+        "explanation": "Kalimat akademik pola Academic Hedging & Nuanced Epistemic Stance: 'The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement.' diterjemahkan secara akurat menjadi 'Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.'."
       },
       {
         "id": "q-en-es-5",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Outline the four standard structural components of an academic paper abstract (IMRaD framework) and describe the function of each:",
-        "sampleAnswer": "1. Introduction/Background: Contextualises the epistemic gap and articulates the research question;\n2. Methods: Delineates the research design, data collection parameters, and analytical frameworks deployed;\n3. Results: Synthesises key empirical findings and statistical trends without interpretative clutter;\n4. Discussion/Conclusion: Evaluates theoretical implications, policy relevance, and avenues for future inquiry.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments. (ʃʊd ˈfɒrɪn ˈdɛlɪgɪts ɪkˈspɪərɪəns ˈɛni ˈʃɛdjuːlɪŋ ˈkɒnflɪkts, ðə liˈeɪzɒn ˈɒfɪs stændz ˈrɛdi tuː fəˈsɪlɪteɪt aɪˈtɪnərəri əˈdʒʌstmənts.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.",
         "keywords": [
-          "Introduction",
-          "Methods",
-          "Results",
-          "Discussion",
-          "abstract"
+          "sekiranya",
+          "delegasi",
+          "asing",
+          "mengalami"
         ],
-        "explanation": "The IMRaD framework is the universal architecture of scientific abstracts in Scopus and Web of Science indexed journals."
+        "explanation": "Kalimat akademik pola Inverted Conditionals without 'If' (Had, Were, Should): 'Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments.' diterjemahkan secara akurat menjadi 'Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.'."
       },
       {
         "id": "q-en-es-6",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Discuss the ethical ramifications of academic plagiarism and explain how proper secondary citation (e.g., APA/Harvard) safeguards intellectual integrity:",
-        "sampleAnswer": "Plagiarism constitutes intellectual theft that undermines the foundational trust of academia, risking paper retractions, expulsion, and irreversible reputational damage. Proper attribution through standardised citation frameworks (such as APA or Harvard) acknowledges intellectual lineage, enables peer verification, and delineates the author's novel contributions from pre-existing scholarship.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days. (pəˈsjuːənt tuː ðə prəˈvɪʒnz ˈstɪpjʊleɪtɪd ɪn ˈsɛkʃn fɔːr ɒv ði ɪmˈplɔɪmənt raɪts ækt, ˈsɛvərəns ˈpækɪdʒɪz mʌst biː dɪsˈbɜːst wɪˈðɪn ˈfɔːˈtiːn ˈbɪznɪs deɪz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.",
         "keywords": [
-          "plagiarism",
-          "integrity",
-          "citation",
-          "attribution",
-          "verification"
+          "sesuai",
+          "ketentuan",
+          "diatur",
+          "bagian"
         ],
-        "explanation": "Rigorous citation practices are the bedrock of scholarly accountability in global higher education."
+        "explanation": "Kalimat akademik pola Complex Prepositional Phrases & Formal Administrative Register: 'Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days.' diterjemahkan secara akurat menjadi 'Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.'."
       },
       {
         "id": "q-en-es-7",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Draft a formal email request asking for an extension on a term paper deadline due to unforeseen laboratory equipment delays:",
-        "sampleAnswer": "Dear Professor [Surname],\n\nI am writing to respectfully request a short extension on the submission deadline for the term paper in [Course Title], originally due on [Original Date]. Due to an unexpected technical recalibration of our laboratory's mass spectrometer, my empirical data extraction was unavoidably delayed by four days. I would be immensely grateful if I might be permitted to submit the final manuscript by [New Proposed Date], which will ensure the analysis meets the highest empirical standards.\n\nThank you very much for your understanding and consideration.\n\nSincerely,\n[Full Name]",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity. (ˈnaɪðə baɪ səˈprɛsɪŋ ˌækəˈdɛmɪk dɪˈsɛnʃn nɔː baɪ wɪðˈhəʊldɪŋ ˈkrɪtɪkl ˌɛvɪˈdɛnʃəri ˈɔːdɪts kæn ən ˌɪnstɪˈtjuːʃn ˈseɪfgɑːd ɪts ɪnˈdjʊərɪŋ ˌɪntɪˈlɛktʃʊəl ɪnˈtɛgrɪti.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.",
         "keywords": [
-          "extension",
-          "respectfully",
-          "unforeseen",
-          "submission",
-          "consideration"
+          "baik",
+          "cara",
+          "membungkam",
+          "perbedaan"
         ],
-        "explanation": "Deadline extension requests must be submitted well before the deadline, clearly state the legitimate academic cause, propose a realistic date, and maintain respectful deference."
+        "explanation": "Kalimat akademik pola Rhetorical Parallelism & Balanced Periodic Sentences: 'Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity.' diterjemahkan secara akurat menjadi 'Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.'."
       },
       {
         "id": "q-en-es-8",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Articulate your post-graduation career trajectory in a formal scholarship register (e.g., Chevening, Fulbright, or LPDP application):",
-        "sampleAnswer": "Upon completing my postgraduate degree, I plan to reintegrate into Indonesia's public research infrastructure, leading data-driven policy reforms in sustainable development. In the medium term, I envision establishing a collaborative research network between UK/US academic consortia and Southeast Asian institutions, fostering bilateral knowledge transfer and technological capacity building.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap. (ˈfɔːmɪdəbl ðəʊ ðə ˌdɪpləˈmætɪk ˈɒbstəklz əˈpɪəd, ðə ˈsʌmɪt ˌɪntəˈlɒkjʊtəz səkˈsiːdɪd ɪn ˈfɔːmjʊleɪtɪŋ ə prəˈvɪʒənl ˌdiːˌmɪlɪtəraɪˈzeɪʃn ˈrəʊdmæp.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.",
         "keywords": [
-          "postgraduate",
-          "trajectory",
-          "transfer",
-          "collaborative",
-          "capacity"
+          "betapapun",
+          "beratnya",
+          "rintangan",
+          "diplomatik"
         ],
-        "explanation": "Scholarship boards look for clear leadership vision and tangible plans to reinvest academic expertise into national development."
+        "explanation": "Kalimat akademik pola Stylistic Concession & Antithesis (Admittedly, Albeit, In Spite of): 'Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap.' diterjemahkan secara akurat menjadi 'Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.'."
       },
       {
         "id": "q-en-es-9",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Explain the methodological distinction between 'quantitative empirical analysis' and 'qualitative ethnographic inquiry':",
-        "sampleAnswer": "Quantitative empirical analysis relies on numerical data, statistical modeling, and inferential hypothesis testing to uncover generalisable probabilistic patterns across broad cohorts. In contrast, qualitative ethnographic inquiry utilises immersive observation, semi-structured interviews, and contextual textual analysis to elucidate nuanced human behaviors, cultural meanings, and lived experiences.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers. (ðə baɪˈlætərəl kəˈmjuːnɪkeɪ ˈnəʊtɪd ðæt ˈriːsnt krɒs-ˈbɔːdər ˈeəspeɪs ɪnˈkrəʊtʃmənts wɜː vjuːd wɪð greɪv kənˈsɜːn baɪ ˌɪntəˈnæʃnəl əbˈzɜːvəz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.",
         "keywords": [
-          "quantitative",
-          "qualitative",
-          "statistical",
-          "empirical",
-          "ethnographic"
+          "komunike",
+          "bilateral",
+          "tersebut",
+          "mencatat"
         ],
-        "explanation": "Understanding methodological epistemology is essential for selecting appropriate research designs and defending dissertations."
+        "explanation": "Kalimat akademik pola Nuanced Diplomatic Modals & Bureaucratic Prudence: 'The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers.' diterjemahkan secara akurat menjadi 'Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.'."
       },
       {
         "id": "q-en-es-10",
         "type": "essay",
         "sectionType": "essai",
-        "prompt": "Write a constructive, diplomatically worded response to a peer reviewer's critical critique challenging your paper's theoretical framework:",
-        "sampleAnswer": "We are deeply grateful to Reviewer 2 for this perceptive critique regarding our conceptual framework. While our initial model leaned heavily on classical econometric assumptions, we fully concede that integrating institutional contingency theory substantially enriches the explanatory power. Accordingly, we have thoroughly revised Section 2.3 and added supplementary robustness tests to address this valuable observation.",
+        "prompt": "Terjemahkan kalimat akademik berikut ke dalam Bahasa Indonesia:",
+        "targetSentence": "Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies. (ˌnɒtwɪθˈstændɪŋ ðə prəˌlɪfəˈreɪʃn ɒv ɪmˈpɪrɪkl ˈskɒləʃɪp əˈdrɛsɪŋ trænzˈnæʃnəl ˈkæpɪtl məʊˈbɪlɪti, sɪgˈnɪfɪkənt ləˈkjuːniː pəˈsɪst rɪˈgɑːdɪŋ ðə ˈsɒvrɪn dɛt ˌvʌlnərəˈbɪlɪti ɒv ɪˈmɜːdʒɪŋ ˈmɑːkɪt iːˈkɒnəmiz.)",
+        "audioVoiceLang": "en-US",
+        "sampleAnswer": "Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.",
         "keywords": [
-          "grateful",
-          "critique",
-          "concede",
-          "revised",
-          "robustness"
+          "meskipun",
+          "terjadi",
+          "pertumbuhan",
+          "pesat"
         ],
-        "explanation": "Responses to reviewers must remain courteous, receptive to constructive critique, and explicit about concrete revisions made."
+        "explanation": "Kalimat akademik pola C1 Capstone: Academic Research Paper Discursive Architecture & University Dissertation Prose: 'Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies.' diterjemahkan secara akurat menjadi 'Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.'."
       },
       {
         "id": "q-en-sk-1",
@@ -9199,10 +9334,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a grammatically coherent academic admissions instruction:",
         "scrambledWords": [
-          "prospective international scholars",
-          "are required to submit",
           "their authenticated transcripts",
-          "prior to the deadline"
+          "prior to the deadline",
+          "prospective international scholars",
+          "are required to submit"
         ],
         "correctOrder": [
           "prospective international scholars",
@@ -9220,10 +9355,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a formal empirical findings statement:",
         "scrambledWords": [
-          "the empirical findings indicate",
-          "a statistically significant correlation",
+          "and variable B",
           "between variable A",
-          "and variable B"
+          "a statistically significant correlation",
+          "the empirical findings indicate"
         ],
         "correctOrder": [
           "the empirical findings indicate",
@@ -9241,10 +9376,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a bioethics research compliance protocol sentence:",
         "scrambledWords": [
-          "all biomedical research protocols",
-          "must receive prior clearance",
+          "review board",
           "from the institutional",
-          "review board"
+          "must receive prior clearance",
+          "all biomedical research protocols"
         ],
         "correctOrder": [
           "all biomedical research protocols",
@@ -9262,10 +9397,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into an academic registrar course enrollment announcement:",
         "scrambledWords": [
-          "graduate students may register",
-          "for elective seminars",
           "through the central academic portal",
-          "starting next Monday"
+          "starting next Monday",
+          "graduate students may register",
+          "for elective seminars"
         ],
         "correctOrder": [
           "graduate students may register",
@@ -9283,10 +9418,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "sambung_kata",
         "prompt": "Reorder the scrambled phrases into a doctoral dissertation defense summary sentence:",
         "scrambledWords": [
-          "the doctoral candidate successfully defended",
-          "her dissertation on renewable energy",
+          "yesterday afternoon",
           "before the academic tribunal",
-          "yesterday afternoon"
+          "her dissertation on renewable energy",
+          "the doctoral candidate successfully defended"
         ],
         "correctOrder": [
           "the doctoral candidate successfully defended",
@@ -9306,12 +9441,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Applicants must submit a 1,000-word Statement of Purpose articulating their research motivations.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Surat pernyataan tujuan dan motivasi studi akademik pelamar",
           "Daftar riwayat hidup riwayat pekerjaan",
           "Kuitansi bukti pembayaran formulir pendaftaran",
-          "Surat keterangan catatan kepolisian"
+          "Surat keterangan catatan kepolisian",
+          "Surat pernyataan tujuan dan motivasi studi akademik pelamar"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Statement of Purpose (SOP) adalah esai akademik formal yang menguraikan latar belakang intelektual, tujuan riset, dan motivasi pelamar."
       },
       {
@@ -9338,12 +9473,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Three confidential Letters of Recommendation must be submitted directly by academic referees.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Surat rekomendasi rahasia dari dosen pembimbing atau akademisi rujukan",
           "Surat pengantar izin cuti kuliah",
+          "Surat rekomendasi rahasia dari dosen pembimbing atau akademisi rujukan",
           "Surat penagihan biaya asrama universitas",
           "Surat ucapan selamat ulang tahun dari rektor"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Letters of Recommendation (LoR) adalah surat penilaian kompetensi dari profesor rujukan pelamar."
       },
       {
@@ -9354,12 +9489,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "The candidate was awarded the PhD degree upon successfully passing the oral dissertation defense.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Sidang ujian lisan pertahanan disertasi doktoral di hadapan dewan penguji",
           "Lomba debat mahasiswa antar fakultas",
           "Upacara penyambutan mahasiswa baru",
+          "Sidang ujian lisan pertahanan disertasi doktoral di hadapan dewan penguji",
           "Pemeriksaan kesehatan fisik calon wisudawan"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Dissertation defense (atau Viva Voce di sistem Inggris) adalah sidang ujian lisan akhir untuk mempertahankan disertasi PhD."
       },
       {
@@ -9370,12 +9505,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Please review the course syllabus to ensure you have fulfilled all necessary prerequisites.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Silabus perkuliahan dan mata kuliah prasyarat",
           "Denah gedung kampus dan jadwal bus antar-jemput",
           "Daftar buku wajib di toko buku universitas",
-          "Jadwal ujian akhir semester dan libur musim panas"
+          "Jadwal ujian akhir semester dan libur musim panas",
+          "Silabus perkuliahan dan mata kuliah prasyarat"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Syllabus = rencana pembelajaran semester; Prerequisites = syarat kelulusan mata kuliah dasar sebelum mengambil mata kuliah lanjutan."
       },
       {
@@ -9402,12 +9537,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Manuscripts exceeding a 15% plagiarism similarity index on Turnitin will be automatically flagged for investigation.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Indeks persentase kemiripan teks / uji plagiarisme pada piranti lunak Turnitin",
           "Peringkat kelulusan sarjana berdasarkan nilai IPK",
+          "Indeks persentase kemiripan teks / uji plagiarisme pada piranti lunak Turnitin",
           "Jumlah kata yang diketik dalam satu halaman tugas",
           "Batas kecepatan internet di laboratorium komputer"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "Similarity index adalah skor persentase kesamaan teks dengan basis data internet dan karya ilmiah terdahulu."
       },
       {
@@ -9418,12 +9553,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Enrolling in a university with rigorous institutional accreditation ensures international degree recognition.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Akreditasi resmi mutu institusi pendidikan tinggi oleh badan evaluasi independen",
           "Pemberian bantuan dana riset dari alumni",
           "Pembangunan gedung laboratorium baru",
+          "Akreditasi resmi mutu institusi pendidikan tinggi oleh badan evaluasi independen",
           "Perekrutan dosen tamu dari industri teknologi"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Institutional accreditation adalah status legal penjaminan mutu sebuah perguruan tinggi di tingkat nasional/global."
       },
       {
@@ -9434,12 +9569,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "By deploying methodological triangulation, the study integrates quantitative surveys and qualitative interviews.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Triangulasi metodologis (penggabungan berbagai metode riset untuk memverifikasi keabsahan data)",
           "Pengukuran sudut geometri dalam pemetaan lahan",
           "Pemisahan tiga kelompok responden berdasarkan usia",
-          "Pembagian tiga bab utama dalam naskah skripsi"
+          "Pembagian tiga bab utama dalam naskah skripsi",
+          "Triangulasi metodologis (penggabungan berbagai metode riset untuk memverifikasi keabsahan data)"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "Methodological triangulation adalah teknik validasi ilmiah yang menggabungkan berbagai pendekatan metodologis (mixed-methods)."
       },
       {
@@ -9465,12 +9600,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Read the following academic syllabus excerpt:\n'Grading Policy: Final Proctored Exam (50%), Research Term Paper (30%), Seminar Participation (20%). Late submissions of the term paper incur a penalty of 5 percentage points per calendar day. Submissions delayed by more than 7 days will receive an automatic failing grade (0%).'\n\nWhat is the consequence if a student submits the research paper 8 days after the official deadline?",
         "audioVoiceLang": "en-US",
         "options": [
-          "The submission automatically receives a failing grade of zero percent (0%)",
           "The grade is docked by exactly 40 percentage points",
+          "The submission automatically receives a failing grade of zero percent (0%)",
           "The student is granted an oral re-examination",
           "The student must write an additional book review"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "The text explicitly states: 'Submissions delayed by more than 7 days will receive an automatic failing grade (0%).'"
       },
       {
@@ -9480,12 +9615,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Read the university library borrowing regulation:\n'Undergraduate students may borrow up to 10 standard monographs for 21 days, whereas postgraduate researchers are entitled to borrow 30 items for up to 90 days. Special collections, rare manuscripts, and course reserves are strictly non-circulating and may only be consulted within the designated reading room.'\n\nWhere may students consult rare manuscripts and course reserve materials?",
         "audioVoiceLang": "en-US",
         "options": [
-          "Exclusively within the designated library reading room (strictly non-circulating)",
           "They may be borrowed and taken home for 90 days",
           "In the campus dormitory cafeteria",
+          "Exclusively within the designated library reading room (strictly non-circulating)",
           "They can only be read online via smartphone"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "The policy specifies that rare manuscripts are 'strictly non-circulating and may only be consulted within the designated reading room.'"
       },
       {
@@ -9495,12 +9630,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Read the scholarship guidelines for international candidates:\n'To qualify for the Chevening/Fulbright Postgraduate Fellowship, applicants must possess a minimum of two years of substantive professional work experience (equivalent to at least 2,800 hours) and have completed an undergraduate degree with at least upper second-class honours (2:1). Meeting these thresholds does not guarantee shortlisting for the panel interview.'\n\nWhat are the dual baseline eligibility criteria specified in the text?",
         "audioVoiceLang": "en-US",
         "options": [
-          "At least 2 years (2,800 hours) of professional experience and an undergraduate degree of at least 2:1 honours",
           "A doctorate in economics and fluent bilingualism in four languages",
           "Five published papers in Scopus Q1 journals and ten recommendation letters",
-          "Full residency citizenship in the United Kingdom or United States"
+          "Full residency citizenship in the United Kingdom or United States",
+          "At least 2 years (2,800 hours) of professional experience and an undergraduate degree of at least 2:1 honours"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "The criteria are two years of work experience (2,800 hours) plus a 2:1 honours bachelor's degree."
       },
       {
@@ -9527,12 +9662,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Before commencing any procedures involving volatile organic compounds, ensure that the mechanical exhaust ventilation hood is fully operational and the sash is positioned at the marked safety line. In the event of an accidental solvent spill exceeding 500 millilitres, evacuate the room and activate the emergency spill protocol.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Verifying exhaust ventilation hood operation and evacuating if a solvent spill exceeds 500 mL",
           "Switching off all electrical equipment every hour to save energy",
+          "Verifying exhaust ventilation hood operation and evacuating if a solvent spill exceeds 500 mL",
           "Wearing headphones while conducting chemical synthesis experiments",
           "Cleaning laboratory glassware using standard tap water without soap"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "The audio dictates fume hood sash positioning and immediate evacuation if an organic chemical spill exceeds 500 mL."
       },
       {
@@ -9543,12 +9678,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "targetSentence": "Doctoral dissertations must be formatted strictly in accordance with university typography guidelines and uploaded to the institutional repository in PDF/A format by the first of November. Electronic submissions will undergo automated similarity analysis before distribution to the external examiners.",
         "audioVoiceLang": "en-US",
         "options": [
-          "Dissertations must adhere to typography guidelines, be uploaded in PDF/A format by Nov 1, and pass similarity analysis prior to external examination",
           "Hard copies of dissertations must be hand-bound in leather and submitted to the dean",
           "External examiners will conduct oral interviews before reviewing the written manuscript",
+          "Dissertations must adhere to typography guidelines, be uploaded in PDF/A format by Nov 1, and pass similarity analysis prior to external examination",
           "Dissertation deadlines are indefinitely postponed until next spring semester"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Key points: PDF/A format, Nov 1 deadline, institutional repository upload, and pre-examination similarity checks."
       },
       {
@@ -9558,12 +9693,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Select the formal discourse marker that introduces a logical consequence in academic prose:\n'The macroeconomic model failed to account for sudden capital flight; ______, its fiscal projections proved substantially inaccurate.'",
         "audioVoiceLang": "en-US",
         "options": [
-          "consequently (as a direct result)",
-          "conversely",
-          "nevertheless",
-          "notwithstanding"
+          "conversely — sebaliknya / di sisi lain",
+          "nevertheless — namun demikian / meskipun begitu",
+          "notwithstanding — terlepas dari / kendatipun",
+          "consequently (as a direct result) — akibatnya / oleh karena itu"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'Consequently' introduces a direct logical cause-and-effect relationship between the model's flaw and inaccurate projections."
       },
       {
@@ -9573,10 +9708,10 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Choose the correct academic passive modal construction for institutional policy:\n'In light of geopolitical volatility, it ______ to diversify institutional foreign exchange endowments.'",
         "audioVoiceLang": "en-US",
         "options": [
-          "is deemed advisable",
-          "is dreaming advisable",
-          "is deeming advisable",
-          "was deeming advice"
+          "is deemed advisable — dipandang bijaksana / dianjurkan secara institusional",
+          "is dreaming advisable — kesalahan leksikal (\"dreaming\" = bermimpi)",
+          "is deeming advisable — bentuk aktif progresif yang salah (seharusnya pasif \"is deemed\")",
+          "was deeming advice — kesalahan bentuk aktif dan kelas kata nomina"
         ],
         "correctAnswerIndex": 0,
         "explanation": "'It is deemed advisable' (dipandang bijaksana/dianjurkan) is the standard formal impersonal passive in administrative policy."
@@ -9588,12 +9723,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Identify the sentence that correctly deploys a participial clause without dangling modifier errors:",
         "audioVoiceLang": "en-US",
         "options": [
-          "Having analyzed the longitudinal panel data, the researchers observed a statistically robust divergence across cohorts.",
-          "Having analyzed the longitudinal panel data, a divergence across cohorts was observed by the computer.",
-          "Analyzing the longitudinal panel data, the computer crashed several times.",
-          "Having analyzed the longitudinal panel data, the hypothesis became much clearer to everybody."
+          "Having analyzed the longitudinal panel data, a divergence across cohorts was observed by the computer. — Dangling modifier (seolah-olah \"divergensi\" yang menganalisis data).",
+          "Having analyzed the longitudinal panel data, the researchers observed a statistically robust divergence across cohorts. — Setelah menganalisis data panel longitudinal, para peneliti mengamati divergensi signifikan (subjek klausa utama sesuai).",
+          "Analyzing the longitudinal panel data, the computer crashed several times. — Dangling modifier (seolah-olah \"komputer\" yang menjadi peneliti).",
+          "Having analyzed the longitudinal panel data, the hypothesis became much clearer to everybody. — Dangling modifier (seolah-olah \"hipotesis\" yang menganalisis data)."
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "In Option 1, the subject of the main clause ('the researchers') logically matches the agent of the participial phrase ('Having analyzed...'). In the others, the modifier dangles."
       },
       {
@@ -9602,12 +9737,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Which response represents the most professional stance when an interviewer questions a limitation in your proposed research methodology?",
         "options": [
-          "Acknowledge the limitation candidly, explain why that trade-off was methodologically necessary, and outline supplementary sensitivity tests to mitigate bias",
           "Deny that any limitation exists and accuse the interviewer of misinterpreting scientific principles",
           "Blame your master's thesis supervisor for forcing you to use that flawed methodology",
+          "Acknowledge the limitation candidly, explain why that trade-off was methodologically necessary, and outline supplementary sensitivity tests to mitigate bias",
           "Apologize profusely and offer to abandon the research proposal immediately"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Demonstrating awareness of methodological trade-offs (batasan metodologi) and outlining mitigation strategies reflects advanced academic maturity."
       },
       {
@@ -9616,12 +9751,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "In British and Commonwealth universities, what is the formal title and etiquette for addressing a faculty member who holds a doctorate but has not been promoted to a full professorial chair?",
         "options": [
-          "Dr. [Surname] (Doctor [Surname])",
           "Professor [Surname] (reserved strictly for full chair holders in UK conventions)",
           "Mr./Ms. [Surname]",
-          "Teacher [Surname]"
+          "Teacher [Surname]",
+          "Dr. [Surname] (Doctor [Surname])"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "In the UK/Commonwealth, 'Professor' is a formal rank held only by chairs; senior lecturers with a PhD are addressed as 'Dr. [Surname]'. 'Teacher' is never used."
       },
       {
@@ -9644,12 +9779,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "In Anglo-American university lab culture, what is the primary pedagogical purpose of a 'Journal Club' meeting?",
         "options": [
-          "Graduate researchers present and critically dissect peer-reviewed papers published by external research teams to stay abreast of scientific frontiers",
           "Students gather to write recreational poetry and short stories",
+          "Graduate researchers present and critically dissect peer-reviewed papers published by external research teams to stay abreast of scientific frontiers",
           "Faculty members read novels out loud for relaxation",
           "Administrative staff review university budget invoices"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "explanation": "A Journal Club is an essential seminar where lab members rigorously critique contemporary literature to sharpen analytical faculties."
       },
       {
@@ -9658,12 +9793,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "sectionType": "bebas",
         "prompt": "Under UK Student Visa (formerly Tier 4) and US F-1 Visa regulations, what is the statutory ceiling for employment hours permitted during term time?",
         "options": [
-          "A maximum of 20 hours per week during term time (with full-time employment permitted during official vacation periods)",
           "Unlimited hours provided the student maintains a 3.5 GPA",
           "Exactly 40 hours per week at all times",
+          "A maximum of 20 hours per week during term time (with full-time employment permitted during official vacation periods)",
           "No off-campus or on-campus work is ever permitted"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "explanation": "Both UK and US student visa frameworks enforce a strict cap of 20 hours per week during active academic terms."
       },
       {
@@ -9673,12 +9808,12 @@ export const ENGLISH_STUDY_TESTS: Record<string, StudyTargetTest> = {
         "prompt": "Which academic phrase best conveys that two variables are mutually dependent and cannot be disentangled?",
         "audioVoiceLang": "en-US",
         "options": [
-          "inextricably linked",
-          "totally separated",
-          "somewhat friends",
-          "vaguely beside each other"
+          "totally separated — terpisah sama sekali",
+          "somewhat friends — agak berteman (ungkapan informal tidak ilmiah)",
+          "vaguely beside each other — samar-samar bersebelahan (tidak akademis)",
+          "inextricably linked — terkait erat dan tidak dapat dipisahkan satu sama lain"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "explanation": "'Inextricably linked' (terkait erat dan tak terpisahkan) is an authentic academic collocation for codependent phenomena."
       }
     ]

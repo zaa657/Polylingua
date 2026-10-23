@@ -121,15 +121,26 @@ function QuestionView({ question, savedAnswer, onAnswerSubmit }: QuestionViewPro
       if (!question.correctOrder || reorderedWords.length === 0) return;
       isCorrect = JSON.stringify(reorderedWords) === JSON.stringify(question.correctOrder);
     } else if (question.type === 'essay') {
+      const normalizeText = (s: string) =>
+        s
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '')
+          .replace(/\b(aku|gua|gue)\b/g, 'saya')
+          .replace(/\b(kamu|kau|engkau)\b/g, 'anda')
+          .replace(/\b(tak|gak|nggak|enggak)\b/g, 'tidak')
+          .replace(/\b(murid|siswa|siswi)\b/g, 'pelajar')
+          .replace(/\b(pengajar|dosen)\b/g, 'guru');
       const trimmed = essayText.trim();
-      if (trimmed.length < 5) return;
+      if (trimmed.length < 2) return;
+      const normInput = normalizeText(trimmed);
       if (question.keywords && question.keywords.length > 0) {
         const matchCount = question.keywords.filter((kw) =>
-          trimmed.toLowerCase().includes(kw.toLowerCase())
+          normInput.includes(normalizeText(kw)) || trimmed.toLowerCase().includes(kw.toLowerCase())
         ).length;
-        isCorrect = matchCount >= Math.ceil(question.keywords.length / 2);
+        isCorrect = matchCount >= Math.max(1, Math.ceil(question.keywords.length / 2));
       } else {
-        isCorrect = trimmed.length >= 10;
+        isCorrect = trimmed.length >= 2;
       }
     }
 
@@ -187,7 +198,9 @@ function QuestionView({ question, savedAnswer, onAnswerSubmit }: QuestionViewPro
         {question.targetSentence && (
           <div className="p-3.5 bg-slate-50 border border-slate-200/90 rounded-2xl flex items-center justify-between gap-3">
             <span className="text-base md:text-lg font-medium text-slate-900">
-              {question.targetSentence}
+              {question.type === 'sentence_reorder' && !isAnswered
+                ? t('reorder_instructions')
+                : question.targetSentence}
             </span>
             {question.audioVoiceLang && (
               <AudioSpeaker
@@ -327,7 +340,7 @@ function QuestionView({ question, savedAnswer, onAnswerSubmit }: QuestionViewPro
 
           <div className="flex flex-wrap items-center justify-between text-xs text-slate-400 gap-2">
             <span>{t('char_length_label', { count: essayText.length })}</span>
-            {question.keywords && question.keywords.length > 0 && (
+            {isAnswered && question.keywords && question.keywords.length > 0 && (
               <span className="text-[11px] text-slate-500">
                 {t('recommended_keywords', { keywords: question.keywords.join(', ') })}
               </span>
@@ -393,7 +406,7 @@ function QuestionView({ question, savedAnswer, onAnswerSubmit }: QuestionViewPro
                 ? selectedOption === null
                 : question.type === 'sentence_reorder'
                 ? reorderedWords.length === 0
-                : essayText.trim().length < 5
+                : essayText.trim().length < 2
             }
             className="px-6 py-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 disabled:opacity-30 disabled:pointer-events-none text-white text-sm font-semibold transition-all shadow-sm cursor-pointer"
           >

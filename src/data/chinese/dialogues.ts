@@ -289,11 +289,11 @@ export const CHINESE_DIALOGUES: DialogueScenario[] = [
         speakerRole: 'Profesor Pembimbing',
         avatar: '👨‍🏫',
         nativeText: '很好，做科研要持之以恒。如果阅读中文专业文献遇到困难，随时来找我探讨。',
-        phoneticText: 'Hěn hǎo, zuò kěnyán yào chízhīyǐhéng. Rúguǒ yuèdú Zhōngwén zhuānyè wénxiàn yùdào kùnnan, suíshí lái zhǎo wǒ tàntǎo.',
+        phoneticText: 'Hěn hǎo, zuò kēyán yào chízhīyǐhéng. Rúguǒ yuèdú Zhōngwén zhuānyè wénxiàn yùdào kùnnan, suíshí lái zhǎo wǒ tàntǎo.',
         translationId: 'Bagus sekali, melakukan riset sains harus tekun pantang menyerah. Jika mengalami kesulitan saat membaca literatur ilmiah berbahasa Mandarin, datanglah ke saya kapan saja untuk berdiskusi.',
         audioVoiceLang: 'zh-CN',
         words: [
-          { word: '科研', phonetic: 'kěnyán', meaning: 'riset ilmiah' },
+          { word: '科研', phonetic: 'kēyán', meaning: 'riset ilmiah' },
           { word: '持之以恒', phonetic: 'chízhīyǐhéng', meaning: 'tekun dan konsisten (idiom)' },
           { word: '文献', phonetic: 'wénxiàn', meaning: 'literatur / dokumen referensi riset' },
           { word: '探讨', phonetic: 'tàntǎo', meaning: 'berdiskusi / membedah bersama' },
