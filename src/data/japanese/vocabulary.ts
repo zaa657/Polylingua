@@ -2845,5 +2845,905 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
       "n4",
       "syukur"
     ]
+  },
+  {
+    "id": "ja-voc-142",
+    "languageId": "japanese",
+    "word": "月曜日",
+    "reading": "げつようび",
+    "phonetic": "getsuyōbi",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "月曜日の朝に全校朝礼があります。",
+    "examplePhonetic": "Getsuyōbi no asa ni zenkō chōrei ga arimasu.",
+    "exampleTranslation": "Senin pagi ada upacara apel seluruh sekolah.",
+    "notes": "Diasosiasikan dengan kanji bulan (月).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-143",
+    "languageId": "japanese",
+    "word": "火曜日",
+    "reading": "かようび",
+    "phonetic": "kayōbi",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "火曜日は実験室で化学の授業を受けます。",
+    "examplePhonetic": "Kayōbi wa jikkenshitsu de kagaku no jugyō o ukemasu.",
+    "exampleTranslation": "Selasa kami mengikuti pelajaran kimia di laboratorium.",
+    "notes": "Diasosiasikan dengan elemen api (火).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-144",
+    "languageId": "japanese",
+    "word": "水曜日",
+    "reading": "すいようび",
+    "phonetic": "suiyōbi",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "水曜日の放課後は部活動に専念します。",
+    "examplePhonetic": "Suiyōbi no hōkago wa bukatudō ni sennen shimasu.",
+    "exampleTranslation": "Rabu sepulang sekolah kami berfokus pada kegiatan ekstrakurikuler klub.",
+    "notes": "Diasosiasikan dengan elemen air (水).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-145",
+    "languageId": "japanese",
+    "word": "木曜日",
+    "reading": "もくようび",
+    "phonetic": "mokuyōbi",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "木曜日の午後は教授との個別面談があります。",
+    "examplePhonetic": "Mokuyōbi no gogo wa kyōju to no kobetsu mendan ga arimasu.",
+    "exampleTranslation": "Kamis siang ada sesi konsultasi tatap muka dengan profesor.",
+    "notes": "Diasosiasikan dengan elemen kayu/pohon (木).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-146",
+    "languageId": "japanese",
+    "word": "金曜日",
+    "reading": "きんようび",
+    "phonetic": "kin'yōbi",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "金曜日は今週の課題の提出期限です。",
+    "examplePhonetic": "Kin'yōbi wa konshū no kadai no teishutsu kigen desu.",
+    "exampleTranslation": "Jumat adalah tenggat waktu pengumpulan tugas minggu ini.",
+    "notes": "Diasosiasikan dengan elemen logam/emas (金).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-147",
+    "languageId": "japanese",
+    "word": "土曜日",
+    "reading": "どようび",
+    "phonetic": "doyōbi",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "土曜日に図書館で資格試験の勉強をします。",
+    "examplePhonetic": "Doyōbi ni toshokan de shikaku shiken no benkyō o shimasu.",
+    "exampleTranslation": "Sabtu saya belajar untuk ujian sertifikasi di perpustakaan.",
+    "notes": "Diasosiasikan dengan elemen tanah/bumi (土).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-148",
+    "languageId": "japanese",
+    "word": "日曜日",
+    "reading": "にちようび",
+    "phonetic": "nichiyōbi",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "日曜日は大学のキャンパスが静かになります。",
+    "examplePhonetic": "Nichiyōbi wa daigaku no kyanpasu ga shizuka ni narimasu.",
+    "exampleTranslation": "Minggu kampus universitas menjadi sangat hening.",
+    "notes": "Diasosiasikan dengan kanji matahari/hari (日).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-149",
+    "languageId": "japanese",
+    "word": "時間割",
+    "reading": "じかんわり",
+    "phonetic": "jikanwari",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "新学期の時間割を確認して教科書を揃えます。",
+    "examplePhonetic": "Shingakki no jikanwari o kakunin shite kyōkasho o soroemasu.",
+    "exampleTranslation": "Memeriksa jadwal kuliah semester baru lalu menyiapkan buku teks.",
+    "notes": "Di tingkat perguruan tinggi sering disebut juga 履修計画 (rishū keikaku).",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-150",
+    "languageId": "japanese",
+    "word": "平日",
+    "reading": "へいじつ",
+    "phonetic": "heijitsu",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "学生相談室は平日の午前九時から開室しています。",
+    "examplePhonetic": "Gakusei sōdanshitsu wa heijitsu no gozen kuji kara kaishitsu shite imasu.",
+    "exampleTranslation": "Ruang konseling mahasiswa buka pada hari kerja mulai jam sembilan pagi.",
+    "notes": "Mengacu pada hari Senin sampai Jumat.",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ja-voc-151",
+    "languageId": "japanese",
+    "word": "週末",
+    "reading": "しゅうまつ",
+    "phonetic": "shūmatsu",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "週末にレポートの文献調査を済ませました。",
+    "examplePhonetic": "Shūmatsu ni repōto no bunken chōsa o sumasemashita.",
+    "exampleTranslation": "Saya menyelesaikan tinjauan pustaka untuk laporan saat akhir pekan.",
+    "notes": "Sabtu dan Minggu.",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-152",
+    "languageId": "japanese",
+    "word": "数学",
+    "reading": "すうがく",
+    "phonetic": "sūgaku",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "数学の微分積分の問題を解くのが好きです。",
+    "examplePhonetic": "Sūgaku no bibun sekibun no mondai o toku no ga suki desu.",
+    "exampleTranslation": "Saya suka menyelesaikan soal kalkulus diferensial dan integral dalam matematika.",
+    "notes": "Tingkat sekolah dasar biasanya disebut 算数 (sansū).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-153",
+    "languageId": "japanese",
+    "word": "物理",
+    "reading": "ぶつり",
+    "phonetic": "butsuri",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "物理の法則を実験を通じて深く理解しました。",
+    "examplePhonetic": "Butsuri no hōsoku o jikken o tsūjite fukaku rikai shimashita.",
+    "exampleTranslation": "Memahami hukum fisika secara mendalam melalui eksperimen.",
+    "notes": "Bentuk panjangnya adalah 物理学 (butsurigaku).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-154",
+    "languageId": "japanese",
+    "word": "化学",
+    "reading": "かがく",
+    "phonetic": "kagaku",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "化学の講義で分子構造と化学反応を学びます。",
+    "examplePhonetic": "Kagaku no kōgi de bunshi kōzō to kagaku hannō o manabimasu.",
+    "exampleTranslation": "Mempelajari struktur molekul dan reaksi kimia dalam kuliah kimia.",
+    "notes": "Sering diucapkan ばけがく (bakegaku) dalam percakapan lisan untuk membedakan dari 科学 (sains).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-155",
+    "languageId": "japanese",
+    "word": "生物",
+    "reading": "せいぶつ",
+    "phonetic": "seibutsu",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "生物の授業で遺伝子の働きについて考察しました。",
+    "examplePhonetic": "Seibutsu no jugyō de idenshi no hataraki ni tsuite kōsatsu shimashita.",
+    "exampleTranslation": "Menelaah cara kerja genetika pada mata pelajaran biologi.",
+    "notes": "Bentuk keilmuan akademis: 生物学 (seibutsugaku).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-156",
+    "languageId": "japanese",
+    "word": "歴史",
+    "reading": "れきし",
+    "phonetic": "rekishi",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "日本史と世界史の両方を高校で学びました。",
+    "examplePhonetic": "Nihonshi to sekaishi no ryōhō o kōkō de manabimashita.",
+    "exampleTranslation": "Mempelajari sejarah Jepang dan sejarah dunia di sekolah menengah atas.",
+    "notes": "Dipecah menjadi 日本史 (Nihonshi) dan 世界史 (Sekaishi).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-157",
+    "languageId": "japanese",
+    "word": "地理",
+    "reading": "ちり",
+    "phonetic": "chiri",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "地理の授業で世界各地の地形と気候を調べます。",
+    "examplePhonetic": "Chiri no jugyō de sekai kakuchi no chikei to kikō o shirabemasu.",
+    "exampleTranslation": "Meneliti kontur bentang alam dan iklim berbagai penjuru dunia dalam pelajaran geografi.",
+    "notes": "Bentuk bidang akademik: 地理学 (chirigaku).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-158",
+    "languageId": "japanese",
+    "word": "文学",
+    "reading": "ぶんがく",
+    "phonetic": "bungaku",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "日本古典文学の源氏物語を専門に研究しています。",
+    "examplePhonetic": "Nihon koten bungaku no Genji Monogatari o senmon ni kenkyū shite imasu.",
+    "exampleTranslation": "Meneliti karya sastra klasik Jepang Hikayat Genji sebagai spesialisasi.",
+    "notes": "Jurusan sastra di universitas dinamakan 文学部 (bungakubu).",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-159",
+    "languageId": "japanese",
+    "word": "情報科学",
+    "reading": "じょうほうかがく",
+    "phonetic": "jōhō kagaku",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "情報科学部でアルゴリズムと人工知能を専攻しています。",
+    "examplePhonetic": "Jōhō kagakubu de arugorizumu to jinkō chinō o senkō shite imasu.",
+    "exampleTranslation": "Mengambil spesialisasi algoritma dan kecerdasan buatan di fakultas ilmu komputer.",
+    "notes": "Sering juga disebut 情報工学 (jōhō kōgaku).",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-160",
+    "languageId": "japanese",
+    "word": "経済学",
+    "reading": "けいざいがく",
+    "phonetic": "keizaigaku",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "経済学の理論を実際の市場データに応用します。",
+    "examplePhonetic": "Keizaigaku no riron o jissai no shijō dēta ni ōyō shimasu.",
+    "exampleTranslation": "Menerapkan teori ilmu ekonomi ke dalam data pasar nyata.",
+    "notes": "Fakultas ekonomi disebut 経済学部 (keizaigakubu).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-161",
+    "languageId": "japanese",
+    "word": "哲学",
+    "reading": "てつがく",
+    "phonetic": "tetsugaku",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "JLPT N2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "西洋哲学の歴史を通して倫理観を深めます。",
+    "examplePhonetic": "Seiyō tetsugaku no rekishi o tōshite rinrikan o fukamemasu.",
+    "exampleTranslation": "Memperdalam wawasan etika moral melalui lintasan sejarah filsafat barat.",
+    "notes": "Kanji 哲 bermakna orang bijaksana / kearifan berpikir.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-162",
+    "languageId": "japanese",
+    "word": "美術",
+    "reading": "びじゅつ",
+    "phonetic": "bijutsu",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "美術の時間に水彩画の技法を習いました。",
+    "examplePhonetic": "Bijutsu no jikan ni suisaiga no gihō o naraimashita.",
+    "exampleTranslation": "Mempelajari teknik melukis cat air pada jam pelajaran seni rupa.",
+    "notes": "Universitas seni rupa dinamakan 美大 (bidai - kependekan dari 美術大学).",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-163",
+    "languageId": "japanese",
+    "word": "体育",
+    "reading": "たいいく",
+    "phonetic": "taiiku",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "体育の授業で持久走のタイムを測定しました。",
+    "examplePhonetic": "Taiiku no jugyō de jikyūsō no taimu o sokutei shimashita.",
+    "exampleTranslation": "Mengukur catatan waktu lari maraton ketahanan pada pelajaran olahraga.",
+    "notes": "Pakaian olahraga sekolah disebut 体育着 (taiikugi).",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-164",
+    "languageId": "japanese",
+    "word": "医学",
+    "reading": "いがく",
+    "phonetic": "igaku",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "医学部の学生は附属病院で臨床実習を行います。",
+    "examplePhonetic": "Igakubu no gakusei wa fuzoku byōin de rinshō jisshū o okonaimasu.",
+    "exampleTranslation": "Mahasiswa fakultas kedokteran menjalani praktik klinis di rumah sakit pendidikan kampus.",
+    "notes": "Masa studi jenjang sarjana kedokteran di Jepang adalah 6 tahun (6年制).",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-165",
+    "languageId": "japanese",
+    "word": "法学",
+    "reading": "ほうがく",
+    "phonetic": "hōgaku",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "法学部では民法や憲法などの基本六法を学びます。",
+    "examplePhonetic": "Hōgakubu dewa minpō ya kenpō nado no kihon roppō o manabimasu.",
+    "exampleTranslation": "Di fakultas hukum mempelajari enam kitab undang-undang dasar termasuk hukum perdata dan konstitusi.",
+    "notes": "Fakultas hukum: 法学部 (hōgakubu).",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-166",
+    "languageId": "japanese",
+    "word": "工学",
+    "reading": "こうがく",
+    "phonetic": "kōgaku",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "機械工学科で最先端のロボット工学を研究しています。",
+    "examplePhonetic": "Kikai kōgakka de saisentan no robotto kōgaku o kenkyū shite imasu.",
+    "exampleTranslation": "Meneliti rekayasa robotika mutakhir di departemen teknik mesin.",
+    "notes": "Fakultas teknik: 工学部 (kōgakubu).",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-167",
+    "languageId": "japanese",
+    "word": "教室",
+    "reading": "きょうしつ",
+    "phonetic": "kyōshitsu",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "授業が始まる五分前に教室に入ってください。",
+    "examplePhonetic": "Jugyō ga hajimaru gofun mae ni kyōshitsu ni haitte kudasai.",
+    "exampleTranslation": "Silakan masuk ke ruang kelas lima menit sebelum kuliah dimulai.",
+    "notes": "Di kampus besar untuk ruang kuliah auditorium disebut juga 講義室 (kōgishitsu).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-168",
+    "languageId": "japanese",
+    "word": "図書館",
+    "reading": "としょかん",
+    "phonetic": "toshokan",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "大学の総合図書館には膨大な学術論文が所蔵されています。",
+    "examplePhonetic": "Daigaku no sōgō toshokan niwa bōdai na gakujutsu ronbun ga shozō sarete imasu.",
+    "exampleTranslation": "Perpustakaan pusat universitas menyimpan koleksi tesis artikel ilmiah yang sangat melimpah.",
+    "notes": "Sering dilengkapi ruang belajar tenang (自習室 - jishūshitsu).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-169",
+    "languageId": "japanese",
+    "word": "実験室",
+    "reading": "じっけんしつ",
+    "phonetic": "jikkenshitsu",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "実験室では白衣と安全ゴーグルの着用が義務付けられています。",
+    "examplePhonetic": "Jikkenshitsu dewa hakui to anzen gōguru no chakuyō ga gimudzukerarete imasu.",
+    "exampleTranslation": "Di laboratorium diwajibkan memakai jas lab putih dan kacamata keselamatan kerja.",
+    "notes": "Untuk laboratorium riset profesor sering disebut 研究室 (kenkyūshitsu).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-170",
+    "languageId": "japanese",
+    "word": "講堂",
+    "reading": "こうどう",
+    "phonetic": "kōdō",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "大学の大講堂でノーベル賞受賞者の特別講演会が開催された。",
+    "examplePhonetic": "Daigaku no daikōdō de Nōberushō jushōsha no tokubetsu kōenkai ga kaisai sareta.",
+    "exampleTranslation": "Kuliah umum istimewa pemenang Hadiah Nobel diselenggarakan di aula besar universitas.",
+    "notes": "Untuk auditorium kuliah bertingkat disebut 大講義室 (daikōgishitsu).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-171",
+    "languageId": "japanese",
+    "word": "職員室",
+    "reading": "しょくいんしつ",
+    "phonetic": "shokuinshitsu",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "質問があるときは職員室の担当教員のデスクに行きます。",
+    "examplePhonetic": "Shitsumon ga aru toki wa shokuinshitsu no tantō kyōin no desuku ni ikimasu.",
+    "exampleTranslation": "Bila ada pertanyaan saya pergi ke meja dosen penanggung jawab di ruang pengajar.",
+    "notes": "Di sekolah SD/SMP/SMA disebut 職員室, di universitas biasanya tiap dosen punya 研究室.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-172",
+    "languageId": "japanese",
+    "word": "校長室",
+    "reading": "こうちょうしつ",
+    "phonetic": "kōchōshitsu",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "留学生代表が校長室に招かれて表彰を受けました。",
+    "examplePhonetic": "Ryūgakusei daihyō ga kōchōshitsu ni manakarete hyōshō o ukemashita.",
+    "exampleTranslation": "Perwakilan mahasiswa asing diundang ke ruang pimpinan untuk menerima piagam penghargaan.",
+    "notes": "Di universitas disebut 学長室 (gakuchōshitsu).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-173",
+    "languageId": "japanese",
+    "word": "学食",
+    "reading": "がくしょく",
+    "phonetic": "gakushoku",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "お昼休みは学食で日替わり定食を食べます。",
+    "examplePhonetic": "Ohiruyasumi wa gakushoku de higawari teishoku o tabemasu.",
+    "exampleTranslation": "Saat istirahat siang kami makan paket menu harian di kantin kampus.",
+    "notes": "Kependekan populer dari 学生食堂 (gakusei shokudō).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-174",
+    "languageId": "japanese",
+    "word": "体育館",
+    "reading": "たいいくかん",
+    "phonetic": "taiikukan",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "雨の日の運動は体育館のバスケットボールコートで行います。",
+    "examplePhonetic": "Ame no hi no undō wa taiikukan no basukettobōru kōto de okonaimasu.",
+    "exampleTranslation": "Kegiatan olahraga saat hari hujan dilakukan di lapangan basket gedung olahraga.",
+    "notes": "Fasilitas wajib di seluruh institusi pendidikan Jepang.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-175",
+    "languageId": "japanese",
+    "word": "学生寮",
+    "reading": "がくせいりょう",
+    "phonetic": "gakuseiryō",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "国際学生寮に住むことで多文化交流が深まります。",
+    "examplePhonetic": "Kokusai gakuseiryō ni sumu koto de tabunka kōryū ga fukamarimasu.",
+    "exampleTranslation": "Tinggal di asrama mahasiswa internasional mempererat pertukaran budaya.",
+    "notes": "Sering disingkat 寮 (ryō).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-176",
+    "languageId": "japanese",
+    "word": "保健室",
+    "reading": "ほけんしつ",
+    "phonetic": "hokenshitsu",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "熱が出たので授業を抜けて保健室で休みました。",
+    "examplePhonetic": "Netsu ga deta node jugyō o nukete hokenshitsu de yasumimashita.",
+    "exampleTranslation": "Karena demam, saya pamit dari kelas untuk beristirahat di ruang UKS.",
+    "notes": "Di universitas sering dinamakan 保健センター (Hoken Sentā).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-177",
+    "languageId": "japanese",
+    "word": "パソコン室",
+    "reading": "ぱそこんしつ",
+    "phonetic": "pasokonshitsu",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "パソコン室の端末を使ってオンライン課題を提出する。",
+    "examplePhonetic": "Pasokonshitsu no tanmatsu o tsukatte onrain kadai o teishutsu suru.",
+    "exampleTranslation": "Menggunakan komputer di lab komputer untuk mengumpulkan tugas daring.",
+    "notes": "Juga disebut 情報処理室 (jōhō shorishitsu).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-178",
+    "languageId": "japanese",
+    "word": "事務室",
+    "reading": "じむしつ",
+    "phonetic": "jimushitsu",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "在学証明書の発行手続きのために教務事務室に行きました。",
+    "examplePhonetic": "Zaigaku shōmeisho no hakkō tetsuduki no tame ni kyōmu jimushitsu ni ikimashita.",
+    "exampleTranslation": "Pergi ke bagian tata usaha akademik untuk mengurus penerbitan surat keterangan mahasiswa aktif.",
+    "notes": "Di universitas bagian akademik disebut 教務課 (kyōmuka) atau 学生支援課 (gakusei shienka).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-179",
+    "languageId": "japanese",
+    "word": "教科書",
+    "reading": "きょうかしょ",
+    "phonetic": "kyōkasho",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "教科書を開いて第三章の長文を声に出して読みましょう。",
+    "examplePhonetic": "Kyōkasho o hiraite daisanshō no chōbun o koe ni dashite yomimashō.",
+    "exampleTranslation": "Mari buka buku teks dan baca lantang teks panjang pada bab tiga.",
+    "notes": "Di perguruan tinggi sering disebut テキスト (tekisuto).",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-180",
+    "languageId": "japanese",
+    "word": "黒板",
+    "reading": "こくばん",
+    "phonetic": "kokuban",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "先生が黒板に書いた重要な要点をノートに写しました。",
+    "examplePhonetic": "Sensei ga kokuban ni kaita jūyō na yōten o nōto ni utsushimashita.",
+    "exampleTranslation": "Saya menyalin poin-poin penting yang ditulis guru di papan tulis ke buku catatan.",
+    "notes": "Papan tulis spidol putih disebut ホワイトボード (howaitobōdo).",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-181",
+    "languageId": "japanese",
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "phonetic": "shukudai",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "毎日の宿題をしっかりこなすことが語学上達の近道です。",
+    "examplePhonetic": "Mainichi no shukudai o shikkari konasu koto ga gogaku jōtatsu no chikamichi desu.",
+    "exampleTranslation": "Mengerjakan PR harian dengan tekun adalah jalan tercepat menguasai bahasa.",
+    "notes": "Di universitas tugas laporan ilmiah biasanya disebut 課題 (kadai) atau レポート (repōto).",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-182",
+    "languageId": "japanese",
+    "word": "試験",
+    "reading": "しけん",
+    "phonetic": "shiken",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "JLPT N5",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "期末試験で全科目合格できるように計画的に勉強する。",
+    "examplePhonetic": "Kimatsu shiken de zenkamoku gōkaku dekiru yō ni keikakuteki ni benkyō suru.",
+    "exampleTranslation": "Belajar secara terencana agar dapat lulus seluruh mata kuliah pada ujian akhir semester.",
+    "notes": "Juga lazim disebut テスト (tesuto).",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-183",
+    "languageId": "japanese",
+    "word": "制服",
+    "reading": "せいふく",
+    "phonetic": "seifuku",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "日本の学校の制服にはセーラー服やブレザーがあります。",
+    "examplePhonetic": "Nihon no gakkō no seifuku niwa sērāfuku ya burezā ga arimasu.",
+    "exampleTranslation": "Seragam sekolah Jepang meliputi seragam pelaut sailor dan setelan jas blazer.",
+    "notes": "Simbol kedisiplinan dan identitas kebanggaan sekolah di Jepang.",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-184",
+    "languageId": "japanese",
+    "word": "学生証",
+    "reading": "がくせいしょう",
+    "phonetic": "gakuseishō",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "学生証を提示すれば通学定期券を学割料金で購入できます。",
+    "examplePhonetic": "Gakuseishō o teiji sureba tsūgaku teikiken o gakuwari ryōkin de kōnyū dekimasu.",
+    "exampleTranslation": "Dengan menunjukkan kartu mahasiswa dapat membeli tiket langganan transportasi tarif diskon pelajar.",
+    "notes": "Wajib dibawa untuk akses perpustakaan dan fasilitas kampus.",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ja-voc-185",
+    "languageId": "japanese",
+    "word": "奨学金",
+    "reading": "しょうがくきん",
+    "phonetic": "shōgakukin",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "JLPT N3",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "文部科学省の国費奨学金に採用されて日本へ留学した。",
+    "examplePhonetic": "Monbukagakushō no kokuhi shōgakukin ni saiyō sarete Nihon e ryūgaku shita.",
+    "exampleTranslation": "Diterima dalam beasiswa pemerintah MEXT Jepang lalu berangkat studi ke Jepang.",
+    "notes": "Beasiswa prestasi tanpa kewajiban pengembalian disebut 給付型奨学金 (kyūfugata shōgakukin).",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ja-voc-186",
+    "languageId": "japanese",
+    "word": "卒業式",
+    "reading": "そつぎょうしき",
+    "phonetic": "sotsugyōshiki",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "JLPT N4",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "春の卒業式で学長から学位記を授与されました。",
+    "examplePhonetic": "Haru no sotsugyōshiki de gakuchō kara gakuiki o juyo saremashita.",
+    "exampleTranslation": "Dianugerahi ijazah gelar kelulusan langsung oleh rektor pada upacara wisuda musim semi.",
+    "notes": "Di Jepang upacara wisuda umumnya berlangsung pada bulan Maret.",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

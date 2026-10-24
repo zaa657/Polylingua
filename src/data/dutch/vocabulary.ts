@@ -2679,5 +2679,860 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
       "c1",
       "dutch"
     ]
+  },
+  {
+    "id": "nl-voc-142",
+    "languageId": "dutch",
+    "word": "Maandag",
+    "phonetic": "maːndɑx",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Op maandagochtend hebben we twee uur wiskunde.",
+    "examplePhonetic": "Op maandagochtend hebben we twee uur wiskunde.",
+    "exampleTranslation": "Pada Senin pagi, kami ada dua jam pelajaran matematika.",
+    "notes": "Hari Senin.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-143",
+    "languageId": "dutch",
+    "word": "Dinsdag",
+    "phonetic": "dɪnsdɑx",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Elke dinsdagmiddag is er een werkgroep sociologie.",
+    "examplePhonetic": "Elke dinsdagmiddag is er een werkgroep sociologie.",
+    "exampleTranslation": "Setiap Selasa siang ada kelompok belajar sosiologi.",
+    "notes": "Hari Selasa.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-144",
+    "languageId": "dutch",
+    "word": "Woensdag",
+    "phonetic": "vunsdɑx",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Op woensdag zijn de lessen om halftwee al afgelopen.",
+    "examplePhonetic": "Op woensdag zijn de lessen om halftwee al afgelopen.",
+    "exampleTranslation": "Pada hari Rabu pelajaran sudah selesai pada pukul setengah dua.",
+    "notes": "Hari Rabu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-145",
+    "languageId": "dutch",
+    "word": "Donderdag",
+    "phonetic": "dɔndərdɑx",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "We hebben aanstaande donderdag een tussentijdse toets geschiedenis.",
+    "examplePhonetic": "We hebben aanstaande donderdag een tussentijdse toets geschiedenis.",
+    "exampleTranslation": "Kami ada ujian tengah semester sejarah hari Kamis mendatang.",
+    "notes": "Hari Kamis.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-146",
+    "languageId": "dutch",
+    "word": "Vrijdag",
+    "phonetic": "vrɛidɑx",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Vrijdag is de laatste collegedag van deze lesweek.",
+    "examplePhonetic": "Vrijdag is de laatste collegedag van deze lesweek.",
+    "exampleTranslation": "Jumat adalah hari perkuliahan terakhir dalam pekan kuliah ini.",
+    "notes": "Hari Jumat.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-147",
+    "languageId": "dutch",
+    "word": "Zaterdag",
+    "phonetic": "zaːtərdɑx",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Op zaterdag is de universiteitsbibliotheek geopend tot vijf uur.",
+    "examplePhonetic": "Op zaterdag is de universiteitsbibliotheek geopend tot vijf uur.",
+    "exampleTranslation": "Pada hari Sabtu perpustakaan universitas buka hingga pukul lima.",
+    "notes": "Hari Sabtu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-148",
+    "languageId": "dutch",
+    "word": "Zondag",
+    "phonetic": "zɔndɑx",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Zondag is een rustdag voor alle scholieren en studenten.",
+    "examplePhonetic": "Zondag is een rustdag voor alle scholieren en studenten.",
+    "exampleTranslation": "Hari Minggu adalah hari istirahat bagi semua siswa dan mahasiswa.",
+    "notes": "Hari Minggu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-149",
+    "languageId": "dutch",
+    "word": "Lesrooster",
+    "phonetic": "lɛsroːstər",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Het nieuwe lesrooster staat sinds vanochtend op de studentenportal.",
+    "examplePhonetic": "Het nieuwe lesrooster staat sinds vanochtend op de studentenportal.",
+    "exampleTranslation": "Jadwal pelajaran/kuliah baru sudah ada di portal mahasiswa sejak tadi pagi.",
+    "notes": "Jadwal pelajaran atau jadwal kuliah (rooster).",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-150",
+    "languageId": "dutch",
+    "word": "Schooldag",
+    "phonetic": "sxoːldɑx",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Een normale schooldag begint om halfnegen 's ochtends.",
+    "examplePhonetic": "Een normale schooldag begint om halfnegen 's ochtends.",
+    "exampleTranslation": "Hari sekolah biasa dimulai pada pukul setengah sembilan pagi.",
+    "notes": "Hari sekolah atau hari kerja (werkdag).",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "nl-voc-151",
+    "languageId": "dutch",
+    "word": "Weekend",
+    "phonetic": "vikeːnt",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "In het weekend bestuderen we de leerstof voor het tentamen.",
+    "examplePhonetic": "In het weekend bestuderen we de leerstof voor het tentamen.",
+    "exampleTranslation": "Di akhir pekan kami mempelajari materi untuk ujian.",
+    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-152",
+    "languageId": "dutch",
+    "word": "Wiskunde",
+    "phonetic": "ʋɪskʏndə",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Wiskunde is een verplicht vak op de middelbare school.",
+    "examplePhonetic": "Wiskunde is een verplicht vak op de middelbare school.",
+    "exampleTranslation": "Matematika adalah mata pelajaran wajib di sekolah menengah.",
+    "notes": "Mata pelajaran matematika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-153",
+    "languageId": "dutch",
+    "word": "Natuurkunde",
+    "phonetic": "naːtyːrkʏndə",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Bij natuurkunde doen we praktische proeven over zwaartekracht.",
+    "examplePhonetic": "Bij natuurkunde doen we praktische proeven over zwaartekracht.",
+    "exampleTranslation": "Dalam fisika kami melakukan eksperimen praktis tentang gravitasi.",
+    "notes": "Mata pelajaran fisika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-154",
+    "languageId": "dutch",
+    "word": "Scheikunde",
+    "phonetic": "sxɛikʏndə",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Tijdens de scheikundeles moeten alle leerlingen een veiligheidsbril dragen.",
+    "examplePhonetic": "Tijdens de scheikundeles moeten alle leerlingen een veiligheidsbril dragen.",
+    "exampleTranslation": "Selama pelajaran kimia semua siswa harus memakai kacamata pelindung.",
+    "notes": "Mata pelajaran kimia.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-155",
+    "languageId": "dutch",
+    "word": "Biologie",
+    "phonetic": "biːoːloːxi",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Biologie leert ons over de evolutie en het menselijk lichaam.",
+    "examplePhonetic": "Biologie leert ons over de evolutie en het menselijk lichaam.",
+    "exampleTranslation": "Biologi mengajarkan kita tentang evolusi dan tubuh manusia.",
+    "notes": "Mata pelajaran biologi.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-156",
+    "languageId": "dutch",
+    "word": "Geschiedenis",
+    "phonetic": "xəsxiːdənɪs",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Geschiedenis geeft inzicht in de oorsprong van de moderne samenleving.",
+    "examplePhonetic": "Geschiedenis geeft inzicht in de oorsprong van de moderne samenleving.",
+    "exampleTranslation": "Sejarah memberikan pemahaman tentang asal-usul masyarakat modern.",
+    "notes": "Mata pelajaran sejarah.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-157",
+    "languageId": "dutch",
+    "word": "Aardrijkskunde",
+    "phonetic": "aːrdrɛikskʏndə",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "We gebruiken de atlas tijdens de les aardrijkskunde.",
+    "examplePhonetic": "We gebruiken de atlas tijdens de les aardrijkskunde.",
+    "exampleTranslation": "Kami menggunakan atlas saat pelajaran geografi.",
+    "notes": "Mata pelajaran geografi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-158",
+    "languageId": "dutch",
+    "word": "Letterkunde",
+    "phonetic": "lɛtərkʏndə",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Nederlandse letterkunde omvat klassieke romans en moderne poëzie.",
+    "examplePhonetic": "Nederlandse letterkunde omvat klassieke romans en moderne poëzie.",
+    "exampleTranslation": "Sastra Belanda mencakup novel klasik dan puisi modern.",
+    "notes": "Sastra dan literatur (literatuur).",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-159",
+    "languageId": "dutch",
+    "word": "Informatica",
+    "phonetic": "ɪnfɔrmaːtikaː",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Informatica bereidt studenten voor op functies in softwareontwikkeling.",
+    "examplePhonetic": "Informatica bereidt studenten voor op functies in softwareontwikkeling.",
+    "exampleTranslation": "Informatika mempersiapkan mahasiswa untuk berkarier di pengembangan perangkat lunak.",
+    "notes": "Ilmu komputer / informatika.",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-160",
+    "languageId": "dutch",
+    "word": "Economie",
+    "phonetic": "eːkoːnoːmi",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "De faculteit economie onderzoekt wereldwijde handelsstromen.",
+    "examplePhonetic": "De faculteit economie onderzoekt wereldwijde handelsstromen.",
+    "exampleTranslation": "Fakultas ekonomi meneliti arus perdagangan dunia.",
+    "notes": "Ilmu ekonomi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-161",
+    "languageId": "dutch",
+    "word": "Filosofie",
+    "phonetic": "fiːloːzoːfi",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Filosofie stimuleert kritisch en logisch nadenken over ethische vraagstukken.",
+    "examplePhonetic": "Filosofie stimuleert kritisch en logisch nadenken over ethische vraagstukken.",
+    "exampleTranslation": "Filsafat merangsang pemikiran kritis dan logis tentang isu etika.",
+    "notes": "Filsafat.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-162",
+    "languageId": "dutch",
+    "word": "Beeldende kunst",
+    "phonetic": "beːldəndə kʏnst",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "In de les beeldende kunst leren scholieren schilderen en beeldhouwen.",
+    "examplePhonetic": "In de les beeldende kunst leren scholieren schilderen en beeldhouwen.",
+    "exampleTranslation": "Dalam pelajaran seni rupa para siswa belajar melukis dan memahat.",
+    "notes": "Seni rupa dan seni visual.",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-163",
+    "languageId": "dutch",
+    "word": "Lichamelijke opvoeding",
+    "phonetic": "lɪxaːməlɛikə ɔpvuːdɪŋ",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Bij lichamelijke opvoeding spelen we zaalvoetbal in de sporthal.",
+    "examplePhonetic": "Bij lichamelijke opvoeding spelen we zaalvoetbal in de sporthal.",
+    "exampleTranslation": "Dalam penjasorkes kami bermain futsal di aula olahraga.",
+    "notes": "Pendidikan jasmani dan olahraga (sering disingkat LO atau gym).",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-164",
+    "languageId": "dutch",
+    "word": "Geneeskunde",
+    "phonetic": "xəneːskʏndə",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "De toelating tot de studie geneeskunde verloopt via een strenge selectie.",
+    "examplePhonetic": "De toelating tot de studie geneeskunde verloopt via een strenge selectie.",
+    "exampleTranslation": "Penerimaan program studi kedokteran berlangsung melalui seleksi yang ketat.",
+    "notes": "Ilmu kedokteran.",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-165",
+    "languageId": "dutch",
+    "word": "Rechten",
+    "phonetic": "rɛxtən",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Studenten rechten bestuderen het burgerlijk wetboek en strafrecht.",
+    "examplePhonetic": "Studenten rechten bestuderen het burgerlijk wetboek en strafrecht.",
+    "exampleTranslation": "Mahasiswa hukum mempelajari kitab undang-undang hukum perdata dan pidana.",
+    "notes": "Ilmu hukum (rechtsgeleerdheid).",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-166",
+    "languageId": "dutch",
+    "word": "Ingenieurswetenschappen",
+    "phonetic": "ɪnʒeːnjøːrsʋeːtənsxɑpən",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Aan de Technische Universiteit studeert hij ingenieurswetenschappen.",
+    "examplePhonetic": "Aan de Technische Universiteit studeert hij ingenieurswetenschappen.",
+    "exampleTranslation": "Di universitas teknik ia mempelajari ilmu teknik dan rekayasa.",
+    "notes": "Teknik dan rekayasa (bouwkunde / techniek).",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-167",
+    "languageId": "dutch",
+    "word": "Klaslokaal",
+    "phonetic": "klɑsloːkaːl",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "De docent wacht op de leerlingen in het klaslokaal.",
+    "examplePhonetic": "De docent wacht op de leerlingen in het klaslokaal.",
+    "exampleTranslation": "Guru menunggu para siswa di dalam ruang kelas.",
+    "notes": "Ruang kelas (lokaal).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-168",
+    "languageId": "dutch",
+    "word": "Bibliotheek",
+    "phonetic": "biːbliːoːteːk",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Veel studenten studeren in stilte in de universiteitsbibliotheek.",
+    "examplePhonetic": "Veel studenten studeren in stilte in de universiteitsbibliotheek.",
+    "exampleTranslation": "Banyak mahasiswa belajar dalam keheningan di perpustakaan universitas.",
+    "notes": "Perpustakaan (sering disingkat UB).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-169",
+    "languageId": "dutch",
+    "word": "Laboratorium",
+    "phonetic": "laːboːraːtoːriːʏm",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "In het laboratorium voeren onderzoekers geavanceerde experimenten uit.",
+    "examplePhonetic": "In het laboratorium voeren onderzoekers geavanceerde experimenten uit.",
+    "exampleTranslation": "Di laboratorium para peneliti melakukan percobaan lanjutan.",
+    "notes": "Laboratorium sains (lab).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-170",
+    "languageId": "dutch",
+    "word": "Collegezaal",
+    "phonetic": "kɔleːʒəzaːl",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Het openingscollege vindt plaats in de grote collegezaal van het hoofdgebouw.",
+    "examplePhonetic": "Het openingscollege vindt plaats in de grote collegezaal van het hoofdgebouw.",
+    "exampleTranslation": "Kuliah perdana diselenggarakan di auditorium / aula besar gedung utama.",
+    "notes": "Auditorium kuliah / aula besar (aula).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-171",
+    "languageId": "dutch",
+    "word": "Docentenkamer",
+    "phonetic": "doːsɛntənkaːmər",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Tijdens de pauze drinken de docenten koffie in de docentenkamer.",
+    "examplePhonetic": "Tijdens de pauze drinken de docenten koffie in de docentenkamer.",
+    "exampleTranslation": "Saat istirahat para guru minum kopi di ruang guru.",
+    "notes": "Ruang guru sekolah / ruang dosen (lerarenkamer).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-172",
+    "languageId": "dutch",
+    "word": "Rectorat",
+    "phonetic": "rɛktoːraːt",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "De directiekamer en het rectoraat bevinden zich op de derde verdieping.",
+    "examplePhonetic": "De directiekamer en het rectoraat bevinden zich op de derde verdieping.",
+    "exampleTranslation": "Ruang kepala sekolah dan rektorat terletak di lantai tiga.",
+    "notes": "Ruang rektor / biro rektorat kampus atau kepala sekolah.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-173",
+    "languageId": "dutch",
+    "word": "Kantine",
+    "phonetic": "kɑntiːnə",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "We lunchen tussen de middag gezellig in de schoolkantine.",
+    "examplePhonetic": "We lunchen tussen de middag gezellig in de schoolkantine.",
+    "exampleTranslation": "Kami makan siang dengan menyenangkan di kantin sekolah.",
+    "notes": "Kantin / kafetaria kampus (mensa).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-174",
+    "languageId": "dutch",
+    "word": "Sporthal",
+    "phonetic": "spɔrthɑl",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "De volleybalwedstrijd wordt gespeeld in de overdekte sporthal.",
+    "examplePhonetic": "De volleybalwedstrijd wordt gespeeld in de overdekte sporthal.",
+    "exampleTranslation": "Pertandingan bola voli dimainkan di gedung olahraga/sporthal tertutup.",
+    "notes": "Gimnasium / gedung sarana olahraga (gymzaal).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-175",
+    "languageId": "dutch",
+    "word": "Studentenhuis",
+    "phonetic": "styːdɛntənhœys",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Zij huurt een kamer in een gezellig studentenhuis vlak bij de campus.",
+    "examplePhonetic": "Zij huurt een kamer in een gezellig studentenhuis vlak bij de campus.",
+    "exampleTranslation": "Dia menyewa kamar di asrama/rumah mahasiswa dekat kampus.",
+    "notes": "Asrama mahasiswa / tempat tinggal bersama mahasiswa.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-176",
+    "languageId": "dutch",
+    "word": "EHBO-post",
+    "phonetic": "eːhaːbeːoː pɔst",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Bij lichte verwondingen ga je direct naar de EHBO-post op school.",
+    "examplePhonetic": "Bij lichte verwondingen ga je direct naar de EHBO-post op school.",
+    "exampleTranslation": "Untuk cedera ringan Anda langsung pergi ke ruang UKS/pos P3K di sekolah.",
+    "notes": "Ruang UKS sekolah / pos pertolongan pertama (ziekenboeg).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-177",
+    "languageId": "dutch",
+    "word": "Computerlokaal",
+    "phonetic": "kɔmpjuːtərloːkaːl",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Het practicum digitale vaardigheden wordt gehouden in het computerlokaal.",
+    "examplePhonetic": "Het practicum digitale vaardigheden wordt gehouden in het computerlokaal.",
+    "exampleTranslation": "Praktikum keterampilan digital diadakan di laboratorium komputer.",
+    "notes": "Laboratorium komputer sekolah atau kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-178",
+    "languageId": "dutch",
+    "word": "Studentenadministratie",
+    "phonetic": "styːdɛntənaːtmiːnɪstraːtsi",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Voor een bewijs van inschrijving wend je je tot de studentenadministratie.",
+    "examplePhonetic": "Voor een bewijs van inschrijving wend je je tot de studentenadministratie.",
+    "exampleTranslation": "Untuk surat bukti pendaftaran, Anda menghubungi bagian administrasi mahasiswa / tata usaha.",
+    "notes": "Tata usaha sekolah / biro administrasi kemahasiswaan.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-179",
+    "languageId": "dutch",
+    "word": "Leerboek",
+    "phonetic": "leːrbuːk",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Neem voor elke les het juiste leerboek mee naar de klas.",
+    "examplePhonetic": "Neem voor elke les het juiste leerboek mee naar de klas.",
+    "exampleTranslation": "Bawalah buku teks yang tepat ke kelas untuk setiap mata pelajaran.",
+    "notes": "Buku teks / buku paket ajar (studieboek).",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-180",
+    "languageId": "dutch",
+    "word": "Schoolbord",
+    "phonetic": "sxoːlbɔrt",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "De leraar schrijft de formules duidelijk op het schoolbord.",
+    "examplePhonetic": "De leraar schrijft de formules duidelijk op het schoolbord.",
+    "exampleTranslation": "Guru menulis rumus dengan jelas di papan tulis sekolah.",
+    "notes": "Papan tulis (krijtbord atau whiteboard).",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-181",
+    "languageId": "dutch",
+    "word": "Huiswerk",
+    "phonetic": "hœysʋɛrk",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Heb je al je huiswerk voor morgen al afgemaakt?",
+    "examplePhonetic": "Heb je al je huiswerk voor morgen al afgemaakt?",
+    "exampleTranslation": "Apakah kamu sudah menyelesaikan semua pekerjaan rumahmu (PR) untuk besok?",
+    "notes": "Tugas rumah / PR sekolah.",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-182",
+    "languageId": "dutch",
+    "word": "Tentamen",
+    "phonetic": "tɛntaːmən",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Volgende week hebben we het schriftelijke tentamen van dit blok.",
+    "examplePhonetic": "Volgende week hebben we het schriftelijke tentamen van dit blok.",
+    "exampleTranslation": "Minggu depan kami ada ujian tertulis untuk blok semester ini.",
+    "notes": "Ujian evaluasi semester universitas (di sekolah: examen atau proefwerk).",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-183",
+    "languageId": "dutch",
+    "word": "Schooluniform",
+    "phonetic": "sxoːlynifoːrm",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "In Nederland dragen bijna geen scholen een verplicht schooluniform.",
+    "examplePhonetic": "In Nederland dragen bijna geen scholen een verplicht schooluniform.",
+    "exampleTranslation": "Di Belanda hampir tidak ada sekolah yang mewajibkan seragam sekolah.",
+    "notes": "Seragam sekolah.",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-184",
+    "languageId": "dutch",
+    "word": "Collegekaart",
+    "phonetic": "kɔleːʒəkaːrt",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Je hebt je collegekaart nodig om boeken te lenen en te printen.",
+    "examplePhonetic": "Je hebt je collegekaart nodig om boeken te lenen en te printen.",
+    "exampleTranslation": "Anda membutuhkan kartu mahasiswa (KTM) untuk meminjam buku dan mencetak dokumen.",
+    "notes": "Kartu tanda mahasiswa (KTM) atau kartu pelajar (schoolpas).",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "nl-voc-185",
+    "languageId": "dutch",
+    "word": "Studiebeurs",
+    "phonetic": "styːdiːbøːrs",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Dankzij een studiebeurs kan zij een master in het buitenland volgen.",
+    "examplePhonetic": "Dankzij een studiebeurs kan zij een master in het buitenland volgen.",
+    "exampleTranslation": "Berkat beasiswa studi, ia dapat menempuh program magister di luar negeri.",
+    "notes": "Beasiswa pendidikan.",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "nl-voc-186",
+    "languageId": "dutch",
+    "word": "Diploma-uitreiking",
+    "phonetic": "diːploːmaː œytrɛikɪŋ",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "De feestelijke diploma-uitreiking vond plaats in de aula van de universiteit.",
+    "examplePhonetic": "De feestelijke diploma-uitreiking vond plaats in de aula van de universiteit.",
+    "exampleTranslation": "Upacara penyerahan ijazah/wisuda yang meriah diadakan di aula universitas.",
+    "notes": "Upacara wisuda kelulusan / penyerahan ijazah (afstuderen).",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

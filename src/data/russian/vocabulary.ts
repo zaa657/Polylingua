@@ -2679,5 +2679,860 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
       "c1",
       "russian"
     ]
+  },
+  {
+    "id": "ru-voc-142",
+    "languageId": "russian",
+    "word": "Понедельник",
+    "phonetic": "ponedel'nik",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "В понедельник у нас четыре пары.",
+    "examplePhonetic": "V ponedel'nik u nas chetyre pary.",
+    "exampleTranslation": "Pada hari Senin kita memiliki empat sesi perkuliahan.",
+    "notes": "Hari Senin (hari pertama sekolah/kuliah).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-143",
+    "languageId": "russian",
+    "word": "Вторник",
+    "phonetic": "vtornik",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Во вторник мы сдаём реферат по истории.",
+    "examplePhonetic": "Vo vtornik my sdayom referat po istorii.",
+    "exampleTranslation": "Pada hari Selasa kami mengumpulkan makalah sejarah.",
+    "notes": "Hari Selasa.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-144",
+    "languageId": "russian",
+    "word": "Среда",
+    "phonetic": "sreda",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Каждую среду в университете проводятся семинары.",
+    "examplePhonetic": "Kazhduyu sredu v universitete provodyatsya seminary.",
+    "exampleTranslation": "Setiap hari Rabu diadakan seminar di universitas.",
+    "notes": "Hari Rabu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-145",
+    "languageId": "russian",
+    "word": "Четверг",
+    "phonetic": "chetverg",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "В четверг состоится собрание студенческого совета.",
+    "examplePhonetic": "V chetverg sostoitsya sobraniye studencheskogo soveta.",
+    "exampleTranslation": "Pada hari Kamis akan diadakan pertemuan dewan mahasiswa.",
+    "notes": "Hari Kamis.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-146",
+    "languageId": "russian",
+    "word": "Пятница",
+    "phonetic": "pyatnitsa",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Пятница — последний день учебной недели.",
+    "examplePhonetic": "Pyatnitsa — posledniy den' uchebnoy nedeli.",
+    "exampleTranslation": "Jumat adalah hari terakhir dalam pekan belajar.",
+    "notes": "Hari Jumat.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-147",
+    "languageId": "russian",
+    "word": "Суббота",
+    "phonetic": "subbota",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "В субботу некоторые студенты занимаются в библиотеке.",
+    "examplePhonetic": "V subbotu nekotoryye studenty zanimayutsya v biblioteke.",
+    "exampleTranslation": "Pada hari Sabtu beberapa mahasiswa belajar di perpustakaan.",
+    "notes": "Hari Sabtu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-148",
+    "languageId": "russian",
+    "word": "Воскресенье",
+    "phonetic": "voskresen'ye",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Воскресенье — выходной день для всех учащихся.",
+    "examplePhonetic": "Voskresen'ye — vykhodnoy den' dlya vsekh uchashchikhsya.",
+    "exampleTranslation": "Hari Minggu adalah hari libur untuk seluruh siswa.",
+    "notes": "Hari Minggu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-149",
+    "languageId": "russian",
+    "word": "Расписание занятий",
+    "phonetic": "raspisaniye zanyatiy",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Расписание занятий изменилось со следующей недели.",
+    "examplePhonetic": "Raspisaniye zanyatiy izmenilos' so sleduyushchey nedeli.",
+    "exampleTranslation": "Jadwal perkuliahan/pelajaran berubah mulai minggu depan.",
+    "notes": "Jadwal pelajaran atau jadwal perkuliahan.",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-150",
+    "languageId": "russian",
+    "word": "Будний день",
+    "phonetic": "budniy den'",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "В будние дни школа открыта с семи утра.",
+    "examplePhonetic": "V budniye dni shkola otkryta s semi utra.",
+    "exampleTranslation": "Pada hari kerja/sekolah sekolah buka mulai pukul tujuh pagi.",
+    "notes": "Hari kerja biasa (Senin-Jumat).",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ru-voc-151",
+    "languageId": "russian",
+    "word": "Выходные",
+    "phonetic": "vykhodnyye",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "На выходных студенты отдыхают и готовятся к зачётам.",
+    "examplePhonetic": "Na vykhodnykh studenty otdykhayut i gotovyatsya k zachyotam.",
+    "exampleTranslation": "Di akhir pekan para mahasiswa beristirahat dan bersiap untuk ujian.",
+    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-152",
+    "languageId": "russian",
+    "word": "Математика",
+    "phonetic": "matematika",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Математика развивает логическое мышление.",
+    "examplePhonetic": "Matematika razvivayet logicheskoye myshleniye.",
+    "exampleTranslation": "Matematika mengembangkan pemikiran logis.",
+    "notes": "Mata pelajaran matematika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-153",
+    "languageId": "russian",
+    "word": "Физика",
+    "phonetic": "fizika",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "На уроке физики мы изучаем законы механики.",
+    "examplePhonetic": "Na uroke fiziki my izuchayem zakony mekhaniki.",
+    "exampleTranslation": "Pada pelajaran fisika kita mempelajari hukum mekanika.",
+    "notes": "Mata pelajaran fisika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-154",
+    "languageId": "russian",
+    "word": "Химия",
+    "phonetic": "khimiya",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Учитель химии показал интересную реакцию.",
+    "examplePhonetic": "Uchitel' khimii pokazal interesnuyu reaktsiyu.",
+    "exampleTranslation": "Guru kimia memperlihatkan reaksi yang menarik.",
+    "notes": "Mata pelajaran kimia.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-155",
+    "languageId": "russian",
+    "word": "Биология",
+    "phonetic": "biologiya",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Биология изучает структуру живых организмов.",
+    "examplePhonetic": "Biologiya izuchayet strukturu zhivykh organizmov.",
+    "exampleTranslation": "Biologi mempelajari struktur organisme hidup.",
+    "notes": "Mata pelajaran biologi.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-156",
+    "languageId": "russian",
+    "word": "История",
+    "phonetic": "istoriya",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "История помогает нам учиться на ошибках прошлого.",
+    "examplePhonetic": "Istoriya pomogayet nam uchit'sya na oshibkakh proshlogo.",
+    "exampleTranslation": "Sejarah membantu kita belajar dari kesalahan masa lalu.",
+    "notes": "Mata pelajaran sejarah.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-157",
+    "languageId": "russian",
+    "word": "География",
+    "phonetic": "geografiya",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "На уроке географии мы изучали климат разных континентов.",
+    "examplePhonetic": "Na uroke geografii my izuchali klimat raznykh kontinentov.",
+    "exampleTranslation": "Di pelajaran geografi kami mempelajari iklim berbagai benua.",
+    "notes": "Mata pelajaran geografi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-158",
+    "languageId": "russian",
+    "word": "Литература",
+    "phonetic": "literatura",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Русская литература известна во всём мире.",
+    "examplePhonetic": "Russkaya literatura izvestna vo vsyom mire.",
+    "exampleTranslation": "Sastra Rusia terkenal di seluruh penjuru dunia.",
+    "notes": "Sastra dan literatur.",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-159",
+    "languageId": "russian",
+    "word": "Информатика",
+    "phonetic": "informatika",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "На уроке информатики студенты пишут алгоритмы.",
+    "examplePhonetic": "Na uroke informatiki studenty pishut algoritmy.",
+    "exampleTranslation": "Pada pelajaran informatika mahasiswa menulis algoritma.",
+    "notes": "Ilmu komputer / informatika.",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-160",
+    "languageId": "russian",
+    "word": "Экономика",
+    "phonetic": "ekonomika",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Он выбрал факультет экономики и финансов.",
+    "examplePhonetic": "On vybral fakul'tet ekonomiki i finansov.",
+    "exampleTranslation": "Dia memilih fakultas ekonomi dan keuangan.",
+    "notes": "Ilmu ekonomi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-161",
+    "languageId": "russian",
+    "word": "Философия",
+    "phonetic": "filosofiya",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Философия побуждает студентов задавать глубокие вопросы.",
+    "examplePhonetic": "Filosofiya pobuzhdayet studentov zadavat' glubokiye voprosy.",
+    "exampleTranslation": "Filsafat mendorong mahasiswa mengajukan pertanyaan yang mendalam.",
+    "notes": "Filsafat.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-162",
+    "languageId": "russian",
+    "word": "Изобразительное искусство",
+    "phonetic": "izobrazitel'noye iskusstvo",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Изобразительное искусство развивает воображение и вкус.",
+    "examplePhonetic": "Izobrazitel'noye iskusstvo razvivayet voobrazheniye i vkus.",
+    "exampleTranslation": "Seni rupa mengembangkan imajinasi dan rasa keindahan.",
+    "notes": "Seni rupa / kesenian (sering disingkat ИЗО).",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-163",
+    "languageId": "russian",
+    "word": "Физкультура",
+    "phonetic": "fizkul'tura",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "После обеда у школьников будет физкультура на стадионе.",
+    "examplePhonetic": "Posle obeda u shkol'nikov budet fizkul'tura na stadione.",
+    "exampleTranslation": "Setelah makan siang para siswa akan berolahraga di stadion.",
+    "notes": "Pendidikan jasmani dan olahraga (singkatan dari Физическая культура).",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-164",
+    "languageId": "russian",
+    "word": "Медицина",
+    "phonetic": "meditsina",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Учёба на факультете медицины требует упорного труда.",
+    "examplePhonetic": "Uchyoba na fakul'tete meditsiny trebuyet upornogo truda.",
+    "exampleTranslation": "Kuliah di fakultas kedokteran membutuhkan kerja keras.",
+    "notes": "Ilmu kedokteran.",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-165",
+    "languageId": "russian",
+    "word": "Юриспруденция",
+    "phonetic": "yurisprudentsiya",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Студенты юриспруденции изучают гражданское право.",
+    "examplePhonetic": "Studenty yurisprudentsii izuchayut grazhdanskoye pravo.",
+    "exampleTranslation": "Mahasiswa ilmu hukum mempelajari hukum perdata.",
+    "notes": "Ilmu hukum (juga disebut Право).",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-166",
+    "languageId": "russian",
+    "word": "Инженерия",
+    "phonetic": "inzheneriya",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Инженерия объединяет научные исследования и практику.",
+    "examplePhonetic": "Inzheneriya ob\"yedinyayet nauchnyye issledovaniya i praktiku.",
+    "exampleTranslation": "Teknik/rekayasa menggabungkan penelitian ilmiah dan praktik nyata.",
+    "notes": "Teknik dan rekayasa.",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-167",
+    "languageId": "russian",
+    "word": "Аудитория",
+    "phonetic": "auditoriya",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Лекция начнётся в аудитории номер триста пять.",
+    "examplePhonetic": "Lektsiya nachnyotsya v auditorii nomer trista pyat'.",
+    "exampleTranslation": "Kuliah akan dimulai di ruang kelas/auditorium nomor 305.",
+    "notes": "Ruang kelas kuliah / kelas sekolah (класс).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-168",
+    "languageId": "russian",
+    "word": "Библиотека",
+    "phonetic": "biblioteka",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "В университетской библиотеке всегда тихо и спокойно.",
+    "examplePhonetic": "V universitetskoy biblioteke vsegda tikho i spokoyno.",
+    "exampleTranslation": "Di perpustakaan universitas selalu tenang dan hening.",
+    "notes": "Perpustakaan.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-169",
+    "languageId": "russian",
+    "word": "Лаборатория",
+    "phonetic": "laboratoriya",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Вход в лабораторию разрешён только в халатах.",
+    "examplePhonetic": "Vkhod v laboratoriyu razreshyon tol'ko v khalatakh.",
+    "exampleTranslation": "Masuk ke laboratorium hanya diizinkan dengan jas lab.",
+    "notes": "Laboratorium sains.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-170",
+    "languageId": "russian",
+    "word": "Актовый зал",
+    "phonetic": "aktovyy zal",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Праздничный концерт пройдёт в актовом зале.",
+    "examplePhonetic": "Prazdnichnyy kontsert proydyot v aktovom zale.",
+    "exampleTranslation": "Konser perayaan akan diadakan di aula utama/auditorium.",
+    "notes": "Auditorium / aula pertemuan besar.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-171",
+    "languageId": "russian",
+    "word": "Учительская",
+    "phonetic": "uchitel'skaya",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Учителя собрались на совещание в учительскую.",
+    "examplePhonetic": "Uchitelya собрались na soveshchaniye v uchitel'skuyu.",
+    "exampleTranslation": "Para guru berkumpul untuk rapat di ruang guru.",
+    "notes": "Ruang guru sekolah / ruang dosen (кафедра).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-172",
+    "languageId": "russian",
+    "word": "Ректорат",
+    "phonetic": "rektorat",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Приёмная комиссия находится рядом с ректоратом.",
+    "examplePhonetic": "Priyomnaya komissiya nakhoditsya ryadom s rektoratom.",
+    "exampleTranslation": "Komisi penerimaan mahasiswa baru terletak di dekat rektorat.",
+    "notes": "Gedung rektorat / ruang kepala sekolah (кабинет директора).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-173",
+    "languageId": "russian",
+    "word": "Столовая",
+    "phonetic": "stolovaya",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "В студенческой столовой готовят вкусный борщ.",
+    "examplePhonetic": "V studencheskoy stolovoy gotovyat vkusnyy borshch.",
+    "exampleTranslation": "Di kantin mahasiswa mereka menyajikan borscht yang lezat.",
+    "notes": "Kantin / kafetaria kampus atau sekolah.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-174",
+    "languageId": "russian",
+    "word": "Спортзал",
+    "phonetic": "sportzal",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Спортзал открыт для тренировок до девяти вечера.",
+    "examplePhonetic": "Sportzal otkryt dlya trenirovok do devyati vechera.",
+    "exampleTranslation": "Gimnasium/gedung olahraga buka untuk latihan hingga pukul sembilan malam.",
+    "notes": "Gimnasium / aula olahraga (singkatan dari спортивный зал).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-175",
+    "languageId": "russian",
+    "word": "Общежитие",
+    "phonetic": "obshchezhitiye",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Многие первокурсники живут в студенческом общежитии.",
+    "examplePhonetic": "Mnogiye pervokursniki zhivut v studencheskom obshchezhitii.",
+    "exampleTranslation": "Banyak mahasiswa tingkat pertama tinggal di asrama mahasiswa.",
+    "notes": "Asrama mahasiswa (sering disingkat общага).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-176",
+    "languageId": "russian",
+    "word": "Медпункт",
+    "phonetic": "medpunkt",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Если у вас кружится голова, обратитесь в школьный медпункт.",
+    "examplePhonetic": "Yesli u vas kruzhitsya golova, obratites' v shkol'nyy medpunkt.",
+    "exampleTranslation": "Jika Anda merasa pusing, pergilah ke ruang UKS sekolah/klinik.",
+    "notes": "Ruang medis UKS / poliklinik sekolah & kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-177",
+    "languageId": "russian",
+    "word": "Компьютерный класс",
+    "phonetic": "komp'yuternyy klass",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Все практические занятия проходят в компьютерном классе.",
+    "examplePhonetic": "Vse prakticheskiye zanyatiya prokhodyat v komp'yuternom klasse.",
+    "exampleTranslation": "Semua kelas praktik diadakan di laboratorium komputer.",
+    "notes": "Laboratorium komputer.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-178",
+    "languageId": "russian",
+    "word": "Деканат",
+    "phonetic": "dekanat",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Справку об обучении можно заказать в деканате.",
+    "examplePhonetic": "Spravku ob obuchenii mozhno zakazat' v dekanate.",
+    "exampleTranslation": "Surat keterangan studi dapat dipesan di bagian dekanat/tata usaha.",
+    "notes": "Bagian tata usaha sekolah atau dekanat kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-179",
+    "languageId": "russian",
+    "word": "Учебник",
+    "phonetic": "uchebnik",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Откройте учебники на двадцатой странице.",
+    "examplePhonetic": "Otkroyte uchebniki na dvadtsatoy stranitse.",
+    "exampleTranslation": "Buka buku pelajaran kalian di halaman dua puluh.",
+    "notes": "Buku teks / buku paket pelajaran.",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-180",
+    "languageId": "russian",
+    "word": "Классная доска",
+    "phonetic": "klassnaya doska",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Ученик вышел к доске и написал ответ.",
+    "examplePhonetic": "Uchenik vyshel k doske i napisal otvet.",
+    "exampleTranslation": "Siswa maju ke papan tulis dan menuliskan jawabannya.",
+    "notes": "Papan tulis kelas.",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-181",
+    "languageId": "russian",
+    "word": "Домашнее задание",
+    "phonetic": "domashneye zadaniye",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Я уже сделал всё домашнее задание на завтра.",
+    "examplePhonetic": "Ya uzhe sdelal vsyo domashneye zadaniye na zavtra.",
+    "exampleTranslation": "Saya sudah mengerjakan semua pekerjaan rumah (PR) untuk besok.",
+    "notes": "Pekerjaan rumah / tugas sekolah (PR).",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-182",
+    "languageId": "russian",
+    "word": "Экзамен",
+    "phonetic": "ekzamen",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Зимняя сессия состоит из трёх экзаменов.",
+    "examplePhonetic": "Zimnyaya sessiya sostoit iz tryokh ekzamenov.",
+    "exampleTranslation": "Ujian semester musim dingin terdiri dari tiga ujian.",
+    "notes": "Ujian akhir / tes evaluasi semester.",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-183",
+    "languageId": "russian",
+    "word": "Школьная форма",
+    "phonetic": "shkol'naya forma",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "В нашей гимназии обязательна школьная форма синего цвета.",
+    "examplePhonetic": "V nashey gimnazii obyazatel'na shkol'naya forma sinego tsveta.",
+    "exampleTranslation": "Di gimnasium kami wajib mengenakan seragam sekolah warna biru.",
+    "notes": "Seragam sekolah.",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-184",
+    "languageId": "russian",
+    "word": "Студенческий билет",
+    "phonetic": "studencheskiy bilet",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Предъявите студенческий билет при входе в здание.",
+    "examplePhonetic": "Pred\"yavite studencheskiy bilet pri vkhode v zdaniye.",
+    "exampleTranslation": "Tunjukkan kartu mahasiswa Anda saat memasuki gedung.",
+    "notes": "Kartu mahasiswa (KTM) atau kartu pelajar (ученический билет).",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ru-voc-185",
+    "languageId": "russian",
+    "word": "Стипендия",
+    "phonetic": "stipendiya",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Отличники получают повышенную академическую стипендию.",
+    "examplePhonetic": "Otlichniki poluchayut povyshennuyu akademicheskuyu stipendiyu.",
+    "exampleTranslation": "Mahasiswa berprestasi mendapatkan beasiswa akademik yang ditingkatkan.",
+    "notes": "Beasiswa atau tunjangan belajar.",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ru-voc-186",
+    "languageId": "russian",
+    "word": "Выпускной вечер",
+    "phonetic": "vypusknoy vecher",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "После вручения дипломов состоялся праздничный выпускной вечер.",
+    "examplePhonetic": "Posle vrucheniya diplomov sostoyalsya prazdnichnyy vypusknoy vecher.",
+    "exampleTranslation": "Setelah penyerahan ijazah, diadakan upacara perayaan kelulusan/wisuda.",
+    "notes": "Upacara kelulusan / wisuda (juga: церемония вручения дипломов).",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

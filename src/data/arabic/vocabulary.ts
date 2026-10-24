@@ -2679,5 +2679,860 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
       "lanjutan",
       "arabic"
     ]
+  },
+  {
+    "id": "ar-voc-142",
+    "languageId": "arabic",
+    "word": "يوم الإثنين",
+    "phonetic": "yawm al-ithnayn",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "يبدأ أسبوع الدراسة في جامعتنا يوم الإثنين.",
+    "examplePhonetic": "yabda'u usbu'u ad-dirasati fi jami'atina yawma al-ithnayn.",
+    "exampleTranslation": "Pekan perkuliahan di universitas kami dimulai pada hari Senin.",
+    "notes": "Hari Senin.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-143",
+    "languageId": "arabic",
+    "word": "يوم الثلاثاء",
+    "phonetic": "yawm ath-thulatha'",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "لدينا اختبار قصير يوم الثلاثاء في مادة القواعد.",
+    "examplePhonetic": "ladayna ikhtibar qasir yawma ath-thulatha' fi maddat al-qawa'id.",
+    "exampleTranslation": "Kami ada kuis singkat pada hari Selasa untuk mata kuliah tata bahasa.",
+    "notes": "Hari Selasa.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-144",
+    "languageId": "arabic",
+    "word": "يوم الأربعاء",
+    "phonetic": "yawm al-arbi'a'",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "يوم الأربعاء مخصص للأنشطة الثقافية والرياضية.",
+    "examplePhonetic": "yawmu al-arbi'a' mukhas-sas lil-anshita ath-thaqafiyyah war-riyadiyyah.",
+    "exampleTranslation": "Hari Rabu didedikasikan untuk kegiatan budaya dan olahraga.",
+    "notes": "Hari Rabu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-145",
+    "languageId": "arabic",
+    "word": "يوم الخميس",
+    "phonetic": "yawm al-khamis",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "تنتهي المحاضرات مبكراً يوم الخميس قبل عطلة نهاية الأسبوع.",
+    "examplePhonetic": "tantahi al-muhadarat mubakkiran yawma al-khamis qabla 'utlat nihayat al-usbu'.",
+    "exampleTranslation": "Perkuliahan berakhir lebih awal pada hari Kamis sebelum akhir pekan.",
+    "notes": "Hari Kamis.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-146",
+    "languageId": "arabic",
+    "word": "يوم الجمعة",
+    "phonetic": "yawm al-jum'ah",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "يوم الجمعة هو يوم عطلة رسمية وصلاة الجمعة.",
+    "examplePhonetic": "yawmu al-jum'ati huwa yawmu 'utlatin rasmiyyatin wa-salat al-jum'ah.",
+    "exampleTranslation": "Hari Jumat adalah hari libur resmi dan pelaksanaan salat Jumat.",
+    "notes": "Hari Jumat.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-147",
+    "languageId": "arabic",
+    "word": "يوم السبت",
+    "phonetic": "yawm as-sabt",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "يذهب الطلاب إلى مكتبة الجامعة صباح يوم السبت.",
+    "examplePhonetic": "yadhhabu at-tullabu ila maktabat al-jami'ah sabaha yawmi as-sabt.",
+    "exampleTranslation": "Para mahasiswa pergi ke perpustakaan kampus pada hari Sabtu pagi.",
+    "notes": "Hari Sabtu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-148",
+    "languageId": "arabic",
+    "word": "يوم الأحد",
+    "phonetic": "yawm al-ahad",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "في بعض الدول العربية تبدأ الدراسة يوم الأحد.",
+    "examplePhonetic": "fi ba'di ad-duwal al-'arabiyyah tabda'u ad-dirasatu yawma al-ahad.",
+    "exampleTranslation": "Di beberapa negara Arab, sekolah dimulai pada hari Minggu.",
+    "notes": "Hari Minggu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-149",
+    "languageId": "arabic",
+    "word": "الجدول الدراسي",
+    "phonetic": "al-jadwal ad-dirasi",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "يمكنك تحميل الجدول الدراسي من بوابة الطالب الإلكترونية.",
+    "examplePhonetic": "yumkinuka tahmil al-jadwal ad-dirasi min bawwabat at-talib al-iliktruniyyah.",
+    "exampleTranslation": "Anda dapat mengunduh jadwal pelajaran dari portal elektronik mahasiswa.",
+    "notes": "Jadwal pelajaran sekolah / jadwal kuliah.",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-150",
+    "languageId": "arabic",
+    "word": "يوم دراسي",
+    "phonetic": "yawm dirasi",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "يبدأ اليوم الدراسي بالنشيد الوطني في ساحة المدرسة.",
+    "examplePhonetic": "yabda'u al-yawmu ad-dirasiyyu bin-nashid al-wataniyy fi sahat al-madrasah.",
+    "exampleTranslation": "Hari sekolah dimulai dengan lagu kebangsaan di lapangan sekolah.",
+    "notes": "Hari sekolah aktif atau hari kerja (يوم عمل).",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ar-voc-151",
+    "languageId": "arabic",
+    "word": "عطلة نهاية الأسبوع",
+    "phonetic": "'utlat nihayat al-usbu'",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "أقضي عطلة نهاية الأسبوع في مراجعة الدروس وزيارة الأسرة.",
+    "examplePhonetic": "aqdi 'utlata nihayati al-usbu'i fi muraja'at ad-durus wa-ziyarat al-usrah.",
+    "exampleTranslation": "Saya menghabiskan akhir pekan untuk meninjau pelajaran dan mengunjungi keluarga.",
+    "notes": "Libur akhir pekan (weekend).",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-152",
+    "languageId": "arabic",
+    "word": "الرياضيات",
+    "phonetic": "ar-riyadiyyat",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "مادة الرياضيات تعتمد على التحليل المنطقي والحلول الدقيقة.",
+    "examplePhonetic": "maddatu ar-riyadiyyati ta'tamidu 'ala at-tahlil al-mantiqiyyi wal-hulul ad-daqiqah.",
+    "exampleTranslation": "Mata pelajaran matematika mengandalkan analisis logis dan solusi yang akurat.",
+    "notes": "Mata pelajaran matematika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-153",
+    "languageId": "arabic",
+    "word": "الفيزياء",
+    "phonetic": "al-fiziya'",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "ندرس في علم الفيزياء قوانين الحركة والطاقة الكهرومغناطيسية.",
+    "examplePhonetic": "nadrusu fi 'ilmi al-fiziya'i qawanina al-harakati wat-taqati al-kahrumaghnatisiyyah.",
+    "exampleTranslation": "Kita mempelajari hukum gerak dan energi elektromagnetik dalam ilmu fisika.",
+    "notes": "Mata pelajaran fisika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-154",
+    "languageId": "arabic",
+    "word": "الكيمياء",
+    "phonetic": "al-kimiya'",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "أجرينا تفاعلاً كيميائياً مدهشاً في حصة الكيمياء.",
+    "examplePhonetic": "ajrayna tafa'ulan kimiya'iyyan mud-hishan fi hissat al-kimiya'.",
+    "exampleTranslation": "Kami melakukan reaksi kimia yang menakjubkan di kelas kimia.",
+    "notes": "Mata pelajaran kimia.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-155",
+    "languageId": "arabic",
+    "word": "علم الأحياء",
+    "phonetic": "'ilm al-ahya'",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "يهتم علم الأحياء بدراسة الكائنات الحية والبيئة المحيطة بها.",
+    "examplePhonetic": "yahtammu 'ilmu al-ahya'i bi-dirasati al-ka'inati al-hayyati wal-bi'ati al-muhitati biha.",
+    "exampleTranslation": "Ilmu biologi berfokus pada studi makhluk hidup dan lingkungan di sekitarnya.",
+    "notes": "Mata pelajaran biologi.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-156",
+    "languageId": "arabic",
+    "word": "التاريخ",
+    "phonetic": "at-tarikh",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "تاريخ الحضارات القديمة من أهم موضوعات كتاب التاريخ.",
+    "examplePhonetic": "tarikhu al-hadarati al-qadimati min ahammi mawdu'ati kitabi at-tarikh.",
+    "exampleTranslation": "Sejarah peradaban kuno adalah salah satu topik terpenting dalam buku sejarah.",
+    "notes": "Mata pelajaran sejarah.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-157",
+    "languageId": "arabic",
+    "word": "الجغرافيا",
+    "phonetic": "al-jughrafiya",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "تعلمنا في الجغرافيا كيفية قراءة التضاريس والخرائط الجوية.",
+    "examplePhonetic": "ta'allamna fil-jughrafiya kayfiyyata qira'at at-tadarisi wal-khara'it al-jawwiyyah.",
+    "exampleTranslation": "Kami belajar cara membaca kontur tanah dan peta udara di pelajaran geografi.",
+    "notes": "Mata pelajaran geografi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-158",
+    "languageId": "arabic",
+    "word": "الأدب",
+    "phonetic": "al-adab",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "الأدب العربي غني بالشعر الكلاسيكي والقصص البلاغية.",
+    "examplePhonetic": "al-adabu al-'arabiyyu ghaniyyun bish-shi'ri al-kulasikiyyi wal-qisasi al-balaghiyyah.",
+    "exampleTranslation": "Sastra Arab kaya akan puisi klasik dan kisah-kisah retoris.",
+    "notes": "Sastra dan literatur bahasa.",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-159",
+    "languageId": "arabic",
+    "word": "علوم الحاسوب",
+    "phonetic": "'ulum al-hasub",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "يتعلم الطلاب في قسم علوم الحاسوب لغات البرمجة الحديثة والذكاء الاصطناعي.",
+    "examplePhonetic": "yata'allamu at-tullabu fi qismi 'ulumi al-hasubi lughati al-barmajati al-hadithati wadh-dhaka'i al-istina'i.",
+    "exampleTranslation": "Mahasiswa di jurusan ilmu komputer mempelajari bahasa pemrograman modern dan kecerdasan buatan.",
+    "notes": "Ilmu komputer / informatika.",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-160",
+    "languageId": "arabic",
+    "word": "علم الاقتصاد",
+    "phonetic": "'ilm al-iqtisad",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "يحلل علم الاقتصاد آليات العرض والطلب والأسواق المالية.",
+    "examplePhonetic": "yuhallilu 'ilmu al-iqtisadi aliyyati al-'ardi wat-talabi wal-aswaq al-maliyyah.",
+    "exampleTranslation": "Ilmu ekonomi menganalisis mekanisme penawaran dan permintaan serta pasar keuangan.",
+    "notes": "Ilmu ekonomi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-161",
+    "languageId": "arabic",
+    "word": "الفلسفة",
+    "phonetic": "al-falsafah",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "تسعى الفلسفة إلى فهم الوجود والمعرفة والأخلاق الإنسانية.",
+    "examplePhonetic": "tas'a al-falsafatu ila fahmi al-wujudi wal-ma'rifati wal-akhlaqi al-insaniyyah.",
+    "exampleTranslation": "Filsafat berupaya memahami keberadaan, pengetahuan, dan moral manusia.",
+    "notes": "Ilmu filsafat.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-162",
+    "languageId": "arabic",
+    "word": "الفنون الجميلة",
+    "phonetic": "al-funun al-jamilah",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "تنظم كلية الفنون الجميلة معرضاً سنوياً للوحات الطلاب.",
+    "examplePhonetic": "tunazzimu kulliyyatu al-fununi al-jamilati ma'radan sanawiyyan li-lawhati at-tullab.",
+    "exampleTranslation": "Fakultas Seni Rupa menyelenggarakan pameran tahunan untuk lukisan mahasiswa.",
+    "notes": "Seni rupa dan seni visual.",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-163",
+    "languageId": "arabic",
+    "word": "التربية البدنية",
+    "phonetic": "at-tarbiyah al-badaniyyah",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "حصة التربية البدنية ضرورية لصحة الأجسام ونشاط العقول.",
+    "examplePhonetic": "hissatu at-tarbiyati al-badaniyyati daruriyyatun li-sihhati al-ajsami wa-nashati al-'uqul.",
+    "exampleTranslation": "Kelas pendidikan jasmani sangat penting untuk kesehatan tubuh dan kebugaran pikiran.",
+    "notes": "Pendidikan jasmani & olahraga (Penjasorkes).",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-164",
+    "languageId": "arabic",
+    "word": "الطب",
+    "phonetic": "at-tibb",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "دراسة الطب تتطلب سنوات طويلة من التدريب في المستشفيات الجامعية.",
+    "examplePhonetic": "dirasatu at-tibbi tatatallabu sanawatin tawilatan mina at-tadri bi fil-mustashfayati al-jami'iyyah.",
+    "exampleTranslation": "Studi kedokteran membutuhkan pelatihan bertahun-tahun di rumah sakit pendidikan.",
+    "notes": "Ilmu kedokteran.",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-165",
+    "languageId": "arabic",
+    "word": "القانون",
+    "phonetic": "al-qanun",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "يقوم خريجو كلية القانون بتقديم الاستشارات القانونية والترافع أمام المحاكم.",
+    "examplePhonetic": "yaqumu kharriju kulliyyati al-qanuni bi-taqdimi al-istisharati al-qanuniyyati wat-tarafui amama al-mahakim.",
+    "exampleTranslation": "Lulusan fakultas hukum memberikan konsultasi hukum dan beracara di pengadilan.",
+    "notes": "Ilmu hukum (syariah/hukum positif).",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-166",
+    "languageId": "arabic",
+    "word": "الهندسة",
+    "phonetic": "al-handasah",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "تضم كلية الهندسة أقساماً متعددة كالهندسة المدنية والكهربائية.",
+    "examplePhonetic": "tadummu kulliyyatu al-handasati aqsaman muta'addidatan kal-handasati al-madaniyyati wal-kahraba'iyyah.",
+    "exampleTranslation": "Fakultas teknik mencakup berbagai jurusan seperti teknik sipil dan elektro.",
+    "notes": "Teknik dan rekayasa (engineering).",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-167",
+    "languageId": "arabic",
+    "word": "قاعة الدراسة",
+    "phonetic": "qa'at ad-dirasah",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "جلس الطلاب في قاعة الدراسة ينتظرون وصول الأستاذ.",
+    "examplePhonetic": "jalasa at-tullabu fi qa'ati ad-dirasati yantaziruna wusula al-ustadh.",
+    "exampleTranslation": "Para mahasiswa duduk di ruang kelas menunggu kedatangan profesor.",
+    "notes": "Ruang kelas / ruang kuliah (فصل دراسي).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-168",
+    "languageId": "arabic",
+    "word": "المكتبة",
+    "phonetic": "al-maktabah",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "تحتوي مكتبة الجامعة على مئات الآلاف من المراجع النادرة.",
+    "examplePhonetic": "tahtawi maktabatu al-jami'ati 'ala mi'ati al-alafi mina al-maraji'i an-nadirah.",
+    "exampleTranslation": "Perpustakaan universitas memuat ratusan ribu referensi langka.",
+    "notes": "Perpustakaan.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-169",
+    "languageId": "arabic",
+    "word": "المختبر",
+    "phonetic": "al-mukhtabar",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "المختبر مجهز بأحدث المجاهر وأدوات القياس الدقيقة.",
+    "examplePhonetic": "al-mukhtabaru mujahhazun bi-ahdathi al-majahiri wa-adawati al-qiyasi ad-daqiqah.",
+    "exampleTranslation": "Laboratorium dilengkapi dengan mikroskop terbaru dan alat pengukur presisi.",
+    "notes": "Laboratorium sains.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-170",
+    "languageId": "arabic",
+    "word": "قاعة المؤتمرات",
+    "phonetic": "qa'at al-mu'tamarad",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "ألقى العالم الضيف محاضرته في قاعة المؤتمرات الكبرى.",
+    "examplePhonetic": "alqa al-'alimu ad-dayfu muhadaratahu fi qa'ati al-mu'tamarati al-kubra.",
+    "exampleTranslation": "Ilmuwan tamu menyampaikan ceramahnya di auditorium / aula besar.",
+    "notes": "Auditorium / aula pertemuan besar (المدرج الكبير).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-171",
+    "languageId": "arabic",
+    "word": "غرفة المعلمين",
+    "phonetic": "ghurfat al-mu'allimin",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "ذهب الطالب إلى غرفة المعلمين لتسليم تقرير المشروع.",
+    "examplePhonetic": "dhahaba at-talibu ila ghurfati al-mu'allimina li-taslimi taqriri al-mashru'.",
+    "exampleTranslation": "Siswa pergi ke ruang guru untuk menyerahkan laporan proyek.",
+    "notes": "Ruang guru sekolah atau ruang dosen (مكتب الأساتذة).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-172",
+    "languageId": "arabic",
+    "word": "مكتب رئيس الجامعة",
+    "phonetic": "maktab ra'is al-jami'ah",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "يقع مكتب رئيس الجامعة في الطابق الإداري الرئيسي.",
+    "examplePhonetic": "yaqa'u maktabu ra'isi al-jami'ati fit-tabiqi al-idariyyi ar-ra'isiyy.",
+    "exampleTranslation": "Kantor rektor universitas terletak di lantai administrasi utama.",
+    "notes": "Ruang kepala sekolah (مكتب المدير) atau rektorat kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-173",
+    "languageId": "arabic",
+    "word": "كافتيريا الجامعة",
+    "phonetic": "kafitirya al-jami'ah",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "نتناول وجبة الغداء مع الزملاء في كافتيريا الجامعة.",
+    "examplePhonetic": "natanawalu wajbata al-ghada'i ma'a az-zumala'i fi kafitirya al-jami'ah.",
+    "exampleTranslation": "Kami menyantap makan siang bersama rekan-rekan di kafetaria kampus/kantin.",
+    "notes": "Kantin / kafetaria kampus (المقصف).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-174",
+    "languageId": "arabic",
+    "word": "الصالة الرياضية",
+    "phonetic": "as-salah ar-riyadiyyah",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "تفتح الصالة الرياضية أبوابها للطلاب لممارسة كرة السلة والطائرة.",
+    "examplePhonetic": "taftahu as-salatu ar-riyadiyyatu abwabaha lit-tullabi li-mumarasati kurati as-sallati wat-ta'irah.",
+    "exampleTranslation": "Gedung olahraga membuka pintunya bagi siswa untuk bermain basket dan voli.",
+    "notes": "Gimnasium / aula olahraga tertutup.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-175",
+    "languageId": "arabic",
+    "word": "السكن الجامعي",
+    "phonetic": "as-sakan al-jami'i",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "يوفر السكن الجامعي بيئة مريحة وخدمات إنترنت للطلاب المغتربين.",
+    "examplePhonetic": "yuwaffiru as-sakanu al-jami'iyyu bi'atan murihatan wa-khidamati intirnit lit-tullabi al-mughtaribin.",
+    "exampleTranslation": "Asrama mahasiswa menyediakan lingkungan yang nyaman dan layanan internet bagi mahasiswa rantau.",
+    "notes": "Asrama mahasiswa / asrama pelajar (المهجع).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-176",
+    "languageId": "arabic",
+    "word": "العيادة الطبية",
+    "phonetic": "al-'iyadah at-tibbiyyah",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "توجه الطالب المريض إلى العيادة الطبية لتلقي الإسعافات الأولية.",
+    "examplePhonetic": "tawajjaha at-talibu al-maridu ila al-'iyadati at-tibbiyyati li-talaqqi al-is'afati al-awwaliyyah.",
+    "exampleTranslation": "Siswa yang sakit segera menuju ke ruang klinik/UKS untuk menerima pertolongan pertama.",
+    "notes": "Ruang UKS sekolah / klinik medis kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-177",
+    "languageId": "arabic",
+    "word": "مختبر الحاسوب",
+    "phonetic": "mukhtabar al-hasub",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "تجرى الامتحانات الرقمية داخل مختبر الحاسوب المجهز بالشبكة.",
+    "examplePhonetic": "tujra al-imtihanatu ar-raqmiyyatu dakhila mukhtabari al-hasubi al-muhazzazi bish-shabakah.",
+    "exampleTranslation": "Ujian digital diselenggarakan di laboratorium komputer yang terhubung jaringan.",
+    "notes": "Laboratorium komputer.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-178",
+    "languageId": "arabic",
+    "word": "قسم شؤون الطلاب",
+    "phonetic": "qism shu'un at-tullab",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "يمكنك استلام بطاقتك الجامعية وتصديق الشهادات من قسم شؤون الطلاب.",
+    "examplePhonetic": "yumkinuka istilamu bitaqatika al-jami'iyyati wa-tasdiqu ash-shahadati min qismi shu'uni at-tullab.",
+    "exampleTranslation": "Anda dapat mengambil kartu mahasiswa dan melegalisasi ijazah di bagian administrasi kemahasiswaan/tata usaha.",
+    "notes": "Tata usaha sekolah / administrasi akademik.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-179",
+    "languageId": "arabic",
+    "word": "الكتاب المدرسي",
+    "phonetic": "al-kitab al-madrasi",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "أحضر الكتاب المدرسي معك في كل حصة لتتابع الشرح.",
+    "examplePhonetic": "ahdir al-kitaba al-madrasiyya ma'aka fi kulli hissatin li-tutabi'a ash-sharh.",
+    "exampleTranslation": "Bawalah buku pelajaran bersamamu di setiap kelas untuk mengikuti penjelasan.",
+    "notes": "Buku teks / buku ajar pelajaran.",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-180",
+    "languageId": "arabic",
+    "word": "السبورة",
+    "phonetic": "as-sabburah",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "كتب الأستاذ المسألة الحسابية على السبورة البيضاء.",
+    "examplePhonetic": "kataba al-ustadhu al-mas'alata al-hisabiyyata 'ala as-sabburati al-bayda'.",
+    "exampleTranslation": "Dosen menulis soal hitungan di papan tulis putih.",
+    "notes": "Papan tulis sekolah/kelas.",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-181",
+    "languageId": "arabic",
+    "word": "الواجب المنزلي",
+    "phonetic": "al-wajib al-manzili",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "يجب على كل تلميذ إكمال الواجب المنزلي قبل الغد.",
+    "examplePhonetic": "yajib 'ala kulli tilmidhin ikmalu al-wajibi al-manziliyyi qabla al-ghad.",
+    "exampleTranslation": "Setiap murid wajib menyelesaikan pekerjaan rumah (PR) sebelum besok.",
+    "notes": "Pekerjaan rumah / tugas mandiri (PR).",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-182",
+    "languageId": "arabic",
+    "word": "الامتحان النهائي",
+    "phonetic": "al-imtihan an-niha'i",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "يستعد الطلاب للاختبار والامتحان النهائي بمذاكرة مكثفة.",
+    "examplePhonetic": "yasta'iddu at-tullabu lil-ikhtibari wal-imtihani an-niha'iyyi bi-mudhakaratin mukath-thafah.",
+    "exampleTranslation": "Para mahasiswa mempersiapkan diri untuk ujian akhir semester dengan belajar intensif.",
+    "notes": "Ujian evaluasi / tes semester.",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-183",
+    "languageId": "arabic",
+    "word": "الزي المدرسي",
+    "phonetic": "az-ziyy al-madrasi",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "يلتزم جميع الطلاب بارتداء الزي المدرسي الموحد كل صباح.",
+    "examplePhonetic": "yaltazimu jami'u at-tullabi bi-irtida'i az-ziyyi al-madrasiyyi al-muwahhadi kulla sabah.",
+    "exampleTranslation": "Semua murid diwajibkan mengenakan seragam sekolah yang seragam setiap pagi.",
+    "notes": "Seragam sekolah / almamater.",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-184",
+    "languageId": "arabic",
+    "word": "البطاقة الجامعية",
+    "phonetic": "al-bitaqah al-jami'iyyah",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "تستخدم البطاقة الجامعية للدخول واستعارة الكتب من المكتبة.",
+    "examplePhonetic": "tustakhdamu al-bitaqatu al-jami'iyyatu lid-dukhuli was-ti'arati al-kutubi mina al-maktabah.",
+    "exampleTranslation": "Kartu tanda mahasiswa (KTM) digunakan untuk masuk dan meminjam buku dari perpustakaan.",
+    "notes": "Kartu pelajar / kartu mahasiswa (KTM).",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ar-voc-185",
+    "languageId": "arabic",
+    "word": "المنحة الدراسية",
+    "phonetic": "al-minhah ad-dirasiyyah",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "حصل الطالب المتفوق على منحة دراسية كاملة تشمل السكن ورسوم التعليم.",
+    "examplePhonetic": "hasala at-talibu al-mutafawwiqu 'ala minhatin dirasiyyatin kamilatin tashmalu as-sakana wa-rusuma at-ta'lim.",
+    "exampleTranslation": "Siswa berprestasi tersebut menerima beasiswa penuh yang mencakup akomodasi dan biaya kuliah.",
+    "notes": "Beasiswa pendidikan.",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ar-voc-186",
+    "languageId": "arabic",
+    "word": "حفل التخرج",
+    "phonetic": "hafl at-takharruj",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "شارك الآباء والأمهات فرحة أبنائهم في حفل التخرج السنوي.",
+    "examplePhonetic": "sharaka al-aba'u wal-ummuhatu farhata abna'ihim fi hafli at-takharruji as-sanawiyy.",
+    "exampleTranslation": "Para orang tua berbagi kegembiraan bersama putra-putri mereka pada upacara wisuda tahunan.",
+    "notes": "Upacara wisuda / kelulusan universitas.",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

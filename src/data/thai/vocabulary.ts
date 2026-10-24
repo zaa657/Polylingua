@@ -2679,5 +2679,860 @@ export const THAI_VOCABULARY: VocabularyItem[] = [
       "th3",
       "thai"
     ]
+  },
+  {
+    "id": "th-voc-142",
+    "languageId": "thai",
+    "word": "วันจันทร์",
+    "phonetic": "wan-jan",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "วันจันทร์นี้เรามีเรียนวิชาคณิตศาสตร์",
+    "examplePhonetic": "wan-jan née rao mee rian wí-chaa ká-nít-dtà-sàat",
+    "exampleTranslation": "Senin ini kita ada kelas matematika.",
+    "notes": "Hari pertama dalam minggu sekolah.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-143",
+    "languageId": "thai",
+    "word": "วันอังคาร",
+    "phonetic": "wan ang-khaan",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "วันอังคารตอนบ่ายมีกิจกรรมชมรม",
+    "examplePhonetic": "wan ang-khaan dtaawn bàai mee gìt-jà-gam chom-rom",
+    "exampleTranslation": "Selasa siang ada kegiatan ekstrakurikuler/klub.",
+    "notes": "Hari Selasa.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-144",
+    "languageId": "thai",
+    "word": "วันพุธ",
+    "phonetic": "wan phút",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "ทุกวันพุธนักเรียนใส่ชุดพละ",
+    "examplePhonetic": "thúk wan phút nák-rian sài chút phá-lá",
+    "exampleTranslation": "Setiap hari Rabu siswa mengenakan pakaian olahraga.",
+    "notes": "Hari Rabu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-145",
+    "languageId": "thai",
+    "word": "วันพฤหัสบดี",
+    "phonetic": "wan phá-rú-hàt-sà-baaw-dee",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "วันพฤหัสบดีมีสอบย่อยวิชาเคมี",
+    "examplePhonetic": "wan phá-rú-hàt-sà-baaw-dee mee saawp yôi wí-chaa khe-mee",
+    "exampleTranslation": "Hari Kamis ada kuis kecil mata pelajaran kimia.",
+    "notes": "Sering disingkat 'วันพฤหัส' (wan phá-rú-hàt).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-146",
+    "languageId": "thai",
+    "word": "วันศุกร์",
+    "phonetic": "wan sùk",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "วันศุกร์เป็นวันสุดท้ายของสัปดาห์เรียน",
+    "examplePhonetic": "wan sùk bpen wan sùt-tháai khaawng sàp-daa rian",
+    "exampleTranslation": "Hari Jumat adalah hari terakhir dalam pekan sekolah.",
+    "notes": "Hari Jumat.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-147",
+    "languageId": "thai",
+    "word": "วันเสาร์",
+    "phonetic": "wan sǎo",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "วันเสาร์ห้องสมุดมหาวิทยาลัยเปิดครึ่งวัน",
+    "examplePhonetic": "wan sǎo hông-sà-mùt má-hǎa-wít-thá-yaa-lai bpoet khrêueng wan",
+    "exampleTranslation": "Hari Sabtu perpustakaan universitas buka setengah hari.",
+    "notes": "Hari Sabtu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-148",
+    "languageId": "thai",
+    "word": "วันอาทิตย์",
+    "phonetic": "wan aa-thít",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "วันอาทิตย์เป็นวันหยุดพักผ่อนของนักเรียน",
+    "examplePhonetic": "wan aa-thít bpen wan yùt phák-phàawn khaawng nák-rian",
+    "exampleTranslation": "Hari Minggu adalah hari libur istirahat para siswa.",
+    "notes": "Hari Minggu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-149",
+    "languageId": "thai",
+    "word": "ตารางเรียน",
+    "phonetic": "dtaa-raang rian",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "คุณสามารถตรวจสอบตารางเรียนได้ในระบบออนไลน์",
+    "examplePhonetic": "khun sǎa-mâat dtrùat-sàawp dtaa-raang rian dâai nai rá-bòp awn-lai",
+    "exampleTranslation": "Anda dapat memeriksa jadwal pelajaran di sistem daring.",
+    "notes": "Jadwal pelajaran sekolah atau jadwal kuliah.",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-150",
+    "languageId": "thai",
+    "word": "วันเปิดเรียน",
+    "phonetic": "wan bpoet rian",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "โรงเรียนเปิดทำการในวันเปิดเรียนตามปกติ",
+    "examplePhonetic": "roong-rian bpoet tham-gaan nai wan bpoet rian dtaam bpàk-gà-dtì",
+    "exampleTranslation": "Sekolah beroperasi pada hari sekolah seperti biasa.",
+    "notes": "Bisa juga disebut วันธรรมดา (hari biasa/kerja).",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "th-voc-151",
+    "languageId": "thai",
+    "word": "สุดสัปดาห์",
+    "phonetic": "sùt sàp-daa",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "ช่วงสุดสัปดาห์ฉันทำการบ้านที่บ้าน",
+    "examplePhonetic": "chûang sùt sàp-daa chǎn tham gaan-bâan thêe bâan",
+    "exampleTranslation": "Saat akhir pekan saya mengerjakan tugas di rumah.",
+    "notes": "Akhir pekan (Sabtu-Minggu).",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-152",
+    "languageId": "thai",
+    "word": "คณิตศาสตร์",
+    "phonetic": "ká-nít-dtà-sàat",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "วิชาคณิตศาสตร์สอนการคำนวณและตรรกะ",
+    "examplePhonetic": "wí-chaa ká-nít-dtà-sàat sǎawn gaan-kham-nuan láe dtràk-gà",
+    "exampleTranslation": "Mata pelajaran matematika mengajarkan perhitungan dan logika.",
+    "notes": "Mata pelajaran matematika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-153",
+    "languageId": "thai",
+    "word": "ฟิสิกส์",
+    "phonetic": "fí-sìk",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "พวกเราทำการทดลองฟิสิกส์ในห้องแล็บ",
+    "examplePhonetic": "phûak rao tham gaan-thót-laawng fí-sìk nai hông láep",
+    "exampleTranslation": "Kami melakukan eksperimen fisika di laboratorium.",
+    "notes": "Mata pelajaran fisika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-154",
+    "languageId": "thai",
+    "word": "เคมี",
+    "phonetic": "khee-mee",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "อาจารย์สอนสูตรเคมีบนกระดานดำ",
+    "examplePhonetic": "aa-jaan sǎawn sòot khee-mee bon grà-daan dam",
+    "exampleTranslation": "Dosen mengajarkan rumus kimia di papan tulis.",
+    "notes": "Mata pelajaran kimia.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-155",
+    "languageId": "thai",
+    "word": "ชีววิทยา",
+    "phonetic": "chee-wá-wít-thá-yaa",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "ในวิชาชีววิทยาเราได้ศึกษาเซลล์ของพืช",
+    "examplePhonetic": "nai wí-chaa chee-wá-wít-thá-yaa rao dâai sèuk-sǎa seen khaawng phêut",
+    "exampleTranslation": "Dalam pelajaran biologi kita mempelajari sel tumbuhan.",
+    "notes": "Mata pelajaran biologi.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-156",
+    "languageId": "thai",
+    "word": "ประวัติศาสตร์",
+    "phonetic": "bprà-wàt-dtì-sàat",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "วิชาประวัติศาสตร์ช่วยให้เข้าใจอดีต",
+    "examplePhonetic": "wí-chaa bprà-wàt-dtì-sàat chûai hâi khâo-jai à-dèet",
+    "exampleTranslation": "Mata pelajaran sejarah membantu memahami masa lalu.",
+    "notes": "Mata pelajaran sejarah.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-157",
+    "languageId": "thai",
+    "word": "ภูมิศาสตร์",
+    "phonetic": "phoo-mí-sàat",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "เราเรียนรู้แผนที่โลกในวิชาภูมิศาสตร์",
+    "examplePhonetic": "rao rian-róo phǎaen-thêe lôhk nai wí-chaa phoo-mí-sàat",
+    "exampleTranslation": "Kita mempelajari peta dunia dalam pelajaran geografi.",
+    "notes": "Mata pelajaran geografi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-158",
+    "languageId": "thai",
+    "word": "วรรณคดี",
+    "phonetic": "wan-ná-khá-dee",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "นักเรียนอ่านบทกวีในชั่วโมงวรรณคดี",
+    "examplePhonetic": "nák-rian àan bòt-gà-wee nai chûa-moong wan-ná-khá-dee",
+    "exampleTranslation": "Siswa membaca puisi dalam jam pelajaran sastra.",
+    "notes": "Sastra dan literatur.",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-159",
+    "languageId": "thai",
+    "word": "วิทยาการคอมพิวเตอร์",
+    "phonetic": "wít-thá-yaa-gaan khaawm-phiw-dtoe",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "สาขาวิทยาการคอมพิวเตอร์สอนการเขียนโปรแกรม",
+    "examplePhonetic": "sǎa-khǎa wít-thá-yaa-gaan khaawm-phiw-dtoe sǎawn gaan-khǐan bprooh-graem",
+    "exampleTranslation": "Jurusan ilmu komputer mengajarkan pemrograman.",
+    "notes": "Ilmu komputer / informatika.",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-160",
+    "languageId": "thai",
+    "word": "เศรษฐศาสตร์",
+    "phonetic": "sèet-thà-sàat",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "เขาตัดสินใจเลือกเรียนคณะเศรษฐศาสตร์",
+    "examplePhonetic": "khǎo dtàt-sǐn-jai lûeak rian khá-ná sèet-thà-sàat",
+    "exampleTranslation": "Dia memutuskan untuk memilih kuliah di fakultas ekonomi.",
+    "notes": "Ilmu ekonomi.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-161",
+    "languageId": "thai",
+    "word": "ปรัชญา",
+    "phonetic": "bpràt-yaa",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "วิชาปรัชญาสอนให้นักศึกษาคิดอย่างมีวิจารณญาณ",
+    "examplePhonetic": "wí-chaa bpràt-yaa sǎawn hâi nák-sèuk-sǎa khít yàang mee wí-jaa-rá-ná-yaan",
+    "exampleTranslation": "Mata kuliah filsafat mengajarkan mahasiswa berpikir kritis.",
+    "notes": "Filsafat / filosofi.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-162",
+    "languageId": "thai",
+    "word": "ศิลปะ",
+    "phonetic": "sǐn-lá-bpà",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "นักเรียนวาดภาพระบายสีในวิชาศิลปะ",
+    "examplePhonetic": "nák-rian wâat-phâap rá-baai-sěe nai wí-chaa sǐn-lá-bpà",
+    "exampleTranslation": "Siswa melukis dan mewarnai di pelajaran seni rupa.",
+    "notes": "Seni rupa dan kerajinan.",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-163",
+    "languageId": "thai",
+    "word": "พลศึกษา",
+    "phonetic": "phá-lá-sèuk-sǎa",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "เราเล่นบาสเกตบอลในชั่วโมงพลศึกษา",
+    "examplePhonetic": "rao lên bàat-sà-gèet-baawn nai chûa-moong phá-lá-sèuk-sǎa",
+    "exampleTranslation": "Kami bermain bola basket di jam pelajaran penjasorkes/olahraga.",
+    "notes": "Pendidikan jasmani dan olahraga (sering disingkat พละ).",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-164",
+    "languageId": "thai",
+    "word": "แพทยศาสตร์",
+    "phonetic": "phâaet-thá-yá-sàat",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "การสอบเข้าคณะแพทยศาสตร์มีการแข่งขันสูงมาก",
+    "examplePhonetic": "gaan-sàawp khâo khá-ná phâaet-thá-yá-sàat mee gaan-khàeng-khǎn sǒong mâak",
+    "exampleTranslation": "Ujian masuk fakultas kedokteran memiliki persaingan yang sangat tinggi.",
+    "notes": "Ilmu kedokteran.",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-165",
+    "languageId": "thai",
+    "word": "นิติศาสตร์",
+    "phonetic": "ní-dtì-sàat",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "นักศึกษานิติศาสตร์ต้องท่องจำประมวลกฎหมาย",
+    "examplePhonetic": "nák-sèuk-sǎa ní-dtì-sàat dtâwng thâawng-jam bprà-muan gòt-mǎai",
+    "exampleTranslation": "Mahasiswa hukum harus menghafal kitab undang-undang.",
+    "notes": "Ilmu hukum.",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-166",
+    "languageId": "thai",
+    "word": "วิศวกรรมศาสตร์",
+    "phonetic": "wít-sà-wá-gam-má-sàat",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "เขาต้องการเรียนต่อปริญญาตรีด้านวิศวกรรมศาสตร์",
+    "examplePhonetic": "khǎo dtâwng-gaan rian dtàaw bparinyaa-dtree dâan wít-sà-wá-gam-má-sàat",
+    "exampleTranslation": "Dia ingin melanjutkan sarjana di bidang teknik/rekayasa.",
+    "notes": "Teknik dan rekayasa (engineering).",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-167",
+    "languageId": "thai",
+    "word": "ห้องเรียน",
+    "phonetic": "hông-rian",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "กรุณาปิดไฟก่อนออกจากห้องเรียน",
+    "examplePhonetic": "gà-rú-naa bpìt fai gàawn àawk jàak hông-rian",
+    "exampleTranslation": "Harap matikan lampu sebelum keluar dari ruang kelas.",
+    "notes": "Ruang kelas belajar.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-168",
+    "languageId": "thai",
+    "word": "ห้องสมุด",
+    "phonetic": "hông-sà-mùt",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "ห้ามส่งเสียงดังในห้องสมุด",
+    "examplePhonetic": "hâam sòng-sǐang dang nai hông-sà-mùt",
+    "exampleTranslation": "Dilarang bersuara keras di dalam perpustakaan.",
+    "notes": "Perpustakaan.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-169",
+    "languageId": "thai",
+    "word": "ห้องปฏิบัติการ",
+    "phonetic": "hông bpà-dtì-bàt-gaan",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "นักเรียนต้องสวมเสื้อกาวน์เมื่อเข้าห้องปฏิบัติการ",
+    "examplePhonetic": "nák-rian dtâwng sǔam sêua gaao mûea khâo hông bpà-dtì-bàt-gaan",
+    "exampleTranslation": "Siswa harus memakai jas lab saat memasuki laboratorium.",
+    "notes": "Laboratorium sains (sering disingkat ห้องแล็บ / hông láep).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-170",
+    "languageId": "thai",
+    "word": "หอประชุม",
+    "phonetic": "hǎaw bprà-choom",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "พิธีเปิดจัดขึ้นที่หอประชุมใหญ่ของมหาวิทยาลัย",
+    "examplePhonetic": "phí-thee bpoet jàt khêun thêe hǎaw bprà-choom yài khaawng má-hǎa-wít-thá-yaa-lai",
+    "exampleTranslation": "Upacara pembukaan diselenggarakan di auditorium besar universitas.",
+    "notes": "Auditorium / aula pertemuan besar.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-171",
+    "languageId": "thai",
+    "word": "ห้องพักครู",
+    "phonetic": "hông phák khroo",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "นักเรียนไปพบคุณครูที่ห้องพักครู",
+    "examplePhonetic": "nák-rian bpai phóp khun-khroo thêe hông phák khroo",
+    "exampleTranslation": "Murid pergi menemui guru di ruang guru/dosen.",
+    "notes": "Ruang istirahat/kerja guru dan dosen.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-172",
+    "languageId": "thai",
+    "word": "ห้องอธิการบดี",
+    "phonetic": "hông à-thí-gaan-baaw-dee",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "ห้องอธิการบดีตั้งอยู่ที่ชั้นบนสุดของอาคารอำนวยการ",
+    "examplePhonetic": "hông à-thí-gaan-baaw-dee dtâng yòo thêe chán bon sùt khaawng aa-khaan am-nuai-gaan",
+    "exampleTranslation": "Ruang rektor terletak di lantai teratas gedung administrasi.",
+    "notes": "Ruang kepala sekolah / rektorat kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-173",
+    "languageId": "thai",
+    "word": "โรงอาหาร",
+    "phonetic": "roong-aa-hǎan",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "พวกเราไปกินข้าวเที่ยงที่โรงอาหาร",
+    "examplePhonetic": "phûak rao bpai gin khâao thîang thêe roong-aa-hǎan",
+    "exampleTranslation": "Kami pergi makan siang di kantin sekolah.",
+    "notes": "Kantin / kafetaria kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-174",
+    "languageId": "thai",
+    "word": "โรงยิม",
+    "phonetic": "roong-yim",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "การแข่งขันแบดมินตันจัดที่โรงยิม",
+    "examplePhonetic": "gaan-khàeng-khǎn báaet-min-dtân jàt thêe roong-yim",
+    "exampleTranslation": "Pertandingan bulu tangkis diselenggarakan di gimnasium/gedung olahraga.",
+    "notes": "Gedung olahraga serbaguna.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-175",
+    "languageId": "thai",
+    "word": "หอพักนักศึกษา",
+    "phonetic": "hǎaw-phák nák-sèuk-sǎa",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "นักศึกษาต่างจังหวัดส่วนใหญ่พักที่หอพักนักศึกษา",
+    "examplePhonetic": "nák-sèuk-sǎa ddtàang jang-wàt sùan yài phák thêe hǎaw-phák nák-sèuk-sǎa",
+    "exampleTranslation": "Sebagian besar mahasiswa luar kota tinggal di asrama mahasiswa.",
+    "notes": "Asrama mahasiswa / siswa.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-176",
+    "languageId": "thai",
+    "word": "ห้องพยาบาล",
+    "phonetic": "hông phá-yaa-baan",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "ถ้ารู้สึกไม่สบายให้ไปนอนพักที่ห้องพยาบาล",
+    "examplePhonetic": "thâa róo-sèuk mâi sà-baai hâi bpai naawn phák thêe hông phá-yaa-baan",
+    "exampleTranslation": "Jika merasa tidak enak badan, silakan beristirahat di ruang UKS/klinik.",
+    "notes": "Ruang UKS sekolah / klinik kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-177",
+    "languageId": "thai",
+    "word": "ห้องคอมพิวเตอร์",
+    "phonetic": "hông khaawm-phiw-dtoe",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "วิชาเขียนโค้ดเรียนที่ห้องคอมพิวเตอร์",
+    "examplePhonetic": "wí-chaa khǐan khoht rian thêe hông khaawm-phiw-dtoe",
+    "exampleTranslation": "Mata kuliah coding diadakan di laboratorium komputer.",
+    "notes": "Laboratorium komputer sekolah/kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-178",
+    "languageId": "thai",
+    "word": "สำนักงานธุรการ",
+    "phonetic": "sǎm-nák-ngaan thú-rá-gaan",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "นักเรียนสามารถขอใบรับรองผลการเรียนได้ที่สำนักงานธุรการ",
+    "examplePhonetic": "nák-rian sǎa-mâat khǎaw bai ráp-raawng phǒn gaan rian dâai thêe sǎm-nák-ngaan thú-rá-gaan",
+    "exampleTranslation": "Siswa dapat meminta transkrip nilai di bagian tata usaha / administrasi.",
+    "notes": "Kantor tata usaha / administrasi akademik.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-179",
+    "languageId": "thai",
+    "word": "หนังสือเรียน",
+    "phonetic": "nǎng-sěu rian",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "อย่าลืมนำหนังสือเรียนมาด้วยในวันพรุ่งนี้",
+    "examplePhonetic": "yàa leum nam nǎng-sěu rian maa dûai nai wan phrûng-née",
+    "exampleTranslation": "Jangan lupa membawa buku teks/buku pelajaran besok.",
+    "notes": "Buku teks / bahan ajar.",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-180",
+    "languageId": "thai",
+    "word": "กระดานดำ",
+    "phonetic": "grà-daan dam",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "คุณครูเขียนคำศัพท์ใหม่บนกระดานดำ",
+    "examplePhonetic": "khun-khroo khǐan kham-sàp mài bon grà-daan dam",
+    "exampleTranslation": "Guru menulis kosakata baru di papan tulis.",
+    "notes": "Papan tulis hitam/putih (whiteboard: กระดานไวท์บอร์ด).",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-181",
+    "languageId": "thai",
+    "word": "การบ้าน",
+    "phonetic": "gaan-bâan",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "ฉันต้องส่งการบ้านก่อนเวลาเที่ยงคืน",
+    "examplePhonetic": "chǎn dtâwng sòng gaan-bâan gàawn wee-laa thîang kheun",
+    "exampleTranslation": "Saya harus mengumpulkan pekerjaan rumah (PR) sebelum tengah malam.",
+    "notes": "Tugas rumah / PR sekolah.",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-182",
+    "languageId": "thai",
+    "word": "การสอบ",
+    "phonetic": "gaan-sàawp",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "นักเรียนทุกคนกำลังเตรียมตัวสำหรับการสอบปลายภาค",
+    "examplePhonetic": "nák-rian thúk khon gam-lang dtriam ddtua sǎm-ràp gaan-sàawp bplaai phâak",
+    "exampleTranslation": "Semua murid sedang mempersiapkan diri untuk ujian akhir semester.",
+    "notes": "Ujian atau tes evaluasi akademik.",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-183",
+    "languageId": "thai",
+    "word": "เครื่องแบบนักเรียน",
+    "phonetic": "khrêuang-bàaep nák-rian",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "ในประเทศไทยนักเรียนต้องสวมเครื่องแบบนักเรียนไปโรงเรียน",
+    "examplePhonetic": "nai bprà-thêet thai nák-rian dtâwng sǔam khrêuang-bàaep nák-rian bpai roong-rian",
+    "exampleTranslation": "Di Thailand, para siswa harus mengenakan seragam sekolah ke sekolah.",
+    "notes": "Seragam sekolah atau universitas.",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-184",
+    "languageId": "thai",
+    "word": "บัตรนักเรียน",
+    "phonetic": "bàt nák-rian",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "ใช้บัตรนักเรียนเพื่อยืมหนังสือจากห้องสมุด",
+    "examplePhonetic": "chái bàt nák-rian phêua yeum nǎng-sěu jàak hông-sà-mùt",
+    "exampleTranslation": "Gunakan kartu pelajar untuk meminjam buku dari perpustakaan.",
+    "notes": "Kartu pelajar atau kartu mahasiswa (บัตรนักศึกษา).",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "th-voc-185",
+    "languageId": "thai",
+    "word": "ทุนการศึกษา",
+    "phonetic": "thun gaan-sèuk-sǎa",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "เธอได้รับทุนการศึกษาเต็มจำนวนไปเรียนต่างประเทศ",
+    "examplePhonetic": "thoe dâai ráp thun gaan-sèuk-sǎa dtem jam-nuan bpai rian ddtàang bprà-thêet",
+    "exampleTranslation": "Dia memperoleh beasiswa penuh untuk studi ke luar negeri.",
+    "notes": "Beasiswa pendidikan.",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "th-voc-186",
+    "languageId": "thai",
+    "word": "พิธีพระราชทานปริญญาบัตร",
+    "phonetic": "phí-thee phá-râat-chá-thaan bpà-rin-yaa-bàt",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "ครอบครัวมาร่วมแสดงความยินดีในพิธีรับปริญญาบัตร",
+    "examplePhonetic": "khrâawp-khrua maa rûam sà-daeng khwaam-yin-dee nai phí-thee ráp bpà-rin-yaa-bàt",
+    "exampleTranslation": "Keluarga datang untuk memberi selamat pada upacara wisuda.",
+    "notes": "Upacara wisuda kelulusan universitas (umumnya juga disebut พิธีรับปริญญา).",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

@@ -2704,5 +2704,860 @@ export const KOREAN_VOCABULARY: VocabularyItem[] = [
     ],
     "id": "ko-voc-141",
     "languageId": "korean"
+  },
+  {
+    "id": "ko-voc-142",
+    "languageId": "korean",
+    "word": "월요일",
+    "phonetic": "woryoil",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "월요일 아침마다 전체 조회와 조회가 열립니다.",
+    "examplePhonetic": "Woryoil achimmada jeonche johwega yeollimnida.",
+    "exampleTranslation": "Setiap Senin pagi diadakan apel seluruh sekolah.",
+    "notes": "Berasal dari Hanja 月 (bulan).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-143",
+    "languageId": "korean",
+    "word": "화요일",
+    "phonetic": "hwayoil",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "화요일에는 실험실에서 물리학 수업이 있습니다.",
+    "examplePhonetic": "Hwayoireneun silheomsireseo mullihak sueobi itseumnida.",
+    "exampleTranslation": "Hari Selasa ada pelajaran fisika di laboratorium.",
+    "notes": "Berasal dari Hanja 火 (api).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-144",
+    "languageId": "korean",
+    "word": "수요일",
+    "phonetic": "suyoil",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "수요일 오후는 동아리 활동 시간입니다.",
+    "examplePhonetic": "Suyoil ohuneun dongari hwaldong sigan-imnida.",
+    "exampleTranslation": "Rabu sore adalah waktu kegiatan perkumpulan klub ekstrakurikuler.",
+    "notes": "Berasal dari Hanja 水 (air).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-145",
+    "languageId": "korean",
+    "word": "목요일",
+    "phonetic": "mogyoil",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "목요일에 지도교수님과 연구 면담을 진행합니다.",
+    "examplePhonetic": "Mogyoire jidogyosunim-gwa yeongu myeondam-eul jinhaenghamnnida.",
+    "exampleTranslation": "Hari Kamis melaksanakan konsultasi riset dengan dosen pembimbing.",
+    "notes": "Berasal dari Hanja 木 (kayu/pohon).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-146",
+    "languageId": "korean",
+    "word": "금요일",
+    "phonetic": "geumyoil",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "금요일은 이번 주 과제 제출 마감일입니다.",
+    "examplePhonetic": "Geumyoireun ibeon ju gwaje jechul magam-irimnida.",
+    "exampleTranslation": "Jumat adalah batas akhir penyerahan tugas minggu ini.",
+    "notes": "Berasal dari Hanja 金 (emas/logam).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-147",
+    "languageId": "korean",
+    "word": "토요일",
+    "phonetic": "toyoil",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "토요일에 중앙도서관에서 자격증 시험을 준비합니다.",
+    "examplePhonetic": "Toyoire jung-ang doseogwan-eseo jagyeokjeung siheom-eul junbihamnida.",
+    "exampleTranslation": "Hari Sabtu saya mempersiapkan ujian sertifikasi di perpustakaan pusat.",
+    "notes": "Berasal dari Hanja 土 (tanah/bumi).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-148",
+    "languageId": "korean",
+    "word": "일요일",
+    "phonetic": "iryoil",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "일요일에는 기숙사에서 휴식을 취하며 재충전합니다.",
+    "examplePhonetic": "Iryoireneun gisuksa-eseo hyusig-eul chwihamyeo jaechungjeonhamnida.",
+    "exampleTranslation": "Hari Minggu saya beristirahat di asrama untuk mengisi energi kembali.",
+    "notes": "Berasal dari Hanja 日 (matahari/hari).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-149",
+    "languageId": "korean",
+    "word": "시간표",
+    "phonetic": "siganpyo",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "새 학기 강의 시간표를 꼼꼼하게 확인하세요.",
+    "examplePhonetic": "Sae hakgi gang-ui siganpyo-reul kkomkkomhage hwaginhaseyo.",
+    "exampleTranslation": "Periksalah jadwal kuliah semester baru dengan teliti.",
+    "notes": "시간 (waktu) + 표 (tabel/jadwal).",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-150",
+    "languageId": "korean",
+    "word": "평일",
+    "phonetic": "pyeong-il",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "학생복지관은 평일 오전 9시부터 오후 6시까지 운영합니다.",
+    "examplePhonetic": "Haksaengbokjigwan-eun pyeong-il ojeon ahop-sibuteo ohu yeoseot-sikkaji un-yeonghamnida.",
+    "exampleTranslation": "Pusat kesejahteraan mahasiswa buka hari kerja dari jam 9 pagi hingga jam 6 sore.",
+    "notes": "Mengacu pada hari Senin sampai Jumat.",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "ko-voc-151",
+    "languageId": "korean",
+    "word": "주말",
+    "phonetic": "jumal",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "주말 동안 시험 범위의 교재를 모두 복습했습니다.",
+    "examplePhonetic": "Jumal dong-an siheom beomwi-ui gyojae-reul modu bokseuphaetseumnida.",
+    "exampleTranslation": "Selama akhir pekan saya telah mengulang seluruh materi buku materi ujian.",
+    "notes": "주 (minggu) + 말 (akhir).",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-152",
+    "languageId": "korean",
+    "word": "수학",
+    "phonetic": "suhak",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "수학 공식을 논리적으로 이해하면 문제 풀이가 쉬워집니다.",
+    "examplePhonetic": "Suhak gongsig-eul nollijeog-euro ihaehamyeon munje puriga swiwojimnida.",
+    "exampleTranslation": "Jika memahami rumus matematika secara logis, pengerjaan soal menjadi mudah.",
+    "notes": "Hanja 數學.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-153",
+    "languageId": "korean",
+    "word": "물리학",
+    "phonetic": "mullihak",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "양자물리학은 첨단 반도체 기술의 핵심 학문입니다.",
+    "examplePhonetic": "Yangjamullihag-eun cheomdan bandoche gisul-ui haeksim hangmun-imnida.",
+    "exampleTranslation": "Fisika kuantum adalah bidang keilmuan inti dalam teknologi semikonduktor mutakhir.",
+    "notes": "Di sekolah sering disingkat 물리 (mulli).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-154",
+    "languageId": "korean",
+    "word": "화학",
+    "phonetic": "hwahak",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "화학 반응 실험을 진행할 때는 환기 장치를 켜야 합니다.",
+    "examplePhonetic": "Hwahak ban-eung silheom-eul jinhaenghal ttae-neun hwanggi jangchi-reul kyeoya hamnida.",
+    "exampleTranslation": "Saat menjalankan eksperimen reaksi kimia wajib menyalakan alat ventilasi.",
+    "notes": "Hanja 化學.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-155",
+    "languageId": "korean",
+    "word": "생물학",
+    "phonetic": "saengmulhak",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "분자생물학 연구실에서 유전자 편집 기술을 실험합니다.",
+    "examplePhonetic": "Bunjasaengmulhak yeongusir-eseo yujeonja pyeonjip gisul-eul silheomhamnida.",
+    "exampleTranslation": "Menguji teknologi rekayasa genetika di laboratorium biologi molekuler.",
+    "notes": "Sering disingkat 생물 (saengmul).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-156",
+    "languageId": "korean",
+    "word": "역사",
+    "phonetic": "yeoksa",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "한국사와 동아시아 역사를 심도 있게 배웁니다.",
+    "examplePhonetic": "Hanguksa-wa dong-asia yeoksa-reul simdo itge baeumnida.",
+    "exampleTranslation": "Mempelajari sejarah Korea dan sejarah Asia Timur secara mendalam.",
+    "notes": "Hanja 歷史.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-157",
+    "languageId": "korean",
+    "word": "지리학",
+    "phonetic": "jirihak",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "지리 수업에서 전 세계의 기후 변화와 지형을 분석합니다.",
+    "examplePhonetic": "Jiri sueob-eseo jeon segye-ui gihu byeonhwa-wa jihyeong-eul bunseokhamnida.",
+    "exampleTranslation": "Menganalisis perubahan iklim dan bentang alam global pada pelajaran geografi.",
+    "notes": "Sering disingkat 지리 (jiri).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-158",
+    "languageId": "korean",
+    "word": "문학",
+    "phonetic": "munhak",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "국어국문학과에서 한국 현대 소설과 시를 연구합니다.",
+    "examplePhonetic": "Gugeogukmunhakkwa-eseo hanguk hyeondae soseol-gwa si-reul yeonguhamnida.",
+    "exampleTranslation": "Meneliti novel modern dan puisi Korea di jurusan bahasa dan sastra Korea.",
+    "notes": "Hanja 文學.",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-159",
+    "languageId": "korean",
+    "word": "컴퓨터과학",
+    "phonetic": "keompyuteo gwahak",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "컴퓨터공학과 학생들은 자료구조와 인공지능을 공부합니다.",
+    "examplePhonetic": "Keompyuteogonghakkwa haksaengdeur-eun jaryogujo-wa ingongjin-eung-eul gongbuhamnida.",
+    "exampleTranslation": "Mahasiswa jurusan teknik komputer mempelajari struktur data dan kecerdasan buatan.",
+    "notes": "Juga dikenal sebagai 컴퓨터공학 (keompyuteo gonghak).",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-160",
+    "languageId": "korean",
+    "word": "경제학",
+    "phonetic": "gyeongjehak",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "경제학원론 강의는 경영대 학생들의 필수 이수 과목입니다.",
+    "examplePhonetic": "Gyeongjehang-wonron gang-uineun gyeong-yeongdae haksaengdeur-ui pilsu isu gwamog-imnida.",
+    "exampleTranslation": "Kuliah Pengantar Ilmu Ekonomi adalah mata kuliah wajib mahasiswa fakultas bisnis.",
+    "notes": "Hanja 經濟學.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-161",
+    "languageId": "korean",
+    "word": "철학",
+    "phonetic": "cheolhak",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 4)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "철학 수업은 사물의 본질을 논리적으로 탐구하는 안목을 길러줍니다.",
+    "examplePhonetic": "Cheolhak sueob-eun samur-ui bonjir-eul nollijeog-euro tamguhaneun anmog-eul gilleojumnida.",
+    "exampleTranslation": "Pelajaran filsafat memupuk wawasan untuk menelaah hakikat segala hal secara logis.",
+    "notes": "Hanja 哲學.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-162",
+    "languageId": "korean",
+    "word": "미술",
+    "phonetic": "misul",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "미술대학 실기실에서 유화 작품 제작에 몰두하고 있습니다.",
+    "examplePhonetic": "Misuldaehak silgisir-eseo yuhwa jakpum jejag-e molduhago itseumnida.",
+    "exampleTranslation": "Sedang asyik membuat karya lukisan minyak di studio praktik fakultas seni rupa.",
+    "notes": "Hanja 美術.",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-163",
+    "languageId": "korean",
+    "word": "체육",
+    "phonetic": "che-yuk",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "체육 시간에는 배드민턴과 농구 기본기를 훈련합니다.",
+    "examplePhonetic": "Che-yuk sigan-eneun baedeuminteon-gwa nonggu gibongi-reul hullyeonhamnida.",
+    "exampleTranslation": "Pada jam pelajaran olahraga melatih keterampilan dasar bulu tangkis dan bola basket.",
+    "notes": "Hanja 體育.",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-164",
+    "languageId": "korean",
+    "word": "의학",
+    "phonetic": "uihak",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "의과대학 예과와 본과 과정을 거쳐 의사 면허를 취득합니다.",
+    "examplePhonetic": "Uigwadaehak yegwa-wa bon-gwa gwajeong-eul geocheo uisa myeonheo-reul chwideukhamnida.",
+    "exampleTranslation": "Menempuh program pra-kedokteran dan program utama kedokteran untuk meraih lisensi dokter.",
+    "notes": "Fakultas kedokteran di Korea berdurasi 6 tahun.",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-165",
+    "languageId": "korean",
+    "word": "법학",
+    "phonetic": "beophak",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "법학전문대학원(로스쿨) 진학을 위해 법률 이론을 공부합니다.",
+    "examplePhonetic": "Beophak jeonmun daehagwon(roseukul) jinhag-eul wihae beomnyul iron-eul gongbuhamnida.",
+    "exampleTranslation": "Mempelajari teori hukum untuk melanjutkan ke sekolah pascasarjana hukum (Law School).",
+    "notes": "Di Korea sekolah hukum pascasarjana lazim disebut 로스쿨 (Law School).",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-166",
+    "languageId": "korean",
+    "word": "공학",
+    "phonetic": "gonghak",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "공과대학 연구소에서 친환경 신소재 기술을 개발합니다.",
+    "examplePhonetic": "Gonggwadaehak yeonguso-eseo chinhwangyeong sinsojae gisul-eul gaebalhamnida.",
+    "exampleTranslation": "Mengembangkan teknologi material baru ramah lingkungan di lab riset fakultas teknik.",
+    "notes": "Hanja 工學.",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-167",
+    "languageId": "korean",
+    "word": "교실",
+    "phonetic": "gyosil",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "수업 시작 전에 교실 앞자리에 앉아 준비를 마쳤습니다.",
+    "examplePhonetic": "Sueop sijak jeon-e gyosil apjari-e anja junbi-reul machyeotseumnida.",
+    "exampleTranslation": "Sebelum pelajaran dimulai saya sudah duduk di baris depan ruang kelas dan siap belajar.",
+    "notes": "Di universitas sering disebut 강의실 (gang-uisil - ruang kuliah).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-168",
+    "languageId": "korean",
+    "word": "도서관",
+    "phonetic": "doseogwan",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "도서관 모바일 열람증으로 전공 서적을 대출했습니다.",
+    "examplePhonetic": "Doseogwan mobail yeollamjeung-euro jeongong seojeog-eul daechulhaetseumnida.",
+    "exampleTranslation": "Meminjam buku teks referensi jurusan menggunakan kartu baca perpustakaan di aplikasi ponsel.",
+    "notes": "Perpustakaan pusat kampus dinamakan 중앙도서관 (jung-ang doseogwan).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-169",
+    "languageId": "korean",
+    "word": "실험실",
+    "phonetic": "silheomsil",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "연구 실험실에 들어갈 때는 반드시 보안경과 실험복을 착용하세요.",
+    "examplePhonetic": "Yeongu silheomsir-e deureogal ttae-neun bandeusi boan-gyeong-gwa silheombok-eul chagyonghaseyo.",
+    "exampleTranslation": "Saat memasuki laboratorium penelitian wajib mengenakan kacamata pelindung dan jas lab.",
+    "notes": "Dalam budaya pascasarjana Korea sering disebut 랩실 (raepsil).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-170",
+    "languageId": "korean",
+    "word": "강당",
+    "phonetic": "gangdang",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "대학 대강당에서 신입생 오리엔테이션이 성대하게 열렸다.",
+    "examplePhonetic": "Daehak daegangdang-eseo sinipsaeng orientteisyeon-i seongdaehage yeollyeotda.",
+    "exampleTranslation": "Orientasi mahasiswa baru diselenggarakan dengan meriah di aula besar universitas.",
+    "notes": "Hanja 講堂.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-171",
+    "languageId": "korean",
+    "word": "교무실",
+    "phonetic": "gyomusil",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "숙제 제출을 위해 본관 2층 교무실로 찾아갔습니다.",
+    "examplePhonetic": "Sukje jechul-eul wihae bongwan icheung gyomusil-ro chajagatseumnida.",
+    "exampleTranslation": "Pergi ke ruang guru di lantai 2 gedung utama untuk menyerahkan tugas PR.",
+    "notes": "Di universitas tiap dosen memiliki ruang kerja pribadi yang disebut 연구실 (yeongusil).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-172",
+    "languageId": "korean",
+    "word": "총장실",
+    "phonetic": "chongjangsil",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 4)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "외국인 우수 장학생 대표단이 총장실을 예방하여 환담을 나누었습니다.",
+    "examplePhonetic": "Oeguk-in usu janghaksaeng daepyodan-i chongjangsir-eul yebanghayeo hwandam-eul nanueotseumnida.",
+    "exampleTranslation": "Delegasi mahasiswa penerima beasiswa berprestasi berkunjung ke ruang rektorat dan ramah tamah.",
+    "notes": "Di sekolah dasar/menengah kepala sekolah disebut 교장 (gyojang -> 교장실).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-173",
+    "languageId": "korean",
+    "word": "학생식당",
+    "phonetic": "haksaeng sikdang",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "학생식당에서는 저렴하고 영양가 높은 백반을 제공합니다.",
+    "examplePhonetic": "Haksaengsikdang-eseoneun jeoryeomhago yeong-yanggwa nopeun baekban-eul jegonghamnida.",
+    "exampleTranslation": "Kantin mahasiswa menyajikan set menu nasi hemat bernutrisi tinggi.",
+    "notes": "Sering disingkat 학식 (haksik) oleh kalangan mahasiswa.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-174",
+    "languageId": "korean",
+    "word": "체육관",
+    "phonetic": "cheyuggwan",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "교내 체육관에서 전국 대학 농구 리그전이 개최됩니다.",
+    "examplePhonetic": "Gyonae cheyuggwan-eseo jeonguk daehak nonggu rigeujeon-i gaechoedoemnida.",
+    "exampleTranslation": "Kejuaraan liga basket antarmahasiswa nasional digelar di gimnasium kampus.",
+    "notes": "Hanja 體育館.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-175",
+    "languageId": "korean",
+    "word": "기숙사",
+    "phonetic": "gisuksa",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "기숙사 룸메이트와 함께 배려하며 규칙을 잘 지킵니다.",
+    "examplePhonetic": "Gisuksa rummeiteu-wa hamkke baeryeohamyeo gyuchig-eul jal jikimnida.",
+    "exampleTranslation": "Saling bertenggang rasa dan menaati aturan bersama teman sekamar asrama.",
+    "notes": "Hanja 寄宿舍.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-176",
+    "languageId": "korean",
+    "word": "보건실",
+    "phonetic": "bogeonsil",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "두통이 심해서 교내 보건실에 들러 상비약을 받았습니다.",
+    "examplePhonetic": "Dutong-i simhaeseo gyonae bogeonsir-e deulleo sangbiyag-eul badatseumnida.",
+    "exampleTranslation": "Karena sakit kepala berat, mampir ke ruang UKS kampus untuk mengambil obat pertolongan pertama.",
+    "notes": "Di universitas sering dinamakan 건강공제회 atau 학생의무실.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-177",
+    "languageId": "korean",
+    "word": "컴퓨터실",
+    "phonetic": "keompyuteosil",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "중앙전산원 컴퓨터실에서 수강신청을 성공적으로 완료했습니다.",
+    "examplePhonetic": "Jung-angjeonsanwon keompyuteosir-eseo sugangsincheong-eul seonggongjeog-euro wanryohaetseumnida.",
+    "exampleTranslation": "Berhasil menyelesaikan pengisian KRS di laboratorium komputer pusat komputasi kampus.",
+    "notes": "Di kampus besar disebut juga 전산실 (jeonsansil).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-178",
+    "languageId": "korean",
+    "word": "학과사무실",
+    "phonetic": "hakgwa samusil",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "졸업 요건 확인을 위해 학과사무실 조교님께 문의드렸습니다.",
+    "examplePhonetic": "Joreop yogeon hwagin-eul wihae hakgwasamusil jogyonimkke mun-uideuryeotseumnida.",
+    "exampleTranslation": "Bertanya kepada asisten di kantor sekretariat jurusan untuk memastikan syarat kelulusan.",
+    "notes": "Sering disingkat 과사 (gwasa) oleh mahasiswa.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-179",
+    "languageId": "korean",
+    "word": "교과서",
+    "phonetic": "gyogwaseo",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "수업 시간에 교과서 본문을 소리 내어 함께 읽습니다.",
+    "examplePhonetic": "Sueop sigan-e gyogwaseo bonmun-eul sori naeeo hamkke ikseumnida.",
+    "exampleTranslation": "Membaca teks isi buku pelajaran bersama-sama secara lantang saat jam kelas.",
+    "notes": "Di perguruan tinggi materi kuliah tebal disebut 교재 (gyojae) atau 전공서적.",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-180",
+    "languageId": "korean",
+    "word": "칠판",
+    "phonetic": "chilpan",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "선생님께서 칠판에 적어 주신 핵심 문법을 필기했습니다.",
+    "examplePhonetic": "Seonsaengnimkkeseo chilpan-e jeogeo jusin haeksim munbeob-eul pilgihanetseumnida.",
+    "exampleTranslation": "Mencatat poin tata bahasa penting yang dituliskan guru di papan tulis.",
+    "notes": "Papan spidol putih disebut 화이트보드 (hwaiteubodeu).",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-181",
+    "languageId": "korean",
+    "word": "숙제",
+    "phonetic": "sukje",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "매일 꾸준히 숙제를 하면 한국어 실력이 빠르게 향상됩니다.",
+    "examplePhonetic": "Maeil kkujunhi sukje-reul hamyeon hanguk-eo sillyeog-i ppareuge hyangsangdoemnida.",
+    "exampleTranslation": "Jika konsisten mengerjakan PR setiap hari, kemampuan bahasa Korea akan meningkat pesat.",
+    "notes": "Di universitas tugas mandiri atau laporan ilmiah selalu disebut 과제 (gwaje) atau 리포트 (ripoteu).",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-182",
+    "languageId": "korean",
+    "word": "시험",
+    "phonetic": "siheom",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "중간고사와 기말시험 모두 우수한 성적을 거두었습니다.",
+    "examplePhonetic": "Jung-gangosa-wa gimarsiheom modu usuhan seongjeog-eul geodueotseumnida.",
+    "exampleTranslation": "Meraih prestasi gemilang baik pada ujian tengah semester maupun ujian akhir semester.",
+    "notes": "Mencakup 중간고사 (UTS) dan 기말고사 (UAS).",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-183",
+    "languageId": "korean",
+    "word": "교복",
+    "phonetic": "gyobok",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "한국 중고등학생들은 단정한 교복을 입고 등교합니다.",
+    "examplePhonetic": "Hanguk junggodeunghaksaengdeur-eun danjeonghan gyobog-eul ipgo deunggyohamnida.",
+    "exampleTranslation": "Siswa SMP dan SMA Korea mengenakan seragam sekolah yang rapi saat berangkat sekolah.",
+    "notes": "Jaket almamater universitas di Korea populer dengan sebutan 과잠 (gwajam).",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-184",
+    "languageId": "korean",
+    "word": "학생증",
+    "phonetic": "haksaengjeung",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "학생증을 태그해야 도서관 열람실 좌석을 배정받을 수 있습니다.",
+    "examplePhonetic": "Haksaengjeung-eul taegeuhaeya doseogwan yeollamsil jwaseog-eul baejeongbadeul su itseumnida.",
+    "exampleTranslation": "Wajib memindai kartu mahasiswa untuk mendapatkan alokasi nomor kursi di ruang baca perpustakaan.",
+    "notes": "KTM modern di Korea sering terintegrasi dengan kartu transportasi (T-money) dan kartu debit bank.",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "ko-voc-185",
+    "languageId": "korean",
+    "word": "장학금",
+    "phonetic": "janghakgeum",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 2 (Level 3)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "대한민국 정부초청장학금(GKS)을 받아 서울 소재 대학교에 입학했다.",
+    "examplePhonetic": "Daehanminguk jeongbuchocheong janghakgeum(GKS)-eul bada Seoul sojae daehaggyo-e iphakhaetda.",
+    "exampleTranslation": "Menerima Beasiswa Pemerintah Korea (GKS) lalu masuk universitas ternama di Seoul.",
+    "notes": "장 (menganjurkan) + 학 (studi) + 금 (dana/uang).",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "ko-voc-186",
+    "languageId": "korean",
+    "word": "졸업식",
+    "phonetic": "joreopsik",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "TOPIK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "졸업식에서 학사모를 던지며 정든 교정을 떠났습니다.",
+    "examplePhonetic": "Joreopsig-eseo haksamo-reul deonjimyeo jeongdeun gyojeong-eul tteonatseumnida.",
+    "exampleTranslation": "Melempar topi toga kelulusan saat upacara wisuda dan berpamitan dengan kampus tercinta.",
+    "notes": "Di Korea upacara wisuda umumnya diselenggarakan pada pertengahan bulan Februari.",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

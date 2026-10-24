@@ -2704,5 +2704,860 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     ],
     "id": "en-voc-141",
     "languageId": "english"
+  },
+  {
+    "id": "en-voc-142",
+    "languageId": "english",
+    "word": "Monday",
+    "phonetic": "/ˈmʌn.deɪ/",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Our faculty holds the weekly department briefing every Monday morning.",
+    "examplePhonetic": "/aʊər ˈfæk.əl.ti hoʊldz ðə ˈwiː.kli dɪˈpɑːrt.mənt ˈbriː.fɪŋ ˈev.ri ˈmʌn.deɪ ˈmɔːr.nɪŋ/",
+    "exampleTranslation": "Fakultas kami mengadakan pengarahan mingguan jurusan setiap Senin pagi.",
+    "notes": "Always capitalised in English.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-143",
+    "languageId": "english",
+    "word": "Tuesday",
+    "phonetic": "/ˈtjuːz.deɪ/",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "We conduct chemistry experiments in the laboratory every Tuesday afternoon.",
+    "examplePhonetic": "/wiː kənˈdʌkt ˈkem.ɪ.stri ɪkˈsper.ə.mənts ɪn ðə ləˈbɔːr.ə.tɔːr.i ˈev.ri ˈtjuːz.deɪ ˌæf.tɚˈnuːn/",
+    "exampleTranslation": "Kami melakukan eksperimen kimia di laboratorium setiap Selasa sore.",
+    "notes": "Second working day of the academic week.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-144",
+    "languageId": "english",
+    "word": "Wednesday",
+    "phonetic": "/ˈwenz.deɪ/",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Midweek seminars on academic writing are scheduled for Wednesday.",
+    "examplePhonetic": "/ˌmɪdˈwiːk ˈsem.ə.nɑːrz ɒn ˌæk.əˈdem.ɪk ˈraɪ.tɪŋ ɑːr ˈskedʒ.uːld fɔːr ˈwenz.deɪ/",
+    "exampleTranslation": "Seminar penulisan akademik pertengahan minggu dijadwalkan pada hari Rabu.",
+    "notes": "Pronounced with a silent 'd': /ˈwenz.deɪ/.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-145",
+    "languageId": "english",
+    "word": "Thursday",
+    "phonetic": "/ˈθɜːrz.deɪ/",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Office hours for academic advising are held on Thursday mornings.",
+    "examplePhonetic": "/ˈɑː.fɪs ˈaʊ.ərz fɔːr ˌæk.əˈdem.ɪk ædˈvaɪ.zɪŋ ɑːr held ɒn ˈθɜːrz.deɪ ˈmɔːr.nɪŋz/",
+    "exampleTranslation": "Jam konsultasi bimbingan akademik diadakan pada Kamis pagi.",
+    "notes": "Begins with the unvoiced dental fricative /θ/.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-146",
+    "languageId": "english",
+    "word": "Friday",
+    "phonetic": "/ˈfraɪ.deɪ/",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "All postgraduate term papers must be submitted before Friday at 5:00 PM.",
+    "examplePhonetic": "/ɔːl ˌpoʊstˈɡrædʒ.u.ət tɜːrm ˈpeɪ.pərz mʌst biː səbˈmɪt.ɪd bɪˈfɔːr ˈfraɪ.deɪ æt faɪv piː em/",
+    "exampleTranslation": "Semua makalah akhir pascasarjana wajib dikumpulkan sebelum Jumat jam 5 sore.",
+    "notes": "The concluding day of the standard academic teaching week.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-147",
+    "languageId": "english",
+    "word": "Saturday",
+    "phonetic": "/ˈsæt.ər.deɪ/",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "The main campus library remains open on Saturday for independent study.",
+    "examplePhonetic": "/ðə meɪn ˈkæm.pəs ˈlaɪ.brer.i rɪˈmeɪnz ˈoʊ.pən ɒn ˈsæt.ər.deɪ fɔːr ˌɪn.dɪˈpen.dənt ˈstʌd.i/",
+    "exampleTranslation": "Perpustakaan kampus utama tetap buka pada hari Sabtu untuk belajar mandiri.",
+    "notes": "Part of the weekend.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-148",
+    "languageId": "english",
+    "word": "Sunday",
+    "phonetic": "/ˈsʌn.deɪ/",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Sunday is reserved for rest and personal revision before the new week begins.",
+    "examplePhonetic": "/ˈsʌn.deɪ ɪz rɪˈzɜːrvd fɔːr rest ænd ˈpɜːr.sən.əl rɪˈvɪʒ.ən bɪˈfɔːr ðə nuː wiːk bɪˈɡɪnz/",
+    "exampleTranslation": "Hari Minggu dicadangkan untuk istirahat dan evaluasi mandiri sebelum minggu baru dimulai.",
+    "notes": "Seventh day of the week in standard ISO calendar.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-149",
+    "languageId": "english",
+    "word": "Timetable",
+    "phonetic": "/ˈtaɪmˌteɪ.bəl/",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Please download your updated lecture timetable from the student portal.",
+    "examplePhonetic": "/pliːz ˌdaʊnˈloʊd jɔːr ʌpˈdeɪ.tɪd ˈlek.tʃər ˈtaɪmˌteɪ.bəl frɒm ðə ˈstjuː.dənt ˈpɔːr.təl/",
+    "exampleTranslation": "Silakan unduh jadwal kuliah terbaru Anda dari portal mahasiswa.",
+    "notes": "Commonly termed 'class schedule' in American English.",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-150",
+    "languageId": "english",
+    "word": "Weekday",
+    "phonetic": "/ˈwiːk.deɪ/",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Campus shuttle buses run every fifteen minutes on weekdays.",
+    "examplePhonetic": "/ˈkæm.pəs ˈʃʌt.əl ˈbʌs.ɪz rʌn ˈev.ri ˌfɪfˈtiːn ˈmɪn.ɪts ɒn ˈwiːk.deɪz/",
+    "exampleTranslation": "Bus antar-jemput kampus beroperasi setiap lima belas menit pada hari kerja.",
+    "notes": "Encompasses Monday through Friday.",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "en-voc-151",
+    "languageId": "english",
+    "word": "Weekend",
+    "phonetic": "/ˈwiːk.end/",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Many international scholars explore the city during the weekend.",
+    "examplePhonetic": "/ˈmen.i ˌɪn.təˈnæʃ.ən.əl ˈskɒl.ərz ɪkˈsplɔːr ðə ˈsɪt.i ˈdjʊə.rɪŋ ðə ˈwiːk.end/",
+    "exampleTranslation": "Banyak pelajar internasional menjelajahi kota selama akhir pekan.",
+    "notes": "Saturday and Sunday.",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-152",
+    "languageId": "english",
+    "word": "Mathematics",
+    "phonetic": "/ˌmæθˈmæt.ɪks/",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Advanced mathematics forms the quantitative bedrock of modern engineering.",
+    "examplePhonetic": "/ədˈvænst ˌmæθˈmæt.ɪks fɔːrmz ðə ˈkwɒn.tɪ.teɪ.tɪv ˈbed.rɒk ɒv ˈmɒd.ərn ˌen.dʒɪˈnɪə.rɪŋ/",
+    "exampleTranslation": "Matematika tingkat lanjut membentuk landasan kuantitatif ilmu rekayasa modern.",
+    "notes": "Abbreviated as 'maths' in British English and 'math' in American English.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-153",
+    "languageId": "english",
+    "word": "Physics",
+    "phonetic": "/ˈfɪz.ɪks/",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Theoretical physics investigates the fundamental laws governing the universe.",
+    "examplePhonetic": "/ˌθɪəˈret.ɪ.kəl ˈfɪz.ɪks ɪnˈves.tɪ.ɡeɪts ðə ˌfʌn.dəˈmen.təl lɔːz ˈɡʌv.ər.nɪŋ ðə ˈjuː.nɪ.vɜːrs/",
+    "exampleTranslation": "Fisika teoretis meneliti hukum-hukum fundamental yang mengatur alam semesta.",
+    "notes": "Takes a singular verb despite ending in -s.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-154",
+    "languageId": "english",
+    "word": "Chemistry",
+    "phonetic": "/ˈkem.ɪ.stri/",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Organic chemistry requires diligent laboratory practice and analytical rigor.",
+    "examplePhonetic": "/ɔːrˈɡæn.ɪk ˈkem.ɪ.stri rɪˈkwaɪərz ˈdɪl.ə.dʒənt ləˈbɒr.ə.tɔːr.i ˈpræk.tɪs ænd ˌæn.əˈlɪt.ɪ.kəl ˈrɪɡ.ər/",
+    "exampleTranslation": "Kimia organik membutuhkan latihan laboratorium yang tekun dan ketelitian analitis.",
+    "notes": "Pertains to chemical substances and reactions.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-155",
+    "languageId": "english",
+    "word": "Biology",
+    "phonetic": "/baɪˈɒl.ə.dʒi/",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Molecular biology has revolutionized modern pharmaceutical discovery.",
+    "examplePhonetic": "/məˈlek.jə.lər baɪˈɒl.ə.dʒi hæz ˌrev.əˈluː.ʃə.naɪzd ˈmɒd.ərn ˌfɑːr.məˈsjuː.tɪ.kəl dɪˈskʌv.ər.i/",
+    "exampleTranslation": "Biologi molekuler telah merevolusi penemuan obat-obatan modern.",
+    "notes": "Bio (life) + logy (study of).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-156",
+    "languageId": "english",
+    "word": "History",
+    "phonetic": "/ˈhɪs.tər.i/",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "The history seminar examined primary diplomatic treaties of the twentieth century.",
+    "examplePhonetic": "/ðə ˈhɪs.tər.i ˈsem.ə.nɑːr ɪɡˈzæm.ɪnd ˈpraɪ.mer.i ˌdɪp.ləˈmæt.ɪk ˈtriː.tiz ɒv ðə ˈtwen.ti.əθ ˈsen.tʃər.i/",
+    "exampleTranslation": "Seminar sejarah mengkaji traktat diplomatik primer abad kedua puluh.",
+    "notes": "Includes ancient, medieval, and contemporary history.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-157",
+    "languageId": "english",
+    "word": "Geography",
+    "phonetic": "/dʒiˈɒɡ.rə.fi/",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Physical geography explores spatial topography and hydrological ecosystems.",
+    "examplePhonetic": "/ˈfɪz.ɪ.kəl dʒiˈɒɡ.rə.fi ɪkˈsplɔːrz ˈspeɪ.ʃəl təˈpɒɡ.rə.fi ænd ˌhaɪ.drəˈlɒdʒ.ɪ.kəl ˈiː.koʊˌsɪs.təmz/",
+    "exampleTranslation": "Geografi fisik mengeksplorasi topografi spasial dan ekosistem hidrologi.",
+    "notes": "Geo (earth) + graphy (writing/representation).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-158",
+    "languageId": "english",
+    "word": "Literature",
+    "phonetic": "/ˈlɪt.rə.tʃər/",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Comparative literature fosters critical appreciation of world poetry and prose.",
+    "examplePhonetic": "/kəmˈpær.ə.tɪv ˈlɪt.rə.tʃər ˈfɒs.tərz ˈkrɪt.ɪ.kəl əˌpriː.ʃiˈeɪ.ʃən ɒv wɜːrld ˈpoʊ.ə.tri ænd proʊz/",
+    "exampleTranslation": "Sastra bandingan memupuk apresiasi kritis terhadap puisi dan prosa dunia.",
+    "notes": "Encompasses literary theory and textual analysis.",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-159",
+    "languageId": "english",
+    "word": "Computer Science",
+    "phonetic": "/kəmˈpjuː.tər ˈsaɪ.əns/",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Computer science curricula emphasize algorithm design and cybersecurity.",
+    "examplePhonetic": "/kəmˈpjuː.tər ˈsaɪ.əns kəˈrɪk.jə.lə ˈem.fə.saɪz ˈæl.ɡə.rɪ.ðəm dɪˈzaɪn ænd ˈsaɪ.bər.sɪˌkjʊə.rɪ.ti/",
+    "exampleTranslation": "Kurikulum ilmu komputer menekankan perancangan algoritma dan keamanan siber.",
+    "notes": "Frequently abbreviated as 'CS'.",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-160",
+    "languageId": "english",
+    "word": "Economics",
+    "phonetic": "/ˌek.əˈnɒm.ɪks/",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Development economics analyzes fiscal policies that alleviate global poverty.",
+    "examplePhonetic": "/dɪˈvel.əp.mənt ˌek.əˈnɒm.ɪks ˈæn.əl.aɪ.zɪz ˈfɪs.kəl ˈpɒl.ə.siz ðæt əˈliː.vi.eɪt ˈɡloʊ.bəl ˈpɒv.ə.ti/",
+    "exampleTranslation": "Ekonomi pembangunan menganalisis kebijakan fiskal yang mengentaskan kemiskinan global.",
+    "notes": "Takes a singular verb in academic prose.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-161",
+    "languageId": "english",
+    "word": "Philosophy",
+    "phonetic": "/fɪˈlɒs.ə.fi/",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "B2 (Upper-Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Moral philosophy cultivates structured deliberation on ethical dilemmas.",
+    "examplePhonetic": "/ˈmɒr.əl fɪˈlɒs.ə.fi ˈkʌl.tɪ.veɪts ˈstrʌk.tʃərd dɪˌlɪb.əˈreɪ.ʃən ɒn ˈeθ.ɪ.kəl daɪˈlem.əz/",
+    "exampleTranslation": "Filsafat moral membina pertimbangan terstruktur dalam menghadapi dilema etis.",
+    "notes": "Philo (love) + sophia (wisdom).",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-162",
+    "languageId": "english",
+    "word": "Fine Arts",
+    "phonetic": "/faɪn ɑːrts/",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "The department of fine arts curates an annual showcase of student sculptures.",
+    "examplePhonetic": "/ðə dɪˈpɑːrt.mənt ɒv faɪn ɑːrts ˈkjʊə.reɪts æn ˈæn.ju.əl ˈʃoʊ.keɪs ɒv ˈstjuː.dənt ˈskʌlp.tʃərz/",
+    "exampleTranslation": "Departemen seni rupa mengkurasi pameran tahunan karya patung mahasiswa.",
+    "notes": "Includes painting, sculpture, and visual media.",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-163",
+    "languageId": "english",
+    "word": "Physical Education",
+    "phonetic": "/ˈfɪz.ɪ.kəl ˌed.jʊˈkeɪ.ʃən/",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Physical education encourages lifelong athletic fitness and team camaraderie.",
+    "examplePhonetic": "/ˈfɪz.ɪ.kəl ˌed.jʊˈkeɪ.ʃən ɪnˈkʌr.ɪ.dʒɪz ˈlaɪf.lɒŋ æθˈlet.ɪk ˈfɪt.nəs ænd tiːm ˌkæm.əˈrɑː.dər.i/",
+    "exampleTranslation": "Pendidikan jasmani mendorong kebugaran atletik seumur hidup dan kebersamaan tim.",
+    "notes": "Almost universally abbreviated as 'PE'.",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-164",
+    "languageId": "english",
+    "word": "Medicine",
+    "phonetic": "/ˈmed.ɪ.sən/",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Graduates in medicine undergo rigorous residency training in clinical hospitals.",
+    "examplePhonetic": "/ˈɡrædʒ.u.əts ɪn ˈmed.ɪ.sən ˌʌn.dɚˈɡoʊ ˈrɪɡ.ər.əs ˈrez.ɪ.dən.si ˈtreɪ.nɪŋ ɪn ˈklɪn.ɪ.kəl ˈhɒs.pɪ.təlz/",
+    "exampleTranslation": "Lulusan ilmu kedokteran menjalani pelatihan residensi ketat di rumah sakit klinis.",
+    "notes": "Refers to both the medical science discipline and curative pharmaceuticals.",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-165",
+    "languageId": "english",
+    "word": "Law",
+    "phonetic": "/lɔː/",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Constitutional law requires meticulous interpretation of statutory jurisprudence.",
+    "examplePhonetic": "/ˌkɒn.stɪˈtjuː.ʃən.əl lɔː rɪˈkwaɪərz məˈtɪk.jə.ləs ɪnˌtɜːr.prɪˈteɪ.ʃən ɒv ˈstætʃ.ə.tɔːr.i ˌdʒʊə.rɪsˈpruː.dəns/",
+    "exampleTranslation": "Hukum tata negara membutuhkan penafsiran cermat atas yurisprudensi perundang-undangan.",
+    "notes": "Degrees include LLB, LLM, and JD.",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-166",
+    "languageId": "english",
+    "word": "Engineering",
+    "phonetic": "/ˌen.dʒɪˈnɪə.rɪŋ/",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Mechanical engineering applies thermodynamics to design sustainable propulsion engines.",
+    "examplePhonetic": "/mɪˈkæn.ɪ.kəl ˌen.dʒɪˈnɪə.rɪŋ əˈplaɪz ˌθɜːr.moʊ.daɪˈnæm.ɪks tuː dɪˈzaɪn səˈsteɪ.nə.bəl prəˈpʌl.ʃən ˈen.dʒɪnz/",
+    "exampleTranslation": "Teknik mesin menerapkan termodinamika untuk merancang mesin propulsi ramah lingkungan.",
+    "notes": "Sub-disciplines include civil, electrical, chemical, and software engineering.",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-167",
+    "languageId": "english",
+    "word": "Classroom",
+    "phonetic": "/ˈklɑːs.ruːm/",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Students assembled quietly inside the classroom awaiting the seminar.",
+    "examplePhonetic": "/ˈstjuː.dənts əˈsem.bəld ˈkwaɪ.ət.li ɪnˈsaɪd ðə ˈklɑːs.ruːm əˈweɪ.tɪŋ ðə ˈsem.ə.nɑːr/",
+    "exampleTranslation": "Para mahasiswa berkumpul dengan tertib di dalam ruang kelas menunggu seminar.",
+    "notes": "Large university lecture halls are called 'lecture theatres' in the UK.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-168",
+    "languageId": "english",
+    "word": "Library",
+    "phonetic": "/ˈlaɪ.brer.i/",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "The university library provides access to millions of peer-reviewed digital journals.",
+    "examplePhonetic": "/ðə ˌjuː.nɪˈvɜːr.sə.ti ˈlaɪ.brer.i prəˈvaɪdz ˈæk.ses tuː ˈmɪl.jənz ɒv pɪər.rɪˈvjuːd ˈdɪdʒ.ɪ.təl ˈdʒɜːr.nəlz/",
+    "exampleTranslation": "Perpustakaan universitas menyediakan akses ke jutaan jurnal digital yang tertelaah sejawat.",
+    "notes": "A silent sanctuary for academic research.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-169",
+    "languageId": "english",
+    "word": "Laboratory",
+    "phonetic": "/ləˈbɒr.ə.tɔːr.i/",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Safety regulations must be strictly observed within the biomedical laboratory.",
+    "examplePhonetic": "/ˈseɪf.ti ˌreɡ.jəˈleɪ.ʃənz mʌst biː ˈstrɪkt.li əbˈzɜːrvd wɪðˈɪn ðə ˌbaɪ.oʊˈmed.ɪ.kəl ləˈbɒr.ə.tɔːr.i/",
+    "exampleTranslation": "Peraturan keselamatan kerja wajib dipatuhi secara ketat di dalam laboratorium biomedis.",
+    "notes": "Colloquially contracted to 'lab'.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-170",
+    "languageId": "english",
+    "word": "Auditorium",
+    "phonetic": "/ˌɔː.dɪˈtɔːr.i.əm/",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "The keynote address was delivered before a packed audience in the auditorium.",
+    "examplePhonetic": "/ðə ˈkiː.noʊt əˈdres wɒz dɪˈlɪv.ərd bɪˈfɔːr ə pækt ˈɔː.di.əns ɪn ðə ˌɔː.dɪˈtɔːr.i.əm/",
+    "exampleTranslation": "Pidato utama disampaikan di hadapan hadirin yang memenuhi auditorium.",
+    "notes": "From Latin auditus (hearing/listening).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-171",
+    "languageId": "english",
+    "word": "Faculty Office",
+    "phonetic": "/ˈfæk.əl.ti ˈɑː.fɪs/",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Undergraduate researchers met their dissertation supervisors in the faculty office.",
+    "examplePhonetic": "/ˌʌn.dərˈɡrædʒ.u.ət rɪˈsɜːr.tʃərz met ðeər ˌdɪs.ərˈteɪ.ʃən ˈsuː.pə.vaɪ.zərz ɪn ðə ˈfæk.əl.ti ˈɑː.fɪs/",
+    "exampleTranslation": "Peneliti sarjana menemui pembimbing skripsi mereka di ruang dosen fakultas.",
+    "notes": "In primary/secondary schools usually called the 'staffroom'.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-172",
+    "languageId": "english",
+    "word": "Principal's Office",
+    "phonetic": "/ˈprɪn.sə.pəlz ˈɑː.fɪs/",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "The student delegation was invited to the principal's office to discuss tuition reforms.",
+    "examplePhonetic": "/ðə ˈstjuː.dənt ˌdel.ɪˈɡeɪ.ʃən wɒz ɪnˈvaɪ.tɪd tuː ðə ˈprɪn.sə.pəlz ˈɑː.fɪs tuː dɪˈskʌs tjuːˈɪʃ.ən rɪˈfɔːrmz/",
+    "exampleTranslation": "Delegasi mahasiswa diundang ke ruang rektorat untuk membahas reformasi uang kuliah.",
+    "notes": "In British universities, often called the 'Vice-Chancellor's Office'.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-173",
+    "languageId": "english",
+    "word": "Cafeteria",
+    "phonetic": "/ˌkæf.əˈtɪə.ri.ə/",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Scholars from diverse disciplines gather in the cafeteria during lunch breaks.",
+    "examplePhonetic": "/ˈskɒl.ərz frɒm daɪˈvɜːrs ˈdɪs.ə.plɪnz ˈɡæð.ər ɪn ðə ˌkæf.əˈtɪə.ri.ə ˈdjʊə.rɪŋ lʌntʃ breɪks/",
+    "exampleTranslation": "Ilmuwan dari berbagai disiplin ilmu berkumpul di kafetaria saat jeda makan siang.",
+    "notes": "Often called 'the canteen' or 'dining hall'.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-174",
+    "languageId": "english",
+    "word": "Gymnasium",
+    "phonetic": "/dʒɪmˈneɪ.zi.əm/",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "The campus gymnasium houses multi-lane swimming pools and basketball courts.",
+    "examplePhonetic": "/ðə ˈkæm.pəs dʒɪmˈneɪ.zi.əm ˈhaʊ.zɪz ˈmʌl.ti.leɪn ˈswɪm.ɪŋ puːlz ænd ˈbɑː.skɪt.bɔːl kɔːrts/",
+    "exampleTranslation": "Gedung olahraga kampus menaungi kolam renang multi-lintasan dan lapangan bola basket.",
+    "notes": "Informally shortened to 'gym'.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-175",
+    "languageId": "english",
+    "word": "Dormitory",
+    "phonetic": "/ˈdɔːr.mə.tɔːr.i/",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "First-year international undergraduates typically reside in university dormitories.",
+    "examplePhonetic": "/ˈfɜːrst.jɪər ˌɪn.təˈnæʃ.ən.əl ˌʌn.dərˈɡrædʒ.u.əts ˈtɪp.ɪ.kli rɪˈzaɪd ɪn ˌjuː.nɪˈvɜːr.sə.ti ˈdɔːr.mə.tɔːr.iz/",
+    "exampleTranslation": "Mahasiswa sarjana internasional tahun pertama umumnya bertempat tinggal di asrama universitas.",
+    "notes": "Referred to as 'halls of residence' in UK terminology and 'dorm' in US.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-176",
+    "languageId": "english",
+    "word": "Campus Clinic",
+    "phonetic": "/ˈkæm.pəs ˈklɪn.ɪk/",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Students can obtain free medical consultations at the campus clinic.",
+    "examplePhonetic": "/ˈstjuː.dənts kæn əbˈteɪn friː ˈmed.ɪ.kəl ˌkɒn.sʌlˈteɪ.ʃənz æt ðə ˈkæm.pəs ˈklɪn.ɪk/",
+    "exampleTranslation": "Mahasiswa dapat memperoleh konsultasi medis gratis di klinik kampus.",
+    "notes": "In secondary schools usually called the 'infirmary' or 'nurse's office'.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-177",
+    "languageId": "english",
+    "word": "Computer Lab",
+    "phonetic": "/kəmˈpjuː.tər læb/",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "The computer lab is equipped with high-performance computing clusters.",
+    "examplePhonetic": "/ðə kəmˈpjuː.tər læb ɪz ɪˈkwɪpt wɪð haɪ.pəˈfɔːr.məns kəmˈpjuː.tɪŋ ˈklʌs.tərz/",
+    "exampleTranslation": "Laboratorium komputer dilengkapi dengan klaster komputasi berkinerja tinggi.",
+    "notes": "Open for student project work and statistical simulations.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-178",
+    "languageId": "english",
+    "word": "Registrar's Office",
+    "phonetic": "/ˈredʒ.ɪ.strɑːrz ˈɑː.fɪs/",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Official transcripts and enrollment verifications are issued by the registrar's office.",
+    "examplePhonetic": "/əˈfɪʃ.əl ˈtræn.skrɪpts ænd ɪnˈroʊl.mənt ˌver.ɪ.fɪˈkeɪ.ʃənz ɑːr ˈɪʃ.uːd baɪ ðə ˈredʒ.ɪ.strɑːrz ˈɑː.fɪs/",
+    "exampleTranslation": "Transkrip nilai resmi dan verifikasi status mahasiswa diterbitkan oleh kantor registrasi akademik.",
+    "notes": "Manages student records, degree audits, and course enrollments.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-179",
+    "languageId": "english",
+    "word": "Textbook",
+    "phonetic": "/ˈtekst.bʊk/",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Please refer to chapter four of the assigned textbook for tonight's reading.",
+    "examplePhonetic": "/pliːz rɪˈfɜːr tuː ˈtʃæp.tər fɔːr ɒv ðə əˈsaɪnd ˈtekst.bʊk fɔːr təˈnaɪts ˈriː.dɪŋ/",
+    "exampleTranslation": "Harap rujuk bab empat dari buku teks yang ditugaskan untuk bacaan malam ini.",
+    "notes": "Standard instructional manual for academic courses.",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-180",
+    "languageId": "english",
+    "word": "Whiteboard",
+    "phonetic": "/ˈwaɪt.bɔːrd/",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "The professor outlined the mathematical derivation across the whiteboard.",
+    "examplePhonetic": "/ðə prəˈfes.ər ˈaʊt.laɪnd ðə ˌmæθˈmæt.ɪ.kəl ˌder.ɪˈveɪ.ʃən əˈkrɒs ðə ˈwaɪt.bɔːrd/",
+    "exampleTranslation": "Profesor menguraikan penurunan rumus matematika di sepanjang papan tulis putih.",
+    "notes": "Traditional chalk boards are termed 'blackboards'.",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-181",
+    "languageId": "english",
+    "word": "Homework",
+    "phonetic": "/ˈhoʊm.wɜːrk/",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "A1 (Beginner)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Consistent completion of weekly homework reinforces conceptual comprehension.",
+    "examplePhonetic": "/kənˈsɪs.tənt kəmˈpliː.ʃən ɒv ˈwiː.kli ˈhoʊm.wɜːrk ˌriː.ɪnˈfɔːr.sɪz kənˈsep.tʃu.əl ˌkɒm.prɪˈhen.ʃən/",
+    "exampleTranslation": "Penyelesaian PR mingguan secara konsisten memperkuat pemahaman konseptual.",
+    "notes": "Uncountable noun in English (never 'homeworks').",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-182",
+    "languageId": "english",
+    "word": "Examination",
+    "phonetic": "/ɪɡˌzæm.ɪˈneɪ.ʃən/",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "The final examination covers all theoretical modules taught throughout the semester.",
+    "examplePhonetic": "/ðə ˈfaɪ.nəl ɪɡˌzæm.ɪˈneɪ.ʃən ˈkʌv.ərz ɔːl ˌθɪəˈret.ɪ.kəl ˈmɒdʒ.uːlz tɔːt θruːˈaʊt ðə səˈmes.tər/",
+    "exampleTranslation": "Ujian akhir semester mencakup semua modul teoretis yang diajarkan sepanjang semester.",
+    "notes": "Almost universally shortened to 'exam'.",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-183",
+    "languageId": "english",
+    "word": "School Uniform",
+    "phonetic": "/skuːl ˈjuː.nɪ.fɔːrm/",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "British secondary schools uphold strict standards regarding the school uniform.",
+    "examplePhonetic": "/ˈbrɪt.ɪʃ ˈsek.ən.dri skuːlz ʌpˈhoʊld strɪkt ˈstæn.dərdz rɪˈɡɑːr.dɪŋ ðə skuːl ˈjuː.nɪ.fɔːrm/",
+    "exampleTranslation": "Sekolah menengah di Inggris menegakkan standar ketat mengenai seragam sekolah.",
+    "notes": "At university level, collegiate blazers are worn for ceremonies.",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-184",
+    "languageId": "english",
+    "word": "Student ID Card",
+    "phonetic": "/ˈstjuː.dənt aɪˈdiː kɑːrd/",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "A2 (Elementary)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Swipe your student ID card at the turnstile to access campus facilities.",
+    "examplePhonetic": "/swaɪp jɔːr ˈstjuː.dənt aɪˈdiː kɑːrd æt ðə ˈtɜːrn.staɪl tuː ˈæk.ses ˈkæm.pəs fəˈsɪl.ə.tiz/",
+    "exampleTranslation": "Pindai kartu mahasiswa Anda pada gerbang putar untuk mengakses fasilitas kampus.",
+    "notes": "Serves as institutional photo identification.",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "en-voc-185",
+    "languageId": "english",
+    "word": "Scholarship",
+    "phonetic": "/ˈskɒl.ə.ʃɪp/",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "The academic scholarship waives full tuition fees and covers living stipends.",
+    "examplePhonetic": "/ðə ˌæk.əˈdem.ɪk ˈskɒl.ə.ʃɪp weɪvz fʊl tjuːˈɪʃ.ən fiːz ænd ˈkʌv.ərz ˈlɪv.ɪŋ ˈstaɪ.pendz/",
+    "exampleTranslation": "Beasiswa akademik membebaskan biaya kuliah penuh dan menanggung tunjangan biaya hidup.",
+    "notes": "Awarded based on academic merit or financial need.",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "en-voc-186",
+    "languageId": "english",
+    "word": "Graduation Ceremony",
+    "phonetic": "/ˌɡrædʒ.uˈeɪ.ʃən ˈser.ɪ.mə.ni/",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "B1 (Intermediate)",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Proud families gathered in the grand hall for the annual graduation ceremony.",
+    "examplePhonetic": "/praʊd ˈfæm.əl.iz ˈɡæð.ərd ɪn ðə ɡrænd hɔːl fɔːr ðə ˈæn.ju.əl ˌɡrædʒ.uˈeɪ.ʃən ˈser.ɪ.mə.ni/",
+    "exampleTranslation": "Keluarga yang berbahagia berkumpul di aula megah untuk upacara wisuda tahunan.",
+    "notes": "Also referred to as 'commencement' in North America.",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

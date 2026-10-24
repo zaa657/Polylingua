@@ -2679,5 +2679,860 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
       "c1",
       "german"
     ]
+  },
+  {
+    "id": "de-voc-142",
+    "languageId": "german",
+    "word": "Montag",
+    "phonetic": "ˈmoːntaːk",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Am Montagmorgen fängt die Schulwoche pünktlich um acht Uhr an.",
+    "examplePhonetic": "Am Montagmorgen faengt die Schulwoche puenktlich um acht Uhr an.",
+    "exampleTranslation": "Pada Senin pagi pekan sekolah dimulai tepat pada pukul delapan.",
+    "notes": "Hari Senin.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-143",
+    "languageId": "german",
+    "word": "Dienstag",
+    "phonetic": "ˈdiːnstaːk",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Dienstags haben die Studenten ein Physikseminar am Nachmittag.",
+    "examplePhonetic": "Dienstags haben die Studenten ein Physikseminar am Nachmittag.",
+    "exampleTranslation": "Setiap Selasa mahasiswa menghadiri seminar fisika di sore hari.",
+    "notes": "Hari Selasa.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-144",
+    "languageId": "german",
+    "word": "Mittwoch",
+    "phonetic": "ˈmɪtvɔx",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Am Mittwoch gibt es nach der vierten Stunde eine große Pause.",
+    "examplePhonetic": "Am Mittwoch gibt es nach der vierten Stunde eine grosse Pause.",
+    "exampleTranslation": "Pada hari Rabu ada jam istirahat besar setelah jam pelajaran keempat.",
+    "notes": "Hari Rabu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-145",
+    "languageId": "german",
+    "word": "Donnerstag",
+    "phonetic": "ˈdɔnɐstaːk",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Diesen Donnerstag schreiben wir eine Klausur in deutscher Literatur.",
+    "examplePhonetic": "Diesen Donnerstag schreiben wir eine Klausur in deutscher Literatur.",
+    "exampleTranslation": "Kamis ini kami mengerjakan ujian tertulis sastra Jerman.",
+    "notes": "Hari Kamis.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-146",
+    "languageId": "german",
+    "word": "Freitag",
+    "phonetic": "ˈfʁaɪ̯taːk",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Freitag ist der beliebteste Schultag vor dem freien Wochenende.",
+    "examplePhonetic": "Freitag ist der beliebteste Schultag vor dem freien Wochenende.",
+    "exampleTranslation": "Jumat adalah hari sekolah paling disukai sebelum akhir pekan bebas.",
+    "notes": "Hari Jumat.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-147",
+    "languageId": "german",
+    "word": "Samstag",
+    "phonetic": "ˈzamstaːk",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Am Samstag lernen viele Studierende gemeinsam in der Universitätsbibliothek.",
+    "examplePhonetic": "Am Samstag lernen viele Studierende gemeinsam in der Universitaetsbibliothek.",
+    "exampleTranslation": "Pada hari Sabtu banyak mahasiswa belajar bersama di perpustakaan universitas.",
+    "notes": "Hari Sabtu (auch: Sonnabend).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-148",
+    "languageId": "german",
+    "word": "Sonntag",
+    "phonetic": "ˈzɔntaːk",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Am Sonntag bleibt die gesamte Schule geschlossen.",
+    "examplePhonetic": "Am Sonntag bleibt die gesamte Schule geschlossen.",
+    "exampleTranslation": "Pada hari Minggu seluruh sekolah tetap tutup.",
+    "notes": "Hari Minggu.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-149",
+    "languageId": "german",
+    "word": "Stundenplan",
+    "phonetic": "ˈʃtʊndn̩plaːn",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Unser neuer Stundenplan enthält viele interessante Fächer.",
+    "examplePhonetic": "Unser neuer Stundenplan enthaelt viele interessante Faecher.",
+    "exampleTranslation": "Jadwal pelajaran baru kami memuat banyak mata pelajaran yang menarik.",
+    "notes": "Jadwal pelajaran sekolah atau jadwal kuliah (Vorlesungsverzeichnis).",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-150",
+    "languageId": "german",
+    "word": "Schultag",
+    "phonetic": "ˈʃuːltaːk",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "An einem gewöhnlichen Schultag hat sie sechs Stunden Unterricht.",
+    "examplePhonetic": "An einem gewoehnlichen Schultag hat sie sechs Stunden Unterricht.",
+    "exampleTranslation": "Pada hari sekolah biasa dia mengikuti enam jam pelajaran.",
+    "notes": "Hari sekolah atau hari kerja (Werktag).",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "de-voc-151",
+    "languageId": "german",
+    "word": "Wochenende",
+    "phonetic": "ˈvɔxn̩ˌʔɛndə",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "Am Wochenende erholen sich Schüler und bereiten Hausarbeiten vor.",
+    "examplePhonetic": "Am Wochenende erholen sich Schueler und bereiten Hausarbeiten vor.",
+    "exampleTranslation": "Di akhir pekan para siswa beristirahat dan menyiapkan tugas makalah.",
+    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-152",
+    "languageId": "german",
+    "word": "Mathematik",
+    "phonetic": "matəmaˈtiːk",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Mathematik ist eine wichtige Grundlage für alle Naturwissenschaften.",
+    "examplePhonetic": "Mathematik ist eine wichtige Grundlage fuer alle Naturwissenschaften.",
+    "exampleTranslation": "Matematika adalah fondasi penting bagi semua ilmu alam.",
+    "notes": "Mata pelajaran matematika (oft abgekürzt: Mathe).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-153",
+    "languageId": "german",
+    "word": "Physik",
+    "phonetic": "fyˈziːk",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Im Physikunterricht behandeln wir die Wärmelehre und Thermodynamik.",
+    "examplePhonetic": "Im Physikunterricht behandeln wir die Waermelehre und Thermodynamik.",
+    "exampleTranslation": "Dalam pelajaran fisika kita membahas teori panas dan termodinamika.",
+    "notes": "Mata pelajaran fisika.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-154",
+    "languageId": "german",
+    "word": "Chemie",
+    "phonetic": "çeˈmiː",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Die Schüler führen im Chemielabor chemische Reaktionen durch.",
+    "examplePhonetic": "Die Schueler fuehren im Chemielabor chemische Reaktionen durch.",
+    "exampleTranslation": "Para siswa melakukan reaksi kimia di laboratorium kimia.",
+    "notes": "Mata pelajaran kimia.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-155",
+    "languageId": "german",
+    "word": "Biologie",
+    "phonetic": "bioloˈɡiː",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "In Biologie erforschen wir die Genetik und Ökologie von Organismen.",
+    "examplePhonetic": "In Biologie erforschen wir die Genetik und Oekologie von Organismen.",
+    "exampleTranslation": "Dalam biologi kita meneliti genetika dan ekologi organisme.",
+    "notes": "Mata pelajaran biologi (oft: Bio).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-156",
+    "languageId": "german",
+    "word": "Geschichte",
+    "phonetic": "ɡəˈʃɪçtə",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Das Fach Geschichte vermittelt ein tiefes Verständnis für die Vergangenheit.",
+    "examplePhonetic": "Das Fach Geschichte vermittelt ein tiefes Verstaendnis fuer die Vergangenheit.",
+    "exampleTranslation": "Mata pelajaran sejarah memberikan pemahaman mendalam tentang masa lalu.",
+    "notes": "Mata pelajaran sejarah.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-157",
+    "languageId": "german",
+    "word": "Geographie",
+    "phonetic": "ɡeoɡʁaˈfiː",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "In der Geographie analysieren wir Landkarten und Klimazonen.",
+    "examplePhonetic": "In der Geographie analysieren wir Landkarten und Klimazonen.",
+    "exampleTranslation": "Dalam geografi kita menganalisis peta wilayah dan zona iklim.",
+    "notes": "Mata pelajaran geografi (auch: Erdkunde).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-158",
+    "languageId": "german",
+    "word": "Literatur",
+    "phonetic": "litəʁaˈtuːɐ̯",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Klassische Werke von Goethe und Schiller gehören zur deutschen Literatur.",
+    "examplePhonetic": "Klassische Werke von Goethe und Schiller gehoeren zur deutschen Literatur.",
+    "exampleTranslation": "Karya-karya klasik Goethe dan Schiller tergolong dalam sastra Jerman.",
+    "notes": "Sastra dan literatur bahasa.",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-159",
+    "languageId": "german",
+    "word": "Informatik",
+    "phonetic": "ɪnfɔʁˈmaːtɪk",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Das Studium der Informatik vermittelt Programmiersprachen und Softwarearchitektur.",
+    "examplePhonetic": "Das Studium der Informatik vermittelt Programmiersprachen und Softwarearchitektur.",
+    "exampleTranslation": "Studi informatika mengajarkan bahasa pemrograman dan arsitektur perangkat lunak.",
+    "notes": "Ilmu komputer / informatika.",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-160",
+    "languageId": "german",
+    "word": "Wirtschaftswissenschaften",
+    "phonetic": "ˈvɪʁtʃaftsˌvɪsn̩ʃaftn̩",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Er hat sich an der Fakultät für Wirtschaftswissenschaften immatrikuliert.",
+    "examplePhonetic": "Er hat sich an der Fakultaet fuer Wirtschaftswissenschaften immatrikuliert.",
+    "exampleTranslation": "Dia mendaftarkan diri di fakultas ilmu ekonomi.",
+    "notes": "Ilmu ekonomi (VWL / BWL).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-161",
+    "languageId": "german",
+    "word": "Philosophie",
+    "phonetic": "filozoˈfiː",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Philosophie regt zum selbstständigen und erkenntnisreichen Denken an.",
+    "examplePhonetic": "Philosophie regt zum selbstaendigen und erkenntnisreichen Denken an.",
+    "exampleTranslation": "Filsafat merangsang pemikiran yang mandiri dan kaya wawasan.",
+    "notes": "Filsafat.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-162",
+    "languageId": "german",
+    "word": "Bildende Kunst",
+    "phonetic": "ˈbɪldndə kʊnst",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Im Fach bildende Kunst erlernen Schüler Malerei und Skulptur.",
+    "examplePhonetic": "Im Fach bildende Kunst erlernen Schueler Malerei und Skulptur.",
+    "exampleTranslation": "Dalam mata pelajaran seni rupa siswa mempelajari seni lukis dan patung.",
+    "notes": "Seni rupa / kesenian (oft: Kunst).",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-163",
+    "languageId": "german",
+    "word": "Sportunterricht",
+    "phonetic": "ˈʃpɔʁtʔʊntɐˌʁɪçt",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Im Sportunterricht trainieren die Schüler Ausdauer und Teamgeist.",
+    "examplePhonetic": "Im Sportunterricht trainieren die Schueler Ausdauer und Teamgeist.",
+    "exampleTranslation": "Dalam pelajaran penjasorkes/olahraga siswa melatih daya tahan dan kerja sama tim.",
+    "notes": "Pendidikan jasmani & olahraga (sering disingkat Sport).",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-164",
+    "languageId": "german",
+    "word": "Medizin",
+    "phonetic": "mediˈtsiːn",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Ein Medizinstudium erfordert ein sehr gutes Abitur und viel Fleiß.",
+    "examplePhonetic": "Ein Medizinstudium erfordert ein sehr gutes Abitur und viel Fleiss.",
+    "exampleTranslation": "Kuliah kedokteran membutuhkan nilai Abitur yang sangat baik dan ketekunan tinggi.",
+    "notes": "Ilmu kedokteran.",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-165",
+    "languageId": "german",
+    "word": "Rechtswissenschaft",
+    "phonetic": "ˈʁɛçtsvɪsn̩ʃaft",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Jurastudenten studieren Rechtswissenschaft und bereiten sich auf das Staatsexamen vor.",
+    "examplePhonetic": "Jurastudenten studieren Rechtswissenschaft und bereiten sich auf das Staatsexamen vor.",
+    "exampleTranslation": "Mahasiswa hukum mempelajari ilmu hukum dan mempersiapkan diri untuk ujian negara.",
+    "notes": "Ilmu hukum (sering disebut Jura).",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-166",
+    "languageId": "german",
+    "word": "Ingenieurwissenschaften",
+    "phonetic": "ɪnʒeˈnjøːɐ̯vɪsn̩ʃaftn̩",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "Deutschland genießt weltweites Ansehen in den Ingenieurwissenschaften.",
+    "examplePhonetic": "Deutschland geniesst weltweites Ansehen in den Ingenieurwissenschaften.",
+    "exampleTranslation": "Jerman menikmati reputasi kelas dunia di bidang ilmu teknik dan rekayasa.",
+    "notes": "Teknik dan rekayasa (engineering).",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-167",
+    "languageId": "german",
+    "word": "Klassenzimmer",
+    "phonetic": "ˈklasn̩ˌtsɪmɐ",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Das Klassenzimmer ist mit modernen Tischen und Projektoren ausgestattet.",
+    "examplePhonetic": "Das Klassenzimmer ist mit modernen Tischen und Projektoren ausgestattet.",
+    "exampleTranslation": "Ruang kelas dilengkapi dengan meja modern dan proyektor.",
+    "notes": "Ruang kelas sekolah (Hörsaal untuk kampus).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-168",
+    "languageId": "german",
+    "word": "Bibliothek",
+    "phonetic": "biblioˈteːk",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "In der Universitätsbibliothek herrscht absolute Ruhe.",
+    "examplePhonetic": "In der Universitaetsbibliothek herrscht absolute Ruhe.",
+    "exampleTranslation": "Di perpustakaan universitas berlaku keheningan mutlak.",
+    "notes": "Perpustakaan (oft: UB).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-169",
+    "languageId": "german",
+    "word": "Labor",
+    "phonetic": "laˈboːɐ̯",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Die Studenten dürfen das Labor nur mit Schutzkleidung betreten.",
+    "examplePhonetic": "Die Studenten duerfen das Labor nur mit Schutzkleidung betreten.",
+    "exampleTranslation": "Mahasiswa hanya boleh memasuki laboratorium dengan pakaian pelindung.",
+    "notes": "Laboratorium sains (Laboratorium).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-170",
+    "languageId": "german",
+    "word": "Hörsaal",
+    "phonetic": "ˈhøːɐ̯zaːl",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Die Einführungsvorlesung fand im größten Hörsaal der Universität statt.",
+    "examplePhonetic": "Die Einfuehrungsvorlesung fand im groessten Hoersaal der Universitaet statt.",
+    "exampleTranslation": "Kuliah pengantar berlangsung di auditorium / ruang kuliah terbesar di universitas.",
+    "notes": "Auditorium kuliah / aula besar (auch: Aula).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-171",
+    "languageId": "german",
+    "word": "Lehrerzimmer",
+    "phonetic": "ˈleːʁɐˌtsɪmɐ",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Der Klassensprecher klopfte höflich an die Tür des Lehrerzimmers.",
+    "examplePhonetic": "Der Klassensprecher klopfte hoeflich an die Tuer des Lehrerzimmers.",
+    "exampleTranslation": "Ketua kelas mengetuk pintu ruang guru dengan sopan.",
+    "notes": "Ruang guru sekolah / ruang dosen.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-172",
+    "languageId": "german",
+    "word": "Rektorat",
+    "phonetic": "ʁɛktoˈʁaːt",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Das Rektorat befindet sich im repräsentativen Hauptgebäude der Hochschule.",
+    "examplePhonetic": "Das Rektorat befindet sich im repraesentativen Hauptgebaeude der Hochschule.",
+    "exampleTranslation": "Rektorat terletak di gedung utama universitas yang megah.",
+    "notes": "Ruang rektor / biro rektorat atau ruang kepala sekolah (Schulleiterbüro).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-173",
+    "languageId": "german",
+    "word": "Mensa",
+    "phonetic": "ˈmɛnza",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "In der Mensa bekommen Studierende ein preiswertes und warmes Mittagessen.",
+    "examplePhonetic": "In der Mensa bekommen Studierende ein preiswertes und warmes Mittagessen.",
+    "exampleTranslation": "Di kantin kampus (mensa) mahasiswa mendapatkan makan siang hangat dan terjangkau.",
+    "notes": "Kantin universitas (Mensa) atau kantin sekolah (Kantine).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-174",
+    "languageId": "german",
+    "word": "Sporthalle",
+    "phonetic": "ˈʃpɔʁtˌhalə",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Das Basketballturnier findet in der neu gebauten Sporthalle statt.",
+    "examplePhonetic": "Das Basketballturnier findet in der neu gebauten Sporthalle statt.",
+    "exampleTranslation": "Turnamen bola basket berlangsung di gimnasium / aula olahraga yang baru dibangun.",
+    "notes": "Gimnasium / aula gedung olahraga (Turnhalle).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-175",
+    "languageId": "german",
+    "word": "Studentenwohnheim",
+    "phonetic": "ʃtuˈdɛntn̩ˌvoːnhaɪ̯m",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Das Studentenwohnheim bietet bezahlbare Zimmer direkt auf dem Campus.",
+    "examplePhonetic": "Das Studentenwohnheim bietet bezahlbare Zimmer direkt auf dem Campus.",
+    "exampleTranslation": "Asrama mahasiswa menawarkan kamar terjangkau tepat di dalam kampus.",
+    "notes": "Asrama mahasiswa / tempat tinggal siswa (Internat).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-176",
+    "languageId": "german",
+    "word": "Krankenzimmer",
+    "phonetic": "ˈkʁaŋkn̩ˌtsɪmɐ",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Wer sich in der Schule unwohl fühlt, wird ins Krankenzimmer gebracht.",
+    "examplePhonetic": "Wer sich in der Schule unwohl fuehlt, wird ins Krankenzimmer gebracht.",
+    "exampleTranslation": "Barang siapa merasa tidak sehat di sekolah akan dibawa ke ruang UKS / klinik.",
+    "notes": "Ruang UKS sekolah / klinik kampus (Sanitätsraum).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-177",
+    "languageId": "german",
+    "word": "Computerraum",
+    "phonetic": "kɔmˈpjuːtɐˌʁaʊ̯m",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Der Programmierkurs trifft sich wöchentlich im Computerraum.",
+    "examplePhonetic": "Der Programmierkurs trifft sich woechentlich im Computerraum.",
+    "exampleTranslation": "Kelas pemrograman bertemu setiap minggu di laboratorium komputer.",
+    "notes": "Laboratorium komputer / ruang PC.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-178",
+    "languageId": "german",
+    "word": "Prüfungsamt",
+    "phonetic": "ˈpʁyːfʊŋsˌʔamt",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "Die Notenbescheinigung muss beim Prüfungsamt abgeholt werden.",
+    "examplePhonetic": "Die Notenbescheinigung muss beim Pruefungsamt abgeholt werden.",
+    "exampleTranslation": "Surat keterangan nilai harus diambil di bagian tata usaha / kantor ujian.",
+    "notes": "Bagian tata usaha akademik / kantor ujian dan administrasi (Sekretariat).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-179",
+    "languageId": "german",
+    "word": "Lehrbuch",
+    "phonetic": "ˈleːɐ̯buːx",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Bitte schlagt euer Lehrbuch auf Seite fünfundvierzig auf.",
+    "examplePhonetic": "Bitte schlagt euer Lehrbuch auf Seite fuenfundvierzig auf.",
+    "exampleTranslation": "Tolong buka buku teks kalian di halaman empat puluh lima.",
+    "notes": "Buku teks / buku paket pelajaran (Schulbuch).",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-180",
+    "languageId": "german",
+    "word": "Schultafel",
+    "phonetic": "ˈʃuːlˌtaːfl̩",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Die Lehrerin schreibt die Vokabeln mit weißer Kreide an die Schultafel.",
+    "examplePhonetic": "Die Lehrerin schreibt die Vokabeln mit weisser Kreide an die Schultafel.",
+    "exampleTranslation": "Ibu guru menulis kosakata dengan kapur putih di papan tulis sekolah.",
+    "notes": "Papan tulis (Tafel / Whiteboard).",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-181",
+    "languageId": "german",
+    "word": "Hausaufgabe",
+    "phonetic": "ˈhaʊ̯sʔaʊ̯fˌɡaːbə",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Vergesst nicht, eure Hausaufgabe bis morgen früh hochzuladen.",
+    "examplePhonetic": "Vergesst nicht, eure Hausaufgabe bis morgen frueh hochzuladen.",
+    "exampleTranslation": "Jangan lupa untuk mengunggah pekerjaan rumah (PR) Anda sebelum besok pagi.",
+    "notes": "Pekerjaan rumah / tugas rumah (PR).",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-182",
+    "languageId": "german",
+    "word": "Klausur",
+    "phonetic": "klaʊ̯ˈzuːɐ̯",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Alle Studierenden bereiten sich fleißig auf die Klausur vor.",
+    "examplePhonetic": "Alle Studierenden bereiten sich fleissig auf die Klausur vor.",
+    "exampleTranslation": "Semua mahasiswa bersiap dengan tekun untuk ujian tertulis.",
+    "notes": "Ujian tertulis / evaluasi semester (Prüfung).",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-183",
+    "languageId": "german",
+    "word": "Schuluniform",
+    "phonetic": "ˈʃuːlʔuniˌfɔʁm",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "An den meisten öffentlichen Schulen in Deutschland gibt es keine Schuluniform.",
+    "examplePhonetic": "An den meisten oeffentlichen Schulen in Deutschland gibt es keine Schuluniform.",
+    "exampleTranslation": "Di sebagian besar sekolah negeri di Jerman tidak ada seragam sekolah.",
+    "notes": "Seragam sekolah.",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-184",
+    "languageId": "german",
+    "word": "Studierendenausweis",
+    "phonetic": "ʃtuˈdiːʁəndn̩ˌʔaʊ̯svaɪ̯s",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "A1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Mit dem Studierendenausweis kann man das Ticket für den Nahverkehr nutzen.",
+    "examplePhonetic": "Mit dem Studierendenausweis kann man das Ticket fuer den Nahverkehr nutzen.",
+    "exampleTranslation": "Dengan kartu mahasiswa (KTM) seseorang dapat menggunakan tiket transportasi umum.",
+    "notes": "Kartu mahasiswa (KTM) atau kartu pelajar (Schülerausweis).",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "de-voc-185",
+    "languageId": "german",
+    "word": "Stipendium",
+    "phonetic": "ʃtiˈpɛndiʊm",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "A2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Sie erhielt ein renommiertes Stipendium für ihr Auslandssemester.",
+    "examplePhonetic": "Sie erhielt ein renommiertes Stipendium fuer ihr Auslandssemester.",
+    "exampleTranslation": "Dia menerima beasiswa bergengsi untuk satu semester belajar di luar negeri.",
+    "notes": "Beasiswa pendidikan.",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "de-voc-186",
+    "languageId": "german",
+    "word": "Abschlussfeier",
+    "phonetic": "ˈʔapʃlʊsˌfaɪ̯ɐ",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "B1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "Bei der feierlichen Abschlussfeier nahmen die Absolventen ihre Zeugnisse entgegen.",
+    "examplePhonetic": "Bei der feierlichen Abschlussfeier nahmen die Absolventen ihre Zeugnisse entgegen.",
+    "exampleTranslation": "Pada upacara wisuda kelulusan yang khidmat, para lulusan menerima ijazah mereka.",
+    "notes": "Upacara kelulusan / wisuda (Graduierungsfeier).",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];

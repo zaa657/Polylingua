@@ -4338,5 +4338,860 @@ export const CHINESE_VOCABULARY: VocabularyItem[] = [
       "idiom",
       "hsk6"
     ]
+  },
+  {
+    "id": "zh-voc-242",
+    "languageId": "chinese",
+    "word": "星期一",
+    "phonetic": "xīngqīyī",
+    "meaningId": "Senin",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "星期一早上我们有数学课。",
+    "examplePhonetic": "Xīngqīyī zǎoshang wǒmen yǒu shùxué kè.",
+    "exampleTranslation": "Senin pagi kami ada pelajaran matematika.",
+    "notes": "Juga lazim disebut 周一 (zhōuyī) dalam ragam formal.",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-243",
+    "languageId": "chinese",
+    "word": "星期二",
+    "phonetic": "xīngqī'èr",
+    "meaningId": "Selasa",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "星期二下午要在实验室做物理实验。",
+    "examplePhonetic": "Xīngqī'èr xiàwǔ yào zài shíyànshì zuò wùlǐ shíyàn.",
+    "exampleTranslation": "Selasa sore harus melakukan eksperimen fisika di laboratorium.",
+    "notes": "Ragam singkat formal: 周二 (zhōu'èr).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-244",
+    "languageId": "chinese",
+    "word": "星期三",
+    "phonetic": "xīngqīsān",
+    "meaningId": "Rabu",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "星期三我们要提交中文作业。",
+    "examplePhonetic": "Xīngqīsān wǒmen yào tíjiāo zhōngwén zuòyè.",
+    "exampleTranslation": "Rabu kami harus mengumpulkan tugas bahasa Mandarin.",
+    "notes": "Ragam singkat formal: 周三 (zhōusān).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-245",
+    "languageId": "chinese",
+    "word": "星期四",
+    "phonetic": "xīngqīsì",
+    "meaningId": "Kamis",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "星期四下午学校图书馆开到晚上九点。",
+    "examplePhonetic": "Xīngqīsì xiàwǔ xuéxiào túshūguǎn kāi dào wǎnshang jiǔ diǎn.",
+    "exampleTranslation": "Kamis sore perpustakaan sekolah buka hingga jam sembilan malam.",
+    "notes": "Ragam singkat formal: 周四 (zhōusì).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-246",
+    "languageId": "chinese",
+    "word": "星期五",
+    "phonetic": "xīngqīwǔ",
+    "meaningId": "Jumat",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "星期五是本学期最后一节课。",
+    "examplePhonetic": "Xīngqīwǔ shì běn xuéqī zuìhòu yì jié kè.",
+    "exampleTranslation": "Jumat adalah sesi perkuliahan terakhir semester ini.",
+    "notes": "Ragam singkat formal: 周五 (zhōuwǔ).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-247",
+    "languageId": "chinese",
+    "word": "星期六",
+    "phonetic": "xīngqīliù",
+    "meaningId": "Sabtu",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "星期六学生们经常在操场踢足球。",
+    "examplePhonetic": "Xīngqīliù xuéshengmen jīngcháng zài cāochǎng tī zúqiú.",
+    "exampleTranslation": "Sabtu para siswa sering bermain sepak bola di lapangan.",
+    "notes": "Ragam singkat formal: 周六 (zhōuliù).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-248",
+    "languageId": "chinese",
+    "word": "星期日",
+    "phonetic": "xīngqīrì",
+    "meaningId": "Minggu",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "星期日我在宿舍准备期末考试。",
+    "examplePhonetic": "Xīngqīrì wǒ zài sùshè zhǔnbèi qīmò kǎoshì.",
+    "exampleTranslation": "Minggu saya di asrama mempersiapkan ujian akhir semester.",
+    "notes": "Dalam percakapan lisan santai sering disebut 星期天 (xīngqītiān) atau 周日 (zhōurì).",
+    "tags": [
+          "hari",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-249",
+    "languageId": "chinese",
+    "word": "课程表",
+    "phonetic": "kèchéngbiǎo",
+    "meaningId": "Jadwal Pelajaran / Jadwal Kuliah",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "请把新学期的课程表保存在手机里。",
+    "examplePhonetic": "Qǐng bǎ xīn xuéqī de kèchéngbiǎo bǎocún zài shǒujī lǐ.",
+    "exampleTranslation": "Harap simpan jadwal kuliah semester baru di ponsel Anda.",
+    "notes": "Tersusun dari 课程 (mata kuliah/pelajaran) + 表 (tabel/bagan).",
+    "tags": [
+          "sekolah",
+          "akademik",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-250",
+    "languageId": "chinese",
+    "word": "工作日",
+    "phonetic": "gōngzuòrì",
+    "meaningId": "Hari Kerja / Hari Sekolah",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "校医务室只在工作日对外开放。",
+    "examplePhonetic": "Xiào yīwùshì zhǐ zài gōngzuòrì duìwài kāifàng.",
+    "exampleTranslation": "Klinik sekolah hanya buka melayani pada hari kerja biasa.",
+    "notes": "Mengacu pada hari Senin hingga Jumat (bukan akhir pekan).",
+    "tags": [
+          "waktu",
+          "sekolah",
+          "jadwal"
+    ]
+  },
+  {
+    "id": "zh-voc-251",
+    "languageId": "chinese",
+    "word": "周末",
+    "phonetic": "zhōumò",
+    "meaningId": "Akhir Pekan / Libur Akhir Pekan",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Waktu & Hari Sekolah",
+    "exampleNative": "周末你打算去图书馆自习吗？",
+    "examplePhonetic": "Zhōumò nǐ dǎsuàn qù túshūguǎn zìxí ma?",
+    "exampleTranslation": "Akhir pekan apakah kamu berencana pergi ke perpustakaan untuk belajar mandiri?",
+    "notes": "Secara harfiah 周 (minggu) + 末 (ujung/akhir).",
+    "tags": [
+          "waktu",
+          "libur",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-252",
+    "languageId": "chinese",
+    "word": "数学",
+    "phonetic": "shùxué",
+    "meaningId": "Matematika",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "数学是所有理工科专业的基础必修课。",
+    "examplePhonetic": "Shùxué shì suǒyǒu lǐgōngkē zhuānyè de jīchǔ bìxiūkè.",
+    "exampleTranslation": "Matematika adalah mata kuliah dasar wajib untuk semua jurusan sains dan teknik.",
+    "notes": "Secara harfiah 数 (angka/bilangan) + 学 (ilmu studi).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-253",
+    "languageId": "chinese",
+    "word": "物理",
+    "phonetic": "wùlǐ",
+    "meaningId": "Fisika",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "物理老师在黑板上画力学分析图。",
+    "examplePhonetic": "Wùlǐ lǎoshī zài hēibǎn shang huà lìxué fēnxī tú.",
+    "exampleTranslation": "Guru fisika menggambar diagram analisis mekanika di papan tulis.",
+    "notes": "Secara harfiah 'prinsip/kaidah materi alam'.",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-254",
+    "languageId": "chinese",
+    "word": "化学",
+    "phonetic": "huàxué",
+    "meaningId": "Kimia",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "做化学实验时必须戴好防护眼镜。",
+    "examplePhonetic": "Zuò huàxué shíyàn shí bìxū dài hǎo fánghù yǎnjìng.",
+    "exampleTranslation": "Saat melakukan eksperimen kimia wajib mengenakan kacamata pelindung.",
+    "notes": "化 (perubahan/transformasi) + 学 (ilmu).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-255",
+    "languageId": "chinese",
+    "word": "生物",
+    "phonetic": "shēngwù",
+    "meaningId": "Biologi",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "我们在生物课上用显微镜观察细胞结构。",
+    "examplePhonetic": "Wǒmen zài shēngwù kè shang yòng xiǎnwéijìng guānchá xìbāo jiégòu.",
+    "exampleTranslation": "Kami mengamati struktur sel menggunakan mikroskop di pelajaran biologi.",
+    "notes": "Kependekan dari 生物学 (shēngwùxué - ilmu makhluk hidup).",
+    "tags": [
+          "mata_pelajaran",
+          "sains",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-256",
+    "languageId": "chinese",
+    "word": "历史",
+    "phonetic": "lìshǐ",
+    "meaningId": "Sejarah",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "中国古代历史课非常受外国留学生欢迎。",
+    "examplePhonetic": "Zhōngguó gǔdài lìshǐ kè fēicháng shòu wàiguó liúxuéshēng huānyíng.",
+    "exampleTranslation": "Mata kuliah sejarah kuno Tiongkok sangat diminati mahasiswa asing.",
+    "notes": "Meliputi catatan peristiwa peradaban masa lampau.",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-257",
+    "languageId": "chinese",
+    "word": "地理",
+    "phonetic": "dìlǐ",
+    "meaningId": "Geografi",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "地理课上老师讲解了世界气候带的分布。",
+    "examplePhonetic": "Dìlǐ kè shang lǎoshī jiǎngjiě le shìjiè qìhòudài de fēnbù.",
+    "exampleTranslation": "Di pelajaran geografi guru menjelaskan distribusi zona iklim dunia.",
+    "notes": "地 (bumi/tanah) + 理 (prinsip struktur).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-258",
+    "languageId": "chinese",
+    "word": "文学",
+    "phonetic": "wénxué",
+    "meaningId": "Sastra & Bahasa",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "她主修现代中国文学与比较文学。",
+    "examplePhonetic": "Tā zhǔxiū xiàndài zhōngguó wénxué yǔ bǐjiào wénxué.",
+    "exampleTranslation": "Dia mengambil jurusan sastra Tiongkok modern dan sastra bandingan.",
+    "notes": "文 (tulisan/budaya) + 学 (ilmu keilmuan).",
+    "tags": [
+          "mata_pelajaran",
+          "bahasa",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-259",
+    "languageId": "chinese",
+    "word": "计算机科学",
+    "phonetic": "jìsuànjī kēxué",
+    "meaningId": "Ilmu Komputer / Informatika",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "计算机科学专业的毕业生就业前景十分广阔。",
+    "examplePhonetic": "Jìsuànjī kēxué zhuānyè de bìyèshēng jiùyè qiánjǐng shífēn guǎngkuò.",
+    "exampleTranslation": "Prospek kerja lulusan jurusan ilmu komputer sangatlah luas.",
+    "notes": "Dalam percakapan kampus sering disingkat 计科 (jìkē).",
+    "tags": [
+          "mata_pelajaran",
+          "teknologi",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-260",
+    "languageId": "chinese",
+    "word": "经济学",
+    "phonetic": "jīngjìxué",
+    "meaningId": "Ilmu Ekonomi",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "宏观经济学是商学院的核心必修课程之一。",
+    "examplePhonetic": "Hóngguān jīngjìxué shì shāng xuéyuàn de héxīn bìxiū kèchéng zhī yī.",
+    "exampleTranslation": "Ekonomi makro adalah salah satu mata kuliah wajib inti di sekolah bisnis.",
+    "notes": "Mencakup mikroekonomi (微观) dan makroekonomi (宏观).",
+    "tags": [
+          "mata_pelajaran",
+          "sosial",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-261",
+    "languageId": "chinese",
+    "word": "哲学",
+    "phonetic": "zhéxué",
+    "meaningId": "Filsafat",
+    "partOfSpeech": "noun",
+    "level": "HSK 4",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "哲学课程有助于培养批判性思维与逻辑能力。",
+    "examplePhonetic": "Zhéxué kèchéng yǒu zhù yú péiyǎng pīpànxìng sīwéi yǔ luóji nénglì.",
+    "exampleTranslation": "Mata kuliah filsafat membantu mengasah pola pikir kritis dan kemampuan logika.",
+    "notes": "哲 bermakna kearifan dan kebijaksanaan budi pekerti.",
+    "tags": [
+          "mata_pelajaran",
+          "humaniora",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-262",
+    "languageId": "chinese",
+    "word": "美术",
+    "phonetic": "měishù",
+    "meaningId": "Seni Rupa & Kesenian",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "美术学院的学生在画室里练习素描和油画。",
+    "examplePhonetic": "Měishù xuéyuàn de xuésheng zài huàshì lǐ liànxí sùmiáo hé yóuhuà.",
+    "exampleTranslation": "Mahasiswa fakultas seni rupa berlatih sketsa dan lukisan cat minyak di studio.",
+    "notes": "Secara harfiah 美 (keindahan) + 术 (teknik keterampilan).",
+    "tags": [
+          "mata_pelajaran",
+          "seni",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-263",
+    "languageId": "chinese",
+    "word": "体育",
+    "phonetic": "tǐyù",
+    "meaningId": "Pendidikan Jasmani & Olahraga",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "大学一年级每周必须修读两课时的体育课。",
+    "examplePhonetic": "Dàxué yī niánjí měi zhōu bìxū xiūdú liǎng kèshí de tǐyù kè.",
+    "exampleTranslation": "Mahasiswa tingkat satu wajib mengambil dua jam mata kuliah olahraga setiap minggu.",
+    "notes": "体 (badan/tubuh) + 育 (pendidikan/pembinaan).",
+    "tags": [
+          "mata_pelajaran",
+          "olahraga",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-264",
+    "languageId": "chinese",
+    "word": "医学",
+    "phonetic": "yīxué",
+    "meaningId": "Ilmu Kedokteran",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "攻读临床医学专业的学制通常为五年制。",
+    "examplePhonetic": "Gōngdú línchuáng yīxué zhuānyè de xuézhì tōngcháng wéi wǔ nián zhì.",
+    "exampleTranslation": "Masa studi menempuh jurusan kedokteran klinis umumnya lima tahun.",
+    "notes": "Mencakup kedokteran barat (西医) dan tradisional Tiongkok (中医).",
+    "tags": [
+          "bidang_studi",
+          "kesehatan",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-265",
+    "languageId": "chinese",
+    "word": "法学",
+    "phonetic": "fǎxué",
+    "meaningId": "Ilmu Hukum",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "法学院学生在模拟法庭进行辩论演练。",
+    "examplePhonetic": "Fǎ xuéyuàn xuésheng zài mónǐ fǎtíng jìnxíng biànlùn yǎnliàn.",
+    "exampleTranslation": "Mahasiswa fakultas hukum melakukan simulasi perdebatan di peradilan semu.",
+    "notes": "法 (undang-undang/hukum) + 学 (ilmu).",
+    "tags": [
+          "bidang_studi",
+          "hukum",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-266",
+    "languageId": "chinese",
+    "word": "工程学",
+    "phonetic": "gōngchéngxué",
+    "meaningId": "Teknik & Rekayasa",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Mata Pelajaran & Bidang Studi",
+    "exampleNative": "电子工程学专业注重培养学生的实践动手能力。",
+    "examplePhonetic": "Diànzǐ gōngchéngxué zhuānyè zhùzhòng péiyǎng xuésheng de shíjiàn dòngshǒu nénglì.",
+    "exampleTranslation": "Jurusan teknik elektro menitikberatkan pembinaan keahlian praktik langsung mahasiswa.",
+    "notes": "Mencakup teknik sipil (土木), mesin (机械), dan elektro (电气).",
+    "tags": [
+          "bidang_studi",
+          "teknik",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-267",
+    "languageId": "chinese",
+    "word": "教室",
+    "phonetic": "jiàoshì",
+    "meaningId": "Ruang Kelas",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "请大家按时回到教室上课。",
+    "examplePhonetic": "Qǐng dàjiā ànshí huí dào jiàoshì shàngkè.",
+    "exampleTranslation": "Harap semuanya kembali tepat waktu ke ruang kelas untuk memulai perkuliahan.",
+    "notes": "教 (mengajar) + 室 (ruangan).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-268",
+    "languageId": "chinese",
+    "word": "图书馆",
+    "phonetic": "túshūguǎn",
+    "meaningId": "Perpustakaan",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "凭学生证可以进入图书馆借阅中外文学术专著。",
+    "examplePhonetic": "Píng xuéshēngzhèng kěyǐ jìnrù túshūguǎn jièyuè zhōngwài wén xuéshù zhuānzhù.",
+    "exampleTranslation": "Dengan menunjukkan kartu mahasiswa dapat masuk perpustakaan meminjam buku ilmiah.",
+    "notes": "Di universitas Tiongkok, perpustakaan adalah pusat studi mandiri utama.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-269",
+    "languageId": "chinese",
+    "word": "实验室",
+    "phonetic": "shíyànshì",
+    "meaningId": "Laboratorium Sains",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "进入重点实验室之前必须穿好白大褂。",
+    "examplePhonetic": "Jìnrù zhòngdiǎn shíyànshì zhīqián bìxū chuān hǎo bái dàguà.",
+    "exampleTranslation": "Sebelum memasuki laboratorium utama wajib memakai jas lab putih.",
+    "notes": "实 (nyata) + 验 (menguji) + 室 (ruangan).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-270",
+    "languageId": "chinese",
+    "word": "礼堂",
+    "phonetic": "lǐtáng",
+    "meaningId": "Auditorium / Aula Besar",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "新生开学典礼将在学校大礼堂隆重举行。",
+    "examplePhonetic": "Xīnshēng kāixué diǎnlǐ jiāng zài xuéxiào dà lǐtáng lóngzhòng jǔxíng.",
+    "exampleTranslation": "Upacara penyambutan mahasiswa baru akan digelar megah di aula besar universitas.",
+    "notes": "Sering disebut juga 报告厅 (bàogàotīng - aula seminar/kuliah umum).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-271",
+    "languageId": "chinese",
+    "word": "教师办公室",
+    "phonetic": "jiàoshī bàngōngshì",
+    "meaningId": "Ruang Guru / Ruang Dosen",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "课后我经常去教师办公室向导师请教问题。",
+    "examplePhonetic": "Kè hòu wǒ jīngcháng qù jiàoshī bàngōngshì xiàng dǎoshī qǐngjiào wèntí.",
+    "exampleTranslation": "Seusai kuliah saya sering pergi ke ruang dosen untuk berdiskusi dengan pembimbing.",
+    "notes": "Di sekolah dasar/menengah sering disingkat 办公室 (bàngōngshì).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-272",
+    "languageId": "chinese",
+    "word": "校长室",
+    "phonetic": "xiàozhǎngshì",
+    "meaningId": "Ruang Kepala Sekolah / Rektorat",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "各院系负责人前往校长室汇报科研进展。",
+    "examplePhonetic": "Gè yuànxì fùzérén qiánwǎng xiàozhǎngshì huìbào kēyán jìnzhǎn.",
+    "exampleTranslation": "Pimpinan masing-masing fakultas menuju ruang rektor untuk melaporkan progres riset.",
+    "notes": "校长 dapat merujuk pada Kepala Sekolah (SD-SMA) maupun Rektor (Universitas).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-273",
+    "languageId": "chinese",
+    "word": "食堂",
+    "phonetic": "shítáng",
+    "meaningId": "Kantin / Kafetaria Kampus",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "学校食堂提供来自全国各地的特色美食。",
+    "examplePhonetic": "Xuéxiào shítáng tígōng láizì quánguó gèdì de tèsè měishí.",
+    "exampleTranslation": "Kantin universitas menyediakan aneka hidangan khas dari seluruh pelosok negeri.",
+    "notes": "Pembayaran di kantin Tiongkok hampir selalu menggunakan kartu kampus (一卡通).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-274",
+    "languageId": "chinese",
+    "word": "体育馆",
+    "phonetic": "tǐyùguǎn",
+    "meaningId": "Gimnasium / Gedung Olahraga",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "校际羽毛球决赛将在体育馆内进行。",
+    "examplePhonetic": "Xiàojì yǔmáoqiú juésài jiāng zài tǐyùguǎn nèi jìnxíng.",
+    "exampleTranslation": "Babak final bulu tangkis antarkampus akan berlangsung di gedung olahraga.",
+    "notes": "Mencakup fasilitas basket, voli, dan bulu tangkis indoor.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-275",
+    "languageId": "chinese",
+    "word": "学生宿舍",
+    "phonetic": "xuésheng sùshè",
+    "meaningId": "Asrama Mahasiswa / Siswa",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "留学生宿舍配有独立卫生间和公用厨房。",
+    "examplePhonetic": "Liúxuéshēng sùshè pèi yǒu dúlì wèishēngjiān hé gōngyòng chúfáng.",
+    "exampleTranslation": "Asrama mahasiswa asing dilengkapi kamar mandi dalam dan dapur bersama.",
+    "notes": "宿舍 (sùshè) adalah istilah umum tempat tinggal bertingkat di kampus.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-276",
+    "languageId": "chinese",
+    "word": "医务室",
+    "phonetic": "yīwùshì",
+    "meaningId": "Ruang UKS / Klinik Kesehatan Kampus",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "如果不舒服，可以先去校医务室做基本检查。",
+    "examplePhonetic": "Rúguǒ bù shūfu, kěyǐ xiān qù xiào yīwùshì zuò jīběn jiǎnchá.",
+    "exampleTranslation": "Jika merasa tidak enak badan, bisa periksa dasar dulu di klinik kampus.",
+    "notes": "Di kampus besar universitas sering memiliki rumah sakit kampus (校医院).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-277",
+    "languageId": "chinese",
+    "word": "微机室",
+    "phonetic": "wēijīshì",
+    "meaningId": "Laboratorium Komputer",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "下午所有同学到微机室进行上机编程考试。",
+    "examplePhonetic": "Xiàwǔ suǒyǒu tóngxué dào wēijīshì jìnxíng shàngjī biānchéng kǎoshì.",
+    "exampleTranslation": "Sore ini seluruh siswa ke laboratorium komputer untuk ujian pemrograman praktikum.",
+    "notes": "Juga lazim disebut 机房 (jīfáng) atau 电脑室 (diànnǎoshì).",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-278",
+    "languageId": "chinese",
+    "word": "教务处",
+    "phonetic": "jiàowùchù",
+    "meaningId": "Ruang Tata Usaha / Administrasi",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Fasilitas & Ruangan Sekolah",
+    "exampleNative": "申请打印正式成绩单需要到教务处盖章。",
+    "examplePhonetic": "Shēnqǐng dǎyìn zhèngshì chéngjīdān xūyào dào jiàowùchù gàizhāng.",
+    "exampleTranslation": "Permohonan cetak transkrip nilai resmi harus mendapatkan stempel di kantor administrasi akademik.",
+    "notes": "Mengurus KRS, jadwal kuliah, transkrip nilai, dan administrasi wisuda.",
+    "tags": [
+          "ruangan",
+          "fasilitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-279",
+    "languageId": "chinese",
+    "word": "教科书",
+    "phonetic": "jiàokēshū",
+    "meaningId": "Buku Teks / Buku Pelajaran",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "上课前请大家翻开教科书第四十五页。",
+    "examplePhonetic": "Shàngkè qián qǐng dàjiā fānkāi jiàokēshū dì sìshíwǔ yè.",
+    "exampleTranslation": "Sebelum memulai pelajaran harap buka buku teks halaman empat puluh lima.",
+    "notes": "Dalam perkuliahan perguruan tinggi sering disebut 教材 (jiàocái).",
+    "tags": [
+          "perlengkapan",
+          "belajar",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-280",
+    "languageId": "chinese",
+    "word": "黑板",
+    "phonetic": "hēibǎn",
+    "meaningId": "Papan Tulis",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "老师把今天的重要生词写在黑板正中间。",
+    "examplePhonetic": "Lǎoshī bǎ jīntiān de zhòngyào shēngcí xiě zài hēibǎn zhèng zhōngjiān.",
+    "exampleTranslation": "Guru menuliskan kosakata penting hari ini tepat di tengah papan tulis.",
+    "notes": "Papan tulis putih spidol disebut 白板 (báibǎn).",
+    "tags": [
+          "perlengkapan",
+          "kelas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-281",
+    "languageId": "chinese",
+    "word": "家庭作业",
+    "phonetic": "jiātíng zuòyè",
+    "meaningId": "Tugas Rumah / Pekerjaan Rumah (PR)",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "完成当天的家庭作业是巩固知识的好方法。",
+    "examplePhonetic": "Wánchéng dāngtiān de jiātíng zuòyè shì gǒnggù zhīshi de hǎo fāngfǎ.",
+    "exampleTranslation": "Menyelesaikan PR hari itu adalah metode baik untuk memperkuat penguasaan materi.",
+    "notes": "Dalam percakapan sehari-hari cukup disingkat 作业 (zuòyè).",
+    "tags": [
+          "aktivitas",
+          "tugas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-282",
+    "languageId": "chinese",
+    "word": "考试",
+    "phonetic": "kǎoshì",
+    "meaningId": "Ujian Semester / Tes Evaluasi",
+    "partOfSpeech": "noun",
+    "level": "HSK 1",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "期末考试成绩将决定是否能够获得奖学金。",
+    "examplePhonetic": "Qīmò kǎoshì chéngjì jiāng juédìng shìfǒu nénggòu huòdé jiǎngxuéjīn.",
+    "exampleTranslation": "Nilai ujian akhir semester akan menentukan kelayakan perolehan beasiswa.",
+    "notes": "Mencakup ujian tengah semester (期中) dan akhir semester (期末).",
+    "tags": [
+          "evaluasi",
+          "ujian",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-283",
+    "languageId": "chinese",
+    "word": "校服",
+    "phonetic": "xiàofú",
+    "meaningId": "Seragam Sekolah / Jas Almamater",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "周一升旗仪式上全校学生都要穿整齐的校服。",
+    "examplePhonetic": "Zhōuyī shēngqí yíshì shang quán xiào xuésheng dōu yào chuān zhěngqí de xiàofú.",
+    "exampleTranslation": "Pada upacara bendera hari Senin seluruh siswa sekolah wajib mengenakan seragam rapi.",
+    "notes": "Di Tiongkok, seragam sekolah umumnya berupa pakaian olahraga (运动校服).",
+    "tags": [
+          "pakaian",
+          "identitas",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-284",
+    "languageId": "chinese",
+    "word": "学生证",
+    "phonetic": "xuéshēngzhèng",
+    "meaningId": "Kartu Pelajar / Kartu Mahasiswa (KTM)",
+    "partOfSpeech": "noun",
+    "level": "HSK 2",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "凭学生证可以在火车站购买半价优惠车票。",
+    "examplePhonetic": "Píng xuéshēngzhèng kěyǐ zài huǒchēzhàn gòumǎi bànjià yōuhuì chēpiào.",
+    "exampleTranslation": "Dengan menunjukkan kartu pelajar Anda dapat membeli tiket kereta diskon setengah harga.",
+    "notes": "Kartu identitas resmi siswa yang memberi banyak hak diskon di Tiongkok.",
+    "tags": [
+          "identitas",
+          "dokumen",
+          "sekolah"
+    ]
+  },
+  {
+    "id": "zh-voc-285",
+    "languageId": "chinese",
+    "word": "奖学金",
+    "phonetic": "jiǎngxuéjīn",
+    "meaningId": "Beasiswa Pendidikan",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "获得中国政府全额奖学金免除所有学费与住宿费。",
+    "examplePhonetic": "Huòdé zhōngguó zhèngfǔ quán'é jiǎngxuéjīn miǎnchú suǒyǒu xuéfèi yǔ zhùsùfèi.",
+    "exampleTranslation": "Meraih beasiswa penuh pemerintah Tiongkok membebaskan seluruh biaya kuliah dan asrama.",
+    "notes": "奖 (penghargaan) + 学 (belajar) + 金 (dana/uang).",
+    "tags": [
+          "pendanaan",
+          "prestasi",
+          "kampus"
+    ]
+  },
+  {
+    "id": "zh-voc-286",
+    "languageId": "chinese",
+    "word": "毕业典礼",
+    "phonetic": "bìyè diǎnlǐ",
+    "meaningId": "Upacara Wisuda / Kelulusan",
+    "partOfSpeech": "noun",
+    "level": "HSK 3",
+    "category": "Perlengkapan & Aktivitas Akademik",
+    "exampleNative": "在毕业典礼上，校长亲自为毕业生拨穗。",
+    "examplePhonetic": "Zài bìyè diǎnlǐ shang, xiàozhǎng qīnzì wèi bìyèshēng bōsuì.",
+    "exampleTranslation": "Pada upacara wisuda, rektor memindahkan tali kuncir toga wisudawan secara langsung.",
+    "notes": "毕业 (lulus studi) + 典礼 (upacara seremonial).",
+    "tags": [
+          "kelulusan",
+          "upacara",
+          "kampus"
+    ]
   }
 ];
