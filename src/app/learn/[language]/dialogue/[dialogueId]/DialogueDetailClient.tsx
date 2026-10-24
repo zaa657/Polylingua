@@ -37,7 +37,7 @@ export function DialogueDetailClient({
   };
 
   return (
-    <LearningLayoutClient currentLanguage={langKey}>
+    <LearningLayoutClient currentLanguage={langKey} hideAiTutor={mode === 'quiz'}>
       <div className="space-y-6">
         {/* Back Link & Mode Tabs */}
         <div className="flex flex-wrap items-center justify-between gap-3">

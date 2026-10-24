@@ -4,6 +4,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Language } from '@/types/learning';
 import { LANGUAGES } from '@/data/languages';
 import { speechService, getVoiceLangCode } from '@/lib/speechService';
+import { useQuizSession } from '@/context/QuizSessionContext';
 import {
   Sparkles,
   X,
@@ -30,6 +31,7 @@ function createMessageId(prefix: string): string {
 
 interface AiTutorDrawerProps {
   currentLanguage?: Language;
+  disabled?: boolean;
 }
 
 const QUICK_PROMPTS_BY_LANG: Record<string, string[]> = {
@@ -65,9 +67,21 @@ const DEFAULT_PROMPTS = [
 
 export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
   currentLanguage = 'chinese',
+  disabled = false,
 }) => {
+  const { isQuizActive } = useQuizSession();
+  const isBlocked = disabled || isQuizActive;
+
   const langMeta = LANGUAGES[currentLanguage] || LANGUAGES.chinese;
   const [isOpen, setIsOpen] = useState(false);
+
+  // Otomatis tutup dan matikan audio speech jika kuis sedang aktif
+  useEffect(() => {
+    if (isBlocked) {
+      speechService.stop();
+      setIsOpen(false);
+    }
+  }, [isBlocked]);
   const [messages, setMessages] = useState<AiMessage[]>(() => [
     {
       id: 'welcome-msg',
@@ -173,6 +187,10 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
       },
     ]);
   };
+
+  if (isBlocked) {
+    return null;
+  }
 
   return (
     <>

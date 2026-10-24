@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 import { AuthProvider } from '@/context/AuthContext';
 import { LocaleProvider } from '@/context/LocaleContext';
+import { QuizSessionProvider } from '@/context/QuizSessionContext';
 import { PWARegister } from '@/components/pwa/PWARegister';
 
 const geistSans = Geist({
@@ -55,8 +56,10 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col bg-slate-50 text-slate-900 font-sans">
         <LocaleProvider>
           <AuthProvider>
-            <PWARegister />
-            {children}
+            <QuizSessionProvider>
+              <PWARegister />
+              {children}
+            </QuizSessionProvider>
           </AuthProvider>
         </LocaleProvider>
       </body>

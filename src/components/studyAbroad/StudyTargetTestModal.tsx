@@ -4,6 +4,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { StudyChecklistItem, QuizQuestion } from '@/types/learning';
 import { AudioSpeaker } from '@/components/ui/AudioSpeaker';
 import { useLocale } from '@/context/LocaleContext';
+import { useQuizSession } from '@/context/QuizSessionContext';
 import confetti from 'canvas-confetti';
 import {
   X,
@@ -47,6 +48,16 @@ const StudyTargetTestModalContent: React.FC<StudyTargetTestModalContentProps> = 
   onPassTest,
 }) => {
   const { locale, t } = useLocale();
+  const { setQuizActive } = useQuizSession();
+
+  // Matikan AI Tutor selama ujian kesiapan kuliah berlangsung
+  useEffect(() => {
+    setQuizActive(true);
+    return () => {
+      setQuizActive(false);
+    };
+  }, [setQuizActive]);
+
   const [selectedAnswers, setSelectedAnswers] = useState<Record<string, number>>({});
   const [essayAnswers, setEssayAnswers] = useState<Record<string, string>>({});
   const [reorderedIndices, setReorderedIndices] = useState<Record<string, number[]>>({});

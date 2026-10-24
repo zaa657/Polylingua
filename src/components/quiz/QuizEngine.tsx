@@ -19,6 +19,7 @@ import confetti from 'canvas-confetti';
 import { progressService } from '@/lib/progressService';
 import { useAuth } from '@/context/AuthContext';
 import { useLocale } from '@/context/LocaleContext';
+import { useQuizSession } from '@/context/QuizSessionContext';
 import { AudioSpeaker } from '../ui/AudioSpeaker';
 
 interface QuizEngineProps {
@@ -428,6 +429,15 @@ export const QuizEngine: React.FC<QuizEngineProps> = ({
 }) => {
   const { user, reloadProgress } = useAuth();
   const { t } = useLocale();
+  const { setQuizActive } = useQuizSession();
+
+  // Matikan AI Tutor selama pengerjaan kuis
+  useEffect(() => {
+    setQuizActive(true);
+    return () => {
+      setQuizActive(false);
+    };
+  }, [setQuizActive]);
   const [activeTab, setActiveTab] = useState<'all' | 'pg' | 'essai' | 'sambung_kata' | 'bebas'>('all');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [savedAnswers, setSavedAnswers] = useState<

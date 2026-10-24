@@ -10,11 +10,13 @@ import { Language } from '@/types/learning';
 interface LearningLayoutClientProps {
   children: React.ReactNode;
   currentLanguage?: Language;
+  hideAiTutor?: boolean;
 }
 
 export const LearningLayoutClient: React.FC<LearningLayoutClientProps> = ({
   children,
   currentLanguage = 'chinese',
+  hideAiTutor = false,
 }) => {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
 
@@ -40,7 +42,7 @@ export const LearningLayoutClient: React.FC<LearningLayoutClientProps> = ({
         <AppBottomNav currentLanguage={currentLanguage} />
 
         {/* Global Floating AI Language Tutor */}
-        <AiTutorDrawer currentLanguage={currentLanguage} />
+        <AiTutorDrawer currentLanguage={currentLanguage} disabled={hideAiTutor} />
       </div>
     </div>
   );

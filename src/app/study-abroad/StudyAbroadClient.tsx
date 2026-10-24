@@ -156,7 +156,10 @@ export function StudyAbroadClient() {
   const countryShortName = countryData.name.split('/')[0].trim();
 
   return (
-    <LearningLayoutClient currentLanguage={countryLangMap[selectedCountry]}>
+    <LearningLayoutClient
+      currentLanguage={countryLangMap[selectedCountry]}
+      hideAiTutor={isTestModalOpen}
+    >
       <div className="space-y-8">
         {/* Main Header Banner */}
         <div className="bg-white rounded-3xl border border-slate-200/90 p-6 md:p-8 shadow-xs space-y-4">
