@@ -115,14 +115,27 @@ const CATEGORY_NORMALIZATION_MAP: Record<string, string> = {
 };
 
 const LEVEL_NORMALIZATION_MAP: Record<string, string> = {
-  // Korean TOPIK normalizations (unify L3 -> Level 3, L4 -> Level 4, and L2 -> TOPIK 1):
-  'TOPIK 2 (L2)': 'TOPIK 1',
+  // Korean TOPIK normalizations (unify duplicate abbreviations to 6 canonical levels):
+  'TOPIK 1': 'TOPIK 1 (Level 1)',
+  'Topik 1': 'TOPIK 1 (Level 1)',
+  'TOPIK 1 (Level 1)': 'TOPIK 1 (Level 1)',
+  'TOPIK 1 (L1)': 'TOPIK 1 (Level 1)',
+  'TOPIK 1 (Level 2)': 'TOPIK 1 (Level 2)',
+  'TOPIK 1 (L2)': 'TOPIK 1 (Level 2)',
+  'TOPIK 2 (L2)': 'TOPIK 1 (Level 2)',
+  'TOPIK 2 (Level 2)': 'TOPIK 1 (Level 2)',
   'TOPIK 2 (L3)': 'TOPIK 2 (Level 3)',
+  'TOPIK 2 (LEVEL 3)': 'TOPIK 2 (Level 3)',
+  'TOPIK 2 (Level 3)': 'TOPIK 2 (Level 3)',
   'TOPIK 2 (L4)': 'TOPIK 2 (Level 4)',
+  'TOPIK 2 (LEVEL 4)': 'TOPIK 2 (Level 4)',
+  'TOPIK 2 (Level 4)': 'TOPIK 2 (Level 4)',
   'TOPIK 2 (L5)': 'TOPIK 2 (Level 5)',
+  'TOPIK 2 (LEVEL 5)': 'TOPIK 2 (Level 5)',
+  'TOPIK 2 (Level 5)': 'TOPIK 2 (Level 5)',
   'TOPIK 2 (L6)': 'TOPIK 2 (Level 6)',
-  'TOPIK 1 (Level 1)': 'TOPIK 1',
-  'TOPIK 1 (Level 2)': 'TOPIK 1',
+  'TOPIK 2 (LEVEL 6)': 'TOPIK 2 (Level 6)',
+  'TOPIK 2 (Level 6)': 'TOPIK 2 (Level 6)',
 
   // English CEFR normalizations:
   'A1 (Beginner)': 'A1',
@@ -187,13 +200,14 @@ export function getLevelRank(level: string): number {
     if (normalized.includes('N1')) return 5;
   }
   if (normalized.includes('TOPIK')) {
-    if (normalized.includes('TOPIK 1') || normalized.includes('L1')) return 1;
+    if (normalized.includes('LEVEL 1') || normalized.includes('L1') || normalized === 'TOPIK 1') return 1;
+    if (normalized.includes('LEVEL 2') || normalized.includes('L2')) return 2;
     if (normalized.includes('LEVEL 3') || normalized.includes('L3')) return 3;
     if (normalized.includes('LEVEL 4') || normalized.includes('L4')) return 4;
     if (normalized.includes('LEVEL 5') || normalized.includes('L5')) return 5;
     if (normalized.includes('LEVEL 6') || normalized.includes('L6')) return 6;
-    if (normalized.includes('L2')) return 2;
-    return 2;
+    if (normalized.includes('TOPIK 1')) return 1;
+    return 1;
   }
   if (normalized.includes('THAI') || normalized.includes('LEVEL') || normalized.includes('TINGKAT')) {
     if (normalized.includes('LEVEL 1') || normalized.includes('TINGKAT 1') || normalized.includes('PEMULA')) return 1;
