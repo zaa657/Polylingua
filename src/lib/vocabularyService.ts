@@ -132,14 +132,30 @@ const LEVEL_NORMALIZATION_MAP: Record<string, string> = {
   'C1': 'C1 (Advanced)',
 
   // Thai normalizations:
-  'TH1': 'Tingkat 1',
-  'TH2': 'Tingkat 2',
-  'TH3': 'Tingkat 3',
-  'TH4': 'Tingkat 4',
-  'Tingkat 1 (Dasar & Nada)': 'Tingkat 1',
-  'Tingkat 2 (Percakapan Sehari-hari)': 'Tingkat 2',
-  'Tingkat 3 (Menengah)': 'Tingkat 3',
-  'Tingkat 4 (Akademik & Bisnis)': 'Tingkat 4',
+  'TH1': 'Thai Level 1 (Pemula)',
+  'TH2': 'Thai Level 2',
+  'TH3': 'Thai Level 3',
+  'TH4': 'Thai Level 4',
+  'TH5': 'Thai Level 5',
+  'TH6': 'Thai Level 6 (Mahir)',
+  'Tingkat 1': 'Thai Level 1 (Pemula)',
+  'Tingkat 2': 'Thai Level 2',
+  'Tingkat 3': 'Thai Level 3',
+  'Tingkat 4': 'Thai Level 4',
+  'Tingkat 5': 'Thai Level 5',
+  'Tingkat 6': 'Thai Level 6 (Mahir)',
+  'Tingkat 1 (Dasar & Nada)': 'Thai Level 1 (Pemula)',
+  'Tingkat 2 (Percakapan Sehari-hari)': 'Thai Level 2',
+  'Tingkat 3 (Menengah)': 'Thai Level 3',
+  'Tingkat 4 (Akademik & Bisnis)': 'Thai Level 4',
+  'Level 1': 'Thai Level 1 (Pemula)',
+  'Level 2': 'Thai Level 2',
+  'Level 3': 'Thai Level 3',
+  'Level 4': 'Thai Level 4',
+  'Level 5': 'Thai Level 5',
+  'Level 6': 'Thai Level 6 (Mahir)',
+  'Thai Level 1': 'Thai Level 1 (Pemula)',
+  'Thai Level 6': 'Thai Level 6 (Mahir)',
 };
 
 export function normalizeVocabularyLevel(level?: string, _language?: Language): string {
@@ -178,6 +194,14 @@ export function getLevelRank(level: string): number {
     if (normalized.includes('LEVEL 6') || normalized.includes('L6')) return 6;
     if (normalized.includes('L2')) return 2;
     return 2;
+  }
+  if (normalized.includes('THAI') || normalized.includes('LEVEL') || normalized.includes('TINGKAT')) {
+    if (normalized.includes('LEVEL 1') || normalized.includes('TINGKAT 1') || normalized.includes('PEMULA')) return 1;
+    if (normalized.includes('LEVEL 2') || normalized.includes('TINGKAT 2') || normalized.includes('DASAR')) return 2;
+    if (normalized.includes('LEVEL 3') || normalized.includes('TINGKAT 3') || (normalized.includes('MENENGAH') && !normalized.includes('ATAS'))) return 3;
+    if (normalized.includes('LEVEL 4') || normalized.includes('TINGKAT 4') || normalized.includes('MENENGAH ATAS')) return 4;
+    if (normalized.includes('LEVEL 5') || normalized.includes('TINGKAT 5') || normalized.includes('LANJUTAN')) return 5;
+    if (normalized.includes('LEVEL 6') || normalized.includes('TINGKAT 6') || normalized.includes('MAHIR')) return 6;
   }
   if (normalized.startsWith('A1') || normalized === 'TINGKAT 1' || normalized === 'PEMULA') return 1;
   if (normalized.startsWith('A2') || normalized === 'TINGKAT 2' || normalized === 'DASAR') return 2;
