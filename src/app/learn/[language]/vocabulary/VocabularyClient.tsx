@@ -116,14 +116,14 @@ export const VocabularyClient: React.FC<VocabularyClientProps> = ({
   useEffect(() => {
     let isMounted = true;
     fetchVocabulariesForLanguage(language).then((remoteData) => {
-      if (isMounted && remoteData && remoteData.length > 0) {
+      if (isMounted && remoteData && remoteData.length >= normalizedInitialVocab.length) {
         setRemoteVocab(remoteData);
       }
     });
     return () => {
       isMounted = false;
     };
-  }, [language]);
+  }, [language, normalizedInitialVocab.length]);
 
   const vocabList = remoteVocab || normalizedInitialVocab;
 

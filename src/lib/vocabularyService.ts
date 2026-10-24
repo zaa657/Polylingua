@@ -280,7 +280,7 @@ export async function fetchVocabularyCountForLanguage(language: Language): Promi
 export async function fetchVocabulariesForLanguage(language: Language): Promise<VocabularyItem[]> {
   try {
     const batchSize = 1000;
-    const maxBatches = 15; // Supports up to 15,000 vocabulary words per language (e.g. 10,000 JLPT or 5,400 HSK words)
+    const maxBatches = 20; // Supports up to 20,000 vocabulary words per language (e.g. 12,798 HSK words)
     const batchPromises = [];
 
     for (let b = 0; b < maxBatches; b++) {
@@ -306,13 +306,13 @@ export async function fetchVocabulariesForLanguage(language: Language): Promise<
     }
 
     const validRecords = combinedData.filter((item) => isValidSupabaseRecord(item, language));
+    const localItems = getVocabulary(language).map((v) => ({
+      ...v,
+      level: normalizeVocabularyLevel(v.level, language),
+      category: normalizeVocabularyCategory(v.category),
+    }));
 
-    if (validRecords.length === 0) {
-      const localItems = getVocabulary(language).map((v) => ({
-        ...v,
-        level: normalizeVocabularyLevel(v.level, language),
-        category: normalizeVocabularyCategory(v.category),
-      }));
+    if (validRecords.length === 0 || validRecords.length < localItems.length) {
       return sortVocabularyItems(localItems);
     }
 
