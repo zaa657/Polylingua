@@ -632,7 +632,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "語学学校で世界中の国々から来た友だちができました。",
     "examplePhonetic": "Gogaku gakkō de sekaijū no kuniguni kara kita tomodachi ga dekimashita.",
     "exampleTranslation": "Di sekolah bahasa saya mendapat teman-teman yang datang dari berbagai penjuru dunia.",
-    "notes": "Bisa ditulis 友達 atau 友だち.",
+    "notes": "Bisa ditulis 友達 atau 友だち. Kata \"友だち\" (cara baca: Tomodachi) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Salam & Percakapan) untuk menyatakan \"Teman\".",
     "tags": [
       "teman",
       "n5",
@@ -652,7 +652,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "日本の水道水はそのまま美味しく飲むことができます。",
     "examplePhonetic": "Nihon no suidōsui wa sonomama oishiku nomu koto ga dekimasu.",
     "exampleTranslation": "Air keran di Jepang dapat langsung diminum dengan segar dan lezat.",
-    "notes": "Air hangat/panas disebut お湯 (oyu).",
+    "notes": "Air hangat/panas disebut お湯 (oyu). Kata \"水\" (cara baca: Mizu) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Makanan & Restoran) untuk menyatakan \"Air putih segar\".",
     "tags": [
       "minuman",
       "n5",
@@ -672,7 +672,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "週末に新幹線に乗って京都のお寺へ行きます。",
     "examplePhonetic": "Shūmatsu ni Shinkansen ni notte Kyōto no otera e ikimasu.",
     "exampleTranslation": "Pada akhir pekan saya naik Shinkansen pergi ke kuil di Kyoto.",
-    "notes": "Bentuk -te tidak beraturan: 行って (itte).",
+    "notes": "Bentuk -te tidak beraturan: 行って (itte). Kata \"行く\" (cara baca: Iku) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Transportasi & Arah) untuk menyatakan \"Pergi\".",
     "tags": [
       "gerak",
       "n5",
@@ -1052,7 +1052,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "冬休みに北海道へスキー旅行に行く計画を立てています。",
     "examplePhonetic": "Fuyuyasumi ni Hokkaidō e sukī ryokō ni iku keikaku o tatete imasu.",
     "exampleTranslation": "Saya sedang menyusun rencana liburan wisata ski ke Hokkaido saat liburan musim dingin.",
-    "notes": "Agen perjalanan: 旅行会社 (ryokō gaisha).",
+    "notes": "Agen perjalanan: 旅行会社 (ryokō gaisha). Kata \"旅行\" (cara baca: Ryokō) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Transportasi & Arah) untuk menyatakan \"Bepergian\".",
     "tags": [
       "travel",
       "n4",
@@ -1092,7 +1092,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "玄関で靴を脱ぐのは、日本の家庭における伝統的な生活習慣です。",
     "examplePhonetic": "Genkan de kutsu o nugu no wa, Nihon no katei ni okeru dentōteki na seikatsu shūkan desu.",
     "exampleTranslation": "Melepas sepatu di genkan (teras dalam) merupakan kebiasaan hidup tradisional dalam keluarga Jepang.",
-    "notes": "Membiasakan diri: 習慣を身につける.",
+    "notes": "Membiasakan diri: 習慣を身につける. Kata \"習慣\" (cara baca: Shūkan) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Idiom & Budaya) untuk menyatakan \"Kebiasaan\".",
     "tags": [
       "kebiasaan",
       "n4",
@@ -1152,7 +1152,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "授業の最後に、教授の研究テーマについて積極的に質問しました。",
     "examplePhonetic": "Jugyō no saigo ni, kyōju no kenkyū tēma ni tsuite sekkyokuteki ni shitsumon shimashita.",
     "exampleTranslation": "Di akhir sesi perkuliahan, saya aktif mengajukan pertanyaan seputar tema riset profesor.",
-    "notes": "Bertanya: 質問する (shitsumon suru).",
+    "notes": "Bertanya: 質問する (shitsumon suru). Kata \"質問\" (cara baca: Shitsumon) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Akademik & Kampus) untuk menyatakan \"Pertanyaan\".",
     "tags": [
       "tanya",
       "n4",
@@ -1172,7 +1172,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "面接官の質問に対して、落ち着いて明確に答えました。",
     "examplePhonetic": "Mensetsukan no shitsumon ni taishite, ochitsuite meikaku ni kotaemashita.",
     "exampleTranslation": "Menanggapi pertanyaan pewawancara, saya menjawab dengan tenang dan jelas.",
-    "notes": "Kata benda jawaban: 答え (kotae).",
+    "notes": "Kata benda jawaban: 答え (kotae). Kata \"答える\" (cara baca: Kotaeru) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Salam & Percakapan) untuk menyatakan \"Menjawab\".",
     "tags": [
       "jawab",
       "n4",
@@ -1252,7 +1252,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "まずは簡単な文型から反復練習して、基礎を固めましょう。",
     "examplePhonetic": "Mazu wa kantan na bunkei kara hanpuku renshū shite, kiso o katamemashō.",
     "exampleTranslation": "Pertama-tama mari berlatih berulang dari pola kalimat sederhana untuk memperkuat fondasi.",
-    "notes": "Kata sifat-na: 簡単に (dengan mudah).",
+    "notes": "Kata sifat-na: 簡単に (dengan mudah). Kata \"簡単\" (cara baca: Kantan) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Kata Sifat & Keadaan) untuk menyatakan \"Mudah\".",
     "tags": [
       "sifat",
       "n4",
@@ -1272,7 +1272,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "日本の国立大学大学院で先端バイオテクノロジーを研究したいです。",
     "examplePhonetic": "Nihon no kokuritsu daigaku daigakuin de sentan baiotekunorojī o kenkyū shitai desu.",
     "exampleTranslation": "Saya ingin meneliti bioteknologi terdepan di program pascasarjana universitas negeri Jepang.",
-    "notes": "S2/S3 disebut 大学院 (daigakuin).",
+    "notes": "S2/S3 disebut 大学院 (daigakuin). Kata \"大学\" (cara baca: Daigaku) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Akademik & Kampus) untuk menyatakan \"Universitas\".",
     "tags": [
       "kampus",
       "n3",
@@ -1312,7 +1312,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "私の大学での専門は人工知能と自然言語処理です。",
     "examplePhonetic": "Watashi no daigaku de no senmon wa jinkō chinō to shizen gengo shori desu.",
     "exampleTranslation": "Spesialisasi keahlian saya di universitas adalah kecerdasan buatan dan pemrosesan bahasa alami.",
-    "notes": "Buku khusus: 専門書, istilah khusus: 専門用語.",
+    "notes": "Buku khusus: 専門書, istilah khusus: 専門用語. Kata \"専門\" (cara baca: Senmon) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Akademik & Kampus) untuk menyatakan \"Bidang keahlian\".",
     "tags": [
       "jurusan",
       "n3",
@@ -1332,7 +1332,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "大学院入試の口頭試問と面接に向けて、志望理由書を暗記するほど推敲しました。",
     "examplePhonetic": "Daigakuin nyūshi no kōtō shimon to mensetsu ni mukete, shibō riyūsho o anki suru hodo suikō shimashita.",
     "exampleTranslation": "Menyambut ujian lisan dan wawancara masuk pascasarjana, saya mematangkan essay alasan memilih kampus hingga hafal.",
-    "notes": "Pewawancara: 面接官 (mensetsukan).",
+    "notes": "Pewawancara: 面接官 (mensetsukan). Kata \"面接\" (cara baca: Mensetsu) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Akademik & Kampus) untuk menyatakan \"Wawancara seleksi kerja\".",
     "tags": [
       "wawancara",
       "n3",
@@ -1352,7 +1352,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "日本の大学の授業では活発なディスカッションとプレゼンが重視されます。",
     "examplePhonetic": "Nihon no daigaku no jugyō de wa kappatsu na disukasshon to purezen ga jūshi saremasu.",
     "exampleTranslation": "Dalam perkuliahan universitas Jepang, diskusi aktif dan presentasi sangat diutamakan.",
-    "notes": "Membayar uang kuliah: 授業料を払う.",
+    "notes": "Membayar uang kuliah: 授業料を払う. Kata \"授業\" (cara baca: Jugyō) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Akademik & Kampus) untuk menyatakan \"Perkuliahan\".",
     "tags": [
       "kuliah",
       "n3",
@@ -1372,7 +1372,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "このアルゴリズムは数理モデルが複雑ですが、計算効率は極めて高いです。",
     "examplePhonetic": "Kono arugorizumu wa sūri moderu ga fukuzatsu desu ga, keisan kōritsu wa kiwamete takai desu.",
     "exampleTranslation": "Algoritma ini model matematisnya rumit, namun efisiensi komputasinya luar biasa tinggi.",
-    "notes": "Lawan kata: 単純 (tanjun - sederhana).",
+    "notes": "Lawan kata: 単純 (tanjun - sederhana). Kata \"複雑\" (cara baca: Fukuzatsu) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Kata Sifat & Keadaan) untuk menyatakan \"Rumit\".",
     "tags": [
       "sifat",
       "n3",
@@ -1392,7 +1392,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "長期間にわたる実験がようやく成功し、予想通りのデータが得られました。",
     "examplePhonetic": "Chōkikan ni wataru jikken ga yōyaku seikō shi, yosō-dōri no dēta ga eraremashita.",
     "exampleTranslation": "Eksperimen yang berjalan dalam jangka waktu panjang akhirnya berhasil, dan data sesuai ekspektasi berhasil diperoleh.",
-    "notes": "Berhasil: 成功する (seikō suru).",
+    "notes": "Berhasil: 成功する (seikō suru). Kata \"成功\" (cara baca: Seikō) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Aksi Harian) untuk menyatakan \"Keberhasilan\".",
     "tags": [
       "sukses",
       "n3",
@@ -1452,7 +1452,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "本研究の主たる目的は、再生可能エネルギーの送電効率を飛躍的に高めることです。",
     "examplePhonetic": "Hon kenkyū no shutaru mokuteki wa, saisei kanō enerugī no sōden kōritsu o hiyakuteki ni takameru koto desu.",
     "exampleTranslation": "Tujuan utama penelitian ini adalah untuk meningkatkan efisiensi transmisi energi terbarukan secara pesat.",
-    "notes": "Tujuan riset: 研究目的 (kenkyū mokuteki).",
+    "notes": "Tujuan riset: 研究目的 (kenkyū mokuteki). Kata \"目的\" (cara baca: Mokuteki) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Akademik & Kampus) untuk menyatakan \"Tujuan\".",
     "tags": [
       "tujuan",
       "n3",
@@ -1492,7 +1492,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "日々の地道な努力の積み重ねが、研究における大発見へとつながります。",
     "examplePhonetic": "Hibi no jimichi na doryoku no tsumikasane ga, kenkyū ni okeru daihakken e to tsunagarimasu.",
     "exampleTranslation": "Akumulasi ikhtiar tekun hari demi hari akan bermuara pada penemuan besar dalam penelitian.",
-    "notes": "Berusaha keras: 努力する (doryoku suru).",
+    "notes": "Berusaha keras: 努力する (doryoku suru). Kata \"努力\" (cara baca: Doryoku) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Kata Sifat & Keadaan) untuk menyatakan \"Usaha gigih\".",
     "tags": [
       "ikhtiar",
       "n3",
@@ -1512,7 +1512,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "環境問題を解決するためには、国際社会全体の協調が不可欠です。",
     "examplePhonetic": "Kankyō mondai o kaiketsu suru tame ni wa, kokusai shakai zentai no kyōchō ga fukaketsu desu.",
     "exampleTranslation": "Untuk memecahkan problem lingkungan, kerja sama seluruh komunitas internasional sangat mutlak diperlukan.",
-    "notes": "Solusi: 解決策 (kaiketsusaku).",
+    "notes": "Solusi: 解決策 (kaiketsusaku). Kata \"解決\" (cara baca: Kaiketsu) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Akademik & Kampus) untuk menyatakan \"Penyelesaian\".",
     "tags": [
       "solusi",
       "n3",
@@ -1532,7 +1532,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "今週末に京都で開催される学術シンポジウムにポスター発表で参加します。",
     "examplePhonetic": "Konshūmatsu ni Kyōto de kaisai sareru gakujutsu shinpojiumu ni posutā happyō de sanka shimasu.",
     "exampleTranslation": "Akhir pekan ini saya akan berpartisipasi dengan presentasi poster di simposium ilmiah yang diadakan di Kyoto.",
-    "notes": "Peserta: 参加者 (sankasha).",
+    "notes": "Peserta: 参加者 (sankasha). Kata \"参加\" (cara baca: Sanka) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Aksi Harian) untuk menyatakan \"Berpartisipasi\".",
     "tags": [
       "partisipasi",
       "n3",
@@ -1572,7 +1572,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "教授やゼミの仲間から建設的な意見をたくさんもらい、研究の視野が広がりました。",
     "examplePhonetic": "Kyōju ya zemi no nakama kara kensetsuteki na iken o takusan morai, kenkyū no shiya ga hirogarimashita.",
     "exampleTranslation": "Mendapatkan banyak pendapat konstruktif dari profesor dan rekan seminar memperluas cakrawala riset saya.",
-    "notes": "Bertukar pendapat: 意見交換 (iken kōkan).",
+    "notes": "Bertukar pendapat: 意見交換 (iken kōkan). Kata \"意見\" (cara baca: Iken) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Salam & Percakapan) untuk menyatakan \"Pendapat\".",
     "tags": [
       "opini",
       "n3",
@@ -1592,7 +1592,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "専門用語の定義を正確に理解することが、学術論文読解の第一歩です。",
     "examplePhonetic": "Senmon yōgo no teigi o seikaku ni rikai suru koto ga, gakujutsu ronbun dokkai no dai-ippo desu.",
     "exampleTranslation": "Memahami definisi istilah-istilah khusus dengan tepat adalah langkah pertama dalam membaca makalah ilmiah.",
-    "notes": "Daya pemahaman: 理解力 (rikairyoku).",
+    "notes": "Daya pemahaman: 理解力 (rikairyoku). Kata \"理解\" (cara baca: Rikai) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Akademik & Kampus) untuk menyatakan \"Pemahaman\".",
     "tags": [
       "paham",
       "n3",
@@ -1612,7 +1612,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "急速なデジタル技術の進展に伴い、人々の生活様式に大きな変化が起きています。",
     "examplePhonetic": "Kyūsoku na dejitaru gijutsu no shinten ni tomonai, hitobito no seikatsu yōshiki ni ookina henka ga okite imasu.",
     "exampleTranslation": "Seiring perkembangan pesat teknologi digital, terjadi perubahan besar dalam gaya hidup masyarakat.",
-    "notes": "Berubah: 変化する (henka suru).",
+    "notes": "Berubah: 変化する (henka suru). Kata \"変化\" (cara baca: Henka) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Kata Sifat & Keadaan) untuk menyatakan \"Perubahan\".",
     "tags": [
       "perubahan",
       "n3",
@@ -1632,7 +1632,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "将来は母国と日本を結ぶ架け橋となる国際研究者を目指しています。",
     "examplePhonetic": "Shōrai wa bokoku to Nihon o musubu kakehashi to naru kokusai kenkyūsha o mezashite imasu.",
     "exampleTranslation": "Di masa depan saya bercita-cita menjadi peneliti internasional yang menjadi jembatan penghubung tanah air dan Jepang.",
-    "notes": "Prospek masa depan: 将来性 (shōraisei).",
+    "notes": "Prospek masa depan: 将来性 (shōraisei). Kata \"将来\" (cara baca: Shōrai) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Aksi Harian) untuk menyatakan \"Masa depan\".",
     "tags": [
       "cita-cita",
       "n3",
@@ -1692,7 +1692,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "アンケート調査で得られた回答データを多変量解析を用いて詳細に分析しました。",
     "examplePhonetic": "Ankēto chōsa de erareta kaitō dēta o tahenryō kaiseki o mochiite shōsai ni bunseki shimashita.",
     "exampleTranslation": "Menganalisis data respons kuesioner secara mendalam dengan analisis multivariat.",
-    "notes": "Verba: 分析する (bunseki suru).",
+    "notes": "Verba: 分析する (bunseki suru). Kata \"分析\" (cara baca: Bunseki) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Akademik & Kampus) untuk menyatakan \"Menganalisis\".",
     "tags": [
       "analisis",
       "n2",
@@ -1732,7 +1732,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "ゼミ生全員で最新の経済政策論文について白熱した議論を交わしました。",
     "examplePhonetic": "Zemisei zen'in de saishin no keizai seisaku ronbun ni tsuite hakunetsu shita giron o kawashimashita.",
     "exampleTranslation": "Seluruh mahasiswa seminar saling bertukar perdebatan hangat mengenai makalah kebijakan ekonomi terkini.",
-    "notes": "Mendiskusikan secara mendalam: 議論を深める.",
+    "notes": "Mendiskusikan secara mendalam: 議論を深める. Kata \"議論\" (cara baca: Giron) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Akademik & Kampus) untuk menyatakan \"Perdebatan ilmiah\".",
     "tags": [
       "diskusi",
       "n2",
@@ -1752,7 +1752,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "長年の共同研究の成果が実を結び、画期的な新素材の特許を取得しました。",
     "examplePhonetic": "Naganen no kyōdō kenkyū no seika ga mi o musubi, kakkiteki na shinsozai no tokkyo o shutoku shimashita.",
     "exampleTranslation": "Hasil riset kolaborasi bertahun-tahun membuahkan hasil, berhasil memperoleh paten material baru yang revolusioner.",
-    "notes": "Hasil riset: 研究成果 (kenkyū seika).",
+    "notes": "Hasil riset: 研究成果 (kenkyū seika). Kata \"成果\" (cara baca: Seika) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Akademik & Kampus) untuk menyatakan \"Hasil capaian\".",
     "tags": [
       "capaian",
       "n2",
@@ -1772,7 +1772,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "現地の生態系への影響を把握するため、現地フィールド調査を実施しました。",
     "examplePhonetic": "Genchi no seitaikei e no eikyō o haaku suru tame, genchi fīrudo chōsa o jisshi shimashita.",
     "exampleTranslation": "Untuk memetakan dampak terhadap ekosistem setempat, kami melaksanakan survei lapangan langsung.",
-    "notes": "Survei kuesioner: アンケート調査.",
+    "notes": "Survei kuesioner: アンケート調査. Kata \"調査\" (cara baca: Chōsa) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Akademik & Kampus) untuk menyatakan \"Survei\".",
     "tags": [
       "survei",
       "n2",
@@ -1812,7 +1812,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "提案した新手法は実験精度の高さにおいて学会から極めて高い評価を受けました。",
     "examplePhonetic": "Teian shita shinshuhō wa jikken seido no takasa ni oite gakkai kara kiwamete takai hyōka o ukemashita.",
     "exampleTranslation": "Metode baru yang diajukan mendapat evaluasi luar biasa tinggi dari asosiasi ilmiah berkat tingginya presisi eksperimen.",
-    "notes": "Mengevaluasi: 評価する (hyōka suru).",
+    "notes": "Mengevaluasi: 評価する (hyōka suru). Kata \"評価\" (cara baca: Hyōka) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Akademik & Kampus) untuk menyatakan \"Penilaian\".",
     "tags": [
       "evaluasi",
       "n2",
@@ -1832,7 +1832,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "実験結果の異常値について、直ちに指導教授へ中間報告を行いました。",
     "examplePhonetic": "Jikken kekka no ijōchi ni tsuite, tadachini shidō kyōju e chūkan hōkoku o okonaimashita.",
     "exampleTranslation": "Mengenai nilai anomali pada hasil eksperimen, saya segera memberikan laporan antara kepada profesor pembimbing.",
-    "notes": "Dokumen laporan: 報告書 (hōkokusho).",
+    "notes": "Dokumen laporan: 報告書 (hōkokusho). Kata \"報告\" (cara baca: Hōkoku) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Salam & Percakapan) untuk menyatakan \"Laporan resmi\".",
     "tags": [
       "laporan",
       "n2",
@@ -1892,7 +1892,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "研究者には実験データの真正性を担保する重大な社会的責任があります。",
     "examplePhonetic": "Kenkyūsha ni wa jikken dēta no shinseisei o tanpo suru jūdai na shakaiteki sekinin ga arimasu.",
     "exampleTranslation": "Seorang peneliti memikul tanggung jawab sosial yang besar untuk menjamin keaslian data eksperimen.",
-    "notes": "Rasa tanggung jawab: 責任感 (sekininkan).",
+    "notes": "Rasa tanggung jawab: 責任感 (sekininkan). Kata \"責任\" (cara baca: Sekinin) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Kata Sifat & Keadaan) untuk menyatakan \"Tanggung jawab moral dan profesional\".",
     "tags": [
       "integritas",
       "n2",
@@ -1952,7 +1952,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "民間財団の外国人留学生向け奨学金公募に応募書類を一式送付しました。",
     "examplePhonetic": "Minkan zaidan no gaikokujin ryūgakusei muke shōgakukin kōbo ni ōbo shorui o isshiki sōfu shimashita.",
     "exampleTranslation": "Saya telah mengirimkan satu set berkas lamaran untuk seleksi terbuka beasiswa mahasiswa asing dari yayasan swasta.",
-    "notes": "Verba: 応募する (ōbo suru).",
+    "notes": "Verba: 応募する (ōbo suru). Kata \"応募\" (cara baca: Ōbo) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Akademik & Kampus) untuk menyatakan \"Mendaftar\".",
     "tags": [
       "beasiswa",
       "n2",
@@ -1972,7 +1972,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "博士後期課程の出願条件として、JLPT N1合格またはTOEFL iBT 90点以上が課されます。",
     "examplePhonetic": "Hakushi kōki katei no shutsugan jōken toshite, JLPT N1 gōkaku matawa TOEFL iBT kyūjuuten ijō ga kasaremasu.",
     "exampleTranslation": "Sebagai syarat pendaftaran program doktoral (S3), diwajibkan lulus JLPT N1 atau meraih skor TOEFL iBT 90 ke atas.",
-    "notes": "Prasyarat wajib: 必要条件 (hitsuyō jōken).",
+    "notes": "Prasyarat wajib: 必要条件 (hitsuyō jōken). Kata \"条件\" (cara baca: Jōken) digunakan dalam bahasa Jepang (tingkat JLPT N2, kategori Akademik & Kampus) untuk menyatakan \"Syarat\".",
     "tags": [
       "syarat",
       "n2",
@@ -2052,7 +2052,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "大規模コホート調査を通じて、提唱された仮説の妥当性を厳密に検証した。",
     "examplePhonetic": "Daikibo kohōto chōsa o tsūjite, teishō sareta kasetsu no datōsei o genmitsu ni kenshō shita.",
     "exampleTranslation": "Melalui studi kohor berskala masif, kami memverifikasi validitas hipotesis yang diajukan secara sangat ketat.",
-    "notes": "Verba: 検証する (kenshō suru).",
+    "notes": "Verba: 検証する (kenshō suru). Kata \"検証\" (cara baca: Kenshō) digunakan dalam bahasa Jepang (tingkat JLPT N1, kategori Akademik & Kampus) untuk menyatakan \"Verifikasi empiris\".",
     "tags": [
       "verifikasi",
       "n1",
@@ -2132,7 +2132,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "緻密な論理構築と精緻な実験計画が、本研究を国際的成功へと導いた。",
     "examplePhonetic": "Chimitsu na ronri kōchiku to seichi na jikken keikaku ga, hon kenkyū o kokusaiteki seikō e to michibiita.",
     "exampleTranslation": "Konstruksi logika yang amat cermat dan rencana eksperimen yang presisi mengantarkan penelitian ini ke kesuksesan internasional.",
-    "notes": "Kata sifat-na: 緻密に (secara cermat).",
+    "notes": "Kata sifat-na: 緻密に (secara cermat). Kata \"緻密\" (cara baca: Chimitsu) digunakan dalam bahasa Jepang (tingkat JLPT N1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Sangat cermat, teliti, dan presisi tinggi\".",
     "tags": [
       "presisi",
       "n1",
@@ -2212,7 +2212,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "実験環境が予期せぬ変化を見せた際には、臨機応変なパラメータ調整が求められる。",
     "examplePhonetic": "Jikken kankyō ga yokisenu henka o miseta sai ni wa, rinki ōhen na paramēta chōsei ga motomerareru.",
     "exampleTranslation": "Saat lingkungan eksperimen menunjukkan perubahan tak terduga, dituntut penyesuaian parameter yang fleksibel dan tanggap situasi.",
-    "notes": "Sikap adaptif profesional: 臨機応変に対応する.",
+    "notes": "Sikap adaptif profesional: 臨機応変に対応する. Kata \"臨機応変\" (cara baca: Rinki ōhen) digunakan dalam bahasa Jepang (tingkat JLPT N1, kategori Idiom & Budaya) untuk menyatakan \"Menyesuaikan diri secara fleksibel mengikuti perubahan situasi\".",
     "tags": [
       "yojijukugo",
       "n1",
@@ -2232,7 +2232,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "指導教官や共同研究者に対して常に誠心誠意向き合うことが、強固な信頼関係を築く鍵である。",
     "examplePhonetic": "Shidō kyōkan ya kyōdō kenkyūsha ni taishite tsuneni seishin seii mukiau koto ga, kyōko na shinrai kankei o kizuku kagi de aru.",
     "exampleTranslation": "Senantiasa berinteraksi dengan segenap ketulusan hati kepada dosen pembimbing dan mitra riset adalah kunci membangun relasi kepercayaan yang kokoh.",
-    "notes": "Etos integritas moral luhur di Jepang.",
+    "notes": "Etos integritas moral luhur di Jepang. Kata \"誠心誠意\" (cara baca: Seishin seii) digunakan dalam bahasa Jepang (tingkat JLPT N1, kategori Idiom & Budaya) untuk menyatakan \"Dengan segenap ketulusan hati dan kesungguhan\".",
     "tags": [
       "yojijukugo",
       "n1",
@@ -2752,7 +2752,7 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "最近日本は寒くなってきたけれど、風邪を引かずに元気に過ごしていますか？",
     "examplePhonetic": "Saikin Nihon wa samuku natte kita keredo, kaze o hikazu ni genki ni sugoshite imasu ka?",
     "exampleTranslation": "Akhir-akhir ini Jepang mulai dingin, apakah kamu sehat dan tidak terserang flu?",
-    "notes": "Bentuk hormat: お元気ですか (Ogenki desu ka).",
+    "notes": "Bentuk hormat: お元気ですか (Ogenki desu ka). Kata \"元気ですか\" (cara baca: Genki desu ka) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Salam & Percakapan) untuk menyatakan \"Apakah kamu sehat?\".",
     "tags": [
       "percakapan",
       "kabar",
@@ -2859,11 +2859,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "月曜日の朝に全校朝礼があります。",
     "examplePhonetic": "Getsuyōbi no asa ni zenkō chōrei ga arimasu.",
     "exampleTranslation": "Senin pagi ada upacara apel seluruh sekolah.",
-    "notes": "Diasosiasikan dengan kanji bulan (月).",
+    "notes": "Diasosiasikan dengan kanji bulan (月). Kata \"月曜日\" (cara baca: getsuyōbi) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Waktu & Hari Sekolah) untuk menyatakan \"Senin\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2879,11 +2879,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "火曜日は実験室で化学の授業を受けます。",
     "examplePhonetic": "Kayōbi wa jikkenshitsu de kagaku no jugyō o ukemasu.",
     "exampleTranslation": "Selasa kami mengikuti pelajaran kimia di laboratorium.",
-    "notes": "Diasosiasikan dengan elemen api (火).",
+    "notes": "Diasosiasikan dengan elemen api (火). Kata \"火曜日\" (cara baca: kayōbi) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Waktu & Hari Sekolah) untuk menyatakan \"Selasa\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2899,11 +2899,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "水曜日の放課後は部活動に専念します。",
     "examplePhonetic": "Suiyōbi no hōkago wa bukatudō ni sennen shimasu.",
     "exampleTranslation": "Rabu sepulang sekolah kami berfokus pada kegiatan ekstrakurikuler klub.",
-    "notes": "Diasosiasikan dengan elemen air (水).",
+    "notes": "Diasosiasikan dengan elemen air (水). Kata \"水曜日\" (cara baca: suiyōbi) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Waktu & Hari Sekolah) untuk menyatakan \"Rabu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2921,9 +2921,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kamis siang ada sesi konsultasi tatap muka dengan profesor.",
     "notes": "Diasosiasikan dengan elemen kayu/pohon (木).",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2941,9 +2941,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jumat adalah tenggat waktu pengumpulan tugas minggu ini.",
     "notes": "Diasosiasikan dengan elemen logam/emas (金).",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2961,9 +2961,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Sabtu saya belajar untuk ujian sertifikasi di perpustakaan.",
     "notes": "Diasosiasikan dengan elemen tanah/bumi (土).",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2981,9 +2981,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Minggu kampus universitas menjadi sangat hening.",
     "notes": "Diasosiasikan dengan kanji matahari/hari (日).",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -3001,9 +3001,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Memeriksa jadwal kuliah semester baru lalu menyiapkan buku teks.",
     "notes": "Di tingkat perguruan tinggi sering disebut juga 履修計画 (rishū keikaku).",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -3019,11 +3019,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "学生相談室は平日の午前九時から開室しています。",
     "examplePhonetic": "Gakusei sōdanshitsu wa heijitsu no gozen kuji kara kaishitsu shite imasu.",
     "exampleTranslation": "Ruang konseling mahasiswa buka pada hari kerja mulai jam sembilan pagi.",
-    "notes": "Mengacu pada hari Senin sampai Jumat.",
+    "notes": "Mengacu pada hari Senin sampai Jumat. Kata \"平日\" (cara baca: heijitsu) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Waktu & Hari Sekolah) untuk menyatakan \"Hari Kerja\".",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -3039,11 +3039,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "週末にレポートの文献調査を済ませました。",
     "examplePhonetic": "Shūmatsu ni repōto no bunken chōsa o sumasemashita.",
     "exampleTranslation": "Saya menyelesaikan tinjauan pustaka untuk laporan saat akhir pekan.",
-    "notes": "Sabtu dan Minggu.",
+    "notes": "Sabtu dan Minggu. Kata \"週末\" (cara baca: shūmatsu) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -3061,9 +3061,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Saya suka menyelesaikan soal kalkulus diferensial dan integral dalam matematika.",
     "notes": "Tingkat sekolah dasar biasanya disebut 算数 (sansū).",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -3081,9 +3081,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Memahami hukum fisika secara mendalam melalui eksperimen.",
     "notes": "Bentuk panjangnya adalah 物理学 (butsurigaku).",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -3101,9 +3101,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mempelajari struktur molekul dan reaksi kimia dalam kuliah kimia.",
     "notes": "Sering diucapkan ばけがく (bakegaku) dalam percakapan lisan untuk membedakan dari 科学 (sains).",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -3121,9 +3121,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Menelaah cara kerja genetika pada mata pelajaran biologi.",
     "notes": "Bentuk keilmuan akademis: 生物学 (seibutsugaku).",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -3141,9 +3141,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mempelajari sejarah Jepang dan sejarah dunia di sekolah menengah atas.",
     "notes": "Dipecah menjadi 日本史 (Nihonshi) dan 世界史 (Sekaishi).",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -3161,9 +3161,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Meneliti kontur bentang alam dan iklim berbagai penjuru dunia dalam pelajaran geografi.",
     "notes": "Bentuk bidang akademik: 地理学 (chirigaku).",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -3181,9 +3181,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Meneliti karya sastra klasik Jepang Hikayat Genji sebagai spesialisasi.",
     "notes": "Jurusan sastra di universitas dinamakan 文学部 (bungakubu).",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3199,11 +3199,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "情報科学部でアルゴリズムと人工知能を専攻しています。",
     "examplePhonetic": "Jōhō kagakubu de arugorizumu to jinkō chinō o senkō shite imasu.",
     "exampleTranslation": "Mengambil spesialisasi algoritma dan kecerdasan buatan di fakultas ilmu komputer.",
-    "notes": "Sering juga disebut 情報工学 (jōhō kōgaku).",
+    "notes": "Sering juga disebut 情報工学 (jōhō kōgaku). Kata \"情報科学\" (cara baca: jōhō kagaku) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3221,9 +3221,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Menerapkan teori ilmu ekonomi ke dalam data pasar nyata.",
     "notes": "Fakultas ekonomi disebut 経済学部 (keizaigakubu).",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3241,9 +3241,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Memperdalam wawasan etika moral melalui lintasan sejarah filsafat barat.",
     "notes": "Kanji 哲 bermakna orang bijaksana / kearifan berpikir.",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3261,9 +3261,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mempelajari teknik melukis cat air pada jam pelajaran seni rupa.",
     "notes": "Universitas seni rupa dinamakan 美大 (bidai - kependekan dari 美術大学).",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3281,9 +3281,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mengukur catatan waktu lari maraton ketahanan pada pelajaran olahraga.",
     "notes": "Pakaian olahraga sekolah disebut 体育着 (taiikugi).",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3301,9 +3301,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mahasiswa fakultas kedokteran menjalani praktik klinis di rumah sakit pendidikan kampus.",
     "notes": "Masa studi jenjang sarjana kedokteran di Jepang adalah 6 tahun (6年制).",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3319,11 +3319,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "法学部では民法や憲法などの基本六法を学びます。",
     "examplePhonetic": "Hōgakubu dewa minpō ya kenpō nado no kihon roppō o manabimasu.",
     "exampleTranslation": "Di fakultas hukum mempelajari enam kitab undang-undang dasar termasuk hukum perdata dan konstitusi.",
-    "notes": "Fakultas hukum: 法学部 (hōgakubu).",
+    "notes": "Fakultas hukum: 法学部 (hōgakubu). Kata \"法学\" (cara baca: hōgaku) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3339,11 +3339,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "機械工学科で最先端のロボット工学を研究しています。",
     "examplePhonetic": "Kikai kōgakka de saisentan no robotto kōgaku o kenkyū shite imasu.",
     "exampleTranslation": "Meneliti rekayasa robotika mutakhir di departemen teknik mesin.",
-    "notes": "Fakultas teknik: 工学部 (kōgakubu).",
+    "notes": "Fakultas teknik: 工学部 (kōgakubu). Kata \"工学\" (cara baca: kōgaku) digunakan dalam bahasa Jepang (tingkat JLPT N3, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Teknik & Rekayasa\".",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3361,9 +3361,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Silakan masuk ke ruang kelas lima menit sebelum kuliah dimulai.",
     "notes": "Di kampus besar untuk ruang kuliah auditorium disebut juga 講義室 (kōgishitsu).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3381,9 +3381,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Perpustakaan pusat universitas menyimpan koleksi tesis artikel ilmiah yang sangat melimpah.",
     "notes": "Sering dilengkapi ruang belajar tenang (自習室 - jishūshitsu).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3401,9 +3401,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Di laboratorium diwajibkan memakai jas lab putih dan kacamata keselamatan kerja.",
     "notes": "Untuk laboratorium riset profesor sering disebut 研究室 (kenkyūshitsu).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3421,9 +3421,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kuliah umum istimewa pemenang Hadiah Nobel diselenggarakan di aula besar universitas.",
     "notes": "Untuk auditorium kuliah bertingkat disebut 大講義室 (daikōgishitsu).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3441,9 +3441,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Bila ada pertanyaan saya pergi ke meja dosen penanggung jawab di ruang pengajar.",
     "notes": "Di sekolah SD/SMP/SMA disebut 職員室, di universitas biasanya tiap dosen punya 研究室.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3461,9 +3461,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Perwakilan mahasiswa asing diundang ke ruang pimpinan untuk menerima piagam penghargaan.",
     "notes": "Di universitas disebut 学長室 (gakuchōshitsu).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3481,9 +3481,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Saat istirahat siang kami makan paket menu harian di kantin kampus.",
     "notes": "Kependekan populer dari 学生食堂 (gakusei shokudō).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3501,9 +3501,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kegiatan olahraga saat hari hujan dilakukan di lapangan basket gedung olahraga.",
     "notes": "Fasilitas wajib di seluruh institusi pendidikan Jepang.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3519,11 +3519,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "国際学生寮に住むことで多文化交流が深まります。",
     "examplePhonetic": "Kokusai gakuseiryō ni sumu koto de tabunka kōryū ga fukamarimasu.",
     "exampleTranslation": "Tinggal di asrama mahasiswa internasional mempererat pertukaran budaya.",
-    "notes": "Sering disingkat 寮 (ryō).",
+    "notes": "Sering disingkat 寮 (ryō). Kata \"学生寮\" (cara baca: gakuseiryō) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Asrama Mahasiswa\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3541,9 +3541,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Karena demam, saya pamit dari kelas untuk beristirahat di ruang UKS.",
     "notes": "Di universitas sering dinamakan 保健センター (Hoken Sentā).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3559,11 +3559,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "パソコン室の端末を使ってオンライン課題を提出する。",
     "examplePhonetic": "Pasokonshitsu no tanmatsu o tsukatte onrain kadai o teishutsu suru.",
     "exampleTranslation": "Menggunakan komputer di lab komputer untuk mengumpulkan tugas daring.",
-    "notes": "Juga disebut 情報処理室 (jōhō shorishitsu).",
+    "notes": "Juga disebut 情報処理室 (jōhō shorishitsu). Kata \"パソコン室\" (cara baca: pasokonshitsu) digunakan dalam bahasa Jepang (tingkat JLPT N4, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Komputer\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3581,9 +3581,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Pergi ke bagian tata usaha akademik untuk mengurus penerbitan surat keterangan mahasiswa aktif.",
     "notes": "Di universitas bagian akademik disebut 教務課 (kyōmuka) atau 学生支援課 (gakusei shienka).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3601,9 +3601,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mari buka buku teks dan baca lantang teks panjang pada bab tiga.",
     "notes": "Di perguruan tinggi sering disebut テキスト (tekisuto).",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3621,9 +3621,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Saya menyalin poin-poin penting yang ditulis guru di papan tulis ke buku catatan.",
     "notes": "Papan tulis spidol putih disebut ホワイトボード (howaitobōdo).",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3641,9 +3641,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mengerjakan PR harian dengan tekun adalah jalan tercepat menguasai bahasa.",
     "notes": "Di universitas tugas laporan ilmiah biasanya disebut 課題 (kadai) atau レポート (repōto).",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3659,11 +3659,11 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "期末試験で全科目合格できるように計画的に勉強する。",
     "examplePhonetic": "Kimatsu shiken de zenkamoku gōkaku dekiru yō ni keikakuteki ni benkyō suru.",
     "exampleTranslation": "Belajar secara terencana agar dapat lulus seluruh mata kuliah pada ujian akhir semester.",
-    "notes": "Juga lazim disebut テスト (tesuto).",
+    "notes": "Juga lazim disebut テスト (tesuto). Kata \"試験\" (cara baca: shiken) digunakan dalam bahasa Jepang (tingkat JLPT N5, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Ujian Semester\".",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3681,9 +3681,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Seragam sekolah Jepang meliputi seragam pelaut sailor dan setelan jas blazer.",
     "notes": "Simbol kedisiplinan dan identitas kebanggaan sekolah di Jepang.",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3701,9 +3701,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Dengan menunjukkan kartu mahasiswa dapat membeli tiket langganan transportasi tarif diskon pelajar.",
     "notes": "Wajib dibawa untuk akses perpustakaan dan fasilitas kampus.",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3721,9 +3721,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Diterima dalam beasiswa pemerintah MEXT Jepang lalu berangkat studi ke Jepang.",
     "notes": "Beasiswa prestasi tanpa kewajiban pengembalian disebut 給付型奨学金 (kyūfugata shōgakukin).",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3741,9 +3741,9 @@ export const JAPANESE_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Dianugerahi ijazah gelar kelulusan langsung oleh rektor pada upacara wisuda musim semi.",
     "notes": "Di Jepang upacara wisuda umumnya berlangsung pada bulan Maret.",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];

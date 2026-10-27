@@ -87,7 +87,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Sekolah kami memiliki sangat banyak mahasiswa asing internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"我是印尼人，也是学生。\" berarti \"Saya adalah orang Indonesia, juga seorang pelajar.\"."
+        "explanation": "Kalimat \"我是印尼人，也是学生。\" (dibaca: Wǒ shì Yìnní rén, yě shì xuésheng.) berarti \"Saya adalah orang Indonesia, juga seorang pelajar.\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + Kata Benda / Pelengkap Identitas\" (Struktur Dasar Kalimat & Kata Penghubung 是 (shì)) yang berfungsi untuk kata 是 (shì) digunakan seperti kata \"adalah\" dalam bahasa Indonesia atau \"to be\" dalam bahasa Inggris untuk menghubungkan subjek dengan identitas, profesi, atau kebangsaan."
       },
       {
         "id": "q-zh-gram-1-pg-2",
@@ -103,7 +103,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hari ini adalah tanggal 19 Oktober 2026, hari Senin."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"他不是老师，他是工程师。\" berarti \"Dia bukan guru, dia adalah insinyur.\"."
+        "explanation": "Kalimat \"他不是老师，他是工程师。\" (dibaca: Tā bú shì lǎoshī, tā shì gōngchéngshī.) berarti \"Dia bukan guru, dia adalah insinyur.\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + Kata Benda / Pelengkap Identitas\" (Struktur Dasar Kalimat & Kata Penghubung 是 (shì)) yang berfungsi untuk kata 是 (shì) digunakan seperti kata \"adalah\" dalam bahasa Indonesia atau \"to be\" dalam bahasa Inggris untuk menghubungkan subjek dengan identitas, profesi, atau kebangsaan."
       },
       {
         "id": "q-zh-gram-1-pg-3",
@@ -119,7 +119,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ulang tahun saya adalah tanggal 15 Agustus."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"那是你的汉语书吗？\" berarti \"Apakah itu buku bahasa Mandarin milikmu?\"."
+        "explanation": "Kalimat \"那是你的汉语书吗？\" (dibaca: Nà shì nǐ de Hànyǔ shū ma?) berarti \"Apakah itu buku bahasa Mandarin milikmu?\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + Kata Benda / Pelengkap Identitas\" (Struktur Dasar Kalimat & Kata Penghubung 是 (shì)) yang berfungsi untuk kata 是 (shì) digunakan seperti kata \"adalah\" dalam bahasa Indonesia atau \"to be\" dalam bahasa Inggris untuk menghubungkan subjek dengan identitas, profesi, atau kebangsaan."
       },
       {
         "id": "q-zh-gram-1-pg-4",
@@ -408,7 +408,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah kamus bahasa Mandarin saya, itu adalah miliknya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我是印尼人，也是学生。\" berarti \"Saya adalah orang Indonesia, juga seorang pelajar.\"."
+        "explanation": "Kalimat \"我是印尼人，也是学生。\" (dibaca: Wǒ shì Yìnní rén, yě shì xuésheng.) berarti \"Saya adalah orang Indonesia, juga seorang pelajar.\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + Kata Benda / Pelengkap Identitas\" (Struktur Dasar Kalimat & Kata Penghubung 是 (shì)) yang berfungsi untuk kata 是 (shì) digunakan seperti kata \"adalah\" dalam bahasa Indonesia atau \"to be\" dalam bahasa Inggris untuk menghubungkan subjek dengan identitas, profesi, atau kebangsaan."
       },
       {
         "id": "q-zh-gram-1-bb-2",
@@ -554,7 +554,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kita besok pagi pukul 09.00 bertemu di perpustakaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这是我的汉语词典，那是他的。\" berarti \"Ini adalah kamus bahasa Mandarin saya, itu adalah miliknya.\"."
+        "explanation": "Kalimat \"这是我的汉语词典，那是他的。\" (dibaca: Zhè shì wǒ de Hànyǔ cídiǎn, nà shì tā de.) berarti \"Ini adalah kamus bahasa Mandarin saya, itu adalah miliknya.\". Kalimat ini menggunakan pola \"Pemilik + 的 (de) + Benda yang Dimiliki\" (Kata Ganti Orang & Penanda Kepemilikan 的 (de)) yang berfungsi untuk kuasai seluruh kata ganti orang tunggal & jamak (我, 你, 他, 她, 我们, 你们, 他们) serta partikel struktural 的 (de) untuk menyatakan kepemilikan dan modifikasi kata benda."
       },
       {
         "id": "q-zh-gram-2-pg-2",
@@ -570,7 +570,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi, apel ini berapa harganya per setengah kilogram?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我们学校有很多外国留学生。\" berarti \"Sekolah kami memiliki sangat banyak mahasiswa asing internasional.\"."
+        "explanation": "Kalimat \"我们学校有很多外国留学生。\" (dibaca: Wǒmen xuéxiào yǒu hěn duō wàiguó liúxuéshēng.) berarti \"Sekolah kami memiliki sangat banyak mahasiswa asing internasional.\". Kalimat ini menggunakan pola \"Pemilik + 的 (de) + Benda yang Dimiliki\" (Kata Ganti Orang & Penanda Kepemilikan 的 (de)) yang berfungsi untuk kuasai seluruh kata ganti orang tunggal & jamak (我, 你, 他, 她, 我们, 你们, 他们) serta partikel struktural 的 (de) untuk menyatakan kepemilikan dan modifikasi kata benda."
       },
       {
         "id": "q-zh-gram-2-pg-3",
@@ -586,7 +586,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Mereka (perempuan) semua adalah teman baik saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"她们都是我的好朋友。\" berarti \"Mereka (perempuan) semua adalah teman baik saya.\"."
+        "explanation": "Kalimat \"她们都是我的好朋友。\" (dibaca: Tāmen dōu shì wǒ de hǎo péngyou.) berarti \"Mereka (perempuan) semua adalah teman baik saya.\". Kalimat ini menggunakan pola \"Pemilik + 的 (de) + Benda yang Dimiliki\" (Kata Ganti Orang & Penanda Kepemilikan 的 (de)) yang berfungsi untuk kuasai seluruh kata ganti orang tunggal & jamak (我, 你, 他, 她, 我们, 你们, 他们) serta partikel struktural 的 (de) untuk menyatakan kepemilikan dan modifikasi kata benda."
       },
       {
         "id": "q-zh-gram-2-pg-4",
@@ -877,7 +877,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah kamus bahasa Mandarin saya, itu adalah miliknya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"这是我的汉语词典，那是他的。\" berarti \"Ini adalah kamus bahasa Mandarin saya, itu adalah miliknya.\"."
+        "explanation": "Kalimat \"这是我的汉语词典，那是他的。\" (dibaca: Zhè shì wǒ de Hànyǔ cídiǎn, nà shì tā de.) berarti \"Ini adalah kamus bahasa Mandarin saya, itu adalah miliknya.\". Kalimat ini menggunakan pola \"Pemilik + 的 (de) + Benda yang Dimiliki\" (Kata Ganti Orang & Penanda Kepemilikan 的 (de)) yang berfungsi untuk kuasai seluruh kata ganti orang tunggal & jamak (我, 你, 他, 她, 我们, 你们, 他们) serta partikel struktural 的 (de) untuk menyatakan kepemilikan dan modifikasi kata benda."
       },
       {
         "id": "q-zh-gram-2-bb-2",
@@ -1026,7 +1026,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kamu ingin minum minuman apa? Saya ingin minum kopi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"今天是2026年10月19号，星期一。\" berarti \"Hari ini adalah tanggal 19 Oktober 2026, hari Senin.\"."
+        "explanation": "Kalimat \"今天是2026年10月19号，星期一。\" (dibaca: Jīntiān shì èr líng èr liù nián shí yuè shíjiǔ hào, xīngqīyī.) berarti \"Hari ini adalah tanggal 19 Oktober 2026, hari Senin.\". Kalimat ini menggunakan pola \"Tahun (年) + Bulan (月) + Tanggal (号/日) + Jam (点) + Menit (分)\" (Angka (数字), Tanggal, Hari, & Waktu (时间)) yang berfungsi untuk bahasa Mandarin menyusun waktu secara logis dari unit terbesar ke terkecil: Tahun -> Bulan -> Tanggal -> Hari -> Bagian Hari -> Jam -> Menit."
       },
       {
         "id": "q-zh-gram-3-pg-2",
@@ -1042,7 +1042,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kita besok pagi pukul 09.00 bertemu di perpustakaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"我们明天上午九点在图书馆见。\" berarti \"Kita besok pagi pukul 09.00 bertemu di perpustakaan.\"."
+        "explanation": "Kalimat \"我们明天上午九点在图书馆见。\" (dibaca: Wǒmen míngtiān shàngwǔ jiǔ diǎn zài túshūguǎn jiàn.) berarti \"Kita besok pagi pukul 09.00 bertemu di perpustakaan.\". Kalimat ini menggunakan pola \"Tahun (年) + Bulan (月) + Tanggal (号/日) + Jam (点) + Menit (分)\" (Angka (数字), Tanggal, Hari, & Waktu (时间)) yang berfungsi untuk bahasa Mandarin menyusun waktu secara logis dari unit terbesar ke terkecil: Tahun -> Bulan -> Tanggal -> Hari -> Bagian Hari -> Jam -> Menit."
       },
       {
         "id": "q-zh-gram-3-pg-3",
@@ -1058,7 +1058,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya mempunyai dua kakak perempuan, tidak punya kakak laki-laki."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"我的生日是八月十五号。\" berarti \"Ulang tahun saya adalah tanggal 15 Agustus.\"."
+        "explanation": "Kalimat \"我的生日是八月十五号。\" (dibaca: Wǒ de shēngrì shì bā yuè shíwǔ hào.) berarti \"Ulang tahun saya adalah tanggal 15 Agustus.\". Kalimat ini menggunakan pola \"Tahun (年) + Bulan (月) + Tanggal (号/日) + Jam (点) + Menit (分)\" (Angka (数字), Tanggal, Hari, & Waktu (时间)) yang berfungsi untuk bahasa Mandarin menyusun waktu secara logis dari unit terbesar ke terkecil: Tahun -> Bulan -> Tanggal -> Hari -> Bagian Hari -> Jam -> Menit."
       },
       {
         "id": "q-zh-gram-3-pg-4",
@@ -1351,7 +1351,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi, apel ini berapa harganya per setengah kilogram?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"今天是2026年10月19号，星期一。\" berarti \"Hari ini adalah tanggal 19 Oktober 2026, hari Senin.\"."
+        "explanation": "Kalimat \"今天是2026年10月19号，星期一。\" (dibaca: Jīntiān shì èr líng èr liù nián shí yuè shíjiǔ hào, xīngqīyī.) berarti \"Hari ini adalah tanggal 19 Oktober 2026, hari Senin.\". Kalimat ini menggunakan pola \"Tahun (年) + Bulan (月) + Tanggal (号/日) + Jam (点) + Menit (分)\" (Angka (数字), Tanggal, Hari, & Waktu (时间)) yang berfungsi untuk bahasa Mandarin menyusun waktu secara logis dari unit terbesar ke terkecil: Tahun -> Bulan -> Tanggal -> Hari -> Bagian Hari -> Jam -> Menit."
       },
       {
         "id": "q-zh-gram-3-bb-2",
@@ -1494,7 +1494,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi, apel ini berapa harganya per setengah kilogram?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"请问，这个苹果多少钱一斤？\" berarti \"Permisi, apel ini berapa harganya per setengah kilogram?\"."
+        "explanation": "Kalimat \"请问，这个苹果多少钱一斤？\" (dibaca: Qǐngwèn, zhè ge píngguǒ duōshao qián yì jīn?) berarti \"Permisi, apel ini berapa harganya per setengah kilogram?\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + [Kata Tanya] (Urutan Kata TIDAK Berubah)\" (Kata Tanya Pokok: 什么, 谁, 哪儿, 几 vs 多少) yang berfungsi untuk dalam bahasa Mandarin, kalimat tanya tidak mengalami pembalikan subjek-predikat (inversion). Letakkan kata tanya tepat di posisi kata jawaban yang dicari!."
       },
       {
         "id": "q-zh-gram-4-pg-2",
@@ -1510,7 +1510,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Anak kucing sedang tidur di bawah kursi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"你想喝什么饮料？我想喝咖啡。\" berarti \"Kamu ingin minum minuman apa? Saya ingin minum kopi.\"."
+        "explanation": "Kalimat \"你想喝什么饮料？我想喝咖啡。\" (dibaca: Nǐ xiǎng hē shénme yǐnliào? Wǒ xiǎng hē kāfēi.) berarti \"Kamu ingin minum minuman apa? Saya ingin minum kopi.\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + [Kata Tanya] (Urutan Kata TIDAK Berubah)\" (Kata Tanya Pokok: 什么, 谁, 哪儿, 几 vs 多少) yang berfungsi untuk dalam bahasa Mandarin, kalimat tanya tidak mengalami pembalikan subjek-predikat (inversion). Letakkan kata tanya tepat di posisi kata jawaban yang dicari!."
       },
       {
         "id": "q-zh-gram-4-pg-3",
@@ -1526,7 +1526,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di depan sekolah ada sebuah rumah sakit yang sangat besar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"那是谁的书包？里面有几本书？\" berarti \"Itu tas sekolah milik siapa? Di dalamnya ada berapa buku?\"."
+        "explanation": "Kalimat \"那是谁的书包？里面有几本书？\" (dibaca: Nà shì shéi de shūbāo? Lǐmiàn yǒu jǐ běn shū?) berarti \"Itu tas sekolah milik siapa? Di dalamnya ada berapa buku?\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + [Kata Tanya] (Urutan Kata TIDAK Berubah)\" (Kata Tanya Pokok: 什么, 谁, 哪儿, 几 vs 多少) yang berfungsi untuk dalam bahasa Mandarin, kalimat tanya tidak mengalami pembalikan subjek-predikat (inversion). Letakkan kata tanya tepat di posisi kata jawaban yang dicari!."
       },
       {
         "id": "q-zh-gram-4-pg-4",
@@ -1823,7 +1823,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu siang hari ini ada waktu luang? Saya tidak ada waktu luang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"请问，这个苹果多少钱一斤？\" berarti \"Permisi, apel ini berapa harganya per setengah kilogram?\"."
+        "explanation": "Kalimat \"请问，这个苹果多少钱一斤？\" (dibaca: Qǐngwèn, zhè ge píngguǒ duōshao qián yì jīn?) berarti \"Permisi, apel ini berapa harganya per setengah kilogram?\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + [Kata Tanya] (Urutan Kata TIDAK Berubah)\" (Kata Tanya Pokok: 什么, 谁, 哪儿, 几 vs 多少) yang berfungsi untuk dalam bahasa Mandarin, kalimat tanya tidak mengalami pembalikan subjek-predikat (inversion). Letakkan kata tanya tepat di posisi kata jawaban yang dicari!."
       },
       {
         "id": "q-zh-gram-4-bb-2",
@@ -1968,7 +1968,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ponselmu ada di atas meja."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"你今天下午有空儿吗？我没有空儿。\" berarti \"Apakah kamu siang hari ini ada waktu luang? Saya tidak ada waktu luang.\"."
+        "explanation": "Kalimat \"你今天下午有空儿吗？我没有空儿。\" (dibaca: Nǐ jīntiān xiàwǔ yǒu kòngr ma? Wǒ méiyǒu kòngr.) berarti \"Apakah kamu siang hari ini ada waktu luang? Saya tidak ada waktu luang.\". Kalimat ini menggunakan pola \"Subjek / Tempat + 有 (yǒu) / 没有 (méiyǒu) + Objek\" (Menyatakan Keberadaan & Kepemilikan dengan 有 (yǒu) vs 没有 (méiyǒu)) yang berfungsi untuk kata 有 (yǒu) berarti \"memiliki / punya\" atau \"ada (keberadaan di suatu tempat)\". Bentuk penyangkalannya WAJIB selalu 没有 (méiyǒu), tidak pernah 不有!."
       },
       {
         "id": "q-zh-gram-5-pg-2",
@@ -1984,7 +1984,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Teman saya setiap pagi pukul 06.00 pergi ke lapangan untuk berlari."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"图书馆里有很多中文书和杂志。\" berarti \"Di dalam perpustakaan ada banyak buku dan majalah berbahasa Mandarin.\"."
+        "explanation": "Kalimat \"图书馆里有很多中文书和杂志。\" (dibaca: Túshūguǎn lǐ yǒu hěn duō Zhōngwén shū hé zázhì.) berarti \"Di dalam perpustakaan ada banyak buku dan majalah berbahasa Mandarin.\". Kalimat ini menggunakan pola \"Subjek / Tempat + 有 (yǒu) / 没有 (méiyǒu) + Objek\" (Menyatakan Keberadaan & Kepemilikan dengan 有 (yǒu) vs 没有 (méiyǒu)) yang berfungsi untuk kata 有 (yǒu) berarti \"memiliki / punya\" atau \"ada (keberadaan di suatu tempat)\". Bentuk penyangkalannya WAJIB selalu 没有 (méiyǒu), tidak pernah 不有!."
       },
       {
         "id": "q-zh-gram-5-pg-3",
@@ -2000,7 +2000,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Guru Wang setiap hari Rabu pagi mengajar menulis karakter Hanzi di ruang kelas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我有两个姐姐，没有哥哥。\" berarti \"Saya mempunyai dua kakak perempuan, tidak punya kakak laki-laki.\"."
+        "explanation": "Kalimat \"我有两个姐姐，没有哥哥。\" (dibaca: Wǒ yǒu liǎng ge jiějie, méiyǒu gēge.) berarti \"Saya mempunyai dua kakak perempuan, tidak punya kakak laki-laki.\". Kalimat ini menggunakan pola \"Subjek / Tempat + 有 (yǒu) / 没有 (méiyǒu) + Objek\" (Menyatakan Keberadaan & Kepemilikan dengan 有 (yǒu) vs 没有 (méiyǒu)) yang berfungsi untuk kata 有 (yǒu) berarti \"memiliki / punya\" atau \"ada (keberadaan di suatu tempat)\". Bentuk penyangkalannya WAJIB selalu 没有 (méiyǒu), tidak pernah 不有!."
       },
       {
         "id": "q-zh-gram-5-pg-4",
@@ -2299,7 +2299,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Anak kucing sedang tidur di bawah kursi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"你今天下午有空儿吗？我没有空儿。\" berarti \"Apakah kamu siang hari ini ada waktu luang? Saya tidak ada waktu luang.\"."
+        "explanation": "Kalimat \"你今天下午有空儿吗？我没有空儿。\" (dibaca: Nǐ jīntiān xiàwǔ yǒu kòngr ma? Wǒ méiyǒu kòngr.) berarti \"Apakah kamu siang hari ini ada waktu luang? Saya tidak ada waktu luang.\". Kalimat ini menggunakan pola \"Subjek / Tempat + 有 (yǒu) / 没有 (méiyǒu) + Objek\" (Menyatakan Keberadaan & Kepemilikan dengan 有 (yǒu) vs 没有 (méiyǒu)) yang berfungsi untuk kata 有 (yǒu) berarti \"memiliki / punya\" atau \"ada (keberadaan di suatu tempat)\". Bentuk penyangkalannya WAJIB selalu 没有 (méiyǒu), tidak pernah 不有!."
       },
       {
         "id": "q-zh-gram-5-bb-2",
@@ -2438,7 +2438,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya malam ini pukul 20.00 mengulang pelajaran bahasa Mandarin di asrama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"小猫在椅子下面睡觉呢。\" berarti \"Anak kucing sedang tidur di bawah kursi.\"."
+        "explanation": "Kalimat \"小猫在椅子下面睡觉呢。\" (dibaca: Xiǎo māo zài yǐzi xiàmiàn shuìjiào ne.) berarti \"Anak kucing sedang tidur di bawah kursi.\". Kalimat ini menggunakan pola \"Subjek + 在 (zài) + Tempat (+ Kata Arah: 上/下/前/后/里)\" (Lokasi & Kata Arah: 在 (zài) + Tempat / Posisi (上, 下, 前, 后, 里)) yang berfungsi untuk kata 在 (zài) berfungsi sebagai kata kerja \"berada di\" atau preposisi tempat. Pelajari posisi spasial penting untuk mendeskripsikan letak objek."
       },
       {
         "id": "q-zh-gram-6-pg-2",
@@ -2454,7 +2454,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Cuaca terlampau panas, saya ingin minum segelas air es."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"你的手机在桌子上面呢。\" berarti \"Ponselmu ada di atas meja.\"."
+        "explanation": "Kalimat \"你的手机在桌子上面呢。\" (dibaca: Nǐ de shǒujī zài zhuōzi shàngmiàn ne.) berarti \"Ponselmu ada di atas meja.\". Kalimat ini menggunakan pola \"Subjek + 在 (zài) + Tempat (+ Kata Arah: 上/下/前/后/里)\" (Lokasi & Kata Arah: 在 (zài) + Tempat / Posisi (上, 下, 前, 后, 里)) yang berfungsi untuk kata 在 (zài) berfungsi sebagai kata kerja \"berada di\" atau preposisi tempat. Pelajari posisi spasial penting untuk mendeskripsikan letak objek."
       },
       {
         "id": "q-zh-gram-6-pg-3",
@@ -2470,7 +2470,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di depan sekolah ada sebuah rumah sakit yang sangat besar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"学校前面有一家很大的医院。\" berarti \"Di depan sekolah ada sebuah rumah sakit yang sangat besar.\"."
+        "explanation": "Kalimat \"学校前面有一家很大的医院。\" (dibaca: Xuéxiào qiánmiàn yǒu yì jiā hěn dà de yīyuàn.) berarti \"Di depan sekolah ada sebuah rumah sakit yang sangat besar.\". Kalimat ini menggunakan pola \"Subjek + 在 (zài) + Tempat (+ Kata Arah: 上/下/前/后/里)\" (Lokasi & Kata Arah: 在 (zài) + Tempat / Posisi (上, 下, 前, 后, 里)) yang berfungsi untuk kata 在 (zài) berfungsi sebagai kata kerja \"berada di\" atau preposisi tempat. Pelajari posisi spasial penting untuk mendeskripsikan letak objek."
       },
       {
         "id": "q-zh-gram-6-pg-4",
@@ -2765,7 +2765,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Anak kucing sedang tidur di bawah kursi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"小猫在椅子下面睡觉呢。\" berarti \"Anak kucing sedang tidur di bawah kursi.\"."
+        "explanation": "Kalimat \"小猫在椅子下面睡觉呢。\" (dibaca: Xiǎo māo zài yǐzi xiàmiàn shuìjiào ne.) berarti \"Anak kucing sedang tidur di bawah kursi.\". Kalimat ini menggunakan pola \"Subjek + 在 (zài) + Tempat (+ Kata Arah: 上/下/前/后/里)\" (Lokasi & Kata Arah: 在 (zài) + Tempat / Posisi (上, 下, 前, 后, 里)) yang berfungsi untuk kata 在 (zài) berfungsi sebagai kata kerja \"berada di\" atau preposisi tempat. Pelajari posisi spasial penting untuk mendeskripsikan letak objek."
       },
       {
         "id": "q-zh-gram-6-bb-2",
@@ -2900,7 +2900,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Masakan Tiongkok di restoran ini luar biasa lezat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我朋友每天早上六点去操场跑步。\" berarti \"Teman saya setiap pagi pukul 06.00 pergi ke lapangan untuk berlari.\"."
+        "explanation": "Kalimat \"我朋友每天早上六点去操场跑步。\" (dibaca: Wǒ péngyou měitiān zǎoshang liù diǎn qù cāochǎng pǎobù.) berarti \"Teman saya setiap pagi pukul 06.00 pergi ke lapangan untuk berlari.\". Kalimat ini menggunakan pola \"Subjek + Waktu + Tempat + Kata Kerja Bantu + Kata Kerja Utama + Objek\" (Kata Kerja Rutinitas & Urutan Waktu: Subjek + [Waktu] + [Tempat] + [Aksi]) yang berfungsi untuk kaidah emas tata bahasa Mandarin: urutan kalimat menyatakan waktu dan tempat SEBELUM kata kerja aksi dilakukan (\"Kapan - Di mana - Melakukan apa\")."
       },
       {
         "id": "q-zh-gram-7-pg-2",
@@ -2916,7 +2916,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya malam ini pukul 20.00 mengulang pelajaran bahasa Mandarin di asrama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"我今天晚上八点在宿舍复习汉语。\" berarti \"Saya malam ini pukul 20.00 mengulang pelajaran bahasa Mandarin di asrama.\"."
+        "explanation": "Kalimat \"我今天晚上八点在宿舍复习汉语。\" (dibaca: Wǒ jīntiān wǎnshang bā diǎn zài sùshè fùxí Hànyǔ.) berarti \"Saya malam ini pukul 20.00 mengulang pelajaran bahasa Mandarin di asrama.\". Kalimat ini menggunakan pola \"Subjek + Waktu + Tempat + Kata Kerja Bantu + Kata Kerja Utama + Objek\" (Kata Kerja Rutinitas & Urutan Waktu: Subjek + [Waktu] + [Tempat] + [Aksi]) yang berfungsi untuk kaidah emas tata bahasa Mandarin: urutan kalimat menyatakan waktu dan tempat SEBELUM kata kerja aksi dilakukan (\"Kapan - Di mana - Melakukan apa\")."
       },
       {
         "id": "q-zh-gram-7-pg-3",
@@ -2932,7 +2932,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Berapa harga selembar tiket kereta cepat ke Beijing ini?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"王老师每个星期三上午在教室教写汉字。\" berarti \"Guru Wang setiap hari Rabu pagi mengajar menulis karakter Hanzi di ruang kelas.\"."
+        "explanation": "Kalimat \"王老师每个星期三上午在教室教写汉字。\" (dibaca: Wáng lǎoshī měi ge xīngqīsān shàngwǔ zài jiàoshì jiāo xiě Hànzì.) berarti \"Guru Wang setiap hari Rabu pagi mengajar menulis karakter Hanzi di ruang kelas.\". Kalimat ini menggunakan pola \"Subjek + Waktu + Tempat + Kata Kerja Bantu + Kata Kerja Utama + Objek\" (Kata Kerja Rutinitas & Urutan Waktu: Subjek + [Waktu] + [Tempat] + [Aksi]) yang berfungsi untuk kaidah emas tata bahasa Mandarin: urutan kalimat menyatakan waktu dan tempat SEBELUM kata kerja aksi dilakukan (\"Kapan - Di mana - Melakukan apa\")."
       },
       {
         "id": "q-zh-gram-7-pg-4",
@@ -3231,7 +3231,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Cuaca terlampau panas, saya ingin minum segelas air es."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"我朋友每天早上六点去操场跑步。\" berarti \"Teman saya setiap pagi pukul 06.00 pergi ke lapangan untuk berlari.\"."
+        "explanation": "Kalimat \"我朋友每天早上六点去操场跑步。\" (dibaca: Wǒ péngyou měitiān zǎoshang liù diǎn qù cāochǎng pǎobù.) berarti \"Teman saya setiap pagi pukul 06.00 pergi ke lapangan untuk berlari.\". Kalimat ini menggunakan pola \"Subjek + Waktu + Tempat + Kata Kerja Bantu + Kata Kerja Utama + Objek\" (Kata Kerja Rutinitas & Urutan Waktu: Subjek + [Waktu] + [Tempat] + [Aksi]) yang berfungsi untuk kaidah emas tata bahasa Mandarin: urutan kalimat menyatakan waktu dan tempat SEBELUM kata kerja aksi dilakukan (\"Kapan - Di mana - Melakukan apa\")."
       },
       {
         "id": "q-zh-gram-7-bb-2",
@@ -3376,7 +3376,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Cuaca terlampau panas, saya ingin minum segelas air es."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"天气太热了，我想喝一杯冰水。\" berarti \"Cuaca terlampau panas, saya ingin minum segelas air es.\"."
+        "explanation": "Kalimat \"天气太热了，我想喝一杯冰水。\" (dibaca: Tiānqì tài rè le, wǒ xiǎng hē yì bēi bīng shuǐ.) berarti \"Cuaca terlampau panas, saya ingin minum segelas air es.\". Kalimat ini menggunakan pola \"Subjek + 很 (hěn) / 非常 / 太...了 + Kata Sifat (TANPA 是)\" (Predikat Kata Sifat & Pemakaian Kata Derajat 很 (hěn)) yang berfungsi untuk kata sifat dalam bahasa Mandarin dapat langsung berfungsi sebagai predikat tanpa kata kerja \"adalah\" (是). Gunakan kata bantu 很 (hěn) untuk menghubungkannya secara alami."
       },
       {
         "id": "q-zh-gram-8-pg-2",
@@ -3392,7 +3392,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Bagus sekali! Saya sudah selesai mempelajari seluruh kelas tata bahasa HSK tingkat 1."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"这家饭馆的中国菜非常好吃。\" berarti \"Masakan Tiongkok di restoran ini luar biasa lezat.\"."
+        "explanation": "Kalimat \"这家饭馆的中国菜非常好吃。\" (dibaca: Zhè jiā fànguǎn de Zhōngguó cài fēicháng hǎochī.) berarti \"Masakan Tiongkok di restoran ini luar biasa lezat.\". Kalimat ini menggunakan pola \"Subjek + 很 (hěn) / 非常 / 太...了 + Kata Sifat (TANPA 是)\" (Predikat Kata Sifat & Pemakaian Kata Derajat 很 (hěn)) yang berfungsi untuk kata sifat dalam bahasa Mandarin dapat langsung berfungsi sebagai predikat tanpa kata kerja \"adalah\" (是). Gunakan kata bantu 很 (hěn) untuk menghubungkannya secara alami."
       },
       {
         "id": "q-zh-gram-8-pg-3",
@@ -3408,7 +3408,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di luar sudah turun hujan, kita hari ini jadi tidak pergi keluar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"我今天工作很忙，但是心里很高兴。\" berarti \"Hari ini pekerjaan saya sangat sibuk, tetapi hati saya sangat senang.\"."
+        "explanation": "Kalimat \"我今天工作很忙，但是心里很高兴。\" (dibaca: Wǒ jīntiān gōngzuò hěn máng, dànshì xīnlǐ hěn gāoxìng.) berarti \"Hari ini pekerjaan saya sangat sibuk, tetapi hati saya sangat senang.\". Kalimat ini menggunakan pola \"Subjek + 很 (hěn) / 非常 / 太...了 + Kata Sifat (TANPA 是)\" (Predikat Kata Sifat & Pemakaian Kata Derajat 很 (hěn)) yang berfungsi untuk kata sifat dalam bahasa Mandarin dapat langsung berfungsi sebagai predikat tanpa kata kerja \"adalah\" (是). Gunakan kata bantu 很 (hěn) untuk menghubungkannya secara alami."
       },
       {
         "id": "q-zh-gram-8-pg-4",
@@ -3707,7 +3707,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Pelayan, tolong beri saya dua cangkir teh hijau hangat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"天气太热了，我想喝一杯冰水。\" berarti \"Cuaca terlampau panas, saya ingin minum segelas air es.\"."
+        "explanation": "Kalimat \"天气太热了，我想喝一杯冰水。\" (dibaca: Tiānqì tài rè le, wǒ xiǎng hē yì bēi bīng shuǐ.) berarti \"Cuaca terlampau panas, saya ingin minum segelas air es.\". Kalimat ini menggunakan pola \"Subjek + 很 (hěn) / 非常 / 太...了 + Kata Sifat (TANPA 是)\" (Predikat Kata Sifat & Pemakaian Kata Derajat 很 (hěn)) yang berfungsi untuk kata sifat dalam bahasa Mandarin dapat langsung berfungsi sebagai predikat tanpa kata kerja \"adalah\" (是). Gunakan kata bantu 很 (hěn) untuk menghubungkannya secara alami."
       },
       {
         "id": "q-zh-gram-8-bb-2",
@@ -3846,7 +3846,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kemarin saya bersama teman pergi ke toko membeli sehelai baju baru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"服务员，请给我来两杯热绿茶。\" berarti \"Pelayan, tolong beri saya dua cangkir teh hijau hangat.\"."
+        "explanation": "Kalimat \"服务员，请给我来两杯热绿茶。\" (dibaca: Fúwùyuán, qǐng gěi wǒ lái liǎng bēi rè lǜchá.) berarti \"Pelayan, tolong beri saya dua cangkir teh hijau hangat.\". Kalimat ini menggunakan pola \"Angka / 这 (zhè) / 那 (nà) + Kata Penggolong (量词) + Kata Benda\" (Kata Penggolong Pokok (量词): 个, 本, 张, 块, 杯) yang berfungsi untuk dalam bahasa Mandarin, Anda tidak dapat langsung menempelkan angka pada kata benda (\"dua buku\" BUKAN 二书). Anda WAJIB menyisipkan kata penggolong yang sesuai di tengahnya!."
       },
       {
         "id": "q-zh-gram-9-pg-2",
@@ -3862,7 +3862,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah orang Indonesia, juga seorang pelajar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"我昨天在书店买了三本汉语词典。\" berarti \"Saya kemarin membeli tiga jilid kamus bahasa Mandarin di toko buku.\"."
+        "explanation": "Kalimat \"我昨天在书店买了三本汉语词典。\" (dibaca: Wǒ zuótiān zài shūdiàn mǎi le sān běn Hànyǔ cídiǎn.) berarti \"Saya kemarin membeli tiga jilid kamus bahasa Mandarin di toko buku.\". Kalimat ini menggunakan pola \"Angka / 这 (zhè) / 那 (nà) + Kata Penggolong (量词) + Kata Benda\" (Kata Penggolong Pokok (量词): 个, 本, 张, 块, 杯) yang berfungsi untuk dalam bahasa Mandarin, Anda tidak dapat langsung menempelkan angka pada kata benda (\"dua buku\" BUKAN 二书). Anda WAJIB menyisipkan kata penggolong yang sesuai di tengahnya!."
       },
       {
         "id": "q-zh-gram-9-pg-3",
@@ -3878,7 +3878,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Apakah itu buku bahasa Mandarin milikmu?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"这张去北京的高铁票多少钱？\" berarti \"Berapa harga selembar tiket kereta cepat ke Beijing ini?\"."
+        "explanation": "Kalimat \"这张去北京的高铁票多少钱？\" (dibaca: Zhè zhāng qù Běijīng de gāotiě piào duōshao qián?) berarti \"Berapa harga selembar tiket kereta cepat ke Beijing ini?\". Kalimat ini menggunakan pola \"Angka / 这 (zhè) / 那 (nà) + Kata Penggolong (量词) + Kata Benda\" (Kata Penggolong Pokok (量词): 个, 本, 张, 块, 杯) yang berfungsi untuk dalam bahasa Mandarin, Anda tidak dapat langsung menempelkan angka pada kata benda (\"dua buku\" BUKAN 二书). Anda WAJIB menyisipkan kata penggolong yang sesuai di tengahnya!."
       },
       {
         "id": "q-zh-gram-9-pg-4",
@@ -4171,7 +4171,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Bagus sekali! Saya sudah selesai mempelajari seluruh kelas tata bahasa HSK tingkat 1."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"服务员，请给我来两杯热绿茶。\" berarti \"Pelayan, tolong beri saya dua cangkir teh hijau hangat.\"."
+        "explanation": "Kalimat \"服务员，请给我来两杯热绿茶。\" (dibaca: Fúwùyuán, qǐng gěi wǒ lái liǎng bēi rè lǜchá.) berarti \"Pelayan, tolong beri saya dua cangkir teh hijau hangat.\". Kalimat ini menggunakan pola \"Angka / 这 (zhè) / 那 (nà) + Kata Penggolong (量词) + Kata Benda\" (Kata Penggolong Pokok (量词): 个, 本, 张, 块, 杯) yang berfungsi untuk dalam bahasa Mandarin, Anda tidak dapat langsung menempelkan angka pada kata benda (\"dua buku\" BUKAN 二书). Anda WAJIB menyisipkan kata penggolong yang sesuai di tengahnya!."
       },
       {
         "id": "q-zh-gram-9-bb-2",
@@ -4316,7 +4316,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dia bukan guru, dia adalah insinyur."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"太好了！我已经学完了HSK 1级的所有语法课。\" berarti \"Bagus sekali! Saya sudah selesai mempelajari seluruh kelas tata bahasa HSK tingkat 1.\"."
+        "explanation": "Kalimat \"太好了！我已经学完了HSK 1级的所有语法课。\" (dibaca: Tài hǎo le! Wǒ yǐjīng xuéwán le HSK yī jí de suǒyǒu yǔfǎ kè.) berarti \"Bagus sekali! Saya sudah selesai mempelajari seluruh kelas tata bahasa HSK tingkat 1.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 (Realisasi Aksi) | Kalimat + 了 (Perubahan Keadaan Baru)\" (Partikel Aspek 了 (le) & Evaluasi Komprehensif HSK 1) yang berfungsi untuk partikel 了 (le) bukan penanda waktu lampau murni, melainkan penanda bahwa suatu aksi telah terwujud/selesai atau keadaan baru telah terjadi. Dilengkapi evaluasi komprehensif tingkat HSK 1!."
       },
       {
         "id": "q-zh-gram-10-pg-2",
@@ -4332,7 +4332,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah kamus bahasa Mandarin saya, itu adalah miliknya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"昨天我和朋友去商店买了一件新衣服。\" berarti \"Kemarin saya bersama teman pergi ke toko membeli sehelai baju baru.\"."
+        "explanation": "Kalimat \"昨天我和朋友去商店买了一件新衣服。\" (dibaca: Zuótiān wǒ hé péngyou qù shāngdiàn mǎi le yí jiàn xīn yīfu.) berarti \"Kemarin saya bersama teman pergi ke toko membeli sehelai baju baru.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 (Realisasi Aksi) | Kalimat + 了 (Perubahan Keadaan Baru)\" (Partikel Aspek 了 (le) & Evaluasi Komprehensif HSK 1) yang berfungsi untuk partikel 了 (le) bukan penanda waktu lampau murni, melainkan penanda bahwa suatu aksi telah terwujud/selesai atau keadaan baru telah terjadi. Dilengkapi evaluasi komprehensif tingkat HSK 1!."
       },
       {
         "id": "q-zh-gram-10-pg-3",
@@ -4348,7 +4348,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di luar sudah turun hujan, kita hari ini jadi tidak pergi keluar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"外面下雨了，我们今天不出去了。\" berarti \"Di luar sudah turun hujan, kita hari ini jadi tidak pergi keluar.\"."
+        "explanation": "Kalimat \"外面下雨了，我们今天不出去了。\" (dibaca: Wàimiàn xiàyǔ le, wǒmen jīntiān bù chūqù le.) berarti \"Di luar sudah turun hujan, kita hari ini jadi tidak pergi keluar.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 (Realisasi Aksi) | Kalimat + 了 (Perubahan Keadaan Baru)\" (Partikel Aspek 了 (le) & Evaluasi Komprehensif HSK 1) yang berfungsi untuk partikel 了 (le) bukan penanda waktu lampau murni, melainkan penanda bahwa suatu aksi telah terwujud/selesai atau keadaan baru telah terjadi. Dilengkapi evaluasi komprehensif tingkat HSK 1!."
       },
       {
         "id": "q-zh-gram-10-pg-4",
@@ -4645,7 +4645,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Bagus sekali! Saya sudah selesai mempelajari seluruh kelas tata bahasa HSK tingkat 1."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"太好了！我已经学完了HSK 1级的所有语法课。\" berarti \"Bagus sekali! Saya sudah selesai mempelajari seluruh kelas tata bahasa HSK tingkat 1.\"."
+        "explanation": "Kalimat \"太好了！我已经学完了HSK 1级的所有语法课。\" (dibaca: Tài hǎo le! Wǒ yǐjīng xuéwán le HSK yī jí de suǒyǒu yǔfǎ kè.) berarti \"Bagus sekali! Saya sudah selesai mempelajari seluruh kelas tata bahasa HSK tingkat 1.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 (Realisasi Aksi) | Kalimat + 了 (Perubahan Keadaan Baru)\" (Partikel Aspek 了 (le) & Evaluasi Komprehensif HSK 1) yang berfungsi untuk partikel 了 (le) bukan penanda waktu lampau murni, melainkan penanda bahwa suatu aksi telah terwujud/selesai atau keadaan baru telah terjadi. Dilengkapi evaluasi komprehensif tingkat HSK 1!."
       },
       {
         "id": "q-zh-gram-10-bb-2",
@@ -4794,7 +4794,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di luar sedang turun salju lebat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"北京的冬天比上海冷得多。\" berarti \"Musim dingin di Beijing jauh lebih dingin daripada di Shanghai.\"."
+        "explanation": "Kalimat \"北京的冬天比上海冷得多。\" (dibaca: Běijīng de dōngtiān bǐ Shànghǎi lěng de duō.) berarti \"Musim dingin di Beijing jauh lebih dingin daripada di Shanghai.\". Kalimat ini menggunakan pola \"A + 比 (bǐ) + B + Kata Sifat (+ Derajat: 一点儿 / 得多)\" (Struktur Perbandingan dengan 比 (bǐ) & 没有 (méiyǒu)) yang berfungsi untuk kata 比 (bǐ) digunakan untuk membandingkan dua entitas di mana A lebih unggul/tinggi sifatnya daripada B. Untuk menyatakan 'tidak sebanding/kurang dari', gunakan pola A 没有 B + Sifat."
       },
       {
         "id": "q-zh-gram-11-pg-2",
@@ -4810,7 +4810,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Adik laki-laki saya 2 tahun lebih muda dari saya, tetapi dia lebih tinggi daripada saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"我弟弟比我小两岁，但他比我高。\" berarti \"Adik laki-laki saya 2 tahun lebih muda dari saya, tetapi dia lebih tinggi daripada saya.\"."
+        "explanation": "Kalimat \"我弟弟比我小两岁，但他比我高。\" (dibaca: Wǒ dìdi bǐ wǒ xiǎo liǎng suì, dàn tā bǐ wǒ gāo.) berarti \"Adik laki-laki saya 2 tahun lebih muda dari saya, tetapi dia lebih tinggi daripada saya.\". Kalimat ini menggunakan pola \"A + 比 (bǐ) + B + Kata Sifat (+ Derajat: 一点儿 / 得多)\" (Struktur Perbandingan dengan 比 (bǐ) & 没有 (méiyǒu)) yang berfungsi untuk kata 比 (bǐ) digunakan untuk membandingkan dua entitas di mana A lebih unggul/tinggi sifatnya daripada B. Untuk menyatakan 'tidak sebanding/kurang dari', gunakan pola A 没有 B + Sifat."
       },
       {
         "id": "q-zh-gram-11-pg-3",
@@ -4826,7 +4826,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jika menjumpai kosakata baru, periksalah di kamus ponsel."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"坐出租车没有坐地铁快。\" berarti \"Naik taksi tidak secepat naik subway.\"."
+        "explanation": "Kalimat \"坐出租车没有坐地铁快。\" (dibaca: Zuò chūzūchē méiyǒu zuò dìtiě kuài.) berarti \"Naik taksi tidak secepat naik subway.\". Kalimat ini menggunakan pola \"A + 比 (bǐ) + B + Kata Sifat (+ Derajat: 一点儿 / 得多)\" (Struktur Perbandingan dengan 比 (bǐ) & 没有 (méiyǒu)) yang berfungsi untuk kata 比 (bǐ) digunakan untuk membandingkan dua entitas di mana A lebih unggul/tinggi sifatnya daripada B. Untuk menyatakan 'tidak sebanding/kurang dari', gunakan pola A 没有 B + Sifat."
       },
       {
         "id": "q-zh-gram-11-pg-4",
@@ -5119,7 +5119,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saat kamu menelepon, saya sedang mandi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"北京的冬天比上海冷得多。\" berarti \"Musim dingin di Beijing jauh lebih dingin daripada di Shanghai.\"."
+        "explanation": "Kalimat \"北京的冬天比上海冷得多。\" (dibaca: Běijīng de dōngtiān bǐ Shànghǎi lěng de duō.) berarti \"Musim dingin di Beijing jauh lebih dingin daripada di Shanghai.\". Kalimat ini menggunakan pola \"A + 比 (bǐ) + B + Kata Sifat (+ Derajat: 一点儿 / 得多)\" (Struktur Perbandingan dengan 比 (bǐ) & 没有 (méiyǒu)) yang berfungsi untuk kata 比 (bǐ) digunakan untuk membandingkan dua entitas di mana A lebih unggul/tinggi sifatnya daripada B. Untuk menyatakan 'tidak sebanding/kurang dari', gunakan pola A 没有 B + Sifat."
       },
       {
         "id": "q-zh-gram-11-bb-2",
@@ -5259,7 +5259,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di luar hujan, cepat masuk kemari!"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"外面下雨了，你快进来吧！\" berarti \"Di luar hujan, cepat masuk kemari!\"."
+        "explanation": "Kalimat \"外面下雨了，你快进来吧！\" (dibaca: Wàimiàn xiàyǔ le, nǐ kuài jìnlái ba!) berarti \"Di luar hujan, cepat masuk kemari!\". Kalimat ini menggunakan pola \"Kata Kerja + 来 (lái: mendekat ke penutur) / 去 (qù: menjauh dari penutur)\" (Pelengkap Arah Gerak Sederhana dengan 来 (lái) & 去 (qù)) yang berfungsi untuk dalam bahasa Mandarin, arah pergerakan fisik selalu ditandai oleh kata kerja bantu 来 (lái) jika gerakan menuju arah pembicara, dan 去 (qù) jika menjauh dari pembicara."
       },
       {
         "id": "q-zh-gram-12-pg-2",
@@ -5275,7 +5275,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kapan kamu datang ke Tiongkok? —— Saya datangnya bulan lalu."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"他在楼上等我们，我们上去吧。\" berarti \"Dia menunggu kita di lantai atas, ayo kita naik ke sana.\"."
+        "explanation": "Kalimat \"他在楼上等我们，我们上去吧。\" (dibaca: Tā zài lóushàng děng wǒmen, wǒmen shàngqù ba.) berarti \"Dia menunggu kita di lantai atas, ayo kita naik ke sana.\". Kalimat ini menggunakan pola \"Kata Kerja + 来 (lái: mendekat ke penutur) / 去 (qù: menjauh dari penutur)\" (Pelengkap Arah Gerak Sederhana dengan 来 (lái) & 去 (qù)) yang berfungsi untuk dalam bahasa Mandarin, arah pergerakan fisik selalu ditandai oleh kata kerja bantu 来 (lái) jika gerakan menuju arah pembicara, dan 去 (qù) jika menjauh dari pembicara."
       },
       {
         "id": "q-zh-gram-12-pg-3",
@@ -5291,7 +5291,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya pergi berwisata ke Shanghai sendirian naik kereta cepat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"老师走进教室来了。\" berarti \"Guru berjalan masuk ke dalam ruang kelas.\"."
+        "explanation": "Kalimat \"老师走进教室来了。\" (dibaca: Lǎoshī zǒu jìn jiàoshì lái le.) berarti \"Guru berjalan masuk ke dalam ruang kelas.\". Kalimat ini menggunakan pola \"Kata Kerja + 来 (lái: mendekat ke penutur) / 去 (qù: menjauh dari penutur)\" (Pelengkap Arah Gerak Sederhana dengan 来 (lái) & 去 (qù)) yang berfungsi untuk dalam bahasa Mandarin, arah pergerakan fisik selalu ditandai oleh kata kerja bantu 来 (lái) jika gerakan menuju arah pembicara, dan 去 (qù) jika menjauh dari pembicara."
       },
       {
         "id": "q-zh-gram-12-pg-4",
@@ -5582,7 +5582,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu belajar giat, maka pasti bisa lulus ujian HSK."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"外面下雨了，你快进来吧！\" berarti \"Di luar hujan, cepat masuk kemari!\"."
+        "explanation": "Kalimat \"外面下雨了，你快进来吧！\" (dibaca: Wàimiàn xiàyǔ le, nǐ kuài jìnlái ba!) berarti \"Di luar hujan, cepat masuk kemari!\". Kalimat ini menggunakan pola \"Kata Kerja + 来 (lái: mendekat ke penutur) / 去 (qù: menjauh dari penutur)\" (Pelengkap Arah Gerak Sederhana dengan 来 (lái) & 去 (qù)) yang berfungsi untuk dalam bahasa Mandarin, arah pergerakan fisik selalu ditandai oleh kata kerja bantu 来 (lái) jika gerakan menuju arah pembicara, dan 去 (qù) jika menjauh dari pembicara."
       },
       {
         "id": "q-zh-gram-12-bb-2",
@@ -5716,7 +5716,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Gaun qipao cantik ini dibelinya di mana?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"你打电话的时候，我正在洗澡呢。\" berarti \"Saat kamu menelepon, saya sedang mandi.\"."
+        "explanation": "Kalimat \"你打电话的时候，我正在洗澡呢。\" (dibaca: Nǐ dǎ diànhuà de shíhou, wǒ zhèngzài xǐzǎo ne.) berarti \"Saat kamu menelepon, saya sedang mandi.\". Kalimat ini menggunakan pola \"Subjek + (正 / 在 / 正在) + Kata Kerja + (Objek) + (呢)\" (Partikel Aspek Sedang Berlangsung 正 / 在 / 正在 (zhèngzài)) yang berfungsi untuk untuk menyatakan bahwa suatu aksi sedang berlangsung pada saat dibicarakan (seperti present continuous '-ing'), bahasa Mandarin menggunakan kata bantu 在, 正, atau 正在, yang sering dipasangkan dengan partikel 呢 di akhir kalimat."
       },
       {
         "id": "q-zh-gram-13-pg-2",
@@ -5732,7 +5732,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya bisa berenang (keahlian), tetapi hari ini sakit sehingga tidak bisa (kondisi tubuh) pergi ke kolam renang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"外面正在下大雪呢。\" berarti \"Di luar sedang turun salju lebat.\"."
+        "explanation": "Kalimat \"外面正在下大雪呢。\" (dibaca: Wàimiàn zhèngzài xià dàxuě ne.) berarti \"Di luar sedang turun salju lebat.\". Kalimat ini menggunakan pola \"Subjek + (正 / 在 / 正在) + Kata Kerja + (Objek) + (呢)\" (Partikel Aspek Sedang Berlangsung 正 / 在 / 正在 (zhèngzài)) yang berfungsi untuk untuk menyatakan bahwa suatu aksi sedang berlangsung pada saat dibicarakan (seperti present continuous '-ing'), bahasa Mandarin menggunakan kata bantu 在, 正, atau 正在, yang sering dipasangkan dengan partikel 呢 di akhir kalimat."
       },
       {
         "id": "q-zh-gram-13-pg-3",
@@ -5748,7 +5748,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jangan khawatir, rapat besok dia pasti akan (probabilitas) hadir tepat waktu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"别吵，同学们在做期末考试题。\" berarti \"Jangan berisik, teman-teman sedang mengerjakan soal ujian akhir semester.\"."
+        "explanation": "Kalimat \"别吵，同学们在做期末考试题。\" (dibaca: Bié chǎo, tóngxuémen zài zuò qīmò kǎoshì tí.) berarti \"Jangan berisik, teman-teman sedang mengerjakan soal ujian akhir semester.\". Kalimat ini menggunakan pola \"Subjek + (正 / 在 / 正在) + Kata Kerja + (Objek) + (呢)\" (Partikel Aspek Sedang Berlangsung 正 / 在 / 正在 (zhèngzài)) yang berfungsi untuk untuk menyatakan bahwa suatu aksi sedang berlangsung pada saat dibicarakan (seperti present continuous '-ing'), bahasa Mandarin menggunakan kata bantu 在, 正, atau 正在, yang sering dipasangkan dengan partikel 呢 di akhir kalimat."
       },
       {
         "id": "q-zh-gram-13-pg-4",
@@ -6043,7 +6043,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kapan kamu datang ke Tiongkok? —— Saya datangnya bulan lalu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"你打电话的时候，我正在洗澡呢。\" berarti \"Saat kamu menelepon, saya sedang mandi.\"."
+        "explanation": "Kalimat \"你打电话的时候，我正在洗澡呢。\" (dibaca: Nǐ dǎ diànhuà de shíhou, wǒ zhèngzài xǐzǎo ne.) berarti \"Saat kamu menelepon, saya sedang mandi.\". Kalimat ini menggunakan pola \"Subjek + (正 / 在 / 正在) + Kata Kerja + (Objek) + (呢)\" (Partikel Aspek Sedang Berlangsung 正 / 在 / 正在 (zhèngzài)) yang berfungsi untuk untuk menyatakan bahwa suatu aksi sedang berlangsung pada saat dibicarakan (seperti present continuous '-ing'), bahasa Mandarin menggunakan kata bantu 在, 正, atau 正在, yang sering dipasangkan dengan partikel 呢 di akhir kalimat."
       },
       {
         "id": "q-zh-gram-13-bb-2",
@@ -6176,7 +6176,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi Profesor, bolehkah kami meminjam kamus ini?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"如果你努力学习，就一定能通过HSK考试。\" berarti \"Jika kamu belajar giat, maka pasti bisa lulus ujian HSK.\"."
+        "explanation": "Kalimat \"如果你努力学习，就一定能通过HSK考试。\" (dibaca: Rúguǒ nǐ nǔlì xuéxí, jiù yídìng néng tōngguò HSK kǎoshì.) berarti \"Jika kamu belajar giat, maka pasti bisa lulus ujian HSK.\". Kalimat ini menggunakan pola \"如果 / 要是 (Rúguǒ / Yàoshi) + Kondisi, Subjek + 就 (jiù) + Hasil\" (Kalimat Pengandaian Jika... Maka... (如果/要是...就...)) yang berfungsi untuk untuk menyatakan kondisi pengandaian (jika... maka...), bahasa Mandarin menggunakan konjungsi 如果 (rúguǒ - formal) atau 要是 (yàoshi - percakapan) pada klausa syarat, diikuti kata penegas 就 (jiù) pada klausa akibat."
       },
       {
         "id": "q-zh-gram-14-pg-2",
@@ -6192,7 +6192,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saat menyeberang jalan, wajib memperhatikan lampu lalu lintas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"要是觉得累，你就早点儿休息吧。\" berarti \"Kalau merasa lelah, kamu istirahatlah lebih awal.\"."
+        "explanation": "Kalimat \"要是觉得累，你就早点儿休息吧。\" (dibaca: Yàoshi juéde lèi, nǐ jiù zǎodiǎnr xiūxi ba.) berarti \"Kalau merasa lelah, kamu istirahatlah lebih awal.\". Kalimat ini menggunakan pola \"如果 / 要是 (Rúguǒ / Yàoshi) + Kondisi, Subjek + 就 (jiù) + Hasil\" (Kalimat Pengandaian Jika... Maka... (如果/要是...就...)) yang berfungsi untuk untuk menyatakan kondisi pengandaian (jika... maka...), bahasa Mandarin menggunakan konjungsi 如果 (rúguǒ - formal) atau 要是 (yàoshi - percakapan) pada klausa syarat, diikuti kata penegas 就 (jiù) pada klausa akibat."
       },
       {
         "id": "q-zh-gram-14-pg-3",
@@ -6208,7 +6208,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jika menjumpai kosakata baru, periksalah di kamus ponsel."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"遇到生词的话，就查一下手机词典。\" berarti \"Jika menjumpai kosakata baru, periksalah di kamus ponsel.\"."
+        "explanation": "Kalimat \"遇到生词的话，就查一下手机词典。\" (dibaca: Yùdào shēngcí de huà, jiù chá yíxià shǒujī cídiǎn.) berarti \"Jika menjumpai kosakata baru, periksalah di kamus ponsel.\". Kalimat ini menggunakan pola \"如果 / 要是 (Rúguǒ / Yàoshi) + Kondisi, Subjek + 就 (jiù) + Hasil\" (Kalimat Pengandaian Jika... Maka... (如果/要是...就...)) yang berfungsi untuk untuk menyatakan kondisi pengandaian (jika... maka...), bahasa Mandarin menggunakan konjungsi 如果 (rúguǒ - formal) atau 要是 (yàoshi - percakapan) pada klausa syarat, diikuti kata penegas 就 (jiù) pada klausa akibat."
       },
       {
         "id": "q-zh-gram-14-pg-4",
@@ -6507,7 +6507,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu belajar giat, maka pasti bisa lulus ujian HSK."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"如果你努力学习，就一定能通过HSK考试。\" berarti \"Jika kamu belajar giat, maka pasti bisa lulus ujian HSK.\"."
+        "explanation": "Kalimat \"如果你努力学习，就一定能通过HSK考试。\" (dibaca: Rúguǒ nǐ nǔlì xuéxí, jiù yídìng néng tōngguò HSK kǎoshì.) berarti \"Jika kamu belajar giat, maka pasti bisa lulus ujian HSK.\". Kalimat ini menggunakan pola \"如果 / 要是 (Rúguǒ / Yàoshi) + Kondisi, Subjek + 就 (jiù) + Hasil\" (Kalimat Pengandaian Jika... Maka... (如果/要是...就...)) yang berfungsi untuk untuk menyatakan kondisi pengandaian (jika... maka...), bahasa Mandarin menggunakan konjungsi 如果 (rúguǒ - formal) atau 要是 (yàoshi - percakapan) pada klausa syarat, diikuti kata penegas 就 (jiù) pada klausa akibat."
       },
       {
         "id": "q-zh-gram-14-bb-2",
@@ -6644,7 +6644,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Sebelum datang ke Tiongkok, dia belajar bahasa Mandarin dasar selama setengah tahun."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"你是什么时候来中国的？——我是上个月来的。\" berarti \"Kapan kamu datang ke Tiongkok? —— Saya datangnya bulan lalu.\"."
+        "explanation": "Kalimat \"你是什么时候来中国的？——我是上个月来的。\" (dibaca: Nǐ shì shénme shíhou lái Zhōngguó de? —— Wǒ shì shàng ge yuè lái de.) berarti \"Kapan kamu datang ke Tiongkok? —— Saya datangnya bulan lalu.\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + [Waktu / Tempat / Cara / Pelaku] + Kata Kerja + 的 (de)\" (Struktur Penekanan 是...的 (shì...de) untuk Waktu, Tempat, & Cara) yang berfungsi untuk struktur 是...的 digunakan untuk menegaskan rincian suatu peristiwa yang SUDAH TERJADI di masa lampau, seperti KAPAN, DI MANA, DENGAN CARA APA, atau OLEH SIAPA aksi tersebut dilakukan."
       },
       {
         "id": "q-zh-gram-15-pg-2",
@@ -6660,7 +6660,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Gaun qipao cantik ini dibelinya di mana?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"这件漂亮的旗袍是在哪儿买的？\" berarti \"Gaun qipao cantik ini dibelinya di mana?\"."
+        "explanation": "Kalimat \"这件漂亮的旗袍是在哪儿买的？\" (dibaca: Zhè jiàn piàoliang de qípáo shì zài nǎr mǎi de?) berarti \"Gaun qipao cantik ini dibelinya di mana?\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + [Waktu / Tempat / Cara / Pelaku] + Kata Kerja + 的 (de)\" (Struktur Penekanan 是...的 (shì...de) untuk Waktu, Tempat, & Cara) yang berfungsi untuk struktur 是...的 digunakan untuk menegaskan rincian suatu peristiwa yang SUDAH TERJADI di masa lampau, seperti KAPAN, DI MANA, DENGAN CARA APA, atau OLEH SIAPA aksi tersebut dilakukan."
       },
       {
         "id": "q-zh-gram-15-pg-3",
@@ -6676,7 +6676,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Pakaian basah kuyup terkena air hujan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"我是一个人坐高铁去上海旅游的。\" berarti \"Saya pergi berwisata ke Shanghai sendirian naik kereta cepat.\"."
+        "explanation": "Kalimat \"我是一个人坐高铁去上海旅游的。\" (dibaca: Wǒ shì yí ge rén zuò gāotiě qù Shànghǎi lǚyóu de.) berarti \"Saya pergi berwisata ke Shanghai sendirian naik kereta cepat.\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + [Waktu / Tempat / Cara / Pelaku] + Kata Kerja + 的 (de)\" (Struktur Penekanan 是...的 (shì...de) untuk Waktu, Tempat, & Cara) yang berfungsi untuk struktur 是...的 digunakan untuk menegaskan rincian suatu peristiwa yang SUDAH TERJADI di masa lampau, seperti KAPAN, DI MANA, DENGAN CARA APA, atau OLEH SIAPA aksi tersebut dilakukan."
       },
       {
         "id": "q-zh-gram-15-pg-4",
@@ -6971,7 +6971,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saat menyeberang jalan, wajib memperhatikan lampu lalu lintas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"你是什么时候来中国的？——我是上个月来的。\" berarti \"Kapan kamu datang ke Tiongkok? —— Saya datangnya bulan lalu.\"."
+        "explanation": "Kalimat \"你是什么时候来中国的？——我是上个月来的。\" (dibaca: Nǐ shì shénme shíhou lái Zhōngguó de? —— Wǒ shì shàng ge yuè lái de.) berarti \"Kapan kamu datang ke Tiongkok? —— Saya datangnya bulan lalu.\". Kalimat ini menggunakan pola \"Subjek + 是 (shì) + [Waktu / Tempat / Cara / Pelaku] + Kata Kerja + 的 (de)\" (Struktur Penekanan 是...的 (shì...de) untuk Waktu, Tempat, & Cara) yang berfungsi untuk struktur 是...的 digunakan untuk menegaskan rincian suatu peristiwa yang SUDAH TERJADI di masa lampau, seperti KAPAN, DI MANA, DENGAN CARA APA, atau OLEH SIAPA aksi tersebut dilakukan."
       },
       {
         "id": "q-zh-gram-15-bb-2",
@@ -7114,7 +7114,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya bisa berenang (keahlian), tetapi hari ini sakit sehingga tidak bisa (kondisi tubuh) pergi ke kolam renang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"我会游泳，但今天生病了，不能去游泳馆。\" berarti \"Saya bisa berenang (keahlian), tetapi hari ini sakit sehingga tidak bisa (kondisi tubuh) pergi ke kolam renang.\"."
+        "explanation": "Kalimat \"我会游泳，但今天生病了，不能去游泳馆。\" (dibaca: Wǒ huì yóuyǒng, dàn jīntiān shēngbìng le, bù néng qù yóuyǒngguǎn.) berarti \"Saya bisa berenang (keahlian), tetapi hari ini sakit sehingga tidak bisa (kondisi tubuh) pergi ke kolam renang.\". Kalimat ini menggunakan pola \"Subjek + (能 / 可以 / 会) + Kata Kerja + Objek\" (Kata Bantu Modal Kemampuan & Izin: 能 (néng), 可以 (kěyǐ), 会 (huì)) yang berfungsi untuk ketiga kata ini sering diterjemahkan 'bisa/boleh', namun memiliki fungsi spesifik: 会 (kemampuan dari belajar/keahlian), 能 (kemampuan fisik/kapasitas situasi), dan 可以 (izin/kebolehan sopan)."
       },
       {
         "id": "q-zh-gram-16-pg-2",
@@ -7130,7 +7130,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tadi malam saya tidur selama 8 jam, rasanya jauh lebih segar."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"请问教授，我们可以借阅这本词典吗？\" berarti \"Permisi Profesor, bolehkah kami meminjam kamus ini?\"."
+        "explanation": "Kalimat \"请问教授，我们可以借阅这本词典吗？\" (dibaca: Qǐngwèn jiàoshòu, wǒmen kěyǐ jièyuè zhè běn cídiǎn ma?) berarti \"Permisi Profesor, bolehkah kami meminjam kamus ini?\". Kalimat ini menggunakan pola \"Subjek + (能 / 可以 / 会) + Kata Kerja + Objek\" (Kata Bantu Modal Kemampuan & Izin: 能 (néng), 可以 (kěyǐ), 会 (huì)) yang berfungsi untuk ketiga kata ini sering diterjemahkan 'bisa/boleh', namun memiliki fungsi spesifik: 会 (kemampuan dari belajar/keahlian), 能 (kemampuan fisik/kapasitas situasi), dan 可以 (izin/kebolehan sopan)."
       },
       {
         "id": "q-zh-gram-16-pg-3",
@@ -7146,7 +7146,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dia dirawat inap di rumah sakit selama dua minggu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"别担心，明天的会议他一定会准时参加的。\" berarti \"Jangan khawatir, rapat besok dia pasti akan (probabilitas) hadir tepat waktu.\"."
+        "explanation": "Kalimat \"别担心，明天的会议他一定会准时参加的。\" (dibaca: Bié dānxīn, míngtiān de huìyì tā yídìng huì zhǔnshí cānjiā de.) berarti \"Jangan khawatir, rapat besok dia pasti akan (probabilitas) hadir tepat waktu.\". Kalimat ini menggunakan pola \"Subjek + (能 / 可以 / 会) + Kata Kerja + Objek\" (Kata Bantu Modal Kemampuan & Izin: 能 (néng), 可以 (kěyǐ), 会 (huì)) yang berfungsi untuk ketiga kata ini sering diterjemahkan 'bisa/boleh', namun memiliki fungsi spesifik: 会 (kemampuan dari belajar/keahlian), 能 (kemampuan fisik/kapasitas situasi), dan 可以 (izin/kebolehan sopan)."
       },
       {
         "id": "q-zh-gram-16-pg-4",
@@ -7445,7 +7445,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ponsel saya dicuri oleh pencopet!"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"我会游泳，但今天生病了，不能去游泳馆。\" berarti \"Saya bisa berenang (keahlian), tetapi hari ini sakit sehingga tidak bisa (kondisi tubuh) pergi ke kolam renang.\"."
+        "explanation": "Kalimat \"我会游泳，但今天生病了，不能去游泳馆。\" (dibaca: Wǒ huì yóuyǒng, dàn jīntiān shēngbìng le, bù néng qù yóuyǒngguǎn.) berarti \"Saya bisa berenang (keahlian), tetapi hari ini sakit sehingga tidak bisa (kondisi tubuh) pergi ke kolam renang.\". Kalimat ini menggunakan pola \"Subjek + (能 / 可以 / 会) + Kata Kerja + Objek\" (Kata Bantu Modal Kemampuan & Izin: 能 (néng), 可以 (kěyǐ), 会 (huì)) yang berfungsi untuk ketiga kata ini sering diterjemahkan 'bisa/boleh', namun memiliki fungsi spesifik: 会 (kemampuan dari belajar/keahlian), 能 (kemampuan fisik/kapasitas situasi), dan 可以 (izin/kebolehan sopan)."
       },
       {
         "id": "q-zh-gram-16-bb-2",
@@ -7580,7 +7580,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Film Tiongkok yang menarik ini sudah saya tonton 3 kali tuntas dari awal sampai akhir."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"过马路的时候，一定要看红绿灯。\" berarti \"Saat menyeberang jalan, wajib memperhatikan lampu lalu lintas.\"."
+        "explanation": "Kalimat \"过马路的时候，一定要看红绿灯。\" (dibaca: Guò mǎlù de shíhou, yídìng yào kàn hónglǜdēng.) berarti \"Saat menyeberang jalan, wajib memperhatikan lampu lalu lintas.\". Kalimat ini menggunakan pola \"[Aksi / Peristiwa] + 的时候 / 以前 / 以后\" (Hubungan Waktu: ...的时候 (saat), 以前 (sebelum), 以后 (sesudah)) yang berfungsi untuk berbeda dengan bahasa Indonesia di mana kata 'saat/sebelum/sesudah' diletakkan di DEPAN aksi, dalam bahasa Mandarin kata-kata penanda waktu ini WAJIB diletakkan di BELAKANG aksi atau klausa."
       },
       {
         "id": "q-zh-gram-17-pg-2",
@@ -7596,7 +7596,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kamu ingin naik kereta cepat atau naik pesawat ke Guangzhou?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"来中国以前，他学了半年的基础汉语。\" berarti \"Sebelum datang ke Tiongkok, dia belajar bahasa Mandarin dasar selama setengah tahun.\"."
+        "explanation": "Kalimat \"来中国以前，他学了半年的基础汉语。\" (dibaca: Lái Zhōngguó yǐqián, tā xué le bàn nián de jīchǔ Hànyǔ.) berarti \"Sebelum datang ke Tiongkok, dia belajar bahasa Mandarin dasar selama setengah tahun.\". Kalimat ini menggunakan pola \"[Aksi / Peristiwa] + 的时候 / 以前 / 以后\" (Hubungan Waktu: ...的时候 (saat), 以前 (sebelum), 以后 (sesudah)) yang berfungsi untuk berbeda dengan bahasa Indonesia di mana kata 'saat/sebelum/sesudah' diletakkan di DEPAN aksi, dalam bahasa Mandarin kata-kata penanda waktu ini WAJIB diletakkan di BELAKANG aksi atau klausa."
       },
       {
         "id": "q-zh-gram-17-pg-3",
@@ -7612,7 +7612,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Baik latihan sehari-hari maupun ujian akhir semester, kita semuanya harus menyikapinya dengan sungguh-sungguh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"吃完晚饭以后，我们去操场散步吧。\" berarti \"Sesudah selesai makan malam, ayo kita jalan santai ke lapangan olahraga.\"."
+        "explanation": "Kalimat \"吃完晚饭以后，我们去操场散步吧。\" (dibaca: Chī wán wǎnfàn yǐhòu, wǒmen qù cāochǎng sànbù ba.) berarti \"Sesudah selesai makan malam, ayo kita jalan santai ke lapangan olahraga.\". Kalimat ini menggunakan pola \"[Aksi / Peristiwa] + 的时候 / 以前 / 以后\" (Hubungan Waktu: ...的时候 (saat), 以前 (sebelum), 以后 (sesudah)) yang berfungsi untuk berbeda dengan bahasa Indonesia di mana kata 'saat/sebelum/sesudah' diletakkan di DEPAN aksi, dalam bahasa Mandarin kata-kata penanda waktu ini WAJIB diletakkan di BELAKANG aksi atau klausa."
       },
       {
         "id": "q-zh-gram-17-pg-4",
@@ -7909,7 +7909,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tadi malam saya tidur selama 8 jam, rasanya jauh lebih segar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"过马路的时候，一定要看红绿灯。\" berarti \"Saat menyeberang jalan, wajib memperhatikan lampu lalu lintas.\"."
+        "explanation": "Kalimat \"过马路的时候，一定要看红绿灯。\" (dibaca: Guò mǎlù de shíhou, yídìng yào kàn hónglǜdēng.) berarti \"Saat menyeberang jalan, wajib memperhatikan lampu lalu lintas.\". Kalimat ini menggunakan pola \"[Aksi / Peristiwa] + 的时候 / 以前 / 以后\" (Hubungan Waktu: ...的时候 (saat), 以前 (sebelum), 以后 (sesudah)) yang berfungsi untuk berbeda dengan bahasa Indonesia di mana kata 'saat/sebelum/sesudah' diletakkan di DEPAN aksi, dalam bahasa Mandarin kata-kata penanda waktu ini WAJIB diletakkan di BELAKANG aksi atau klausa."
       },
       {
         "id": "q-zh-gram-17-bb-2",
@@ -8042,7 +8042,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Akhir pekan saya biasanya membaca buku atau mendengarkan musik di asrama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"我的手机叫小偷给偷走了！\" berarti \"Ponsel saya dicuri oleh pencopet!\"."
+        "explanation": "Kalimat \"我的手机叫小偷给偷走了！\" (dibaca: Wǒ de shǒujī jiào xiǎotōu gěi tōu zǒu le!) berarti \"Ponsel saya dicuri oleh pencopet!\". Kalimat ini menggunakan pola \"Objek Penerima + 叫 / 让 + Pelaku Aksi + Kata Kerja + Pelengkap\" (Kalimat Pasif Percakapan Sederhana dengan 叫 (jiào) & 让 (ràng)) yang berfungsi untuk selain partikel 被 (bèi) yang bersifat formal, dalam percakapan lisan santai sehari-hari orang Tiongkok sangat sering menggunakan kata 叫 (jiào) atau 让 (ràng) untuk menyatakan kalimat pasif (terkena aksi atau dampak yang tidak diinginkan)."
       },
       {
         "id": "q-zh-gram-18-pg-2",
@@ -8058,7 +8058,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Musim dingin di Beijing jauh lebih dingin daripada di Shanghai."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"桌子上的那杯热茶让他喝光了。\" berarti \"Secangkir teh panas di atas meja itu habis diminum olehnya.\"."
+        "explanation": "Kalimat \"桌子上的那杯热茶让他喝光了。\" (dibaca: Zhuōzi shàng de nà bēi rèchá ràng tā hē guāng le.) berarti \"Secangkir teh panas di atas meja itu habis diminum olehnya.\". Kalimat ini menggunakan pola \"Objek Penerima + 叫 / 让 + Pelaku Aksi + Kata Kerja + Pelengkap\" (Kalimat Pasif Percakapan Sederhana dengan 叫 (jiào) & 让 (ràng)) yang berfungsi untuk selain partikel 被 (bèi) yang bersifat formal, dalam percakapan lisan santai sehari-hari orang Tiongkok sangat sering menggunakan kata 叫 (jiào) atau 让 (ràng) untuk menyatakan kalimat pasif (terkena aksi atau dampak yang tidak diinginkan)."
       },
       {
         "id": "q-zh-gram-18-pg-3",
@@ -8074,7 +8074,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Pakaian basah kuyup terkena air hujan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"衣服全让雨水淋湿了。\" berarti \"Pakaian basah kuyup terkena air hujan.\"."
+        "explanation": "Kalimat \"衣服全让雨水淋湿了。\" (dibaca: Yīfu quán ràng yǔshuǐ lín shī le.) berarti \"Pakaian basah kuyup terkena air hujan.\". Kalimat ini menggunakan pola \"Objek Penerima + 叫 / 让 + Pelaku Aksi + Kata Kerja + Pelengkap\" (Kalimat Pasif Percakapan Sederhana dengan 叫 (jiào) & 让 (ràng)) yang berfungsi untuk selain partikel 被 (bèi) yang bersifat formal, dalam percakapan lisan santai sehari-hari orang Tiongkok sangat sering menggunakan kata 叫 (jiào) atau 让 (ràng) untuk menyatakan kalimat pasif (terkena aksi atau dampak yang tidak diinginkan)."
       },
       {
         "id": "q-zh-gram-18-pg-4",
@@ -8363,7 +8363,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ponsel saya dicuri oleh pencopet!"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"我的手机叫小偷给偷走了！\" berarti \"Ponsel saya dicuri oleh pencopet!\"."
+        "explanation": "Kalimat \"我的手机叫小偷给偷走了！\" (dibaca: Wǒ de shǒujī jiào xiǎotōu gěi tōu zǒu le!) berarti \"Ponsel saya dicuri oleh pencopet!\". Kalimat ini menggunakan pola \"Objek Penerima + 叫 / 让 + Pelaku Aksi + Kata Kerja + Pelengkap\" (Kalimat Pasif Percakapan Sederhana dengan 叫 (jiào) & 让 (ràng)) yang berfungsi untuk selain partikel 被 (bèi) yang bersifat formal, dalam percakapan lisan santai sehari-hari orang Tiongkok sangat sering menggunakan kata 叫 (jiào) atau 让 (ràng) untuk menyatakan kalimat pasif (terkena aksi atau dampak yang tidak diinginkan)."
       },
       {
         "id": "q-zh-gram-18-bb-2",
@@ -8497,7 +8497,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Adik laki-laki saya 2 tahun lebih muda dari saya, tetapi dia lebih tinggi daripada saya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"昨晚我睡了八个小时觉，感觉好多了。\" berarti \"Tadi malam saya tidur selama 8 jam, rasanya jauh lebih segar.\"."
+        "explanation": "Kalimat \"昨晚我睡了八个小时觉，感觉好多了。\" (dibaca: Zuówǎn wǒ shuì le bā ge xiǎoshí jiào, gǎnjué hǎo duō le.) berarti \"Tadi malam saya tidur selama 8 jam, rasanya jauh lebih segar.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 + Durasi Waktu / Frekuensi (次 cì, 遍 biàn)\" (Pelengkap Durasi & Frekuensi Waktu (V + 了 + Waktu / 次, 遍)) yang berfungsi untuk untuk menyatakan berapa lama suatu aksi berlangsung (durasi) atau berapa kali aksi tersebut dilakukan (frekuensi), bahasa Mandarin meletakkan kata durasi/frekuensi tersebut tepat SETELAH kata kerja."
       },
       {
         "id": "q-zh-gram-19-pg-2",
@@ -8513,7 +8513,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Film Tiongkok yang menarik ini sudah saya tonton 3 kali tuntas dari awal sampai akhir."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"这部精彩的中国电影，我已经看了三遍了。\" berarti \"Film Tiongkok yang menarik ini sudah saya tonton 3 kali tuntas dari awal sampai akhir.\"."
+        "explanation": "Kalimat \"这部精彩的中国电影，我已经看了三遍了。\" (dibaca: Zhè bù jīngcǎi de Zhōngguó diànyǐng, wǒ yǐjīng kàn le sān biàn le.) berarti \"Film Tiongkok yang menarik ini sudah saya tonton 3 kali tuntas dari awal sampai akhir.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 + Durasi Waktu / Frekuensi (次 cì, 遍 biàn)\" (Pelengkap Durasi & Frekuensi Waktu (V + 了 + Waktu / 次, 遍)) yang berfungsi untuk untuk menyatakan berapa lama suatu aksi berlangsung (durasi) atau berapa kali aksi tersebut dilakukan (frekuensi), bahasa Mandarin meletakkan kata durasi/frekuensi tersebut tepat SETELAH kata kerja."
       },
       {
         "id": "q-zh-gram-19-pg-3",
@@ -8529,7 +8529,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Guru berjalan masuk ke dalam ruang kelas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"他在医院住了两个星期的院。\" berarti \"Dia dirawat inap di rumah sakit selama dua minggu.\"."
+        "explanation": "Kalimat \"他在医院住了两个星期的院。\" (dibaca: Tā zài yīyuàn zhù le liǎng ge xīngqī de yuàn.) berarti \"Dia dirawat inap di rumah sakit selama dua minggu.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 + Durasi Waktu / Frekuensi (次 cì, 遍 biàn)\" (Pelengkap Durasi & Frekuensi Waktu (V + 了 + Waktu / 次, 遍)) yang berfungsi untuk untuk menyatakan berapa lama suatu aksi berlangsung (durasi) atau berapa kali aksi tersebut dilakukan (frekuensi), bahasa Mandarin meletakkan kata durasi/frekuensi tersebut tepat SETELAH kata kerja."
       },
       {
         "id": "q-zh-gram-19-pg-4",
@@ -8826,7 +8826,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Musim dingin di Beijing jauh lebih dingin daripada di Shanghai."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"昨晚我睡了八个小时觉，感觉好多了。\" berarti \"Tadi malam saya tidur selama 8 jam, rasanya jauh lebih segar.\"."
+        "explanation": "Kalimat \"昨晚我睡了八个小时觉，感觉好多了。\" (dibaca: Zuówǎn wǒ shuì le bā ge xiǎoshí jiào, gǎnjué hǎo duō le.) berarti \"Tadi malam saya tidur selama 8 jam, rasanya jauh lebih segar.\". Kalimat ini menggunakan pola \"Kata Kerja + 了 + Durasi Waktu / Frekuensi (次 cì, 遍 biàn)\" (Pelengkap Durasi & Frekuensi Waktu (V + 了 + Waktu / 次, 遍)) yang berfungsi untuk untuk menyatakan berapa lama suatu aksi berlangsung (durasi) atau berapa kali aksi tersebut dilakukan (frekuensi), bahasa Mandarin meletakkan kata durasi/frekuensi tersebut tepat SETELAH kata kerja."
       },
       {
         "id": "q-zh-gram-19-bb-2",
@@ -8968,7 +8968,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kamu ingin naik kereta cepat atau naik pesawat ke Guangzhou?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"你想坐高铁还是坐飞机去广州？\" berarti \"Kamu ingin naik kereta cepat atau naik pesawat ke Guangzhou?\"."
+        "explanation": "Kalimat \"你想坐高铁还是坐飞机去广州？\" (dibaca: Nǐ xiǎng zuò gāotiě háishi zuò fēijī qù Guǎngzhōu?) berarti \"Kamu ingin naik kereta cepat atau naik pesawat ke Guangzhou?\". Kalimat ini menggunakan pola \"Pertanyaan: A + 还是 (háishi) + B? | Kalimat Berita: A + 或者 (huòzhě) + B\" (Pola Pertanyaan Pilihan 还是 (háishi) vs Atau dalam Kalimat Berita 或者 (huòzhě) & Review HSK 2) yang berfungsi untuk baik 还是 maupun 或者 berarti 'atau'. Namun dalam bahasa Mandarin aturannya sangat ketat: 还是 HANYA untuk kalimat pertanyaan pilihan, sedangkan 或者 HANYA untuk kalimat pernyataan berita."
       },
       {
         "id": "q-zh-gram-20-pg-2",
@@ -8984,7 +8984,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saat kamu menelepon, saya sedang mandi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"周末我一般在宿舍看书或者听音乐。\" berarti \"Akhir pekan saya biasanya membaca buku atau mendengarkan musik di asrama.\"."
+        "explanation": "Kalimat \"周末我一般在宿舍看书或者听音乐。\" (dibaca: Zhōumò wǒ yībān zài sùshè kànshū huòzhě tīng yīnyuè.) berarti \"Akhir pekan saya biasanya membaca buku atau mendengarkan musik di asrama.\". Kalimat ini menggunakan pola \"Pertanyaan: A + 还是 (háishi) + B? | Kalimat Berita: A + 或者 (huòzhě) + B\" (Pola Pertanyaan Pilihan 还是 (háishi) vs Atau dalam Kalimat Berita 或者 (huòzhě) & Review HSK 2) yang berfungsi untuk baik 还是 maupun 或者 berarti 'atau'. Namun dalam bahasa Mandarin aturannya sangat ketat: 还是 HANYA untuk kalimat pertanyaan pilihan, sedangkan 或者 HANYA untuk kalimat pernyataan berita."
       },
       {
         "id": "q-zh-gram-20-pg-3",
@@ -9000,7 +9000,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jangan berisik, teman-teman sedang mengerjakan soal ujian akhir semester."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"无论是平时练习还是期末考试，我们都应该认真对待。\" berarti \"Baik latihan sehari-hari maupun ujian akhir semester, kita semuanya harus menyikapinya dengan sungguh-sungguh.\"."
+        "explanation": "Kalimat \"无论是平时练习还是期末考试，我们都应该认真对待。\" (dibaca: Wúlùn shì píngshí liànxí háishì qīmò kǎoshì, wǒmen dōu yīnggāi rènzhēn duìdài.) berarti \"Baik latihan sehari-hari maupun ujian akhir semester, kita semuanya harus menyikapinya dengan sungguh-sungguh.\". Kalimat ini menggunakan pola \"Pertanyaan: A + 还是 (háishi) + B? | Kalimat Berita: A + 或者 (huòzhě) + B\" (Pola Pertanyaan Pilihan 还是 (háishi) vs Atau dalam Kalimat Berita 或者 (huòzhě) & Review HSK 2) yang berfungsi untuk baik 还是 maupun 或者 berarti 'atau'. Namun dalam bahasa Mandarin aturannya sangat ketat: 还是 HANYA untuk kalimat pertanyaan pilihan, sedangkan 或者 HANYA untuk kalimat pernyataan berita."
       },
       {
         "id": "q-zh-gram-20-pg-4",
@@ -9299,7 +9299,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di luar hujan, cepat masuk kemari!"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"你想坐高铁还是坐飞机去广州？\" berarti \"Kamu ingin naik kereta cepat atau naik pesawat ke Guangzhou?\"."
+        "explanation": "Kalimat \"你想坐高铁还是坐飞机去广州？\" (dibaca: Nǐ xiǎng zuò gāotiě háishi zuò fēijī qù Guǎngzhōu?) berarti \"Kamu ingin naik kereta cepat atau naik pesawat ke Guangzhou?\". Kalimat ini menggunakan pola \"Pertanyaan: A + 还是 (háishi) + B? | Kalimat Berita: A + 或者 (huòzhě) + B\" (Pola Pertanyaan Pilihan 还是 (háishi) vs Atau dalam Kalimat Berita 或者 (huòzhě) & Review HSK 2) yang berfungsi untuk baik 还是 maupun 或者 berarti 'atau'. Namun dalam bahasa Mandarin aturannya sangat ketat: 还是 HANYA untuk kalimat pertanyaan pilihan, sedangkan 或者 HANYA untuk kalimat pernyataan berita."
       },
       {
         "id": "q-zh-gram-20-bb-2",
@@ -9441,7 +9441,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Buku ini sangat memikat, makin saya baca makin ingin terus membaca."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"请大家把手机关上，考试马上开始。\" berarti \"Harap semuanya mematikan ponsel masing-masing, ujian akan segera dimulai.\"."
+        "explanation": "Kalimat \"请大家把手机关上，考试马上开始。\" (dibaca: Qǐng dàjiā bǎ shǒujī guānshàng, kǎoshì mǎshàng kāishǐ.) berarti \"Harap semuanya mematikan ponsel masing-masing, ujian akan segera dimulai.\". Kalimat ini menggunakan pola \"Subjek + 把 (bǎ) + Objek Definit + Kata Kerja + Pelengkap / 了\" (Kalimat Disposisi 把 (bǎ) Dasar: Pengubahan & Penataan Objek) yang berfungsi untuk kalimat 把 (bǎ) digunakan saat subjek melakukan suatu aksi terhadap objek yang sudah spesifik (definit) sehingga menyebabkan objek tersebut berubah posisi, wujud, atau keadaannya."
       },
       {
         "id": "q-zh-gram-21-pg-2",
@@ -9457,7 +9457,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Meskipun belajar seharian penuh, saya sama sekali tidak merasa mengantuk."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"弟弟把我的水杯打破了。\" berarti \"Adik memecahkan gelas air minum saya.\"."
+        "explanation": "Kalimat \"弟弟把我的水杯打破了。\" (dibaca: Dìdi bǎ wǒ de shuǐbēi dǎ pò le.) berarti \"Adik memecahkan gelas air minum saya.\". Kalimat ini menggunakan pola \"Subjek + 把 (bǎ) + Objek Definit + Kata Kerja + Pelengkap / 了\" (Kalimat Disposisi 把 (bǎ) Dasar: Pengubahan & Penataan Objek) yang berfungsi untuk kalimat 把 (bǎ) digunakan saat subjek melakukan suatu aksi terhadap objek yang sudah spesifik (definit) sehingga menyebabkan objek tersebut berubah posisi, wujud, atau keadaannya."
       },
       {
         "id": "q-zh-gram-21-pg-3",
@@ -9473,7 +9473,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Besok ada ujian akhir semester, dia sama sekali tidak gugup."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"你把今天的生词复习好了吗？\" berarti \"Apakah kamu sudah mengulang kosakata baru hari ini dengan tuntas?\"."
+        "explanation": "Kalimat \"你把今天的生词复习好了吗？\" (dibaca: Nǐ bǎ jīntiān de shēngcí fùxí hǎo le ma?) berarti \"Apakah kamu sudah mengulang kosakata baru hari ini dengan tuntas?\". Kalimat ini menggunakan pola \"Subjek + 把 (bǎ) + Objek Definit + Kata Kerja + Pelengkap / 了\" (Kalimat Disposisi 把 (bǎ) Dasar: Pengubahan & Penataan Objek) yang berfungsi untuk kalimat 把 (bǎ) digunakan saat subjek melakukan suatu aksi terhadap objek yang sudah spesifik (definit) sehingga menyebabkan objek tersebut berubah posisi, wujud, atau keadaannya."
       },
       {
         "id": "q-zh-gram-21-pg-4",
@@ -9768,7 +9768,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Seiring perkembangan ekonomi Tiongkok, mahasiswa asing yang datang makin lama makin banyak."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"请大家把手机关上，考试马上开始。\" berarti \"Harap semuanya mematikan ponsel masing-masing, ujian akan segera dimulai.\"."
+        "explanation": "Kalimat \"请大家把手机关上，考试马上开始。\" (dibaca: Qǐng dàjiā bǎ shǒujī guānshàng, kǎoshì mǎshàng kāishǐ.) berarti \"Harap semuanya mematikan ponsel masing-masing, ujian akan segera dimulai.\". Kalimat ini menggunakan pola \"Subjek + 把 (bǎ) + Objek Definit + Kata Kerja + Pelengkap / 了\" (Kalimat Disposisi 把 (bǎ) Dasar: Pengubahan & Penataan Objek) yang berfungsi untuk kalimat 把 (bǎ) digunakan saat subjek melakukan suatu aksi terhadap objek yang sudah spesifik (definit) sehingga menyebabkan objek tersebut berubah posisi, wujud, atau keadaannya."
       },
       {
         "id": "q-zh-gram-21-bb-2",
@@ -9905,7 +9905,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Artikel panjang ini satu karakter Hanzi pun tidak saya kenali."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"老师讲得太快了，我没听懂。\" berarti \"Dosen menjelaskan terlalu cepat, saya tidak paham.\"."
+        "explanation": "Kalimat \"老师讲得太快了，我没听懂。\" (dibaca: Lǎoshī jiǎng de tài kuài le, wǒ méi tīngdǒng.) berarti \"Dosen menjelaskan terlalu cepat, saya tidak paham.\". Kalimat ini menggunakan pola \"Kata Kerja + [完 / 懂 / 见 / 到 / 好] + (Objek)\" (Pelengkap Hasil: 完, 懂, 见, 到, 好 (Resultative Complements)) yang berfungsi untuk pelengkap hasil diletakkan tepat setelah kata kerja untuk menunjukkan hasil akhir tercapainya aksi tersebut (apakah tuntas, paham, terlihat, berhasil didapat, atau siap sempurna)."
       },
       {
         "id": "q-zh-gram-22-pg-2",
@@ -9921,7 +9921,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tingkat kemahiran bahasa Mandarin adik sekarang sama bagusnya dengan saya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"你看到我的眼镜了吗？\" berarti \"Apakah kamu melihat kacamata saya?\"."
+        "explanation": "Kalimat \"你看到我的眼镜了吗？\" (dibaca: Nǐ kàndào wǒ de yǎnjìng le ma?) berarti \"Apakah kamu melihat kacamata saya?\". Kalimat ini menggunakan pola \"Kata Kerja + [完 / 懂 / 见 / 到 / 好] + (Objek)\" (Pelengkap Hasil: 完, 懂, 见, 到, 好 (Resultative Complements)) yang berfungsi untuk pelengkap hasil diletakkan tepat setelah kata kerja untuk menunjukkan hasil akhir tercapainya aksi tersebut (apakah tuntas, paham, terlihat, berhasil didapat, atau siap sempurna)."
       },
       {
         "id": "q-zh-gram-22-pg-3",
@@ -9937,7 +9937,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya sudah berhasil membeli tiket kereta cepat ke Shanghai."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"我已经买到去上海的高铁车票了。\" berarti \"Saya sudah berhasil membeli tiket kereta cepat ke Shanghai.\"."
+        "explanation": "Kalimat \"我已经买到去上海的高铁车票了。\" (dibaca: Wǒ yǐjīng mǎidào qù Shànghǎi de gāotiě chēpiào le.) berarti \"Saya sudah berhasil membeli tiket kereta cepat ke Shanghai.\". Kalimat ini menggunakan pola \"Kata Kerja + [完 / 懂 / 见 / 到 / 好] + (Objek)\" (Pelengkap Hasil: 完, 懂, 见, 到, 好 (Resultative Complements)) yang berfungsi untuk pelengkap hasil diletakkan tepat setelah kata kerja untuk menunjukkan hasil akhir tercapainya aksi tersebut (apakah tuntas, paham, terlihat, berhasil didapat, atau siap sempurna)."
       },
       {
         "id": "q-zh-gram-22-pg-4",
@@ -10228,7 +10228,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dosen menjelaskan terlalu cepat, saya tidak paham."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"老师讲得太快了，我没听懂。\" berarti \"Dosen menjelaskan terlalu cepat, saya tidak paham.\"."
+        "explanation": "Kalimat \"老师讲得太快了，我没听懂。\" (dibaca: Lǎoshī jiǎng de tài kuài le, wǒ méi tīngdǒng.) berarti \"Dosen menjelaskan terlalu cepat, saya tidak paham.\". Kalimat ini menggunakan pola \"Kata Kerja + [完 / 懂 / 见 / 到 / 好] + (Objek)\" (Pelengkap Hasil: 完, 懂, 见, 到, 好 (Resultative Complements)) yang berfungsi untuk pelengkap hasil diletakkan tepat setelah kata kerja untuk menunjukkan hasil akhir tercapainya aksi tersebut (apakah tuntas, paham, terlihat, berhasil didapat, atau siap sempurna)."
       },
       {
         "id": "q-zh-gram-22-bb-2",
@@ -10364,7 +10364,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ukuran sepasang sepatu ini tidak sama dengan yang itu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"这个生词太多了，我一天记不住。\" berarti \"Kosakata baru ini terlalu banyak, saya tidak mampu mengingatnya dalam sehari.\"."
+        "explanation": "Kalimat \"这个生词太多了，我一天记不住。\" (dibaca: Zhè ge shēngcí tài duō le, wǒ yì tiān jì bú zhù.) berarti \"Kosakata baru ini terlalu banyak, saya tidak mampu mengingatnya dalam sehari.\". Kalimat ini menggunakan pola \"Afirmatif: V + 得 + Hasil | Negatif: V + 不 + Hasil\" (Pelengkap Kemungkinan: 得 / 不 (Potential Complements)) yang berfungsi untuk pelengkap kemungkinan digunakan untuk menyatakan apakah suatu hasil aksi DAPAT dicapai (mampu) atau TIDAK DAPAT dicapai (tidak mampu) karena adanya keterbatasan kondisi objektif."
       },
       {
         "id": "q-zh-gram-23-pg-2",
@@ -10380,7 +10380,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Apakah mobil kecil ini muat diduduki 5 orang?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"这辆小汽车坐得下五个人吗？\" berarti \"Apakah mobil kecil ini muat diduduki 5 orang?\"."
+        "explanation": "Kalimat \"这辆小汽车坐得下五个人吗？\" (dibaca: Zhè liàng xiǎoqìchē zuò de xià wǔ ge rén ma?) berarti \"Apakah mobil kecil ini muat diduduki 5 orang?\". Kalimat ini menggunakan pola \"Afirmatif: V + 得 + Hasil | Negatif: V + 不 + Hasil\" (Pelengkap Kemungkinan: 得 / 不 (Potential Complements)) yang berfungsi untuk pelengkap kemungkinan digunakan untuk menyatakan apakah suatu hasil aksi DAPAT dicapai (mampu) atau TIDAK DAPAT dicapai (tidak mampu) karena adanya keterbatasan kondisi objektif."
       },
       {
         "id": "q-zh-gram-23-pg-3",
@@ -10396,7 +10396,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Burung kecil terbang turun dari atas pohon."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"作业太多了，我今晚做不完。\" berarti \"PR terlalu banyak, saya tidak akan mampu menyelesaikannya malam ini.\"."
+        "explanation": "Kalimat \"作业太多了，我今晚做不完。\" (dibaca: Zuòyè tài duō le, wǒ jīnwǎn zuò bù wán.) berarti \"PR terlalu banyak, saya tidak akan mampu menyelesaikannya malam ini.\". Kalimat ini menggunakan pola \"Afirmatif: V + 得 + Hasil | Negatif: V + 不 + Hasil\" (Pelengkap Kemungkinan: 得 / 不 (Potential Complements)) yang berfungsi untuk pelengkap kemungkinan digunakan untuk menyatakan apakah suatu hasil aksi DAPAT dicapai (mampu) atau TIDAK DAPAT dicapai (tidak mampu) karena adanya keterbatasan kondisi objektif."
       },
       {
         "id": "q-zh-gram-23-pg-4",
@@ -10689,7 +10689,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tingkat kemahiran bahasa Mandarin adik sekarang sama bagusnya dengan saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"这个生词太多了，我一天记不住。\" berarti \"Kosakata baru ini terlalu banyak, saya tidak mampu mengingatnya dalam sehari.\"."
+        "explanation": "Kalimat \"这个生词太多了，我一天记不住。\" (dibaca: Zhè ge shēngcí tài duō le, wǒ yì tiān jì bú zhù.) berarti \"Kosakata baru ini terlalu banyak, saya tidak mampu mengingatnya dalam sehari.\". Kalimat ini menggunakan pola \"Afirmatif: V + 得 + Hasil | Negatif: V + 不 + Hasil\" (Pelengkap Kemungkinan: 得 / 不 (Potential Complements)) yang berfungsi untuk pelengkap kemungkinan digunakan untuk menyatakan apakah suatu hasil aksi DAPAT dicapai (mampu) atau TIDAK DAPAT dicapai (tidak mampu) karena adanya keterbatasan kondisi objektif."
       },
       {
         "id": "q-zh-gram-23-bb-2",
@@ -10823,7 +10823,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Seiring perkembangan ekonomi Tiongkok, mahasiswa asing yang datang makin lama makin banyak."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"随着中国经济的发展，来华留学生越来越多。\" berarti \"Seiring perkembangan ekonomi Tiongkok, mahasiswa asing yang datang makin lama makin banyak.\"."
+        "explanation": "Kalimat \"随着中国经济的发展，来华留学生越来越多。\" (dibaca: Suízhe Zhōngguó jīngjì de fāzhǎn, lái Huá liúxuéshēng yuè lái yuè duō.) berarti \"Seiring perkembangan ekonomi Tiongkok, mahasiswa asing yang datang makin lama makin banyak.\". Kalimat ini menggunakan pola \"Subjek + 越来越 + Kata Sifat | 越 + A + 越 + B\" (Pola Korelasi Bertahap: 越来越 (Makin Lama Makin) & 越...越...) yang berfungsi untuk pola 越来越 menyatakan peningkatan derajat kualitas seiring berjalannya waktu. Pola 越 A 越 B menyatakan bahwa perubahan kondisi B bergantung secara proporsional pada intensitas kondisi A (makin A maka makin B)."
       },
       {
         "id": "q-zh-gram-24-pg-2",
@@ -10839,7 +10839,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Karena kamu sudah memutuskan kuliah ke Tiongkok, maka wajib menguasai bahasa Mandarin lebih awal dengan baik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"这本书非常吸引人，我越看越想看。\" berarti \"Buku ini sangat memikat, makin saya baca makin ingin terus membaca.\"."
+        "explanation": "Kalimat \"这本书非常吸引人，我越看越想看。\" (dibaca: Zhè běn shū fēicháng xīyǐnrén, wǒ yuè kàn yuè xiǎng kàn.) berarti \"Buku ini sangat memikat, makin saya baca makin ingin terus membaca.\". Kalimat ini menggunakan pola \"Subjek + 越来越 + Kata Sifat | 越 + A + 越 + B\" (Pola Korelasi Bertahap: 越来越 (Makin Lama Makin) & 越...越...) yang berfungsi untuk pola 越来越 menyatakan peningkatan derajat kualitas seiring berjalannya waktu. Pola 越 A 越 B menyatakan bahwa perubahan kondisi B bergantung secara proporsional pada intensitas kondisi A (makin A maka makin B)."
       },
       {
         "id": "q-zh-gram-24-pg-3",
@@ -10855,7 +10855,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Karena perkaranya sudah terlanjur terjadi, menyesal pun tidak ada gunanya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"中文语法其实是越用越熟练的。\" berarti \"Tata bahasa Mandarin sebenarnya makin sering digunakan akan makin mahir.\"."
+        "explanation": "Kalimat \"中文语法其实是越用越熟练的。\" (dibaca: Zhōngwén yǔfǎ qíshí shì yuè yòng yuè shúliàn de.) berarti \"Tata bahasa Mandarin sebenarnya makin sering digunakan akan makin mahir.\". Kalimat ini menggunakan pola \"Subjek + 越来越 + Kata Sifat | 越 + A + 越 + B\" (Pola Korelasi Bertahap: 越来越 (Makin Lama Makin) & 越...越...) yang berfungsi untuk pola 越来越 menyatakan peningkatan derajat kualitas seiring berjalannya waktu. Pola 越 A 越 B menyatakan bahwa perubahan kondisi B bergantung secara proporsional pada intensitas kondisi A (makin A maka makin B)."
       },
       {
         "id": "q-zh-gram-24-pg-4",
@@ -11154,7 +11154,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dia mengeluarkan sebuah kamus bahasa Mandarin tebal dari dalam tasnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"随着中国经济的发展，来华留学生越来越多。\" berarti \"Seiring perkembangan ekonomi Tiongkok, mahasiswa asing yang datang makin lama makin banyak.\"."
+        "explanation": "Kalimat \"随着中国经济的发展，来华留学生越来越多。\" (dibaca: Suízhe Zhōngguó jīngjì de fāzhǎn, lái Huá liúxuéshēng yuè lái yuè duō.) berarti \"Seiring perkembangan ekonomi Tiongkok, mahasiswa asing yang datang makin lama makin banyak.\". Kalimat ini menggunakan pola \"Subjek + 越来越 + Kata Sifat | 越 + A + 越 + B\" (Pola Korelasi Bertahap: 越来越 (Makin Lama Makin) & 越...越...) yang berfungsi untuk pola 越来越 menyatakan peningkatan derajat kualitas seiring berjalannya waktu. Pola 越 A 越 B menyatakan bahwa perubahan kondisi B bergantung secara proporsional pada intensitas kondisi A (makin A maka makin B)."
       },
       {
         "id": "q-zh-gram-24-bb-2",
@@ -11288,7 +11288,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Karena hari ini sakit tidak enak badan, maka tinggallah di asrama dan istirahatlah dengan baik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"虽然学了一整天，但我一点儿也不觉得困。\" berarti \"Meskipun belajar seharian penuh, saya sama sekali tidak merasa mengantuk.\"."
+        "explanation": "Kalimat \"虽然学了一整天，但我一点儿也不觉得困。\" (dibaca: Suīrán xué le yì zhěng tiān, dàn wǒ yìdiǎnr yě bù juéde kùn.) berarti \"Meskipun belajar seharian penuh, saya sama sekali tidak merasa mengantuk.\". Kalimat ini menggunakan pola \"Subjek + 一点儿也 / 都不 + Kata Sifat / Kata Kerja\" (Pola Penyangkalan Mutlak: 一点儿也/都不 (Sama Sekali Tidak)) yang berfungsi untuk untuk menekankan penyangkalan 100% ('sama sekali tidak ada / sedikit pun tidak'), bahasa Mandarin menggunakan pola 一点儿 (yìdiǎnr) diikuti 也 (yě) atau 都 (dōu), lalu diikuti negasi 不 atau 没."
       },
       {
         "id": "q-zh-gram-25-pg-2",
@@ -11304,7 +11304,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Di papan tulis tertulis instruksi tugas PR hari ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这篇长文章我一个汉字都不认识。\" berarti \"Artikel panjang ini satu karakter Hanzi pun tidak saya kenali.\"."
+        "explanation": "Kalimat \"这篇长文章我一个汉字都不认识。\" (dibaca: Zhè piān cháng wénzhāng wǒ yí ge Hànzì dōu bú rènshi.) berarti \"Artikel panjang ini satu karakter Hanzi pun tidak saya kenali.\". Kalimat ini menggunakan pola \"Subjek + 一点儿也 / 都不 + Kata Sifat / Kata Kerja\" (Pola Penyangkalan Mutlak: 一点儿也/都不 (Sama Sekali Tidak)) yang berfungsi untuk untuk menekankan penyangkalan 100% ('sama sekali tidak ada / sedikit pun tidak'), bahasa Mandarin menggunakan pola 一点儿 (yìdiǎnr) diikuti 也 (yě) atau 都 (dōu), lalu diikuti negasi 不 atau 没."
       },
       {
         "id": "q-zh-gram-25-pg-3",
@@ -11320,7 +11320,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Semua teman sekelas duduk sambil menyimak perkuliahan dengan sungguh-sungguh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"明天有期末大考，他一点儿都不紧张。\" berarti \"Besok ada ujian akhir semester, dia sama sekali tidak gugup.\"."
+        "explanation": "Kalimat \"明天有期末大考，他一点儿都不紧张。\" (dibaca: Míngtiān yǒu qīmò dàkǎo, tā yìdiǎnr dōu bù jǐnzhāng.) berarti \"Besok ada ujian akhir semester, dia sama sekali tidak gugup.\". Kalimat ini menggunakan pola \"Subjek + 一点儿也 / 都不 + Kata Sifat / Kata Kerja\" (Pola Penyangkalan Mutlak: 一点儿也/都不 (Sama Sekali Tidak)) yang berfungsi untuk untuk menekankan penyangkalan 100% ('sama sekali tidak ada / sedikit pun tidak'), bahasa Mandarin menggunakan pola 一点儿 (yìdiǎnr) diikuti 也 (yě) atau 都 (dōu), lalu diikuti negasi 不 atau 没."
       },
       {
         "id": "q-zh-gram-25-pg-4",
@@ -11615,7 +11615,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Karena kamu sudah memutuskan kuliah ke Tiongkok, maka wajib menguasai bahasa Mandarin lebih awal dengan baik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"虽然学了一整天，但我一点儿也不觉得困。\" berarti \"Meskipun belajar seharian penuh, saya sama sekali tidak merasa mengantuk.\"."
+        "explanation": "Kalimat \"虽然学了一整天，但我一点儿也不觉得困。\" (dibaca: Suīrán xué le yì zhěng tiān, dàn wǒ yìdiǎnr yě bù juéde kùn.) berarti \"Meskipun belajar seharian penuh, saya sama sekali tidak merasa mengantuk.\". Kalimat ini menggunakan pola \"Subjek + 一点儿也 / 都不 + Kata Sifat / Kata Kerja\" (Pola Penyangkalan Mutlak: 一点儿也/都不 (Sama Sekali Tidak)) yang berfungsi untuk untuk menekankan penyangkalan 100% ('sama sekali tidak ada / sedikit pun tidak'), bahasa Mandarin menggunakan pola 一点儿 (yìdiǎnr) diikuti 也 (yě) atau 都 (dōu), lalu diikuti negasi 不 atau 没."
       },
       {
         "id": "q-zh-gram-25-bb-2",
@@ -11749,7 +11749,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Lampu di luar masih dalam keadaan menyala, cepat pergi matikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"弟弟现在的汉语水平跟我一样好。\" berarti \"Tingkat kemahiran bahasa Mandarin adik sekarang sama bagusnya dengan saya.\"."
+        "explanation": "Kalimat \"弟弟现在的汉语水平跟我一样好。\" (dibaca: Dìdi xiànzài de Hànyǔ shuǐpíng gēn wǒ yíyàng hǎo.) berarti \"Tingkat kemahiran bahasa Mandarin adik sekarang sama bagusnya dengan saya.\". Kalimat ini menggunakan pola \"A + 跟 / 和 (gēn / hé) + B + 一样 (yíyàng) (+ Kata Sifat)\" (Perbandingan Kesetaraan dengan 跟 / 和...一样 (Sama Seperti)) yang berfungsi untuk untuk menyatakan bahwa dua hal sama, serupa, atau memiliki derajat sifat yang setara, bahasa Mandarin menggunakan pola A 跟 B 一样. Bentuk negatifnya menggunakan A 跟 B 不一样."
       },
       {
         "id": "q-zh-gram-26-pg-2",
@@ -11765,7 +11765,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Meskipun belajar bahasa Mandarin sulit, tetapi asalkan tekun mengulang setiap hari, pasti akan makin dipelajari makin bagus."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"这双鞋的大小跟那双不一样。\" berarti \"Ukuran sepasang sepatu ini tidak sama dengan yang itu.\"."
+        "explanation": "Kalimat \"这双鞋的大小跟那双不一样。\" (dibaca: Zhè shuāng xié de dàxiǎo gēn nà shuāng bù yíyàng.) berarti \"Ukuran sepasang sepatu ini tidak sama dengan yang itu.\". Kalimat ini menggunakan pola \"A + 跟 / 和 (gēn / hé) + B + 一样 (yíyàng) (+ Kata Sifat)\" (Perbandingan Kesetaraan dengan 跟 / 和...一样 (Sama Seperti)) yang berfungsi untuk untuk menyatakan bahwa dua hal sama, serupa, atau memiliki derajat sifat yang setara, bahasa Mandarin menggunakan pola A 跟 B 一样. Bentuk negatifnya menggunakan A 跟 B 不一样."
       },
       {
         "id": "q-zh-gram-26-pg-3",
@@ -11781,7 +11781,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Harga barang di Shanghai sama mahalnya dengan di Beijing."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"上海的物价和北京一样贵。\" berarti \"Harga barang di Shanghai sama mahalnya dengan di Beijing.\"."
+        "explanation": "Kalimat \"上海的物价和北京一样贵。\" (dibaca: Shànghǎi de wùjià hé Běijīng yíyàng guì.) berarti \"Harga barang di Shanghai sama mahalnya dengan di Beijing.\". Kalimat ini menggunakan pola \"A + 跟 / 和 (gēn / hé) + B + 一样 (yíyàng) (+ Kata Sifat)\" (Perbandingan Kesetaraan dengan 跟 / 和...一样 (Sama Seperti)) yang berfungsi untuk untuk menyatakan bahwa dua hal sama, serupa, atau memiliki derajat sifat yang setara, bahasa Mandarin menggunakan pola A 跟 B 一样. Bentuk negatifnya menggunakan A 跟 B 不一样."
       },
       {
         "id": "q-zh-gram-26-pg-4",
@@ -12074,7 +12074,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tingkat kemahiran bahasa Mandarin adik sekarang sama bagusnya dengan saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"弟弟现在的汉语水平跟我一样好。\" berarti \"Tingkat kemahiran bahasa Mandarin adik sekarang sama bagusnya dengan saya.\"."
+        "explanation": "Kalimat \"弟弟现在的汉语水平跟我一样好。\" (dibaca: Dìdi xiànzài de Hànyǔ shuǐpíng gēn wǒ yíyàng hǎo.) berarti \"Tingkat kemahiran bahasa Mandarin adik sekarang sama bagusnya dengan saya.\". Kalimat ini menggunakan pola \"A + 跟 / 和 (gēn / hé) + B + 一样 (yíyàng) (+ Kata Sifat)\" (Perbandingan Kesetaraan dengan 跟 / 和...一样 (Sama Seperti)) yang berfungsi untuk untuk menyatakan bahwa dua hal sama, serupa, atau memiliki derajat sifat yang setara, bahasa Mandarin menggunakan pola A 跟 B 一样. Bentuk negatifnya menggunakan A 跟 B 不一样."
       },
       {
         "id": "q-zh-gram-26-bb-2",
@@ -12212,7 +12212,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya sudah merapikan semua barang bawaan, besok pagi berangkat naik kereta cepat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"他从书包里拿出来一本厚厚的汉语词典。\" berarti \"Dia mengeluarkan sebuah kamus bahasa Mandarin tebal dari dalam tasnya.\"."
+        "explanation": "Kalimat \"他从书包里拿出来一本厚厚的汉语词典。\" (dibaca: Tā cóng shūbāo lǐ ná chūlái yì běn hòuhòu de Hànyǔ cídiǎn.) berarti \"Dia mengeluarkan sebuah kamus bahasa Mandarin tebal dari dalam tasnya.\". Kalimat ini menggunakan pola \"Kata Kerja Aksi + [上/下/进/出/回/过/起] + [来/去]\" (Pelengkap Arah Majemuk (Compound Directional Complements)) yang berfungsi untuk pelengkap arah majemuk menggabungkan arah dasar (naik/turun/masuk/keluar/kembali/lewat) dengan posisi pembicara (来 mendekat / 去 menjauh) untuk mendeskripsikan dinamika pergerakan secara presisi."
       },
       {
         "id": "q-zh-gram-27-pg-2",
@@ -12228,7 +12228,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Harap semuanya berdiri, bersama-sama membaca nyaring teks pelajaran ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"请大家站起来，一起朗读这篇课文。\" berarti \"Harap semuanya berdiri, bersama-sama membaca nyaring teks pelajaran ini.\"."
+        "explanation": "Kalimat \"请大家站起来，一起朗读这篇课文。\" (dibaca: Qǐng dàjiā zhàn qǐlái, yìqǐ lǎngdú zhè piān kèwén.) berarti \"Harap semuanya berdiri, bersama-sama membaca nyaring teks pelajaran ini.\". Kalimat ini menggunakan pola \"Kata Kerja Aksi + [上/下/进/出/回/过/起] + [来/去]\" (Pelengkap Arah Majemuk (Compound Directional Complements)) yang berfungsi untuk pelengkap arah majemuk menggabungkan arah dasar (naik/turun/masuk/keluar/kembali/lewat) dengan posisi pembicara (来 mendekat / 去 menjauh) untuk mendeskripsikan dinamika pergerakan secara presisi."
       },
       {
         "id": "q-zh-gram-27-pg-3",
@@ -12244,7 +12244,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu sudah mengulang kosakata baru hari ini dengan tuntas?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"小鸟从树上飞下来了。\" berarti \"Burung kecil terbang turun dari atas pohon.\"."
+        "explanation": "Kalimat \"小鸟从树上飞下来了。\" (dibaca: Xiǎoniǎo cóng shù shàng fēi xiàlái le.) berarti \"Burung kecil terbang turun dari atas pohon.\". Kalimat ini menggunakan pola \"Kata Kerja Aksi + [上/下/进/出/回/过/起] + [来/去]\" (Pelengkap Arah Majemuk (Compound Directional Complements)) yang berfungsi untuk pelengkap arah majemuk menggabungkan arah dasar (naik/turun/masuk/keluar/kembali/lewat) dengan posisi pembicara (来 mendekat / 去 menjauh) untuk mendeskripsikan dinamika pergerakan secara presisi."
       },
       {
         "id": "q-zh-gram-27-pg-4",
@@ -12537,7 +12537,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Meskipun belajar bahasa Mandarin sulit, tetapi asalkan tekun mengulang setiap hari, pasti akan makin dipelajari makin bagus."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"他从书包里拿出来一本厚厚的汉语词典。\" berarti \"Dia mengeluarkan sebuah kamus bahasa Mandarin tebal dari dalam tasnya.\"."
+        "explanation": "Kalimat \"他从书包里拿出来一本厚厚的汉语词典。\" (dibaca: Tā cóng shūbāo lǐ ná chūlái yì běn hòuhòu de Hànyǔ cídiǎn.) berarti \"Dia mengeluarkan sebuah kamus bahasa Mandarin tebal dari dalam tasnya.\". Kalimat ini menggunakan pola \"Kata Kerja Aksi + [上/下/进/出/回/过/起] + [来/去]\" (Pelengkap Arah Majemuk (Compound Directional Complements)) yang berfungsi untuk pelengkap arah majemuk menggabungkan arah dasar (naik/turun/masuk/keluar/kembali/lewat) dengan posisi pembicara (来 mendekat / 去 menjauh) untuk mendeskripsikan dinamika pergerakan secara presisi."
       },
       {
         "id": "q-zh-gram-27-bb-2",
@@ -12670,7 +12670,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Karena kamu sudah memutuskan kuliah ke Tiongkok, maka wajib menguasai bahasa Mandarin lebih awal dengan baik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"既然你决定去中国留学，就一定要提前把汉语学好。\" berarti \"Karena kamu sudah memutuskan kuliah ke Tiongkok, maka wajib menguasai bahasa Mandarin lebih awal dengan baik.\"."
+        "explanation": "Kalimat \"既然你决定去中国留学，就一定要提前把汉语学好。\" (dibaca: Jìrán nǐ juédìng qù Zhōngguó liúxué, jiù yídìng yào tíqián bǎ Hànyǔ xuéhǎo.) berarti \"Karena kamu sudah memutuskan kuliah ke Tiongkok, maka wajib menguasai bahasa Mandarin lebih awal dengan baik.\". Kalimat ini menggunakan pola \"既然 (jìrán) + Fakta yang Sudah Terjadi / Diketahui, Subjek + 就 (jiù) + Kesimpulan / Tindakan\" (Hubungan Sebab-Akibat Kompleks: 既然...就... (Karena Sudah... Maka...)) yang berfungsi untuk sementara 因为...所以... menyatakan hubungan sebab-akibat objektif biasa, konjungsi 既然...就... digunakan saat premis sebab SUDAH TERJADI atau SUDAH DISETUJUI BERSAMA, dan penutur menyarankan tindakan logis berdasarkan kenyataan tersebut ('karena sudah terlanjur begini, maka sebaiknya...')."
       },
       {
         "id": "q-zh-gram-28-pg-2",
@@ -12686,7 +12686,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dosen menjelaskan terlalu cepat, saya tidak paham."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"既然今天生病不舒服，就留在宿舍好好休息吧。\" berarti \"Karena hari ini sakit tidak enak badan, maka tinggallah di asrama dan istirahatlah dengan baik.\"."
+        "explanation": "Kalimat \"既然今天生病不舒服，就留在宿舍好好休息吧。\" (dibaca: Jìrán jīntiān shēngbìng bù shūfu, jiù liú zài sùshè hǎohāo xiūxi ba.) berarti \"Karena hari ini sakit tidak enak badan, maka tinggallah di asrama dan istirahatlah dengan baik.\". Kalimat ini menggunakan pola \"既然 (jìrán) + Fakta yang Sudah Terjadi / Diketahui, Subjek + 就 (jiù) + Kesimpulan / Tindakan\" (Hubungan Sebab-Akibat Kompleks: 既然...就... (Karena Sudah... Maka...)) yang berfungsi untuk sementara 因为...所以... menyatakan hubungan sebab-akibat objektif biasa, konjungsi 既然...就... digunakan saat premis sebab SUDAH TERJADI atau SUDAH DISETUJUI BERSAMA, dan penutur menyarankan tindakan logis berdasarkan kenyataan tersebut ('karena sudah terlanjur begini, maka sebaiknya...')."
       },
       {
         "id": "q-zh-gram-28-pg-3",
@@ -12702,7 +12702,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Saya sudah berhasil membeli tiket kereta cepat ke Shanghai."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"既然事情已经发生了，后悔也没有用了。\" berarti \"Karena perkaranya sudah terlanjur terjadi, menyesal pun tidak ada gunanya.\"."
+        "explanation": "Kalimat \"既然事情已经发生了，后悔也没有用了。\" (dibaca: Jìrán shìqing yǐjīng fāshēng le, hòuhuǐ yě méiyǒu yòng le.) berarti \"Karena perkaranya sudah terlanjur terjadi, menyesal pun tidak ada gunanya.\". Kalimat ini menggunakan pola \"既然 (jìrán) + Fakta yang Sudah Terjadi / Diketahui, Subjek + 就 (jiù) + Kesimpulan / Tindakan\" (Hubungan Sebab-Akibat Kompleks: 既然...就... (Karena Sudah... Maka...)) yang berfungsi untuk sementara 因为...所以... menyatakan hubungan sebab-akibat objektif biasa, konjungsi 既然...就... digunakan saat premis sebab SUDAH TERJADI atau SUDAH DISETUJUI BERSAMA, dan penutur menyarankan tindakan logis berdasarkan kenyataan tersebut ('karena sudah terlanjur begini, maka sebaiknya...')."
       },
       {
         "id": "q-zh-gram-28-pg-4",
@@ -13001,7 +13001,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Harap semuanya mematikan ponsel masing-masing, ujian akan segera dimulai."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"既然你决定去中国留学，就一定要提前把汉语学好。\" berarti \"Karena kamu sudah memutuskan kuliah ke Tiongkok, maka wajib menguasai bahasa Mandarin lebih awal dengan baik.\"."
+        "explanation": "Kalimat \"既然你决定去中国留学，就一定要提前把汉语学好。\" (dibaca: Jìrán nǐ juédìng qù Zhōngguó liúxué, jiù yídìng yào tíqián bǎ Hànyǔ xuéhǎo.) berarti \"Karena kamu sudah memutuskan kuliah ke Tiongkok, maka wajib menguasai bahasa Mandarin lebih awal dengan baik.\". Kalimat ini menggunakan pola \"既然 (jìrán) + Fakta yang Sudah Terjadi / Diketahui, Subjek + 就 (jiù) + Kesimpulan / Tindakan\" (Hubungan Sebab-Akibat Kompleks: 既然...就... (Karena Sudah... Maka...)) yang berfungsi untuk sementara 因为...所以... menyatakan hubungan sebab-akibat objektif biasa, konjungsi 既然...就... digunakan saat premis sebab SUDAH TERJADI atau SUDAH DISETUJUI BERSAMA, dan penutur menyarankan tindakan logis berdasarkan kenyataan tersebut ('karena sudah terlanjur begini, maka sebaiknya...')."
       },
       {
         "id": "q-zh-gram-28-bb-2",
@@ -13137,7 +13137,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu melihat kacamata saya?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"黑板上写着今天的作业要求。\" berarti \"Di papan tulis tertulis instruksi tugas PR hari ini.\"."
+        "explanation": "Kalimat \"黑板上写着今天的作业要求。\" (dibaca: Hēibǎn shàng xiě zhe jīntiān de zuòyè yāoqiú.) berarti \"Di papan tulis tertulis instruksi tugas PR hari ini.\". Kalimat ini menggunakan pola \"Kata Kerja + 着 (zhe) (+ Pelengkap Objek)\" (Partikel Aspek Keberlanjutan Kondisi 着 (zhe)) yang berfungsi untuk partikel 着 (zhe) digunakan untuk menyatakan bahwa suatu KONDISI atau KEADAAN hasil aksi sedang terus berlangsung (statis/diam), berbeda dengan 在 (zài) yang menandakan aksi dinamis aktif yang sedang bergerak."
       },
       {
         "id": "q-zh-gram-29-pg-2",
@@ -13153,7 +13153,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kosakata baru ini terlalu banyak, saya tidak mampu mengingatnya dalam sehari."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"外面的灯还亮着呢，快去关上。\" berarti \"Lampu di luar masih dalam keadaan menyala, cepat pergi matikan.\"."
+        "explanation": "Kalimat \"外面的灯还亮着呢，快去关上。\" (dibaca: Wàimiàn de dēng hái liàng zhe ne, kuài qù guānshàng.) berarti \"Lampu di luar masih dalam keadaan menyala, cepat pergi matikan.\". Kalimat ini menggunakan pola \"Kata Kerja + 着 (zhe) (+ Pelengkap Objek)\" (Partikel Aspek Keberlanjutan Kondisi 着 (zhe)) yang berfungsi untuk partikel 着 (zhe) digunakan untuk menyatakan bahwa suatu KONDISI atau KEADAAN hasil aksi sedang terus berlangsung (statis/diam), berbeda dengan 在 (zài) yang menandakan aksi dinamis aktif yang sedang bergerak."
       },
       {
         "id": "q-zh-gram-29-pg-3",
@@ -13169,7 +13169,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "PR terlalu banyak, saya tidak akan mampu menyelesaikannya malam ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"同学们都坐着认真听课。\" berarti \"Semua teman sekelas duduk sambil menyimak perkuliahan dengan sungguh-sungguh.\"."
+        "explanation": "Kalimat \"同学们都坐着认真听课。\" (dibaca: Tóngxuémen dōu zuò zhe rènzhēn tīngkè.) berarti \"Semua teman sekelas duduk sambil menyimak perkuliahan dengan sungguh-sungguh.\". Kalimat ini menggunakan pola \"Kata Kerja + 着 (zhe) (+ Pelengkap Objek)\" (Partikel Aspek Keberlanjutan Kondisi 着 (zhe)) yang berfungsi untuk partikel 着 (zhe) digunakan untuk menyatakan bahwa suatu KONDISI atau KEADAAN hasil aksi sedang terus berlangsung (statis/diam), berbeda dengan 在 (zài) yang menandakan aksi dinamis aktif yang sedang bergerak."
       },
       {
         "id": "q-zh-gram-29-pg-4",
@@ -13468,7 +13468,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dosen menjelaskan terlalu cepat, saya tidak paham."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"黑板上写着今天的作业要求。\" berarti \"Di papan tulis tertulis instruksi tugas PR hari ini.\"."
+        "explanation": "Kalimat \"黑板上写着今天的作业要求。\" (dibaca: Hēibǎn shàng xiě zhe jīntiān de zuòyè yāoqiú.) berarti \"Di papan tulis tertulis instruksi tugas PR hari ini.\". Kalimat ini menggunakan pola \"Kata Kerja + 着 (zhe) (+ Pelengkap Objek)\" (Partikel Aspek Keberlanjutan Kondisi 着 (zhe)) yang berfungsi untuk partikel 着 (zhe) digunakan untuk menyatakan bahwa suatu KONDISI atau KEADAAN hasil aksi sedang terus berlangsung (statis/diam), berbeda dengan 在 (zài) yang menandakan aksi dinamis aktif yang sedang bergerak."
       },
       {
         "id": "q-zh-gram-29-bb-2",
@@ -13603,7 +13603,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Apakah mobil kecil ini muat diduduki 5 orang?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"虽然学汉语很难，但只要坚持每天复习，就一定会越学越好。\" berarti \"Meskipun belajar bahasa Mandarin sulit, tetapi asalkan tekun mengulang setiap hari, pasti akan makin dipelajari makin bagus.\"."
+        "explanation": "Kalimat \"虽然学汉语很难，但只要坚持每天复习，就一定会越学越好。\" (dibaca: Suīrán xué Hànyǔ hěn nán, dàn zhǐyào jiānchí měitiān fùxí, jiù yídìng huì yuè xué yuè hǎo.) berarti \"Meskipun belajar bahasa Mandarin sulit, tetapi asalkan tekun mengulang setiap hari, pasti akan makin dipelajari makin bagus.\". Kalimat ini menggunakan pola \"Korelasi Wacana HSK 3: Meskipun... Tetapi... | Jika... Maka... | Karena... Maka...\" (Struktur Kalimat Majemuk Bertingkat & Evaluasi Komprehensif HSK 3) yang berfungsi untuk unit puncak HSK 3 mengintegrasikan seluruh konstruksi tata bahasa tingkat menengah: kalimat 把, pelengkap hasil, kemungkinan, perbandingan kesetaraan, dan hubungan logika antarklausa untuk membentuk paragraf utuh yang koheren."
       },
       {
         "id": "q-zh-gram-30-pg-2",
@@ -13619,7 +13619,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Seiring perkembangan ekonomi Tiongkok, mahasiswa asing yang datang makin lama makin banyak."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我已经把所有的行李都收拾好了，明天早上坐高铁出发。\" berarti \"Saya sudah merapikan semua barang bawaan, besok pagi berangkat naik kereta cepat.\"."
+        "explanation": "Kalimat \"我已经把所有的行李都收拾好了，明天早上坐高铁出发。\" (dibaca: Wǒ yǐjīng bǎ suǒyǒu de xíngli dōu shōushi hǎo le, míngtiān zǎoshang zuò gāotiě chūfā.) berarti \"Saya sudah merapikan semua barang bawaan, besok pagi berangkat naik kereta cepat.\". Kalimat ini menggunakan pola \"Korelasi Wacana HSK 3: Meskipun... Tetapi... | Jika... Maka... | Karena... Maka...\" (Struktur Kalimat Majemuk Bertingkat & Evaluasi Komprehensif HSK 3) yang berfungsi untuk unit puncak HSK 3 mengintegrasikan seluruh konstruksi tata bahasa tingkat menengah: kalimat 把, pelengkap hasil, kemungkinan, perbandingan kesetaraan, dan hubungan logika antarklausa untuk membentuk paragraf utuh yang koheren."
       },
       {
         "id": "q-zh-gram-30-pg-3",
@@ -13635,7 +13635,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Asalkan kamu setiap hari tekun berlatih percakapan lisan, maka kamu akan bisa berkomunikasi dengan orang Tiongkok menggunakan bahasa Mandarin secara lancar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"只要你每天坚持练习口语，就能流利地用汉语跟中国人交流。\" berarti \"Asalkan kamu setiap hari tekun berlatih percakapan lisan, maka kamu akan bisa berkomunikasi dengan orang Tiongkok menggunakan bahasa Mandarin secara lancar.\"."
+        "explanation": "Kalimat \"只要你每天坚持练习口语，就能流利地用汉语跟中国人交流。\" (dibaca: Zhǐyào nǐ měitiān jiānchí liànxí kǒuyǔ, jiù néng liúlì de yòng Hànyǔ gēn Zhōngguórén jiāoliú.) berarti \"Asalkan kamu setiap hari tekun berlatih percakapan lisan, maka kamu akan bisa berkomunikasi dengan orang Tiongkok menggunakan bahasa Mandarin secara lancar.\". Kalimat ini menggunakan pola \"Korelasi Wacana HSK 3: Meskipun... Tetapi... | Jika... Maka... | Karena... Maka...\" (Struktur Kalimat Majemuk Bertingkat & Evaluasi Komprehensif HSK 3) yang berfungsi untuk unit puncak HSK 3 mengintegrasikan seluruh konstruksi tata bahasa tingkat menengah: kalimat 把, pelengkap hasil, kemungkinan, perbandingan kesetaraan, dan hubungan logika antarklausa untuk membentuk paragraf utuh yang koheren."
       },
       {
         "id": "q-zh-gram-30-pg-4",
@@ -13934,7 +13934,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Meskipun belajar bahasa Mandarin sulit, tetapi asalkan tekun mengulang setiap hari, pasti akan makin dipelajari makin bagus."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"虽然学汉语很难，但只要坚持每天复习，就一定会越学越好。\" berarti \"Meskipun belajar bahasa Mandarin sulit, tetapi asalkan tekun mengulang setiap hari, pasti akan makin dipelajari makin bagus.\"."
+        "explanation": "Kalimat \"虽然学汉语很难，但只要坚持每天复习，就一定会越学越好。\" (dibaca: Suīrán xué Hànyǔ hěn nán, dàn zhǐyào jiānchí měitiān fùxí, jiù yídìng huì yuè xué yuè hǎo.) berarti \"Meskipun belajar bahasa Mandarin sulit, tetapi asalkan tekun mengulang setiap hari, pasti akan makin dipelajari makin bagus.\". Kalimat ini menggunakan pola \"Korelasi Wacana HSK 3: Meskipun... Tetapi... | Jika... Maka... | Karena... Maka...\" (Struktur Kalimat Majemuk Bertingkat & Evaluasi Komprehensif HSK 3) yang berfungsi untuk unit puncak HSK 3 mengintegrasikan seluruh konstruksi tata bahasa tingkat menengah: kalimat 把, pelengkap hasil, kemungkinan, perbandingan kesetaraan, dan hubungan logika antarklausa untuk membentuk paragraf utuh yang koheren."
       },
       {
         "id": "q-zh-gram-30-bb-2",
@@ -14068,7 +14068,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya jika memegang visa pelajar yang masih berlaku, baru bisa mendaftar kuliah secara sah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"请把申请表交给留学生办公室的王老师。\" berarti \"Harap serahkan formulir pendaftaran kepada Dosen Wang di kantor mahasiswa internasional.\"."
+        "explanation": "Kalimat \"请把申请表交给留学生办公室的王老师。\" (dibaca: Qǐng bǎ shēnqǐngbiǎo jiāogěi liúxuéshēng bàngōngshì de Wáng lǎoshī.) berarti \"Harap serahkan formulir pendaftaran kepada Dosen Wang di kantor mahasiswa internasional.\". Kalimat ini menggunakan pola \"Subjek + 把 + Objek + Kata Kerja + [在 / 到 / 给 / 成] + Tempat / Penerima\" (Kalimat 把 (bǎ) Lanjut: Pemindahan & Transformasi Lokasi (把 A 放到 B)) yang berfungsi untuk kalimat 把 tingkat lanjut berfokus pada hasil perpindahan fisik atau transformasi abstrak dari objek ke tempat atau status baru menggunakan preposisi 在, 到, 给, atau 成."
       },
       {
         "id": "q-zh-gram-31-pg-2",
@@ -14084,7 +14084,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dia menerjemahkan novel bahasa Inggris terkenal ini ke dalam bahasa Mandarin modern."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"他把这本著名的英文小说翻译成了现代汉语。\" berarti \"Dia menerjemahkan novel bahasa Inggris terkenal ini ke dalam bahasa Mandarin modern.\"."
+        "explanation": "Kalimat \"他把这本著名的英文小说翻译成了现代汉语。\" (dibaca: Tā bǎ zhè běn zhùmíng de Yīngwén xiǎoshuō fānyì chéng le xiàndài Hànyǔ.) berarti \"Dia menerjemahkan novel bahasa Inggris terkenal ini ke dalam bahasa Mandarin modern.\". Kalimat ini menggunakan pola \"Subjek + 把 + Objek + Kata Kerja + [在 / 到 / 给 / 成] + Tempat / Penerima\" (Kalimat 把 (bǎ) Lanjut: Pemindahan & Transformasi Lokasi (把 A 放到 B)) yang berfungsi untuk kalimat 把 tingkat lanjut berfokus pada hasil perpindahan fisik atau transformasi abstrak dari objek ke tempat atau status baru menggunakan preposisi 在, 到, 给, atau 成."
       },
       {
         "id": "q-zh-gram-31-pg-3",
@@ -14100,7 +14100,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Karya sastra klasik ini sangat mendalam, bahkan sebagian pakar pun tidak mampu memahaminya secara menyeluruh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"司机把车停在了大学东门附近。\" berarti \"Sopir memarkirkan mobil di dekat gerbang timur universitas.\"."
+        "explanation": "Kalimat \"司机把车停在了大学东门附近。\" (dibaca: Sījī bǎ chē tíng zài le dàxué dōngmén fùjìn.) berarti \"Sopir memarkirkan mobil di dekat gerbang timur universitas.\". Kalimat ini menggunakan pola \"Subjek + 把 + Objek + Kata Kerja + [在 / 到 / 给 / 成] + Tempat / Penerima\" (Kalimat 把 (bǎ) Lanjut: Pemindahan & Transformasi Lokasi (把 A 放到 B)) yang berfungsi untuk kalimat 把 tingkat lanjut berfokus pada hasil perpindahan fisik atau transformasi abstrak dari objek ke tempat atau status baru menggunakan preposisi 在, 到, 给, atau 成."
       },
       {
         "id": "q-zh-gram-31-pg-4",
@@ -14399,7 +14399,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya jika memahami kebudayaan Tiongkok secara mendalam, baru bisa benar-benar menguasai bahasa Mandarin yang autentik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"请把申请表交给留学生办公室的王老师。\" berarti \"Harap serahkan formulir pendaftaran kepada Dosen Wang di kantor mahasiswa internasional.\"."
+        "explanation": "Kalimat \"请把申请表交给留学生办公室的王老师。\" (dibaca: Qǐng bǎ shēnqǐngbiǎo jiāogěi liúxuéshēng bàngōngshì de Wáng lǎoshī.) berarti \"Harap serahkan formulir pendaftaran kepada Dosen Wang di kantor mahasiswa internasional.\". Kalimat ini menggunakan pola \"Subjek + 把 + Objek + Kata Kerja + [在 / 到 / 给 / 成] + Tempat / Penerima\" (Kalimat 把 (bǎ) Lanjut: Pemindahan & Transformasi Lokasi (把 A 放到 B)) yang berfungsi untuk kalimat 把 tingkat lanjut berfokus pada hasil perpindahan fisik atau transformasi abstrak dari objek ke tempat atau status baru menggunakan preposisi 在, 到, 给, atau 成."
       },
       {
         "id": "q-zh-gram-31-bb-2",
@@ -14532,7 +14532,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tugas akhir kelulusannya dinobatkan sebagai peraih penghargaan tertinggi di seluruh universitas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"他的毕业设计被评为全校特等奖。\" berarti \"Tugas akhir kelulusannya dinobatkan sebagai peraih penghargaan tertinggi di seluruh universitas.\"."
+        "explanation": "Kalimat \"他的毕业设计被评为全校特等奖。\" (dibaca: Tā de bìyè shèjì bèi píng wéi quánxiào tèděngjiǎng.) berarti \"Tugas akhir kelulusannya dinobatkan sebagai peraih penghargaan tertinggi di seluruh universitas.\". Kalimat ini menggunakan pola \"Subjek Penerima + 被 (bèi) (+ Pelaku) + Kata Kerja + Pelengkap\" (Kalimat Pasif Formal 被 (bèi) dalam Ragam Tulisan & Berita) yang berfungsi untuk berbeda dengan ragam lisan 叫/让 yang wajib menyebutkan pelaku, partikel pasif 被 dapat digunakan tanpa menyebutkan pelaku aksi, menjadikannya pilihan standar dalam teks berita, dokumen resmi universitas, dan karya ilmiah."
       },
       {
         "id": "q-zh-gram-32-pg-2",
@@ -14548,7 +14548,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Harap mahasiswa internasional mengumpulkan laporan tes kesehatan tepat waktu sesuai dengan ketentuan pengumuman pendaftaran."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"因为天气原因，原定于今晚的讲座被取消了。\" berarti \"Karena alasan cuaca, kuliah umum yang semula dijadwalkan malam ini telah dibatalkan.\"."
+        "explanation": "Kalimat \"因为天气原因，原定于今晚的讲座被取消了。\" (dibaca: Yīnwèi tiānqì yuányīn, yuándìng yú jīnwǎn de jiǎngzuò bèi qǔxiāo le.) berarti \"Karena alasan cuaca, kuliah umum yang semula dijadwalkan malam ini telah dibatalkan.\". Kalimat ini menggunakan pola \"Subjek Penerima + 被 (bèi) (+ Pelaku) + Kata Kerja + Pelengkap\" (Kalimat Pasif Formal 被 (bèi) dalam Ragam Tulisan & Berita) yang berfungsi untuk berbeda dengan ragam lisan 叫/让 yang wajib menyebutkan pelaku, partikel pasif 被 dapat digunakan tanpa menyebutkan pelaku aksi, menjadikannya pilihan standar dalam teks berita, dokumen resmi universitas, dan karya ilmiah."
       },
       {
         "id": "q-zh-gram-32-pg-3",
@@ -14564,7 +14564,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menulis makalah ilmiah wajib berpijak pada fakta objektif, segala kesimpulan harus memiliki landasan ilmiah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这项创新的科研成果被广泛应用于医疗领域。\" berarti \"Hasil riset inovatif ini diterapkan secara luas dalam bidang medis kedokteran.\"."
+        "explanation": "Kalimat \"这项创新的科研成果被广泛应用于医疗领域。\" (dibaca: Zhè xiàng chuàngxīn de kēyán chéngguǒ bèi guǎngfàn yìngyòng yú yīliáo lǐngyù.) berarti \"Hasil riset inovatif ini diterapkan secara luas dalam bidang medis kedokteran.\". Kalimat ini menggunakan pola \"Subjek Penerima + 被 (bèi) (+ Pelaku) + Kata Kerja + Pelengkap\" (Kalimat Pasif Formal 被 (bèi) dalam Ragam Tulisan & Berita) yang berfungsi untuk berbeda dengan ragam lisan 叫/让 yang wajib menyebutkan pelaku, partikel pasif 被 dapat digunakan tanpa menyebutkan pelaku aksi, menjadikannya pilihan standar dalam teks berita, dokumen resmi universitas, dan karya ilmiah."
       },
       {
         "id": "q-zh-gram-32-pg-4",
@@ -14863,7 +14863,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dia belajar dengan tekun, bahkan pada akhir pekan pun seharian berada di laboratorium mengerjakan pengujian data."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"他的毕业设计被评为全校特等奖。\" berarti \"Tugas akhir kelulusannya dinobatkan sebagai peraih penghargaan tertinggi di seluruh universitas.\"."
+        "explanation": "Kalimat \"他的毕业设计被评为全校特等奖。\" (dibaca: Tā de bìyè shèjì bèi píng wéi quánxiào tèděngjiǎng.) berarti \"Tugas akhir kelulusannya dinobatkan sebagai peraih penghargaan tertinggi di seluruh universitas.\". Kalimat ini menggunakan pola \"Subjek Penerima + 被 (bèi) (+ Pelaku) + Kata Kerja + Pelengkap\" (Kalimat Pasif Formal 被 (bèi) dalam Ragam Tulisan & Berita) yang berfungsi untuk berbeda dengan ragam lisan 叫/让 yang wajib menyebutkan pelaku, partikel pasif 被 dapat digunakan tanpa menyebutkan pelaku aksi, menjadikannya pilihan standar dalam teks berita, dokumen resmi universitas, dan karya ilmiah."
       },
       {
         "id": "q-zh-gram-32-bb-2",
@@ -14996,7 +14996,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan analisis data meteorologi terkini, besok sore akan terjadi hujan petir konvektif lebat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"这所大学不仅校园环境优美，而且师资力量雄厚。\" berarti \"Universitas ini tidak hanya memiliki lingkungan kampus yang asri, tetapi juga tenaga pengajar yang sangat unggul.\"."
+        "explanation": "Kalimat \"这所大学不仅校园环境优美，而且师资力量雄厚。\" (dibaca: Zhè suǒ dàxué bùjǐn xiàoyuán huánjìng yōuměi, érqiě shīzī lìliang xiónghòu.) berarti \"Universitas ini tidak hanya memiliki lingkungan kampus yang asri, tetapi juga tenaga pengajar yang sangat unggul.\". Kalimat ini menggunakan pola \"不仅 (bùjǐn) + Aspek A, 而且 (érqiě) + Aspek B\" (Konjungsi Korelatif: 不仅...而且... (Tidak Hanya... Tetapi Juga...)) yang berfungsi untuk konjungsi 不仅...而且... (atau 不但...而且...) digunakan untuk menyatakan hubungan bertingkat (progressive addition), di mana klausa kedua memberikan informasi tambahan yang lebih mendalam atau lebih tinggi derajatnya daripada klausa pertama."
       },
       {
         "id": "q-zh-gram-33-pg-2",
@@ -15012,7 +15012,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Besok sudah harus mengumpulkan formulir pemilihan mata kuliah, sebenarnya mata kuliah mana yang kamu putuskan ambil?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"阅读中文报纸不仅能提高阅读速度，而且能了解中国社会。\" berarti \"Membaca surat kabar berbahasa Mandarin tidak hanya dapat meningkatkan kecepatan membaca, tetapi juga memahami masyarakat Tiongkok.\"."
+        "explanation": "Kalimat \"阅读中文报纸不仅能提高阅读速度，而且能了解中国社会。\" (dibaca: Yuèdú Zhōngwén bàozhǐ bùjǐn néng tígāo yuèdú sùdù, érqiě néng liǎojiě Zhōngguó shèhuì.) berarti \"Membaca surat kabar berbahasa Mandarin tidak hanya dapat meningkatkan kecepatan membaca, tetapi juga memahami masyarakat Tiongkok.\". Kalimat ini menggunakan pola \"不仅 (bùjǐn) + Aspek A, 而且 (érqiě) + Aspek B\" (Konjungsi Korelatif: 不仅...而且... (Tidak Hanya... Tetapi Juga...)) yang berfungsi untuk konjungsi 不仅...而且... (atau 不但...而且...) digunakan untuk menyatakan hubungan bertingkat (progressive addition), di mana klausa kedua memberikan informasi tambahan yang lebih mendalam atau lebih tinggi derajatnya daripada klausa pertama."
       },
       {
         "id": "q-zh-gram-33-pg-3",
@@ -15028,7 +15028,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Keberhasilan proyek riset multinasional ini sebenarnya ditentukan oleh faktor-faktor kunci apa saja?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"不仅留学生喜欢吃麻辣烫，中国本地学生也爱吃。\" berarti \"Tidak hanya mahasiswa asing yang suka makan malatang, mahasiswa lokal Tiongkok pun gemar memakannya.\"."
+        "explanation": "Kalimat \"不仅留学生喜欢吃麻辣烫，中国本地学生也爱吃。\" (dibaca: Bùjǐn liúxuéshēng xǐhuan chī málàtàng, Zhōngguó běndì xuésheng yě ài chī.) berarti \"Tidak hanya mahasiswa asing yang suka makan malatang, mahasiswa lokal Tiongkok pun gemar memakannya.\". Kalimat ini menggunakan pola \"不仅 (bùjǐn) + Aspek A, 而且 (érqiě) + Aspek B\" (Konjungsi Korelatif: 不仅...而且... (Tidak Hanya... Tetapi Juga...)) yang berfungsi untuk konjungsi 不仅...而且... (atau 不但...而且...) digunakan untuk menyatakan hubungan bertingkat (progressive addition), di mana klausa kedua memberikan informasi tambahan yang lebih mendalam atau lebih tinggi derajatnya daripada klausa pertama."
       },
       {
         "id": "q-zh-gram-33-pg-4",
@@ -15327,7 +15327,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Harap mahasiswa internasional mengumpulkan laporan tes kesehatan tepat waktu sesuai dengan ketentuan pengumuman pendaftaran."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"这所大学不仅校园环境优美，而且师资力量雄厚。\" berarti \"Universitas ini tidak hanya memiliki lingkungan kampus yang asri, tetapi juga tenaga pengajar yang sangat unggul.\"."
+        "explanation": "Kalimat \"这所大学不仅校园环境优美，而且师资力量雄厚。\" (dibaca: Zhè suǒ dàxué bùjǐn xiàoyuán huánjìng yōuměi, érqiě shīzī lìliang xiónghòu.) berarti \"Universitas ini tidak hanya memiliki lingkungan kampus yang asri, tetapi juga tenaga pengajar yang sangat unggul.\". Kalimat ini menggunakan pola \"不仅 (bùjǐn) + Aspek A, 而且 (érqiě) + Aspek B\" (Konjungsi Korelatif: 不仅...而且... (Tidak Hanya... Tetapi Juga...)) yang berfungsi untuk konjungsi 不仅...而且... (atau 不但...而且...) digunakan untuk menyatakan hubungan bertingkat (progressive addition), di mana klausa kedua memberikan informasi tambahan yang lebih mendalam atau lebih tinggi derajatnya daripada klausa pertama."
       },
       {
         "id": "q-zh-gram-33-bb-2",
@@ -15459,7 +15459,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Sebenarnya apa yang ingin kamu katakan? Tolong sampaikan pemikiran aslimu secara jelas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"尽管遇到了许多学术瓶颈，导师还是鼓励我们要坚持下去。\" berarti \"Meskipun menemui banyak hambatan akademis, dosen pembimbing tetap menyemangati kami untuk pantang menyerah.\"."
+        "explanation": "Kalimat \"尽管遇到了许多学术瓶颈，导师还是鼓励我们要坚持下去。\" (dibaca: Jǐnguǎn yùdào le xǔduō xuéshù píngjǐng, dǎoshī háishì gǔlì wǒmen yào jiānchí xiàqù.) berarti \"Meskipun menemui banyak hambatan akademis, dosen pembimbing tetap menyemangati kami untuk pantang menyerah.\". Kalimat ini menggunakan pola \"尽管 (jǐnguǎn) + Fakta Nyata, 但是 / 还是 / 却 + Kontras\" (Pola Konsesif Formal: 尽管...但是... (Meskipun... Namun...)) yang berfungsi untuk konjungsi 尽管 (jǐnguǎn) digunakan untuk mengakui kenyataan atau kendala yang ada (konsesi), namun menegaskan bahwa kendala tersebut tidak menghalangi terwujudnya hasil pada klausa berikutnya."
       },
       {
         "id": "q-zh-gram-34-pg-2",
@@ -15475,7 +15475,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Banyak orang mengira dia akan menyerah mendaftar, dia justru berkat wawancara yang gemilang berhasil meraih beasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"尽管任务非常艰巨，研究团队却提前完成了目标。\" berarti \"Meskipun tugasnya sangat berat, tim peneliti justru menyelesaikan target lebih awal.\"."
+        "explanation": "Kalimat \"尽管任务非常艰巨，研究团队却提前完成了目标。\" (dibaca: Jǐnguǎn rènwu fēicháng jiānjù, yánjiū tuánduì què tíqián wánchéng le mùbiāo.) berarti \"Meskipun tugasnya sangat berat, tim peneliti justru menyelesaikan target lebih awal.\". Kalimat ini menggunakan pola \"尽管 (jǐnguǎn) + Fakta Nyata, 但是 / 还是 / 却 + Kontras\" (Pola Konsesif Formal: 尽管...但是... (Meskipun... Namun...)) yang berfungsi untuk konjungsi 尽管 (jǐnguǎn) digunakan untuk mengakui kenyataan atau kendala yang ada (konsesi), namun menegaskan bahwa kendala tersebut tidak menghalangi terwujudnya hasil pada klausa berikutnya."
       },
       {
         "id": "q-zh-gram-34-pg-3",
@@ -15491,7 +15491,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Selama masa persiapan ujian menemui kesulitan apa pun, jangan ragu bertanya kepada para senior."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"在备考期间遇到任何疑难，你尽管向学长学姐请教。\" berarti \"Selama masa persiapan ujian menemui kesulitan apa pun, jangan ragu bertanya kepada para senior.\"."
+        "explanation": "Kalimat \"在备考期间遇到任何疑难，你尽管向学长学姐请教。\" (dibaca: Zài bèikǎo qījiān yùdào rènhé yínán, nǐ jǐnguǎn xiàng xuézhǎng xuéjiě qǐngjiào.) berarti \"Selama masa persiapan ujian menemui kesulitan apa pun, jangan ragu bertanya kepada para senior.\". Kalimat ini menggunakan pola \"尽管 (jǐnguǎn) + Fakta Nyata, 但是 / 还是 / 却 + Kontras\" (Pola Konsesif Formal: 尽管...但是... (Meskipun... Namun...)) yang berfungsi untuk konjungsi 尽管 (jǐnguǎn) digunakan untuk mengakui kenyataan atau kendala yang ada (konsesi), namun menegaskan bahwa kendala tersebut tidak menghalangi terwujudnya hasil pada klausa berikutnya."
       },
       {
         "id": "q-zh-gram-34-pg-4",
@@ -15790,7 +15790,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Meskipun menemui banyak hambatan akademis, dosen pembimbing tetap menyemangati kami untuk pantang menyerah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"尽管遇到了许多学术瓶颈，导师还是鼓励我们要坚持下去。\" berarti \"Meskipun menemui banyak hambatan akademis, dosen pembimbing tetap menyemangati kami untuk pantang menyerah.\"."
+        "explanation": "Kalimat \"尽管遇到了许多学术瓶颈，导师还是鼓励我们要坚持下去。\" (dibaca: Jǐnguǎn yùdào le xǔduō xuéshù píngjǐng, dǎoshī háishì gǔlì wǒmen yào jiānchí xiàqù.) berarti \"Meskipun menemui banyak hambatan akademis, dosen pembimbing tetap menyemangati kami untuk pantang menyerah.\". Kalimat ini menggunakan pola \"尽管 (jǐnguǎn) + Fakta Nyata, 但是 / 还是 / 却 + Kontras\" (Pola Konsesif Formal: 尽管...但是... (Meskipun... Namun...)) yang berfungsi untuk konjungsi 尽管 (jǐnguǎn) digunakan untuk mengakui kenyataan atau kendala yang ada (konsesi), namun menegaskan bahwa kendala tersebut tidak menghalangi terwujudnya hasil pada klausa berikutnya."
       },
       {
         "id": "q-zh-gram-34-bb-2",
@@ -15923,7 +15923,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Mendengar kritik ini, dia tidak hanya tidak marah, malah tersenyum menyampaikan terima kasih."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"只有深入了解中国文化，才能真正学好地道的汉语。\" berarti \"Hanya jika memahami kebudayaan Tiongkok secara mendalam, baru bisa benar-benar menguasai bahasa Mandarin yang autentik.\"."
+        "explanation": "Kalimat \"只有深入了解中国文化，才能真正学好地道的汉语。\" (dibaca: Zhǐyǒu shēnrù liǎojiě Zhōngguó wénhuà, cái néng zhēnzhèng xuéhǎo dìdao de Hànyǔ.) berarti \"Hanya jika memahami kebudayaan Tiongkok secara mendalam, baru bisa benar-benar menguasai bahasa Mandarin yang autentik.\". Kalimat ini menggunakan pola \"只有 (zhǐyǒu) + Syarat Mutlak Tunggal, Subjek + 才 (cái) + Hasil\" (Pola Syarat Mutlak Tunggal: 只有...才... (Hanya Jika... Baru...)) yang berfungsi untuk pola 只有...才... menyatakan syarat mutlak satu-satunya (necessary condition). Artinya: HANYA bila syarat ini terpenuhi, maka hasil tersebut baru bisa terwujud; tanpa syarat ini, hasil tersebut mustahil terjadi."
       },
       {
         "id": "q-zh-gram-35-pg-2",
@@ -15939,7 +15939,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya jika memegang visa pelajar yang masih berlaku, baru bisa mendaftar kuliah secara sah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"只有持有效学生签证，才能合法在大学注册入学。\" berarti \"Hanya jika memegang visa pelajar yang masih berlaku, baru bisa mendaftar kuliah secara sah.\"."
+        "explanation": "Kalimat \"只有持有效学生签证，才能合法在大学注册入学。\" (dibaca: Zhǐyǒu chí yǒuxiào xuésheng qiānzhèng, cái néng héfǎ zài dàxué zhùcè rùxué.) berarti \"Hanya jika memegang visa pelajar yang masih berlaku, baru bisa mendaftar kuliah secara sah.\". Kalimat ini menggunakan pola \"只有 (zhǐyǒu) + Syarat Mutlak Tunggal, Subjek + 才 (cái) + Hasil\" (Pola Syarat Mutlak Tunggal: 只有...才... (Hanya Jika... Baru...)) yang berfungsi untuk pola 只有...才... menyatakan syarat mutlak satu-satunya (necessary condition). Artinya: HANYA bila syarat ini terpenuhi, maka hasil tersebut baru bisa terwujud; tanpa syarat ini, hasil tersebut mustahil terjadi."
       },
       {
         "id": "q-zh-gram-35-pg-3",
@@ -15955,7 +15955,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tidak peduli sebesar apa pun kesulitan yang dihadapi, kita harus tetap gigih menyelesaikan tugas riset ilmiah ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"面对科研难题，只有团队紧密合作，我们才能找到突破口。\" berarti \"Menghadapi kesulitan riset, hanya jika tim bekerja sama erat, kami baru bisa menemukan jalan keluar terobosan.\"."
+        "explanation": "Kalimat \"面对科研难题，只有团队紧密合作，我们才能找到突破口。\" (dibaca: Miànduì kēyán nántí, zhǐyǒu tuánduì jǐnmì hézuò, wǒmen cái néng zhǎodào tūpòkǒu.) berarti \"Menghadapi kesulitan riset, hanya jika tim bekerja sama erat, kami baru bisa menemukan jalan keluar terobosan.\". Kalimat ini menggunakan pola \"只有 (zhǐyǒu) + Syarat Mutlak Tunggal, Subjek + 才 (cái) + Hasil\" (Pola Syarat Mutlak Tunggal: 只有...才... (Hanya Jika... Baru...)) yang berfungsi untuk pola 只有...才... menyatakan syarat mutlak satu-satunya (necessary condition). Artinya: HANYA bila syarat ini terpenuhi, maka hasil tersebut baru bisa terwujud; tanpa syarat ini, hasil tersebut mustahil terjadi."
       },
       {
         "id": "q-zh-gram-35-pg-4",
@@ -16254,7 +16254,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Banyak orang mengira dia akan menyerah mendaftar, dia justru berkat wawancara yang gemilang berhasil meraih beasiswa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"只有深入了解中国文化，才能真正学好地道的汉语。\" berarti \"Hanya jika memahami kebudayaan Tiongkok secara mendalam, baru bisa benar-benar menguasai bahasa Mandarin yang autentik.\"."
+        "explanation": "Kalimat \"只有深入了解中国文化，才能真正学好地道的汉语。\" (dibaca: Zhǐyǒu shēnrù liǎojiě Zhōngguó wénhuà, cái néng zhēnzhèng xuéhǎo dìdao de Hànyǔ.) berarti \"Hanya jika memahami kebudayaan Tiongkok secara mendalam, baru bisa benar-benar menguasai bahasa Mandarin yang autentik.\". Kalimat ini menggunakan pola \"只有 (zhǐyǒu) + Syarat Mutlak Tunggal, Subjek + 才 (cái) + Hasil\" (Pola Syarat Mutlak Tunggal: 只有...才... (Hanya Jika... Baru...)) yang berfungsi untuk pola 只有...才... menyatakan syarat mutlak satu-satunya (necessary condition). Artinya: HANYA bila syarat ini terpenuhi, maka hasil tersebut baru bisa terwujud; tanpa syarat ini, hasil tersebut mustahil terjadi."
       },
       {
         "id": "q-zh-gram-35-bb-2",
@@ -16387,7 +16387,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dia belajar dengan tekun, bahkan pada akhir pekan pun seharian berada di laboratorium mengerjakan pengujian data."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"他刻苦钻研，甚至在周末也整天待在实验室里做数据测试。\" berarti \"Dia belajar dengan tekun, bahkan pada akhir pekan pun seharian berada di laboratorium mengerjakan pengujian data.\"."
+        "explanation": "Kalimat \"他刻苦钻研，甚至在周末也整天待在实验室里做数据测试。\" (dibaca: Tā kèkǔ zuānyán, shènzhì zài zhōumò yě zhěngtiān dāi zài shíyànshì lǐ zuò shùjù cèshì.) berarti \"Dia belajar dengan tekun, bahkan pada akhir pekan pun seharian berada di laboratorium mengerjakan pengujian data.\". Kalimat ini menggunakan pola \"Klausa A, 甚至 (shènzhì) (+ 连...也/都) + Contoh Ekstrem B\" (Kata Keterangan Penegas Derajat Ekstrem: 甚至 (shènzhì - Bahkan)) yang berfungsi untuk kata keterangan 甚至 (shènzhì) berarti 'bahkan'. Digunakan untuk memunculkan satu contoh yang paling ekstrem atau tidak terduga untuk mempertegas derajat pernyataan sebelumnya."
       },
       {
         "id": "q-zh-gram-36-pg-2",
@@ -16403,7 +16403,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Harap serahkan formulir pendaftaran kepada Dosen Wang di kantor mahasiswa internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"由于生词量很大，有些段落甚至连中文系的学生也要查词典。\" berarti \"Karena muatan kosakata baru sangat padat, beberapa paragraf bahkan mahasiswa jurusan sastra Mandarin pun harus membuka kamus.\"."
+        "explanation": "Kalimat \"由于生词量很大，有些段落甚至连中文系的学生也要查词典。\" (dibaca: Yóuyú shēngcí liàng hěn dà, yǒuxiē duànluò shènzhì lián Zhōngwén xì de xuésheng yě yào chá cídiǎn.) berarti \"Karena muatan kosakata baru sangat padat, beberapa paragraf bahkan mahasiswa jurusan sastra Mandarin pun harus membuka kamus.\". Kalimat ini menggunakan pola \"Klausa A, 甚至 (shènzhì) (+ 连...也/都) + Contoh Ekstrem B\" (Kata Keterangan Penegas Derajat Ekstrem: 甚至 (shènzhì - Bahkan)) yang berfungsi untuk kata keterangan 甚至 (shènzhì) berarti 'bahkan'. Digunakan untuk memunculkan satu contoh yang paling ekstrem atau tidak terduga untuk mempertegas derajat pernyataan sebelumnya."
       },
       {
         "id": "q-zh-gram-36-pg-3",
@@ -16419,7 +16419,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Sopir memarkirkan mobil di dekat gerbang timur universitas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这部经典古籍非常深奥，甚至有些专家也无法完全读懂。\" berarti \"Karya sastra klasik ini sangat mendalam, bahkan sebagian pakar pun tidak mampu memahaminya secara menyeluruh.\"."
+        "explanation": "Kalimat \"这部经典古籍非常深奥，甚至有些专家也无法完全读懂。\" (dibaca: Zhè bù jīngdiǎn gǔjí fēicháng shēn'ào, shènzhì yǒuxiē zhuānjiā yě wúfǎ quánbiàn dúdǒng.) berarti \"Karya sastra klasik ini sangat mendalam, bahkan sebagian pakar pun tidak mampu memahaminya secara menyeluruh.\". Kalimat ini menggunakan pola \"Klausa A, 甚至 (shènzhì) (+ 连...也/都) + Contoh Ekstrem B\" (Kata Keterangan Penegas Derajat Ekstrem: 甚至 (shènzhì - Bahkan)) yang berfungsi untuk kata keterangan 甚至 (shènzhì) berarti 'bahkan'. Digunakan untuk memunculkan satu contoh yang paling ekstrem atau tidak terduga untuk mempertegas derajat pernyataan sebelumnya."
       },
       {
         "id": "q-zh-gram-36-pg-4",
@@ -16718,7 +16718,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Asalkan kita menyusun rencana sesuai metode ilmiah, tidak hanya mampu menyelesaikan proyek tepat waktu, tetapi juga meraih hasil riset yang gemilang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"他刻苦钻研，甚至在周末也整天待在实验室里做数据测试。\" berarti \"Dia belajar dengan tekun, bahkan pada akhir pekan pun seharian berada di laboratorium mengerjakan pengujian data.\"."
+        "explanation": "Kalimat \"他刻苦钻研，甚至在周末也整天待在实验室里做数据测试。\" (dibaca: Tā kèkǔ zuānyán, shènzhì zài zhōumò yě zhěngtiān dāi zài shíyànshì lǐ zuò shùjù cèshì.) berarti \"Dia belajar dengan tekun, bahkan pada akhir pekan pun seharian berada di laboratorium mengerjakan pengujian data.\". Kalimat ini menggunakan pola \"Klausa A, 甚至 (shènzhì) (+ 连...也/都) + Contoh Ekstrem B\" (Kata Keterangan Penegas Derajat Ekstrem: 甚至 (shènzhì - Bahkan)) yang berfungsi untuk kata keterangan 甚至 (shènzhì) berarti 'bahkan'. Digunakan untuk memunculkan satu contoh yang paling ekstrem atau tidak terduga untuk mempertegas derajat pernyataan sebelumnya."
       },
       {
         "id": "q-zh-gram-36-bb-2",
@@ -16853,7 +16853,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dia menerjemahkan novel bahasa Inggris terkenal ini ke dalam bahasa Mandarin modern."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"请留学生按照报名通知的要求，准时提交体检报告。\" berarti \"Harap mahasiswa internasional mengumpulkan laporan tes kesehatan tepat waktu sesuai dengan ketentuan pengumuman pendaftaran.\"."
+        "explanation": "Kalimat \"请留学生按照报名通知的要求，准时提交体检报告。\" (dibaca: Qǐng liúxuéshēng ànzhào bàomíng tōngzhī de yāoqiú, zhǔnshí tíjiāo tǐjiǎn bàogào.) berarti \"Harap mahasiswa internasional mengumpulkan laporan tes kesehatan tepat waktu sesuai dengan ketentuan pengumuman pendaftaran.\". Kalimat ini menggunakan pola \"按照 / 根据 + Acuan Pokok, Subjek + Predikat Tindakan\" (Kata Depan Acuan: 按照 (ànzhào) vs 根据 (gēnjù)) yang berfungsi untuk kedua kata ini sering diterjemahkan 'menurut / berdasarkan'. Namun ada perbedaan domain: 按照 berfokus pada kepatuhan terhadap ATURAN, STANDAR, JADWAL, atau INSTRUKSI. Sedangkan 根据 berfokus pada BUKTI DATA, FAKTA PENELITIAN, atau LANDASAN LOGIKA."
       },
       {
         "id": "q-zh-gram-37-pg-2",
@@ -16869,7 +16869,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tugas akhir kelulusannya dinobatkan sebagai peraih penghargaan tertinggi di seluruh universitas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"根据最新的气象数据分析，明天下午将有一场强对流雷雨。\" berarti \"Berdasarkan analisis data meteorologi terkini, besok sore akan terjadi hujan petir konvektif lebat.\"."
+        "explanation": "Kalimat \"根据最新的气象数据分析，明天下午将有一场强对流雷雨。\" (dibaca: Gēnjù zuìxīn de qìxiàng shùjù fēnxī, míngtiān xiàwǔ jiāng yǒu yì chǎng qiáng duìliú léiyǔ.) berarti \"Berdasarkan analisis data meteorologi terkini, besok sore akan terjadi hujan petir konvektif lebat.\". Kalimat ini menggunakan pola \"按照 / 根据 + Acuan Pokok, Subjek + Predikat Tindakan\" (Kata Depan Acuan: 按照 (ànzhào) vs 根据 (gēnjù)) yang berfungsi untuk kedua kata ini sering diterjemahkan 'menurut / berdasarkan'. Namun ada perbedaan domain: 按照 berfokus pada kepatuhan terhadap ATURAN, STANDAR, JADWAL, atau INSTRUKSI. Sedangkan 根据 berfokus pada BUKTI DATA, FAKTA PENELITIAN, atau LANDASAN LOGIKA."
       },
       {
         "id": "q-zh-gram-37-pg-3",
@@ -16885,7 +16885,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hasil riset inovatif ini diterapkan secara luas dalam bidang medis kedokteran."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"撰写学术论文必须实事求是，一切论断都要有科学根据。\" berarti \"Menulis makalah ilmiah wajib berpijak pada fakta objektif, segala kesimpulan harus memiliki landasan ilmiah.\"."
+        "explanation": "Kalimat \"撰写学术论文必须实事求是，一切论断都要有科学根据。\" (dibaca: Zhuànxiě xuéshù lùnwén bìxū shíshìqiúshì, yíqiè lùnduàn dōu yào yǒu kēxué gēnjù.) berarti \"Menulis makalah ilmiah wajib berpijak pada fakta objektif, segala kesimpulan harus memiliki landasan ilmiah.\". Kalimat ini menggunakan pola \"按照 / 根据 + Acuan Pokok, Subjek + Predikat Tindakan\" (Kata Depan Acuan: 按照 (ànzhào) vs 根据 (gēnjù)) yang berfungsi untuk kedua kata ini sering diterjemahkan 'menurut / berdasarkan'. Namun ada perbedaan domain: 按照 berfokus pada kepatuhan terhadap ATURAN, STANDAR, JADWAL, atau INSTRUKSI. Sedangkan 根据 berfokus pada BUKTI DATA, FAKTA PENELITIAN, atau LANDASAN LOGIKA."
       },
       {
         "id": "q-zh-gram-37-pg-4",
@@ -17184,7 +17184,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Harap serahkan formulir pendaftaran kepada Dosen Wang di kantor mahasiswa internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"请留学生按照报名通知的要求，准时提交体检报告。\" berarti \"Harap mahasiswa internasional mengumpulkan laporan tes kesehatan tepat waktu sesuai dengan ketentuan pengumuman pendaftaran.\"."
+        "explanation": "Kalimat \"请留学生按照报名通知的要求，准时提交体检报告。\" (dibaca: Qǐng liúxuéshēng ànzhào bàomíng tōngzhī de yāoqiú, zhǔnshí tíjiāo tǐjiǎn bàogào.) berarti \"Harap mahasiswa internasional mengumpulkan laporan tes kesehatan tepat waktu sesuai dengan ketentuan pengumuman pendaftaran.\". Kalimat ini menggunakan pola \"按照 / 根据 + Acuan Pokok, Subjek + Predikat Tindakan\" (Kata Depan Acuan: 按照 (ànzhào) vs 根据 (gēnjù)) yang berfungsi untuk kedua kata ini sering diterjemahkan 'menurut / berdasarkan'. Namun ada perbedaan domain: 按照 berfokus pada kepatuhan terhadap ATURAN, STANDAR, JADWAL, atau INSTRUKSI. Sedangkan 根据 berfokus pada BUKTI DATA, FAKTA PENELITIAN, atau LANDASAN LOGIKA."
       },
       {
         "id": "q-zh-gram-37-bb-2",
@@ -17317,7 +17317,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Karena alasan cuaca, kuliah umum yang semula dijadwalkan malam ini telah dibatalkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"明天就要交选课表了，你究竟决定选修哪门课？\" berarti \"Besok sudah harus mengumpulkan formulir pemilihan mata kuliah, sebenarnya mata kuliah mana yang kamu putuskan ambil?\"."
+        "explanation": "Kalimat \"明天就要交选课表了，你究竟决定选修哪门课？\" (dibaca: Míngtiān jiù yào jiāo xuǎnkèbiǎo le, nǐ jiūjìng juédìng xuǎnxiū nǎ mén kè?) berarti \"Besok sudah harus mengumpulkan formulir pemilihan mata kuliah, sebenarnya mata kuliah mana yang kamu putuskan ambil?\". Kalimat ini menggunakan pola \"Subjek + 究竟 / 到底 (jiūjìng / dàodǐ) + Kata Tanya (什么 / 谁 / 怎么 / 哪儿) / A 不 A\" (Kata Tanya Retoris Penegas Hakikat: 究竟 (jiūjìng) & 到底 (dàodǐ)) yang berfungsi untuk kata 究竟 dan 到底 diletakkan dalam kalimat tanya untuk menegaskan rasa ingin tahu yang mendalam atau ketidaksabaran penutur untuk mengetahui kebenaran sesungguhnya ('sebenarnya / gerangan apa yang terjadi')."
       },
       {
         "id": "q-zh-gram-38-pg-2",
@@ -17333,7 +17333,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Universitas ini tidak hanya memiliki lingkungan kampus yang asri, tetapi juga tenaga pengajar yang sangat unggul."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"你到底想要说什么？请把你的真实想法表达清楚。\" berarti \"Sebenarnya apa yang ingin kamu katakan? Tolong sampaikan pemikiran aslimu secara jelas.\"."
+        "explanation": "Kalimat \"你到底想要说什么？请把你的真实想法表达清楚。\" (dibaca: Nǐ dàodǐ xiǎng yào shuō shénme? Qǐng bǎ nǐ de zhēnshí xiǎngfǎ biǎodá qīngchu.) berarti \"Sebenarnya apa yang ingin kamu katakan? Tolong sampaikan pemikiran aslimu secara jelas.\". Kalimat ini menggunakan pola \"Subjek + 究竟 / 到底 (jiūjìng / dàodǐ) + Kata Tanya (什么 / 谁 / 怎么 / 哪儿) / A 不 A\" (Kata Tanya Retoris Penegas Hakikat: 究竟 (jiūjìng) & 到底 (dàodǐ)) yang berfungsi untuk kata 究竟 dan 到底 diletakkan dalam kalimat tanya untuk menegaskan rasa ingin tahu yang mendalam atau ketidaksabaran penutur untuk mengetahui kebenaran sesungguhnya ('sebenarnya / gerangan apa yang terjadi')."
       },
       {
         "id": "q-zh-gram-38-pg-3",
@@ -17349,7 +17349,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Keberhasilan proyek riset multinasional ini sebenarnya ditentukan oleh faktor-faktor kunci apa saja?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"这项跨国科研项目的成败，到底取决于哪些关键因素？\" berarti \"Keberhasilan proyek riset multinasional ini sebenarnya ditentukan oleh faktor-faktor kunci apa saja?\"."
+        "explanation": "Kalimat \"这项跨国科研项目的成败，到底取决于哪些关键因素？\" (dibaca: Zhè xiàng kuàguó kēyán xiàngmù de chéngbài, dàodǐ qǔjué yú nǎxiē guānjiàn yīnsù?) berarti \"Keberhasilan proyek riset multinasional ini sebenarnya ditentukan oleh faktor-faktor kunci apa saja?\". Kalimat ini menggunakan pola \"Subjek + 究竟 / 到底 (jiūjìng / dàodǐ) + Kata Tanya (什么 / 谁 / 怎么 / 哪儿) / A 不 A\" (Kata Tanya Retoris Penegas Hakikat: 究竟 (jiūjìng) & 到底 (dàodǐ)) yang berfungsi untuk kata 究竟 dan 到底 diletakkan dalam kalimat tanya untuk menegaskan rasa ingin tahu yang mendalam atau ketidaksabaran penutur untuk mengetahui kebenaran sesungguhnya ('sebenarnya / gerangan apa yang terjadi')."
       },
       {
         "id": "q-zh-gram-38-pg-4",
@@ -17648,7 +17648,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Besok sudah harus mengumpulkan formulir pemilihan mata kuliah, sebenarnya mata kuliah mana yang kamu putuskan ambil?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"明天就要交选课表了，你究竟决定选修哪门课？\" berarti \"Besok sudah harus mengumpulkan formulir pemilihan mata kuliah, sebenarnya mata kuliah mana yang kamu putuskan ambil?\"."
+        "explanation": "Kalimat \"明天就要交选课表了，你究竟决定选修哪门课？\" (dibaca: Míngtiān jiù yào jiāo xuǎnkèbiǎo le, nǐ jiūjìng juédìng xuǎnxiū nǎ mén kè?) berarti \"Besok sudah harus mengumpulkan formulir pemilihan mata kuliah, sebenarnya mata kuliah mana yang kamu putuskan ambil?\". Kalimat ini menggunakan pola \"Subjek + 究竟 / 到底 (jiūjìng / dàodǐ) + Kata Tanya (什么 / 谁 / 怎么 / 哪儿) / A 不 A\" (Kata Tanya Retoris Penegas Hakikat: 究竟 (jiūjìng) & 到底 (dàodǐ)) yang berfungsi untuk kata 究竟 dan 到底 diletakkan dalam kalimat tanya untuk menegaskan rasa ingin tahu yang mendalam atau ketidaksabaran penutur untuk mengetahui kebenaran sesungguhnya ('sebenarnya / gerangan apa yang terjadi')."
       },
       {
         "id": "q-zh-gram-38-bb-2",
@@ -17781,7 +17781,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Membaca surat kabar berbahasa Mandarin tidak hanya dapat meningkatkan kecepatan membaca, tetapi juga memahami masyarakat Tiongkok."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"许多人以为他会放弃申请，他却凭借出色的面试拿到了奖学金。\" berarti \"Banyak orang mengira dia akan menyerah mendaftar, dia justru berkat wawancara yang gemilang berhasil meraih beasiswa.\"."
+        "explanation": "Kalimat \"许多人以为他会放弃申请，他却凭借出色的面试拿到了奖学金。\" (dibaca: Xǔduō rén yǐwéi tā huì fàngqì shēnqǐng, tā què píngjiè chūsè de miànshì ná dào le jiǎngxuéjīn.) berarti \"Banyak orang mengira dia akan menyerah mendaftar, dia justru berkat wawancara yang gemilang berhasil meraih beasiswa.\". Kalimat ini menggunakan pola \"Kondisi Premis, Subjek + 却 (què) / 反而 (fǎn'ér) + Hasil Tak Terduga\" (Pola Pembalikan Tak Terduga: 却 (què) vs 反而 (fǎn'ér)) yang berfungsi untuk kata keterangan 却 (què) menandakan pembalikan kontras ('justru / sebaliknya'), dan WAJIB diletakkan setelah subjek. Kata 反而 (fǎn'ér) menandakan bahwa hasil yang terjadi bertolak belakang secara drastis dari ekspektasi normal manusia."
       },
       {
         "id": "q-zh-gram-39-pg-2",
@@ -17797,7 +17797,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Mendengar kritik ini, dia tidak hanya tidak marah, malah tersenyum menyampaikan terima kasih."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"听到这个批评意见，他不仅没生气，反而微笑着向对方表示感谢。\" berarti \"Mendengar kritik ini, dia tidak hanya tidak marah, malah tersenyum menyampaikan terima kasih.\"."
+        "explanation": "Kalimat \"听到这个批评意见，他不仅没生气，反而微笑着向对方表示感谢。\" (dibaca: Tīngdào zhè ge pīpíng yìjiàn, tā bùjǐn méi shēngqì, fǎn'ér wēixiào zhe xiàng duìfāng biǎoshì gǎnxiè.) berarti \"Mendengar kritik ini, dia tidak hanya tidak marah, malah tersenyum menyampaikan terima kasih.\". Kalimat ini menggunakan pola \"Kondisi Premis, Subjek + 却 (què) / 反而 (fǎn'ér) + Hasil Tak Terduga\" (Pola Pembalikan Tak Terduga: 却 (què) vs 反而 (fǎn'ér)) yang berfungsi untuk kata keterangan 却 (què) menandakan pembalikan kontras ('justru / sebaliknya'), dan WAJIB diletakkan setelah subjek. Kata 反而 (fǎn'ér) menandakan bahwa hasil yang terjadi bertolak belakang secara drastis dari ekspektasi normal manusia."
       },
       {
         "id": "q-zh-gram-39-pg-3",
@@ -17813,7 +17813,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Selama masa persiapan ujian menemui kesulitan apa pun, jangan ragu bertanya kepada para senior."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"外面虽然刮着大风，宿舍房间里却非常暖和舒适。\" berarti \"Meskipun di luar bertiup angin kencang, di dalam kamar asrama justru sangat hangat dan nyaman.\"."
+        "explanation": "Kalimat \"外面虽然刮着大风，宿舍房间里却非常暖和舒适。\" (dibaca: Wàimiàn suīrán guā zhe dàfēng, sùshè fángjiān lǐ què fēicháng nuǎnhuo shūshì.) berarti \"Meskipun di luar bertiup angin kencang, di dalam kamar asrama justru sangat hangat dan nyaman.\". Kalimat ini menggunakan pola \"Kondisi Premis, Subjek + 却 (què) / 反而 (fǎn'ér) + Hasil Tak Terduga\" (Pola Pembalikan Tak Terduga: 却 (què) vs 反而 (fǎn'ér)) yang berfungsi untuk kata keterangan 却 (què) menandakan pembalikan kontras ('justru / sebaliknya'), dan WAJIB diletakkan setelah subjek. Kata 反而 (fǎn'ér) menandakan bahwa hasil yang terjadi bertolak belakang secara drastis dari ekspektasi normal manusia."
       },
       {
         "id": "q-zh-gram-39-pg-4",
@@ -18112,7 +18112,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Universitas ini tidak hanya memiliki lingkungan kampus yang asri, tetapi juga tenaga pengajar yang sangat unggul."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"许多人以为他会放弃申请，他却凭借出色的面试拿到了奖学金。\" berarti \"Banyak orang mengira dia akan menyerah mendaftar, dia justru berkat wawancara yang gemilang berhasil meraih beasiswa.\"."
+        "explanation": "Kalimat \"许多人以为他会放弃申请，他却凭借出色的面试拿到了奖学金。\" (dibaca: Xǔduō rén yǐwéi tā huì fàngqì shēnqǐng, tā què píngjiè chūsè de miànshì ná dào le jiǎngxuéjīn.) berarti \"Banyak orang mengira dia akan menyerah mendaftar, dia justru berkat wawancara yang gemilang berhasil meraih beasiswa.\". Kalimat ini menggunakan pola \"Kondisi Premis, Subjek + 却 (què) / 反而 (fǎn'ér) + Hasil Tak Terduga\" (Pola Pembalikan Tak Terduga: 却 (què) vs 反而 (fǎn'ér)) yang berfungsi untuk kata keterangan 却 (què) menandakan pembalikan kontras ('justru / sebaliknya'), dan WAJIB diletakkan setelah subjek. Kata 反而 (fǎn'ér) menandakan bahwa hasil yang terjadi bertolak belakang secara drastis dari ekspektasi normal manusia."
       },
       {
         "id": "q-zh-gram-39-bb-2",
@@ -18246,7 +18246,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Asalkan kita menyusun rencana sesuai metode ilmiah, tidak hanya mampu menyelesaikan proyek tepat waktu, tetapi juga meraih hasil riset yang gemilang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"只要我们按照科学方法制定计划，不仅能按时完成课题，而且能取得优异的科研成果。\" berarti \"Asalkan kita menyusun rencana sesuai metode ilmiah, tidak hanya mampu menyelesaikan proyek tepat waktu, tetapi juga meraih hasil riset yang gemilang.\"."
+        "explanation": "Kalimat \"只要我们按照科学方法制定计划，不仅能按时完成课题，而且能取得优异的科研成果。\" (dibaca: Zhǐyào wǒmen ànzhào kēxué fāngfǎ zhìdìng jìhuà, bùjǐn néng ànshí wánchéng kètí, érqiě néng qǔdé yōuyì de kēyán chéngguǒ.) berarti \"Asalkan kita menyusun rencana sesuai metode ilmiah, tidak hanya mampu menyelesaikan proyek tepat waktu, tetapi juga meraih hasil riset yang gemilang.\". Kalimat ini menggunakan pola \"Integrasi HSK 4: 把进阶 + 被动句 + 不仅...而且... + 只有...才... + 按照/根据\" (Sintaksis Narasi Wacana HSK 4 & Evaluasi Komprehensif Masuk Sarjana S1) yang berfungsi untuk unit penutup HSK 4 ini mengintegrasikan seluruh kemampuan sintaksis yang menjadi AMBANG SYARAT MUTLAK perkuliahan S1 di universitas Tiongkok (1.200 kosakata, membaca artikel tanpa pinyin, dan menulis paragraf argumen terstruktur)."
       },
       {
         "id": "q-zh-gram-40-pg-2",
@@ -18262,7 +18262,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya jika memahami kebudayaan Tiongkok secara mendalam, baru bisa benar-benar menguasai bahasa Mandarin yang autentik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"只有通过了HSK 4级考试，留学生的专业课程申请才会被大学正式受理。\" berarti \"Hanya jika telah lulus ujian HSK 4, permohonan mata kuliah jurusan mahasiswa asing baru akan diproses resmi oleh universitas.\"."
+        "explanation": "Kalimat \"只有通过了HSK 4级考试，留学生的专业课程申请才会被大学正式受理。\" (dibaca: Zhǐyǒu tōngguò le HSK sì jí kǎoshì, liúxuéshēng de zhuānyè kèchéng shēnqǐng cái huì bèi dàxué zhèngshì shòulǐ.) berarti \"Hanya jika telah lulus ujian HSK 4, permohonan mata kuliah jurusan mahasiswa asing baru akan diproses resmi oleh universitas.\". Kalimat ini menggunakan pola \"Integrasi HSK 4: 把进阶 + 被动句 + 不仅...而且... + 只有...才... + 按照/根据\" (Sintaksis Narasi Wacana HSK 4 & Evaluasi Komprehensif Masuk Sarjana S1) yang berfungsi untuk unit penutup HSK 4 ini mengintegrasikan seluruh kemampuan sintaksis yang menjadi AMBANG SYARAT MUTLAK perkuliahan S1 di universitas Tiongkok (1.200 kosakata, membaca artikel tanpa pinyin, dan menulis paragraf argumen terstruktur)."
       },
       {
         "id": "q-zh-gram-40-pg-3",
@@ -18278,7 +18278,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menghadapi kesulitan riset, hanya jika tim bekerja sama erat, kami baru bisa menemukan jalan keluar terobosan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"不管遇到多大的困难，我们都要坚持完成这项科研任务。\" berarti \"Tidak peduli sebesar apa pun kesulitan yang dihadapi, kita harus tetap gigih menyelesaikan tugas riset ilmiah ini.\"."
+        "explanation": "Kalimat \"不管遇到多大的困难，我们都要坚持完成这项科研任务。\" (dibaca: Bùguǎn yùdào duō dà de kùnnan, wǒmen dōu yào jiānchí wánchéng zhè xiàng kēyán rènwu.) berarti \"Tidak peduli sebesar apa pun kesulitan yang dihadapi, kita harus tetap gigih menyelesaikan tugas riset ilmiah ini.\". Kalimat ini menggunakan pola \"Integrasi HSK 4: 把进阶 + 被动句 + 不仅...而且... + 只有...才... + 按照/根据\" (Sintaksis Narasi Wacana HSK 4 & Evaluasi Komprehensif Masuk Sarjana S1) yang berfungsi untuk unit penutup HSK 4 ini mengintegrasikan seluruh kemampuan sintaksis yang menjadi AMBANG SYARAT MUTLAK perkuliahan S1 di universitas Tiongkok (1.200 kosakata, membaca artikel tanpa pinyin, dan menulis paragraf argumen terstruktur)."
       },
       {
         "id": "q-zh-gram-40-pg-4",
@@ -18577,7 +18577,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Meskipun menemui banyak hambatan akademis, dosen pembimbing tetap menyemangati kami untuk pantang menyerah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"只要我们按照科学方法制定计划，不仅能按时完成课题，而且能取得优异的科研成果。\" berarti \"Asalkan kita menyusun rencana sesuai metode ilmiah, tidak hanya mampu menyelesaikan proyek tepat waktu, tetapi juga meraih hasil riset yang gemilang.\"."
+        "explanation": "Kalimat \"只要我们按照科学方法制定计划，不仅能按时完成课题，而且能取得优异的科研成果。\" (dibaca: Zhǐyào wǒmen ànzhào kēxué fāngfǎ zhìdìng jìhuà, bùjǐn néng ànshí wánchéng kètí, érqiě néng qǔdé yōuyì de kēyán chéngguǒ.) berarti \"Asalkan kita menyusun rencana sesuai metode ilmiah, tidak hanya mampu menyelesaikan proyek tepat waktu, tetapi juga meraih hasil riset yang gemilang.\". Kalimat ini menggunakan pola \"Integrasi HSK 4: 把进阶 + 被动句 + 不仅...而且... + 只有...才... + 按照/根据\" (Sintaksis Narasi Wacana HSK 4 & Evaluasi Komprehensif Masuk Sarjana S1) yang berfungsi untuk unit penutup HSK 4 ini mengintegrasikan seluruh kemampuan sintaksis yang menjadi AMBANG SYARAT MUTLAK perkuliahan S1 di universitas Tiongkok (1.200 kosakata, membaca artikel tanpa pinyin, dan menulis paragraf argumen terstruktur)."
       },
       {
         "id": "q-zh-gram-40-bb-2",
@@ -18711,7 +18711,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kuota beasiswa jurusan tersebut tahun ini sangat terbatas, seluruh departemen hanya menerima lima mahasiswa internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"所谓跨文化交际，是指不同文化背景的人们之间进行的交流互动。\" berarti \"Apa yang disebut komunikasi lintas budaya adalah merujuk pada interaksi pertukaran antarmasyarakat dari latar belakang budaya yang berlainan.\"."
+        "explanation": "Kalimat \"所谓跨文化交际，是指不同文化背景的人们之间进行的交流互动。\" (dibaca: Suǒwèi kuà wénhuà jiāojì, shì zhǐ bùtóng wénhuà bèijǐng de rénmen zhījiān jìnxíng de jiāoliú hùdòng.) berarti \"Apa yang disebut komunikasi lintas budaya adalah merujuk pada interaksi pertukaran antarmasyarakat dari latar belakang budaya yang berlainan.\". Kalimat ini menggunakan pola \"Klausa A, 从而 / 进而 (cóng'ér / jìn'ér) + Hasil Perkembangan B\" (Ragam Bahasa Tulis Formal 书面语: 所谓, 从而, 进而) yang berfungsi untuk dalam ragam tulisan ilmiah formal (书面语), kata 所谓 (apa yang disebut sebagai) digunakan untuk mendefinisikan konsep, sedangkan 从而 dan 进而 digunakan untuk menunjukkan konsekuensi logis atau eskalasi tahapan aksi berikutnya."
       },
       {
         "id": "q-zh-gram-41-pg-2",
@@ -18727,7 +18727,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Mendaftar beasiswa tersebut wajib menyerahkan transkrip nilai. Selain itu, juga wajib melampirkan dua surat rekomendasi dari profesor."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这项科研技术降低了制造成本，从而显著增强了产品的国际市场竞争力。\" berarti \"Teknologi riset ini menurunkan biaya manufaktur, dengan demikian secara signifikan memperkuat daya saing produk di pasar global.\"."
+        "explanation": "Kalimat \"这项科研技术降低了制造成本，从而显著增强了产品的国际市场竞争力。\" (dibaca: Zhè xiàng kēyán jìshù jiàngdī le zhìzào chéngběn, cóng'ér xiǎnzhù zēngqiáng le chǎnpǐn de guójì shìchǎng jìngzhēnglì.) berarti \"Teknologi riset ini menurunkan biaya manufaktur, dengan demikian secara signifikan memperkuat daya saing produk di pasar global.\". Kalimat ini menggunakan pola \"Klausa A, 从而 / 进而 (cóng'ér / jìn'ér) + Hasil Perkembangan B\" (Ragam Bahasa Tulis Formal 书面语: 所谓, 从而, 进而) yang berfungsi untuk dalam ragam tulisan ilmiah formal (书面语), kata 所谓 (apa yang disebut sebagai) digunakan untuk mendefinisikan konsep, sedangkan 从而 dan 进而 digunakan untuk menunjukkan konsekuensi logis atau eskalasi tahapan aksi berikutnya."
       },
       {
         "id": "q-zh-gram-41-pg-3",
@@ -18743,7 +18743,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kesimpulannya, hanya bila teori dipadukan dengan praktik, hasil penelitian baru dapat benar-benar bertransformasi menjadi daya produktif masyarakat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我们应当先深入调研社会现状，进而提出具有可行性的政策建议。\" berarti \"Kita patut meneliti secara mendalam situasi nyata masyarakat terlebih dahulu, lalu melangkah lebih jauh mengajukan usulan kebijakan yang dapat direalisasikan.\"."
+        "explanation": "Kalimat \"我们应当先深入调研社会现状，进而提出具有可行性的政策建议。\" (dibaca: Wǒmen yīngdāng xiān shēnrù diàoyán shèhuì xiànzhuàng, jìn'ér tíchū jùyǒu kěxíngxìng de zhèngcè jiànyì.) berarti \"Kita patut meneliti secara mendalam situasi nyata masyarakat terlebih dahulu, lalu melangkah lebih jauh mengajukan usulan kebijakan yang dapat direalisasikan.\". Kalimat ini menggunakan pola \"Klausa A, 从而 / 进而 (cóng'ér / jìn'ér) + Hasil Perkembangan B\" (Ragam Bahasa Tulis Formal 书面语: 所谓, 从而, 进而) yang berfungsi untuk dalam ragam tulisan ilmiah formal (书面语), kata 所谓 (apa yang disebut sebagai) digunakan untuk mendefinisikan konsep, sedangkan 从而 dan 进而 digunakan untuk menunjukkan konsekuensi logis atau eskalasi tahapan aksi berikutnya."
       },
       {
         "id": "q-zh-gram-41-pg-4",
@@ -19042,7 +19042,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ditinjau dari segi kebaruan riset akademik, universitas ini memiliki keunggulan yang sangat menonjol di bidang kecerdasan buatan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"所谓跨文化交际，是指不同文化背景的人们之间进行的交流互动。\" berarti \"Apa yang disebut komunikasi lintas budaya adalah merujuk pada interaksi pertukaran antarmasyarakat dari latar belakang budaya yang berlainan.\"."
+        "explanation": "Kalimat \"所谓跨文化交际，是指不同文化背景的人们之间进行的交流互动。\" (dibaca: Suǒwèi kuà wénhuà jiāojì, shì zhǐ bùtóng wénhuà bèijǐng de rénmen zhījiān jìnxíng de jiāoliú hùdòng.) berarti \"Apa yang disebut komunikasi lintas budaya adalah merujuk pada interaksi pertukaran antarmasyarakat dari latar belakang budaya yang berlainan.\". Kalimat ini menggunakan pola \"Klausa A, 从而 / 进而 (cóng'ér / jìn'ér) + Hasil Perkembangan B\" (Ragam Bahasa Tulis Formal 书面语: 所谓, 从而, 进而) yang berfungsi untuk dalam ragam tulisan ilmiah formal (书面语), kata 所谓 (apa yang disebut sebagai) digunakan untuk mendefinisikan konsep, sedangkan 从而 dan 进而 digunakan untuk menunjukkan konsekuensi logis atau eskalasi tahapan aksi berikutnya."
       },
       {
         "id": "q-zh-gram-41-bb-2",
@@ -19183,7 +19183,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Survei menunjukkan mayoritas pemuda lebih menggemari transportasi hijau, dari sini dapat disimpulkan bahwa kesadaran lingkungan telah mengakar kuat di hati masyarakat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"实验样本采集不规范，极有可能导致整项测试数据的系统性误差。\" berarti \"Pengambilan sampel eksperimen yang tidak baku sangat berpeluang mengakibatkan galat sistematis pada seluruh data pengujian.\"."
+        "explanation": "Kalimat \"实验样本采集不规范，极有可能导致整项测试数据的系统性误差。\" (dibaca: Shíyàn yàngběn cǎijí bù guīfàn, jí yǒukěnéng dǎozhì zhěng xiàng cèshì shùjù de xìtǒngxìng wùchā.) berarti \"Pengambilan sampel eksperimen yang tidak baku sangat berpeluang mengakibatkan galat sistematis pada seluruh data pengujian.\". Kalimat ini menggunakan pola \"Penyebab / Faktor + [导致 / 引起 / 造成] + Dampak / Hasil\" (Diksi Kausalitas Akademik: 导致 (dǎozhì) vs 引起 (yǐnqǐ) vs 造成 (zàochéng)) yang berfungsi untuk ketiga kata kerja kausalitas ini krusial dalam penulisan ilmiah Tiongkok: 导致 (khusus memicu akibat buruk/kegagalan), 造成 (menghasilkan kerugian besar/masalah konkret), dan 引起 (membangkitkan reaksi netral/positif/negatif)."
       },
       {
         "id": "q-zh-gram-42-pg-2",
@@ -19199,7 +19199,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menghadapi bahaya darurat yang datang tiba-tiba, anggota regu penyelamat muda tanpa sedikit pun ragu menerjang menuju lokasi bencana."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"该教授最新发表的学术论文在国际学术界引起了强烈的反响。\" berarti \"Makalah akademik terbaru yang diterbitkan oleh profesor tersebut memicu respon yang sangat kuat di kalangan akademisi internasional.\"."
+        "explanation": "Kalimat \"该教授最新发表的学术论文在国际学术界引起了强烈的反响。\" (dibaca: Gāi jiàoshòu zuìxīn fābiǎo de xuéshù lùnwén zài guójì xuéshùjiè yǐnqǐ le qiángliè de fǎnxiǎng.) berarti \"Makalah akademik terbaru yang diterbitkan oleh profesor tersebut memicu respon yang sangat kuat di kalangan akademisi internasional.\". Kalimat ini menggunakan pola \"Penyebab / Faktor + [导致 / 引起 / 造成] + Dampak / Hasil\" (Diksi Kausalitas Akademik: 导致 (dǎozhì) vs 引起 (yǐnqǐ) vs 造成 (zàochéng)) yang berfungsi untuk ketiga kata kerja kausalitas ini krusial dalam penulisan ilmiah Tiongkok: 导致 (khusus memicu akibat buruk/kegagalan), 造成 (menghasilkan kerugian besar/masalah konkret), dan 引起 (membangkitkan reaksi netral/positif/negatif)."
       },
       {
         "id": "q-zh-gram-42-pg-3",
@@ -19215,7 +19215,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Bencana banjir bandang yang dipicu hujan badai menimbulkan dampak parah terhadap produksi pertanian setempat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"暴雨引发的洪涝灾害给当地农业生产造成了严重的影响。\" berarti \"Bencana banjir bandang yang dipicu hujan badai menimbulkan dampak parah terhadap produksi pertanian setempat.\"."
+        "explanation": "Kalimat \"暴雨引发的洪涝灾害给当地农业生产造成了严重的影响。\" (dibaca: Bàoyǔ yǐnfā de hónglào zāihài gěi dāngdì nóngyè shēngchǎn zàochéng le yánzhòng de yǐngxiǎng.) berarti \"Bencana banjir bandang yang dipicu hujan badai menimbulkan dampak parah terhadap produksi pertanian setempat.\". Kalimat ini menggunakan pola \"Penyebab / Faktor + [导致 / 引起 / 造成] + Dampak / Hasil\" (Diksi Kausalitas Akademik: 导致 (dǎozhì) vs 引起 (yǐnqǐ) vs 造成 (zàochéng)) yang berfungsi untuk ketiga kata kerja kausalitas ini krusial dalam penulisan ilmiah Tiongkok: 导致 (khusus memicu akibat buruk/kegagalan), 造成 (menghasilkan kerugian besar/masalah konkret), dan 引起 (membangkitkan reaksi netral/positif/negatif)."
       },
       {
         "id": "q-zh-gram-42-pg-4",
@@ -19514,7 +19514,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Pengambilan sampel eksperimen yang tidak baku sangat berpeluang mengakibatkan galat sistematis pada seluruh data pengujian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"实验样本采集不规范，极有可能导致整项测试数据的系统性误差。\" berarti \"Pengambilan sampel eksperimen yang tidak baku sangat berpeluang mengakibatkan galat sistematis pada seluruh data pengujian.\"."
+        "explanation": "Kalimat \"实验样本采集不规范，极有可能导致整项测试数据的系统性误差。\" (dibaca: Shíyàn yàngběn cǎijí bù guīfàn, jí yǒukěnéng dǎozhì zhěng xiàng cèshì shùjù de xìtǒngxìng wùchā.) berarti \"Pengambilan sampel eksperimen yang tidak baku sangat berpeluang mengakibatkan galat sistematis pada seluruh data pengujian.\". Kalimat ini menggunakan pola \"Penyebab / Faktor + [导致 / 引起 / 造成] + Dampak / Hasil\" (Diksi Kausalitas Akademik: 导致 (dǎozhì) vs 引起 (yǐnqǐ) vs 造成 (zàochéng)) yang berfungsi untuk ketiga kata kerja kausalitas ini krusial dalam penulisan ilmiah Tiongkok: 导致 (khusus memicu akibat buruk/kegagalan), 造成 (menghasilkan kerugian besar/masalah konkret), dan 引起 (membangkitkan reaksi netral/positif/negatif)."
       },
       {
         "id": "q-zh-gram-42-bb-2",
@@ -19647,7 +19647,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Dalam persoalan mendasar berprinsip kami mutlak tidak akan mundur, wajib mempertahankan batas moralitas etika akademik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"无论科研过程中遇到多少瓶颈，研究小组始终保持坚定的探索精神。\" berarti \"Tidak peduli berapa banyak hambatan yang dihadapi dalam proses riset, kelompok peneliti selalu menjaga semangat eksplorasi yang teguh.\"."
+        "explanation": "Kalimat \"无论科研过程中遇到多少瓶颈，研究小组始终保持坚定的探索精神。\" (dibaca: Wúlùn kēyán guòchéng zhōng yùdào duōshao píngjǐng, yánjiū xiǎozǔ shǐzhōng bǎochí jiāndìng de tànsuǒ jīngshén.) berarti \"Tidak peduli berapa banyak hambatan yang dihadapi dalam proses riset, kelompok peneliti selalu menjaga semangat eksplorasi yang teguh.\". Kalimat ini menggunakan pola \"无论 / 不管 (wúlùn / bùguǎn) + Opsi Tanya / Variasi A/B, Subjek + 都 / 也 + Hasil Mutlak\" (Pola Kondisi Universal: 无论 / 不管...都 / 也... (Tanpa Pandang Bulu)) yang berfungsi untuk pola 无论...都... menyatakan bahwa hasil atau sikap pada klausa kedua berlaku mutlak dalam segala kondisi tanpa pengecualian ('tidak peduli apa pun/bagaimanapun situasinya, hasilnya tetap...')."
       },
       {
         "id": "q-zh-gram-43-pg-2",
@@ -19663,7 +19663,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tidak peduli betapa buruknya cuaca, kereta cepat mampu mempertahankan operasional yang mulus dan aman."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"不论天气多么恶劣，高铁列车都能保持平稳安全运行。\" berarti \"Tidak peduli betapa buruknya cuaca, kereta cepat mampu mempertahankan operasional yang mulus dan aman.\"."
+        "explanation": "Kalimat \"不论天气多么恶劣，高铁列车都能保持平稳安全运行。\" (dibaca: Búlùn tiānqì duōme èliè, gāotiě lièchē dōu néng bǎochí píngwěn ānquán yùnxíng.) berarti \"Tidak peduli betapa buruknya cuaca, kereta cepat mampu mempertahankan operasional yang mulus dan aman.\". Kalimat ini menggunakan pola \"无论 / 不管 (wúlùn / bùguǎn) + Opsi Tanya / Variasi A/B, Subjek + 都 / 也 + Hasil Mutlak\" (Pola Kondisi Universal: 无论 / 不管...都 / 也... (Tanpa Pandang Bulu)) yang berfungsi untuk pola 无论...都... menyatakan bahwa hasil atau sikap pada klausa kedua berlaku mutlak dalam segala kondisi tanpa pengecualian ('tidak peduli apa pun/bagaimanapun situasinya, hasilnya tetap...')."
       },
       {
         "id": "q-zh-gram-43-pg-3",
@@ -19679,7 +19679,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Peralatan eksperimen mutakhir ini bahkan universitas ternama pun sulit memperolehnya, apalagi institut biasa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"无论是在国内还是在国外留学，自律都是取得成功的关键法宝。\" berarti \"Baik menempuh studi di dalam negeri maupun di luar negeri, disiplin diri selalu menjadi kunci utama meraih kesuksesan.\"."
+        "explanation": "Kalimat \"无论是在国内还是在国外留学，自律都是取得成功的关键法宝。\" (dibaca: Wúlùn shì zài guónèi háishì zài guówài liúxué, zìlǜ dōu shì qǔdé chénggōng de guānjiàn fǎbǎo.) berarti \"Baik menempuh studi di dalam negeri maupun di luar negeri, disiplin diri selalu menjadi kunci utama meraih kesuksesan.\". Kalimat ini menggunakan pola \"无论 / 不管 (wúlùn / bùguǎn) + Opsi Tanya / Variasi A/B, Subjek + 都 / 也 + Hasil Mutlak\" (Pola Kondisi Universal: 无论 / 不管...都 / 也... (Tanpa Pandang Bulu)) yang berfungsi untuk pola 无论...都... menyatakan bahwa hasil atau sikap pada klausa kedua berlaku mutlak dalam segala kondisi tanpa pengecualian ('tidak peduli apa pun/bagaimanapun situasinya, hasilnya tetap...')."
       },
       {
         "id": "q-zh-gram-43-pg-4",
@@ -19978,7 +19978,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menghadapi bahaya darurat yang datang tiba-tiba, anggota regu penyelamat muda tanpa sedikit pun ragu menerjang menuju lokasi bencana."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"无论科研过程中遇到多少瓶颈，研究小组始终保持坚定的探索精神。\" berarti \"Tidak peduli berapa banyak hambatan yang dihadapi dalam proses riset, kelompok peneliti selalu menjaga semangat eksplorasi yang teguh.\"."
+        "explanation": "Kalimat \"无论科研过程中遇到多少瓶颈，研究小组始终保持坚定的探索精神。\" (dibaca: Wúlùn kēyán guòchéng zhōng yùdào duōshao píngjǐng, yánjiū xiǎozǔ shǐzhōng bǎochí jiāndìng de tànsuǒ jīngshén.) berarti \"Tidak peduli berapa banyak hambatan yang dihadapi dalam proses riset, kelompok peneliti selalu menjaga semangat eksplorasi yang teguh.\". Kalimat ini menggunakan pola \"无论 / 不管 (wúlùn / bùguǎn) + Opsi Tanya / Variasi A/B, Subjek + 都 / 也 + Hasil Mutlak\" (Pola Kondisi Universal: 无论 / 不管...都 / 也... (Tanpa Pandang Bulu)) yang berfungsi untuk pola 无论...都... menyatakan bahwa hasil atau sikap pada klausa kedua berlaku mutlak dalam segala kondisi tanpa pengecualian ('tidak peduli apa pun/bagaimanapun situasinya, hasilnya tetap...')."
       },
       {
         "id": "q-zh-gram-43-bb-2",
@@ -20110,7 +20110,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Alasan mengapa makalah akademik ini mampu menggemparkan dunia ilmiah adalah karena penulis mengajukan model teoretis yang sangat orisinal dan visioner."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"这篇学术论文之所以能引起轰动，是因为作者提出了极具创见性的理论模型。\" berarti \"Alasan mengapa makalah akademik ini mampu menggemparkan dunia ilmiah adalah karena penulis mengajukan model teoretis yang sangat orisinal dan visioner.\"."
+        "explanation": "Kalimat \"这篇学术论文之所以能引起轰动，是因为作者提出了极具创见性的理论模型。\" (dibaca: Zhè piān xuéshù lùnwén zhī suǒyǐ néng yǐnqǐ hōngdòng, shì yīnwèi zuòzhě tíchū le jí jù chuàngjiànxìng de lǐlùn móxíng.) berarti \"Alasan mengapa makalah akademik ini mampu menggemparkan dunia ilmiah adalah karena penulis mengajukan model teoretis yang sangat orisinal dan visioner.\". Kalimat ini menggunakan pola \"Subjek + 之所以 (zhī suǒyǐ) + Akibat / Fenomena, 是因为 (shì yīnwèi) + Akar Alasan\" (Pola Penjelasan Sebab Ilmiah: 之所以...是因为... (Alasan Mengapa... Adalah Karena...)) yang berfungsi untuk pola inversi kausal ini membalik urutan normal sebab-akibat dengan mendahulukan akibat di depan, lalu menegaskan akar penyebab di belakang ('Alasan mengapa A terjadi adalah karena B'). Pola ini sangat lazim dalam penulisan tesis dan jurnal ilmiah."
       },
       {
         "id": "q-zh-gram-44-pg-2",
@@ -20126,7 +20126,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Riset ini meneliti secara mendalam pengaruh signifikan kemampuan komunikasi lintas budaya terhadap tingkat adaptasi akademik mahasiswa internasional di Tiongkok."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"他之所以选择来中国攻读硕士，是因为看重这里先进的人工智能研究设施。\" berarti \"Alasan mengapa dia memilih datang ke Tiongkok menempuh program magister adalah karena mengapresiasi fasilitas riset kecerdasan buatan yang mutakhir di sini.\"."
+        "explanation": "Kalimat \"他之所以选择来中国攻读硕士，是因为看重这里先进的人工智能研究设施。\" (dibaca: Tā zhī suǒyǐ xuǎnzé lái Zhōngguó gōngdú shuòshì, shì yīnwèi kànzhòng zhèlǐ xiānjìn de réngōng zhìnéng yánjiū shèshī.) berarti \"Alasan mengapa dia memilih datang ke Tiongkok menempuh program magister adalah karena mengapresiasi fasilitas riset kecerdasan buatan yang mutakhir di sini.\". Kalimat ini menggunakan pola \"Subjek + 之所以 (zhī suǒyǐ) + Akibat / Fenomena, 是因为 (shì yīnwèi) + Akar Alasan\" (Pola Penjelasan Sebab Ilmiah: 之所以...是因为... (Alasan Mengapa... Adalah Karena...)) yang berfungsi untuk pola inversi kausal ini membalik urutan normal sebab-akibat dengan mendahulukan akibat di depan, lalu menegaskan akar penyebab di belakang ('Alasan mengapa A terjadi adalah karena B'). Pola ini sangat lazim dalam penulisan tesis dan jurnal ilmiah."
       },
       {
         "id": "q-zh-gram-44-pg-3",
@@ -20142,7 +20142,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini bertujuan mengkaji keterkaitan intrinsik antara inovasi teknologi perusahaan multinasional dan pembangunan berkelanjutan di era ekonomi digital."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"水资源之所以珍贵，是因为它直接维系着地球所有生命的繁衍生存。\" berarti \"Alasan mengapa sumber daya air begitu berharga adalah karena ia secara langsung menopang kelangsungan hidup seluruh makhluk di bumi.\"."
+        "explanation": "Kalimat \"水资源之所以珍贵，是因为它直接维系着地球所有生命的繁衍生存。\" (dibaca: Shuǐ zīyuán zhī suǒyǐ zhēnguì, shì yīnwèi tā zhíjiē wéixì zhe dìqiú suǒyǒu shēngmìng de fányǎn shēngcún.) berarti \"Alasan mengapa sumber daya air begitu berharga adalah karena ia secara langsung menopang kelangsungan hidup seluruh makhluk di bumi.\". Kalimat ini menggunakan pola \"Subjek + 之所以 (zhī suǒyǐ) + Akibat / Fenomena, 是因为 (shì yīnwèi) + Akar Alasan\" (Pola Penjelasan Sebab Ilmiah: 之所以...是因为... (Alasan Mengapa... Adalah Karena...)) yang berfungsi untuk pola inversi kausal ini membalik urutan normal sebab-akibat dengan mendahulukan akibat di depan, lalu menegaskan akar penyebab di belakang ('Alasan mengapa A terjadi adalah karena B'). Pola ini sangat lazim dalam penulisan tesis dan jurnal ilmiah."
       },
       {
         "id": "q-zh-gram-44-pg-4",
@@ -20441,7 +20441,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Penutur asli sekalipun saat membaca teks Tionghoa klasik masih membutuhkan catatan kaki penjelasan, apalagi mahasiswa asing bukan penutur asli?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这篇学术论文之所以能引起轰动，是因为作者提出了极具创见性的理论模型。\" berarti \"Alasan mengapa makalah akademik ini mampu menggemparkan dunia ilmiah adalah karena penulis mengajukan model teoretis yang sangat orisinal dan visioner.\"."
+        "explanation": "Kalimat \"这篇学术论文之所以能引起轰动，是因为作者提出了极具创见性的理论模型。\" (dibaca: Zhè piān xuéshù lùnwén zhī suǒyǐ néng yǐnqǐ hōngdòng, shì yīnwèi zuòzhě tíchū le jí jù chuàngjiànxìng de lǐlùn móxíng.) berarti \"Alasan mengapa makalah akademik ini mampu menggemparkan dunia ilmiah adalah karena penulis mengajukan model teoretis yang sangat orisinal dan visioner.\". Kalimat ini menggunakan pola \"Subjek + 之所以 (zhī suǒyǐ) + Akibat / Fenomena, 是因为 (shì yīnwèi) + Akar Alasan\" (Pola Penjelasan Sebab Ilmiah: 之所以...是因为... (Alasan Mengapa... Adalah Karena...)) yang berfungsi untuk pola inversi kausal ini membalik urutan normal sebab-akibat dengan mendahulukan akibat di depan, lalu menegaskan akar penyebab di belakang ('Alasan mengapa A terjadi adalah karena B'). Pola ini sangat lazim dalam penulisan tesis dan jurnal ilmiah."
       },
       {
         "id": "q-zh-gram-44-bb-2",
@@ -20574,7 +20574,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hasil riset menunjukkan, alasan mengapa mahasiswa mampu berbaur cepat ke dalam komunitas akademik adalah karena perguruan tinggi mendirikan mekanisme bimbingan dosen yang paripurna."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"科研学者宁可承受失败的痛苦，也绝不弄虚作假伪造数据。\" berarti \"Ilmuwan peneliti lebih memilih menanggung kepedihan kegagalan daripada memalsukan data demi kepalsuan.\"."
+        "explanation": "Kalimat \"科研学者宁可承受失败的痛苦，也绝不弄虚作假伪造数据。\" (dibaca: Kēyán xuézhě nìngkě chéngshòu shībài de tòngkǔ, yě juébù nòngxūzuòjiǎ wěizào shùjù.) berarti \"Ilmuwan peneliti lebih memilih menanggung kepedihan kegagalan daripada memalsukan data demi kepalsuan.\". Kalimat ini menggunakan pola \"宁可 + Pilihan Pahit A, 也不 + Pilihan Buruk B | 与其 + Pilihan Kurang Efektif A, 不如 + Pilihan Lebih Baik B\" (Pola Preferensi Pilihan: 宁可...也不... vs 与其...不如...) yang berfungsi untuk kedua pola ini menyatakan perbandingan dua opsi: 宁可...也不... (lebih memilih menanggung konsekuensi berat A demi TIDAK melakukan hal tercela/buruk B); 与其...不如... (daripada melakukan cara A yang sia-sia, lebih baik memilih cara B)."
       },
       {
         "id": "q-zh-gram-45-pg-2",
@@ -20590,7 +20590,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Apa yang disebut komunikasi lintas budaya adalah merujuk pada interaksi pertukaran antarmasyarakat dari latar belakang budaya yang berlainan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"与其坐在宿舍里担忧未来的考试，不如立刻去图书馆认真复习。\" berarti \"Daripada duduk di asrama mencemaskan ujian yang akan datang, lebih baik segera pergi ke perpustakaan mengulang pelajaran dengan sungguh-sungguh.\"."
+        "explanation": "Kalimat \"与其坐在宿舍里担忧未来的考试，不如立刻去图书馆认真复习。\" (dibaca: Yǔqí zuò zài sùshè lǐ dānyōu wèilái de kǎoshì, bùrú lìkè qù túshūguǎn rènzhēn fùxí.) berarti \"Daripada duduk di asrama mencemaskan ujian yang akan datang, lebih baik segera pergi ke perpustakaan mengulang pelajaran dengan sungguh-sungguh.\". Kalimat ini menggunakan pola \"宁可 + Pilihan Pahit A, 也不 + Pilihan Buruk B | 与其 + Pilihan Kurang Efektif A, 不如 + Pilihan Lebih Baik B\" (Pola Preferensi Pilihan: 宁可...也不... vs 与其...不如...) yang berfungsi untuk kedua pola ini menyatakan perbandingan dua opsi: 宁可...也不... (lebih memilih menanggung konsekuensi berat A demi TIDAK melakukan hal tercela/buruk B); 与其...不如... (daripada melakukan cara A yang sia-sia, lebih baik memilih cara B)."
       },
       {
         "id": "q-zh-gram-45-pg-3",
@@ -20606,7 +20606,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kita patut meneliti secara mendalam situasi nyata masyarakat terlebih dahulu, lalu melangkah lebih jauh mengajukan usulan kebijakan yang dapat direalisasikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"为了保证工程质量，施工方宁可延长工期，也不使用劣质建筑材料。\" berarti \"Demi menjamin mutu proyek, pihak pelaksana lebih memilih memperpanjang waktu pengerjaan daripada menggunakan material bangunan berkualitas rendah.\"."
+        "explanation": "Kalimat \"为了保证工程质量，施工方宁可延长工期，也不使用劣质建筑材料。\" (dibaca: Wèile bǎozhèng gōngchéng zhìliàng, shīgōng fāng nìngkě yáncháng gōngqī, yě bù shǐyòng lièzhì jiànzhù cáiliào.) berarti \"Demi menjamin mutu proyek, pihak pelaksana lebih memilih memperpanjang waktu pengerjaan daripada menggunakan material bangunan berkualitas rendah.\". Kalimat ini menggunakan pola \"宁可 + Pilihan Pahit A, 也不 + Pilihan Buruk B | 与其 + Pilihan Kurang Efektif A, 不如 + Pilihan Lebih Baik B\" (Pola Preferensi Pilihan: 宁可...也不... vs 与其...不如...) yang berfungsi untuk kedua pola ini menyatakan perbandingan dua opsi: 宁可...也不... (lebih memilih menanggung konsekuensi berat A demi TIDAK melakukan hal tercela/buruk B); 与其...不如... (daripada melakukan cara A yang sia-sia, lebih baik memilih cara B)."
       },
       {
         "id": "q-zh-gram-45-pg-4",
@@ -20905,7 +20905,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Riset ini meneliti secara mendalam pengaruh signifikan kemampuan komunikasi lintas budaya terhadap tingkat adaptasi akademik mahasiswa internasional di Tiongkok."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"科研学者宁可承受失败的痛苦，也绝不弄虚作假伪造数据。\" berarti \"Ilmuwan peneliti lebih memilih menanggung kepedihan kegagalan daripada memalsukan data demi kepalsuan.\"."
+        "explanation": "Kalimat \"科研学者宁可承受失败的痛苦，也绝不弄虚作假伪造数据。\" (dibaca: Kēyán xuézhě nìngkě chéngshòu shībài de tòngkǔ, yě juébù nòngxūzuòjiǎ wěizào shùjù.) berarti \"Ilmuwan peneliti lebih memilih menanggung kepedihan kegagalan daripada memalsukan data demi kepalsuan.\". Kalimat ini menggunakan pola \"宁可 + Pilihan Pahit A, 也不 + Pilihan Buruk B | 与其 + Pilihan Kurang Efektif A, 不如 + Pilihan Lebih Baik B\" (Pola Preferensi Pilihan: 宁可...也不... vs 与其...不如...) yang berfungsi untuk kedua pola ini menyatakan perbandingan dua opsi: 宁可...也不... (lebih memilih menanggung konsekuensi berat A demi TIDAK melakukan hal tercela/buruk B); 与其...不如... (daripada melakukan cara A yang sia-sia, lebih baik memilih cara B)."
       },
       {
         "id": "q-zh-gram-45-bb-2",
@@ -21039,7 +21039,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Teknologi riset ini menurunkan biaya manufaktur, dengan demikian secara signifikan memperkuat daya saing produk di pasar global."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"就学术研究的前沿性而言，这所大学在人工智能领域具有显著优势。\" berarti \"Ditinjau dari segi kebaruan riset akademik, universitas ini memiliki keunggulan yang sangat menonjol di bidang kecerdasan buatan.\"."
+        "explanation": "Kalimat \"就学术研究的前沿性而言，这所大学在人工智能领域具有显著优势。\" (dibaca: Jiù xuéshù yánjiū de qiányánxìng ér yán, zhè suǒ dàxué zài réngōng zhìnéng lǐngyù jùyǒu xiǎnzhù yōushì.) berarti \"Ditinjau dari segi kebaruan riset akademik, universitas ini memiliki keunggulan yang sangat menonjol di bidang kecerdasan buatan.\". Kalimat ini menggunakan pola \"就 + Topik + 而言 (ér yán) | 仅 (jǐn) + Angka / Tindakan | 唯独 (wéidú) + Pengecualian\" (Pola Pembatasan Ruang Lingkup: 仅 (jǐn), 唯独 (wéidú), 就...而言) yang berfungsi untuk pola-pola ini membatasi lingkup wacana: '就...而言' (ditinjau dari sudut pandang...), '仅' (hanya/semata-mata - ragam formal), dan '唯独' (satu-satunya pengecualian khusus di antara kelompok)."
       },
       {
         "id": "q-zh-gram-46-pg-2",
@@ -21055,7 +21055,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Pengambilan sampel eksperimen yang tidak baku sangat berpeluang mengakibatkan galat sistematis pada seluruh data pengujian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"今年该专业的奖学金名额十分有限，全系仅录取了五名国际学生。\" berarti \"Kuota beasiswa jurusan tersebut tahun ini sangat terbatas, seluruh departemen hanya menerima lima mahasiswa internasional.\"."
+        "explanation": "Kalimat \"今年该专业的奖学金名额十分有限，全系仅录取了五名国际学生。\" (dibaca: Jīnnián gāi zhuānyè de jiǎngxuéjīn míng'é shífēn yǒuxiàn, quán xì jǐn lùqǔ le wǔ míng guójì xuésheng.) berarti \"Kuota beasiswa jurusan tersebut tahun ini sangat terbatas, seluruh departemen hanya menerima lima mahasiswa internasional.\". Kalimat ini menggunakan pola \"就 + Topik + 而言 (ér yán) | 仅 (jǐn) + Angka / Tindakan | 唯独 (wéidú) + Pengecualian\" (Pola Pembatasan Ruang Lingkup: 仅 (jǐn), 唯独 (wéidú), 就...而言) yang berfungsi untuk pola-pola ini membatasi lingkup wacana: '就...而言' (ditinjau dari sudut pandang...), '仅' (hanya/semata-mata - ragam formal), dan '唯独' (satu-satunya pengecualian khusus di antara kelompok)."
       },
       {
         "id": "q-zh-gram-46-pg-3",
@@ -21071,7 +21071,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Semua indikator eksperimen telah mencapai ekspektasi rancangan, hanya satu-satunya parameter kontrol suhu yang membutuhkan penyempurnaan lebih lanjut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"所有实验指标均达到了设计预期，唯独温度控制参数需要进一步修正。\" berarti \"Semua indikator eksperimen telah mencapai ekspektasi rancangan, hanya satu-satunya parameter kontrol suhu yang membutuhkan penyempurnaan lebih lanjut.\"."
+        "explanation": "Kalimat \"所有实验指标均达到了设计预期，唯独温度控制参数需要进一步修正。\" (dibaca: Suǒyǒu shíyàn zhǐbiāo jūn dádào le shèjì yùqī, wéidú wēndù kòngzhì cānshù xūyào jīnyíbù xiūzhèng.) berarti \"Semua indikator eksperimen telah mencapai ekspektasi rancangan, hanya satu-satunya parameter kontrol suhu yang membutuhkan penyempurnaan lebih lanjut.\". Kalimat ini menggunakan pola \"就 + Topik + 而言 (ér yán) | 仅 (jǐn) + Angka / Tindakan | 唯独 (wéidú) + Pengecualian\" (Pola Pembatasan Ruang Lingkup: 仅 (jǐn), 唯独 (wéidú), 就...而言) yang berfungsi untuk pola-pola ini membatasi lingkup wacana: '就...而言' (ditinjau dari sudut pandang...), '仅' (hanya/semata-mata - ragam formal), dan '唯独' (satu-satunya pengecualian khusus di antara kelompok)."
       },
       {
         "id": "q-zh-gram-46-pg-4",
@@ -21370,7 +21370,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ditinjau dari segi kebaruan riset akademik, universitas ini memiliki keunggulan yang sangat menonjol di bidang kecerdasan buatan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"就学术研究的前沿性而言，这所大学在人工智能领域具有显著优势。\" berarti \"Ditinjau dari segi kebaruan riset akademik, universitas ini memiliki keunggulan yang sangat menonjol di bidang kecerdasan buatan.\"."
+        "explanation": "Kalimat \"就学术研究的前沿性而言，这所大学在人工智能领域具有显著优势。\" (dibaca: Jiù xuéshù yánjiū de qiányánxìng ér yán, zhè suǒ dàxué zài réngōng zhìnéng lǐngyù jùyǒu xiǎnzhù yōushì.) berarti \"Ditinjau dari segi kebaruan riset akademik, universitas ini memiliki keunggulan yang sangat menonjol di bidang kecerdasan buatan.\". Kalimat ini menggunakan pola \"就 + Topik + 而言 (ér yán) | 仅 (jǐn) + Angka / Tindakan | 唯独 (wéidú) + Pengecualian\" (Pola Pembatasan Ruang Lingkup: 仅 (jǐn), 唯独 (wéidú), 就...而言) yang berfungsi untuk pola-pola ini membatasi lingkup wacana: '就...而言' (ditinjau dari sudut pandang...), '仅' (hanya/semata-mata - ragam formal), dan '唯独' (satu-satunya pengecualian khusus di antara kelompok)."
       },
       {
         "id": "q-zh-gram-46-bb-2",
@@ -21503,7 +21503,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Makalah akademik terbaru yang diterbitkan oleh profesor tersebut memicu respon yang sangat kuat di kalangan akademisi internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"申请该奖学金需要提交成绩单。此外，还必须提供两封教授的推荐信。\" berarti \"Mendaftar beasiswa tersebut wajib menyerahkan transkrip nilai. Selain itu, juga wajib melampirkan dua surat rekomendasi dari profesor.\"."
+        "explanation": "Kalimat \"申请该奖学金需要提交成绩单。此外，还必须提供两封教授的推荐信。\" (dibaca: Shēnqǐng gāi jiǎngxuéjīn xūyào tíjiāo chéngjìdān. Cǐwài, hái bìxū tígōng liǎng fēng jiàoshòu de tuījiànxìn.) berarti \"Mendaftar beasiswa tersebut wajib menyerahkan transkrip nilai. Selain itu, juga wajib melampirkan dua surat rekomendasi dari profesor.\". Kalimat ini menggunakan pola \"Paragraf Argumen A. 此外 (cǐwài), Poin Tambahan B. 总而言之 (zǒng ér yán zhī), Kesimpulan.\" (Konjungsi Transisi Wacana Formal: 此外 (cǐwài), 总而言之 (zǒng ér yán zhī)) yang berfungsi untuk konjungsi transisi wacana berfungsi merajut paragraf terpisah menjadi kesatuan teks yang padu: 此外 (selain itu/tambahan poin), 由此可见 (dari hal ini dapat dilihat bahwa), dan 总而言之 (kesimpulannya/singkat kata)."
       },
       {
         "id": "q-zh-gram-47-pg-2",
@@ -21519,7 +21519,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Survei menunjukkan mayoritas pemuda lebih menggemari transportasi hijau, dari sini dapat disimpulkan bahwa kesadaran lingkungan telah mengakar kuat di hati masyarakat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"调研显示多数年轻人更青睐绿色出行，由此可见环保理念已深入人心。\" berarti \"Survei menunjukkan mayoritas pemuda lebih menggemari transportasi hijau, dari sini dapat disimpulkan bahwa kesadaran lingkungan telah mengakar kuat di hati masyarakat.\"."
+        "explanation": "Kalimat \"调研显示多数年轻人更青睐绿色出行，由此可见环保理念已深入人心。\" (dibaca: Diàoyán xiǎnshì duōshù niánqīngrén gèng qīnglài lǜsè chūxíng, yóu cǐ kě jiàn huánbǎo lǐniàn yǐ shēnrù rénxīn.) berarti \"Survei menunjukkan mayoritas pemuda lebih menggemari transportasi hijau, dari sini dapat disimpulkan bahwa kesadaran lingkungan telah mengakar kuat di hati masyarakat.\". Kalimat ini menggunakan pola \"Paragraf Argumen A. 此外 (cǐwài), Poin Tambahan B. 总而言之 (zǒng ér yán zhī), Kesimpulan.\" (Konjungsi Transisi Wacana Formal: 此外 (cǐwài), 总而言之 (zǒng ér yán zhī)) yang berfungsi untuk konjungsi transisi wacana berfungsi merajut paragraf terpisah menjadi kesatuan teks yang padu: 此外 (selain itu/tambahan poin), 由此可见 (dari hal ini dapat dilihat bahwa), dan 总而言之 (kesimpulannya/singkat kata)."
       },
       {
         "id": "q-zh-gram-47-pg-3",
@@ -21535,7 +21535,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Baik menempuh studi di dalam negeri maupun di luar negeri, disiplin diri selalu menjadi kunci utama meraih kesuksesan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"总而言之，唯有理论与实践相结合，科研成果才能真正转化为社会生产力。\" berarti \"Kesimpulannya, hanya bila teori dipadukan dengan praktik, hasil penelitian baru dapat benar-benar bertransformasi menjadi daya produktif masyarakat.\"."
+        "explanation": "Kalimat \"总而言之，唯有理论与实践相结合，科研成果才能真正转化为社会生产力。\" (dibaca: Zǒng ér yán zhī, wéiyǒu lǐlùn yǔ shíjiàn xiāng jiéhé, kēyán chéngguǒ cái néng zhēnzhèng zhuǎnhuà wéi shèhuì shēngchǎnlì.) berarti \"Kesimpulannya, hanya bila teori dipadukan dengan praktik, hasil penelitian baru dapat benar-benar bertransformasi menjadi daya produktif masyarakat.\". Kalimat ini menggunakan pola \"Paragraf Argumen A. 此外 (cǐwài), Poin Tambahan B. 总而言之 (zǒng ér yán zhī), Kesimpulan.\" (Konjungsi Transisi Wacana Formal: 此外 (cǐwài), 总而言之 (zǒng ér yán zhī)) yang berfungsi untuk konjungsi transisi wacana berfungsi merajut paragraf terpisah menjadi kesatuan teks yang padu: 此外 (selain itu/tambahan poin), 由此可见 (dari hal ini dapat dilihat bahwa), dan 总而言之 (kesimpulannya/singkat kata)."
       },
       {
         "id": "q-zh-gram-47-pg-4",
@@ -21834,7 +21834,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Pengambilan sampel eksperimen yang tidak baku sangat berpeluang mengakibatkan galat sistematis pada seluruh data pengujian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"申请该奖学金需要提交成绩单。此外，还必须提供两封教授的推荐信。\" berarti \"Mendaftar beasiswa tersebut wajib menyerahkan transkrip nilai. Selain itu, juga wajib melampirkan dua surat rekomendasi dari profesor.\"."
+        "explanation": "Kalimat \"申请该奖学金需要提交成绩单。此外，还必须提供两封教授的推荐信。\" (dibaca: Shēnqǐng gāi jiǎngxuéjīn xūyào tíjiāo chéngjìdān. Cǐwài, hái bìxū tígōng liǎng fēng jiàoshòu de tuījiànxìn.) berarti \"Mendaftar beasiswa tersebut wajib menyerahkan transkrip nilai. Selain itu, juga wajib melampirkan dua surat rekomendasi dari profesor.\". Kalimat ini menggunakan pola \"Paragraf Argumen A. 此外 (cǐwài), Poin Tambahan B. 总而言之 (zǒng ér yán zhī), Kesimpulan.\" (Konjungsi Transisi Wacana Formal: 此外 (cǐwài), 总而言之 (zǒng ér yán zhī)) yang berfungsi untuk konjungsi transisi wacana berfungsi merajut paragraf terpisah menjadi kesatuan teks yang padu: 此外 (selain itu/tambahan poin), 由此可见 (dari hal ini dapat dilihat bahwa), dan 总而言之 (kesimpulannya/singkat kata)."
       },
       {
         "id": "q-zh-gram-47-bb-2",
@@ -21968,7 +21968,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menghadapi bahaya darurat yang datang tiba-tiba, anggota regu penyelamat muda tanpa sedikit pun ragu menerjang menuju lokasi bencana."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"面对突发险情，年轻的救援队员毫不犹豫地冲向了受灾现场。\" berarti \"Menghadapi bahaya darurat yang datang tiba-tiba, anggota regu penyelamat muda tanpa sedikit pun ragu menerjang menuju lokasi bencana.\"."
+        "explanation": "Kalimat \"面对突发险情，年轻的救援队员毫不犹豫地冲向了受灾现场。\" (dibaca: Miànduì tūfā xiǎnqíng, niánqīng de jiùyuán duìyuán háobù yóuyù de chōng xiàng le shòuzāi xiànchǎng.) berarti \"Menghadapi bahaya darurat yang datang tiba-tiba, anggota regu penyelamat muda tanpa sedikit pun ragu menerjang menuju lokasi bencana.\". Kalimat ini menggunakan pola \"Subjek + 毫不 (háobù) + Kata Sifat / Kata Kerja | 决不 (juébù) + Aksi\" (Kata Tugas Negasi Akademik: 未尝 (wèicháng), 毫不 (háobù), 决不 (juébù)) yang berfungsi untuk tingkat HSK 5 memperkenalkan partikel negasi berbobot tinggi: 毫不 (sedikit pun tidak / tanpa keraguan), 决不 (mutlak tidak akan pernah), dan 未尝...不 (negasi ganda: bukan berarti tidak / sebenarnya bisa saja)."
       },
       {
         "id": "q-zh-gram-48-pg-2",
@@ -21984,7 +21984,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Alasan mengapa makalah akademik ini mampu menggemparkan dunia ilmiah adalah karena penulis mengajukan model teoretis yang sangat orisinal dan visioner."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"我们在原则性问题上决不退让，必须维护学术伦理的底线。\" berarti \"Dalam persoalan mendasar berprinsip kami mutlak tidak akan mundur, wajib mempertahankan batas moralitas etika akademik.\"."
+        "explanation": "Kalimat \"我们在原则性问题上决不退让，必须维护学术伦理的底线。\" (dibaca: Wǒmen zài yuánzéxìng wèntí shàng juébù tuìràng, bìxū wéihù xuéshù lúnlǐ de dǐxiàn.) berarti \"Dalam persoalan mendasar berprinsip kami mutlak tidak akan mundur, wajib mempertahankan batas moralitas etika akademik.\". Kalimat ini menggunakan pola \"Subjek + 毫不 (háobù) + Kata Sifat / Kata Kerja | 决不 (juébù) + Aksi\" (Kata Tugas Negasi Akademik: 未尝 (wèicháng), 毫不 (háobù), 决不 (juébù)) yang berfungsi untuk tingkat HSK 5 memperkenalkan partikel negasi berbobot tinggi: 毫不 (sedikit pun tidak / tanpa keraguan), 决不 (mutlak tidak akan pernah), dan 未尝...不 (negasi ganda: bukan berarti tidak / sebenarnya bisa saja)."
       },
       {
         "id": "q-zh-gram-48-pg-3",
@@ -22000,7 +22000,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Alasan mengapa sumber daya air begitu berharga adalah karena ia secara langsung menopang kelangsungan hidup seluruh makhluk di bumi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"从另一个视角来审视这组反常数据，未尝不是一种全新的科研思路。\" berarti \"Meninjau rangkaian data anomali ini dari sudut pandang yang berbeda, bukan berarti bukan sebuah pemikiran riset yang benar-benar baru.\"."
+        "explanation": "Kalimat \"从另一个视角来审视这组反常数据，未尝不是一种全新的科研思路。\" (dibaca: Cóng lìng yí ge shìjiǎo lái shěnshì zhè zǔ fǎncháng shùjù, wèicháng bú shì yì zhǒng quánxīn de kēyán sīlù.) berarti \"Meninjau rangkaian data anomali ini dari sudut pandang yang berbeda, bukan berarti bukan sebuah pemikiran riset yang benar-benar baru.\". Kalimat ini menggunakan pola \"Subjek + 毫不 (háobù) + Kata Sifat / Kata Kerja | 决不 (juébù) + Aksi\" (Kata Tugas Negasi Akademik: 未尝 (wèicháng), 毫不 (háobù), 决不 (juébù)) yang berfungsi untuk tingkat HSK 5 memperkenalkan partikel negasi berbobot tinggi: 毫不 (sedikit pun tidak / tanpa keraguan), 决不 (mutlak tidak akan pernah), dan 未尝...不 (negasi ganda: bukan berarti tidak / sebenarnya bisa saja)."
       },
       {
         "id": "q-zh-gram-48-pg-4",
@@ -22299,7 +22299,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tidak peduli berapa banyak hambatan yang dihadapi dalam proses riset, kelompok peneliti selalu menjaga semangat eksplorasi yang teguh."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"面对突发险情，年轻的救援队员毫不犹豫地冲向了受灾现场。\" berarti \"Menghadapi bahaya darurat yang datang tiba-tiba, anggota regu penyelamat muda tanpa sedikit pun ragu menerjang menuju lokasi bencana.\"."
+        "explanation": "Kalimat \"面对突发险情，年轻的救援队员毫不犹豫地冲向了受灾现场。\" (dibaca: Miànduì tūfā xiǎnqíng, niánqīng de jiùyuán duìyuán háobù yóuyù de chōng xiàng le shòuzāi xiànchǎng.) berarti \"Menghadapi bahaya darurat yang datang tiba-tiba, anggota regu penyelamat muda tanpa sedikit pun ragu menerjang menuju lokasi bencana.\". Kalimat ini menggunakan pola \"Subjek + 毫不 (háobù) + Kata Sifat / Kata Kerja | 决不 (juébù) + Aksi\" (Kata Tugas Negasi Akademik: 未尝 (wèicháng), 毫不 (háobù), 决不 (juébù)) yang berfungsi untuk tingkat HSK 5 memperkenalkan partikel negasi berbobot tinggi: 毫不 (sedikit pun tidak / tanpa keraguan), 决不 (mutlak tidak akan pernah), dan 未尝...不 (negasi ganda: bukan berarti tidak / sebenarnya bisa saja)."
       },
       {
         "id": "q-zh-gram-48-bb-2",
@@ -22432,7 +22432,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Alasan mengapa dia memilih datang ke Tiongkok menempuh program magister adalah karena mengapresiasi fasilitas riset kecerdasan buatan yang mutakhir di sini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"母语者阅读文言文尚且需要注释，何况是非母语的留学生呢？\" berarti \"Penutur asli sekalipun saat membaca teks Tionghoa klasik masih membutuhkan catatan kaki penjelasan, apalagi mahasiswa asing bukan penutur asli?\"."
+        "explanation": "Kalimat \"母语者阅读文言文尚且需要注释，何况是非母语的留学生呢？\" (dibaca: Mǔyǔzhě yuèdú wényánwén shàngqiě xūyào zhùshì, hékuàng shì fēi mǔyǔ de liúxuéshēng ne?) berarti \"Penutur asli sekalipun saat membaca teks Tionghoa klasik masih membutuhkan catatan kaki penjelasan, apalagi mahasiswa asing bukan penutur asli?\". Kalimat ini menggunakan pola \"Kondisi Dasar A, 何况 (hékuàng) + Kondisi Lebih Kuat B | 岂不是 + Retoris + 吗\" (Konstruksi Retoris Penegas: 何况 (hékuàng) & 岂不是 (qǐ bú shì)) yang berfungsi untuk pola 何况 (apalagi/terlebih lagi) digunakan untuk menambahkan alasan yang jauh lebih jelas dan tak terbantahkan. Pola 岂不是 (bukankah itu sama saja dengan...) adalah pertanyaan retoris untuk menegaskan absurditas suatu kekeliruan."
       },
       {
         "id": "q-zh-gram-49-pg-2",
@@ -22448,7 +22448,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ilmuwan peneliti lebih memilih menanggung kepedihan kegagalan daripada memalsukan data demi kepalsuan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"如果不尊重实验客观数据而凭空捏造，岂不是自欺欺人吗？\" berarti \"Jika tidak menghormati data objektif eksperimen melainkan mengarang secara membabi buta, bukankah itu membohongi diri sendiri dan orang lain?\"."
+        "explanation": "Kalimat \"如果不尊重实验客观数据而凭空捏造，岂不是自欺欺人吗？\" (dibaca: Rúguǒ bù zūnzhòng shíyàn kèguān shùjù ér píngkōng niēzào, qǐ bú shì zìqīqīrén ma?) berarti \"Jika tidak menghormati data objektif eksperimen melainkan mengarang secara membabi buta, bukankah itu membohongi diri sendiri dan orang lain?\". Kalimat ini menggunakan pola \"Kondisi Dasar A, 何况 (hékuàng) + Kondisi Lebih Kuat B | 岂不是 + Retoris + 吗\" (Konstruksi Retoris Penegas: 何况 (hékuàng) & 岂不是 (qǐ bú shì)) yang berfungsi untuk pola 何况 (apalagi/terlebih lagi) digunakan untuk menambahkan alasan yang jauh lebih jelas dan tak terbantahkan. Pola 岂不是 (bukankah itu sama saja dengan...) adalah pertanyaan retoris untuk menegaskan absurditas suatu kekeliruan."
       },
       {
         "id": "q-zh-gram-49-pg-3",
@@ -22464,7 +22464,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Demi menjamin mutu proyek, pihak pelaksana lebih memilih memperpanjang waktu pengerjaan daripada menggunakan material bangunan berkualitas rendah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"这套先进的实验设备连名校都很难申请到，何况是普通学院。\" berarti \"Peralatan eksperimen mutakhir ini bahkan universitas ternama pun sulit memperolehnya, apalagi institut biasa.\"."
+        "explanation": "Kalimat \"这套先进的实验设备连名校都很难申请到，何况是普通学院。\" (dibaca: Zhè tào xiānjìn de shíyàn shèbèi lián míngxiào dōu hěn nán shēnqǐng dào, hékuàng shì pǔtōng xuéyuàn.) berarti \"Peralatan eksperimen mutakhir ini bahkan universitas ternama pun sulit memperolehnya, apalagi institut biasa.\". Kalimat ini menggunakan pola \"Kondisi Dasar A, 何况 (hékuàng) + Kondisi Lebih Kuat B | 岂不是 + Retoris + 吗\" (Konstruksi Retoris Penegas: 何况 (hékuàng) & 岂不是 (qǐ bú shì)) yang berfungsi untuk pola 何况 (apalagi/terlebih lagi) digunakan untuk menambahkan alasan yang jauh lebih jelas dan tak terbantahkan. Pola 岂不是 (bukankah itu sama saja dengan...) adalah pertanyaan retoris untuk menegaskan absurditas suatu kekeliruan."
       },
       {
         "id": "q-zh-gram-49-pg-4",
@@ -22763,7 +22763,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Alasan mengapa makalah akademik ini mampu menggemparkan dunia ilmiah adalah karena penulis mengajukan model teoretis yang sangat orisinal dan visioner."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"母语者阅读文言文尚且需要注释，何况是非母语的留学生呢？\" berarti \"Penutur asli sekalipun saat membaca teks Tionghoa klasik masih membutuhkan catatan kaki penjelasan, apalagi mahasiswa asing bukan penutur asli?\"."
+        "explanation": "Kalimat \"母语者阅读文言文尚且需要注释，何况是非母语的留学生呢？\" (dibaca: Mǔyǔzhě yuèdú wényánwén shàngqiě xūyào zhùshì, hékuàng shì fēi mǔyǔ de liúxuéshēng ne?) berarti \"Penutur asli sekalipun saat membaca teks Tionghoa klasik masih membutuhkan catatan kaki penjelasan, apalagi mahasiswa asing bukan penutur asli?\". Kalimat ini menggunakan pola \"Kondisi Dasar A, 何况 (hékuàng) + Kondisi Lebih Kuat B | 岂不是 + Retoris + 吗\" (Konstruksi Retoris Penegas: 何况 (hékuàng) & 岂不是 (qǐ bú shì)) yang berfungsi untuk pola 何况 (apalagi/terlebih lagi) digunakan untuk menambahkan alasan yang jauh lebih jelas dan tak terbantahkan. Pola 岂不是 (bukankah itu sama saja dengan...) adalah pertanyaan retoris untuk menegaskan absurditas suatu kekeliruan."
       },
       {
         "id": "q-zh-gram-49-bb-2",
@@ -22898,7 +22898,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Daripada duduk di asrama mencemaskan ujian yang akan datang, lebih baik segera pergi ke perpustakaan mengulang pelajaran dengan sungguh-sungguh."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"本研究深入探讨了跨文化交际能力对国际留学生在华学术适应度的显著影响。\" berarti \"Riset ini meneliti secara mendalam pengaruh signifikan kemampuan komunikasi lintas budaya terhadap tingkat adaptasi akademik mahasiswa internasional di Tiongkok.\"."
+        "explanation": "Kalimat \"本研究深入探讨了跨文化交际能力对国际留学生在华学术适应度的显著影响。\" (dibaca: Běn yánjiū shēnrù tàntǎo le kuà wénhuà jiāojì nénglì duì guójì liúxuéshēng zài Huá xuéshù shìyìngdù de xiǎnzhù yǐngxiǎng.) berarti \"Riset ini meneliti secara mendalam pengaruh signifikan kemampuan komunikasi lintas budaya terhadap tingkat adaptasi akademik mahasiswa internasional di Tiongkok.\". Kalimat ini menggunakan pola \"Integrasi HSK 5: 所谓 + 从而/进而 + 导致/引起 + 无论...都... + 之所以...是因为... + 此外/总而言之\" (Struktur Abstrak Makalah Ilmiah & Evaluasi Komprehensif HSK 5) yang berfungsi untuk unit penutup HSK 5 menguji penguasaan 2.500 kosakata dan keahlian menulis abstrak ilmiah terstruktur (latar belakang, metodologi, temuan empiris, dan implikasi kebijakan) sebagai syarat mutlak beasiswa CSC dan studi pascasarjana S2/S3."
       },
       {
         "id": "q-zh-gram-50-pg-2",
@@ -22914,7 +22914,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ditinjau dari segi kebaruan riset akademik, universitas ini memiliki keunggulan yang sangat menonjol di bidang kecerdasan buatan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"研究表明，学生之所以能迅速融入学术共同体，是因为高校建立了完善的导师指导机制。\" berarti \"Hasil riset menunjukkan, alasan mengapa mahasiswa mampu berbaur cepat ke dalam komunitas akademik adalah karena perguruan tinggi mendirikan mekanisme bimbingan dosen yang paripurna.\"."
+        "explanation": "Kalimat \"研究表明，学生之所以能迅速融入学术共同体，是因为高校建立了完善的导师指导机制。\" (dibaca: Yánjiū biǎomíng, xuésheng zhī suǒyǐ néng xùnsù róngrù xuéshù gòngtóngtǐ, shì yīnwèi gāoxiào jiànlì le wánshàn de dǎoshī zhǐdǎo jīzhì.) berarti \"Hasil riset menunjukkan, alasan mengapa mahasiswa mampu berbaur cepat ke dalam komunitas akademik adalah karena perguruan tinggi mendirikan mekanisme bimbingan dosen yang paripurna.\". Kalimat ini menggunakan pola \"Integrasi HSK 5: 所谓 + 从而/进而 + 导致/引起 + 无论...都... + 之所以...是因为... + 此外/总而言之\" (Struktur Abstrak Makalah Ilmiah & Evaluasi Komprehensif HSK 5) yang berfungsi untuk unit penutup HSK 5 menguji penguasaan 2.500 kosakata dan keahlian menulis abstrak ilmiah terstruktur (latar belakang, metodologi, temuan empiris, dan implikasi kebijakan) sebagai syarat mutlak beasiswa CSC dan studi pascasarjana S2/S3."
       },
       {
         "id": "q-zh-gram-50-pg-3",
@@ -22930,7 +22930,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini bertujuan mengkaji keterkaitan intrinsik antara inovasi teknologi perusahaan multinasional dan pembangunan berkelanjutan di era ekonomi digital."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"本研究旨在探讨数字经济时代跨国企业技术创新与可持续发展的内在关联。\" berarti \"Penelitian ini bertujuan mengkaji keterkaitan intrinsik antara inovasi teknologi perusahaan multinasional dan pembangunan berkelanjutan di era ekonomi digital.\"."
+        "explanation": "Kalimat \"本研究旨在探讨数字经济时代跨国企业技术创新与可持续发展的内在关联。\" (dibaca: Běn yánjiū zhǐzài tàntǎo shùzì jīngjì shídài kuàguó qǐyè jìshù chuàngxīn yǔ kě chíxù fāzhǎn de nèizài guānlián.) berarti \"Penelitian ini bertujuan mengkaji keterkaitan intrinsik antara inovasi teknologi perusahaan multinasional dan pembangunan berkelanjutan di era ekonomi digital.\". Kalimat ini menggunakan pola \"Integrasi HSK 5: 所谓 + 从而/进而 + 导致/引起 + 无论...都... + 之所以...是因为... + 此外/总而言之\" (Struktur Abstrak Makalah Ilmiah & Evaluasi Komprehensif HSK 5) yang berfungsi untuk unit penutup HSK 5 menguji penguasaan 2.500 kosakata dan keahlian menulis abstrak ilmiah terstruktur (latar belakang, metodologi, temuan empiris, dan implikasi kebijakan) sebagai syarat mutlak beasiswa CSC dan studi pascasarjana S2/S3."
       },
       {
         "id": "q-zh-gram-50-pg-4",
@@ -23229,7 +23229,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Riset ini meneliti secara mendalam pengaruh signifikan kemampuan komunikasi lintas budaya terhadap tingkat adaptasi akademik mahasiswa internasional di Tiongkok."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"本研究深入探讨了跨文化交际能力对国际留学生在华学术适应度的显著影响。\" berarti \"Riset ini meneliti secara mendalam pengaruh signifikan kemampuan komunikasi lintas budaya terhadap tingkat adaptasi akademik mahasiswa internasional di Tiongkok.\"."
+        "explanation": "Kalimat \"本研究深入探讨了跨文化交际能力对国际留学生在华学术适应度的显著影响。\" (dibaca: Běn yánjiū shēnrù tàntǎo le kuà wénhuà jiāojì nénglì duì guójì liúxuéshēng zài Huá xuéshù shìyìngdù de xiǎnzhù yǐngxiǎng.) berarti \"Riset ini meneliti secara mendalam pengaruh signifikan kemampuan komunikasi lintas budaya terhadap tingkat adaptasi akademik mahasiswa internasional di Tiongkok.\". Kalimat ini menggunakan pola \"Integrasi HSK 5: 所谓 + 从而/进而 + 导致/引起 + 无论...都... + 之所以...是因为... + 此外/总而言之\" (Struktur Abstrak Makalah Ilmiah & Evaluasi Komprehensif HSK 5) yang berfungsi untuk unit penutup HSK 5 menguji penguasaan 2.500 kosakata dan keahlian menulis abstrak ilmiah terstruktur (latar belakang, metodologi, temuan empiris, dan implikasi kebijakan) sebagai syarat mutlak beasiswa CSC dan studi pascasarjana S2/S3."
       },
       {
         "id": "q-zh-gram-50-bb-2",
@@ -23365,7 +23365,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Orator terkemuka ini menuangkan keindahan rima dan daya dialektika bahasa serta aksara Tionghoa secara tuntas paripurna tanpa cela."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。\" berarti \"Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.\"."
+        "explanation": "Kalimat \"科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。\" (dibaca: Kēxué yánjiū shì yì tiáo màncháng ér jiānxīn de dàolù, zuì jìhuì de jiù shì bàntú'érfèi.) berarti \"Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.\". Kalimat ini menggunakan pola \"Subjek + [半途而废 / 持之以恒 / 卧薪尝胆 / 坚持不懈] + (地 + Predikat)\" (成语 (Chéngyǔ) Kunci 1: Filosofi Ketekunan & Perjuangan Hidup) yang berfungsi untuk 成语 (Chéngyǔ) adalah peribahasa klasik 4 karakter yang memadatkan kearifan sejarah ribuan tahun Tiongkok. Unit ini mengkaji idiom-idiom ketekunan, konsistensi, dan daya juang tanpa henti."
       },
       {
         "id": "q-zh-gram-51-pg-2",
@@ -23381,7 +23381,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya dengan mengumpulkan pengetahuan fondasi secara konsisten dan tekun, seseorang baru dapat menorehkan prestasi dalam bidang keilmuan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"唯有持之以恒地积累基础知识，方能在专业学术领域有所建树。\" berarti \"Hanya dengan mengumpulkan pengetahuan fondasi secara konsisten dan tekun, seseorang baru dapat menorehkan prestasi dalam bidang keilmuan.\"."
+        "explanation": "Kalimat \"唯有持之以恒地积累基础知识，方能在专业学术领域有所建树。\" (dibaca: Wéiyǒu chízhīyǐhéng de jīlěi jīchǔ zhīshi, fāng néng zài zhuānyè xuéshù lǐngyù yǒusuǒ jiànshù.) berarti \"Hanya dengan mengumpulkan pengetahuan fondasi secara konsisten dan tekun, seseorang baru dapat menorehkan prestasi dalam bidang keilmuan.\". Kalimat ini menggunakan pola \"Subjek + [半途而废 / 持之以恒 / 卧薪尝胆 / 坚持不懈] + (地 + Predikat)\" (成语 (Chéngyǔ) Kunci 1: Filosofi Ketekunan & Perjuangan Hidup) yang berfungsi untuk 成语 (Chéngyǔ) adalah peribahasa klasik 4 karakter yang memadatkan kearifan sejarah ribuan tahun Tiongkok. Unit ini mengkaji idiom-idiom ketekunan, konsistensi, dan daya juang tanpa henti."
       },
       {
         "id": "q-zh-gram-51-pg-3",
@@ -23397,7 +23397,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Seluruh mahasiswa di kelas tanpa terkecuali telah mengumpulkan makalah akhir semester tepat waktu."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"越王勾践卧薪尝胆二十年，最终成功实现了国家的光复。\" berarti \"Raja Goujian dari negeri Yue menahan derita tidur di atas jerami dan mengecap empedu pahit selama 20 tahun, hingga akhirnya berhasil memulihkan kembali negerinya.\"."
+        "explanation": "Kalimat \"越王勾践卧薪尝胆二十年，最终成功实现了国家的光复。\" (dibaca: Yuèwáng Gōujiàn wòxīnchángdǎn èrshí nián, zuìzhōng chénggōng shíxiàn le guójiā de guāngfù.) berarti \"Raja Goujian dari negeri Yue menahan derita tidur di atas jerami dan mengecap empedu pahit selama 20 tahun, hingga akhirnya berhasil memulihkan kembali negerinya.\". Kalimat ini menggunakan pola \"Subjek + [半途而废 / 持之以恒 / 卧薪尝胆 / 坚持不懈] + (地 + Predikat)\" (成语 (Chéngyǔ) Kunci 1: Filosofi Ketekunan & Perjuangan Hidup) yang berfungsi untuk 成语 (Chéngyǔ) adalah peribahasa klasik 4 karakter yang memadatkan kearifan sejarah ribuan tahun Tiongkok. Unit ini mengkaji idiom-idiom ketekunan, konsistensi, dan daya juang tanpa henti."
       },
       {
         "id": "q-zh-gram-51-pg-4",
@@ -23696,7 +23696,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。\" berarti \"Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.\"."
+        "explanation": "Kalimat \"科学研究是一条漫长而艰辛的道路，最忌讳的就是半途而废。\" (dibaca: Kēxué yánjiū shì yì tiáo màncháng ér jiānxīn de dàolù, zuì jìhuì de jiù shì bàntú'érfèi.) berarti \"Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan.\". Kalimat ini menggunakan pola \"Subjek + [半途而废 / 持之以恒 / 卧薪尝胆 / 坚持不懈] + (地 + Predikat)\" (成语 (Chéngyǔ) Kunci 1: Filosofi Ketekunan & Perjuangan Hidup) yang berfungsi untuk 成语 (Chéngyǔ) adalah peribahasa klasik 4 karakter yang memadatkan kearifan sejarah ribuan tahun Tiongkok. Unit ini mengkaji idiom-idiom ketekunan, konsistensi, dan daya juang tanpa henti."
       },
       {
         "id": "q-zh-gram-51-bb-2",
@@ -23831,7 +23831,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。\" berarti \"Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.\"."
+        "explanation": "Kalimat \"面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。\" (dibaca: Miànduì wèilái kěnéng chūxiàn de jiùyè jìngzhēng yālì, dàxuéshēng yīngdāng wèiyǔchóumóu, jízǎo guīhuà zhíyè dàolù.) berarti \"Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.\". Kalimat ini menggunakan pola \"Subjek + [未雨绸缪 / 塞翁失马 / 纸上谈兵 / 画蛇添足]\" (成语 (Chéngyǔ) Kunci 2: Strategi, Kebijaksanaan, & Kewaspadaan) yang berfungsi untuk unit ini membedah 成语 strategi dan kebijaksanaan hidup: 未雨绸缪 (sedia payung sebelum hujan), 塞翁失马 (di balik musibah ada berkah tersembunyi), 纸上谈兵 (jago teori di atas kertas tanpa praktik), dan 画蛇添足 (berlebihan hingga merusak esensi)."
       },
       {
         "id": "q-zh-gram-52-pg-2",
@@ -23847,7 +23847,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"这次虽然错失了保研机会，但塞翁失马焉知非福，他最终考取了更好的海外公派奖学金。\" berarti \"Kali ini meskipun melewatkan kesempatan jalur prestasi, tetapi di balik musibah ada hikmah keberuntungan, ia akhirnya berhasil meraih beasiswa pemerintah luar negeri yang jauh lebih unggul.\"."
+        "explanation": "Kalimat \"这次虽然错失了保研机会，但塞翁失马焉知非福，他最终考取了更好的海外公派奖学金。\" (dibaca: Zhè cì suīrán cuòshī le bǎoyán jīhuì, dàn sàiwēngshīmǎ yān zhī fēi fú, tā zuìzhōng kǎoqǔ le gèng hǎo de hǎiwài gōngpài jiǎngxuéjīn.) berarti \"Kali ini meskipun melewatkan kesempatan jalur prestasi, tetapi di balik musibah ada hikmah keberuntungan, ia akhirnya berhasil meraih beasiswa pemerintah luar negeri yang jauh lebih unggul.\". Kalimat ini menggunakan pola \"Subjek + [未雨绸缪 / 塞翁失马 / 纸上谈兵 / 画蛇添足]\" (成语 (Chéngyǔ) Kunci 2: Strategi, Kebijaksanaan, & Kewaspadaan) yang berfungsi untuk unit ini membedah 成语 strategi dan kebijaksanaan hidup: 未雨绸缪 (sedia payung sebelum hujan), 塞翁失马 (di balik musibah ada berkah tersembunyi), 纸上谈兵 (jago teori di atas kertas tanpa praktik), dan 画蛇添足 (berlebihan hingga merusak esensi)."
       },
       {
         "id": "q-zh-gram-52-pg-3",
@@ -23863,7 +23863,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kesimpulan riset para pendahulu memang telah meletakkan batu penjuru yang kokoh bagi kita, namun hanya dengan berani mempertanyakan otoritas, keilmuan baru dapat melahirkan terobosan baru."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"搞工程必须深入施工现场，切忌纸上谈兵盲目指挥。\" berarti \"Menggarap proyek teknik wajib terjun langsung ke lapangan, hindari berteori di atas kertas dan memberi instruksi secara membabi buta.\"."
+        "explanation": "Kalimat \"搞工程必须深入施工现场，切忌纸上谈兵盲目指挥。\" (dibaca: Gǎo gōngchéng bìxū shēnrù shīgōng xiànchǎng, qièjì zhǐshàngtánbīng mángmù zhǐhuī.) berarti \"Menggarap proyek teknik wajib terjun langsung ke lapangan, hindari berteori di atas kertas dan memberi instruksi secara membabi buta.\". Kalimat ini menggunakan pola \"Subjek + [未雨绸缪 / 塞翁失马 / 纸上谈兵 / 画蛇添足]\" (成语 (Chéngyǔ) Kunci 2: Strategi, Kebijaksanaan, & Kewaspadaan) yang berfungsi untuk unit ini membedah 成语 strategi dan kebijaksanaan hidup: 未雨绸缪 (sedia payung sebelum hujan), 塞翁失马 (di balik musibah ada berkah tersembunyi), 纸上谈兵 (jago teori di atas kertas tanpa praktik), dan 画蛇添足 (berlebihan hingga merusak esensi)."
       },
       {
         "id": "q-zh-gram-52-pg-4",
@@ -24162,7 +24162,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。\" berarti \"Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.\"."
+        "explanation": "Kalimat \"面对未来可能出现的就业竞争压力，大学生应当未雨绸缪，及早规划职业道路。\" (dibaca: Miànduì wèilái kěnéng chūxiàn de jiùyè jìngzhēng yālì, dàxuéshēng yīngdāng wèiyǔchóumóu, jízǎo guīhuà zhíyè dàolù.) berarti \"Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin.\". Kalimat ini menggunakan pola \"Subjek + [未雨绸缪 / 塞翁失马 / 纸上谈兵 / 画蛇添足]\" (成语 (Chéngyǔ) Kunci 2: Strategi, Kebijaksanaan, & Kewaspadaan) yang berfungsi untuk unit ini membedah 成语 strategi dan kebijaksanaan hidup: 未雨绸缪 (sedia payung sebelum hujan), 塞翁失马 (di balik musibah ada berkah tersembunyi), 纸上谈兵 (jago teori di atas kertas tanpa praktik), dan 画蛇添足 (berlebihan hingga merusak esensi)."
       },
       {
         "id": "q-zh-gram-52-bb-2",
@@ -24298,7 +24298,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Mengejar pertumbuhan ekonomi yang tinggi tentu saja merupakan keniscayaan perkembangan masyarakat, namun mutlak tidak boleh mengorbankan kelestarian lingkungan hidup sebagai harga yang teramat mahal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"该学者毕业于北京大学物理系，其主要研究方向为量子计算。\" berarti \"Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.\"."
+        "explanation": "Kalimat \"该学者毕业于北京大学物理系，其主要研究方向为量子计算。\" (dibaca: Gāi xuézhě bìyè yú Běijīng Dàxué wùlǐ xì, qí zhǔyào yánjiū fāngxiàng wéi liàngzǐ jìsuàn.) berarti \"Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.\". Kalimat ini menggunakan pola \"Subjek + 以 (yǐ: dengan/demi) + Sarana + V | Topik + 及其 (jí qí) + Aspek Terkait\" (Partikel Klasik 文言虚词 dalam Mandarin Modern: 之, 其, 以, 于) yang berfungsi untuk bahasa Mandarin formal ragam tingkat tinggi HSK 6 mempertahankan partikel gramatikal Tionghoa klasik (文言文): 之 (penanda genitif/kata ganti), 其 (kata ganti milik dia/nya), 以 (dengan/untuk), dan 于 (di/terhadap/pada)."
       },
       {
         "id": "q-zh-gram-53-pg-2",
@@ -24314,7 +24314,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"中国在过去四十年间取得了举世瞩目之成就，其发展经验引人深思。\" berarti \"Tiongkok dalam kurun waktu 40 tahun terakhir telah menorehkan pencapaian yang disaksikan seluruh dunia, pengalaman perkembangannya mengundang perenungan mendalam.\"."
+        "explanation": "Kalimat \"中国在过去四十年间取得了举世瞩目之成就，其发展经验引人深思。\" (dibaca: Zhōngguó zài guòqù sìshí nián jiān qǔdé le jǔshì zhǔmù zhī chéngjiù, qí fāzhǎn jīngyàn yǐnrén shēnsī.) berarti \"Tiongkok dalam kurun waktu 40 tahun terakhir telah menorehkan pencapaian yang disaksikan seluruh dunia, pengalaman perkembangannya mengundang perenungan mendalam.\". Kalimat ini menggunakan pola \"Subjek + 以 (yǐ: dengan/demi) + Sarana + V | Topik + 及其 (jí qí) + Aspek Terkait\" (Partikel Klasik 文言虚词 dalam Mandarin Modern: 之, 其, 以, 于) yang berfungsi untuk bahasa Mandarin formal ragam tingkat tinggi HSK 6 mempertahankan partikel gramatikal Tionghoa klasik (文言文): 之 (penanda genitif/kata ganti), 其 (kata ganti milik dia/nya), 以 (dengan/untuk), dan 于 (di/terhadap/pada)."
       },
       {
         "id": "q-zh-gram-53-pg-3",
@@ -24330,7 +24330,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya dengan berpegang teguh pada pengamalan ilmu dan keselarasan antara pengetahuan serta tindakan, barulah kita dapat membangun jembatan kesepahaman dan kerja sama dalam pertukaran lintas budaya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我们要以严谨求实的态度对待科学研究，决不能弄虚作假。\" berarti \"Kita wajib memperlakukan riset ilmiah dengan sikap yang ketat dan berpijak pada kebenaran objektif, mutlak tidak boleh memanipulasi kepalsuan.\"."
+        "explanation": "Kalimat \"我们要以严谨求实的态度对待科学研究，决不能弄虚作假。\" (dibaca: Wǒmen yào yǐ yánjǐn qiúshí de tàidù duìdài kēxué yánjiū, juébù néng nòngxūzuòjiǎ.) berarti \"Kita wajib memperlakukan riset ilmiah dengan sikap yang ketat dan berpijak pada kebenaran objektif, mutlak tidak boleh memanipulasi kepalsuan.\". Kalimat ini menggunakan pola \"Subjek + 以 (yǐ: dengan/demi) + Sarana + V | Topik + 及其 (jí qí) + Aspek Terkait\" (Partikel Klasik 文言虚词 dalam Mandarin Modern: 之, 其, 以, 于) yang berfungsi untuk bahasa Mandarin formal ragam tingkat tinggi HSK 6 mempertahankan partikel gramatikal Tionghoa klasik (文言文): 之 (penanda genitif/kata ganti), 其 (kata ganti milik dia/nya), 以 (dengan/untuk), dan 于 (di/terhadap/pada)."
       },
       {
         "id": "q-zh-gram-53-pg-4",
@@ -24627,7 +24627,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"该学者毕业于北京大学物理系，其主要研究方向为量子计算。\" berarti \"Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.\"."
+        "explanation": "Kalimat \"该学者毕业于北京大学物理系，其主要研究方向为量子计算。\" (dibaca: Gāi xuézhě bìyè yú Běijīng Dàxué wùlǐ xì, qí zhǔyào yánjiū fāngxiàng wéi liàngzǐ jìsuàn.) berarti \"Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum.\". Kalimat ini menggunakan pola \"Subjek + 以 (yǐ: dengan/demi) + Sarana + V | Topik + 及其 (jí qí) + Aspek Terkait\" (Partikel Klasik 文言虚词 dalam Mandarin Modern: 之, 其, 以, 于) yang berfungsi untuk bahasa Mandarin formal ragam tingkat tinggi HSK 6 mempertahankan partikel gramatikal Tionghoa klasik (文言文): 之 (penanda genitif/kata ganti), 其 (kata ganti milik dia/nya), 以 (dengan/untuk), dan 于 (di/terhadap/pada)."
       },
       {
         "id": "q-zh-gram-53-bb-2",
@@ -24761,7 +24761,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jalan menuntut ilmu riset akademik, di satu sisi menuntut keteguhan bertahan laksana 'sepuluh tahun mengasah sebilah pedang', di sisi lain bertumpu pada keberanian merintis laksana 'berani menjadi pelopor terdepan'."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。\" berarti \"Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.\"."
+        "explanation": "Kalimat \"鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。\" (dibaca: Jiànyú dāngqián guójì jīnróng shìchǎng de yánjùn xíngshì, gè guó yāngháng shìbì cǎiqǔ gèngjiā jǐnshèn de huòbì zhèngcè.) berarti \"Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.\". Kalimat ini menggunakan pola \"鉴于 (jiànyú) + Pertimbangan Premis A, Tindakan B 势必 (shìbì) + Menimbulkan Konsekuensi Mutlak C\" (Penanda Wacana Deduktif Akademis: 鉴于 (jiànyú), 势必 (shìbì), 毋庸置疑) yang berfungsi untuk dalam argumen editorial dan tesis, penanda wacana deduktif digunakan untuk menarik simpulan tak terbantahkan: 鉴于 (menimbang / mengingat fakta bahwa), 势必 (pasti tak terelakkan akan memicu), dan 毋庸置疑 (sama sekali tidak diragukan lagi)."
       },
       {
         "id": "q-zh-gram-54-pg-2",
@@ -24777,7 +24777,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"科技创新对推动人类文明进步的巨大贡献，是毋庸置疑的历史事实。\" berarti \"Sumbangsih raksasa inovasi sains dan teknologi terhadap pendorongan kemajuan peradaban manusia adalah fakta historis yang sama sekali tidak diragukan lagi.\"."
+        "explanation": "Kalimat \"科技创新对推动人类文明进步的巨大贡献，是毋庸置疑的历史事实。\" (dibaca: Kējì chuàngxīn duì tuīdòng rénlèi wénmíng jìnbù de jùdà gòngxiàn, shì wúyōngzhìyí de lìshǐ shìshí.) berarti \"Sumbangsih raksasa inovasi sains dan teknologi terhadap pendorongan kemajuan peradaban manusia adalah fakta historis yang sama sekali tidak diragukan lagi.\". Kalimat ini menggunakan pola \"鉴于 (jiànyú) + Pertimbangan Premis A, Tindakan B 势必 (shìbì) + Menimbulkan Konsekuensi Mutlak C\" (Penanda Wacana Deduktif Akademis: 鉴于 (jiànyú), 势必 (shìbì), 毋庸置疑) yang berfungsi untuk dalam argumen editorial dan tesis, penanda wacana deduktif digunakan untuk menarik simpulan tak terbantahkan: 鉴于 (menimbang / mengingat fakta bahwa), 势必 (pasti tak terelakkan akan memicu), dan 毋庸置疑 (sama sekali tidak diragukan lagi)."
       },
       {
         "id": "q-zh-gram-54-pg-3",
@@ -24793,7 +24793,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jika mengeksploitasi sumber daya alam secara berlebihan tanpa pengendalian, pasti tak terelakkan akan mendatangkan malapetaka ekologis yang tak dapat dipulihkan bagi generasi anak cucu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"如果不加节制地过度开采自然资源，势必会给子孙后代带来不可逆转的生态灾难。\" berarti \"Jika mengeksploitasi sumber daya alam secara berlebihan tanpa pengendalian, pasti tak terelakkan akan mendatangkan malapetaka ekologis yang tak dapat dipulihkan bagi generasi anak cucu.\"."
+        "explanation": "Kalimat \"如果不加节制地过度开采自然资源，势必会给子孙后代带来不可逆转的生态灾难。\" (dibaca: Rúguǒ bù jiā jiézhì de guòdù kāicǎi zìrán zīyuán, shìbì huì gěi zǐsūn hòudài dàilái bùkě nìzhuǎn de shēngtài zāinàn.) berarti \"Jika mengeksploitasi sumber daya alam secara berlebihan tanpa pengendalian, pasti tak terelakkan akan mendatangkan malapetaka ekologis yang tak dapat dipulihkan bagi generasi anak cucu.\". Kalimat ini menggunakan pola \"鉴于 (jiànyú) + Pertimbangan Premis A, Tindakan B 势必 (shìbì) + Menimbulkan Konsekuensi Mutlak C\" (Penanda Wacana Deduktif Akademis: 鉴于 (jiànyú), 势必 (shìbì), 毋庸置疑) yang berfungsi untuk dalam argumen editorial dan tesis, penanda wacana deduktif digunakan untuk menarik simpulan tak terbantahkan: 鉴于 (menimbang / mengingat fakta bahwa), 势必 (pasti tak terelakkan akan memicu), dan 毋庸置疑 (sama sekali tidak diragukan lagi)."
       },
       {
         "id": "q-zh-gram-54-pg-4",
@@ -25092,7 +25092,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。\" berarti \"Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.\"."
+        "explanation": "Kalimat \"鉴于当前国际金融市场的严峻形势，各国央行势必采取更加谨慎的货币政策。\" (dibaca: Jiànyú dāngqián guójì jīnróng shìchǎng de yánjùn xíngshì, gè guó yāngháng shìbì cǎiqǔ gèngjiā jǐnshèn de huòbì zhèngcè.) berarti \"Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati.\". Kalimat ini menggunakan pola \"鉴于 (jiànyú) + Pertimbangan Premis A, Tindakan B 势必 (shìbì) + Menimbulkan Konsekuensi Mutlak C\" (Penanda Wacana Deduktif Akademis: 鉴于 (jiànyú), 势必 (shìbì), 毋庸置疑) yang berfungsi untuk dalam argumen editorial dan tesis, penanda wacana deduktif digunakan untuk menarik simpulan tak terbantahkan: 鉴于 (menimbang / mengingat fakta bahwa), 势必 (pasti tak terelakkan akan memicu), dan 毋庸置疑 (sama sekali tidak diragukan lagi)."
       },
       {
         "id": "q-zh-gram-54-bb-2",
@@ -25226,7 +25226,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya dengan mengumpulkan pengetahuan fondasi secara konsisten dan tekun, seseorang baru dapat menorehkan prestasi dalam bidang keilmuan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。\" berarti \"Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.\"."
+        "explanation": "Kalimat \"他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。\" (dibaca: Tā jīntiān zài xuéshù shàng suǒ qǔdé de fēifán chéngjiù, hěn dà chéngdù shàng yuányú tā tóngnián shíqī yǎngchéng de yuèdú xíguàn.) berarti \"Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.\". Kalimat ini menggunakan pola \"Hasil Fenomena + [缘于 / 归咎于 / 取决于] + Akar Penyebab\" (Pola Kausalitas Filosofis: 缘于 (yuányú), 归咎于 (guījiùyú), 取决于) yang berfungsi untuk ketiga verba kausalitas tingkat tinggi ini digunakan untuk analisis atribusi mendalam dalam esai kritik filsafat, sosiologi, dan sains: 缘于 (berakar dari sebab historis/alamiah), 归咎于 (menimpakan kesalahan/kegagalan pada), dan 取决于 (bergantung/ditentukan oleh)."
       },
       {
         "id": "q-zh-gram-55-pg-2",
@@ -25242,7 +25242,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menimpakan kerugian perusahaan secara membabi buta semata-mata pada gejolak pasar makro eksternal adalah bentuk pelepasan tanggung jawab atas kelalaian manajerial sendiri."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"盲目将企业的亏损归咎于外部宏观市场波动，是对自身管理失职的推卸。\" berarti \"Menimpakan kerugian perusahaan secara membabi buta semata-mata pada gejolak pasar makro eksternal adalah bentuk pelepasan tanggung jawab atas kelalaian manajerial sendiri.\"."
+        "explanation": "Kalimat \"盲目将企业的亏损归咎于外部宏观市场波动，是对自身管理失职的推卸。\" (dibaca: Mángmù jiāng qǐyè de kuīsǔn guījiù yú wàibù hóngguān shìchǎng bōdòng, shì duì zìshēn guǎnlǐ shīzhí de tuīxiè.) berarti \"Menimpakan kerugian perusahaan secara membabi buta semata-mata pada gejolak pasar makro eksternal adalah bentuk pelepasan tanggung jawab atas kelalaian manajerial sendiri.\". Kalimat ini menggunakan pola \"Hasil Fenomena + [缘于 / 归咎于 / 取决于] + Akar Penyebab\" (Pola Kausalitas Filosofis: 缘于 (yuányú), 归咎于 (guījiùyú), 取决于) yang berfungsi untuk ketiga verba kausalitas tingkat tinggi ini digunakan untuk analisis atribusi mendalam dalam esai kritik filsafat, sosiologi, dan sains: 缘于 (berakar dari sebab historis/alamiah), 归咎于 (menimpakan kesalahan/kegagalan pada), dan 取决于 (bergantung/ditentukan oleh)."
       },
       {
         "id": "q-zh-gram-55-pg-3",
@@ -25258,7 +25258,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menggarap proyek teknik wajib terjun langsung ke lapangan, hindari berteori di atas kertas dan memberi instruksi secara membabi buta."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"博士研究生能否顺利按期毕业，关键取决于其学位论文的学术创新价值。\" berarti \"Apakah seorang mahasiswa program doktor mampu lulus tepat waktu atau tidak, kuncinya sangat ditentukan oleh nilai kebaruan inovasi akademik pada disertasi penelitiannya.\"."
+        "explanation": "Kalimat \"博士研究生能否顺利按期毕业，关键取决于其学位论文的学术创新价值。\" (dibaca: Bóshì yánjiūshēng néngfǒu shùnlì ànqī bìyè, guānjiàn qǔjué yú qí xuéwèi lùnwén de xuéshù chuàngxīn jiàzhí.) berarti \"Apakah seorang mahasiswa program doktor mampu lulus tepat waktu atau tidak, kuncinya sangat ditentukan oleh nilai kebaruan inovasi akademik pada disertasi penelitiannya.\". Kalimat ini menggunakan pola \"Hasil Fenomena + [缘于 / 归咎于 / 取决于] + Akar Penyebab\" (Pola Kausalitas Filosofis: 缘于 (yuányú), 归咎于 (guījiùyú), 取决于) yang berfungsi untuk ketiga verba kausalitas tingkat tinggi ini digunakan untuk analisis atribusi mendalam dalam esai kritik filsafat, sosiologi, dan sains: 缘于 (berakar dari sebab historis/alamiah), 归咎于 (menimpakan kesalahan/kegagalan pada), dan 取决于 (bergantung/ditentukan oleh)."
       },
       {
         "id": "q-zh-gram-55-pg-4",
@@ -25557,7 +25557,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ilmiah adalah jalan yang panjang dan penuh liku kepedihan, hal yang paling dipantangkan adalah berhenti di tengah jalan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。\" berarti \"Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.\"."
+        "explanation": "Kalimat \"他今天在学术上所取得的非凡成就，很大程度上缘于他童年时期养成的阅读习惯。\" (dibaca: Tā jīntiān zài xuéshù shàng suǒ qǔdé de fēifán chéngjiù, hěn dà chéngdù shàng yuányú tā tóngnián shíqī yǎngchéng de yuèdú xíguàn.) berarti \"Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya.\". Kalimat ini menggunakan pola \"Hasil Fenomena + [缘于 / 归咎于 / 取决于] + Akar Penyebab\" (Pola Kausalitas Filosofis: 缘于 (yuányú), 归咎于 (guījiùyú), 取决于) yang berfungsi untuk ketiga verba kausalitas tingkat tinggi ini digunakan untuk analisis atribusi mendalam dalam esai kritik filsafat, sosiologi, dan sains: 缘于 (berakar dari sebab historis/alamiah), 归咎于 (menimpakan kesalahan/kegagalan pada), dan 取决于 (bergantung/ditentukan oleh)."
       },
       {
         "id": "q-zh-gram-55-bb-2",
@@ -25690,7 +25690,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。\" berarti \"Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.\"."
+        "explanation": "Kalimat \"凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。\" (dibaca: Fánshì zài běn xuéqī qǔdé HSK liù jí gāofēn de guójì liúxuéshēng, jūn yǒu zīgé shēnqǐng yōuxiù xuéyè yīděng jiǎngxuéjīn.) berarti \"Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.\". Kalimat ini menggunakan pola \"凡是 (fánshì) + Entitas yang Memenuhi Syarat, 均 (jūn: semuanya) + Konsekuensi Regulasi\" (Sintaksis Bahasa Hukum & Regulasi: 凡是...均... / 一概 (yígài)) yang berfungsi untuk dalam teks undang-undang, tata tertib universitas, dan kontrak bisnis Tiongkok, klausul universal mutlak menggunakan formula klasik '凡是...均...' (segala/siapa pun yang memenuhi kriteria, semuanya tanpa kecuali wajib...) dan adverbia '一概' (tanpa kecuali)."
       },
       {
         "id": "q-zh-gram-56-pg-2",
@@ -25706,7 +25706,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"对于任何形式的考试抄袭等作弊行为，学校一概采取零容忍态度并严肃处理。\" berarti \"Terhadap segala bentuk kecurangan menyontek dalam ujian, pihak universitas tanpa kecuali mengambil sikap toleransi nol dan menindaknya dengan tegas.\"."
+        "explanation": "Kalimat \"对于任何形式的考试抄袭等作弊行为，学校一概采取零容忍态度并严肃处理。\" (dibaca: Duìyú rènhé xíngshì de kǎoshì chāoxí děng zuòbì xíngwéi, xuéxiào yígài cǎiqǔ líng róngrěn tàidù bìng yánsù chǔlǐ.) berarti \"Terhadap segala bentuk kecurangan menyontek dalam ujian, pihak universitas tanpa kecuali mengambil sikap toleransi nol dan menindaknya dengan tegas.\". Kalimat ini menggunakan pola \"凡是 (fánshì) + Entitas yang Memenuhi Syarat, 均 (jūn: semuanya) + Konsekuensi Regulasi\" (Sintaksis Bahasa Hukum & Regulasi: 凡是...均... / 一概 (yígài)) yang berfungsi untuk dalam teks undang-undang, tata tertib universitas, dan kontrak bisnis Tiongkok, klausul universal mutlak menggunakan formula klasik '凡是...均...' (segala/siapa pun yang memenuhi kriteria, semuanya tanpa kecuali wajib...) dan adverbia '一概' (tanpa kecuali)."
       },
       {
         "id": "q-zh-gram-56-pg-3",
@@ -25722,7 +25722,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kita wajib memperlakukan riset ilmiah dengan sikap yang ketat dan berpijak pada kebenaran objektif, mutlak tidak boleh memanipulasi kepalsuan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"凡是涉及国家核心技术机密的研发档案，均须严格执行绝密安全保管制度。\" berarti \"Semua arsip riset yang menyangkut rahasia teknologi inti negara, seluruhnya wajib menjalankan sistem penyimpanan keamanan sangat rahasia secara ketat.\"."
+        "explanation": "Kalimat \"凡是涉及国家核心技术机密的研发档案，均须严格执行绝密安全保管制度。\" (dibaca: Fánshì shèjí guójiā héxīn jìshù jìmì de yánfā dàng'àn, jūn xū yángé zhíxíng juémì ānquán bǎoguǎn zhìdù.) berarti \"Semua arsip riset yang menyangkut rahasia teknologi inti negara, seluruhnya wajib menjalankan sistem penyimpanan keamanan sangat rahasia secara ketat.\". Kalimat ini menggunakan pola \"凡是 (fánshì) + Entitas yang Memenuhi Syarat, 均 (jūn: semuanya) + Konsekuensi Regulasi\" (Sintaksis Bahasa Hukum & Regulasi: 凡是...均... / 一概 (yígài)) yang berfungsi untuk dalam teks undang-undang, tata tertib universitas, dan kontrak bisnis Tiongkok, klausul universal mutlak menggunakan formula klasik '凡是...均...' (segala/siapa pun yang memenuhi kriteria, semuanya tanpa kecuali wajib...) dan adverbia '一概' (tanpa kecuali)."
       },
       {
         "id": "q-zh-gram-56-pg-4",
@@ -26021,7 +26021,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menghadapi tekanan persaingan kerja yang mungkin muncul di masa depan, mahasiswa patut bersiap siaga sedia payung sebelum hujan, merencanakan jalur karier sedini mungkin."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。\" berarti \"Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.\"."
+        "explanation": "Kalimat \"凡是在本学期取得HSK 6级高分的国际留学生，均有资格申请优秀学业一等奖学金。\" (dibaca: Fánshì zài běn xuéqī qǔdé HSK liù jí gāofēn de guójì liúxuéshēng, jūn yǒu zīgé shēnqǐng yōuxiù xuéyè yīděng jiǎngxuéjīn.) berarti \"Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu.\". Kalimat ini menggunakan pola \"凡是 (fánshì) + Entitas yang Memenuhi Syarat, 均 (jūn: semuanya) + Konsekuensi Regulasi\" (Sintaksis Bahasa Hukum & Regulasi: 凡是...均... / 一概 (yígài)) yang berfungsi untuk dalam teks undang-undang, tata tertib universitas, dan kontrak bisnis Tiongkok, klausul universal mutlak menggunakan formula klasik '凡是...均...' (segala/siapa pun yang memenuhi kriteria, semuanya tanpa kecuali wajib...) dan adverbia '一概' (tanpa kecuali)."
       },
       {
         "id": "q-zh-gram-56-bb-2",
@@ -26154,7 +26154,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Tiongkok dalam kurun waktu 40 tahun terakhir telah menorehkan pencapaian yang disaksikan seluruh dunia, pengalaman perkembangannya mengundang perenungan mendalam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。\" berarti \"Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.\"."
+        "explanation": "Kalimat \"故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。\" (dibaca: Gùgōng Bówùyuàn zhǎnchū de lìdài qīngtóngqì yǔ gǔdài shūhuà cángpǐn, qí gōngyì jīngzhàn, lìng rén tànwéiguānzhǐ.) berarti \"Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.\". Kalimat ini menggunakan pola \"Subjek + [无可奈何 / 令人叹为观止 / 发挥得淋漓尽致]\" (Ekspresi Derajat Ekstrem Abstrak: 无可奈何, 叹为观止, 淋漓尽致) yang berfungsi untuk tingkat kemahiran HSK 6 menuntut pemahaman idiomatis abstrak untuk mengapresiasi keindahan karya seni, kepiawaian berpidato, atau perasaan pasrah: 无可奈何 (pasrah tak berdaya), 叹为观止 (takjub mengagumi puncak mahakarya), dan 淋漓尽致 (tertuang tuntas secara sempurna tanpa cela)."
       },
       {
         "id": "q-zh-gram-57-pg-2",
@@ -26170,7 +26170,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menimbang situasi genting pasar keuangan internasional saat ini, bank-bank sentral berbagai negara pasti tak terelakkan akan mengambil kebijakan moneter yang jauh lebih berhati-hati."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这位杰出的演讲家把中华语言文字的音韵美感与思辨力量发挥得淋漓尽致。\" berarti \"Orator terkemuka ini menuangkan keindahan rima dan daya dialektika bahasa serta aksara Tionghoa secara tuntas paripurna tanpa cela.\"."
+        "explanation": "Kalimat \"这位杰出的演讲家把中华语言文字的音韵美感与思辨力量发挥得淋漓尽致。\" (dibaca: Zhè wèi jiéchū de yǎnjiǎngjiā bǎ Zhōnghuá yǔyán wénzì de yīnyùn měigǎn yǔ sībiàn lìliang fāhuī de línlíjìnzhì.) berarti \"Orator terkemuka ini menuangkan keindahan rima dan daya dialektika bahasa serta aksara Tionghoa secara tuntas paripurna tanpa cela.\". Kalimat ini menggunakan pola \"Subjek + [无可奈何 / 令人叹为观止 / 发挥得淋漓尽致]\" (Ekspresi Derajat Ekstrem Abstrak: 无可奈何, 叹为观止, 淋漓尽致) yang berfungsi untuk tingkat kemahiran HSK 6 menuntut pemahaman idiomatis abstrak untuk mengapresiasi keindahan karya seni, kepiawaian berpidato, atau perasaan pasrah: 无可奈何 (pasrah tak berdaya), 叹为观止 (takjub mengagumi puncak mahakarya), dan 淋漓尽致 (tertuang tuntas secara sempurna tanpa cela)."
       },
       {
         "id": "q-zh-gram-57-pg-3",
@@ -26186,7 +26186,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Jika mengeksploitasi sumber daya alam secara berlebihan tanpa pengendalian, pasti tak terelakkan akan mendatangkan malapetaka ekologis yang tak dapat dipulihkan bagi generasi anak cucu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"面对突如其来的自然灾害，人类有时也会感到无可奈何，但这更坚定了我们探索自然的决心。\" berarti \"Menghadapi bencana alam yang datang tiba-tiba, manusia terkadang merasa pasrah tak berdaya, namun hal ini justru makin meneguhkan tekad kita untuk meneliti alam.\"."
+        "explanation": "Kalimat \"面对突如其来的自然灾害，人类有时也会感到无可奈何，但这更坚定了我们探索自然的决心。\" (dibaca: Miànduì tūrúqílái de zìrán zāihài, rénlèi yǒushí yě huì gǎndào wúkěnàihé, dàn zhè gèng jiāndìng le wǒmen tànsuǒ zìrán de juéxīn.) berarti \"Menghadapi bencana alam yang datang tiba-tiba, manusia terkadang merasa pasrah tak berdaya, namun hal ini justru makin meneguhkan tekad kita untuk meneliti alam.\". Kalimat ini menggunakan pola \"Subjek + [无可奈何 / 令人叹为观止 / 发挥得淋漓尽致]\" (Ekspresi Derajat Ekstrem Abstrak: 无可奈何, 叹为观止, 淋漓尽致) yang berfungsi untuk tingkat kemahiran HSK 6 menuntut pemahaman idiomatis abstrak untuk mengapresiasi keindahan karya seni, kepiawaian berpidato, atau perasaan pasrah: 无可奈何 (pasrah tak berdaya), 叹为观止 (takjub mengagumi puncak mahakarya), dan 淋漓尽致 (tertuang tuntas secara sempurna tanpa cela)."
       },
       {
         "id": "q-zh-gram-57-pg-4",
@@ -26485,7 +26485,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Ilmuwan tersebut lulus dari Departemen Fisika Universitas Peking, arah penelitian utamanya adalah komputasi kuantum."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。\" berarti \"Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.\"."
+        "explanation": "Kalimat \"故宫博物院展出的历代青铜器与古代书画藏品，其工艺精湛，令人叹为观止。\" (dibaca: Gùgōng Bówùyuàn zhǎnchū de lìdài qīngtóngqì yǔ gǔdài shūhuà cángpǐn, qí gōngyì jīngzhàn, lìng rén tànwéiguānzhǐ.) berarti \"Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum.\". Kalimat ini menggunakan pola \"Subjek + [无可奈何 / 令人叹为观止 / 发挥得淋漓尽致]\" (Ekspresi Derajat Ekstrem Abstrak: 无可奈何, 叹为观止, 淋漓尽致) yang berfungsi untuk tingkat kemahiran HSK 6 menuntut pemahaman idiomatis abstrak untuk mengapresiasi keindahan karya seni, kepiawaian berpidato, atau perasaan pasrah: 无可奈何 (pasrah tak berdaya), 叹为观止 (takjub mengagumi puncak mahakarya), dan 淋漓尽致 (tertuang tuntas secara sempurna tanpa cela)."
       },
       {
         "id": "q-zh-gram-57-bb-2",
@@ -26622,7 +26622,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Sumbangsih raksasa inovasi sains dan teknologi terhadap pendorongan kemajuan peradaban manusia adalah fakta historis yang sama sekali tidak diragukan lagi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"这次学术讲座使我明白了科研诚信的重要性。\" berarti \"Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.\"."
+        "explanation": "Kalimat \"这次学术讲座使我明白了科研诚信的重要性。\" (dibaca: Zhè cì xuéshù jiǎngzuò shǐ wǒ míngbai le kēyán chéngxìn de zhòngyàoxìng.) berarti \"Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.\". Kalimat ini menggunakan pola \"Identifikasi 病句: 缺乏主语 (Hilang Subjek) | 搭配不当 (Kolokasi Janggal) | 句式杂糅 (Kerancuan Pola)\" (Analisis Kesalahan Kalimat Kompleks 病句 (Bìngjù): Kerancuan Subjek & Logika) yang berfungsi untuk soal 'Pilihlah kalimat yang salah (病句 bìngjù)' adalah momok tersulit dalam tes membaca HSK 6. Unit ini membekali teknik identifikasi 3 penyakit sintaksis paling sering muncul: ketiadaan subjek akibat preposisi berlebih, kolokasi subjek-predikat yang rancu, dan tumpang-tindih struktur."
       },
       {
         "id": "q-zh-gram-58-pg-2",
@@ -26638,7 +26638,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"我们在学术研讨中要广泛培养批判性思维能力，而不是一味盲从。\" berarti \"Dalam diskusi ilmiah kita harus menumbuhkembangkan kemampuan berpikir kritis secara luas, bukan sekadar mengikuti secara membabi buta.\"."
+        "explanation": "Kalimat \"我们在学术研讨中要广泛培养批判性思维能力，而不是一味盲从。\" (dibaca: Wǒmen zài xuéshù yántǎo zhōng yào guǎngfàn péiyǎng pīpànxìng sīwéi nénglì, ér bú shì yíwèi mángcóng.) berarti \"Dalam diskusi ilmiah kita harus menumbuhkembangkan kemampuan berpikir kritis secara luas, bukan sekadar mengikuti secara membabi buta.\". Kalimat ini menggunakan pola \"Identifikasi 病句: 缺乏主语 (Hilang Subjek) | 搭配不当 (Kolokasi Janggal) | 句式杂糅 (Kerancuan Pola)\" (Analisis Kesalahan Kalimat Kompleks 病句 (Bìngjù): Kerancuan Subjek & Logika) yang berfungsi untuk soal 'Pilihlah kalimat yang salah (病句 bìngjù)' adalah momok tersulit dalam tes membaca HSK 6. Unit ini membekali teknik identifikasi 3 penyakit sintaksis paling sering muncul: ketiadaan subjek akibat preposisi berlebih, kolokasi subjek-predikat yang rancu, dan tumpang-tindih struktur."
       },
       {
         "id": "q-zh-gram-58-pg-3",
@@ -26654,7 +26654,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Seluruh mahasiswa di kelas tanpa terkecuali telah mengumpulkan makalah akhir semester tepat waktu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"全班所有同学都无一例外地按时提交了期末论文。\" berarti \"Seluruh mahasiswa di kelas tanpa terkecuali telah mengumpulkan makalah akhir semester tepat waktu.\"."
+        "explanation": "Kalimat \"全班所有同学都无一例外地按时提交了期末论文。\" (dibaca: Quán bān suǒyǒu tóngxué dōu wúyí lìwài de ànshí tíjiāo le qīmò lùnwén.) berarti \"Seluruh mahasiswa di kelas tanpa terkecuali telah mengumpulkan makalah akhir semester tepat waktu.\". Kalimat ini menggunakan pola \"Identifikasi 病句: 缺乏主语 (Hilang Subjek) | 搭配不当 (Kolokasi Janggal) | 句式杂糅 (Kerancuan Pola)\" (Analisis Kesalahan Kalimat Kompleks 病句 (Bìngjù): Kerancuan Subjek & Logika) yang berfungsi untuk soal 'Pilihlah kalimat yang salah (病句 bìngjù)' adalah momok tersulit dalam tes membaca HSK 6. Unit ini membekali teknik identifikasi 3 penyakit sintaksis paling sering muncul: ketiadaan subjek akibat preposisi berlebih, kolokasi subjek-predikat yang rancu, dan tumpang-tindih struktur."
       },
       {
         "id": "q-zh-gram-58-pg-4",
@@ -26953,7 +26953,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"这次学术讲座使我明白了科研诚信的重要性。\" berarti \"Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.\"."
+        "explanation": "Kalimat \"这次学术讲座使我明白了科研诚信的重要性。\" (dibaca: Zhè cì xuéshù jiǎngzuò shǐ wǒ míngbai le kēyán chéngxìn de zhòngyàoxìng.) berarti \"Kuliah umum akademik kali ini membuat saya memahami pentingnya integritas riset ilmiah.\". Kalimat ini menggunakan pola \"Identifikasi 病句: 缺乏主语 (Hilang Subjek) | 搭配不当 (Kolokasi Janggal) | 句式杂糅 (Kerancuan Pola)\" (Analisis Kesalahan Kalimat Kompleks 病句 (Bìngjù): Kerancuan Subjek & Logika) yang berfungsi untuk soal 'Pilihlah kalimat yang salah (病句 bìngjù)' adalah momok tersulit dalam tes membaca HSK 6. Unit ini membekali teknik identifikasi 3 penyakit sintaksis paling sering muncul: ketiadaan subjek akibat preposisi berlebih, kolokasi subjek-predikat yang rancu, dan tumpang-tindih struktur."
       },
       {
         "id": "q-zh-gram-58-bb-2",
@@ -27086,7 +27086,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menimpakan kerugian perusahaan secara membabi buta semata-mata pada gejolak pasar makro eksternal adalah bentuk pelepasan tanggung jawab atas kelalaian manajerial sendiri."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。\" berarti \"Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.\"."
+        "explanation": "Kalimat \"人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。\" (dibaca: Réngōng zhìnéng jìshù de xùnměng fāzhǎn chéngrán jí dà de jiěfàng le shēngchǎnlì, rán'ér qí yǐnfā de lúnlǐ fēngxiǎn yǔ fǎlǜ zhìhòu yì bùróng hūshì.) berarti \"Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.\". Kalimat ini menggunakan pola \"诚然 / 固然 (chéngrán / gùrán) + Konsesi Sudut Pandang Lawan, 然而 (rán'ér) + Argumen Inti Penulis\" (Retorika Debat Publik & Esai Kritis: 诚然...固然...然而) yang berfungsi untuk puncak kecakapan berargumen akademik adalah teknik konsesi dialektis: mengakui sebagian kebenaran sudut pandang lawan dengan 诚然 (memang benar bahwa) atau 固然 (tentu saja demikian), lalu secara elegan membantah dan menegaskan tesis utama dengan 然而 (namun demikian)."
       },
       {
         "id": "q-zh-gram-59-pg-2",
@@ -27102,7 +27102,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Mengejar pertumbuhan ekonomi yang tinggi tentu saja merupakan keniscayaan perkembangan masyarakat, namun mutlak tidak boleh mengorbankan kelestarian lingkungan hidup sebagai harga yang teramat mahal."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"追求经济的高速增长固然是社会发展的题中之义，然而决不能以牺牲生态环境为沉重代价。\" berarti \"Mengejar pertumbuhan ekonomi yang tinggi tentu saja merupakan keniscayaan perkembangan masyarakat, namun mutlak tidak boleh mengorbankan kelestarian lingkungan hidup sebagai harga yang teramat mahal.\"."
+        "explanation": "Kalimat \"追求经济的高速增长固然是社会发展的题中之义，然而决不能以牺牲生态环境为沉重代价。\" (dibaca: Zhuīqiú jīngjì de gāosù zēngzhǎng gùrán shì shèhuì fāzhǎn de tízhōngzhīyì, rán'ér jué bù néng yǐ xīshēng shēngtài huánjìng wéi chénzhòng dàijià.) berarti \"Mengejar pertumbuhan ekonomi yang tinggi tentu saja merupakan keniscayaan perkembangan masyarakat, namun mutlak tidak boleh mengorbankan kelestarian lingkungan hidup sebagai harga yang teramat mahal.\". Kalimat ini menggunakan pola \"诚然 / 固然 (chéngrán / gùrán) + Konsesi Sudut Pandang Lawan, 然而 (rán'ér) + Argumen Inti Penulis\" (Retorika Debat Publik & Esai Kritis: 诚然...固然...然而) yang berfungsi untuk puncak kecakapan berargumen akademik adalah teknik konsesi dialektis: mengakui sebagian kebenaran sudut pandang lawan dengan 诚然 (memang benar bahwa) atau 固然 (tentu saja demikian), lalu secara elegan membantah dan menegaskan tesis utama dengan 然而 (namun demikian)."
       },
       {
         "id": "q-zh-gram-59-pg-3",
@@ -27118,7 +27118,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Semua arsip riset yang menyangkut rahasia teknologi inti negara, seluruhnya wajib menjalankan sistem penyimpanan keamanan sangat rahasia secara ketat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"前人的研究结论诚然为我们奠定了扎实基石，然而唯有勇于质疑权威，学术方能推陈出新。\" berarti \"Kesimpulan riset para pendahulu memang telah meletakkan batu penjuru yang kokoh bagi kita, namun hanya dengan berani mempertanyakan otoritas, keilmuan baru dapat melahirkan terobosan baru.\"."
+        "explanation": "Kalimat \"前人的研究结论诚然为我们奠定了扎实基石，然而唯有勇于质疑权威，学术方能推陈出新。\" (dibaca: Qiánrén de yánjiū jiélùn chéngrán wèi wǒmen diàndìng le zhāshí jīshí, rán'ér wéiyǒu yǒngyú zhìyí quánwēi, xuéshù fāng néng tuīchénchūxīn.) berarti \"Kesimpulan riset para pendahulu memang telah meletakkan batu penjuru yang kokoh bagi kita, namun hanya dengan berani mempertanyakan otoritas, keilmuan baru dapat melahirkan terobosan baru.\". Kalimat ini menggunakan pola \"诚然 / 固然 (chéngrán / gùrán) + Konsesi Sudut Pandang Lawan, 然而 (rán'ér) + Argumen Inti Penulis\" (Retorika Debat Publik & Esai Kritis: 诚然...固然...然而) yang berfungsi untuk puncak kecakapan berargumen akademik adalah teknik konsesi dialektis: mengakui sebagian kebenaran sudut pandang lawan dengan 诚然 (memang benar bahwa) atau 固然 (tentu saja demikian), lalu secara elegan membantah dan menegaskan tesis utama dengan 然而 (namun demikian)."
       },
       {
         "id": "q-zh-gram-59-pg-4",
@@ -27417,7 +27417,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Prestasi luar biasa yang diraihnya dalam dunia akademik hari ini, sebagian besar berakar dari kebiasaan membaca yang ditanamkan sejak masa kanak-kanaknya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。\" berarti \"Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.\"."
+        "explanation": "Kalimat \"人工智能技术的迅猛发展诚然极大地解放了生产力，然而其引发的伦理风险与法律滞后亦不容忽视。\" (dibaca: Réngōng zhìnéng jìshù de xùnměng fāzhǎn chéngrán jí dà de jiěfàng le shēngchǎnlì, rán'ér qí yǐnfā de lúnlǐ fēngxiǎn yǔ fǎlǜ zhìhòu yì bùróng hūshì.) berarti \"Perkembangan pesat teknologi kecerdasan buatan memang benar secara masif membebaskan daya produktivitas, namun risiko etika dan ketertinggalan regulasi hukum yang dipicunya juga tidak boleh dipandang sebelah mata.\". Kalimat ini menggunakan pola \"诚然 / 固然 (chéngrán / gùrán) + Konsesi Sudut Pandang Lawan, 然而 (rán'ér) + Argumen Inti Penulis\" (Retorika Debat Publik & Esai Kritis: 诚然...固然...然而) yang berfungsi untuk puncak kecakapan berargumen akademik adalah teknik konsesi dialektis: mengakui sebagian kebenaran sudut pandang lawan dengan 诚然 (memang benar bahwa) atau 固然 (tentu saja demikian), lalu secara elegan membantah dan menegaskan tesis utama dengan 然而 (namun demikian)."
       },
       {
         "id": "q-zh-gram-59-bb-2",
@@ -27552,7 +27552,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。\" berarti \"Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.\"."
+        "explanation": "Kalimat \"纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。\" (dibaca: Zòngguān rénlèi lìshǐ chánghé, wéiyǒu bǐngchí kāifàng bāoróng, jiānshōubìngxù zhī xiōngjīn, bùtóng wénmíng fāng néng zài hùxué hùjiàn zhōng gòngtóng zhànfàng yìcǎi.) berarti \"Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.\". Kalimat ini menggunakan pola \"Penguasaan Paripurna: 5.000+ Kosakata + 成语 + 文言虚词 + 辩证修辞 + 病句清障\" (Sintaksis Tingkat Mahir Fluktuasi Wacana & Evaluasi Komprehensif HSK 6) yang berfungsi untuk unit ke-60 menandai PUNCAK tertinggi kurikulum bahasa Mandarin HSK. Pemelajar kini menguasai lebih dari 5.000 kosakata, mampu mengapresiasi teks sastra klasik, menganalisis jurnal ilmiah setara penutur asli, dan siap menempuh program Doktoral (S3) serta berkarier profesional di Tiongkok."
       },
       {
         "id": "q-zh-gram-60-pg-2",
@@ -27568,7 +27568,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Koleksi bejana perunggu dan lukisan kaligrafi kuno yang dipamerkan di Museum Istana Kota Terlarang, keahlian kriyanya begitu luar biasa hingga membuat siapa pun yang memandangnya takjub berdecak kagum."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"学术研究之道，既需‘十年磨一剑’之笃定坚守，亦赖‘敢为人先’之开拓魄力。\" berarti \"Jalan menuntut ilmu riset akademik, di satu sisi menuntut keteguhan bertahan laksana 'sepuluh tahun mengasah sebilah pedang', di sisi lain bertumpu pada keberanian merintis laksana 'berani menjadi pelopor terdepan'.\"."
+        "explanation": "Kalimat \"学术研究之道，既需‘十年磨一剑’之笃定坚守，亦赖‘敢为人先’之开拓魄力。\" (dibaca: Xuéshù yánjiū zhī dào, jì xū 'shí nián mó yí jiàn' zhī dǔdìng jiānshǒu, yì lài 'gǎn wéi rén xiān' zhī kāituò pòlì.) berarti \"Jalan menuntut ilmu riset akademik, di satu sisi menuntut keteguhan bertahan laksana 'sepuluh tahun mengasah sebilah pedang', di sisi lain bertumpu pada keberanian merintis laksana 'berani menjadi pelopor terdepan'.\". Kalimat ini menggunakan pola \"Penguasaan Paripurna: 5.000+ Kosakata + 成语 + 文言虚词 + 辩证修辞 + 病句清障\" (Sintaksis Tingkat Mahir Fluktuasi Wacana & Evaluasi Komprehensif HSK 6) yang berfungsi untuk unit ke-60 menandai PUNCAK tertinggi kurikulum bahasa Mandarin HSK. Pemelajar kini menguasai lebih dari 5.000 kosakata, mampu mengapresiasi teks sastra klasik, menganalisis jurnal ilmiah setara penutur asli, dan siap menempuh program Doktoral (S3) serta berkarier profesional di Tiongkok."
       },
       {
         "id": "q-zh-gram-60-pg-3",
@@ -27584,7 +27584,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Menghadapi bencana alam yang datang tiba-tiba, manusia terkadang merasa pasrah tak berdaya, namun hal ini justru makin meneguhkan tekad kita untuk meneliti alam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"唯有坚持学以致用、知行合一，方能在跨文化交流中架起理解与合作的桥梁。\" berarti \"Hanya dengan berpegang teguh pada pengamalan ilmu dan keselarasan antara pengetahuan serta tindakan, barulah kita dapat membangun jembatan kesepahaman dan kerja sama dalam pertukaran lintas budaya.\"."
+        "explanation": "Kalimat \"唯有坚持学以致用、知行合一，方能在跨文化交流中架起理解与合作的桥梁。\" (dibaca: Wéiyǒu jiānchí xuéyǐzhìyòng, zhīxínghéyī, fāng néng zài kuà wénhuà jiāoliú zhōng jiàqǐ lǐjiě yǔ hézuò de qiáoliáng.) berarti \"Hanya dengan berpegang teguh pada pengamalan ilmu dan keselarasan antara pengetahuan serta tindakan, barulah kita dapat membangun jembatan kesepahaman dan kerja sama dalam pertukaran lintas budaya.\". Kalimat ini menggunakan pola \"Penguasaan Paripurna: 5.000+ Kosakata + 成语 + 文言虚词 + 辩证修辞 + 病句清障\" (Sintaksis Tingkat Mahir Fluktuasi Wacana & Evaluasi Komprehensif HSK 6) yang berfungsi untuk unit ke-60 menandai PUNCAK tertinggi kurikulum bahasa Mandarin HSK. Pemelajar kini menguasai lebih dari 5.000 kosakata, mampu mengapresiasi teks sastra klasik, menganalisis jurnal ilmiah setara penutur asli, dan siap menempuh program Doktoral (S3) serta berkarier profesional di Tiongkok."
       },
       {
         "id": "q-zh-gram-60-pg-4",
@@ -27883,7 +27883,7 @@ export const CHINESE_GRAMMAR: GrammarLesson[] =  [
           "Semua mahasiswa internasional yang meraih skor tinggi HSK 6 pada semester ini, seluruhnya berhak mengajukan beasiswa prestasi akademik peringkat satu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。\" berarti \"Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.\"."
+        "explanation": "Kalimat \"纵观人类历史长河，唯有秉持开放包容、兼收并蓄之胸襟，不同文明方能在互学互鉴中共同绽放异彩。\" (dibaca: Zòngguān rénlèi lìshǐ chánghé, wéiyǒu bǐngchí kāifàng bāoróng, jiānshōubìngxù zhī xiōngjīn, bùtóng wénmíng fāng néng zài hùxué hùjiàn zhōng gòngtóng zhànfàng yìcǎi.) berarti \"Memandang panorama panjang sejarah peradaban manusia, hanya dengan memegang teguh keterbukaan inklusif dan kelapangan dada yang merangkul keberagaman, peradaban-peradaban yang berlainan baru dapat bersama-sama memancarkan kemilau kejayaan dalam semangat saling belajar dan bertukar kebajikan.\". Kalimat ini menggunakan pola \"Penguasaan Paripurna: 5.000+ Kosakata + 成语 + 文言虚词 + 辩证修辞 + 病句清障\" (Sintaksis Tingkat Mahir Fluktuasi Wacana & Evaluasi Komprehensif HSK 6) yang berfungsi untuk unit ke-60 menandai PUNCAK tertinggi kurikulum bahasa Mandarin HSK. Pemelajar kini menguasai lebih dari 5.000 kosakata, mampu mengapresiasi teks sastra klasik, menganalisis jurnal ilmiah setara penutur asli, dan siap menempuh program Doktoral (S3) serta berkarier profesional di Tiongkok."
       },
       {
         "id": "q-zh-gram-60-bb-2",

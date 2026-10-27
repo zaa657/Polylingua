@@ -13,7 +13,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hola estimado profesor, es un placer saludarle en persona.",
     "examplePhonetic": "Oh-lah ehs-tee-mah-doh proh-feh-sohr, ehs un plah-sehr sah-loo-dahr-leh.",
     "exampleTranslation": "Halo Yth. Profesor, suatu kehormatan dan kesenangan dapat menyapa Anda langsung.",
-    "notes": "Ungkapan salam pembuka percakapan.",
+    "notes": "Ungkapan salam pembuka percakapan. Kata \"Hola\" (cara baca: oh-lah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Halo\".",
     "tags": [
       "salam",
       "a1",
@@ -70,7 +70,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hasta luego, nos vemos el próximo lunes en el aula magna.",
     "examplePhonetic": "Ahs-tah lweh-goh, nohs veh-mohs ehl prohk-see-moh loo-nehs ehn ehl ow-lah.",
     "exampleTranslation": "Sampai jumpa, kita bertemu lagi hari Senin depan di aula utama perkuliahan.",
-    "notes": "Ucapan perpisahan santun.",
+    "notes": "Ucapan perpisahan santun. Kata \"Adiós / Hasta luego\" (cara baca: ah-dyohs / ahs-tah lweh-goh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Sampai jumpa lagi\".",
     "tags": [
       "salam",
       "a1",
@@ -146,7 +146,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "¿Podría indicarme el camino hacia el laboratorio tres, por favor?",
     "examplePhonetic": "Poh-dree-ah een-dee-kahr-meh ehl kah-mee-noh ah-syah ehl lah-boh-rah-toh-ryoh.",
     "exampleTranslation": "Bisakah Anda menunjukkan arah ke laboratorium tiga, tolong?",
-    "notes": "Kata santun untuk memohon bantuan.",
+    "notes": "Kata santun untuk memohon bantuan. Kata \"Por favor\" (cara baca: pohr fah-vohr) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tolong\".",
     "tags": [
       "salam",
       "a1",
@@ -165,7 +165,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hola colega, ¿cómo estás y cómo avanzan tus experimentos?",
     "examplePhonetic": "Oh-lah koh-leh-gah, koh-moh ehs-tahs ee koh-moh ah-vahn-thahn toos.",
     "exampleTranslation": "Halo rekan sejawat, bagaimana kabarmu dan bagaimana kemajuan eksperimenmu?",
-    "notes": "Menanyakan kabar dan kondisi kesehatan.",
+    "notes": "Menanyakan kabar dan kondisi kesehatan. Kata \"¿Cómo está?\" (cara baca: koh-moh ehs-tah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Apa kabar?\".",
     "tags": [
       "salam",
       "a1",
@@ -184,7 +184,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Mucho gusto en conocerle durante este congreso internacional.",
     "examplePhonetic": "Moo-choh goos-toh ehn koh-noh-thehr-leh doo-rahn-teh ehs-teh kohn-greh-soh.",
     "exampleTranslation": "Sangat senang berkenalan dengan Anda pada kongres internasional ini.",
-    "notes": "Diucapkan saat perkenalan pertama kali.",
+    "notes": "Diucapkan saat perkenalan pertama kali. Kata \"Mucho gusto\" (cara baca: moo-choh goos-toh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Senang berkenalan dengan Anda\".",
     "tags": [
       "salam",
       "a1",
@@ -203,7 +203,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Sí, estoy matriculado formalmente en el máster oficial de ingeniería.",
     "examplePhonetic": "See, ehs-toy mah-tree-koo-lah-doh fohr-mahl-mehn-teh ehn ehl mahs-tehr.",
     "exampleTranslation": "Ya, saya resmi terdaftar di program magister resmi bidang teknik.",
-    "notes": "Jawaban afirmatif menyetujui.",
+    "notes": "Jawaban afirmatif menyetujui. Kata \"Sí\" (cara baca: see) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Ya\".",
     "tags": [
       "salam",
       "a1",
@@ -222,7 +222,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "No, este manual de referencia pertenece al fondo bibliográfico protegido.",
     "examplePhonetic": "Noh, ehs-teh mah-nwahl deh reh-feh-rehn-syah pehr-teh-neh-theh ahl fohn-doh.",
     "exampleTranslation": "Bukan / Tidak, buku panduan acuan ini termasuk koleksi kepustakaan dilindungi.",
-    "notes": "Jawaban penolakan atau negasi.",
+    "notes": "Jawaban penolakan atau negasi. Kata \"No\" (cara baca: noh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tidak\".",
     "tags": [
       "salam",
       "a1",
@@ -260,7 +260,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Me llamo Carlos y he venido desde Indonesia con una beca de posgrado.",
     "examplePhonetic": "Meh yah-moh Kahr-lohs ee eh veh-nee-doh dehs-deh Een-doh-neh-syah.",
     "exampleTranslation": "Nama saya Carlos dan saya datang dari Indonesia dengan beasiswa pascasarjana.",
-    "notes": "Memperkenalkan nama diri sendiri.",
+    "notes": "Memperkenalkan nama diri sendiri. Kata \"Me llamo\" (cara baca: meh yah-moh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Nama saya...\".",
     "tags": [
       "salam",
       "a1",
@@ -298,7 +298,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La Universidad de Barcelona es una de las instituciones más prestigiosas de Europa.",
     "examplePhonetic": "Lah Oo-nee-vehr-see-dahd deh Bahr-theh-loh-nah ehs oo-nah deh lahs een-stee-too-syoh-nehs.",
     "exampleTranslation": "Universitas Barcelona adalah salah satu institusi paling terkemuka di Eropa.",
-    "notes": "Institusi pendidikan tinggi formal.",
+    "notes": "Institusi pendidikan tinggi formal. Kata \"Universidad\" (cara baca: oo-nee-vehr-see-dahd) digunakan dalam bahasa Spanyol (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Universitas\".",
     "tags": [
       "kampus",
       "a1",
@@ -488,7 +488,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Alcanzó la calificación máxima de matrícula de honor en derecho constitucional.",
     "examplePhonetic": "Ahl-kahn-thoh lah kah-lee-fee-kah-syohn mahk-see-mah deh mah-tree-koo-lah.",
     "exampleTranslation": "Dia meraih nilai predikat tertinggi kehormatan pada hukum konstitusi.",
-    "notes": "Hasil evaluasi prestasi belajar.",
+    "notes": "Hasil evaluasi prestasi belajar. Kata \"Calificación\" (cara baca: kah-lee-fee-kah-syohn) digunakan dalam bahasa Spanyol (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Nilai akademik\".",
     "tags": [
       "kampus",
       "a1",
@@ -507,7 +507,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La prestigiosa beca de la Fundación Carolina financia la manutención mensual del estudiante.",
     "examplePhonetic": "Lah preh-stee-zhyoh-sah beh-kah deh lah Foon-dah-syohn Kah-roh-lee-nah.",
     "exampleTranslation": "Beasiswa prestisius Yayasan Carolina menanggung biaya hidup bulanan mahasiswa.",
-    "notes": "Bantuan dana pendidikan berprestasi.",
+    "notes": "Bantuan dana pendidikan berprestasi. Kata \"Beca\" (cara baca: beh-kah) digunakan dalam bahasa Spanyol (tingkat A2, kategori Kampus & Pendidikan) untuk menyatakan \"Beasiswa\".",
     "tags": [
       "kampus",
       "a2",
@@ -640,7 +640,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Los datos experimentales recogidos respaldaron plenamente la hipótesis postulada.",
     "examplePhonetic": "Lohs dah-tohs ehks-peh-ree-mehn-tah-lehs reh-spahl-dah-rohn pleh-nah-mehn-teh.",
     "exampleTranslation": "Data eksperimen yang dihimpun membuktikan penuh kebenaran hipotesis yang diajukan.",
-    "notes": "Dugaan awal yang diuji kebenarannya.",
+    "notes": "Dugaan awal yang diuji kebenarannya. Kata \"Hipótesis\" (cara baca: ee-poh-teh-sees) digunakan dalam bahasa Spanyol (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Hipotesis penelitian\".",
     "tags": [
       "penelitian",
       "b2",
@@ -716,7 +716,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En el capítulo final de conclusiones se exponen las implicaciones prácticas del estudio.",
     "examplePhonetic": "Ehn ehl kah-pee-too-loh fee-nahl deh kohn-kloo-syoh-nehs seh ehks-poh-nehn.",
     "exampleTranslation": "Pada bab kesimpulan akhir dipaparkan implikasi praktis dari studi penelitian.",
-    "notes": "Ringkasan intisari hasil penelitian.",
+    "notes": "Ringkasan intisari hasil penelitian. Kata \"Conclusiones\" (cara baca: kohn-kloo-syoh-nehs) digunakan dalam bahasa Spanyol (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Kesimpulan\".",
     "tags": [
       "penelitian",
       "b2",
@@ -735,7 +735,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La bibliografía recoge exhaustivamente las fuentes primarias y secundarias consultadas.",
     "examplePhonetic": "Lah bee-blyoh-grah-fee-ah reh-koh-kheh ehks-ows-tee-vah-mehn-teh lahs fwehn-tehs.",
     "exampleTranslation": "Daftar pustaka merangkum secara tuntas sumber primer dan sekunder rujukan.",
-    "notes": "Daftar rujukan literatur yang disitir.",
+    "notes": "Daftar rujukan literatur yang disitir. Kata \"Bibliografía\" (cara baca: bee-blyoh-grah-fee-ah) digunakan dalam bahasa Spanyol (tingkat B1, kategori Penelitian & Riset) untuk menyatakan \"Daftar pustaka\".",
     "tags": [
       "penelitian",
       "b1",
@@ -811,7 +811,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El tren de alta velocidad AVE une Madrid y Barcelona en apenas dos horas y media.",
     "examplePhonetic": "Ehl trehn deh ahl-tah veh-loh-thee-dahd Ah-Vay oo-neh Mah-dreed ee Bahr-theh-loh-nah.",
     "exampleTranslation": "Kereta cepat AVE menghubungkan Madrid dan Barcelona dalam kurun 2,5 jam.",
-    "notes": "Moda transportasi rel cepat perkotaan.",
+    "notes": "Moda transportasi rel cepat perkotaan. Kata \"Tren\" (cara baca: trehn) digunakan dalam bahasa Spanyol (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Kereta api\".",
     "tags": [
       "transportasi",
       "a1",
@@ -849,7 +849,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Pedimos un taxi oficial para acudir con puntualidad a la defensa del proyecto.",
     "examplePhonetic": "Peh-dee-mohs un tahk-see oh-fee-syahl pah-rah ah-koo-deer kohn poon-twah-lee-dahd.",
     "exampleTranslation": "Kami memesan taksi resmi untuk hadir tepat waktu pada sidang proyek riset.",
-    "notes": "Kendaraan sewa umum berbayar argo.",
+    "notes": "Kendaraan sewa umum berbayar argo. Kata \"Taxi\" (cara baca: tahk-see) digunakan dalam bahasa Spanyol (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Taksi\".",
     "tags": [
       "transportasi",
       "a1",
@@ -925,7 +925,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Esperamos la llegada de la línea circular en la parada de autobús techada.",
     "examplePhonetic": "Ehs-peh-rah-mohs lah yeh-gah-dah deh lah lee-neh-ah theer-koo-lahr ehn lah pah-rah-dah.",
     "exampleTranslation": "Kami menanti bus trayek melingkar di halte bus beratap peneduh.",
-    "notes": "Tempat perhentian bus di tepi jalan.",
+    "notes": "Tempat perhentian bus di tepi jalan. Kata \"Parada de autobús\" (cara baca: pah-rah-dah deh ow-toh-boos) digunakan dalam bahasa Spanyol (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Halte bus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -944,7 +944,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Gire a la izquierda nada más salir del metro para encontrar la facultad de letras.",
     "examplePhonetic": "Khee-reh ah lah eeth-kyehr-dah nah-dah mahs sah-leer dehl meh-troh.",
     "exampleTranslation": "Beloklah ke kiri segera setelah keluar metro untuk menemukan fakultas sastra.",
-    "notes": "Petunjuk arah ke sisi kiri.",
+    "notes": "Petunjuk arah ke sisi kiri. Kata \"A la izquierda\" (cara baca: ah lah eeth-kyehr-dah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kiri\".",
     "tags": [
       "transportasi",
       "a1",
@@ -963,7 +963,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La secretaría de gestión académica se localiza a la derecha del vestíbulo principal.",
     "examplePhonetic": "Lah seh-kreh-tah-ree-ah deh khehs-tyohn ah-kah-day-mee-kah seh loh-kah-lee-thah.",
     "exampleTranslation": "Sekretariat akademik berlokasi di sebelah kanan lobi utama pintu masuk.",
-    "notes": "Petunjuk arah ke sisi kanan.",
+    "notes": "Petunjuk arah ke sisi kanan. Kata \"A la derecha\" (cara baca: ah lah deh-reh-chah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kanan\".",
     "tags": [
       "transportasi",
       "a1",
@@ -982,7 +982,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Camine todo recto por el paseo arbolado hasta divisar el rectorado.",
     "examplePhonetic": "Kah-mee-neh toh-doh rehk-toh pohr ehl pah-seh-oh ahr-boh-lah-doh ahs-tah dee-vee-sahr.",
     "exampleTranslation": "Berjalanlah lurus terus melintasi deretan pepohonan hingga tampak gedung rektorat.",
-    "notes": "Petunjuk arah tanpa berbelok.",
+    "notes": "Petunjuk arah tanpa berbelok. Kata \"Todo recto\" (cara baca: toh-doh rehk-toh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Lurus terus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -1001,7 +1001,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hoy tiene lugar la feria anual de empleo y emprendimiento universitario.",
     "examplePhonetic": "Oy tyeh-neh loo-gahr lah feh-ryah ah-nwahl deh ehm-play-oh ee ehm-prehn-dee-myehn-toh.",
     "exampleTranslation": "Hari ini dihelat bursa tahunan lowongan kerja dan kewirausahaan mahasiswa.",
-    "notes": "Hari saat ini berlangsung.",
+    "notes": "Hari saat ini berlangsung. Kata \"Hoy\" (cara baca: oy) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Hari ini\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1020,7 +1020,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Mañana expira el plazo oficial para formalizar la matrícula complementaria.",
     "examplePhonetic": "Mah-nyah-nah ehks-pee-rah ehl plah-thoh oh-fee-syahl pah-rah fohr-mah-lee-thahr.",
     "exampleTranslation": "Besok berakhir masa tenggat waktu resmi untuk pendaftaran mata kuliah susulan.",
-    "notes": "Hari setelah hari ini.",
+    "notes": "Hari setelah hari ini. Kata \"Mañana\" (cara baca: mah-nyah-nah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Besok\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1039,7 +1039,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ayer por la tarde concluimos con éxito la última prueba experimental del máster.",
     "examplePhonetic": "Ah-yehr pohr lah tahr-deh kohn-klwee-mohs kohn ehk-see-toh lah ool-tee-mah.",
     "exampleTranslation": "Kemarin sore kami sukses menuntaskan uji coba eksperimen tugas akhir master.",
-    "notes": "Hari sebelum hari ini.",
+    "notes": "Hari sebelum hari ini. Kata \"Ayer\" (cara baca: ah-yehr) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Kemarin\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1058,7 +1058,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El seminario de debate filosófico tendrá una duración estimada de dos horas.",
     "examplePhonetic": "Ehl seh-mee-nah-ryoh deh deh-bah-teh fee-loh-soh-fee-koh tehn-drah oo-nah doo-rah-syohn.",
     "exampleTranslation": "Seminar perdebatan filsafat akan memakan durasi sekitar dua jam penuh.",
-    "notes": "Satuan penunjuk waktu 60 menit.",
+    "notes": "Satuan penunjuk waktu 60 menit. Kata \"Hora\" (cara baca: oh-rah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Jam\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1077,7 +1077,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Disponemos de diez minutos adicionales para resolver las dudas finales planteadas.",
     "examplePhonetic": "Dees-poh-neh-mohs deh dyehs mee-noo-tohs ah-dee-syoh-nah-lehs pah-rah reh-sohl-vehr.",
     "exampleTranslation": "Kita memiliki waktu sepuluh menit tambahan untuk menjawab pertanyaan akhir.",
-    "notes": "Satuan penunjuk waktu 60 detik.",
+    "notes": "Satuan penunjuk waktu 60 detik. Kata \"Minuto\" (cara baca: mee-noo-toh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Menit\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1096,7 +1096,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La próxima semana se dedicará por entero a la revisión y tutorías personalizadas.",
     "examplePhonetic": "Lah prohk-see-mah seh-mah-nah seh deh-dee-kah-rah pohr ehn-teh-roh ah lah.",
     "exampleTranslation": "Pekan depan akan didedikasikan penuh untuk ulasan dan bimbingan tutorial privat.",
-    "notes": "Periode waktu tujuh hari.",
+    "notes": "Periode waktu tujuh hari. Kata \"Semana\" (cara baca: seh-mah-nah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Pekan\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1115,7 +1115,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Dentro de un mes concluirá el período lectivo ordinario del cuatrimestre.",
     "examplePhonetic": "Dehn-troh deh un mehs kohn-klwee-rah ehl peh-ryoh-doh lehk-tee-voh ohr-dee-nah-ryoh.",
     "exampleTranslation": "Sebulan lagi akan berakhir periode kuliah aktif reguler semester perkuliahan.",
-    "notes": "Periode waktu sekitar 30 hari.",
+    "notes": "Periode waktu sekitar 30 hari. Kata \"Mes\" (cara baca: mehs) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Bulan kalender\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1134,7 +1134,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El curso académico universitario se extiende tradicionalmente de septiembre a junio.",
     "examplePhonetic": "Ehl koor-soh ah-kah-day-mee-koh oo-nee-vehr-see-tah-ryoh seh ehks-tyehn-deh.",
     "exampleTranslation": "Tahun ajaran akademik universitas lazimnya membentang September hingga Juni.",
-    "notes": "Periode waktu 12 bulan.",
+    "notes": "Periode waktu 12 bulan. Kata \"Año\" (cara baca: ah-nyoh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Tahun\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1153,7 +1153,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ahora es el momento idóneo para profundizar en la revisión bibliográfica del tema.",
     "examplePhonetic": "Ah-oh-rah ehs ehl moh-mehn-toh ee-doh-neh-oh pah-rah proh-foon-dee-thahr.",
     "exampleTranslation": "Sekarang adalah saat yang paling tepat untuk mendalami kajian kepustakaan topik.",
-    "notes": "Waktu yang sedang terjadi kini.",
+    "notes": "Waktu yang sedang terjadi kini. Kata \"Ahora\" (cara baca: ah-oh-rah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Sekarang\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1172,7 +1172,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Abordaremos las demostraciones empíricas más tarde en la sesión de laboratorio.",
     "examplePhonetic": "Ah-bohr-dah-reh-mohs lahs day-mohs-trah-syoh-nehs ehm-pee-ree-kahs mahs tahr-deh.",
     "exampleTranslation": "Kita akan membahas pembuktian data empiris nanti pada sesi praktikum.",
-    "notes": "Waktu yang akan datang tidak lama lagi.",
+    "notes": "Waktu yang akan datang tidak lama lagi. Kata \"Más tarde\" (cara baca: mahs tahr-deh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Nanti\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1248,7 +1248,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La paella valenciana con arroz dorado es un emblema gastronómico español.",
     "examplePhonetic": "Lah pah-eh-yah vah-lehn-syah-nah kohn ah-rrohth doh-rah-doh ehs un ehm-bleh-mah.",
     "exampleTranslation": "Paella khas Valencia dengan nasi kuningnya adalah ikon kuliner Spanyol.",
-    "notes": "Makanan pokok sumber karbohidrat utama.",
+    "notes": "Makanan pokok sumber karbohidrat utama. Kata \"Paella / Pan\" (cara baca: pah-eh-yah / pahn) digunakan dalam bahasa Spanyol (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Nasi\".",
     "tags": [
       "makanan",
       "a1",
@@ -1343,7 +1343,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El jamón ibérico de bellota tiene un sabor exquisito y delicioso.",
     "examplePhonetic": "Ehl khah-mohn ee-beh-ree-koh deh beh-yoh-tah tyeh-neh un sah-bohr ehks-kee-see-toh.",
     "exampleTranslation": "Ham Iberia bellota memiliki cita rasa yang sangat lezat dan menggugah selera.",
-    "notes": "Rasa makanan yang memuaskan lidah.",
+    "notes": "Rasa makanan yang memuaskan lidah. Kata \"Delicioso\" (cara baca: deh-lee-syoh-soh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Enak\".",
     "tags": [
       "makanan",
       "a1",
@@ -1419,7 +1419,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La tienda de reprografía de la facultad encuaderna tesis con acabado profesional.",
     "examplePhonetic": "Lah tyehn-dah deh reh-proh-grah-fee-ah deh lah fah-kool-tahd ehn-kwah-dehr-nah.",
     "exampleTranslation": "Toko fotokopi percetakan fakultas menjilid naskah tesis secara profesional.",
-    "notes": "Tempat menjual aneka barang kebutuhan.",
+    "notes": "Tempat menjual aneka barang kebutuhan. Kata \"Tienda\" (cara baca: tyehn-dah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Toko\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1438,7 +1438,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Al exhibir la tarjeta universitaria obtendrá un importante descuento en librerías.",
     "examplePhonetic": "Ahl ehks-ee-beer lah tahr-kheh-tah oo-nee-vehr-see-tah-ryah ohb-tehn-drah.",
     "exampleTranslation": "Dengan menunjukkan kartu mahasiswa Anda meraih diskon berharga di toko buku.",
-    "notes": "Pengurangan dari harga jual standar.",
+    "notes": "Pengurangan dari harga jual standar. Kata \"Descuento\" (cara baca: dehs-kwehn-toh) digunakan dalam bahasa Spanyol (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Diskon\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1457,7 +1457,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Los comercios universitarios aceptan cobros móviles y tarjetas de crédito.",
     "examplePhonetic": "Lohs koh-mehr-syohs oo-nee-vehr-see-tah-ryohs ah-thehp-tahn koh-brohs moh-vee-lehs.",
     "exampleTranslation": "Gerai kampus melayani transaksi pembayaran nirkabel dan kartu kredit.",
-    "notes": "Alat transaksi perbankan nontunai.",
+    "notes": "Alat transaksi perbankan nontunai. Kata \"Tarjeta de crédito\" (cara baca: tahr-kheh-tah deh kray-dee-toh) digunakan dalam bahasa Spanyol (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Kartu kredit\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1476,7 +1476,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Conserve el recibo de pago de las tasas para acreditar su matrícula oficial.",
     "examplePhonetic": "Kohn-sehr-veh ehl reh-thee-boh deh pah-goh deh lahs tah-sahs pah-rah ah-kreh-dee-tahr.",
     "exampleTranslation": "Simpanlah tanda terima bukti setor biaya kuliah demi keabsahan status resmi.",
-    "notes": "Tanda bukti sah transaksi pembelian.",
+    "notes": "Tanda bukti sah transaksi pembelian. Kata \"Recibo\" (cara baca: reh-thee-boh) digunakan dalam bahasa Spanyol (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Struk bukti belanja\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1495,7 +1495,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En el mercado de abastos de la ciudad se adquieren frutas y hortalizas fresquísimas.",
     "examplePhonetic": "Ehn ehl mehr-kah-doh deh ah-bahs-tohs deh lah thyoo-dahd seh ahd-kyeh-rehn.",
     "exampleTranslation": "Di pasar induk kota dapat dibeli aneka buah-buahan dan sayuran amat segar.",
-    "notes": "Tempat bertemunya penjual dan pembeli.",
+    "notes": "Tempat bertemunya penjual dan pembeli. Kata \"Mercado\" (cara baca: mehr-kah-doh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Pasar tradisional\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1514,7 +1514,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Alquilar una habitación compartida cerca del campus resulta relativamente barato.",
     "examplePhonetic": "Ahl-kee-lahr oo-nah ah-bee-tah-syohn kohm-pahr-tee-dah thehr-kah dehl kahm-poos.",
     "exampleTranslation": "Menyewa kamar asrama bersama dekat kampus terbukti berbiaya cukup murah.",
-    "notes": "Harga barang di bawah rata-rata umum.",
+    "notes": "Harga barang di bawah rata-rata umum. Kata \"Barato\" (cara baca: bah-rah-toh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Murah terjangkau\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1590,7 +1590,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Incluso un pequeño seminario de debate puede originar una tesis de gran impacto.",
     "examplePhonetic": "Een-kloo-soh un peh-keh-nyoh seh-mee-nah-ryoh deh deh-bah-teh pweh-deh oh-ree-khee-nahr.",
     "exampleTranslation": "Bahkan seminar kelompok kecil pun dapat memicu lahirnya tesis berdaya guna.",
-    "notes": "Ukuran atau volume di bawah rata-rata.",
+    "notes": "Ukuran atau volume di bawah rata-rata. Kata \"Pequeño\" (cara baca: peh-keh-nyoh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Kecil ukurannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1628,7 +1628,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El avance científico puede parecer lento, pero sus cimientos son indestructibles.",
     "examplePhonetic": "Ehl ah-vahn-theh syahn-tee-fee-koh pweh-deh pah-reh-thehr lehn-toh.",
     "exampleTranslation": "Kemajuan sains terkadang tampak lambat, namun fondasinya kokoh tak tergoyahkan.",
-    "notes": "Membutuhkan waktu lama dalam bergerak.",
+    "notes": "Membutuhkan waktu lama dalam bergerak. Kata \"Lento\" (cara baca: lehn-toh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Lambat pergerakannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1647,7 +1647,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El estudiante inteligente sabe formular hipótesis audaces y contrastables.",
     "examplePhonetic": "Ehl ehs-too-dyahn-teh een-teh-lee-khehn-teh sah-beh fohr-moo-lahr ee-poh-teh-sees.",
     "exampleTranslation": "Mahasiswa cerdas pandai tahu merumuskan hipotesis yang berani dan teruji.",
-    "notes": "Mempunyai daya pikir cepat dan tajam.",
+    "notes": "Mempunyai daya pikir cepat dan tajam. Kata \"Inteligente\" (cara baca: een-teh-lee-khehn-teh) digunakan dalam bahasa Spanyol (tingkat A2, kategori Kata Sifat & Keadaan) untuk menyatakan \"Cerdas\".",
     "tags": [
       "kata",
       "a2",
@@ -1723,7 +1723,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Un buen marco teórico constituye la espina dorsal de cualquier tesis doctoral sólida.",
     "examplePhonetic": "Un bwehn mahr-koh tay-oh-ree-koh kohn-stee-too-yeh lah ehs-pee-nah dohr-sahl.",
     "exampleTranslation": "Kerangka teori yang baik merupakan tulang punggung disertasi yang kokoh.",
-    "notes": "Memiliki mutu tinggi dan bermanfaat.",
+    "notes": "Memiliki mutu tinggi dan bermanfaat. Kata \"Bueno\" (cara baca: bweh-noh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Bagus\".",
     "tags": [
       "kata",
       "a1",
@@ -1780,7 +1780,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Los investigadores deben leer tratados científicos actualizados de forma sistemática.",
     "examplePhonetic": "Lohs een-vehs-tee-gah-doh-rehs deh-behn leh-ehr trah-tah-dohs syahn-tee-fee-kohs.",
     "exampleTranslation": "Para peneliti harus membaca risalah ilmiah terkini secara sistematis.",
-    "notes": "Melihat dan memahami isi tulisan.",
+    "notes": "Melihat dan memahami isi tulisan. Kata \"Leer\" (cara baca: leh-ehr) digunakan dalam bahasa Spanyol (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Membaca teks buku\".",
     "tags": [
       "aksi",
       "a1",
@@ -1818,7 +1818,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En las mesas redondas es vital hablar con elocuencia, rigor y claridad expositiva.",
     "examplePhonetic": "Ehn lahs meh-sahs reh-dohn-dahs ehs vee-tahl ah-blahr kohn ay-loh-kwehn-syah.",
     "exampleTranslation": "Dalam diskusi panel amat penting berbicara lantang, fasih, dan jelas terstruktur.",
-    "notes": "Menyampaikan kata-kata melalui suara.",
+    "notes": "Menyampaikan kata-kata melalui suara. Kata \"Hablar\" (cara baca: ah-blahr) digunakan dalam bahasa Spanyol (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Berbicara lisan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1856,7 +1856,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Los científicos suelen comer en la cafetería del instituto para comentar avances.",
     "examplePhonetic": "Lohs syahn-tee-fee-kohs sweh-lehn koh-mehr ehn lah kah-feh-teh-ree-ah.",
     "exampleTranslation": "Para ilmuwan lazimnya makan bersama di kafetaria membahas kemajuan riset.",
-    "notes": "Mengonsumsi makanan ke dalam perut.",
+    "notes": "Mengonsumsi makanan ke dalam perut. Kata \"Comer\" (cara baca: koh-mehr) digunakan dalam bahasa Spanyol (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Makan makanan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1875,7 +1875,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Procure beber suficientes líquidos durante las maratonianas jornadas de estudio.",
     "examplePhonetic": "Proh-koo-reh beh-behr soo-fee-syehn-tehs lee-kee-dohs doo-rahn-teh lahs.",
     "exampleTranslation": "Pastikan meminum air yang cukup selama jam-jam panjang belajar di perpustakaan.",
-    "notes": "Meneguk zat cair penghilang dahaga.",
+    "notes": "Meneguk zat cair penghilang dahaga. Kata \"Beber\" (cara baca: beh-behr) digunakan dalam bahasa Spanyol (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Minum air cairan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1913,7 +1913,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Voy al departamento de física para realizar las mediciones del experimento.",
     "examplePhonetic": "Voy ahl deh-pahr-tah-mehn-toh deh fee-see-kah pah-rah reh-ah-lee-thahr lahs.",
     "exampleTranslation": "Saya pergi ke departemen fisika untuk melaksanakan pengukuran eksperimen.",
-    "notes": "Berangkat meninggalkan lokasi saat ini.",
+    "notes": "Berangkat meninggalkan lokasi saat ini. Kata \"Ir\" (cara baca: eer) digunakan dalam bahasa Spanyol (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Pergi ke suatu tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -1932,7 +1932,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Académicos de renombre internacional vienen cada año a dictar conferencias magistrales.",
     "examplePhonetic": "Ah-kah-day-mee-kohs deh reh-nohm-breh een-tehr-nah-syoh-nahl vyeh-nehn.",
     "exampleTranslation": "Akademisi tersohor internasional datang setiap tahun memberikan kuliah tamu.",
-    "notes": "Sampai di tempat yang dituju.",
+    "notes": "Sampai di tempat yang dituju. Kata \"Venir\" (cara baca: veh-neer) digunakan dalam bahasa Spanyol (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Datang tiba di tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -2141,7 +2141,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Encontrará una farmacia de guardia abierta las veinticuatro horas en la avenida principal.",
     "examplePhonetic": "Ehn-kohn-trah-rah oo-nah fahr-mah-syah deh gwahr-dyah ah-byehr-tah lahs.",
     "exampleTranslation": "Anda akan menemukan apotek jaga siaga 24 jam di jalan raya utama.",
-    "notes": "Toko penyedia obat-obatan resmi.",
+    "notes": "Toko penyedia obat-obatan resmi. Kata \"Farmacia\" (cara baca: fahr-mah-syah) digunakan dalam bahasa Spanyol (tingkat A1, kategori Kesehatan & Tubuh) untuk menyatakan \"Apotek obat\".",
     "tags": [
       "kesehatan",
       "a1",
@@ -2217,7 +2217,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La red inalámbrica Eduroam proporciona conexión a internet de alta velocidad en todo el campus.",
     "examplePhonetic": "Lah rehd ee-nah-lahm-bree-kah Ay-doo-rohm proh-pohr-syoh-nah koh-nehk-syohn.",
     "exampleTranslation": "Jaringan internet nirkabel Eduroam menyediakan koneksi cepat di seluruh kampus.",
-    "notes": "Jaringan telekomunikasi digital global.",
+    "notes": "Jaringan telekomunikasi digital global. Kata \"Internet\" (cara baca: een-tehr-neht) digunakan dalam bahasa Spanyol (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Jaringan internet\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2236,7 +2236,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Por consideración académica, silencie su teléfono móvil durante el transcurso de la clase.",
     "examplePhonetic": "Pohr kohn-see-deh-rah-syohn ah-kah-day-mee-kah, see-lehn-syeh soo teh-leh-foh-noh.",
     "exampleTranslation": "Demi etika akademik, heningkan nada dering ponsel Anda selama perkuliahan.",
-    "notes": "Telepon genggam pintar serbaguna.",
+    "notes": "Telepon genggam pintar serbaguna. Kata \"Teléfono móvil\" (cara baca: teh-leh-foh-noh moh-veel) digunakan dalam bahasa Spanyol (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Ponsel\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2388,7 +2388,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Durante la ola de calor veraniega las aulas climatizadas ofrecen un ambiente ideal.",
     "examplePhonetic": "Doo-rahn-teh lah oh-lah deh kah-lohr veh-rah-nyeh-gah lahs ow-lahs klee-mah-tee-thah-dahs.",
     "exampleTranslation": "Selama gelombang panas musim panas, ruang kuliah ber-AC memberi kenyamanan ideal.",
-    "notes": "Suhu udara tinggi menghangatkan tubuh.",
+    "notes": "Suhu udara tinggi menghangatkan tubuh. Kata \"Calor\" (cara baca: kah-lohr) digunakan dalam bahasa Spanyol (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Panas udaranya\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2426,7 +2426,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El verano es el período ideal para realizar cursos de idiomas y prácticas extracurriculares.",
     "examplePhonetic": "Ehl veh-rah-noh ehs ehl peh-ryoh-doh ee-deh-ahl pah-rah reh-ah-lee-thahr koor-sohs.",
     "exampleTranslation": "Musim panas adalah waktu ideal untuk kursus bahasa dan magang pengayaan.",
-    "notes": "Musim bersuhu tertinggi dalam kalender.",
+    "notes": "Musim bersuhu tertinggi dalam kalender. Kata \"Verano\" (cara baca: veh-rah-noh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim panas\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2445,7 +2445,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En invierno los universitarios disfrutan de los deportes de nieve en las cumbres cercanas.",
     "examplePhonetic": "Ehn een-vyehr-noh lohs oo-nee-vehr-see-tah-ryohs dees-froo-tahn deh lohs deh-pohr-tehs.",
     "exampleTranslation": "Di musim dingin para mahasiswa menikmati olahraga salju di puncak gunung dekat kota.",
-    "notes": "Musim bersuhu terendah berhawa beku.",
+    "notes": "Musim bersuhu terendah berhawa beku. Kata \"Invierno\" (cara baca: een-vyehr-noh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim dingin\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2464,7 +2464,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El histórico Parque del Retiro constituye el pulmón verde emblemático de Madrid.",
     "examplePhonetic": "Ehl ees-toh-ree-koh Pahr-keh dehl Reh-tee-roh kohn-stee-too-yeh ehl pool-mohn.",
     "exampleTranslation": "Taman bersejarah El Retiro merupakan paru-paru hijau kebanggaan kota Madrid.",
-    "notes": "Ruang terbuka hijau asri untuk santai.",
+    "notes": "Ruang terbuka hijau asri untuk santai. Kata \"Parque\" (cara baca: pahr-keh) digunakan dalam bahasa Spanyol (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Taman kampus hijau\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2578,7 +2578,7 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El auténtico investigador sabe que cuanto más conocimiento atesora, la humildad engrandece al sabio.",
     "examplePhonetic": "Ehl ow-tehn-tee-koh een-vehs-tee-gah-dohr sah-beh keh kwahn-toh mahs koh-noh-thee-myehn-toh.",
     "exampleTranslation": "Ilmuwan sejati paham bahwa kian tinggi ilmu diraih, kerendahan hati kian mengagungkan martabatnya.",
-    "notes": "Makin berilmu makin santun dan tawadhu.",
+    "notes": "Makin berilmu makin santun dan tawadhu. Kata \"La humildad engrandece al sabio\" (cara baca: lah oo-meel-dahd ehn-grahn-deh-theh ahl sah-byoh) digunakan dalam bahasa Spanyol (tingkat B2, kategori Idiom & Peribahasa) untuk menyatakan \"Padi makin berisi makin runduk\".",
     "tags": [
       "idiom",
       "b2",
@@ -2692,11 +2692,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El lunes por la mañana tenemos clase de matemáticas a primera hora.",
     "examplePhonetic": "El lunes por la manana tenemos clase de matematicas a primera hora.",
     "exampleTranslation": "Senin pagi kita ada kelas matematika pada jam pertama.",
-    "notes": "Hari Senin.",
+    "notes": "Hari Senin. Kata \"Lunes\" (cara baca: ˈlunes) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Senin\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2711,11 +2711,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Todos los martes por la tarde hay seminario de historia contemporánea.",
     "examplePhonetic": "Todos los martes por la tarde hay seminario de historia contemporanea.",
     "exampleTranslation": "Setiap Selasa sore ada seminar sejarah kontemporer.",
-    "notes": "Hari Selasa.",
+    "notes": "Hari Selasa. Kata \"Martes\" (cara baca: ˈmaɾtes) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Selasa\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2730,11 +2730,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El miércoles realizamos prácticas en el laboratorio de química.",
     "examplePhonetic": "El miercoles realizamos practicas en el laboratorio de quimica.",
     "exampleTranslation": "Hari Rabu kami melakukan praktikum di laboratorium kimia.",
-    "notes": "Hari Rabu.",
+    "notes": "Hari Rabu. Kata \"Miércoles\" (cara baca: ˈmjeɾkoles) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Rabu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2749,11 +2749,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El profesor entrega las notas del examen parcial los jueves.",
     "examplePhonetic": "El profesor entrega las notas del examen parcial los jueves.",
     "exampleTranslation": "Dosen membagikan nilai ujian tengah semester setiap hari Kamis.",
-    "notes": "Hari Kamis.",
+    "notes": "Hari Kamis. Kata \"Jueves\" (cara baca: ˈxweβes) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Kamis\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2768,11 +2768,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El viernes es el último día de clases de la semana.",
     "examplePhonetic": "El viernes es el ultimo dia de clases de la semana.",
     "exampleTranslation": "Jumat adalah hari terakhir sekolah dalam pekan ini.",
-    "notes": "Hari Jumat.",
+    "notes": "Hari Jumat. Kata \"Viernes\" (cara baca: ˈbjeɾnes) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jumat\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2787,11 +2787,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La biblioteca de la facultad abre los sábados por la mañana.",
     "examplePhonetic": "La biblioteca de la facultad abre los sabados por la manana.",
     "exampleTranslation": "Perpustakaan fakultas buka pada Sabtu pagi.",
-    "notes": "Hari Sabtu.",
+    "notes": "Hari Sabtu. Kata \"Sábado\" (cara baca: ˈsaβaðo) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Sabtu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2806,11 +2806,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El domingo los alumnos descansan y preparan las lecturas de la semana.",
     "examplePhonetic": "El domingo los alumnos descansan y preparan las lecturas de la semana.",
     "exampleTranslation": "Pada hari Minggu para murid beristirahat dan menyiapkan bahan bacaan pekan berikutnya.",
-    "notes": "Hari Minggu.",
+    "notes": "Hari Minggu. Kata \"Domingo\" (cara baca: doˈmiŋɡo) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Minggu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2825,11 +2825,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Puedes consultar tu horario de clases en el portal del estudiante.",
     "examplePhonetic": "Puedes consultar tu horario de clases en el portal del estudiante.",
     "exampleTranslation": "Kamu dapat melihat jadwal kuliahmu di portal mahasiswa.",
-    "notes": "Jadwal pelajaran atau jadwal kuliah.",
+    "notes": "Jadwal pelajaran atau jadwal kuliah. Kata \"Horario de clases\" (cara baca: oˈɾaɾjo ðe ˈklases) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jadwal Pelajaran\".",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -2846,9 +2846,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kalender akademik menetapkan dua ratus hari sekolah aktif dalam setahun.",
     "notes": "Hari sekolah aktif atau hari kerja (día laborable).",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2863,11 +2863,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Durante el fin de semana aprovecho para repasar los temas difíciles.",
     "examplePhonetic": "Durante el fin de semana aprovecho para repasar los temas dificiles.",
     "exampleTranslation": "Selama akhir pekan saya memanfaatkan waktu untuk mengulang materi yang sulit.",
-    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "notes": "Akhir pekan (Sabtu & Minggu). Kata \"Fin de semana\" (cara baca: fin de seˈmana) digunakan dalam bahasa Spanyol (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -2882,11 +2882,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Las matemáticas desarrollan el pensamiento abstracto y la resolución de problemas.",
     "examplePhonetic": "Las matematicas desarrollan el pensamiento abstracto y la resolucion de problemas.",
     "exampleTranslation": "Matematika mengembangkan pemikiran abstrak dan pemecahan masalah.",
-    "notes": "Mata pelajaran matematika.",
+    "notes": "Mata pelajaran matematika. Kata \"Matemáticas\" (cara baca: mateˈmatikas) digunakan dalam bahasa Spanyol (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Matematika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2901,11 +2901,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En física estudiamos las leyes del movimiento formuladas por Newton.",
     "examplePhonetic": "En fisica estudiamos las leyes del movimiento formuladas por Newton.",
     "exampleTranslation": "Dalam fisika kita mempelajari hukum gerak yang dirumuskan oleh Newton.",
-    "notes": "Mata pelajaran fisika.",
+    "notes": "Mata pelajaran fisika. Kata \"Física\" (cara baca: ˈfisika) digunakan dalam bahasa Spanyol (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Fisika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2920,11 +2920,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La química estudia la composición y las transformaciones de la materia.",
     "examplePhonetic": "La quimica estudia la composicion y las transformaciones de la materia.",
     "exampleTranslation": "Kimia mempelajari komposisi dan transformasi materi.",
-    "notes": "Mata pelajaran kimia.",
+    "notes": "Mata pelajaran kimia. Kata \"Química\" (cara baca: ˈkimika) digunakan dalam bahasa Spanyol (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Kimia\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2939,11 +2939,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La biología marina analiza la vida en los océanos y ecosistemas costeros.",
     "examplePhonetic": "La biologia marina analiza la vida en los oceanos y ecosistemas costeros.",
     "exampleTranslation": "Biologi laut menganalisis kehidupan di lautan dan ekosistem pesisir.",
-    "notes": "Mata pelajaran biologi.",
+    "notes": "Mata pelajaran biologi. Kata \"Biología\" (cara baca: bjoloˈxi.a) digunakan dalam bahasa Spanyol (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Biologi\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2958,11 +2958,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Aprender historia nos permite comprender las raíces de la sociedad actual.",
     "examplePhonetic": "Aprender historia nos permite comprender las raices de la sociedad actual.",
     "exampleTranslation": "Belajar sejarah memungkinkan kita memahami akar masyarakat saat ini.",
-    "notes": "Mata pelajaran sejarah.",
+    "notes": "Mata pelajaran sejarah. Kata \"Historia\" (cara baca: isˈtoɾja) digunakan dalam bahasa Spanyol (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sejarah\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2977,11 +2977,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En la clase de geografía localizamos las capitales del mundo en el mapa.",
     "examplePhonetic": "En la clase de geografia localizamos las capitales del mundo en el mapa.",
     "exampleTranslation": "Di kelas geografi kita menentukan letak ibu kota dunia pada peta.",
-    "notes": "Mata pelajaran geografi.",
+    "notes": "Mata pelajaran geografi. Kata \"Geografía\" (cara baca: xeoɣɾaˈfi.a) digunakan dalam bahasa Spanyol (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Geografi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2996,11 +2996,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Don Quijote de la Mancha es la obra cumbre de la literatura española.",
     "examplePhonetic": "Don Quijote de la Mancha es la obra cumbre de la literatura espanola.",
     "exampleTranslation": "Don Quijote de la Mancha adalah karya puncak dalam sastra Spanyol.",
-    "notes": "Sastra dan literatur bahasa.",
+    "notes": "Sastra dan literatur bahasa. Kata \"Literatura\" (cara baca: liteɾaˈtuɾa) digunakan dalam bahasa Spanyol (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sastra & Bahasa\".",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3015,11 +3015,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La carrera de informática capacita a los estudiantes en desarrollo de software.",
     "examplePhonetic": "La carrera de informatica capacita a los estudiantes en desarrollo de software.",
     "exampleTranslation": "Jurusan informatika melatih mahasiswa dalam pengembangan perangkat lunak.",
-    "notes": "Ilmu komputer / informatika.",
+    "notes": "Ilmu komputer / informatika. Kata \"Informática\" (cara baca: infoɾˈmatika) digunakan dalam bahasa Spanyol (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3034,11 +3034,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La facultad de economía investiga las tendencias macroeconómicas mundiales.",
     "examplePhonetic": "La facultad de economia investiga las tendencias macroeconomicas mundiales.",
     "exampleTranslation": "Fakultas ekonomi meneliti tren makroekonomi global.",
-    "notes": "Ilmu ekonomi.",
+    "notes": "Ilmu ekonomi. Kata \"Economía\" (cara baca: ekonoˈmi.a) digunakan dalam bahasa Spanyol (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Ekonomi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3053,11 +3053,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La filosofía fomenta el análisis reflexivo y el pensamiento crítico profundo.",
     "examplePhonetic": "La filosofia fomenta el analisis reflexivo y el pensamiento critico profundo.",
     "exampleTranslation": "Filsafat memupuk analisis reflektif dan pemikiran kritis yang mendalam.",
-    "notes": "Filsafat.",
+    "notes": "Filsafat. Kata \"Filosofía\" (cara baca: filosoˈfi.a) digunakan dalam bahasa Spanyol (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Filsafat\".",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3072,11 +3072,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Los alumnos de bellas artes exponen sus esculturas en la galería del campus.",
     "examplePhonetic": "Los alumnos de bellas artes exponen sus esculturas en la galeria del campus.",
     "exampleTranslation": "Mahasiswa seni rupa memamerkan patung-patung mereka di galeri kampus.",
-    "notes": "Seni rupa / seni visual.",
+    "notes": "Seni rupa / seni visual. Kata \"Bellas artes\" (cara baca: ˈbeʎas ˈaɾtes) digunakan dalam bahasa Spanyol (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Seni Rupa & Kesenian\".",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3093,9 +3093,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Pendidikan jasmani mendorong kebiasaan hidup sehat dan olahraga harian.",
     "notes": "Pendidikan jasmani & olahraga (Penjasorkes).",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3110,11 +3110,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Estudiar medicina exige una gran vocación de servicio y disciplina constante.",
     "examplePhonetic": "Estudiar medicina exige una gran vocacion de servicio y disciplina constante.",
     "exampleTranslation": "Belajar kedokteran menuntut panggilan pengabdian yang besar dan disiplin konsisten.",
-    "notes": "Ilmu kedokteran.",
+    "notes": "Ilmu kedokteran. Kata \"Medicina\" (cara baca: meðiˈsina) digunakan dalam bahasa Spanyol (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Kedokteran\".",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3129,11 +3129,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La facultad de derecho prepara a futuros jueces, fiscales y abogados.",
     "examplePhonetic": "La facultad de derecho prepara a futuros jueces, fiscales y abogados.",
     "exampleTranslation": "Fakultas hukum mempersiapkan para calon hakim, jaksa, dan pengacara.",
-    "notes": "Ilmu hukum.",
+    "notes": "Ilmu hukum. Kata \"Derecho\" (cara baca: deˈɾetʃo) digunakan dalam bahasa Spanyol (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3148,11 +3148,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Los graduados en ingeniería diseñan soluciones tecnológicas innovadoras.",
     "examplePhonetic": "Los graduados en ingenieria disenan soluciones tecnologicas innovadoras.",
     "exampleTranslation": "Para lulusan teknik merancang solusi teknologi yang inovatif.",
-    "notes": "Teknik dan rekayasa (engineering).",
+    "notes": "Teknik dan rekayasa (engineering). Kata \"Ingeniería\" (cara baca: inxeɲeˈɾi.a) digunakan dalam bahasa Spanyol (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Teknik & Rekayasa\".",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3169,9 +3169,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Para mahasiswa mengambil tempat duduk di ruang kelas sebelum pelajaran dimulai.",
     "notes": "Ruang kelas (aula de clase / salón de clases).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3186,11 +3186,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La biblioteca central cuenta con salas de estudio individual y en grupo.",
     "examplePhonetic": "La biblioteca central cuenta con salas de estudio individual y en grupo.",
     "exampleTranslation": "Perpustakaan pusat memiliki ruang belajar individu dan kelompok.",
-    "notes": "Perpustakaan.",
+    "notes": "Perpustakaan. Kata \"Biblioteca\" (cara baca: biβljoˈteka) digunakan dalam bahasa Spanyol (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Perpustakaan\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3205,11 +3205,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Es indispensable ponerse la bata blanca para trabajar en el laboratorio.",
     "examplePhonetic": "Es indispensable ponerse la bata blanca para trabajar en el laboratorio.",
     "exampleTranslation": "Sangat wajib mengenakan jas lab putih untuk bekerja di laboratorium.",
-    "notes": "Laboratorium sains.",
+    "notes": "Laboratorium sains. Kata \"Laboratorio\" (cara baca: laβoɾaˈtoɾjo) digunakan dalam bahasa Spanyol (tingkat A2, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Sains\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3226,9 +3226,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Upacara pengukuhan doktoral diselenggarakan di aula besar/auditorium universitas yang bersejarah.",
     "notes": "Auditorium universitas / aula besar (auditorio / aula magna).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3243,11 +3243,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "El tutor te espera en la sala de profesores para revisar tu trabajo.",
     "examplePhonetic": "El tutor te espera en la sala de profesores para revisar tu trabajo.",
     "exampleTranslation": "Dosen pembimbing menunggumu di ruang guru/dosen untuk meninjau tugasmu.",
-    "notes": "Ruang guru sekolah / ruang dosen.",
+    "notes": "Ruang guru sekolah / ruang dosen. Kata \"Sala de profesores\" (cara baca: ˈsala ðe pɾofeˈsoɾes) digunakan dalam bahasa Spanyol (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Ruang Guru\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3264,9 +3264,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ruang dekan dan kantor rektorat memimpin kampus.",
     "notes": "Ruang rektor / biro rektorat atau ruang kepala sekolah (dirección).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3283,9 +3283,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kami makan siang di kantin universitas bersama teman-teman.",
     "notes": "Kantin / kafetaria kampus (cafetería / cantina escolar).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3302,9 +3302,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Gedung olahraga dan gimnasium menyediakan lapangan basket dan futsal.",
     "notes": "Gimnasium / gedung sarana olahraga (pabellón deportivo).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3321,9 +3321,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Banyak mahasiswa asing tinggal di asrama mahasiswa/residensial kampus.",
     "notes": "Asrama mahasiswa (colegio mayor / internado).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3340,9 +3340,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jika kamu demam atau pusing, segera pergilah ke ruang UKS/klinik sekolah.",
     "notes": "Ruang UKS sekolah / klinik kesehatan kampus.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3359,9 +3359,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Praktik desain grafis diajarkan di laboratorium komputer.",
     "notes": "Laboratorium komputer / ruang multimedia.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3378,9 +3378,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kamu harus meminta surat bukti registrasi di bagian tata usaha / sekretariat mahasiswa.",
     "notes": "Tata usaha sekolah / biro administrasi akademik.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3395,11 +3395,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Abrid vuestro libro de texto por la unidad correspondiente.",
     "examplePhonetic": "Abrid vuestro libro de texto por la unidad correspondiente.",
     "exampleTranslation": "Buka buku teks pelajaran kalian pada unit yang bersangkutan.",
-    "notes": "Buku teks / buku paket pelajaran.",
+    "notes": "Buku teks / buku paket pelajaran. Kata \"Libro de texto\" (cara baca: ˈliβɾo ðe ˈteksto) digunakan dalam bahasa Spanyol (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Buku Teks\".",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3416,9 +3416,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ibu dosen menulis kalimat contoh di papan tulis putih.",
     "notes": "Papan tulis (pizarra tradicional o pizarra digital).",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3435,9 +3435,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Saya harus menyelesaikan pekerjaan rumah (PR) bahasa dan sastra untuk besok.",
     "notes": "Pekerjaan rumah / tugas mandiri (tareas escolares).",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3454,9 +3454,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ujian akhir terdiri dari sepuluh pertanyaan pilihan ganda dan satu uraian.",
     "notes": "Ujian evaluasi / tes kelulusan semester.",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3471,11 +3471,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En este colegio concertado es obligatorio vestir el uniforme escolar.",
     "examplePhonetic": "En este colegio concertado es obligatorio vestir el uniforme escolar.",
     "exampleTranslation": "Di sekolah ini diwajibkan mengenakan seragam sekolah.",
-    "notes": "Seragam sekolah.",
+    "notes": "Seragam sekolah. Kata \"Uniforme escolar\" (cara baca: uniˈfoɾme eskoˈlaɾ) digunakan dalam bahasa Spanyol (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Seragam Sekolah\".",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3492,9 +3492,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Tunjukkan kartu mahasiswamu (KTM) untuk mendapatkan diskon di transportasi umum.",
     "notes": "Kartu pelajar atau kartu tanda mahasiswa (KTM).",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3509,11 +3509,11 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Recibió una beca de estudios completa por su excelente rendimiento académico.",
     "examplePhonetic": "Recibio una beca de estudios completa por su excelente rendimiento academico.",
     "exampleTranslation": "Dia menerima beasiswa pendidikan penuh karena prestasi akademiknya yang luar biasa.",
-    "notes": "Beasiswa pendidikan.",
+    "notes": "Beasiswa pendidikan. Kata \"Beca de estudios\" (cara baca: ˈbeka ðe esˈtuðjos) digunakan dalam bahasa Spanyol (tingkat A2, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Beasiswa Pendidikan\".",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3530,9 +3530,9 @@ export const SPANISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Keluarga dan sahabat bertepuk tangan haru selama upacara wisuda kelulusan yang khidmat.",
     "notes": "Upacara wisuda kelulusan (graduación universitaria).",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];

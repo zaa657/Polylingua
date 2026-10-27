@@ -12,24 +12,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Perbedaan esensial antara verba ser (karakter permanen, profesi, identitas) dan estar (lokasi geografis, kondisi emosi sementara).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Verbos Ser vs Estar: Usos Fundamentales y Diferenciación' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verbos Ser vs Estar: Usos Fundamentales y Diferenciación\" (Diferenciación esencial entre los verbos copulativos 'Ser' y 'Estar') berfungsi untuk: perbedaan esensial antara verba ser (karakter permanen, profesi, identitas) dan estar (lokasi geografis, kondisi emosi sementara). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Yo soy estudiante de maestría en la Universidad de Salamanca. — Saya adalah mahasiswa magister di Universitas Salamanca."
+          "Rumus utama: Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)",
+          "Contoh 1: Yo soy estudiante de maestría en la Universidad de Salamanca. (Yo soy estudiante de maestría en la universidad de salamanca.) — Saya adalah mahasiswa magister di Universitas Salamanca."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk profesi dan identitas akademik permanen, gunakan kata kerja 'ser' (soy).",
         "ruleList": [
-          "La biblioteca central está ubicada en el campus histórico. — Perpustakaan pusat terletak di kawasan kampus bersejarah."
+          "Polanya: Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)",
+          "Contoh 2: La biblioteca central está ubicada en el campus histórico. (La biblioteca sentral está ubicada en el campus histórico.) — Perpustakaan pusat terletak di kawasan kampus bersejarah."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verbos Ser vs Estar: Usos Fundamentales y Diferenciación\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "El profesor es muy sabio y siempre está dispuesto a ayudarnos. — Profesor itu sangat bijaksana dan selalu siap membantu kami."
+          "Contoh 3: El profesor es muy sabio y siempre está dispuesto a ayudarnos. (El profesor es muy sabio y siempre está dispuesto a ayudarnos.) — Profesor itu sangat bijaksana dan selalu siap membantu kami.",
+          "Hindari kesalahan: \"yo estoy estudiante\" → gunakan bentuk yang benar: \"yo soy estudiante\"."
         ]
       }
     ],
@@ -37,19 +40,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-1-ex-1",
         "native": "Yo soy estudiante de maestría en la Universidad de Salamanca.",
-        "phonetic": "",
+        "phonetic": "Yo soy estudiante de maestría en la universidad de salamanca.",
         "translationId": "Saya adalah mahasiswa magister di Universitas Salamanca."
       },
       {
         "id": "es-gram-1-ex-2",
         "native": "La biblioteca central está ubicada en el campus histórico.",
-        "phonetic": "",
+        "phonetic": "La biblioteca sentral está ubicada en el campus histórico.",
         "translationId": "Perpustakaan pusat terletak di kawasan kampus bersejarah."
       },
       {
         "id": "es-gram-1-ex-3",
         "native": "El profesor es muy sabio y siempre está dispuesto a ayudarnos.",
-        "phonetic": "",
+        "phonetic": "El profesor es muy sabio y siempre está dispuesto a ayudarnos.",
         "translationId": "Profesor itu sangat bijaksana dan selalu siap membantu kami."
       }
     ],
@@ -65,7 +68,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Verbos Ser vs Estar: Usos Fundamentales y Diferenciación' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Verbos Ser vs Estar: Usos Fundamentales y Diferenciación\" (Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-1-pg-1",
@@ -81,7 +84,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Universitas menyediakan beragam program beasiswa internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Yo soy estudiante de maestría en la Universidad de Salamanca.\" berarti \"Saya adalah mahasiswa magister di Universitas Salamanca.\"."
+        "explanation": "Kalimat \"Yo soy estudiante de maestría en la Universidad de Salamanca.\" (dibaca: Yo soy estudiante de maestría en la universidad de salamanca.) berarti \"Saya adalah mahasiswa magister di Universitas Salamanca.\". Kalimat ini menggunakan pola \"Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)\" (Verbos Ser vs Estar: Usos Fundamentales y Diferenciación) yang berfungsi untuk perbedaan esensial antara verba ser (karakter permanen, profesi, identitas) dan estar (lokasi geografis, kondisi emosi sementara)."
       },
       {
         "id": "q-es-gram-1-pg-2",
@@ -97,7 +100,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami mempelajari sastra Hispanik setiap pagi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"La biblioteca central está ubicada en el campus histórico.\" berarti \"Perpustakaan pusat terletak di kawasan kampus bersejarah.\"."
+        "explanation": "Kalimat \"La biblioteca central está ubicada en el campus histórico.\" (dibaca: La biblioteca sentral está ubicada en el campus histórico.) berarti \"Perpustakaan pusat terletak di kawasan kampus bersejarah.\". Kalimat ini menggunakan pola \"Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)\" (Verbos Ser vs Estar: Usos Fundamentales y Diferenciación) yang berfungsi untuk perbedaan esensial antara verba ser (karakter permanen, profesi, identitas) dan estar (lokasi geografis, kondisi emosi sementara)."
       },
       {
         "id": "q-es-gram-1-pg-3",
@@ -113,7 +116,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya menulis sebuah esai akademik untuk mata kuliah sejarah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El profesor es muy sabio y siempre está dispuesto a ayudarnos.\" berarti \"Profesor itu sangat bijaksana dan selalu siap membantu kami.\"."
+        "explanation": "Kalimat \"El profesor es muy sabio y siempre está dispuesto a ayudarnos.\" (dibaca: El profesor es muy sabio y siempre está dispuesto a ayudarnos.) berarti \"Profesor itu sangat bijaksana dan selalu siap membantu kami.\". Kalimat ini menggunakan pola \"Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)\" (Verbos Ser vs Estar: Usos Fundamentales y Diferenciación) yang berfungsi untuk perbedaan esensial antara verba ser (karakter permanen, profesi, identitas) dan estar (lokasi geografis, kondisi emosi sementara)."
       },
       {
         "id": "q-es-gram-1-pg-4",
@@ -133,7 +136,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-1-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Ser vs Estar: Usos Fundamentales y Diferenciación\"?",
         "options": [
           "La biblioteca central está ubicada en el campus histórico. — Perpustakaan pusat terletak di kawasan kampus bersejarah.",
           "La universidad ofrece una amplia gama de becas internacionales. — Universitas menyediakan beragam program beasiswa internasional.",
@@ -147,7 +150,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-1-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Ser vs Estar: Usos Fundamentales y Diferenciación\"?",
         "options": [
           "El tema de investigación fue aprobado por el comité académico. — Topik penelitian tersebut telah disetujui oleh komite akademik.",
           "El profesor es muy sabio y siempre está dispuesto a ayudarnos. — Profesor itu sangat bijaksana dan selalu siap membantu kami.",
@@ -161,7 +164,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-1-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Ser vs Estar: Usos Fundamentales y Diferenciación\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -408,7 +411,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Topik penelitian tersebut telah disetujui oleh komite akademik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Yo soy estudiante de maestría en la Universidad de Salamanca.\" berarti \"Saya adalah mahasiswa magister di Universitas Salamanca.\"."
+        "explanation": "Kalimat \"Yo soy estudiante de maestría en la Universidad de Salamanca.\" (dibaca: Yo soy estudiante de maestría en la universidad de salamanca.) berarti \"Saya adalah mahasiswa magister di Universitas Salamanca.\". Kalimat ini menggunakan pola \"Ser (Identidad/Esencia/Origen) vs Estar (Ubicación/Estado temporal)\" (Verbos Ser vs Estar: Usos Fundamentales y Diferenciación) yang berfungsi untuk perbedaan esensial antara verba ser (karakter permanen, profesi, identitas) dan estar (lokasi geografis, kondisi emosi sementara)."
       },
       {
         "id": "q-es-gram-1-bb-2",
@@ -483,24 +486,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Gender kata benda bahasa Spanyol (akhiran -o maskulin, -a feminin, perkecualian -ma) serta artikel tentu dan tak tentu.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Género y Número de los Sustantivos y Artículos' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Género y Número de los Sustantivos y Artículos\" (El género gramatical (masculino/femenino) y los artículos definidos e indefinidos) berfungsi untuk: gender kata benda bahasa Spanyol (akhiran -o maskulin, -a feminin, perkecualian -ma) serta artikel tentu dan tak tentu. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El tema de investigación fue aprobado por el comité académico. — Topik penelitian tersebut telah disetujui oleh komite akademik."
+          "Rumus utama: El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo",
+          "Contoh 1: El tema de investigación fue aprobado por el comité académico. (El tema de investigasión fue aprobado por el comité académico.) — Topik penelitian tersebut telah disetujui oleh komite akademik."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata benda asal bahasa Yunani yang berakhiran -ma (el tema, el problema, el sistema) bergender maskulin.",
         "ruleList": [
-          "La universidad ofrece una amplia gama de becas internacionales. — Universitas menyediakan beragam program beasiswa internasional."
+          "Polanya: El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo",
+          "Contoh 2: La universidad ofrece una amplia gama de becas internacionales. (La universidad ofrese una amplia gama de becas internasionales.) — Universitas menyediakan beragam program beasiswa internasional."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Género y Número de los Sustantivos y Artículos\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Los estudiantes internacionales asisten a cursos de lengua española. — Para mahasiswa internasional menghadiri kelas-kelas bahasa Spanyol."
+          "Contoh 3: Los estudiantes internacionales asisten a cursos de lengua española. (Los estudiantes internasionales asisten a cursos de lengua espanyola.) — Para mahasiswa internasional menghadiri kelas-kelas bahasa Spanyol.",
+          "Hindari kesalahan: \"la tema\" → gunakan bentuk yang benar: \"el tema\"."
         ]
       }
     ],
@@ -508,19 +514,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-2-ex-1",
         "native": "El tema de investigación fue aprobado por el comité académico.",
-        "phonetic": "",
+        "phonetic": "El tema de investigasión fue aprobado por el comité académico.",
         "translationId": "Topik penelitian tersebut telah disetujui oleh komite akademik."
       },
       {
         "id": "es-gram-2-ex-2",
         "native": "La universidad ofrece una amplia gama de becas internacionales.",
-        "phonetic": "",
+        "phonetic": "La universidad ofrese una amplia gama de becas internasionales.",
         "translationId": "Universitas menyediakan beragam program beasiswa internasional."
       },
       {
         "id": "es-gram-2-ex-3",
         "native": "Los estudiantes internacionales asisten a cursos de lengua española.",
-        "phonetic": "",
+        "phonetic": "Los estudiantes internasionales asisten a cursos de lengua espanyola.",
         "translationId": "Para mahasiswa internasional menghadiri kelas-kelas bahasa Spanyol."
       }
     ],
@@ -536,7 +542,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Género y Número de los Sustantivos y Artículos' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Género y Número de los Sustantivos y Artículos\" (El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-2-pg-1",
@@ -552,7 +558,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Mereka memahami konsep-konsep dasar ilmu sosiologi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El tema de investigación fue aprobado por el comité académico.\" berarti \"Topik penelitian tersebut telah disetujui oleh komite akademik.\"."
+        "explanation": "Kalimat \"El tema de investigación fue aprobado por el comité académico.\" (dibaca: El tema de investigasión fue aprobado por el comité académico.) berarti \"Topik penelitian tersebut telah disetujui oleh komite akademik.\". Kalimat ini menggunakan pola \"El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo\" (Género y Número de los Sustantivos y Artículos) yang berfungsi untuk gender kata benda bahasa Spanyol (akhiran -o maskulin, -a feminin, perkecualian -ma) serta artikel tentu dan tak tentu."
       },
       {
         "id": "q-es-gram-2-pg-2",
@@ -568,7 +574,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La universidad ofrece una amplia gama de becas internacionales.\" berarti \"Universitas menyediakan beragam program beasiswa internasional.\"."
+        "explanation": "Kalimat \"La universidad ofrece una amplia gama de becas internacionales.\" (dibaca: La universidad ofrese una amplia gama de becas internasionales.) berarti \"Universitas menyediakan beragam program beasiswa internasional.\". Kalimat ini menggunakan pola \"El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo\" (Género y Número de los Sustantivos y Artículos) yang berfungsi untuk gender kata benda bahasa Spanyol (akhiran -o maskulin, -a feminin, perkecualian -ma) serta artikel tentu dan tak tentu."
       },
       {
         "id": "q-es-gram-2-pg-3",
@@ -584,7 +590,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa internasional menghadiri kelas-kelas bahasa Spanyol."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Los estudiantes internacionales asisten a cursos de lengua española.\" berarti \"Para mahasiswa internasional menghadiri kelas-kelas bahasa Spanyol.\"."
+        "explanation": "Kalimat \"Los estudiantes internacionales asisten a cursos de lengua española.\" (dibaca: Los estudiantes internasionales asisten a cursos de lengua espanyola.) berarti \"Para mahasiswa internasional menghadiri kelas-kelas bahasa Spanyol.\". Kalimat ini menggunakan pola \"El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo\" (Género y Número de los Sustantivos y Artículos) yang berfungsi untuk gender kata benda bahasa Spanyol (akhiran -o maskulin, -a feminin, perkecualian -ma) serta artikel tentu dan tak tentu."
       },
       {
         "id": "q-es-gram-2-pg-4",
@@ -604,7 +610,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-2-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Género y Número de los Sustantivos y Artículos\"?",
         "options": [
           "Ellos comprenden los conceptos fundamentales de la sociología. — Mereka memahami konsep-konsep dasar ilmu sosiologi.",
           "La universidad ofrece una amplia gama de becas internacionales. — Universitas menyediakan beragam program beasiswa internasional.",
@@ -618,7 +624,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-2-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Género y Número de los Sustantivos y Artículos\"?",
         "options": [
           "Nosotros estudiamos literatura hispánica todas las mañanas. — Kami mempelajari sastra Hispanik setiap pagi.",
           "Escribo un ensayo académico para la clase de historia. — Saya menulis sebuah esai akademik untuk mata kuliah sejarah.",
@@ -632,7 +638,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-2-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Género y Número de los Sustantivos y Artículos\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -879,7 +885,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Topik penelitian tersebut telah disetujui oleh komite akademik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"El tema de investigación fue aprobado por el comité académico.\" berarti \"Topik penelitian tersebut telah disetujui oleh komite akademik.\"."
+        "explanation": "Kalimat \"El tema de investigación fue aprobado por el comité académico.\" (dibaca: El tema de investigasión fue aprobado por el comité académico.) berarti \"Topik penelitian tersebut telah disetujui oleh komite akademik.\". Kalimat ini menggunakan pola \"El / La / Los / Las & Un / Una / Unos / Unas + Sustantivo\" (Género y Número de los Sustantivos y Artículos) yang berfungsi untuk gender kata benda bahasa Spanyol (akhiran -o maskulin, -a feminin, perkecualian -ma) serta artikel tentu dan tak tentu."
       },
       {
         "id": "q-es-gram-2-bb-2",
@@ -954,24 +960,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konjugasi waktu kini reguler untuk tiga kelompok kata kerja (-ar, -er, -ir) yang digunakan untuk kebiasaan dan fakta umum.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)\" (Conjugación del presente de indicativo de verbos regulares) berfungsi untuk: konjugasi waktu kini reguler untuk tiga kelompok kata kerja (-ar, -er, -ir) yang digunakan untuk kebiasaan dan fakta umum. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Nosotros estudiamos literatura hispánica todas las mañanas. — Kami mempelajari sastra Hispanik setiap pagi."
+          "Rumus utama: Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)",
+          "Contoh 1: Nosotros estudiamos literatura hispánica todas las mañanas. (Nosotros estudiamos literatura hispánica todas las manyanas.) — Kami mempelajari sastra Hispanik setiap pagi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Akhiran konjugasi untuk orang pertama jamak (nosotros) pada verba -ar adalah -amos.",
         "ruleList": [
-          "Ellos comprenden los conceptos fundamentales de la sociología. — Mereka memahami konsep-konsep dasar ilmu sosiologi."
+          "Polanya: Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)",
+          "Contoh 2: Ellos comprenden los conceptos fundamentales de la sociología. (Eyos comprenden los conseptos fundamentales de la sosiología.) — Mereka memahami konsep-konsep dasar ilmu sosiologi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Escribo un ensayo académico para la clase de historia. — Saya menulis sebuah esai akademik untuk mata kuliah sejarah."
+          "Contoh 3: Escribo un ensayo académico para la clase de historia. (Escribo un ensayo académico para la clase de historia.) — Saya menulis sebuah esai akademik untuk mata kuliah sejarah.",
+          "Hindari kesalahan: \"nosotros estudian\" → gunakan bentuk yang benar: \"nosotros estudiamos\"."
         ]
       }
     ],
@@ -979,19 +988,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-3-ex-1",
         "native": "Nosotros estudiamos literatura hispánica todas las mañanas.",
-        "phonetic": "",
+        "phonetic": "Nosotros estudiamos literatura hispánica todas las manyanas.",
         "translationId": "Kami mempelajari sastra Hispanik setiap pagi."
       },
       {
         "id": "es-gram-3-ex-2",
         "native": "Ellos comprenden los conceptos fundamentales de la sociología.",
-        "phonetic": "",
+        "phonetic": "Eyos comprenden los conseptos fundamentales de la sosiología.",
         "translationId": "Mereka memahami konsep-konsep dasar ilmu sosiologi."
       },
       {
         "id": "es-gram-3-ex-3",
         "native": "Escribo un ensayo académico para la clase de historia.",
-        "phonetic": "",
+        "phonetic": "Escribo un ensayo académico para la clase de historia.",
         "translationId": "Saya menulis sebuah esai akademik untuk mata kuliah sejarah."
       }
     ],
@@ -1007,7 +1016,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)\" (Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-3-pg-1",
@@ -1023,7 +1032,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami dapat memeriksa manuskrip-manuskrip kuno di ruang arsip."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nosotros estudiamos literatura hispánica todas las mañanas.\" berarti \"Kami mempelajari sastra Hispanik setiap pagi.\"."
+        "explanation": "Kalimat \"Nosotros estudiamos literatura hispánica todas las mañanas.\" (dibaca: Nosotros estudiamos literatura hispánica todas las manyanas.) berarti \"Kami mempelajari sastra Hispanik setiap pagi.\". Kalimat ini menggunakan pola \"Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)\" (Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)) yang berfungsi untuk konjugasi waktu kini reguler untuk tiga kelompok kata kerja (-ar, -er, -ir) yang digunakan untuk kebiasaan dan fakta umum."
       },
       {
         "id": "q-es-gram-3-pg-2",
@@ -1039,7 +1048,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Mereka memahami konsep-konsep dasar ilmu sosiologi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ellos comprenden los conceptos fundamentales de la sociología.\" berarti \"Mereka memahami konsep-konsep dasar ilmu sosiologi.\"."
+        "explanation": "Kalimat \"Ellos comprenden los conceptos fundamentales de la sociología.\" (dibaca: Eyos comprenden los conseptos fundamentales de la sosiología.) berarti \"Mereka memahami konsep-konsep dasar ilmu sosiologi.\". Kalimat ini menggunakan pola \"Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)\" (Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)) yang berfungsi untuk konjugasi waktu kini reguler untuk tiga kelompok kata kerja (-ar, -er, -ir) yang digunakan untuk kebiasaan dan fakta umum."
       },
       {
         "id": "q-es-gram-3-pg-3",
@@ -1055,7 +1064,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak memahami penjelasan teoretis pada bab tiga."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Escribo un ensayo académico para la clase de historia.\" berarti \"Saya menulis sebuah esai akademik untuk mata kuliah sejarah.\"."
+        "explanation": "Kalimat \"Escribo un ensayo académico para la clase de historia.\" (dibaca: Escribo un ensayo académico para la clase de historia.) berarti \"Saya menulis sebuah esai akademik untuk mata kuliah sejarah.\". Kalimat ini menggunakan pola \"Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)\" (Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)) yang berfungsi untuk konjugasi waktu kini reguler untuk tiga kelompok kata kerja (-ar, -er, -ir) yang digunakan untuk kebiasaan dan fakta umum."
       },
       {
         "id": "q-es-gram-3-pg-4",
@@ -1075,7 +1084,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-3-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)\"?",
         "options": [
           "Nosotros podemos consultar los manuscritos antiguos en el archivo. — Kami dapat memeriksa manuskrip-manuskrip kuno di ruang arsip.",
           "¿Por qué decidiste realizar tus estudios de posgrado en Madrid? — Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?",
@@ -1089,7 +1098,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-3-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)\"?",
         "options": [
           "El profesor piensa que este proyecto tiene un gran impacto social. — Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar.",
           "Los alumnos piden asesoría académica al tutor del departamento. — Para mahasiswa meminta bimbingan akademik kepada dosen wali departemen.",
@@ -1103,7 +1112,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-3-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -1350,7 +1359,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nosotros estudiamos literatura hispánica todas las mañanas.\" berarti \"Kami mempelajari sastra Hispanik setiap pagi.\"."
+        "explanation": "Kalimat \"Nosotros estudiamos literatura hispánica todas las mañanas.\" (dibaca: Nosotros estudiamos literatura hispánica todas las manyanas.) berarti \"Kami mempelajari sastra Hispanik setiap pagi.\". Kalimat ini menggunakan pola \"Radical + -o, -as, -a, -amos, -áis, -an (-ar) / -o, -es, -e, -emos, -éis, -en (-er)\" (Verbos Regulares en Presente de Indicativo (-ar, -er, -ir)) yang berfungsi untuk konjugasi waktu kini reguler untuk tiga kelompok kata kerja (-ar, -er, -ir) yang digunakan untuk kebiasaan dan fakta umum."
       },
       {
         "id": "q-es-gram-3-bb-2",
@@ -1425,24 +1434,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Perubahan vokal pada batang kata kerja waktu kini (e menjadi ie, o menjadi ue, e menjadi i) pada semua persona kecuali nosotros dan vosotros.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)\" (Verbos con alternancia vocálica en presente de indicativo) berfungsi untuk: perubahan vokal pada batang kata kerja waktu kini (e menjadi ie, o menjadi ue, e menjadi i) pada semua persona kecuali nosotros dan vosotros. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El profesor piensa que este proyecto tiene un gran impacto social. — Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar."
+          "Rumus utama: Pensar (pienso) / Poder (puedo) / Pedir (pido)",
+          "Contoh 1: El profesor piensa que este proyecto tiene un gran impacto social. (El profesor piensa ke este proyecto tiene un gran impacto sosial.) — Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Pensar (pienso) / Poder (puedo) / Pedir (pido) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Pensar (pienso) / Poder (puedo) / Pedir (pido)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja pensar mengalami diftongisasi vokal akar dari 'e' menjadi 'ie' (yo pienso).",
         "ruleList": [
-          "Nosotros podemos consultar los manuscritos antiguos en el archivo. — Kami dapat memeriksa manuskrip-manuskrip kuno di ruang arsip."
+          "Polanya: Pensar (pienso) / Poder (puedo) / Pedir (pido)",
+          "Contoh 2: Nosotros podemos consultar los manuscritos antiguos en el archivo. (Nosotros podemos consultar los manuscritos antiguos en el archivo.) — Kami dapat memeriksa manuskrip-manuskrip kuno di ruang arsip."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Los alumnos piden asesoría académica al tutor del departamento. — Para mahasiswa meminta bimbingan akademik kepada dosen wali departemen."
+          "Contoh 3: Los alumnos piden asesoría académica al tutor del departamento. (Los alumnos piden asesoría académica al tutor del departamento.) — Para mahasiswa meminta bimbingan akademik kepada dosen wali departemen.",
+          "Hindari kesalahan: \"yo penso\" → gunakan bentuk yang benar: \"yo pienso\"."
         ]
       }
     ],
@@ -1450,19 +1462,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-4-ex-1",
         "native": "El profesor piensa que este proyecto tiene un gran impacto social.",
-        "phonetic": "",
+        "phonetic": "El profesor piensa ke este proyecto tiene un gran impacto sosial.",
         "translationId": "Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar."
       },
       {
         "id": "es-gram-4-ex-2",
         "native": "Nosotros podemos consultar los manuscritos antiguos en el archivo.",
-        "phonetic": "",
+        "phonetic": "Nosotros podemos consultar los manuscritos antiguos en el archivo.",
         "translationId": "Kami dapat memeriksa manuskrip-manuskrip kuno di ruang arsip."
       },
       {
         "id": "es-gram-4-ex-3",
         "native": "Los alumnos piden asesoría académica al tutor del departamento.",
-        "phonetic": "",
+        "phonetic": "Los alumnos piden asesoría académica al tutor del departamento.",
         "translationId": "Para mahasiswa meminta bimbingan akademik kepada dosen wali departemen."
       }
     ],
@@ -1478,7 +1490,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)\" (Pensar (pienso) / Poder (puedo) / Pedir (pido)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-4-pg-1",
@@ -1494,7 +1506,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"El profesor piensa que este proyecto tiene un gran impacto social.\" berarti \"Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar.\"."
+        "explanation": "Kalimat \"El profesor piensa que este proyecto tiene un gran impacto social.\" (dibaca: El profesor piensa ke este proyecto tiene un gran impacto sosial.) berarti \"Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar.\". Kalimat ini menggunakan pola \"Pensar (pienso) / Poder (puedo) / Pedir (pido)\" (Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)) yang berfungsi untuk perubahan vokal pada batang kata kerja waktu kini (e menjadi ie, o menjadi ue, e menjadi i) pada semua persona kecuali nosotros dan vosotros."
       },
       {
         "id": "q-es-gram-4-pg-2",
@@ -1510,7 +1522,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nosotros podemos consultar los manuscritos antiguos en el archivo.\" berarti \"Kami dapat memeriksa manuskrip-manuskrip kuno di ruang arsip.\"."
+        "explanation": "Kalimat \"Nosotros podemos consultar los manuscritos antiguos en el archivo.\" (dibaca: Nosotros podemos consultar los manuscritos antiguos en el archivo.) berarti \"Kami dapat memeriksa manuskrip-manuskrip kuno di ruang arsip.\". Kalimat ini menggunakan pola \"Pensar (pienso) / Poder (puedo) / Pedir (pido)\" (Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)) yang berfungsi untuk perubahan vokal pada batang kata kerja waktu kini (e menjadi ie, o menjadi ue, e menjadi i) pada semua persona kecuali nosotros dan vosotros."
       },
       {
         "id": "q-es-gram-4-pg-3",
@@ -1526,7 +1538,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pembinaan akademik yang menyeluruh sangatlah mutlak bagi seorang peneliti."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Los alumnos piden asesoría académica al tutor del departamento.\" berarti \"Para mahasiswa meminta bimbingan akademik kepada dosen wali departemen.\"."
+        "explanation": "Kalimat \"Los alumnos piden asesoría académica al tutor del departamento.\" (dibaca: Los alumnos piden asesoría académica al tutor del departamento.) berarti \"Para mahasiswa meminta bimbingan akademik kepada dosen wali departemen.\". Kalimat ini menggunakan pola \"Pensar (pienso) / Poder (puedo) / Pedir (pido)\" (Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)) yang berfungsi untuk perubahan vokal pada batang kata kerja waktu kini (e menjadi ie, o menjadi ue, e menjadi i) pada semua persona kecuali nosotros dan vosotros."
       },
       {
         "id": "q-es-gram-4-pg-4",
@@ -1546,7 +1558,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-4-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)\"?",
         "options": [
           "¿Dónde se encuentra el departamento de relaciones internacionales? — Di manakah letak departemen hubungan internasional?",
           "Esta prestigiosa universidad cuenta con excelentes instalaciones científicas. — Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul.",
@@ -1560,7 +1572,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-4-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)\"?",
         "options": [
           "Los alumnos piden asesoría académica al tutor del departamento. — Para mahasiswa meminta bimbingan akademik kepada dosen wali departemen.",
           "¿Por qué decidiste realizar tus estudios de posgrado en Madrid? — Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?",
@@ -1574,7 +1586,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-4-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -1821,7 +1833,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El profesor piensa que este proyecto tiene un gran impacto social.\" berarti \"Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar.\"."
+        "explanation": "Kalimat \"El profesor piensa que este proyecto tiene un gran impacto social.\" (dibaca: El profesor piensa ke este proyecto tiene un gran impacto sosial.) berarti \"Profesor berpendapat bahwa proyek ini memiliki dampak sosial yang besar.\". Kalimat ini menggunakan pola \"Pensar (pienso) / Poder (puedo) / Pedir (pido)\" (Verbos Irregulares con Cambio Vocálico (e->ie, o->ue, e->i)) yang berfungsi untuk perubahan vokal pada batang kata kerja waktu kini (e menjadi ie, o menjadi ue, e menjadi i) pada semua persona kecuali nosotros dan vosotros."
       },
       {
         "id": "q-es-gram-4-bb-2",
@@ -1896,24 +1908,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Penyangkalan sederhana dengan menaruh no sebelum kata kerja serta kata tanya beraksen tilde untuk membedakannya dari konjungsi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)\" (La estructura de la oración negativa y los pronombres interrogativos con tilde) berfungsi untuk: penyangkalan sederhana dengan menaruh no sebelum kata kerja serta kata tanya beraksen tilde untuk membedakannya dari konjungsi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "¿Por qué decidiste realizar tus estudios de posgrado en Madrid? — Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?"
+          "Rumus utama: No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?",
+          "Contoh 1: ¿Por qué decidiste realizar tus estudios de posgrado en Madrid? (¿por ké desidiste realizar tus estudios de posgrado en madrid?) — Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué? memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata tanya dalam bahasa Spanyol wajib menggunakan tanda aksen tilde dan tanda tanya pembuka ¿...?. ",
         "ruleList": [
-          "¿Dónde se encuentra el departamento de relaciones internacionales? — Di manakah letak departemen hubungan internasional?"
+          "Polanya: No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?",
+          "Contoh 2: ¿Dónde se encuentra el departamento de relaciones internacionales? (¿dónde se encuentra el departamento de relasiones internasionales?) — Di manakah letak departemen hubungan internasional?"
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "No entiendo la explicación teórica del capítulo tres. — Saya tidak memahami penjelasan teoretis pada bab tiga."
+          "Contoh 3: No entiendo la explicación teórica del capítulo tres. (No entiendo la explicasión teórica del capítulo tres.) — Saya tidak memahami penjelasan teoretis pada bab tiga.",
+          "Hindari kesalahan: \"por qué (en pregunta sin tilde)\" → gunakan bentuk yang benar: \"¿por qué?\"."
         ]
       }
     ],
@@ -1921,19 +1936,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-5-ex-1",
         "native": "¿Por qué decidiste realizar tus estudios de posgrado en Madrid?",
-        "phonetic": "",
+        "phonetic": "¿por ké desidiste realizar tus estudios de posgrado en madrid?",
         "translationId": "Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?"
       },
       {
         "id": "es-gram-5-ex-2",
         "native": "¿Dónde se encuentra el departamento de relaciones internacionales?",
-        "phonetic": "",
+        "phonetic": "¿dónde se encuentra el departamento de relasiones internasionales?",
         "translationId": "Di manakah letak departemen hubungan internasional?"
       },
       {
         "id": "es-gram-5-ex-3",
         "native": "No entiendo la explicación teórica del capítulo tres.",
-        "phonetic": "",
+        "phonetic": "No entiendo la explicasión teórica del capítulo tres.",
         "translationId": "Saya tidak memahami penjelasan teoretis pada bab tiga."
       }
     ],
@@ -1949,7 +1964,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)\" (No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-5-pg-1",
@@ -1965,7 +1980,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"¿Por qué decidiste realizar tus estudios de posgrado en Madrid?\" berarti \"Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?\"."
+        "explanation": "Kalimat \"¿Por qué decidiste realizar tus estudios de posgrado en Madrid?\" (dibaca: ¿por ké desidiste realizar tus estudios de posgrado en madrid?) berarti \"Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?\". Kalimat ini menggunakan pola \"No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?\" (La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)) yang berfungsi untuk penyangkalan sederhana dengan menaruh no sebelum kata kerja serta kata tanya beraksen tilde untuk membedakannya dari konjungsi."
       },
       {
         "id": "q-es-gram-5-pg-2",
@@ -1981,7 +1996,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Fakultas filologi kami menyelenggarakan kongres internasional linguistik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"¿Dónde se encuentra el departamento de relaciones internacionales?\" berarti \"Di manakah letak departemen hubungan internasional?\"."
+        "explanation": "Kalimat \"¿Dónde se encuentra el departamento de relaciones internacionales?\" (dibaca: ¿dónde se encuentra el departamento de relasiones internasionales?) berarti \"Di manakah letak departemen hubungan internasional?\". Kalimat ini menggunakan pola \"No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?\" (La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)) yang berfungsi untuk penyangkalan sederhana dengan menaruh no sebelum kata kerja serta kata tanya beraksen tilde untuk membedakannya dari konjungsi."
       },
       {
         "id": "q-es-gram-5-pg-3",
@@ -1997,7 +2012,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Teman-teman sekelas saya sangat kooperatif dan penuh rasa hormat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"No entiendo la explicación teórica del capítulo tres.\" berarti \"Saya tidak memahami penjelasan teoretis pada bab tiga.\"."
+        "explanation": "Kalimat \"No entiendo la explicación teórica del capítulo tres.\" (dibaca: No entiendo la explicasión teórica del capítulo tres.) berarti \"Saya tidak memahami penjelasan teoretis pada bab tiga.\". Kalimat ini menggunakan pola \"No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?\" (La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)) yang berfungsi untuk penyangkalan sederhana dengan menaruh no sebelum kata kerja serta kata tanya beraksen tilde untuk membedakannya dari konjungsi."
       },
       {
         "id": "q-es-gram-5-pg-4",
@@ -2017,7 +2032,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-5-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)\"?",
         "options": [
           "¿Dónde se encuentra el departamento de relaciones internacionales? — Di manakah letak departemen hubungan internasional?",
           "Leemos textos complejos sobre la historia contemporánea de América Latina. — Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin.",
@@ -2031,7 +2046,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-5-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)\"?",
         "options": [
           "Esta prestigiosa universidad cuenta con excelentes instalaciones científicas. — Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul.",
           "No entiendo la explicación teórica del capítulo tres. — Saya tidak memahami penjelasan teoretis pada bab tiga.",
@@ -2045,7 +2060,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-5-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2292,7 +2307,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"¿Por qué decidiste realizar tus estudios de posgrado en Madrid?\" berarti \"Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?\"."
+        "explanation": "Kalimat \"¿Por qué decidiste realizar tus estudios de posgrado en Madrid?\" (dibaca: ¿por ké desidiste realizar tus estudios de posgrado en madrid?) berarti \"Mengapa kamu memutuskan untuk menempuh studi pascasarjana di Madrid?\". Kalimat ini menggunakan pola \"No + Verbo & ¿Qué? / ¿Quién? / ¿Dónde? / ¿Cuándo? / ¿Por qué?\" (La Negación Básica y Preguntas (Qué, Quién, Dónde, Cuándo)) yang berfungsi untuk penyangkalan sederhana dengan menaruh no sebelum kata kerja serta kata tanya beraksen tilde untuk membedakannya dari konjungsi."
       },
       {
         "id": "q-es-gram-5-bb-2",
@@ -2367,24 +2382,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Penyelarasan kata sifat penjelas dengan kata benda dalam gender dan jumlah serta penempatan posisi standarnya setelah nomina.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Los Adjetivos Calificativos y la Concordancia' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Los Adjetivos Calificativos y la Concordancia\" (La concordancia de género y número entre sustantivo y adjetivo) berfungsi untuk: penyelarasan kata sifat penjelas dengan kata benda dalam gender dan jumlah serta penempatan posisi standarnya setelah nomina. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Esta prestigiosa universidad cuenta con excelentes instalaciones científicas. — Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul."
+          "Rumus utama: Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)",
+          "Contoh 1: Esta prestigiosa universidad cuenta con excelentes instalaciones científicas. (Esta prestikhiosa universidad cuenta con exselentes instalasiones sientíficas.) — Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata sifat wajib menyelaraskan gender feminin dari kata benda universidad (prestigiosa).",
         "ruleList": [
-          "Leemos textos complejos sobre la historia contemporánea de América Latina. — Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin."
+          "Polanya: Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)",
+          "Contoh 2: Leemos textos complejos sobre la historia contemporánea de América Latina. (Leemos textos complekhos sobre la historia contemporánea de américa latina.) — Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Los Adjetivos Calificativos y la Concordancia\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "La formación académica integral es indispensable para el investigador. — Pembinaan akademik yang menyeluruh sangatlah mutlak bagi seorang peneliti."
+          "Contoh 3: La formación académica integral es indispensable para el investigador. (La formasión académica integral es indispensable para el investigador.) — Pembinaan akademik yang menyeluruh sangatlah mutlak bagi seorang peneliti.",
+          "Hindari kesalahan: \"una prestigioso universidad\" → gunakan bentuk yang benar: \"una prestigiosa universidad\"."
         ]
       }
     ],
@@ -2392,19 +2410,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-6-ex-1",
         "native": "Esta prestigiosa universidad cuenta con excelentes instalaciones científicas.",
-        "phonetic": "",
+        "phonetic": "Esta prestikhiosa universidad cuenta con exselentes instalasiones sientíficas.",
         "translationId": "Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul."
       },
       {
         "id": "es-gram-6-ex-2",
         "native": "Leemos textos complejos sobre la historia contemporánea de América Latina.",
-        "phonetic": "",
+        "phonetic": "Leemos textos complekhos sobre la historia contemporánea de américa latina.",
         "translationId": "Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin."
       },
       {
         "id": "es-gram-6-ex-3",
         "native": "La formación académica integral es indispensable para el investigador.",
-        "phonetic": "",
+        "phonetic": "La formasión académica integral es indispensable para el investigador.",
         "translationId": "Pembinaan akademik yang menyeluruh sangatlah mutlak bagi seorang peneliti."
       }
     ],
@@ -2420,7 +2438,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Los Adjetivos Calificativos y la Concordancia' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Los Adjetivos Calificativos y la Concordancia\" (Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-6-pg-1",
@@ -2436,7 +2454,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Esta prestigiosa universidad cuenta con excelentes instalaciones científicas.\" berarti \"Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul.\"."
+        "explanation": "Kalimat \"Esta prestigiosa universidad cuenta con excelentes instalaciones científicas.\" (dibaca: Esta prestikhiosa universidad cuenta con exselentes instalasiones sientíficas.) berarti \"Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul.\". Kalimat ini menggunakan pola \"Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)\" (Los Adjetivos Calificativos y la Concordancia) yang berfungsi untuk penyelarasan kata sifat penjelas dengan kata benda dalam gender dan jumlah serta penempatan posisi standarnya setelah nomina."
       },
       {
         "id": "q-es-gram-6-pg-2",
@@ -2452,7 +2470,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tertarik untuk memperdalam metodologi kualitatif."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Leemos textos complejos sobre la historia contemporánea de América Latina.\" berarti \"Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin.\"."
+        "explanation": "Kalimat \"Leemos textos complejos sobre la historia contemporánea de América Latina.\" (dibaca: Leemos textos complekhos sobre la historia contemporánea de américa latina.) berarti \"Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin.\". Kalimat ini menggunakan pola \"Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)\" (Los Adjetivos Calificativos y la Concordancia) yang berfungsi untuk penyelarasan kata sifat penjelas dengan kata benda dalam gender dan jumlah serta penempatan posisi standarnya setelah nomina."
       },
       {
         "id": "q-es-gram-6-pg-3",
@@ -2468,7 +2486,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pembinaan akademik yang menyeluruh sangatlah mutlak bagi seorang peneliti."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"La formación académica integral es indispensable para el investigador.\" berarti \"Pembinaan akademik yang menyeluruh sangatlah mutlak bagi seorang peneliti.\"."
+        "explanation": "Kalimat \"La formación académica integral es indispensable para el investigador.\" (dibaca: La formasión académica integral es indispensable para el investigador.) berarti \"Pembinaan akademik yang menyeluruh sangatlah mutlak bagi seorang peneliti.\". Kalimat ini menggunakan pola \"Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)\" (Los Adjetivos Calificativos y la Concordancia) yang berfungsi untuk penyelarasan kata sifat penjelas dengan kata benda dalam gender dan jumlah serta penempatan posisi standarnya setelah nomina."
       },
       {
         "id": "q-es-gram-6-pg-4",
@@ -2488,7 +2506,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-6-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Los Adjetivos Calificativos y la Concordancia\"?",
         "options": [
           "Su director de tesis le proporcionó valiosas sugerencias bibliográficas. — Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya.",
           "Leemos textos complejos sobre la historia contemporánea de América Latina. — Kami membaca teks-teks kompleks mengenai sejarah kontemporer Amerika Latin.",
@@ -2502,7 +2520,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-6-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Los Adjetivos Calificativos y la Concordancia\"?",
         "options": [
           "Nuestra facultad de filología organiza un congreso internacional de lingüística. — Fakultas filologi kami menyelenggarakan kongres internasional linguistik.",
           "Mis compañeros de clase son muy colaboradores y respetuosos. — Teman-teman sekelas saya sangat kooperatif dan penuh rasa hormat.",
@@ -2516,7 +2534,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-6-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Los Adjetivos Calificativos y la Concordancia\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2763,7 +2781,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Esta prestigiosa universidad cuenta con excelentes instalaciones científicas.\" berarti \"Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul.\"."
+        "explanation": "Kalimat \"Esta prestigiosa universidad cuenta con excelentes instalaciones científicas.\" (dibaca: Esta prestikhiosa universidad cuenta con exselentes instalasiones sientíficas.) berarti \"Universitas bergengsi ini memiliki fasilitas-fasilitas ilmiah yang sangat unggul.\". Kalimat ini menggunakan pola \"Sustantivo + Adjetivo (Concordancia estricta: -o/-a, -os/-as)\" (Los Adjetivos Calificativos y la Concordancia) yang berfungsi untuk penyelarasan kata sifat penjelas dengan kata benda dalam gender dan jumlah serta penempatan posisi standarnya setelah nomina."
       },
       {
         "id": "q-es-gram-6-bb-2",
@@ -2838,24 +2856,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan kepemilikan di depan kata benda, dengan perhatian khusus pada penyesuaian bentuk nuestro/nuestra.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)\" (Los determinantes posesivos átonos antes del sustantivo) berfungsi untuk: menyatakan kepemilikan di depan kata benda, dengan perhatian khusus pada penyesuaian bentuk nuestro/nuestra. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Nuestra facultad de filología organiza un congreso internacional de lingüística. — Fakultas filologi kami menyelenggarakan kongres internasional linguistik."
+          "Rumus utama: Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras",
+          "Contoh 1: Nuestra facultad de filología organiza un congreso internacional de lingüística. (Nuestra facultad de filología organiza un congreso internasional de lingüística.) — Fakultas filologi kami menyelenggarakan kongres internasional linguistik."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata benda facultad dan universidad bergender feminin, sehingga menggunakan 'nuestra'.",
         "ruleList": [
-          "Su director de tesis le proporcionó valiosas sugerencias bibliográficas. — Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya."
+          "Polanya: Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras",
+          "Contoh 2: Su director de tesis le proporcionó valiosas sugerencias bibliográficas. (Su director de tesis le proporsionó valiosas sukherensias bibliográficas.) — Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Mis compañeros de clase son muy colaboradores y respetuosos. — Teman-teman sekelas saya sangat kooperatif dan penuh rasa hormat."
+          "Contoh 3: Mis compañeros de clase son muy colaboradores y respetuosos. (Mis companyeros de clase son muy colaboradores y respetuosos.) — Teman-teman sekelas saya sangat kooperatif dan penuh rasa hormat.",
+          "Hindari kesalahan: \"nuestro universidad\" → gunakan bentuk yang benar: \"nuestra universidad\"."
         ]
       }
     ],
@@ -2863,19 +2884,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-7-ex-1",
         "native": "Nuestra facultad de filología organiza un congreso internacional de lingüística.",
-        "phonetic": "",
+        "phonetic": "Nuestra facultad de filología organiza un congreso internasional de lingüística.",
         "translationId": "Fakultas filologi kami menyelenggarakan kongres internasional linguistik."
       },
       {
         "id": "es-gram-7-ex-2",
         "native": "Su director de tesis le proporcionó valiosas sugerencias bibliográficas.",
-        "phonetic": "",
+        "phonetic": "Su director de tesis le proporsionó valiosas sukherensias bibliográficas.",
         "translationId": "Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya."
       },
       {
         "id": "es-gram-7-ex-3",
         "native": "Mis compañeros de clase son muy colaboradores y respetuosos.",
-        "phonetic": "",
+        "phonetic": "Mis companyeros de clase son muy colaboradores y respetuosos.",
         "translationId": "Teman-teman sekelas saya sangat kooperatif dan penuh rasa hormat."
       }
     ],
@@ -2891,7 +2912,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)\" (Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-7-pg-1",
@@ -2907,7 +2928,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya suka meneliti tentang evolusi bahasa-bahasa Roman."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nuestra facultad de filología organiza un congreso internacional de lingüística.\" berarti \"Fakultas filologi kami menyelenggarakan kongres internasional linguistik.\"."
+        "explanation": "Kalimat \"Nuestra facultad de filología organiza un congreso internacional de lingüística.\" (dibaca: Nuestra facultad de filología organiza un congreso internasional de lingüística.) berarti \"Fakultas filologi kami menyelenggarakan kongres internasional linguistik.\". Kalimat ini menggunakan pola \"Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras\" (Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)) yang berfungsi untuk menyatakan kepemilikan di depan kata benda, dengan perhatian khusus pada penyesuaian bentuk nuestro/nuestra."
       },
       {
         "id": "q-es-gram-7-pg-2",
@@ -2923,7 +2944,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Su director de tesis le proporcionó valiosas sugerencias bibliográficas.\" berarti \"Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya.\"."
+        "explanation": "Kalimat \"Su director de tesis le proporcionó valiosas sugerencias bibliográficas.\" (dibaca: Su director de tesis le proporsionó valiosas sukherensias bibliográficas.) berarti \"Dosen pembimbing tesisnya memberikan saran-saran kepustakaan yang berharga kepadanya.\". Kalimat ini menggunakan pola \"Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras\" (Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)) yang berfungsi untuk menyatakan kepemilikan di depan kata benda, dengan perhatian khusus pada penyesuaian bentuk nuestro/nuestra."
       },
       {
         "id": "q-es-gram-7-pg-3",
@@ -2939,7 +2960,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya akan memeriksa sejumlah sumber primer di perpustakaan nasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Mis compañeros de clase son muy colaboradores y respetuosos.\" berarti \"Teman-teman sekelas saya sangat kooperatif dan penuh rasa hormat.\"."
+        "explanation": "Kalimat \"Mis compañeros de clase son muy colaboradores y respetuosos.\" (dibaca: Mis companyeros de clase son muy colaboradores y respetuosos.) berarti \"Teman-teman sekelas saya sangat kooperatif dan penuh rasa hormat.\". Kalimat ini menggunakan pola \"Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras\" (Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)) yang berfungsi untuk menyatakan kepemilikan di depan kata benda, dengan perhatian khusus pada penyesuaian bentuk nuestro/nuestra."
       },
       {
         "id": "q-es-gram-7-pg-4",
@@ -2959,7 +2980,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-7-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)\"?",
         "options": [
           "Me gusta investigar sobre la evolución de las lenguas romances. — Saya suka meneliti tentang evolusi bahasa-bahasa Roman.",
           "Vamos a presentar los avances de nuestra investigación en el seminario. — Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar.",
@@ -2973,7 +2994,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-7-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)\"?",
         "options": [
           "A los estudiantes les interesa profundizar en la metodología cualitativa. — Para mahasiswa tertarik untuk memperdalam metodologi kualitatif.",
           "A nuestra profesora le apasiona la literatura del Siglo de Oro. — Profesor perempuan kami sangat menggemari sastra Zaman Keemasan Spanyol.",
@@ -2987,7 +3008,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-7-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -3234,7 +3255,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tertarik untuk memperdalam metodologi kualitatif."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nuestra facultad de filología organiza un congreso internacional de lingüística.\" berarti \"Fakultas filologi kami menyelenggarakan kongres internasional linguistik.\"."
+        "explanation": "Kalimat \"Nuestra facultad de filología organiza un congreso internacional de lingüística.\" (dibaca: Nuestra facultad de filología organiza un congreso internasional de lingüística.) berarti \"Fakultas filologi kami menyelenggarakan kongres internasional linguistik.\". Kalimat ini menggunakan pola \"Mi / Mis / Tu / Tus / Su / Sus / Nuestro / Nuestra / Nuestros / Nuestras\" (Los Adjetivos Posesivos (Mi, Tu, Su, Nuestro, Vuestro)) yang berfungsi untuk menyatakan kepemilikan di depan kata benda, dengan perhatian khusus pada penyesuaian bentuk nuestro/nuestra."
       },
       {
         "id": "q-es-gram-7-bb-2",
@@ -3309,24 +3330,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Struktur khusus verba gustar di mana subjek gramatikal adalah benda yang disukai dan orang yang menyukai bertindak sebagai objek datif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Verbos como Gustar, Encantar y Pronombres de Interés' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verbos como Gustar, Encantar y Pronombres de Interés\" (La construcción impersonal con pronombres de objeto indirecto (me, te, le, nos, os, les)) berfungsi untuk: struktur khusus verba gustar di mana subjek gramatikal adalah benda yang disukai dan orang yang menyukai bertindak sebagai objek datif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "A los estudiantes les interesa profundizar en la metodología cualitativa. — Para mahasiswa tertarik untuk memperdalam metodologi kualitatif."
+          "Rumus utama: (A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo",
+          "Contoh 1: A los estudiantes les interesa profundizar en la metodología cualitativa. (A los estudiantes les interesa profundizar en la metodología cualitativa.) — Para mahasiswa tertarik untuk memperdalam metodologi kualitatif."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur (A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"(A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja gustar dikonjugasikan mengikuti benda yang disukai dan didahului pronomina objek tak langsung (me/te/le).",
         "ruleList": [
-          "Me gusta investigar sobre la evolución de las lenguas romances. — Saya suka meneliti tentang evolusi bahasa-bahasa Roman."
+          "Polanya: (A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo",
+          "Contoh 2: Me gusta investigar sobre la evolución de las lenguas romances. (Me gusta investigar sobre la evolusión de las lenguas romanses.) — Saya suka meneliti tentang evolusi bahasa-bahasa Roman."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verbos como Gustar, Encantar y Pronombres de Interés\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "A nuestra profesora le apasiona la literatura del Siglo de Oro. — Profesor perempuan kami sangat menggemari sastra Zaman Keemasan Spanyol."
+          "Contoh 3: A nuestra profesora le apasiona la literatura del Siglo de Oro. (A nuestra profesora le apasiona la literatura del siglo de oro.) — Profesor perempuan kami sangat menggemari sastra Zaman Keemasan Spanyol.",
+          "Hindari kesalahan: \"yo gusto la literatura\" → gunakan bentuk yang benar: \"me gusta la literatura\"."
         ]
       }
     ],
@@ -3334,19 +3358,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-8-ex-1",
         "native": "A los estudiantes les interesa profundizar en la metodología cualitativa.",
-        "phonetic": "",
+        "phonetic": "A los estudiantes les interesa profundizar en la metodología cualitativa.",
         "translationId": "Para mahasiswa tertarik untuk memperdalam metodologi kualitatif."
       },
       {
         "id": "es-gram-8-ex-2",
         "native": "Me gusta investigar sobre la evolución de las lenguas romances.",
-        "phonetic": "",
+        "phonetic": "Me gusta investigar sobre la evolusión de las lenguas romanses.",
         "translationId": "Saya suka meneliti tentang evolusi bahasa-bahasa Roman."
       },
       {
         "id": "es-gram-8-ex-3",
         "native": "A nuestra profesora le apasiona la literatura del Siglo de Oro.",
-        "phonetic": "",
+        "phonetic": "A nuestra profesora le apasiona la literatura del siglo de oro.",
         "translationId": "Profesor perempuan kami sangat menggemari sastra Zaman Keemasan Spanyol."
       }
     ],
@@ -3362,7 +3386,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Verbos como Gustar, Encantar y Pronombres de Interés' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Verbos como Gustar, Encantar y Pronombres de Interés\" ((A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-8-pg-1",
@@ -3378,7 +3402,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tertarik untuk memperdalam metodologi kualitatif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"A los estudiantes les interesa profundizar en la metodología cualitativa.\" berarti \"Para mahasiswa tertarik untuk memperdalam metodologi kualitatif.\"."
+        "explanation": "Kalimat \"A los estudiantes les interesa profundizar en la metodología cualitativa.\" (dibaca: A los estudiantes les interesa profundizar en la metodología cualitativa.) berarti \"Para mahasiswa tertarik untuk memperdalam metodologi kualitatif.\". Kalimat ini menggunakan pola \"(A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo\" (Verbos como Gustar, Encantar y Pronombres de Interés) yang berfungsi untuk struktur khusus verba gustar di mana subjek gramatikal adalah benda yang disukai dan orang yang menyukai bertindak sebagai objek datif."
       },
       {
         "id": "q-es-gram-8-pg-2",
@@ -3394,7 +3418,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tinggal di asrama universitas di dekat fakultas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Me gusta investigar sobre la evolución de las lenguas romances.\" berarti \"Saya suka meneliti tentang evolusi bahasa-bahasa Roman.\"."
+        "explanation": "Kalimat \"Me gusta investigar sobre la evolución de las lenguas romances.\" (dibaca: Me gusta investigar sobre la evolusión de las lenguas romanses.) berarti \"Saya suka meneliti tentang evolusi bahasa-bahasa Roman.\". Kalimat ini menggunakan pola \"(A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo\" (Verbos como Gustar, Encantar y Pronombres de Interés) yang berfungsi untuk struktur khusus verba gustar di mana subjek gramatikal adalah benda yang disukai dan orang yang menyukai bertindak sebagai objek datif."
       },
       {
         "id": "q-es-gram-8-pg-3",
@@ -3410,7 +3434,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Peneliti ternama ini berasal dari sebuah institusi bergengsi di Granada."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"A nuestra profesora le apasiona la literatura del Siglo de Oro.\" berarti \"Profesor perempuan kami sangat menggemari sastra Zaman Keemasan Spanyol.\"."
+        "explanation": "Kalimat \"A nuestra profesora le apasiona la literatura del Siglo de Oro.\" (dibaca: A nuestra profesora le apasiona la literatura del siglo de oro.) berarti \"Profesor perempuan kami sangat menggemari sastra Zaman Keemasan Spanyol.\". Kalimat ini menggunakan pola \"(A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo\" (Verbos como Gustar, Encantar y Pronombres de Interés) yang berfungsi untuk struktur khusus verba gustar di mana subjek gramatikal adalah benda yang disukai dan orang yang menyukai bertindak sebagai objek datif."
       },
       {
         "id": "q-es-gram-8-pg-4",
@@ -3430,7 +3454,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-8-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos como Gustar, Encantar y Pronombres de Interés\"?",
         "options": [
           "El decano va a inaugurar el nuevo año académico mañana por la mañana. — Dekan akan meresmikan pembukaan tahun akademik baru besok pagi.",
           "Los estudiantes viven en la residencia universitaria cerca de la facultad. — Para mahasiswa tinggal di asrama universitas di dekat fakultas.",
@@ -3444,7 +3468,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-8-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos como Gustar, Encantar y Pronombres de Interés\"?",
         "options": [
           "A nuestra profesora le apasiona la literatura del Siglo de Oro. — Profesor perempuan kami sangat menggemari sastra Zaman Keemasan Spanyol.",
           "Vamos a presentar los avances de nuestra investigación en el seminario. — Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar.",
@@ -3458,7 +3482,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-8-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Verbos como Gustar, Encantar y Pronombres de Interés\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -3707,7 +3731,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"A los estudiantes les interesa profundizar en la metodología cualitativa.\" berarti \"Para mahasiswa tertarik untuk memperdalam metodologi kualitatif.\"."
+        "explanation": "Kalimat \"A los estudiantes les interesa profundizar en la metodología cualitativa.\" (dibaca: A los estudiantes les interesa profundizar en la metodología cualitativa.) berarti \"Para mahasiswa tertarik untuk memperdalam metodologi kualitatif.\". Kalimat ini menggunakan pola \"(A mí) me gusta(n) / le interesa(n) / nos fascina(n) + Sustantivo/Infinitivo\" (Verbos como Gustar, Encantar y Pronombres de Interés) yang berfungsi untuk struktur khusus verba gustar di mana subjek gramatikal adalah benda yang disukai dan orang yang menyukai bertindak sebagai objek datif."
       },
       {
         "id": "q-es-gram-8-bb-2",
@@ -3782,24 +3806,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan aksi yang akan segera dilakukan atau rencana masa depan yang sudah pasti menggunakan perifrasis ir a + infinitif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Perífrasis de Futuro Próximo: Ir a + Infinitivo' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Perífrasis de Futuro Próximo: Ir a + Infinitivo\" (La perífrasis verbal de futuro inmediato 'ir a + infinitivo') berfungsi untuk: menyatakan aksi yang akan segera dilakukan atau rencana masa depan yang sudah pasti menggunakan perifrasis ir a + infinitif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Vamos a presentar los avances de nuestra investigación en el seminario. — Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar."
+          "Rumus utama: Ir (Presente) + a + Verbo en Infinitivo",
+          "Contoh 1: Vamos a presentar los avances de nuestra investigación en el seminario. (Vamos a presentar los avanses de nuestra investigasión en el seminario.) — Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Ir (Presente) + a + Verbo en Infinitivo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Ir (Presente) + a + Verbo en Infinitivo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Konstruksi rencana masa depan terdekat wajib menyertakan preposisi 'a' di antara ir dan infinitif.",
         "ruleList": [
-          "El decano va a inaugurar el nuevo año académico mañana por la mañana. — Dekan akan meresmikan pembukaan tahun akademik baru besok pagi."
+          "Polanya: Ir (Presente) + a + Verbo en Infinitivo",
+          "Contoh 2: El decano va a inaugurar el nuevo año académico mañana por la mañana. (El decano va a inaugurar el nuevo anyo académico manyana por la manyana.) — Dekan akan meresmikan pembukaan tahun akademik baru besok pagi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Perífrasis de Futuro Próximo: Ir a + Infinitivo\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Voy a consultar varias fuentes primarias en la biblioteca nacional. — Saya akan memeriksa sejumlah sumber primer di perpustakaan nasional."
+          "Contoh 3: Voy a consultar varias fuentes primarias en la biblioteca nacional. (Voy a consultar varias fuentes primarias en la biblioteca nasional.) — Saya akan memeriksa sejumlah sumber primer di perpustakaan nasional.",
+          "Hindari kesalahan: \"vamos presentar (sin la preposición a)\" → gunakan bentuk yang benar: \"vamos a presentar\"."
         ]
       }
     ],
@@ -3807,19 +3834,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-9-ex-1",
         "native": "Vamos a presentar los avances de nuestra investigación en el seminario.",
-        "phonetic": "",
+        "phonetic": "Vamos a presentar los avanses de nuestra investigasión en el seminario.",
         "translationId": "Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar."
       },
       {
         "id": "es-gram-9-ex-2",
         "native": "El decano va a inaugurar el nuevo año académico mañana por la mañana.",
-        "phonetic": "",
+        "phonetic": "El decano va a inaugurar el nuevo anyo académico manyana por la manyana.",
         "translationId": "Dekan akan meresmikan pembukaan tahun akademik baru besok pagi."
       },
       {
         "id": "es-gram-9-ex-3",
         "native": "Voy a consultar varias fuentes primarias en la biblioteca nacional.",
-        "phonetic": "",
+        "phonetic": "Voy a consultar varias fuentes primarias en la biblioteca nasional.",
         "translationId": "Saya akan memeriksa sejumlah sumber primer di perpustakaan nasional."
       }
     ],
@@ -3835,7 +3862,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Perífrasis de Futuro Próximo: Ir a + Infinitivo' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Perífrasis de Futuro Próximo: Ir a + Infinitivo\" (Ir (Presente) + a + Verbo en Infinitivo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-9-pg-1",
@@ -3851,7 +3878,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Vamos a presentar los avances de nuestra investigación en el seminario.\" berarti \"Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar.\"."
+        "explanation": "Kalimat \"Vamos a presentar los avances de nuestra investigación en el seminario.\" (dibaca: Vamos a presentar los avanses de nuestra investigasión en el seminario.) berarti \"Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar.\". Kalimat ini menggunakan pola \"Ir (Presente) + a + Verbo en Infinitivo\" (Perífrasis de Futuro Próximo: Ir a + Infinitivo) yang berfungsi untuk menyatakan aksi yang akan segera dilakukan atau rencana masa depan yang sudah pasti menggunakan perifrasis ir a + infinitif."
       },
       {
         "id": "q-es-gram-9-pg-2",
@@ -3867,7 +3894,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah mahasiswa magister di Universitas Salamanca."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El decano va a inaugurar el nuevo año académico mañana por la mañana.\" berarti \"Dekan akan meresmikan pembukaan tahun akademik baru besok pagi.\"."
+        "explanation": "Kalimat \"El decano va a inaugurar el nuevo año académico mañana por la mañana.\" (dibaca: El decano va a inaugurar el nuevo anyo académico manyana por la manyana.) berarti \"Dekan akan meresmikan pembukaan tahun akademik baru besok pagi.\". Kalimat ini menggunakan pola \"Ir (Presente) + a + Verbo en Infinitivo\" (Perífrasis de Futuro Próximo: Ir a + Infinitivo) yang berfungsi untuk menyatakan aksi yang akan segera dilakukan atau rencana masa depan yang sudah pasti menggunakan perifrasis ir a + infinitif."
       },
       {
         "id": "q-es-gram-9-pg-3",
@@ -3883,7 +3910,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu sangat bijaksana dan selalu siap membantu kami."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Voy a consultar varias fuentes primarias en la biblioteca nacional.\" berarti \"Saya akan memeriksa sejumlah sumber primer di perpustakaan nasional.\"."
+        "explanation": "Kalimat \"Voy a consultar varias fuentes primarias en la biblioteca nacional.\" (dibaca: Voy a consultar varias fuentes primarias en la biblioteca nasional.) berarti \"Saya akan memeriksa sejumlah sumber primer di perpustakaan nasional.\". Kalimat ini menggunakan pola \"Ir (Presente) + a + Verbo en Infinitivo\" (Perífrasis de Futuro Próximo: Ir a + Infinitivo) yang berfungsi untuk menyatakan aksi yang akan segera dilakukan atau rencana masa depan yang sudah pasti menggunakan perifrasis ir a + infinitif."
       },
       {
         "id": "q-es-gram-9-pg-4",
@@ -3903,7 +3930,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-9-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Perífrasis de Futuro Próximo: Ir a + Infinitivo\"?",
         "options": [
           "El decano va a inaugurar el nuevo año académico mañana por la mañana. — Dekan akan meresmikan pembukaan tahun akademik baru besok pagi.",
           "Viajamos a Salamanca para asistir al simposio internacional de traducción. — Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan.",
@@ -3917,7 +3944,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-9-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Perífrasis de Futuro Próximo: Ir a + Infinitivo\"?",
         "options": [
           "Los estudiantes viven en la residencia universitaria cerca de la facultad. — Para mahasiswa tinggal di asrama universitas di dekat fakultas.",
           "Voy a consultar varias fuentes primarias en la biblioteca nacional. — Saya akan memeriksa sejumlah sumber primer di perpustakaan nasional.",
@@ -3931,7 +3958,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-9-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Perífrasis de Futuro Próximo: Ir a + Infinitivo\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4180,7 +4207,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tinggal di asrama universitas di dekat fakultas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Vamos a presentar los avances de nuestra investigación en el seminario.\" berarti \"Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar.\"."
+        "explanation": "Kalimat \"Vamos a presentar los avances de nuestra investigación en el seminario.\" (dibaca: Vamos a presentar los avanses de nuestra investigasión en el seminario.) berarti \"Kami akan mempresentasikan kemajuan penelitian kami di dalam seminar.\". Kalimat ini menggunakan pola \"Ir (Presente) + a + Verbo en Infinitivo\" (Perífrasis de Futuro Próximo: Ir a + Infinitivo) yang berfungsi untuk menyatakan aksi yang akan segera dilakukan atau rencana masa depan yang sudah pasti menggunakan perifrasis ir a + infinitif."
       },
       {
         "id": "q-es-gram-9-bb-2",
@@ -4255,24 +4282,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata depan ruang dasar: en untuk lokasi diam, a untuk tujuan gerakan, de untuk titik tolak asal atau kepemilikan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)\" (Uso básico de las preposiciones espaciales y de movimiento) berfungsi untuk: kata depan ruang dasar: en untuk lokasi diam, a untuk tujuan gerakan, de untuk titik tolak asal atau kepemilikan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Los estudiantes viven en la residencia universitaria cerca de la facultad. — Para mahasiswa tinggal di asrama universitas di dekat fakultas."
+          "Rumus utama: En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)",
+          "Contoh 1: Los estudiantes viven en la residencia universitaria cerca de la facultad. (Los estudiantes viven en la residensia universitaria serca de la facultad.) — Para mahasiswa tinggal di asrama universitas di dekat fakultas."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pergerakan menuju suatu kota atau tujuan dinyatakan dengan preposisi 'a', bukan 'en'.",
         "ruleList": [
-          "Viajamos a Salamanca para asistir al simposio internacional de traducción. — Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan."
+          "Polanya: En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)",
+          "Contoh 2: Viajamos a Salamanca para asistir al simposio internacional de traducción. (Viakhamos a salamanca para asistir al simposio internasional de traducsión.) — Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Este reconocido investigador proviene de una prestigiosa institución de Granada. — Peneliti ternama ini berasal dari sebuah institusi bergengsi di Granada."
+          "Contoh 3: Este reconocido investigador proviene de una prestigiosa institución de Granada. (Este reconosido investigador proviene de una prestikhiosa institusión de granada.) — Peneliti ternama ini berasal dari sebuah institusi bergengsi di Granada.",
+          "Hindari kesalahan: \"viajamos en Salamanca (para indicar destino)\" → gunakan bentuk yang benar: \"viajamos a Salamanca\"."
         ]
       }
     ],
@@ -4280,19 +4310,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-10-ex-1",
         "native": "Los estudiantes viven en la residencia universitaria cerca de la facultad.",
-        "phonetic": "",
+        "phonetic": "Los estudiantes viven en la residensia universitaria serca de la facultad.",
         "translationId": "Para mahasiswa tinggal di asrama universitas di dekat fakultas."
       },
       {
         "id": "es-gram-10-ex-2",
         "native": "Viajamos a Salamanca para asistir al simposio internacional de traducción.",
-        "phonetic": "",
+        "phonetic": "Viakhamos a salamanca para asistir al simposio internasional de traducsión.",
         "translationId": "Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan."
       },
       {
         "id": "es-gram-10-ex-3",
         "native": "Este reconocido investigador proviene de una prestigiosa institución de Granada.",
-        "phonetic": "",
+        "phonetic": "Este reconosido investigador proviene de una prestikhiosa institusión de granada.",
         "translationId": "Peneliti ternama ini berasal dari sebuah institusi bergengsi di Granada."
       }
     ],
@@ -4308,7 +4338,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)\" (En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-10-pg-1",
@@ -4324,7 +4354,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan pusat terletak di kawasan kampus bersejarah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Los estudiantes viven en la residencia universitaria cerca de la facultad.\" berarti \"Para mahasiswa tinggal di asrama universitas di dekat fakultas.\"."
+        "explanation": "Kalimat \"Los estudiantes viven en la residencia universitaria cerca de la facultad.\" (dibaca: Los estudiantes viven en la residensia universitaria serca de la facultad.) berarti \"Para mahasiswa tinggal di asrama universitas di dekat fakultas.\". Kalimat ini menggunakan pola \"En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)\" (Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)) yang berfungsi untuk kata depan ruang dasar: en untuk lokasi diam, a untuk tujuan gerakan, de untuk titik tolak asal atau kepemilikan."
       },
       {
         "id": "q-es-gram-10-pg-2",
@@ -4340,7 +4370,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Topik penelitian tersebut telah disetujui oleh komite akademik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Viajamos a Salamanca para asistir al simposio internacional de traducción.\" berarti \"Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan.\"."
+        "explanation": "Kalimat \"Viajamos a Salamanca para asistir al simposio internacional de traducción.\" (dibaca: Viakhamos a salamanca para asistir al simposio internasional de traducsión.) berarti \"Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan.\". Kalimat ini menggunakan pola \"En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)\" (Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)) yang berfungsi untuk kata depan ruang dasar: en untuk lokasi diam, a untuk tujuan gerakan, de untuk titik tolak asal atau kepemilikan."
       },
       {
         "id": "q-es-gram-10-pg-3",
@@ -4356,7 +4386,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Peneliti ternama ini berasal dari sebuah institusi bergengsi di Granada."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Este reconocido investigador proviene de una prestigiosa institución de Granada.\" berarti \"Peneliti ternama ini berasal dari sebuah institusi bergengsi di Granada.\"."
+        "explanation": "Kalimat \"Este reconocido investigador proviene de una prestigiosa institución de Granada.\" (dibaca: Este reconosido investigador proviene de una prestikhiosa institusión de granada.) berarti \"Peneliti ternama ini berasal dari sebuah institusi bergengsi di Granada.\". Kalimat ini menggunakan pola \"En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)\" (Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)) yang berfungsi untuk kata depan ruang dasar: en untuk lokasi diam, a untuk tujuan gerakan, de untuk titik tolak asal atau kepemilikan."
       },
       {
         "id": "q-es-gram-10-pg-4",
@@ -4376,7 +4406,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-10-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)\"?",
         "options": [
           "La biblioteca central está ubicada en el campus histórico. — Perpustakaan pusat terletak di kawasan kampus bersejarah.",
           "Viajamos a Salamanca para asistir al simposio internacional de traducción. — Kami melakukan perjalanan ke Salamanca untuk menghadiri simposium internasional penerjemahan.",
@@ -4390,7 +4420,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-10-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)\"?",
         "options": [
           "Yo soy estudiante de maestría en la Universidad de Salamanca. — Saya adalah mahasiswa magister di Universitas Salamanca.",
           "El profesor es muy sabio y siempre está dispuesto a ayudarnos. — Profesor itu sangat bijaksana dan selalu siap membantu kami.",
@@ -4404,7 +4434,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-10-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4651,7 +4681,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tinggal di asrama universitas di dekat fakultas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Los estudiantes viven en la residencia universitaria cerca de la facultad.\" berarti \"Para mahasiswa tinggal di asrama universitas di dekat fakultas.\"."
+        "explanation": "Kalimat \"Los estudiantes viven en la residencia universitaria cerca de la facultad.\" (dibaca: Los estudiantes viven en la residensia universitaria serca de la facultad.) berarti \"Para mahasiswa tinggal di asrama universitas di dekat fakultas.\". Kalimat ini menggunakan pola \"En (Lugar/Estado) / A (Destino/Dirección) / De (Origen/Procedencia)\" (Las Preposiciones de Lugar y Movimiento (A, En, De, Por, Para)) yang berfungsi untuk kata depan ruang dasar: en untuk lokasi diam, a untuk tujuan gerakan, de untuk titik tolak asal atau kepemilikan."
       },
       {
         "id": "q-es-gram-10-bb-2",
@@ -4726,24 +4756,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Waktu lampau selesai pada kurun waktu tertutup (kemarin, tahun lalu, pada tahun 2020) untuk aksi historis atau peristiwa tuntas.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pretérito Indefinido (Pretérito Perfecto Simple) Regulares' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pretérito Indefinido (Pretérito Perfecto Simple) Regulares\" (La conjugación y el uso del pretérito indefinido para acciones terminadas) berfungsi untuk: waktu lampau selesai pada kurun waktu tertutup (kemarin, tahun lalu, pada tahun 2020) untuk aksi historis atau peristiwa tuntas. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El año pasado concluí con éxito mis estudios de grado en derecho. — Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses."
+          "Rumus utama: Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)",
+          "Contoh 1: El año pasado concluí con éxito mis estudios de grado en derecho. (El anyo pasado concluí con éxito mis estudios de grado en derecho.) — Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk tindakan yang selesai pada penanda waktu masa lampau tertutup, gunakan pretérito indefinido.",
         "ruleList": [
-          "Los científicos descubrieron una nueva vacuna tras rigurosos ensayos. — Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat."
+          "Polanya: Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)",
+          "Contoh 2: Los científicos descubrieron una nueva vacuna tras rigurosos ensayos. (Los sientíficos descubrieron una nueva vacuna tras rigurosos ensayos.) — Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pretérito Indefinido (Pretérito Perfecto Simple) Regulares\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Ayer el profesor explicó los criterios de evaluación del examen final. — Kemarin sang profesor telah menjelaskan kriteria penilaian ujian akhir."
+          "Contoh 3: Ayer el profesor explicó los criterios de evaluación del examen final. (Ayer el profesor explicó los criterios de evaluasión del examen final.) — Kemarin sang profesor telah menjelaskan kriteria penilaian ujian akhir.",
+          "Hindari kesalahan: \"el año pasado estudio (presente)\" → gunakan bentuk yang benar: \"el año pasado estudié\"."
         ]
       }
     ],
@@ -4751,19 +4784,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-11-ex-1",
         "native": "El año pasado concluí con éxito mis estudios de grado en derecho.",
-        "phonetic": "",
+        "phonetic": "El anyo pasado concluí con éxito mis estudios de grado en derecho.",
         "translationId": "Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses."
       },
       {
         "id": "es-gram-11-ex-2",
         "native": "Los científicos descubrieron una nueva vacuna tras rigurosos ensayos.",
-        "phonetic": "",
+        "phonetic": "Los sientíficos descubrieron una nueva vacuna tras rigurosos ensayos.",
         "translationId": "Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat."
       },
       {
         "id": "es-gram-11-ex-3",
         "native": "Ayer el profesor explicó los criterios de evaluación del examen final.",
-        "phonetic": "",
+        "phonetic": "Ayer el profesor explicó los criterios de evaluasión del examen final.",
         "translationId": "Kemarin sang profesor telah menjelaskan kriteria penilaian ujian akhir."
       }
     ],
@@ -4779,7 +4812,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pretérito Indefinido (Pretérito Perfecto Simple) Regulares' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pretérito Indefinido (Pretérito Perfecto Simple) Regulares\" (Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-11-pg-1",
@@ -4795,7 +4828,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pada masa itu belum tersedia platform digital untuk penelitian akademik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El año pasado concluí con éxito mis estudios de grado en derecho.\" berarti \"Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses.\"."
+        "explanation": "Kalimat \"El año pasado concluí con éxito mis estudios de grado en derecho.\" (dibaca: El anyo pasado concluí con éxito mis estudios de grado en derecho.) berarti \"Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses.\". Kalimat ini menggunakan pola \"Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)\" (Pretérito Indefinido (Pretérito Perfecto Simple) Regulares) yang berfungsi untuk waktu lampau selesai pada kurun waktu tertutup (kemarin, tahun lalu, pada tahun 2020) untuk aksi historis atau peristiwa tuntas."
       },
       {
         "id": "q-es-gram-11-pg-2",
@@ -4811,7 +4844,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Los científicos descubrieron una nueva vacuna tras rigurosos ensayos.\" berarti \"Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat.\"."
+        "explanation": "Kalimat \"Los científicos descubrieron una nueva vacuna tras rigurosos ensayos.\" (dibaca: Los sientíficos descubrieron una nueva vacuna tras rigurosos ensayos.) berarti \"Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat.\". Kalimat ini menggunakan pola \"Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)\" (Pretérito Indefinido (Pretérito Perfecto Simple) Regulares) yang berfungsi untuk waktu lampau selesai pada kurun waktu tertutup (kemarin, tahun lalu, pada tahun 2020) untuk aksi historis atau peristiwa tuntas."
       },
       {
         "id": "q-es-gram-11-pg-3",
@@ -4827,7 +4860,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Hari sedang begitu cerah ketika dewan penguji mengumumkan putusan bulat mereka."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ayer el profesor explicó los criterios de evaluación del examen final.\" berarti \"Kemarin sang profesor telah menjelaskan kriteria penilaian ujian akhir.\"."
+        "explanation": "Kalimat \"Ayer el profesor explicó los criterios de evaluación del examen final.\" (dibaca: Ayer el profesor explicó los criterios de evaluasión del examen final.) berarti \"Kemarin sang profesor telah menjelaskan kriteria penilaian ujian akhir.\". Kalimat ini menggunakan pola \"Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)\" (Pretérito Indefinido (Pretérito Perfecto Simple) Regulares) yang berfungsi untuk waktu lampau selesai pada kurun waktu tertutup (kemarin, tahun lalu, pada tahun 2020) untuk aksi historis atau peristiwa tuntas."
       },
       {
         "id": "q-es-gram-11-pg-4",
@@ -4847,7 +4880,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-11-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Indefinido (Pretérito Perfecto Simple) Regulares\"?",
         "options": [
           "En aquella época no existían plataformas digitales para la investigación académica. — Pada masa itu belum tersedia platform digital untuk penelitian akademik.",
           "Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento. — Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering.",
@@ -4861,7 +4894,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-11-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Indefinido (Pretérito Perfecto Simple) Regulares\"?",
         "options": [
           "Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca. — Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal.",
           "Hacía mucho frío cuando llegamos a la ciudad universitaria de Valladolid. — Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid.",
@@ -4875,7 +4908,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-11-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Indefinido (Pretérito Perfecto Simple) Regulares\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -5126,7 +5159,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"El año pasado concluí con éxito mis estudios de grado en derecho.\" berarti \"Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses.\"."
+        "explanation": "Kalimat \"El año pasado concluí con éxito mis estudios de grado en derecho.\" (dibaca: El anyo pasado concluí con éxito mis estudios de grado en derecho.) berarti \"Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses.\". Kalimat ini menggunakan pola \"Radical + -é, -aste, -ó, -amos, -asteis, -aron (-ar) / -í, -iste, -ió, -imos, -isteis, -ieron (-er/-ir)\" (Pretérito Indefinido (Pretérito Perfecto Simple) Regulares) yang berfungsi untuk waktu lampau selesai pada kurun waktu tertutup (kemarin, tahun lalu, pada tahun 2020) untuk aksi historis atau peristiwa tuntas."
       },
       {
         "id": "q-es-gram-11-bb-2",
@@ -5201,24 +5234,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata kerja tak beraturan berakar khusus pada pretérito indefinido tanpa aksen tilde (tuve, estuve, hice, puse, supe).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)\" (Verbos con radical irregular en pretérito indefinido) berfungsi untuk: kata kerja tak beraturan berakar khusus pada pretérito indefinido tanpa aksen tilde (tuve, estuve, hice, puse, supe). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Tuve que consultar numerosos archivos históricos para redactar el marco teórico. — Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis."
+          "Rumus utama: Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)",
+          "Contoh 1: Tuve que consultar numerosos archivos históricos para redactar el marco teórico. (Tuve ke consultar numerosos archivos históricos para redactar el marco teórico.) — Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja berakar tidak beraturan pada pretérito indefinido (tuve, hice, fui) ditulis tanpa tanda aksen tilde.",
         "ruleList": [
-          "La semana pasada fuimos al archivo general para revisar documentos inéditos. — Minggu lalu kami pergi ke gedung arsip umum untuk meninjau dokumen-dokumen yang belum pernah diterbitkan."
+          "Polanya: Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)",
+          "Contoh 2: La semana pasada fuimos al archivo general para revisar documentos inéditos. (La semana pasada fuimos al archivo kheneral para revisar documentos inéditos.) — Minggu lalu kami pergi ke gedung arsip umum untuk meninjau dokumen-dokumen yang belum pernah diterbitkan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "El comité hizo varias observaciones pertinentes sobre la propuesta del proyecto. — Komite menyampaikan beberapa catatan penting mengenai proposal proyek tersebut."
+          "Contoh 3: El comité hizo varias observaciones pertinentes sobre la propuesta del proyecto. (El comité hizo varias observasiones pertinentes sobre la propuesta del proyecto.) — Komite menyampaikan beberapa catatan penting mengenai proposal proyek tersebut.",
+          "Hindari kesalahan: \"yo tení / yo hací\" → gunakan bentuk yang benar: \"yo tuve / yo hice\"."
         ]
       }
     ],
@@ -5226,19 +5262,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-12-ex-1",
         "native": "Tuve que consultar numerosos archivos históricos para redactar el marco teórico.",
-        "phonetic": "",
+        "phonetic": "Tuve ke consultar numerosos archivos históricos para redactar el marco teórico.",
         "translationId": "Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis."
       },
       {
         "id": "es-gram-12-ex-2",
         "native": "La semana pasada fuimos al archivo general para revisar documentos inéditos.",
-        "phonetic": "",
+        "phonetic": "La semana pasada fuimos al archivo kheneral para revisar documentos inéditos.",
         "translationId": "Minggu lalu kami pergi ke gedung arsip umum untuk meninjau dokumen-dokumen yang belum pernah diterbitkan."
       },
       {
         "id": "es-gram-12-ex-3",
         "native": "El comité hizo varias observaciones pertinentes sobre la propuesta del proyecto.",
-        "phonetic": "",
+        "phonetic": "El comité hizo varias observasiones pertinentes sobre la propuesta del proyecto.",
         "translationId": "Komite menyampaikan beberapa catatan penting mengenai proposal proyek tersebut."
       }
     ],
@@ -5254,7 +5290,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)\" (Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-12-pg-1",
@@ -5270,7 +5306,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Tuve que consultar numerosos archivos históricos para redactar el marco teórico.\" berarti \"Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis.\"."
+        "explanation": "Kalimat \"Tuve que consultar numerosos archivos históricos para redactar el marco teórico.\" (dibaca: Tuve ke consultar numerosos archivos históricos para redactar el marco teórico.) berarti \"Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis.\". Kalimat ini menggunakan pola \"Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)\" (Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)) yang berfungsi untuk kata kerja tak beraturan berakar khusus pada pretérito indefinido tanpa aksen tilde (tuve, estuve, hice, puse, supe)."
       },
       {
         "id": "q-es-gram-12-pg-2",
@@ -5286,7 +5322,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"La semana pasada fuimos al archivo general para revisar documentos inéditos.\" berarti \"Minggu lalu kami pergi ke gedung arsip umum untuk meninjau dokumen-dokumen yang belum pernah diterbitkan.\"."
+        "explanation": "Kalimat \"La semana pasada fuimos al archivo general para revisar documentos inéditos.\" (dibaca: La semana pasada fuimos al archivo kheneral para revisar documentos inéditos.) berarti \"Minggu lalu kami pergi ke gedung arsip umum untuk meninjau dokumen-dokumen yang belum pernah diterbitkan.\". Kalimat ini menggunakan pola \"Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)\" (Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)) yang berfungsi untuk kata kerja tak beraturan berakar khusus pada pretérito indefinido tanpa aksen tilde (tuve, estuve, hice, puse, supe)."
       },
       {
         "id": "q-es-gram-12-pg-3",
@@ -5302,7 +5338,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu pernah membaca karya-karya lengkap Miguel de Cervantes?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El comité hizo varias observaciones pertinentes sobre la propuesta del proyecto.\" berarti \"Komite menyampaikan beberapa catatan penting mengenai proposal proyek tersebut.\"."
+        "explanation": "Kalimat \"El comité hizo varias observaciones pertinentes sobre la propuesta del proyecto.\" (dibaca: El comité hizo varias observasiones pertinentes sobre la propuesta del proyecto.) berarti \"Komite menyampaikan beberapa catatan penting mengenai proposal proyek tersebut.\". Kalimat ini menggunakan pola \"Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)\" (Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)) yang berfungsi untuk kata kerja tak beraturan berakar khusus pada pretérito indefinido tanpa aksen tilde (tuve, estuve, hice, puse, supe)."
       },
       {
         "id": "q-es-gram-12-pg-4",
@@ -5322,7 +5358,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-12-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)\"?",
         "options": [
           "Mientras los investigadores analizaban las muestras, ocurrió un fallo técnico. — Sementara para peneliti sedang menganalisis sampel, terjadi sebuah gangguan teknis.",
           "Hoy hemos recibido la confirmación oficial sobre la concesión de la beca. — Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut.",
@@ -5336,7 +5372,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-12-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)\"?",
         "options": [
           "El comité hizo varias observaciones pertinentes sobre la propuesta del proyecto. — Komite menyampaikan beberapa catatan penting mengenai proposal proyek tersebut.",
           "Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento. — Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering.",
@@ -5350,7 +5386,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-12-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -5597,7 +5633,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Tuve que consultar numerosos archivos históricos para redactar el marco teórico.\" berarti \"Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis.\"."
+        "explanation": "Kalimat \"Tuve que consultar numerosos archivos históricos para redactar el marco teórico.\" (dibaca: Tuve ke consultar numerosos archivos históricos para redactar el marco teórico.) berarti \"Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis.\". Kalimat ini menggunakan pola \"Estar (estuv-) / Tener (tuv-) / Hacer (hic-) / Poner (pus-) / Ir-Ser (fui)\" (Pretérito Indefinido Irregulares Frecuentes (Fui, Tuve, Hice)) yang berfungsi untuk kata kerja tak beraturan berakar khusus pada pretérito indefinido tanpa aksen tilde (tuve, estuve, hice, puse, supe)."
       },
       {
         "id": "q-es-gram-12-bb-2",
@@ -5672,24 +5708,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, kondisi cuaca, dan usia di masa lalu.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pretérito Imperfecto: Descripciones y Hábitos en el Pasado' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pretérito Imperfecto: Descripciones y Hábitos en el Pasado\" (La formación y los valores descriptivos del pretérito imperfecto) berfungsi untuk: waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, kondisi cuaca, dan usia di masa lalu. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca. — Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal."
+          "Rumus utama: Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)",
+          "Contoh 1: Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca. (Cuando era estudiante de lisensiatura, solía pasar horas enteras en la hemeroteca.) — Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pretérito imperfecto digunakan untuk melukiskan keadaan berdurasi dan kebiasaan di masa lalu.",
         "ruleList": [
-          "En aquella época no existían plataformas digitales para la investigación académica. — Pada masa itu belum tersedia platform digital untuk penelitian akademik."
+          "Polanya: Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)",
+          "Contoh 2: En aquella época no existían plataformas digitales para la investigación académica. (En akeya época no existían plataformas dikhitales para la investigasión académica.) — Pada masa itu belum tersedia platform digital untuk penelitian akademik."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pretérito Imperfecto: Descripciones y Hábitos en el Pasado\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Hacía mucho frío cuando llegamos a la ciudad universitaria de Valladolid. — Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid."
+          "Contoh 3: Hacía mucho frío cuando llegamos a la ciudad universitaria de Valladolid. (Hacía mucho frío cuando yegamos a la siudad universitaria de vayadolid.) — Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid.",
+          "Hindari kesalahan: \"cuando fui pequeño (para un estado durativo)\" → gunakan bentuk yang benar: \"cuando era pequeño\"."
         ]
       }
     ],
@@ -5697,19 +5736,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-13-ex-1",
         "native": "Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca.",
-        "phonetic": "",
+        "phonetic": "Cuando era estudiante de lisensiatura, solía pasar horas enteras en la hemeroteca.",
         "translationId": "Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal."
       },
       {
         "id": "es-gram-13-ex-2",
         "native": "En aquella época no existían plataformas digitales para la investigación académica.",
-        "phonetic": "",
+        "phonetic": "En akeya época no existían plataformas dikhitales para la investigasión académica.",
         "translationId": "Pada masa itu belum tersedia platform digital untuk penelitian akademik."
       },
       {
         "id": "es-gram-13-ex-3",
         "native": "Hacía mucho frío cuando llegamos a la ciudad universitaria de Valladolid.",
-        "phonetic": "",
+        "phonetic": "Hacía mucho frío cuando yegamos a la siudad universitaria de vayadolid.",
         "translationId": "Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid."
       }
     ],
@@ -5725,7 +5764,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pretérito Imperfecto: Descripciones y Hábitos en el Pasado' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pretérito Imperfecto: Descripciones y Hábitos en el Pasado\" (Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-13-pg-1",
@@ -5741,7 +5780,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca.\" berarti \"Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal.\"."
+        "explanation": "Kalimat \"Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca.\" (dibaca: Cuando era estudiante de lisensiatura, solía pasar horas enteras en la hemeroteca.) berarti \"Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal.\". Kalimat ini menggunakan pola \"Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)\" (Pretérito Imperfecto: Descripciones y Hábitos en el Pasado) yang berfungsi untuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, kondisi cuaca, dan usia di masa lalu."
       },
       {
         "id": "q-es-gram-13-pg-2",
@@ -5757,7 +5796,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"En aquella época no existían plataformas digitales para la investigación académica.\" berarti \"Pada masa itu belum tersedia platform digital untuk penelitian akademik.\"."
+        "explanation": "Kalimat \"En aquella época no existían plataformas digitales para la investigación académica.\" (dibaca: En akeya época no existían plataformas dikhitales para la investigasión académica.) berarti \"Pada masa itu belum tersedia platform digital untuk penelitian akademik.\". Kalimat ini menggunakan pola \"Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)\" (Pretérito Imperfecto: Descripciones y Hábitos en el Pasado) yang berfungsi untuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, kondisi cuaca, dan usia di masa lalu."
       },
       {
         "id": "q-es-gram-13-pg-3",
@@ -5773,7 +5812,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Hacía mucho frío cuando llegamos a la ciudad universitaria de Valladolid.\" berarti \"Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid.\"."
+        "explanation": "Kalimat \"Hacía mucho frío cuando llegamos a la ciudad universitaria de Valladolid.\" (dibaca: Hacía mucho frío cuando yegamos a la siudad universitaria de vayadolid.) berarti \"Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid.\". Kalimat ini menggunakan pola \"Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)\" (Pretérito Imperfecto: Descripciones y Hábitos en el Pasado) yang berfungsi untuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, kondisi cuaca, dan usia di masa lalu."
       },
       {
         "id": "q-es-gram-13-pg-4",
@@ -5793,7 +5832,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-13-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Imperfecto: Descripciones y Hábitos en el Pasado\"?",
         "options": [
           "En aquella época no existían plataformas digitales para la investigación académica. — Pada masa itu belum tersedia platform digital untuk penelitian akademik.",
           "Este semestre los alumnos han publicado artículos en revistas especializadas. — Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis.",
@@ -5807,7 +5846,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-13-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Imperfecto: Descripciones y Hábitos en el Pasado\"?",
         "options": [
           "Hoy hemos recibido la confirmación oficial sobre la concesión de la beca. — Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut.",
           "Hacía mucho frío cuando llegamos a la ciudad universitaria de Valladolid. — Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid.",
@@ -5821,7 +5860,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-13-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Imperfecto: Descripciones y Hábitos en el Pasado\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6072,7 +6111,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca.\" berarti \"Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal.\"."
+        "explanation": "Kalimat \"Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca.\" (dibaca: Cuando era estudiante de lisensiatura, solía pasar horas enteras en la hemeroteca.) berarti \"Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal.\". Kalimat ini menggunakan pola \"Radical + -aba, -abas, -aba, -ábamos, -abais, -aban (-ar) / -ía, -ías, -ía, -íamos, -íais, -ían (-er/-ir)\" (Pretérito Imperfecto: Descripciones y Hábitos en el Pasado) yang berfungsi untuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, kondisi cuaca, dan usia di masa lalu."
       },
       {
         "id": "q-es-gram-13-bb-2",
@@ -6147,24 +6186,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kombinasi naratif dinamis: pretérito imperfecto melukiskan latar suasana yang sedang berlangsung saat aksi pretérito indefinido memotong.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Contraste entre Pretérito Indefinido y Pretérito Imperfecto' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Contraste entre Pretérito Indefinido y Pretérito Imperfecto\" (La alternancia narrativa entre la acción puntual y el marco descriptivo) berfungsi untuk: kombinasi naratif dinamis: pretérito imperfecto melukiskan latar suasana yang sedang berlangsung saat aksi pretérito indefinido memotong. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento. — Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering."
+          "Rumus utama: Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)",
+          "Contoh 1: Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento. (Estudiaba trankilamente en mi habitasión cuando sonó el teléfono del departamento.) — Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Tindakan latar yang sedang berlangsung saat dipotong oleh kejadian lain dinyatakan dengan imperfecto.",
         "ruleList": [
-          "Mientras los investigadores analizaban las muestras, ocurrió un fallo técnico. — Sementara para peneliti sedang menganalisis sampel, terjadi sebuah gangguan teknis."
+          "Polanya: Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)",
+          "Contoh 2: Mientras los investigadores analizaban las muestras, ocurrió un fallo técnico. (Mientras los investigadores analizaban las muestras, ocurrió un fayo técnico.) — Sementara para peneliti sedang menganalisis sampel, terjadi sebuah gangguan teknis."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Contraste entre Pretérito Indefinido y Pretérito Imperfecto\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime. — Hari sedang begitu cerah ketika dewan penguji mengumumkan putusan bulat mereka."
+          "Contoh 3: Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime. (Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime.) — Hari sedang begitu cerah ketika dewan penguji mengumumkan putusan bulat mereka.",
+          "Hindari kesalahan: \"estudié cuando sonó el teléfono\" → gunakan bentuk yang benar: \"estudiaba cuando sonó el teléfono\"."
         ]
       }
     ],
@@ -6172,19 +6214,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-14-ex-1",
         "native": "Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento.",
-        "phonetic": "",
+        "phonetic": "Estudiaba trankilamente en mi habitasión cuando sonó el teléfono del departamento.",
         "translationId": "Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering."
       },
       {
         "id": "es-gram-14-ex-2",
         "native": "Mientras los investigadores analizaban las muestras, ocurrió un fallo técnico.",
-        "phonetic": "",
+        "phonetic": "Mientras los investigadores analizaban las muestras, ocurrió un fayo técnico.",
         "translationId": "Sementara para peneliti sedang menganalisis sampel, terjadi sebuah gangguan teknis."
       },
       {
         "id": "es-gram-14-ex-3",
         "native": "Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime.",
-        "phonetic": "",
+        "phonetic": "Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime.",
         "translationId": "Hari sedang begitu cerah ketika dewan penguji mengumumkan putusan bulat mereka."
       }
     ],
@@ -6200,7 +6242,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Contraste entre Pretérito Indefinido y Pretérito Imperfecto' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Contraste entre Pretérito Indefinido y Pretérito Imperfecto\" (Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-14-pg-1",
@@ -6216,7 +6258,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Disertasi doktoral kami sudah siap; kami akan menyerahkannya kepada dewan penguji besok."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento.\" berarti \"Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering.\"."
+        "explanation": "Kalimat \"Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento.\" (dibaca: Estudiaba trankilamente en mi habitasión cuando sonó el teléfono del departamento.) berarti \"Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering.\". Kalimat ini menggunakan pola \"Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)\" (Contraste entre Pretérito Indefinido y Pretérito Imperfecto) yang berfungsi untuk kombinasi naratif dinamis: pretérito imperfecto melukiskan latar suasana yang sedang berlangsung saat aksi pretérito indefinido memotong."
       },
       {
         "id": "q-es-gram-14-pg-2",
@@ -6232,7 +6274,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Mientras los investigadores analizaban las muestras, ocurrió un fallo técnico.\" berarti \"Sementara para peneliti sedang menganalisis sampel, terjadi sebuah gangguan teknis.\"."
+        "explanation": "Kalimat \"Mientras los investigadores analizaban las muestras, ocurrió un fallo técnico.\" (dibaca: Mientras los investigadores analizaban las muestras, ocurrió un fayo técnico.) berarti \"Sementara para peneliti sedang menganalisis sampel, terjadi sebuah gangguan teknis.\". Kalimat ini menggunakan pola \"Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)\" (Contraste entre Pretérito Indefinido y Pretérito Imperfecto) yang berfungsi untuk kombinasi naratif dinamis: pretérito imperfecto melukiskan latar suasana yang sedang berlangsung saat aksi pretérito indefinido memotong."
       },
       {
         "id": "q-es-gram-14-pg-3",
@@ -6248,7 +6290,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Hari sedang begitu cerah ketika dewan penguji mengumumkan putusan bulat mereka."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime.\" berarti \"Hari sedang begitu cerah ketika dewan penguji mengumumkan putusan bulat mereka.\"."
+        "explanation": "Kalimat \"Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime.\" (dibaca: Hacía un día espléndido cuando el tribunal proclamó su veredicto unánime.) berarti \"Hari sedang begitu cerah ketika dewan penguji mengumumkan putusan bulat mereka.\". Kalimat ini menggunakan pola \"Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)\" (Contraste entre Pretérito Indefinido y Pretérito Imperfecto) yang berfungsi untuk kombinasi naratif dinamis: pretérito imperfecto melukiskan latar suasana yang sedang berlangsung saat aksi pretérito indefinido memotong."
       },
       {
         "id": "q-es-gram-14-pg-4",
@@ -6268,7 +6310,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-14-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Contraste entre Pretérito Indefinido y Pretérito Imperfecto\"?",
         "options": [
           "Nuestra tesis doctoral ya está lista; la entregaremos al tribunal mañana. — Disertasi doktoral kami sudah siap; kami akan menyerahkannya kepada dewan penguji besok.",
           "Mientras los investigadores analizaban las muestras, ocurrió un fallo técnico. — Sementara para peneliti sedang menganalisis sampel, terjadi sebuah gangguan teknis.",
@@ -6282,7 +6324,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-14-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Contraste entre Pretérito Indefinido y Pretérito Imperfecto\"?",
         "options": [
           "Este artículo científico es fundamental; lo leí con detenimiento anoche. — Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam.",
           "Los datos estadísticos son reveladores; los analizamos con un software moderno. — Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern.",
@@ -6296,7 +6338,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-14-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Contraste entre Pretérito Indefinido y Pretérito Imperfecto\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6543,7 +6585,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento.\" berarti \"Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering.\"."
+        "explanation": "Kalimat \"Estudiaba tranquilamente en mi habitación cuando sonó el teléfono del departamento.\" (dibaca: Estudiaba trankilamente en mi habitasión cuando sonó el teléfono del departamento.) berarti \"Saya sedang belajar dengan tenang di kamar saya ketika telepon departemen berdering.\". Kalimat ini menggunakan pola \"Imperfecto (Fondo/Escenario durativo) + Indefinido (Acción puntual que interrumpe)\" (Contraste entre Pretérito Indefinido y Pretérito Imperfecto) yang berfungsi untuk kombinasi naratif dinamis: pretérito imperfecto melukiskan latar suasana yang sedang berlangsung saat aksi pretérito indefinido memotong."
       },
       {
         "id": "q-es-gram-14-bb-2",
@@ -6618,24 +6660,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan peristiwa lampau yang terjadi dalam kurun waktu yang masih berlangsung (hari ini, minggu ini, tahun ini) atau pengalaman hidup.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pretérito Perfecto Compuesto (Haber + Participio)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pretérito Perfecto Compuesto (Haber + Participio)\" (El pretérito perfecto de indicativo para el pasado reciente vinculado al presente) berfungsi untuk: menyatakan peristiwa lampau yang terjadi dalam kurun waktu yang masih berlangsung (hari ini, minggu ini, tahun ini) atau pengalaman hidup. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Hoy hemos recibido la confirmación oficial sobre la concesión de la beca. — Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut."
+          "Rumus utama: Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)",
+          "Contoh 1: Hoy hemos recibido la confirmación oficial sobre la concesión de la beca. (Hoy hemos resibido la confirmasión ofisial sobre la consesión de la beca.) — Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk penanda waktu yang masih berlangsung (hoy, este año, esta semana), gunakan pretérito perfecto compuesto.",
         "ruleList": [
-          "Este semestre los alumnos han publicado artículos en revistas especializadas. — Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis."
+          "Polanya: Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)",
+          "Contoh 2: Este semestre los alumnos han publicado artículos en revistas especializadas. (Este semestre los alumnos han publicado artículos en revistas espesializadas.) — Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pretérito Perfecto Compuesto (Haber + Participio)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "¿Has leído alguna vez las obras completas de Miguel de Cervantes? — Apakah kamu pernah membaca karya-karya lengkap Miguel de Cervantes?"
+          "Contoh 3: ¿Has leído alguna vez las obras completas de Miguel de Cervantes? (¿has leído alguna vez las obras completas de miguel de servantes?) — Apakah kamu pernah membaca karya-karya lengkap Miguel de Cervantes?",
+          "Hindari kesalahan: \"este año estudié (en norma peninsular estándar)\" → gunakan bentuk yang benar: \"este año he estudiado\"."
         ]
       }
     ],
@@ -6643,19 +6688,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-15-ex-1",
         "native": "Hoy hemos recibido la confirmación oficial sobre la concesión de la beca.",
-        "phonetic": "",
+        "phonetic": "Hoy hemos resibido la confirmasión ofisial sobre la consesión de la beca.",
         "translationId": "Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut."
       },
       {
         "id": "es-gram-15-ex-2",
         "native": "Este semestre los alumnos han publicado artículos en revistas especializadas.",
-        "phonetic": "",
+        "phonetic": "Este semestre los alumnos han publicado artículos en revistas espesializadas.",
         "translationId": "Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis."
       },
       {
         "id": "es-gram-15-ex-3",
         "native": "¿Has leído alguna vez las obras completas de Miguel de Cervantes?",
-        "phonetic": "",
+        "phonetic": "¿has leído alguna vez las obras completas de miguel de servantes?",
         "translationId": "Apakah kamu pernah membaca karya-karya lengkap Miguel de Cervantes?"
       }
     ],
@@ -6671,7 +6716,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pretérito Perfecto Compuesto (Haber + Participio)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pretérito Perfecto Compuesto (Haber + Participio)\" (Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-15-pg-1",
@@ -6687,7 +6732,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Hoy hemos recibido la confirmación oficial sobre la concesión de la beca.\" berarti \"Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut.\"."
+        "explanation": "Kalimat \"Hoy hemos recibido la confirmación oficial sobre la concesión de la beca.\" (dibaca: Hoy hemos resibido la confirmasión ofisial sobre la consesión de la beca.) berarti \"Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut.\". Kalimat ini menggunakan pola \"Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)\" (Pretérito Perfecto Compuesto (Haber + Participio)) yang berfungsi untuk menyatakan peristiwa lampau yang terjadi dalam kurun waktu yang masih berlangsung (hari ini, minggu ini, tahun ini) atau pengalaman hidup."
       },
       {
         "id": "q-es-gram-15-pg-2",
@@ -6703,7 +6748,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Este semestre los alumnos han publicado artículos en revistas especializadas.\" berarti \"Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis.\"."
+        "explanation": "Kalimat \"Este semestre los alumnos han publicado artículos en revistas especializadas.\" (dibaca: Este semestre los alumnos han publicado artículos en revistas espesializadas.) berarti \"Semester ini para mahasiswa telah menerbitkan artikel di berbagai jurnal spesialis.\". Kalimat ini menggunakan pola \"Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)\" (Pretérito Perfecto Compuesto (Haber + Participio)) yang berfungsi untuk menyatakan peristiwa lampau yang terjadi dalam kurun waktu yang masih berlangsung (hari ini, minggu ini, tahun ini) atau pengalaman hidup."
       },
       {
         "id": "q-es-gram-15-pg-3",
@@ -6719,7 +6764,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu memerlukan kamus sejarah itu, saya dapat meminjamkannya kepadamu dengan senang hati."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"¿Has leído alguna vez las obras completas de Miguel de Cervantes?\" berarti \"Apakah kamu pernah membaca karya-karya lengkap Miguel de Cervantes?\"."
+        "explanation": "Kalimat \"¿Has leído alguna vez las obras completas de Miguel de Cervantes?\" (dibaca: ¿has leído alguna vez las obras completas de miguel de servantes?) berarti \"Apakah kamu pernah membaca karya-karya lengkap Miguel de Cervantes?\". Kalimat ini menggunakan pola \"Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)\" (Pretérito Perfecto Compuesto (Haber + Participio)) yang berfungsi untuk menyatakan peristiwa lampau yang terjadi dalam kurun waktu yang masih berlangsung (hari ini, minggu ini, tahun ini) atau pengalaman hidup."
       },
       {
         "id": "q-es-gram-15-pg-4",
@@ -6739,7 +6784,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-15-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Perfecto Compuesto (Haber + Participio)\"?",
         "options": [
           "Nos enviaron las calificaciones finales del curso por correo institucional. — Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi.",
           "¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana. — Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini.",
@@ -6753,7 +6798,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-15-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Perfecto Compuesto (Haber + Participio)\"?",
         "options": [
           "El profesor le explicó al estudiante los fundamentos del análisis sintáctico. — Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut.",
           "Les comuniqué a los miembros del equipo la fecha de la próxima reunión. — Saya menyampaikan tanggal rapat berikutnya kepada para anggota tim.",
@@ -6767,7 +6812,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-15-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Perfecto Compuesto (Haber + Participio)\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -7016,7 +7061,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Hoy hemos recibido la confirmación oficial sobre la concesión de la beca.\" berarti \"Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut.\"."
+        "explanation": "Kalimat \"Hoy hemos recibido la confirmación oficial sobre la concesión de la beca.\" (dibaca: Hoy hemos resibido la confirmasión ofisial sobre la consesión de la beca.) berarti \"Hari ini kami telah menerima konfirmasi resmi mengenai penganugerahan beasiswa tersebut.\". Kalimat ini menggunakan pola \"Haber (He, has, ha, hemos, habéis, han) + Participio invariable (-ado, -ido)\" (Pretérito Perfecto Compuesto (Haber + Participio)) yang berfungsi untuk menyatakan peristiwa lampau yang terjadi dalam kurun waktu yang masih berlangsung (hari ini, minggu ini, tahun ini) atau pengalaman hidup."
       },
       {
         "id": "q-es-gram-15-bb-2",
@@ -7091,24 +7136,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menggantikan objek penderita langsung tanpa preposisi dengan pronomina lo, la, los, las yang diletakkan di depan verba terkonjugasi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pronombres de Objeto Directo (OD: Lo, La, Los, Las)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pronombres de Objeto Directo (OD: Lo, La, Los, Las)\" (Los pronombres de objeto directo para evitar la redundancia léxica) berfungsi untuk: menggantikan objek penderita langsung tanpa preposisi dengan pronomina lo, la, los, las yang diletakkan di depan verba terkonjugasi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Este artículo científico es fundamental; lo leí con detenimiento anoche. — Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam."
+          "Rumus utama: Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado",
+          "Contoh 1: Este artículo científico es fundamental; lo leí con detenimiento anoche. (Este artículo sientífico es fundamental; lo leí con detenimiento anoche.) — Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata ganti objek langsung (lo/la/los/las) diletakkan di depan kata kerja yang terkonjugasi.",
         "ruleList": [
-          "Nuestra tesis doctoral ya está lista; la entregaremos al tribunal mañana. — Disertasi doktoral kami sudah siap; kami akan menyerahkannya kepada dewan penguji besok."
+          "Polanya: Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado",
+          "Contoh 2: Nuestra tesis doctoral ya está lista; la entregaremos al tribunal mañana. (Nuestra tesis doctoral ya está lista; la entregaremos al tribunal manyana.) — Disertasi doktoral kami sudah siap; kami akan menyerahkannya kepada dewan penguji besok."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pronombres de Objeto Directo (OD: Lo, La, Los, Las)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Los datos estadísticos son reveladores; los analizamos con un software moderno. — Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern."
+          "Contoh 3: Los datos estadísticos son reveladores; los analizamos con un software moderno. (Los datos estadísticos son reveladores; los analizamos con un software moderno.) — Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern.",
+          "Hindari kesalahan: \"leí lo ayer\" → gunakan bentuk yang benar: \"lo leí ayer\"."
         ]
       }
     ],
@@ -7116,19 +7164,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-16-ex-1",
         "native": "Este artículo científico es fundamental; lo leí con detenimiento anoche.",
-        "phonetic": "",
+        "phonetic": "Este artículo sientífico es fundamental; lo leí con detenimiento anoche.",
         "translationId": "Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam."
       },
       {
         "id": "es-gram-16-ex-2",
         "native": "Nuestra tesis doctoral ya está lista; la entregaremos al tribunal mañana.",
-        "phonetic": "",
+        "phonetic": "Nuestra tesis doctoral ya está lista; la entregaremos al tribunal manyana.",
         "translationId": "Disertasi doktoral kami sudah siap; kami akan menyerahkannya kepada dewan penguji besok."
       },
       {
         "id": "es-gram-16-ex-3",
         "native": "Los datos estadísticos son reveladores; los analizamos con un software moderno.",
-        "phonetic": "",
+        "phonetic": "Los datos estadísticos son reveladores; los analizamos con un software moderno.",
         "translationId": "Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern."
       }
     ],
@@ -7144,7 +7192,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pronombres de Objeto Directo (OD: Lo, La, Los, Las)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pronombres de Objeto Directo (OD: Lo, La, Los, Las)\" (Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-16-pg-1",
@@ -7160,7 +7208,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Este artículo científico es fundamental; lo leí con detenimiento anoche.\" berarti \"Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam.\"."
+        "explanation": "Kalimat \"Este artículo científico es fundamental; lo leí con detenimiento anoche.\" (dibaca: Este artículo sientífico es fundamental; lo leí con detenimiento anoche.) berarti \"Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam.\". Kalimat ini menggunakan pola \"Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado\" (Pronombres de Objeto Directo (OD: Lo, La, Los, Las)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina lo, la, los, las yang diletakkan di depan verba terkonjugasi."
       },
       {
         "id": "q-es-gram-16-pg-2",
@@ -7176,7 +7224,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Bacalah petunjuk ujian dengan saksama sebelum menjawab!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nuestra tesis doctoral ya está lista; la entregaremos al tribunal mañana.\" berarti \"Disertasi doktoral kami sudah siap; kami akan menyerahkannya kepada dewan penguji besok.\"."
+        "explanation": "Kalimat \"Nuestra tesis doctoral ya está lista; la entregaremos al tribunal mañana.\" (dibaca: Nuestra tesis doctoral ya está lista; la entregaremos al tribunal manyana.) berarti \"Disertasi doktoral kami sudah siap; kami akan menyerahkannya kepada dewan penguji besok.\". Kalimat ini menggunakan pola \"Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado\" (Pronombres de Objeto Directo (OD: Lo, La, Los, Las)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina lo, la, los, las yang diletakkan di depan verba terkonjugasi."
       },
       {
         "id": "q-es-gram-16-pg-3",
@@ -7192,7 +7240,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Jangan khawatir mengenai nilai sementara; konsultasikan hal yang belum jelas dengan dosen pembimbingmu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Los datos estadísticos son reveladores; los analizamos con un software moderno.\" berarti \"Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern.\"."
+        "explanation": "Kalimat \"Los datos estadísticos son reveladores; los analizamos con un software moderno.\" (dibaca: Los datos estadísticos son reveladores; los analizamos con un software moderno.) berarti \"Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern.\". Kalimat ini menggunakan pola \"Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado\" (Pronombres de Objeto Directo (OD: Lo, La, Los, Las)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina lo, la, los, las yang diletakkan di depan verba terkonjugasi."
       },
       {
         "id": "q-es-gram-16-pg-4",
@@ -7212,7 +7260,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-16-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pronombres de Objeto Directo (OD: Lo, La, Los, Las)\"?",
         "options": [
           "Los investigadores prepararon los gráficos y se los mostraron a los evaluadores. — Para peneliti menyiapkan grafik-grafik tersebut lalu menunjukkannya kepada para penilai.",
           "¡Lea atentamente las instrucciones del examen antes de responder! — Bacalah petunjuk ujian dengan saksama sebelum menjawab!",
@@ -7226,7 +7274,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-16-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pronombres de Objeto Directo (OD: Lo, La, Los, Las)\"?",
         "options": [
           "Los datos estadísticos son reveladores; los analizamos con un software moderno. — Data-data statistik itu sangat membuka wawasan; kami menganalisisnya dengan perangkat lunak modern.",
           "¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana. — Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini.",
@@ -7240,7 +7288,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-16-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pronombres de Objeto Directo (OD: Lo, La, Los, Las)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -7491,7 +7539,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Este artículo científico es fundamental; lo leí con detenimiento anoche.\" berarti \"Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam.\"."
+        "explanation": "Kalimat \"Este artículo científico es fundamental; lo leí con detenimiento anoche.\" (dibaca: Este artículo sientífico es fundamental; lo leí con detenimiento anoche.) berarti \"Artikel ilmiah ini sangat mendasar; saya telah membacanya dengan saksama tadi malam.\". Kalimat ini menggunakan pola \"Sujeto + (No) + Lo / La / Los / Las + Verbo conjugado\" (Pronombres de Objeto Directo (OD: Lo, La, Los, Las)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina lo, la, los, las yang diletakkan di depan verba terkonjugasi."
       },
       {
         "id": "q-es-gram-16-bb-2",
@@ -7566,24 +7614,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menggantikan orang atau entitas penerima manfaat tindakan yang diawali preposisi 'a'.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)\" (Los pronombres de complemento indirecto con la preposición 'a') berfungsi untuk: menggantikan orang atau entitas penerima manfaat tindakan yang diawali preposisi 'a'. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El profesor le explicó al estudiante los fundamentos del análisis sintáctico. — Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut."
+          "Rumus utama: Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)",
+          "Contoh 1: El profesor le explicó al estudiante los fundamentos del análisis sintáctico. (El profesor le explicó al estudiante los fundamentos del análisis sintáctico.) — Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa Spanyol, lazim dan sering kali wajib menyertakan duplikasi pronomina objek tak langsung 'le/les'.",
         "ruleList": [
-          "Nos enviaron las calificaciones finales del curso por correo institucional. — Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi."
+          "Polanya: Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)",
+          "Contoh 2: Nos enviaron las calificaciones finales del curso por correo institucional. (Nos enviaron las calificasiones finales del curso por correo institusional.) — Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Les comuniqué a los miembros del equipo la fecha de la próxima reunión. — Saya menyampaikan tanggal rapat berikutnya kepada para anggota tim."
+          "Contoh 3: Les comuniqué a los miembros del equipo la fecha de la próxima reunión. (Les comuniké a los miembros del ekipo la fecha de la próxima reunión.) — Saya menyampaikan tanggal rapat berikutnya kepada para anggota tim.",
+          "Hindari kesalahan: \"el profesor explicó a él\" → gunakan bentuk yang benar: \"el profesor le explicó a él\"."
         ]
       }
     ],
@@ -7591,19 +7642,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-17-ex-1",
         "native": "El profesor le explicó al estudiante los fundamentos del análisis sintáctico.",
-        "phonetic": "",
+        "phonetic": "El profesor le explicó al estudiante los fundamentos del análisis sintáctico.",
         "translationId": "Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut."
       },
       {
         "id": "es-gram-17-ex-2",
         "native": "Nos enviaron las calificaciones finales del curso por correo institucional.",
-        "phonetic": "",
+        "phonetic": "Nos enviaron las calificasiones finales del curso por correo institusional.",
         "translationId": "Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi."
       },
       {
         "id": "es-gram-17-ex-3",
         "native": "Les comuniqué a los miembros del equipo la fecha de la próxima reunión.",
-        "phonetic": "",
+        "phonetic": "Les comuniké a los miembros del ekipo la fecha de la próxima reunión.",
         "translationId": "Saya menyampaikan tanggal rapat berikutnya kepada para anggota tim."
       }
     ],
@@ -7619,7 +7670,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)\" (Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-17-pg-1",
@@ -7635,7 +7686,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"El profesor le explicó al estudiante los fundamentos del análisis sintáctico.\" berarti \"Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut.\"."
+        "explanation": "Kalimat \"El profesor le explicó al estudiante los fundamentos del análisis sintáctico.\" (dibaca: El profesor le explicó al estudiante los fundamentos del análisis sintáctico.) berarti \"Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut.\". Kalimat ini menggunakan pola \"Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)\" (Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)) yang berfungsi untuk menggantikan orang atau entitas penerima manfaat tindakan yang diawali preposisi 'a'."
       },
       {
         "id": "q-es-gram-17-pg-2",
@@ -7651,7 +7702,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nos enviaron las calificaciones finales del curso por correo institucional.\" berarti \"Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi.\"."
+        "explanation": "Kalimat \"Nos enviaron las calificaciones finales del curso por correo institucional.\" (dibaca: Nos enviaron las calificasiones finales del curso por correo institusional.) berarti \"Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi.\". Kalimat ini menggunakan pola \"Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)\" (Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)) yang berfungsi untuk menggantikan orang atau entitas penerima manfaat tindakan yang diawali preposisi 'a'."
       },
       {
         "id": "q-es-gram-17-pg-3",
@@ -7667,7 +7718,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Les comuniqué a los miembros del equipo la fecha de la próxima reunión.\" berarti \"Saya menyampaikan tanggal rapat berikutnya kepada para anggota tim.\"."
+        "explanation": "Kalimat \"Les comuniqué a los miembros del equipo la fecha de la próxima reunión.\" (dibaca: Les comuniké a los miembros del ekipo la fecha de la próxima reunión.) berarti \"Saya menyampaikan tanggal rapat berikutnya kepada para anggota tim.\". Kalimat ini menggunakan pola \"Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)\" (Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)) yang berfungsi untuk menggantikan orang atau entitas penerima manfaat tindakan yang diawali preposisi 'a'."
       },
       {
         "id": "q-es-gram-17-pg-4",
@@ -7687,7 +7738,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-17-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)\"?",
         "options": [
           "Nos enviaron las calificaciones finales del curso por correo institucional. — Mereka mengirimkan nilai akhir mata kuliah tersebut kepada kami melalui surel institusi.",
           "Por favor, guarde silencio en las salas de lectura de la biblioteca. — Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan.",
@@ -7701,7 +7752,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-17-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)\"?",
         "options": [
           "¡Lea atentamente las instrucciones del examen antes de responder! — Bacalah petunjuk ujian dengan saksama sebelum menjawab!",
           "Les comuniqué a los miembros del equipo la fecha de la próxima reunión. — Saya menyampaikan tanggal rapat berikutnya kepada para anggota tim.",
@@ -7715,7 +7766,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-17-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -7966,7 +8017,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Bacalah petunjuk ujian dengan saksama sebelum menjawab!"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El profesor le explicó al estudiante los fundamentos del análisis sintáctico.\" berarti \"Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut.\"."
+        "explanation": "Kalimat \"El profesor le explicó al estudiante los fundamentos del análisis sintáctico.\" (dibaca: El profesor le explicó al estudiante los fundamentos del análisis sintáctico.) berarti \"Profesor menjelaskan dasar-dasar analisis sintaksis kepada mahasiswa tersebut.\". Kalimat ini menggunakan pola \"Sujeto + Me / Te / Le / Nos / Os / Les + Verbo (+ a + Persona)\" (Pronombres de Objeto Indirecto (OI: Me, Te, Le, Nos, Os, Les)) yang berfungsi untuk menggantikan orang atau entitas penerima manfaat tindakan yang diawali preposisi 'a'."
       },
       {
         "id": "q-es-gram-17-bb-2",
@@ -8041,24 +8092,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan fonetis Spanyol: ketika pronomina datif le/les bertemu langsung dengan akusatif lo/la/los/las, le berubah menjadi 'se'.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Combinación de Pronombres de OD y OI (Se lo, Se la)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Combinación de Pronombres de OD y OI (Se lo, Se la)\" (La transformación de 'le/les' en 'se' ante pronombres de objeto directo) berfungsi untuk: aturan fonetis Spanyol: ketika pronomina datif le/les bertemu langsung dengan akusatif lo/la/los/las, le berubah menjadi 'se'. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana. — Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini."
+          "Rumus utama: Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo",
+          "Contoh 1: ¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana. (¿le entregaste el informe al decano? sí, se lo entregué esta manyana.) — Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Demi kelancaran bunyi (eufoni), pronomina 'le/les' berubah menjadi 'se' di depan lo, la, los, las.",
         "ruleList": [
-          "Los investigadores prepararon los gráficos y se los mostraron a los evaluadores. — Para peneliti menyiapkan grafik-grafik tersebut lalu menunjukkannya kepada para penilai."
+          "Polanya: Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo",
+          "Contoh 2: Los investigadores prepararon los gráficos y se los mostraron a los evaluadores. (Los investigadores prepararon los gráficos y se los mostraron a los evaluadores.) — Para peneliti menyiapkan grafik-grafik tersebut lalu menunjukkannya kepada para penilai."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Combinación de Pronombres de OD y OI (Se lo, Se la)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Si necesitas el diccionario histórico, yo te lo puedo prestar con gusto. — Jika kamu memerlukan kamus sejarah itu, saya dapat meminjamkannya kepadamu dengan senang hati."
+          "Contoh 3: Si necesitas el diccionario histórico, yo te lo puedo prestar con gusto. (Si nesesitas el dicsionario histórico, yo te lo puedo prestar con gusto.) — Jika kamu memerlukan kamus sejarah itu, saya dapat meminjamkannya kepadamu dengan senang hati.",
+          "Hindari kesalahan: \"le lo entregué\" → gunakan bentuk yang benar: \"se lo entregué\"."
         ]
       }
     ],
@@ -8066,19 +8120,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-18-ex-1",
         "native": "¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana.",
-        "phonetic": "",
+        "phonetic": "¿le entregaste el informe al decano? sí, se lo entregué esta manyana.",
         "translationId": "Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini."
       },
       {
         "id": "es-gram-18-ex-2",
         "native": "Los investigadores prepararon los gráficos y se los mostraron a los evaluadores.",
-        "phonetic": "",
+        "phonetic": "Los investigadores prepararon los gráficos y se los mostraron a los evaluadores.",
         "translationId": "Para peneliti menyiapkan grafik-grafik tersebut lalu menunjukkannya kepada para penilai."
       },
       {
         "id": "es-gram-18-ex-3",
         "native": "Si necesitas el diccionario histórico, yo te lo puedo prestar con gusto.",
-        "phonetic": "",
+        "phonetic": "Si nesesitas el dicsionario histórico, yo te lo puedo prestar con gusto.",
         "translationId": "Jika kamu memerlukan kamus sejarah itu, saya dapat meminjamkannya kepadamu dengan senang hati."
       }
     ],
@@ -8094,7 +8148,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Combinación de Pronombres de OD y OI (Se lo, Se la)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Combinación de Pronombres de OD y OI (Se lo, Se la)\" (Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-18-pg-1",
@@ -8110,7 +8164,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Metodologi ini sama andalnya dengan teknik-teknik kuantitatif tradisional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana.\" berarti \"Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini.\"."
+        "explanation": "Kalimat \"¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana.\" (dibaca: ¿le entregaste el informe al decano? sí, se lo entregué esta manyana.) berarti \"Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini.\". Kalimat ini menggunakan pola \"Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo\" (Combinación de Pronombres de OD y OI (Se lo, Se la)) yang berfungsi untuk aturan fonetis Spanyol: ketika pronomina datif le/les bertemu langsung dengan akusatif lo/la/los/las, le berubah menjadi 'se'."
       },
       {
         "id": "q-es-gram-18-pg-2",
@@ -8126,7 +8180,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Los investigadores prepararon los gráficos y se los mostraron a los evaluadores.\" berarti \"Para peneliti menyiapkan grafik-grafik tersebut lalu menunjukkannya kepada para penilai.\"."
+        "explanation": "Kalimat \"Los investigadores prepararon los gráficos y se los mostraron a los evaluadores.\" (dibaca: Los investigadores prepararon los gráficos y se los mostraron a los evaluadores.) berarti \"Para peneliti menyiapkan grafik-grafik tersebut lalu menunjukkannya kepada para penilai.\". Kalimat ini menggunakan pola \"Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo\" (Combinación de Pronombres de OD y OI (Se lo, Se la)) yang berfungsi untuk aturan fonetis Spanyol: ketika pronomina datif le/les bertemu langsung dengan akusatif lo/la/los/las, le berubah menjadi 'se'."
       },
       {
         "id": "q-es-gram-18-pg-3",
@@ -8142,7 +8196,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu memerlukan kamus sejarah itu, saya dapat meminjamkannya kepadamu dengan senang hati."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si necesitas el diccionario histórico, yo te lo puedo prestar con gusto.\" berarti \"Jika kamu memerlukan kamus sejarah itu, saya dapat meminjamkannya kepadamu dengan senang hati.\"."
+        "explanation": "Kalimat \"Si necesitas el diccionario histórico, yo te lo puedo prestar con gusto.\" (dibaca: Si nesesitas el dicsionario histórico, yo te lo puedo prestar con gusto.) berarti \"Jika kamu memerlukan kamus sejarah itu, saya dapat meminjamkannya kepadamu dengan senang hati.\". Kalimat ini menggunakan pola \"Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo\" (Combinación de Pronombres de OD y OI (Se lo, Se la)) yang berfungsi untuk aturan fonetis Spanyol: ketika pronomina datif le/les bertemu langsung dengan akusatif lo/la/los/las, le berubah menjadi 'se'."
       },
       {
         "id": "q-es-gram-18-pg-4",
@@ -8162,7 +8216,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-18-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Combinación de Pronombres de OD y OI (Se lo, Se la)\"?",
         "options": [
           "Esta metodología es tan confiable como las técnicas cuantitativas tradicionales. — Metodologi ini sama andalnya dengan teknik-teknik kuantitatif tradisional.",
           "Los investigadores prepararon los gráficos y se los mostraron a los evaluadores. — Para peneliti menyiapkan grafik-grafik tersebut lalu menunjukkannya kepada para penilai.",
@@ -8176,7 +8230,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-18-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Combinación de Pronombres de OD y OI (Se lo, Se la)\"?",
         "options": [
           "El marco conceptual de este autor es más riguroso que las propuestas anteriores. — Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya.",
           "El archivo histórico de Simancas contiene documentos utilísimos para la investigación. — Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian.",
@@ -8190,7 +8244,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-18-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Combinación de Pronombres de OD y OI (Se lo, Se la)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -8445,7 +8499,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana.\" berarti \"Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini.\"."
+        "explanation": "Kalimat \"¿Le entregaste el informe al decano? Sí, se lo entregué esta mañana.\" (dibaca: ¿le entregaste el informe al decano? sí, se lo entregué esta manyana.) berarti \"Apakah kamu sudah menyerahkan laporan itu kepada dekan? Ya, saya telah menyerahkannya kepada beliau pagi ini.\". Kalimat ini menggunakan pola \"Sujeto + Se (OI) + Lo / La / Los / Las (OD) + Verbo\" (Combinación de Pronombres de OD y OI (Se lo, Se la)) yang berfungsi untuk aturan fonetis Spanyol: ketika pronomina datif le/les bertemu langsung dengan akusatif lo/la/los/las, le berubah menjadi 'se'."
       },
       {
         "id": "q-es-gram-18-bb-2",
@@ -8520,24 +8574,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memberikan instruksi ujian, perintah sopan, dan arahan metodologis formal kepada lawan bicara tú dan usted.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'El Imperativo Afirmativo y Negativo (Tú / Usted)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"El Imperativo Afirmativo y Negativo (Tú / Usted)\" (El modo imperativo para órdenes, instrucciones y recomendaciones académicas) berfungsi untuk: memberikan instruksi ujian, perintah sopan, dan arahan metodologis formal kepada lawan bicara tú dan usted. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "¡Lea atentamente las instrucciones del examen antes de responder! — Bacalah petunjuk ujian dengan saksama sebelum menjawab!"
+          "Rumus utama: Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)",
+          "Contoh 1: ¡Lea atentamente las instrucciones del examen antes de responder! (¡lea atentamente las instrucsiones del examen antes de responder!) — Bacalah petunjuk ujian dengan saksama sebelum menjawab!"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kalimat larangan (imperatif negatif) dalam bahasa Spanyol selalu dibentuk dengan presente de subjuntivo (no hables).",
         "ruleList": [
-          "Por favor, guarde silencio en las salas de lectura de la biblioteca. — Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan."
+          "Polanya: Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)",
+          "Contoh 2: Por favor, guarde silencio en las salas de lectura de la biblioteca. (Por favor, guarde silensio en las salas de lectura de la biblioteca.) — Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"El Imperativo Afirmativo y Negativo (Tú / Usted)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "No te preocupes por la calificación preliminar; consulta las dudas con tu tutor. — Jangan khawatir mengenai nilai sementara; konsultasikan hal yang belum jelas dengan dosen pembimbingmu."
+          "Contoh 3: No te preocupes por la calificación preliminar; consulta las dudas con tu tutor. (No te preocupes por la calificasión preliminar; consulta las dudas con tu tutor.) — Jangan khawatir mengenai nilai sementara; konsultasikan hal yang belum jelas dengan dosen pembimbingmu.",
+          "Hindari kesalahan: \"no habla (para imperativo negativo de tú)\" → gunakan bentuk yang benar: \"no hables\"."
         ]
       }
     ],
@@ -8545,19 +8602,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-19-ex-1",
         "native": "¡Lea atentamente las instrucciones del examen antes de responder!",
-        "phonetic": "",
+        "phonetic": "¡lea atentamente las instrucsiones del examen antes de responder!",
         "translationId": "Bacalah petunjuk ujian dengan saksama sebelum menjawab!"
       },
       {
         "id": "es-gram-19-ex-2",
         "native": "Por favor, guarde silencio en las salas de lectura de la biblioteca.",
-        "phonetic": "",
+        "phonetic": "Por favor, guarde silensio en las salas de lectura de la biblioteca.",
         "translationId": "Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan."
       },
       {
         "id": "es-gram-19-ex-3",
         "native": "No te preocupes por la calificación preliminar; consulta las dudas con tu tutor.",
-        "phonetic": "",
+        "phonetic": "No te preocupes por la calificasión preliminar; consulta las dudas con tu tutor.",
         "translationId": "Jangan khawatir mengenai nilai sementara; konsultasikan hal yang belum jelas dengan dosen pembimbingmu."
       }
     ],
@@ -8573,7 +8630,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'El Imperativo Afirmativo y Negativo (Tú / Usted)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"El Imperativo Afirmativo y Negativo (Tú / Usted)\" (Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-19-pg-1",
@@ -8589,7 +8646,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"¡Lea atentamente las instrucciones del examen antes de responder!\" berarti \"Bacalah petunjuk ujian dengan saksama sebelum menjawab!\"."
+        "explanation": "Kalimat \"¡Lea atentamente las instrucciones del examen antes de responder!\" (dibaca: ¡lea atentamente las instrucsiones del examen antes de responder!) berarti \"Bacalah petunjuk ujian dengan saksama sebelum menjawab!\". Kalimat ini menggunakan pola \"Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)\" (El Imperativo Afirmativo y Negativo (Tú / Usted)) yang berfungsi untuk memberikan instruksi ujian, perintah sopan, dan arahan metodologis formal kepada lawan bicara tú dan usted."
       },
       {
         "id": "q-es-gram-19-pg-2",
@@ -8605,7 +8662,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Por favor, guarde silencio en las salas de lectura de la biblioteca.\" berarti \"Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan.\"."
+        "explanation": "Kalimat \"Por favor, guarde silencio en las salas de lectura de la biblioteca.\" (dibaca: Por favor, guarde silensio en las salas de lectura de la biblioteca.) berarti \"Mohon jaga ketenangan di dalam ruang-ruang baca perpustakaan.\". Kalimat ini menggunakan pola \"Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)\" (El Imperativo Afirmativo y Negativo (Tú / Usted)) yang berfungsi untuk memberikan instruksi ujian, perintah sopan, dan arahan metodologis formal kepada lawan bicara tú dan usted."
       },
       {
         "id": "q-es-gram-19-pg-3",
@@ -8621,7 +8678,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Komite menyampaikan beberapa catatan penting mengenai proposal proyek tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"No te preocupes por la calificación preliminar; consulta las dudas con tu tutor.\" berarti \"Jangan khawatir mengenai nilai sementara; konsultasikan hal yang belum jelas dengan dosen pembimbingmu.\"."
+        "explanation": "Kalimat \"No te preocupes por la calificación preliminar; consulta las dudas con tu tutor.\" (dibaca: No te preocupes por la calificasión preliminar; consulta las dudas con tu tutor.) berarti \"Jangan khawatir mengenai nilai sementara; konsultasikan hal yang belum jelas dengan dosen pembimbingmu.\". Kalimat ini menggunakan pola \"Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)\" (El Imperativo Afirmativo y Negativo (Tú / Usted)) yang berfungsi untuk memberikan instruksi ujian, perintah sopan, dan arahan metodologis formal kepada lawan bicara tú dan usted."
       },
       {
         "id": "q-es-gram-19-pg-4",
@@ -8641,7 +8698,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-19-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Imperativo Afirmativo y Negativo (Tú / Usted)\"?",
         "options": [
           "Los científicos descubrieron una nueva vacuna tras rigurosos ensayos. — Para ilmuwan menemukan sebuah vaksin baru setelah melalui uji coba yang ketat.",
           "Tuve que consultar numerosos archivos históricos para redactar el marco teórico. — Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis.",
@@ -8655,7 +8712,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-19-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Imperativo Afirmativo y Negativo (Tú / Usted)\"?",
         "options": [
           "El año pasado concluí con éxito mis estudios de grado en derecho. — Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses.",
           "Ayer el profesor explicó los criterios de evaluación del examen final. — Kemarin sang profesor telah menjelaskan kriteria penilaian ujian akhir.",
@@ -8669,7 +8726,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-19-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Imperativo Afirmativo y Negativo (Tú / Usted)\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -8922,7 +8979,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Tahun lalu saya telah menyelesaikan studi sarjana hukum saya dengan sukses."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"¡Lea atentamente las instrucciones del examen antes de responder!\" berarti \"Bacalah petunjuk ujian dengan saksama sebelum menjawab!\"."
+        "explanation": "Kalimat \"¡Lea atentamente las instrucciones del examen antes de responder!\" (dibaca: ¡lea atentamente las instrucsiones del examen antes de responder!) berarti \"Bacalah petunjuk ujian dengan saksama sebelum menjawab!\". Kalimat ini menggunakan pola \"Imperativo afirmativo (habla / hable) vs Imperativo negativo (no hables / no hable)\" (El Imperativo Afirmativo y Negativo (Tú / Usted)) yang berfungsi untuk memberikan instruksi ujian, perintah sopan, dan arahan metodologis formal kepada lawan bicara tú dan usted."
       },
       {
         "id": "q-es-gram-19-bb-2",
@@ -8997,24 +9054,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Tingkat komparatif (lebih, kurang, sama) serta bentuk superlatif absolut berakhiran sufiks -ísimo (facilísimo, utilísimo).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'El Comparativo y Superlativo de Adjetivos y Adverbios' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"El Comparativo y Superlativo de Adjetivos y Adverbios\" (Las estructuras comparativas de superioridad, inferioridad e igualdad) berfungsi untuk: tingkat komparatif (lebih, kurang, sama) serta bentuk superlatif absolut berakhiran sufiks -ísimo (facilísimo, utilísimo). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El marco conceptual de este autor es más riguroso que las propuestas anteriores. — Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya."
+          "Rumus utama: Más... que / Menos... que / Tan... como & El más... de / -ísimo",
+          "Contoh 1: El marco conceptual de este autor es más riguroso que las propuestas anteriores. (El marco conseptual de este autor es más riguroso ke las propuestas anteriores.) — Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Más... que / Menos... que / Tan... como & El más... de / -ísimo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Más... que / Menos... que / Tan... como & El más... de / -ísimo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata 'mejor' (lebih baik) dan 'peor' (lebih buruk) sudah berbentuk komparatif sehingga tidak boleh ditambah 'más'.",
         "ruleList": [
-          "Esta metodología es tan confiable como las técnicas cuantitativas tradicionales. — Metodologi ini sama andalnya dengan teknik-teknik kuantitatif tradisional."
+          "Polanya: Más... que / Menos... que / Tan... como & El más... de / -ísimo",
+          "Contoh 2: Esta metodología es tan confiable como las técnicas cuantitativas tradicionales. (Esta metodología es tan confiable como las técnicas cuantitativas tradisionales.) — Metodologi ini sama andalnya dengan teknik-teknik kuantitatif tradisional."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"El Comparativo y Superlativo de Adjetivos y Adverbios\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "El archivo histórico de Simancas contiene documentos utilísimos para la investigación. — Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian."
+          "Contoh 3: El archivo histórico de Simancas contiene documentos utilísimos para la investigación. (El archivo histórico de simancas contiene documentos utilísimos para la investigasión.) — Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian.",
+          "Hindari kesalahan: \"más mejor que\" → gunakan bentuk yang benar: \"mejor que\"."
         ]
       }
     ],
@@ -9022,19 +9082,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-20-ex-1",
         "native": "El marco conceptual de este autor es más riguroso que las propuestas anteriores.",
-        "phonetic": "",
+        "phonetic": "El marco conseptual de este autor es más riguroso ke las propuestas anteriores.",
         "translationId": "Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya."
       },
       {
         "id": "es-gram-20-ex-2",
         "native": "Esta metodología es tan confiable como las técnicas cuantitativas tradicionales.",
-        "phonetic": "",
+        "phonetic": "Esta metodología es tan confiable como las técnicas cuantitativas tradisionales.",
         "translationId": "Metodologi ini sama andalnya dengan teknik-teknik kuantitatif tradisional."
       },
       {
         "id": "es-gram-20-ex-3",
         "native": "El archivo histórico de Simancas contiene documentos utilísimos para la investigación.",
-        "phonetic": "",
+        "phonetic": "El archivo histórico de simancas contiene documentos utilísimos para la investigasión.",
         "translationId": "Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian."
       }
     ],
@@ -9050,7 +9110,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'El Comparativo y Superlativo de Adjetivos y Adverbios' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"El Comparativo y Superlativo de Adjetivos y Adverbios\" (Más... que / Menos... que / Tan... como & El más... de / -ísimo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-20-pg-1",
@@ -9066,7 +9126,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"El marco conceptual de este autor es más riguroso que las propuestas anteriores.\" berarti \"Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya.\"."
+        "explanation": "Kalimat \"El marco conceptual de este autor es más riguroso que las propuestas anteriores.\" (dibaca: El marco conseptual de este autor es más riguroso ke las propuestas anteriores.) berarti \"Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya.\". Kalimat ini menggunakan pola \"Más... que / Menos... que / Tan... como & El más... de / -ísimo\" (El Comparativo y Superlativo de Adjetivos y Adverbios) yang berfungsi untuk tingkat komparatif (lebih, kurang, sama) serta bentuk superlatif absolut berakhiran sufiks -ísimo (facilísimo, utilísimo)."
       },
       {
         "id": "q-es-gram-20-pg-2",
@@ -9082,7 +9142,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Esta metodología es tan confiable como las técnicas cuantitativas tradicionales.\" berarti \"Metodologi ini sama andalnya dengan teknik-teknik kuantitatif tradisional.\"."
+        "explanation": "Kalimat \"Esta metodología es tan confiable como las técnicas cuantitativas tradicionales.\" (dibaca: Esta metodología es tan confiable como las técnicas cuantitativas tradisionales.) berarti \"Metodologi ini sama andalnya dengan teknik-teknik kuantitatif tradisional.\". Kalimat ini menggunakan pola \"Más... que / Menos... que / Tan... como & El más... de / -ísimo\" (El Comparativo y Superlativo de Adjetivos y Adverbios) yang berfungsi untuk tingkat komparatif (lebih, kurang, sama) serta bentuk superlatif absolut berakhiran sufiks -ísimo (facilísimo, utilísimo)."
       },
       {
         "id": "q-es-gram-20-pg-3",
@@ -9098,7 +9158,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Cuaca sedang sangat dingin ketika kami tiba di kota universitas Valladolid."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El archivo histórico de Simancas contiene documentos utilísimos para la investigación.\" berarti \"Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian.\"."
+        "explanation": "Kalimat \"El archivo histórico de Simancas contiene documentos utilísimos para la investigación.\" (dibaca: El archivo histórico de simancas contiene documentos utilísimos para la investigasión.) berarti \"Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian.\". Kalimat ini menggunakan pola \"Más... que / Menos... que / Tan... como & El más... de / -ísimo\" (El Comparativo y Superlativo de Adjetivos y Adverbios) yang berfungsi untuk tingkat komparatif (lebih, kurang, sama) serta bentuk superlatif absolut berakhiran sufiks -ísimo (facilísimo, utilísimo)."
       },
       {
         "id": "q-es-gram-20-pg-4",
@@ -9118,7 +9178,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-20-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Comparativo y Superlativo de Adjetivos y Adverbios\"?",
         "options": [
           "La semana pasada fuimos al archivo general para revisar documentos inéditos. — Minggu lalu kami pergi ke gedung arsip umum untuk meninjau dokumen-dokumen yang belum pernah diterbitkan.",
           "Cuando era estudiante de licenciatura, solía pasar horas enteras en la hemeroteca. — Ketika saya masih mahasiswa sarjana, saya biasa menghabiskan waktu berjam-jam di perpustakaan jurnal.",
@@ -9132,7 +9192,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-20-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Comparativo y Superlativo de Adjetivos y Adverbios\"?",
         "options": [
           "El archivo histórico de Simancas contiene documentos utilísimos para la investigación. — Arsip sejarah Simancas menyimpan dokumen-dokumen yang luar biasa bermanfaat bagi penelitian.",
           "Tuve que consultar numerosos archivos históricos para redactar el marco teórico. — Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis.",
@@ -9146,7 +9206,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-20-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Comparativo y Superlativo de Adjetivos y Adverbios\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -9395,7 +9455,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya harus memeriksa banyak arsip sejarah untuk menyusun kerangka teoretis."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El marco conceptual de este autor es más riguroso que las propuestas anteriores.\" berarti \"Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya.\"."
+        "explanation": "Kalimat \"El marco conceptual de este autor es más riguroso que las propuestas anteriores.\" (dibaca: El marco conseptual de este autor es más riguroso ke las propuestas anteriores.) berarti \"Kerangka konseptual penulis ini lebih ketat daripada usulan-usulan sebelumnya.\". Kalimat ini menggunakan pola \"Más... que / Menos... que / Tan... como & El más... de / -ísimo\" (El Comparativo y Superlativo de Adjetivos y Adverbios) yang berfungsi untuk tingkat komparatif (lebih, kurang, sama) serta bentuk superlatif absolut berakhiran sufiks -ísimo (facilísimo, utilísimo)."
       },
       {
         "id": "q-es-gram-20-bb-2",
@@ -9470,24 +9530,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konstruksi dasar modus subjungtif waktu kini: pertukaran vokal desinensial (kata kerja -ar berakhiran -e, kata kerja -er/-ir berakhiran -a).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Presente de Subjuntivo: Formación Regular e Irregular' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Presente de Subjuntivo: Formación Regular e Irregular\" (La formación del presente de subjuntivo y el cambio vocálico característico) berfungsi untuk: konstruksi dasar modus subjungtif waktu kini: pertukaran vokal desinensial (kata kerja -ar berakhiran -e, kata kerja -er/-ir berakhiran -a). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Es indispensable que los estudiantes comprendan la relevancia de este postulado. — Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini."
+          "Rumus utama: Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a",
+          "Contoh 1: Es indispensable que los estudiantes comprendan la relevancia de este postulado. (Es indispensable ke los estudiantes comprendan la relevansia de este postulado.) — Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Modus subjuntivo membalik vokal tematik: kata kerja -ar mengambil akhiran vokal -e, sedangkan -er/-ir mengambil -a.",
         "ruleList": [
-          "El decanato pide que todos colaboremos en la mejora de los servicios estudiantiles. — Pihak dekanat meminta agar kita semua bekerja sama dalam meningkatkan layanan kemahasiswaan."
+          "Polanya: Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a",
+          "Contoh 2: El decanato pide que todos colaboremos en la mejora de los servicios estudiantiles. (El decanato pide ke todos colaboremos en la mekhora de los servisios estudiantiles.) — Pihak dekanat meminta agar kita semua bekerja sama dalam meningkatkan layanan kemahasiswaan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Presente de Subjuntivo: Formación Regular e Irregular\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Espero que encuentres fuentes bibliográficas actualizadas para tu trabajo de fin de grado. — Saya berharap semoga kamu menemukan sumber-sumber kepustakaan mutakhir untuk tugas akhir sarjanamu."
+          "Contoh 3: Espero que encuentres fuentes bibliográficas actualizadas para tu trabajo de fin de grado. (Espero ke encuentres fuentes bibliográficas actualizadas para tu trabakho de fin de grado.) — Saya berharap semoga kamu menemukan sumber-sumber kepustakaan mutakhir untuk tugas akhir sarjanamu.",
+          "Hindari kesalahan: \"que tú estudias (en contexto de deseo)\" → gunakan bentuk yang benar: \"que tú estudies\"."
         ]
       }
     ],
@@ -9495,19 +9558,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-21-ex-1",
         "native": "Es indispensable que los estudiantes comprendan la relevancia de este postulado.",
-        "phonetic": "",
+        "phonetic": "Es indispensable ke los estudiantes comprendan la relevansia de este postulado.",
         "translationId": "Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini."
       },
       {
         "id": "es-gram-21-ex-2",
         "native": "El decanato pide que todos colaboremos en la mejora de los servicios estudiantiles.",
-        "phonetic": "",
+        "phonetic": "El decanato pide ke todos colaboremos en la mekhora de los servisios estudiantiles.",
         "translationId": "Pihak dekanat meminta agar kita semua bekerja sama dalam meningkatkan layanan kemahasiswaan."
       },
       {
         "id": "es-gram-21-ex-3",
         "native": "Espero que encuentres fuentes bibliográficas actualizadas para tu trabajo de fin de grado.",
-        "phonetic": "",
+        "phonetic": "Espero ke encuentres fuentes bibliográficas actualizadas para tu trabakho de fin de grado.",
         "translationId": "Saya berharap semoga kamu menemukan sumber-sumber kepustakaan mutakhir untuk tugas akhir sarjanamu."
       }
     ],
@@ -9523,7 +9586,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Presente de Subjuntivo: Formación Regular e Irregular' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Presente de Subjuntivo: Formación Regular e Irregular\" (Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-21-pg-1",
@@ -9539,7 +9602,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya meragukan bahwa hasil-hasil awal tersebut dapat diekstrapolasikan ke seluruh populasi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Es indispensable que los estudiantes comprendan la relevancia de este postulado.\" berarti \"Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini.\"."
+        "explanation": "Kalimat \"Es indispensable que los estudiantes comprendan la relevancia de este postulado.\" (dibaca: Es indispensable ke los estudiantes comprendan la relevansia de este postulado.) berarti \"Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini.\". Kalimat ini menggunakan pola \"Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a\" (Presente de Subjuntivo: Formación Regular e Irregular) yang berfungsi untuk konstruksi dasar modus subjungtif waktu kini: pertukaran vokal desinensial (kata kerja -ar berakhiran -e, kata kerja -er/-ir berakhiran -a)."
       },
       {
         "id": "q-es-gram-21-pg-2",
@@ -9555,7 +9618,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El decanato pide que todos colaboremos en la mejora de los servicios estudiantiles.\" berarti \"Pihak dekanat meminta agar kita semua bekerja sama dalam meningkatkan layanan kemahasiswaan.\"."
+        "explanation": "Kalimat \"El decanato pide que todos colaboremos en la mejora de los servicios estudiantiles.\" (dibaca: El decanato pide ke todos colaboremos en la mekhora de los servisios estudiantiles.) berarti \"Pihak dekanat meminta agar kita semua bekerja sama dalam meningkatkan layanan kemahasiswaan.\". Kalimat ini menggunakan pola \"Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a\" (Presente de Subjuntivo: Formación Regular e Irregular) yang berfungsi untuk konstruksi dasar modus subjungtif waktu kini: pertukaran vokal desinensial (kata kerja -ar berakhiran -e, kata kerja -er/-ir berakhiran -a)."
       },
       {
         "id": "q-es-gram-21-pg-3",
@@ -9571,7 +9634,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Espero que encuentres fuentes bibliográficas actualizadas para tu trabajo de fin de grado.\" berarti \"Saya berharap semoga kamu menemukan sumber-sumber kepustakaan mutakhir untuk tugas akhir sarjanamu.\"."
+        "explanation": "Kalimat \"Espero que encuentres fuentes bibliográficas actualizadas para tu trabajo de fin de grado.\" (dibaca: Espero ke encuentres fuentes bibliográficas actualizadas para tu trabakho de fin de grado.) berarti \"Saya berharap semoga kamu menemukan sumber-sumber kepustakaan mutakhir untuk tugas akhir sarjanamu.\". Kalimat ini menggunakan pola \"Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a\" (Presente de Subjuntivo: Formación Regular e Irregular) yang berfungsi untuk konstruksi dasar modus subjungtif waktu kini: pertukaran vokal desinensial (kata kerja -ar berakhiran -e, kata kerja -er/-ir berakhiran -a)."
       },
       {
         "id": "q-es-gram-21-pg-4",
@@ -9591,7 +9654,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-21-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Presente de Subjuntivo: Formación Regular e Irregular\"?",
         "options": [
           "El decanato pide que todos colaboremos en la mejora de los servicios estudiantiles. — Pihak dekanat meminta agar kita semua bekerja sama dalam meningkatkan layanan kemahasiswaan.",
           "Dudo que los resultados preliminares puedan extrapolarse a toda la población. — Saya meragukan bahwa hasil-hasil awal tersebut dapat diekstrapolasikan ke seluruh populasi.",
@@ -9605,7 +9668,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-21-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Presente de Subjuntivo: Formación Regular e Irregular\"?",
         "options": [
           "No creo que esta hipótesis sea suficiente para explicar el fenómeno social. — Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut.",
           "Espero que encuentres fuentes bibliográficas actualizadas para tu trabajo de fin de grado. — Saya berharap semoga kamu menemukan sumber-sumber kepustakaan mutakhir untuk tugas akhir sarjanamu.",
@@ -9619,7 +9682,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-21-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Presente de Subjuntivo: Formación Regular e Irregular\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -9872,7 +9935,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Es indispensable que los estudiantes comprendan la relevancia de este postulado.\" berarti \"Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini.\"."
+        "explanation": "Kalimat \"Es indispensable que los estudiantes comprendan la relevancia de este postulado.\" (dibaca: Es indispensable ke los estudiantes comprendan la relevansia de este postulado.) berarti \"Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini.\". Kalimat ini menggunakan pola \"Verbos en -ar toman -e (-e, -es, -e, -emos, -éis, -en) / Verbos en -er/-ir toman -a\" (Presente de Subjuntivo: Formación Regular e Irregular) yang berfungsi untuk konstruksi dasar modus subjungtif waktu kini: pertukaran vokal desinensial (kata kerja -ar berakhiran -e, kata kerja -er/-ir berakhiran -a)."
       },
       {
         "id": "q-es-gram-21-bb-2",
@@ -9947,24 +10010,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Modus subjungtif pada klausa bawahan ketika subjek klausa utama berusaha mempengaruhi tindakan subjek kedua.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Subjuntivo con Verbos de Deseo, Petición y Voluntad' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Subjuntivo con Verbos de Deseo, Petición y Voluntad\" (El subjuntivo en oraciones subordinadas sustantivas de influencia) berfungsi untuk: modus subjungtif pada klausa bawahan ketika subjek klausa utama berusaha mempengaruhi tindakan subjek kedua. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El tribunal exige que el candidato defienda sus tesis con argumentos sólidos. — Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh."
+          "Rumus utama: Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo",
+          "Contoh 1: El tribunal exige que el candidato defienda sus tesis con argumentos sólidos. (El tribunal exikhe ke el candidato defienda sus tesis con argumentos sólidos.) — Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Ketika terdapat pergantian subjek setelah kata kerja kehendak/permintaan, kata kerja kedua wajib berbentuk subjuntivo.",
         "ruleList": [
-          "Deseamos que este convenio bilateral beneficie a los investigadores de ambas instituciones. — Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi."
+          "Polanya: Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo",
+          "Contoh 2: Deseamos que este convenio bilateral beneficie a los investigadores de ambas instituciones. (Deseamos ke este convenio bilateral benefisie a los investigadores de ambas institusiones.) — Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Subjuntivo con Verbos de Deseo, Petición y Voluntad\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "La profesora nos sugiere que leamos los textos fundamentales de la lingüística aplicada. — Profesor perempuan kami menyarankan agar kami membaca teks-teks fundamental linguistik terapan."
+          "Contoh 3: La profesora nos sugiere que leamos los textos fundamentales de la lingüística aplicada. (La profesora nos sukhiere ke leamos los textos fundamentales de la lingüística aplicada.) — Profesor perempuan kami menyarankan agar kami membaca teks-teks fundamental linguistik terapan.",
+          "Hindari kesalahan: \"el profesor quiere que tú vienes\" → gunakan bentuk yang benar: \"el profesor quiere que tú vengas\"."
         ]
       }
     ],
@@ -9972,19 +10038,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-22-ex-1",
         "native": "El tribunal exige que el candidato defienda sus tesis con argumentos sólidos.",
-        "phonetic": "",
+        "phonetic": "El tribunal exikhe ke el candidato defienda sus tesis con argumentos sólidos.",
         "translationId": "Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh."
       },
       {
         "id": "es-gram-22-ex-2",
         "native": "Deseamos que este convenio bilateral beneficie a los investigadores de ambas instituciones.",
-        "phonetic": "",
+        "phonetic": "Deseamos ke este convenio bilateral benefisie a los investigadores de ambas institusiones.",
         "translationId": "Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi."
       },
       {
         "id": "es-gram-22-ex-3",
         "native": "La profesora nos sugiere que leamos los textos fundamentales de la lingüística aplicada.",
-        "phonetic": "",
+        "phonetic": "La profesora nos sukhiere ke leamos los textos fundamentales de la lingüística aplicada.",
         "translationId": "Profesor perempuan kami menyarankan agar kami membaca teks-teks fundamental linguistik terapan."
       }
     ],
@@ -10000,7 +10066,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Subjuntivo con Verbos de Deseo, Petición y Voluntad' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Subjuntivo con Verbos de Deseo, Petición y Voluntad\" (Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-22-pg-1",
@@ -10016,7 +10082,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El tribunal exige que el candidato defienda sus tesis con argumentos sólidos.\" berarti \"Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh.\"."
+        "explanation": "Kalimat \"El tribunal exige que el candidato defienda sus tesis con argumentos sólidos.\" (dibaca: El tribunal exikhe ke el candidato defienda sus tesis con argumentos sólidos.) berarti \"Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh.\". Kalimat ini menggunakan pola \"Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo\" (Subjuntivo con Verbos de Deseo, Petición y Voluntad) yang berfungsi untuk modus subjungtif pada klausa bawahan ketika subjek klausa utama berusaha mempengaruhi tindakan subjek kedua."
       },
       {
         "id": "q-es-gram-22-pg-2",
@@ -10032,7 +10098,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Deseamos que este convenio bilateral beneficie a los investigadores de ambas instituciones.\" berarti \"Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi.\"."
+        "explanation": "Kalimat \"Deseamos que este convenio bilateral beneficie a los investigadores de ambas instituciones.\" (dibaca: Deseamos ke este convenio bilateral benefisie a los investigadores de ambas institusiones.) berarti \"Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi.\". Kalimat ini menggunakan pola \"Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo\" (Subjuntivo con Verbos de Deseo, Petición y Voluntad) yang berfungsi untuk modus subjungtif pada klausa bawahan ketika subjek klausa utama berusaha mempengaruhi tindakan subjek kedua."
       },
       {
         "id": "q-es-gram-22-pg-3",
@@ -10048,7 +10114,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor perempuan kami menyarankan agar kami membaca teks-teks fundamental linguistik terapan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"La profesora nos sugiere que leamos los textos fundamentales de la lingüística aplicada.\" berarti \"Profesor perempuan kami menyarankan agar kami membaca teks-teks fundamental linguistik terapan.\"."
+        "explanation": "Kalimat \"La profesora nos sugiere que leamos los textos fundamentales de la lingüística aplicada.\" (dibaca: La profesora nos sukhiere ke leamos los textos fundamentales de la lingüística aplicada.) berarti \"Profesor perempuan kami menyarankan agar kami membaca teks-teks fundamental linguistik terapan.\". Kalimat ini menggunakan pola \"Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo\" (Subjuntivo con Verbos de Deseo, Petición y Voluntad) yang berfungsi untuk modus subjungtif pada klausa bawahan ketika subjek klausa utama berusaha mempengaruhi tindakan subjek kedua."
       },
       {
         "id": "q-es-gram-22-pg-4",
@@ -10068,7 +10134,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-22-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Verbos de Deseo, Petición y Voluntad\"?",
         "options": [
           "¿Qué hora será? Serán las tres de la tarde; los estudiantes estarán en el laboratorio. — Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium.",
           "Deseamos que este convenio bilateral beneficie a los investigadores de ambas instituciones. — Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi.",
@@ -10082,7 +10148,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-22-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Verbos de Deseo, Petición y Voluntad\"?",
         "options": [
           "El próximo año publicaremos una monografía sobre el pensamiento ilustrado español. — Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol.",
           "Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo. — Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang.",
@@ -10096,7 +10162,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-22-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Verbos de Deseo, Petición y Voluntad\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -10351,7 +10417,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"El tribunal exige que el candidato defienda sus tesis con argumentos sólidos.\" berarti \"Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh.\"."
+        "explanation": "Kalimat \"El tribunal exige que el candidato defienda sus tesis con argumentos sólidos.\" (dibaca: El tribunal exikhe ke el candidato defienda sus tesis con argumentos sólidos.) berarti \"Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh.\". Kalimat ini menggunakan pola \"Querer que / Exigir que / Solicitar que + Sujeto 2 + Subjuntivo\" (Subjuntivo con Verbos de Deseo, Petición y Voluntad) yang berfungsi untuk modus subjungtif pada klausa bawahan ketika subjek klausa utama berusaha mempengaruhi tindakan subjek kedua."
       },
       {
         "id": "q-es-gram-22-bb-2",
@@ -10426,24 +10492,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengekspresikan evaluasi afektif, kegembiraan akademik, atau penyesalan atas peristiwa pihak lain.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Subjuntivo con Sentimientos y Emociones' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Subjuntivo con Sentimientos y Emociones\" (La expresión de la subjetividad afectiva con el modo subjuntivo) berfungsi untuk: mengekspresikan evaluasi afektif, kegembiraan akademik, atau penyesalan atas peristiwa pihak lain. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Nos alegra mucho que la universidad haya recibido esta acreditación internacional. — Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini."
+          "Rumus utama: Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo",
+          "Contoh 1: Nos alegra mucho que la universidad haya recibido esta acreditación internacional. (Nos alegra mucho ke la universidad haya resibido esta acreditasión internasional.) — Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja dan ungkapan perasaan/emosi mewajibkan pemakaian modus subjuntivo pada anak kalimat.",
         "ruleList": [
-          "Lamento profundamente que no puedas asistir a la ponencia inaugural del rector. — Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor."
+          "Polanya: Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo",
+          "Contoh 2: Lamento profundamente que no puedas asistir a la ponencia inaugural del rector. (Lamento profundamente ke no puedas asistir a la ponensia inaugural del rector.) — Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Subjuntivo con Sentimientos y Emociones\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Es una gran satisfacción que nuestro equipo lidere el consorcio de investigación. — Merupakan kepuasan besar bahwa tim kita memimpin konsorsium penelitian tersebut."
+          "Contoh 3: Es una gran satisfacción que nuestro equipo lidere el consorcio de investigación. (Es una gran satisfacsión ke nuestro ekipo lidere el consorsio de investigasión.) — Merupakan kepuasan besar bahwa tim kita memimpin konsorsium penelitian tersebut.",
+          "Hindari kesalahan: \"me alegro de que tú estás aquí\" → gunakan bentuk yang benar: \"me alegro de que tú estés aquí\"."
         ]
       }
     ],
@@ -10451,19 +10520,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-23-ex-1",
         "native": "Nos alegra mucho que la universidad haya recibido esta acreditación internacional.",
-        "phonetic": "",
+        "phonetic": "Nos alegra mucho ke la universidad haya resibido esta acreditasión internasional.",
         "translationId": "Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini."
       },
       {
         "id": "es-gram-23-ex-2",
         "native": "Lamento profundamente que no puedas asistir a la ponencia inaugural del rector.",
-        "phonetic": "",
+        "phonetic": "Lamento profundamente ke no puedas asistir a la ponensia inaugural del rector.",
         "translationId": "Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor."
       },
       {
         "id": "es-gram-23-ex-3",
         "native": "Es una gran satisfacción que nuestro equipo lidere el consorcio de investigación.",
-        "phonetic": "",
+        "phonetic": "Es una gran satisfacsión ke nuestro ekipo lidere el consorsio de investigasión.",
         "translationId": "Merupakan kepuasan besar bahwa tim kita memimpin konsorsium penelitian tersebut."
       }
     ],
@@ -10479,7 +10548,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Subjuntivo con Sentimientos y Emociones' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Subjuntivo con Sentimientos y Emociones\" (Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-23-pg-1",
@@ -10495,7 +10564,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nos alegra mucho que la universidad haya recibido esta acreditación internacional.\" berarti \"Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini.\"."
+        "explanation": "Kalimat \"Nos alegra mucho que la universidad haya recibido esta acreditación internacional.\" (dibaca: Nos alegra mucho ke la universidad haya resibido esta acreditasión internasional.) berarti \"Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini.\". Kalimat ini menggunakan pola \"Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo\" (Subjuntivo con Sentimientos y Emociones) yang berfungsi untuk mengekspresikan evaluasi afektif, kegembiraan akademik, atau penyesalan atas peristiwa pihak lain."
       },
       {
         "id": "q-es-gram-23-pg-2",
@@ -10511,7 +10580,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Lamento profundamente que no puedas asistir a la ponencia inaugural del rector.\" berarti \"Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor.\"."
+        "explanation": "Kalimat \"Lamento profundamente que no puedas asistir a la ponencia inaugural del rector.\" (dibaca: Lamento profundamente ke no puedas asistir a la ponensia inaugural del rector.) berarti \"Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor.\". Kalimat ini menggunakan pola \"Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo\" (Subjuntivo con Sentimientos y Emociones) yang berfungsi untuk mengekspresikan evaluasi afektif, kegembiraan akademik, atau penyesalan atas peristiwa pihak lain."
       },
       {
         "id": "q-es-gram-23-pg-3",
@@ -10527,7 +10596,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Jika data-data tersebut benar, model ini memprediksi terjadinya stabilisasi ekonomi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Es una gran satisfacción que nuestro equipo lidere el consorcio de investigación.\" berarti \"Merupakan kepuasan besar bahwa tim kita memimpin konsorsium penelitian tersebut.\"."
+        "explanation": "Kalimat \"Es una gran satisfacción que nuestro equipo lidere el consorcio de investigación.\" (dibaca: Es una gran satisfacsión ke nuestro ekipo lidere el consorsio de investigasión.) berarti \"Merupakan kepuasan besar bahwa tim kita memimpin konsorsium penelitian tersebut.\". Kalimat ini menggunakan pola \"Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo\" (Subjuntivo con Sentimientos y Emociones) yang berfungsi untuk mengekspresikan evaluasi afektif, kegembiraan akademik, atau penyesalan atas peristiwa pihak lain."
       },
       {
         "id": "q-es-gram-23-pg-4",
@@ -10547,7 +10616,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-23-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Sentimientos y Emociones\"?",
         "options": [
           "Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos. — Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru.",
           "Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles. — Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi.",
@@ -10561,7 +10630,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-23-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Sentimientos y Emociones\"?",
         "options": [
           "Me gustaría solicitar una entrevista formal con el director del departamento. — Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen.",
           "¿Podría usted aclararme el procedimiento de homologación de títulos extranjeros? — Sudikah kiranya Anda menjelaskan kepada saya prosedur penyetaraan ijazah luar negeri?",
@@ -10575,7 +10644,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-23-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Sentimientos y Emociones\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -10828,7 +10897,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nos alegra mucho que la universidad haya recibido esta acreditación internacional.\" berarti \"Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini.\"."
+        "explanation": "Kalimat \"Nos alegra mucho que la universidad haya recibido esta acreditación internacional.\" (dibaca: Nos alegra mucho ke la universidad haya resibido esta acreditasión internasional.) berarti \"Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini.\". Kalimat ini menggunakan pola \"Alegrarse de que / Lamentar que / Es una lástima que + Subjuntivo\" (Subjuntivo con Sentimientos y Emociones) yang berfungsi untuk mengekspresikan evaluasi afektif, kegembiraan akademik, atau penyesalan atas peristiwa pihak lain."
       },
       {
         "id": "q-es-gram-23-bb-2",
@@ -10903,24 +10972,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan krusial: verba opini positif (creo que) diikuti indikatif, sedangkan penyangkalan opini (no creo que) mewajibkan subjungtif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Subjuntivo con Duda, Posibilidad y Negación de la Opinión' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Subjuntivo con Duda, Posibilidad y Negación de la Opinión\" (El contraste indicativo/subjuntivo según la certeza o duda del emisor) berfungsi untuk: aturan krusial: verba opini positif (creo que) diikuti indikatif, sedangkan penyangkalan opini (no creo que) mewajibkan subjungtif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "No creo que esta hipótesis sea suficiente para explicar el fenómeno social. — Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut."
+          "Rumus utama: Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo",
+          "Contoh 1: No creo que esta hipótesis sea suficiente para explicar el fenómeno social. (No creo ke esta hipótesis sea sufisiente para explicar el fenómeno sosial.) — Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Penyangkalan terhadap kata kerja opini (no creo que, no pienso que) mewajibkan modus subjuntivo.",
         "ruleList": [
-          "Dudo que los resultados preliminares puedan extrapolarse a toda la población. — Saya meragukan bahwa hasil-hasil awal tersebut dapat diekstrapolasikan ke seluruh populasi."
+          "Polanya: Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo",
+          "Contoh 2: Dudo que los resultados preliminares puedan extrapolarse a toda la población. (Dudo ke los resultados preliminares puedan extrapolarse a toda la poblasión.) — Saya meragukan bahwa hasil-hasil awal tersebut dapat diekstrapolasikan ke seluruh populasi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Subjuntivo con Duda, Posibilidad y Negación de la Opinión\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Creo firmemente que la educación universitaria transforma positivamente la sociedad. — Saya meyakini dengan teguh bahwa pendidikan universitas mengubah masyarakat secara positif."
+          "Contoh 3: Creo firmemente que la educación universitaria transforma positivamente la sociedad. (Creo firmemente ke la educasión universitaria transforma positivamente la sosiedad.) — Saya meyakini dengan teguh bahwa pendidikan universitas mengubah masyarakat secara positif.",
+          "Hindari kesalahan: \"no creo que es verdad\" → gunakan bentuk yang benar: \"no creo que sea verdad\"."
         ]
       }
     ],
@@ -10928,19 +11000,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-24-ex-1",
         "native": "No creo que esta hipótesis sea suficiente para explicar el fenómeno social.",
-        "phonetic": "",
+        "phonetic": "No creo ke esta hipótesis sea sufisiente para explicar el fenómeno sosial.",
         "translationId": "Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut."
       },
       {
         "id": "es-gram-24-ex-2",
         "native": "Dudo que los resultados preliminares puedan extrapolarse a toda la población.",
-        "phonetic": "",
+        "phonetic": "Dudo ke los resultados preliminares puedan extrapolarse a toda la poblasión.",
         "translationId": "Saya meragukan bahwa hasil-hasil awal tersebut dapat diekstrapolasikan ke seluruh populasi."
       },
       {
         "id": "es-gram-24-ex-3",
         "native": "Creo firmemente que la educación universitaria transforma positivamente la sociedad.",
-        "phonetic": "",
+        "phonetic": "Creo firmemente ke la educasión universitaria transforma positivamente la sosiedad.",
         "translationId": "Saya meyakini dengan teguh bahwa pendidikan universitas mengubah masyarakat secara positif."
       }
     ],
@@ -10956,7 +11028,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Subjuntivo con Duda, Posibilidad y Negación de la Opinión' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Subjuntivo con Duda, Posibilidad y Negación de la Opinión\" (Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-24-pg-1",
@@ -10972,7 +11044,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"No creo que esta hipótesis sea suficiente para explicar el fenómeno social.\" berarti \"Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut.\"."
+        "explanation": "Kalimat \"No creo que esta hipótesis sea suficiente para explicar el fenómeno social.\" (dibaca: No creo ke esta hipótesis sea sufisiente para explicar el fenómeno sosial.) berarti \"Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut.\". Kalimat ini menggunakan pola \"Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo\" (Subjuntivo con Duda, Posibilidad y Negación de la Opinión) yang berfungsi untuk aturan krusial: verba opini positif (creo que) diikuti indikatif, sedangkan penyangkalan opini (no creo que) mewajibkan subjungtif."
       },
       {
         "id": "q-es-gram-24-pg-2",
@@ -10988,7 +11060,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Dudo que los resultados preliminares puedan extrapolarse a toda la población.\" berarti \"Saya meragukan bahwa hasil-hasil awal tersebut dapat diekstrapolasikan ke seluruh populasi.\"."
+        "explanation": "Kalimat \"Dudo que los resultados preliminares puedan extrapolarse a toda la población.\" (dibaca: Dudo ke los resultados preliminares puedan extrapolarse a toda la poblasión.) berarti \"Saya meragukan bahwa hasil-hasil awal tersebut dapat diekstrapolasikan ke seluruh populasi.\". Kalimat ini menggunakan pola \"Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo\" (Subjuntivo con Duda, Posibilidad y Negación de la Opinión) yang berfungsi untuk aturan krusial: verba opini positif (creo que) diikuti indikatif, sedangkan penyangkalan opini (no creo que) mewajibkan subjungtif."
       },
       {
         "id": "q-es-gram-24-pg-3",
@@ -11004,7 +11076,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah memverifikasi perhitungan matematis sebelum menjalankan simulasi komputasi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Creo firmemente que la educación universitaria transforma positivamente la sociedad.\" berarti \"Saya meyakini dengan teguh bahwa pendidikan universitas mengubah masyarakat secara positif.\"."
+        "explanation": "Kalimat \"Creo firmemente que la educación universitaria transforma positivamente la sociedad.\" (dibaca: Creo firmemente ke la educasión universitaria transforma positivamente la sosiedad.) berarti \"Saya meyakini dengan teguh bahwa pendidikan universitas mengubah masyarakat secara positif.\". Kalimat ini menggunakan pola \"Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo\" (Subjuntivo con Duda, Posibilidad y Negación de la Opinión) yang berfungsi untuk aturan krusial: verba opini positif (creo que) diikuti indikatif, sedangkan penyangkalan opini (no creo que) mewajibkan subjungtif."
       },
       {
         "id": "q-es-gram-24-pg-4",
@@ -11024,7 +11096,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-24-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Duda, Posibilidad y Negación de la Opinión\"?",
         "options": [
           "Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular. — Jika kamu memiliki keraguan mengenai daftar pustaka, konsultasikanlah langsung dengan profesor pengampu.",
           "Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos. — Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut.",
@@ -11038,7 +11110,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-24-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Duda, Posibilidad y Negación de la Opinión\"?",
         "options": [
           "Creo firmemente que la educación universitaria transforma positivamente la sociedad. — Saya meyakini dengan teguh bahwa pendidikan universitas mengubah masyarakat secara positif.",
           "Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles. — Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi.",
@@ -11052,7 +11124,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-24-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo con Duda, Posibilidad y Negación de la Opinión\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -11303,7 +11375,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"No creo que esta hipótesis sea suficiente para explicar el fenómeno social.\" berarti \"Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut.\"."
+        "explanation": "Kalimat \"No creo que esta hipótesis sea suficiente para explicar el fenómeno social.\" (dibaca: No creo ke esta hipótesis sea sufisiente para explicar el fenómeno sosial.) berarti \"Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut.\". Kalimat ini menggunakan pola \"Creo que + Indicativo vs No creo que / Dudo que + Subjuntivo\" (Subjuntivo con Duda, Posibilidad y Negación de la Opinión) yang berfungsi untuk aturan krusial: verba opini positif (creo que) diikuti indikatif, sedangkan penyangkalan opini (no creo que) mewajibkan subjungtif."
       },
       {
         "id": "q-es-gram-24-bb-2",
@@ -11378,24 +11450,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan prediksi masa depan serta fungsi modal khas bahasa Spanyol: membuat dugaan probabilitas saat ini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'El Futuro Simple de Indicativo y la Probabilidad en el Presente' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"El Futuro Simple de Indicativo y la Probabilidad en el Presente\" (Morfología del futuro simple y su valor modal de probabilidad presente) berfungsi untuk: menyatakan prediksi masa depan serta fungsi modal khas bahasa Spanyol: membuat dugaan probabilitas saat ini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El próximo año publicaremos una monografía sobre el pensamiento ilustrado español. — Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol."
+          "Rumus utama: Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)",
+          "Contoh 1: El próximo año publicaremos una monografía sobre el pensamiento ilustrado español. (El próximo anyo publicaremos una monografía sobre el pensamiento ilustrado espanyol.) — Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam ragam akademik formal, proyeksi masa depan dan hipotesis probabilitas dinyatakan dalam futuro simple.",
         "ruleList": [
-          "¿Qué hora será? Serán las tres de la tarde; los estudiantes estarán en el laboratorio. — Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium."
+          "Polanya: Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)",
+          "Contoh 2: ¿Qué hora será? Serán las tres de la tarde; los estudiantes estarán en el laboratorio. (¿ké hora será? serán las tres de la tarde; los estudiantes estarán en el laboratorio.) — Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"El Futuro Simple de Indicativo y la Probabilidad en el Presente\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo. — Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang."
+          "Contoh 3: Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo. (Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo.) — Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang.",
+          "Hindari kesalahan: \"el próximo año publicamos (para proyección formal)\" → gunakan bentuk yang benar: \"el próximo año publicaremos\"."
         ]
       }
     ],
@@ -11403,19 +11478,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-25-ex-1",
         "native": "El próximo año publicaremos una monografía sobre el pensamiento ilustrado español.",
-        "phonetic": "",
+        "phonetic": "El próximo anyo publicaremos una monografía sobre el pensamiento ilustrado espanyol.",
         "translationId": "Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol."
       },
       {
         "id": "es-gram-25-ex-2",
         "native": "¿Qué hora será? Serán las tres de la tarde; los estudiantes estarán en el laboratorio.",
-        "phonetic": "",
+        "phonetic": "¿ké hora será? serán las tres de la tarde; los estudiantes estarán en el laboratorio.",
         "translationId": "Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium."
       },
       {
         "id": "es-gram-25-ex-3",
         "native": "Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo.",
-        "phonetic": "",
+        "phonetic": "Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo.",
         "translationId": "Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang."
       }
     ],
@@ -11431,7 +11506,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'El Futuro Simple de Indicativo y la Probabilidad en el Presente' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"El Futuro Simple de Indicativo y la Probabilidad en el Presente\" (Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-25-pg-1",
@@ -11447,7 +11522,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pihak universitas sudah menandatangani perjanjian bilateral sebelum pertemuan para menteri berlangsung."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"El próximo año publicaremos una monografía sobre el pensamiento ilustrado español.\" berarti \"Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol.\"."
+        "explanation": "Kalimat \"El próximo año publicaremos una monografía sobre el pensamiento ilustrado español.\" (dibaca: El próximo anyo publicaremos una monografía sobre el pensamiento ilustrado espanyol.) berarti \"Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol.\". Kalimat ini menggunakan pola \"Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)\" (El Futuro Simple de Indicativo y la Probabilidad en el Presente) yang berfungsi untuk menyatakan prediksi masa depan serta fungsi modal khas bahasa Spanyol: membuat dugaan probabilitas saat ini."
       },
       {
         "id": "q-es-gram-25-pg-2",
@@ -11463,7 +11538,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"¿Qué hora será? Serán las tres de la tarde; los estudiantes estarán en el laboratorio.\" berarti \"Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium.\"."
+        "explanation": "Kalimat \"¿Qué hora será? Serán las tres de la tarde; los estudiantes estarán en el laboratorio.\" (dibaca: ¿ké hora será? serán las tres de la tarde; los estudiantes estarán en el laboratorio.) berarti \"Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium.\". Kalimat ini menggunakan pola \"Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)\" (El Futuro Simple de Indicativo y la Probabilidad en el Presente) yang berfungsi untuk menyatakan prediksi masa depan serta fungsi modal khas bahasa Spanyol: membuat dugaan probabilitas saat ini."
       },
       {
         "id": "q-es-gram-25-pg-3",
@@ -11479,7 +11554,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo.\" berarti \"Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang.\"."
+        "explanation": "Kalimat \"Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo.\" (dibaca: Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo.) berarti \"Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang.\". Kalimat ini menggunakan pola \"Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)\" (El Futuro Simple de Indicativo y la Probabilidad en el Presente) yang berfungsi untuk menyatakan prediksi masa depan serta fungsi modal khas bahasa Spanyol: membuat dugaan probabilitas saat ini."
       },
       {
         "id": "q-es-gram-25-pg-4",
@@ -11499,7 +11574,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-25-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Futuro Simple de Indicativo y la Probabilidad en el Presente\"?",
         "options": [
           "¿Qué hora será? Serán las tres de la tarde; los estudiantes estarán en el laboratorio. — Kira-kira pukul berapa sekarang? Mungkin pukul tiga sore; para mahasiswa kemungkinan sedang berada di laboratorium.",
           "La universidad ya había firmado el convenio bilateral antes de la reunión de ministros. — Pihak universitas sudah menandatangani perjanjian bilateral sebelum pertemuan para menteri berlangsung.",
@@ -11513,7 +11588,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-25-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Futuro Simple de Indicativo y la Probabilidad en el Presente\"?",
         "options": [
           "Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos. — Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut.",
           "Esta nueva normativa entrará en vigor a partir del próximo semestre lectivo. — Peraturan baru ini akan mulai berlaku efektif sejak semester perkuliahan mendatang.",
@@ -11527,7 +11602,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-25-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Futuro Simple de Indicativo y la Probabilidad en el Presente\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -11782,7 +11857,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El próximo año publicaremos una monografía sobre el pensamiento ilustrado español.\" berarti \"Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol.\"."
+        "explanation": "Kalimat \"El próximo año publicaremos una monografía sobre el pensamiento ilustrado español.\" (dibaca: El próximo anyo publicaremos una monografía sobre el pensamiento ilustrado espanyol.) berarti \"Tahun depan kami akan menerbitkan sebuah monograf tentang pemikiran Pencerahan Spanyol.\". Kalimat ini menggunakan pola \"Infinitivo + -é, -ás, -á, -emos, -éis, -án & ¿Dónde estará el profesor? (Estará en su despacho)\" (El Futuro Simple de Indicativo y la Probabilidad en el Presente) yang berfungsi untuk menyatakan prediksi masa depan serta fungsi modal khas bahasa Spanyol: membuat dugaan probabilitas saat ini."
       },
       {
         "id": "q-es-gram-25-bb-2",
@@ -11857,24 +11932,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyampaikan permohonan santun akademik, anjuran ilmiah, dan proyeksi hipotetis di masa kini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'El Condicional Simple: Cortesía, Deseos y Consejos' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"El Condicional Simple: Cortesía, Deseos y Consejos\" (El condicional simple como herramienta de atenuación pragmática) berfungsi untuk: menyampaikan permohonan santun akademik, anjuran ilmiah, dan proyeksi hipotetis di masa kini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Me gustaría solicitar una entrevista formal con el director del departamento. — Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen."
+          "Rumus utama: Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían",
+          "Contoh 1: Me gustaría solicitar una entrevista formal con el director del departamento. (Me gustaría solisitar una entrevista formal con el director del departamento.) — Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Condicional simple menghaluskan nada permintaan agar terdengar sopan di lingkungan universitas.",
         "ruleList": [
-          "Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos. — Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru."
+          "Polanya: Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían",
+          "Contoh 2: Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos. (Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos.) — Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"El Condicional Simple: Cortesía, Deseos y Consejos\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "¿Podría usted aclararme el procedimiento de homologación de títulos extranjeros? — Sudikah kiranya Anda menjelaskan kepada saya prosedur penyetaraan ijazah luar negeri?"
+          "Contoh 3: ¿Podría usted aclararme el procedimiento de homologación de títulos extranjeros? (¿podría usted aclararme el prosedimiento de homologasión de títulos extrankheros?) — Sudikah kiranya Anda menjelaskan kepada saya prosedur penyetaraan ijazah luar negeri?",
+          "Hindari kesalahan: \"quiero hablar con usted (demasiado directo)\" → gunakan bentuk yang benar: \"querría / me gustaría hablar con usted\"."
         ]
       }
     ],
@@ -11882,19 +11960,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-26-ex-1",
         "native": "Me gustaría solicitar una entrevista formal con el director del departamento.",
-        "phonetic": "",
+        "phonetic": "Me gustaría solisitar una entrevista formal con el director del departamento.",
         "translationId": "Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen."
       },
       {
         "id": "es-gram-26-ex-2",
         "native": "Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos.",
-        "phonetic": "",
+        "phonetic": "Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos.",
         "translationId": "Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru."
       },
       {
         "id": "es-gram-26-ex-3",
         "native": "¿Podría usted aclararme el procedimiento de homologación de títulos extranjeros?",
-        "phonetic": "",
+        "phonetic": "¿podría usted aclararme el prosedimiento de homologasión de títulos extrankheros?",
         "translationId": "Sudikah kiranya Anda menjelaskan kepada saya prosedur penyetaraan ijazah luar negeri?"
       }
     ],
@@ -11910,7 +11988,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'El Condicional Simple: Cortesía, Deseos y Consejos' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"El Condicional Simple: Cortesía, Deseos y Consejos\" (Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-26-pg-1",
@@ -11926,7 +12004,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Me gustaría solicitar una entrevista formal con el director del departamento.\" berarti \"Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen.\"."
+        "explanation": "Kalimat \"Me gustaría solicitar una entrevista formal con el director del departamento.\" (dibaca: Me gustaría solisitar una entrevista formal con el director del departamento.) berarti \"Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen.\". Kalimat ini menggunakan pola \"Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían\" (El Condicional Simple: Cortesía, Deseos y Consejos) yang berfungsi untuk menyampaikan permohonan santun akademik, anjuran ilmiah, dan proyeksi hipotetis di masa kini."
       },
       {
         "id": "q-es-gram-26-pg-2",
@@ -11942,7 +12020,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos.\" berarti \"Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru.\"."
+        "explanation": "Kalimat \"Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos.\" (dibaca: Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos.) berarti \"Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru.\". Kalimat ini menggunakan pola \"Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían\" (El Condicional Simple: Cortesía, Deseos y Consejos) yang berfungsi untuk menyampaikan permohonan santun akademik, anjuran ilmiah, dan proyeksi hipotetis di masa kini."
       },
       {
         "id": "q-es-gram-26-pg-3",
@@ -11958,7 +12036,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sudikah kiranya Anda menjelaskan kepada saya prosedur penyetaraan ijazah luar negeri?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"¿Podría usted aclararme el procedimiento de homologación de títulos extranjeros?\" berarti \"Sudikah kiranya Anda menjelaskan kepada saya prosedur penyetaraan ijazah luar negeri?\"."
+        "explanation": "Kalimat \"¿Podría usted aclararme el procedimiento de homologación de títulos extranjeros?\" (dibaca: ¿podría usted aclararme el prosedimiento de homologasión de títulos extrankheros?) berarti \"Sudikah kiranya Anda menjelaskan kepada saya prosedur penyetaraan ijazah luar negeri?\". Kalimat ini menggunakan pola \"Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían\" (El Condicional Simple: Cortesía, Deseos y Consejos) yang berfungsi untuk menyampaikan permohonan santun akademik, anjuran ilmiah, dan proyeksi hipotetis di masa kini."
       },
       {
         "id": "q-es-gram-26-pg-4",
@@ -11978,7 +12056,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-26-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Condicional Simple: Cortesía, Deseos y Consejos\"?",
         "options": [
           "Cuando viajo a Madrid, suelo visitar el Museo del Prado y la Biblioteca Nacional. — Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional.",
           "Sería conveniente revisar las conclusiones a la luz de los nuevos datos estadísticos. — Alangkah baiknya meninjau kembali kesimpulan tersebut berdasarkan data-data statistik yang baru.",
@@ -11992,7 +12070,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-26-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Condicional Simple: Cortesía, Deseos y Consejos\"?",
         "options": [
           "Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias. — Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern.",
           "Cuando el profesor entró en el aula, los estudiantes guardaron silencio de inmediato. — Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan.",
@@ -12006,7 +12084,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-26-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"El Condicional Simple: Cortesía, Deseos y Consejos\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -12259,7 +12337,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Me gustaría solicitar una entrevista formal con el director del departamento.\" berarti \"Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen.\"."
+        "explanation": "Kalimat \"Me gustaría solicitar una entrevista formal con el director del departamento.\" (dibaca: Me gustaría solisitar una entrevista formal con el director del departamento.) berarti \"Saya ingin mengajukan permohonan wawancara resmi dengan kepala departemen.\". Kalimat ini menggunakan pola \"Infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían\" (El Condicional Simple: Cortesía, Deseos y Consejos) yang berfungsi untuk menyampaikan permohonan santun akademik, anjuran ilmiah, dan proyeksi hipotetis di masa kini."
       },
       {
         "id": "q-es-gram-26-bb-2",
@@ -12334,24 +12412,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyusun kalimat pengandaian nyata dan logis di mana pemenuhan syarat menghasilkan konsekuensi yang terukur.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Oraciones Condicionales Reales con Si' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Oraciones Condicionales Reales con Si\" (El primer tipo de oraciones condicionales: condición realizable en el presente o futuro) berfungsi untuk: menyusun kalimat pengandaian nyata dan logis di mana pemenuhan syarat menghasilkan konsekuensi yang terukur. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles. — Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi."
+          "Rumus utama: Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo",
+          "Contoh 1: Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles. (Si aplicas rigurosamente el método sientífico, obtendrás resultados reprodusibles.) — Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa Spanyol, klausa syarat yang diawali 'si' tidak pernah diikuti oleh futuro simple.",
         "ruleList": [
-          "Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular. — Jika kamu memiliki keraguan mengenai daftar pustaka, konsultasikanlah langsung dengan profesor pengampu."
+          "Polanya: Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo",
+          "Contoh 2: Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular. (Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular.) — Jika kamu memiliki keraguan mengenai daftar pustaka, konsultasikanlah langsung dengan profesor pengampu."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Oraciones Condicionales Reales con Si\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Si los datos son correctos, el modelo predice una estabilización económica. — Jika data-data tersebut benar, model ini memprediksi terjadinya stabilisasi ekonomi."
+          "Contoh 3: Si los datos son correctos, el modelo predice una estabilización económica. (Si los datos son correctos, el modelo predise una estabilizasión económica.) — Jika data-data tersebut benar, model ini memprediksi terjadinya stabilisasi ekonomi.",
+          "Hindari kesalahan: \"si tú tendrás tiempo (falso futuro)\" → gunakan bentuk yang benar: \"si tienes tiempo\"."
         ]
       }
     ],
@@ -12359,19 +12440,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-27-ex-1",
         "native": "Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles.",
-        "phonetic": "",
+        "phonetic": "Si aplicas rigurosamente el método sientífico, obtendrás resultados reprodusibles.",
         "translationId": "Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi."
       },
       {
         "id": "es-gram-27-ex-2",
         "native": "Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular.",
-        "phonetic": "",
+        "phonetic": "Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular.",
         "translationId": "Jika kamu memiliki keraguan mengenai daftar pustaka, konsultasikanlah langsung dengan profesor pengampu."
       },
       {
         "id": "es-gram-27-ex-3",
         "native": "Si los datos son correctos, el modelo predice una estabilización económica.",
-        "phonetic": "",
+        "phonetic": "Si los datos son correctos, el modelo predise una estabilizasión económica.",
         "translationId": "Jika data-data tersebut benar, model ini memprediksi terjadinya stabilisasi ekonomi."
       }
     ],
@@ -12387,7 +12468,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Oraciones Condicionales Reales con Si' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Oraciones Condicionales Reales con Si\" (Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-27-pg-1",
@@ -12403,7 +12484,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles.\" berarti \"Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi.\"."
+        "explanation": "Kalimat \"Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles.\" (dibaca: Si aplicas rigurosamente el método sientífico, obtendrás resultados reprodusibles.) berarti \"Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi.\". Kalimat ini menggunakan pola \"Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo\" (Oraciones Condicionales Reales con Si) yang berfungsi untuk menyusun kalimat pengandaian nyata dan logis di mana pemenuhan syarat menghasilkan konsekuensi yang terukur."
       },
       {
         "id": "q-es-gram-27-pg-2",
@@ -12419,7 +12500,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu memiliki keraguan mengenai daftar pustaka, konsultasikanlah langsung dengan profesor pengampu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular.\" berarti \"Jika kamu memiliki keraguan mengenai daftar pustaka, konsultasikanlah langsung dengan profesor pengampu.\"."
+        "explanation": "Kalimat \"Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular.\" (dibaca: Si tienes dudas sobre la bibliografía, consulta directamente con el profesor titular.) berarti \"Jika kamu memiliki keraguan mengenai daftar pustaka, konsultasikanlah langsung dengan profesor pengampu.\". Kalimat ini menggunakan pola \"Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo\" (Oraciones Condicionales Reales con Si) yang berfungsi untuk menyusun kalimat pengandaian nyata dan logis di mana pemenuhan syarat menghasilkan konsekuensi yang terukur."
       },
       {
         "id": "q-es-gram-27-pg-3",
@@ -12435,7 +12516,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap semoga kamu menemukan sumber-sumber kepustakaan mutakhir untuk tugas akhir sarjanamu."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Si los datos son correctos, el modelo predice una estabilización económica.\" berarti \"Jika data-data tersebut benar, model ini memprediksi terjadinya stabilisasi ekonomi.\"."
+        "explanation": "Kalimat \"Si los datos son correctos, el modelo predice una estabilización económica.\" (dibaca: Si los datos son correctos, el modelo predise una estabilizasión económica.) berarti \"Jika data-data tersebut benar, model ini memprediksi terjadinya stabilisasi ekonomi.\". Kalimat ini menggunakan pola \"Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo\" (Oraciones Condicionales Reales con Si) yang berfungsi untuk menyusun kalimat pengandaian nyata dan logis di mana pemenuhan syarat menghasilkan konsekuensi yang terukur."
       },
       {
         "id": "q-es-gram-27-pg-4",
@@ -12455,7 +12536,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-27-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Condicionales Reales con Si\"?",
         "options": [
           "Escribo este artículo para publicar los resultados en una revista de impacto internacional. — Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional.",
           "Es indispensable que los estudiantes comprendan la relevancia de este postulado. — Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini.",
@@ -12469,7 +12550,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-27-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Condicionales Reales con Si\"?",
         "options": [
           "Estudio filología española por vocación y pasión por la literatura clásica. — Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik.",
           "El plazo de entrega del trabajo de fin de máster está fijado para el quince de junio. — Batas waktu pengumpulan tesis magister ditetapkan pada tanggal lima belas Juni.",
@@ -12483,7 +12564,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-27-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Condicionales Reales con Si\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -12734,7 +12815,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles.\" berarti \"Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi.\"."
+        "explanation": "Kalimat \"Si aplicas rigurosamente el método científico, obtendrás resultados reproducibles.\" (dibaca: Si aplicas rigurosamente el método sientífico, obtendrás resultados reprodusibles.) berarti \"Jika kamu menerapkan metode ilmiah secara ketat, kamu akan memperoleh hasil yang dapat direproduksi.\". Kalimat ini menggunakan pola \"Si + Presente de Indicativo -> Futuro Simple / Presente / Imperativo\" (Oraciones Condicionales Reales con Si) yang berfungsi untuk menyusun kalimat pengandaian nyata dan logis di mana pemenuhan syarat menghasilkan konsekuensi yang terukur."
       },
       {
         "id": "q-es-gram-27-bb-2",
@@ -12809,24 +12890,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan peristiwa masa lalu yang telah tuntas terjadi sebelum peristiwa lampau lainnya bermula.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pretérito Pluscuamperfecto de Indicativo (Había + Participio)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pretérito Pluscuamperfecto de Indicativo (Había + Participio)\" (La anterioridad temporal en el pasado narrativo) berfungsi untuk: menyatakan peristiwa masa lalu yang telah tuntas terjadi sebelum peristiwa lampau lainnya bermula. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos. — Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut."
+          "Rumus utama: Había / Habías / Había / Habíamos / Habíais / Habían + Participio",
+          "Contoh 1: Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos. (Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.) — Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Había / Habías / Había / Habíamos / Habíais / Habían + Participio memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Había / Habías / Había / Habíamos / Habíais / Habían + Participio\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pretérito pluscuamperfecto menandai secara presisi tindakan yang sudah lebih dulu tuntas di masa lalu.",
         "ruleList": [
-          "La universidad ya había firmado el convenio bilateral antes de la reunión de ministros. — Pihak universitas sudah menandatangani perjanjian bilateral sebelum pertemuan para menteri berlangsung."
+          "Polanya: Había / Habías / Había / Habíamos / Habíais / Habían + Participio",
+          "Contoh 2: La universidad ya había firmado el convenio bilateral antes de la reunión de ministros. (La universidad ya había firmado el convenio bilateral antes de la reunión de ministros.) — Pihak universitas sudah menandatangani perjanjian bilateral sebelum pertemuan para menteri berlangsung."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pretérito Pluscuamperfecto de Indicativo (Había + Participio)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Habíamos verificado los cálculos matemáticos previamente a la simulación computacional. — Kami telah memverifikasi perhitungan matematis sebelum menjalankan simulasi komputasi."
+          "Contoh 3: Habíamos verificado los cálculos matemáticos previamente a la simulación computacional. (Habíamos verificado los cálculos matemáticos previamente a la simulasión computasional.) — Kami telah memverifikasi perhitungan matematis sebelum menjalankan simulasi komputasi.",
+          "Hindari kesalahan: \"cuando llegué él ya salió\" → gunakan bentuk yang benar: \"cuando llegué él ya había salido\"."
         ]
       }
     ],
@@ -12834,19 +12918,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-28-ex-1",
         "native": "Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.",
-        "phonetic": "",
+        "phonetic": "Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.",
         "translationId": "Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut."
       },
       {
         "id": "es-gram-28-ex-2",
         "native": "La universidad ya había firmado el convenio bilateral antes de la reunión de ministros.",
-        "phonetic": "",
+        "phonetic": "La universidad ya había firmado el convenio bilateral antes de la reunión de ministros.",
         "translationId": "Pihak universitas sudah menandatangani perjanjian bilateral sebelum pertemuan para menteri berlangsung."
       },
       {
         "id": "es-gram-28-ex-3",
         "native": "Habíamos verificado los cálculos matemáticos previamente a la simulación computacional.",
-        "phonetic": "",
+        "phonetic": "Habíamos verificado los cálculos matemáticos previamente a la simulasión computasional.",
         "translationId": "Kami telah memverifikasi perhitungan matematis sebelum menjalankan simulasi komputasi."
       }
     ],
@@ -12862,7 +12946,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pretérito Pluscuamperfecto de Indicativo (Había + Participio)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pretérito Pluscuamperfecto de Indicativo (Había + Participio)\" (Había / Habías / Había / Habíamos / Habíais / Habían + Participio) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-28-pg-1",
@@ -12878,7 +12962,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.\" berarti \"Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut.\"."
+        "explanation": "Kalimat \"Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.\" (dibaca: Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.) berarti \"Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut.\". Kalimat ini menggunakan pola \"Había / Habías / Había / Habíamos / Habíais / Habían + Participio\" (Pretérito Pluscuamperfecto de Indicativo (Había + Participio)) yang berfungsi untuk menyatakan peristiwa masa lalu yang telah tuntas terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-es-gram-28-pg-2",
@@ -12894,7 +12978,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"La universidad ya había firmado el convenio bilateral antes de la reunión de ministros.\" berarti \"Pihak universitas sudah menandatangani perjanjian bilateral sebelum pertemuan para menteri berlangsung.\"."
+        "explanation": "Kalimat \"La universidad ya había firmado el convenio bilateral antes de la reunión de ministros.\" (dibaca: La universidad ya había firmado el convenio bilateral antes de la reunión de ministros.) berarti \"Pihak universitas sudah menandatangani perjanjian bilateral sebelum pertemuan para menteri berlangsung.\". Kalimat ini menggunakan pola \"Había / Habías / Había / Habíamos / Habíais / Habían + Participio\" (Pretérito Pluscuamperfecto de Indicativo (Había + Participio)) yang berfungsi untuk menyatakan peristiwa masa lalu yang telah tuntas terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-es-gram-28-pg-3",
@@ -12910,7 +12994,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor perempuan kami menyarankan agar kami membaca teks-teks fundamental linguistik terapan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Habíamos verificado los cálculos matemáticos previamente a la simulación computacional.\" berarti \"Kami telah memverifikasi perhitungan matematis sebelum menjalankan simulasi komputasi.\"."
+        "explanation": "Kalimat \"Habíamos verificado los cálculos matemáticos previamente a la simulación computacional.\" (dibaca: Habíamos verificado los cálculos matemáticos previamente a la simulasión computasional.) berarti \"Kami telah memverifikasi perhitungan matematis sebelum menjalankan simulasi komputasi.\". Kalimat ini menggunakan pola \"Había / Habías / Había / Habíamos / Habíais / Habían + Participio\" (Pretérito Pluscuamperfecto de Indicativo (Había + Participio)) yang berfungsi untuk menyatakan peristiwa masa lalu yang telah tuntas terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-es-gram-28-pg-4",
@@ -12930,7 +13014,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-28-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Pluscuamperfecto de Indicativo (Había + Participio)\"?",
         "options": [
           "El decanato pide que todos colaboremos en la mejora de los servicios estudiantiles. — Pihak dekanat meminta agar kita semua bekerja sama dalam meningkatkan layanan kemahasiswaan.",
           "El tribunal exige que el candidato defienda sus tesis con argumentos sólidos. — Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh.",
@@ -12944,7 +13028,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-28-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Pluscuamperfecto de Indicativo (Había + Participio)\"?",
         "options": [
           "Habíamos verificado los cálculos matemáticos previamente a la simulación computacional. — Kami telah memverifikasi perhitungan matematis sebelum menjalankan simulasi komputasi.",
           "Es indispensable que los estudiantes comprendan la relevancia de este postulado. — Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini.",
@@ -12958,7 +13042,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-28-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Pluscuamperfecto de Indicativo (Había + Participio)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -13211,7 +13295,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sangatlah mutlak bahwa para mahasiswa memahami relevansi dari postulat ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.\" berarti \"Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut.\"."
+        "explanation": "Kalimat \"Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.\" (dibaca: Cuando comenzó el debate académico, los ponentes ya habían leído todos los ensayos.) berarti \"Ketika debat akademik dimulai, para pemakalah sudah membaca seluruh esai tersebut.\". Kalimat ini menggunakan pola \"Había / Habías / Había / Habíamos / Habíais / Habían + Participio\" (Pretérito Pluscuamperfecto de Indicativo (Había + Participio)) yang berfungsi untuk menyatakan peristiwa masa lalu yang telah tuntas terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-es-gram-28-bb-2",
@@ -13286,24 +13370,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan emas kata penghubung cuando: diikuti indikatif untuk kebiasaan/lampau, dan wajib subjungtif untuk peristiwa yang belum terjadi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)\" (La alternancia modal en las oraciones temporales según la proyección cronológica) berfungsi untuk: aturan emas kata penghubung cuando: diikuti indikatif untuk kebiasaan/lampau, dan wajib subjungtif untuk peristiwa yang belum terjadi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias. — Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern."
+          "Rumus utama: Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)",
+          "Contoh 1: Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias. (Cuando concluyan las obras de ampliasión, el campus dispondrá de modernas residensias.) — Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Klausa waktu dengan 'cuando' yang merujuk pada masa depan wajib menggunakan modus subjuntivo.",
         "ruleList": [
-          "Cuando viajo a Madrid, suelo visitar el Museo del Prado y la Biblioteca Nacional. — Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional."
+          "Polanya: Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)",
+          "Contoh 2: Cuando viajo a Madrid, suelo visitar el Museo del Prado y la Biblioteca Nacional. (Cuando viakho a madrid, suelo visitar el museo del prado y la biblioteca nasional.) — Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Cuando el profesor entró en el aula, los estudiantes guardaron silencio de inmediato. — Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan."
+          "Contoh 3: Cuando el profesor entró en el aula, los estudiantes guardaron silencio de inmediato. (Cuando el profesor entró en el aula, los estudiantes guardaron silensio de inmediato.) — Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan.",
+          "Hindari kesalahan: \"cuando yo voy a graduarme\" → gunakan bentuk yang benar: \"cuando yo me gradúe\"."
         ]
       }
     ],
@@ -13311,19 +13398,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-29-ex-1",
         "native": "Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias.",
-        "phonetic": "",
+        "phonetic": "Cuando concluyan las obras de ampliasión, el campus dispondrá de modernas residensias.",
         "translationId": "Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern."
       },
       {
         "id": "es-gram-29-ex-2",
         "native": "Cuando viajo a Madrid, suelo visitar el Museo del Prado y la Biblioteca Nacional.",
-        "phonetic": "",
+        "phonetic": "Cuando viakho a madrid, suelo visitar el museo del prado y la biblioteca nasional.",
         "translationId": "Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional."
       },
       {
         "id": "es-gram-29-ex-3",
         "native": "Cuando el profesor entró en el aula, los estudiantes guardaron silencio de inmediato.",
-        "phonetic": "",
+        "phonetic": "Cuando el profesor entró en el aula, los estudiantes guardaron silensio de inmediato.",
         "translationId": "Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan."
       }
     ],
@@ -13339,7 +13426,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)\" (Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-29-pg-1",
@@ -13355,7 +13442,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias.\" berarti \"Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern.\"."
+        "explanation": "Kalimat \"Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias.\" (dibaca: Cuando concluyan las obras de ampliasión, el campus dispondrá de modernas residensias.) berarti \"Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern.\". Kalimat ini menggunakan pola \"Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)\" (Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)) yang berfungsi untuk aturan emas kata penghubung cuando: diikuti indikatif untuk kebiasaan/lampau, dan wajib subjungtif untuk peristiwa yang belum terjadi."
       },
       {
         "id": "q-es-gram-29-pg-2",
@@ -13371,7 +13458,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Cuando viajo a Madrid, suelo visitar el Museo del Prado y la Biblioteca Nacional.\" berarti \"Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional.\"."
+        "explanation": "Kalimat \"Cuando viajo a Madrid, suelo visitar el Museo del Prado y la Biblioteca Nacional.\" (dibaca: Cuando viakho a madrid, suelo visitar el museo del prado y la biblioteca nasional.) berarti \"Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional.\". Kalimat ini menggunakan pola \"Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)\" (Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)) yang berfungsi untuk aturan emas kata penghubung cuando: diikuti indikatif untuk kebiasaan/lampau, dan wajib subjungtif untuk peristiwa yang belum terjadi."
       },
       {
         "id": "q-es-gram-29-pg-3",
@@ -13387,7 +13474,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Merupakan kepuasan besar bahwa tim kita memimpin konsorsium penelitian tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Cuando el profesor entró en el aula, los estudiantes guardaron silencio de inmediato.\" berarti \"Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan.\"."
+        "explanation": "Kalimat \"Cuando el profesor entró en el aula, los estudiantes guardaron silencio de inmediato.\" (dibaca: Cuando el profesor entró en el aula, los estudiantes guardaron silensio de inmediato.) berarti \"Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan.\". Kalimat ini menggunakan pola \"Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)\" (Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)) yang berfungsi untuk aturan emas kata penghubung cuando: diikuti indikatif untuk kebiasaan/lampau, dan wajib subjungtif untuk peristiwa yang belum terjadi."
       },
       {
         "id": "q-es-gram-29-pg-4",
@@ -13407,7 +13494,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-29-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)\"?",
         "options": [
           "Cuando viajo a Madrid, suelo visitar el Museo del Prado y la Biblioteca Nacional. — Setiap kali saya bepergian ke Madrid, saya biasa mengunjungi Museum Prado dan Perpustakaan Nasional.",
           "Deseamos que este convenio bilateral beneficie a los investigadores de ambas instituciones. — Kami berharap agar perjanjian bilateral ini memberikan manfaat bagi para peneliti dari kedua institusi.",
@@ -13421,7 +13508,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-29-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)\"?",
         "options": [
           "El tribunal exige que el candidato defienda sus tesis con argumentos sólidos. — Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh.",
           "Cuando el profesor entró en el aula, los estudiantes guardaron silencio de inmediato. — Ketika sang profesor masuk ke ruang kelas, para mahasiswa segera menjaga ketenangan.",
@@ -13435,7 +13522,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-29-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -13692,7 +13779,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dewan penguji menuntut agar kandidat mempertahankan tesisnya dengan argumen-argumen yang kokoh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias.\" berarti \"Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern.\"."
+        "explanation": "Kalimat \"Cuando concluyan las obras de ampliación, el campus dispondrá de modernas residencias.\" (dibaca: Cuando concluyan las obras de ampliasión, el campus dispondrá de modernas residensias.) berarti \"Ketika pekerjaan perluasan gedung nanti rampung, kampus akan memiliki asrama-asrama modern.\". Kalimat ini menggunakan pola \"Cuando + Presente de Subjuntivo (Futuro) vs Cuando + Indicativo (Hábito o Pasado)\" (Oraciones Temporales con Cuando (Indicativo vs Subjuntivo)) yang berfungsi untuk aturan emas kata penghubung cuando: diikuti indikatif untuk kebiasaan/lampau, dan wajib subjungtif untuk peristiwa yang belum terjadi."
       },
       {
         "id": "q-es-gram-29-bb-2",
@@ -13767,24 +13854,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membedakan penggunaan preposisi por (alasan, penyebab, media) dan para (tujuan akhir, batas tenggat waktu, penerima manfaat).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Contraste Profundo entre Por y Para' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Contraste Profundo entre Por y Para\" (Sistematización de los valores semánticos de las preposiciones 'por' y 'para') berfungsi untuk: membedakan penggunaan preposisi por (alasan, penyebab, media) dan para (tujuan akhir, batas tenggat waktu, penerima manfaat). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Estudio filología española por vocación y pasión por la literatura clásica. — Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik."
+          "Rumus utama: Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)",
+          "Contoh 1: Estudio filología española por vocación y pasión por la literatura clásica. (Estudio filología espanyola por vocasión y pasión por la literatura clásica.) — Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sebab, alasan, atau motivasi pendorong suatu tindakan dinyatakan dengan preposisi 'por'.",
         "ruleList": [
-          "Escribo este artículo para publicar los resultados en una revista de impacto internacional. — Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional."
+          "Polanya: Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)",
+          "Contoh 2: Escribo este artículo para publicar los resultados en una revista de impacto internacional. (Escribo este artículo para publicar los resultados en una revista de impacto internasional.) — Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Contraste Profundo entre Por y Para\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "El plazo de entrega del trabajo de fin de máster está fijado para el quince de junio. — Batas waktu pengumpulan tesis magister ditetapkan pada tanggal lima belas Juni."
+          "Contoh 3: El plazo de entrega del trabajo de fin de máster está fijado para el quince de junio. (El plazo de entrega del trabakho de fin de máster está fikhado para el kinse de khunio.) — Batas waktu pengumpulan tesis magister ditetapkan pada tanggal lima belas Juni.",
+          "Hindari kesalahan: \"estudio para la vocación\" → gunakan bentuk yang benar: \"estudio por vocación\"."
         ]
       }
     ],
@@ -13792,19 +13882,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-30-ex-1",
         "native": "Estudio filología española por vocación y pasión por la literatura clásica.",
-        "phonetic": "",
+        "phonetic": "Estudio filología espanyola por vocasión y pasión por la literatura clásica.",
         "translationId": "Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik."
       },
       {
         "id": "es-gram-30-ex-2",
         "native": "Escribo este artículo para publicar los resultados en una revista de impacto internacional.",
-        "phonetic": "",
+        "phonetic": "Escribo este artículo para publicar los resultados en una revista de impacto internasional.",
         "translationId": "Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional."
       },
       {
         "id": "es-gram-30-ex-3",
         "native": "El plazo de entrega del trabajo de fin de máster está fijado para el quince de junio.",
-        "phonetic": "",
+        "phonetic": "El plazo de entrega del trabakho de fin de máster está fikhado para el kinse de khunio.",
         "translationId": "Batas waktu pengumpulan tesis magister ditetapkan pada tanggal lima belas Juni."
       }
     ],
@@ -13820,7 +13910,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Contraste Profundo entre Por y Para' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Contraste Profundo entre Por y Para\" (Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-30-pg-1",
@@ -13836,7 +13926,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Estudio filología española por vocación y pasión por la literatura clásica.\" berarti \"Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik.\"."
+        "explanation": "Kalimat \"Estudio filología española por vocación y pasión por la literatura clásica.\" (dibaca: Estudio filología espanyola por vocasión y pasión por la literatura clásica.) berarti \"Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik.\". Kalimat ini menggunakan pola \"Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)\" (Contraste Profundo entre Por y Para) yang berfungsi untuk membedakan penggunaan preposisi por (alasan, penyebab, media) dan para (tujuan akhir, batas tenggat waktu, penerima manfaat)."
       },
       {
         "id": "q-es-gram-30-pg-2",
@@ -13852,7 +13942,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak mengira bahwa hipotesis ini cukup untuk menjelaskan fenomena sosial tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Escribo este artículo para publicar los resultados en una revista de impacto internacional.\" berarti \"Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional.\"."
+        "explanation": "Kalimat \"Escribo este artículo para publicar los resultados en una revista de impacto internacional.\" (dibaca: Escribo este artículo para publicar los resultados en una revista de impacto internasional.) berarti \"Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional.\". Kalimat ini menggunakan pola \"Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)\" (Contraste Profundo entre Por y Para) yang berfungsi untuk membedakan penggunaan preposisi por (alasan, penyebab, media) dan para (tujuan akhir, batas tenggat waktu, penerima manfaat)."
       },
       {
         "id": "q-es-gram-30-pg-3",
@@ -13868,7 +13958,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Batas waktu pengumpulan tesis magister ditetapkan pada tanggal lima belas Juni."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"El plazo de entrega del trabajo de fin de máster está fijado para el quince de junio.\" berarti \"Batas waktu pengumpulan tesis magister ditetapkan pada tanggal lima belas Juni.\"."
+        "explanation": "Kalimat \"El plazo de entrega del trabajo de fin de máster está fijado para el quince de junio.\" (dibaca: El plazo de entrega del trabakho de fin de máster está fikhado para el kinse de khunio.) berarti \"Batas waktu pengumpulan tesis magister ditetapkan pada tanggal lima belas Juni.\". Kalimat ini menggunakan pola \"Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)\" (Contraste Profundo entre Por y Para) yang berfungsi untuk membedakan penggunaan preposisi por (alasan, penyebab, media) dan para (tujuan akhir, batas tenggat waktu, penerima manfaat)."
       },
       {
         "id": "q-es-gram-30-pg-4",
@@ -13888,7 +13978,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-30-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Contraste Profundo entre Por y Para\"?",
         "options": [
           "Lamento profundamente que no puedas asistir a la ponencia inaugural del rector. — Saya sangat menyayangkan bahwa kamu tidak dapat menghadiri ceramah pembukaan dari rektor.",
           "Escribo este artículo para publicar los resultados en una revista de impacto internacional. — Saya menulis artikel ini untuk memublikasikan hasil-hasilnya di sebuah jurnal bereputasi internasional.",
@@ -13902,7 +13992,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-30-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Contraste Profundo entre Por y Para\"?",
         "options": [
           "Nos alegra mucho que la universidad haya recibido esta acreditación internacional. — Kami sangat gembira bahwa universitas telah menerima akreditasi internasional ini.",
           "Es una gran satisfacción que nuestro equipo lidere el consorcio de investigación. — Merupakan kepuasan besar bahwa tim kita memimpin konsorsium penelitian tersebut.",
@@ -13916,7 +14006,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-30-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Contraste Profundo entre Por y Para\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -14169,7 +14259,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Estudio filología española por vocación y pasión por la literatura clásica.\" berarti \"Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik.\"."
+        "explanation": "Kalimat \"Estudio filología española por vocación y pasión por la literatura clásica.\" (dibaca: Estudio filología espanyola por vocasión y pasión por la literatura clásica.) berarti \"Saya mempelajari filologi Spanyol karena panggilan jiwa dan kecintaan pada sastra klasik.\". Kalimat ini menggunakan pola \"Por (Causa/Motivo/Medio/Duración) vs Para (Finalidad/Destinatario/Plazo/Opinión)\" (Contraste Profundo entre Por y Para) yang berfungsi untuk membedakan penggunaan preposisi por (alasan, penyebab, media) dan para (tujuan akhir, batas tenggat waktu, penerima manfaat)."
       },
       {
         "id": "q-es-gram-30-bb-2",
@@ -14244,24 +14334,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk subjungtif masa lampau dari bentuk persona ketiga jamak pretérito indefinido untuk pengandaian dan subordinasi lampau.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos\" (La conjugación del imperfecto de subjuntivo a partir de la 3ª persona plural del indefinido) berfungsi untuk: membentuk subjungtif masa lampau dari bentuk persona ketiga jamak pretérito indefinido untuk pengandaian dan subordinasi lampau. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El decano solicitó que los directores de departamento presentaran sus informes anuales. — Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka."
+          "Rumus utama: Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se",
+          "Contoh 1: El decano solicitó que los directores de departamento presentaran sus informes anuales. (El decano solisitó ke los directores de departamento presentaran sus informes anuales.) — Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah kata kerja utama berbentuk lampau yang menuntut subjungtif, wajib gunakan imperfecto de subjuntivo.",
         "ruleList": [
-          "Si la institución contara con mayores fondos, podría contratar más investigadores. — Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti."
+          "Polanya: Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se",
+          "Contoh 2: Si la institución contara con mayores fondos, podría contratar más investigadores. (Si la institusión contara con mayores fondos, podría contratar más investigadores.) — Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Dudaba de que los resultados experimentales tuvieran la validez científica necesaria. — Dia meragukan bahwa hasil-hasil eksperimen tersebut memiliki validitas ilmiah yang diperlukan."
+          "Contoh 3: Dudaba de que los resultados experimentales tuvieran la validez científica necesaria. (Dudaba de ke los resultados experimentales tuvieran la validez sientífica nesesaria.) — Dia meragukan bahwa hasil-hasil eksperimen tersebut memiliki validitas ilmiah yang diperlukan.",
+          "Hindari kesalahan: \"él quería que yo hablo\" → gunakan bentuk yang benar: \"él quería que yo hablara / hablase\"."
         ]
       }
     ],
@@ -14269,19 +14362,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-31-ex-1",
         "native": "El decano solicitó que los directores de departamento presentaran sus informes anuales.",
-        "phonetic": "",
+        "phonetic": "El decano solisitó ke los directores de departamento presentaran sus informes anuales.",
         "translationId": "Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka."
       },
       {
         "id": "es-gram-31-ex-2",
         "native": "Si la institución contara con mayores fondos, podría contratar más investigadores.",
-        "phonetic": "",
+        "phonetic": "Si la institusión contara con mayores fondos, podría contratar más investigadores.",
         "translationId": "Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti."
       },
       {
         "id": "es-gram-31-ex-3",
         "native": "Dudaba de que los resultados experimentales tuvieran la validez científica necesaria.",
-        "phonetic": "",
+        "phonetic": "Dudaba de ke los resultados experimentales tuvieran la validez sientífica nesesaria.",
         "translationId": "Dia meragukan bahwa hasil-hasil eksperimen tersebut memiliki validitas ilmiah yang diperlukan."
       }
     ],
@@ -14297,7 +14390,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos\" (Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-31-pg-1",
@@ -14313,7 +14406,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El decano solicitó que los directores de departamento presentaran sus informes anuales.\" berarti \"Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka.\"."
+        "explanation": "Kalimat \"El decano solicitó que los directores de departamento presentaran sus informes anuales.\" (dibaca: El decano solisitó ke los directores de departamento presentaran sus informes anuales.) berarti \"Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka.\". Kalimat ini menggunakan pola \"Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se\" (Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos) yang berfungsi untuk membentuk subjungtif masa lampau dari bentuk persona ketiga jamak pretérito indefinido untuk pengandaian dan subordinasi lampau."
       },
       {
         "id": "q-es-gram-31-pg-2",
@@ -14329,7 +14422,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si la institución contara con mayores fondos, podría contratar más investigadores.\" berarti \"Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti.\"."
+        "explanation": "Kalimat \"Si la institución contara con mayores fondos, podría contratar más investigadores.\" (dibaca: Si la institusión contara con mayores fondos, podría contratar más investigadores.) berarti \"Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti.\". Kalimat ini menggunakan pola \"Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se\" (Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos) yang berfungsi untuk membentuk subjungtif masa lampau dari bentuk persona ketiga jamak pretérito indefinido untuk pengandaian dan subordinasi lampau."
       },
       {
         "id": "q-es-gram-31-pg-3",
@@ -14345,7 +14438,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sekalipun hujan turun dengan lebat, upacara wisuda akan tetap berlangsung di aula utama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Dudaba de que los resultados experimentales tuvieran la validez científica necesaria.\" berarti \"Dia meragukan bahwa hasil-hasil eksperimen tersebut memiliki validitas ilmiah yang diperlukan.\"."
+        "explanation": "Kalimat \"Dudaba de que los resultados experimentales tuvieran la validez científica necesaria.\" (dibaca: Dudaba de ke los resultados experimentales tuvieran la validez sientífica nesesaria.) berarti \"Dia meragukan bahwa hasil-hasil eksperimen tersebut memiliki validitas ilmiah yang diperlukan.\". Kalimat ini menggunakan pola \"Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se\" (Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos) yang berfungsi untuk membentuk subjungtif masa lampau dari bentuk persona ketiga jamak pretérito indefinido untuk pengandaian dan subordinasi lampau."
       },
       {
         "id": "q-es-gram-31-pg-4",
@@ -14365,7 +14458,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-31-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos\"?",
         "options": [
           "Conozco a un profesor emérito que domina a la perfección el hebreo y el arameo. — Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna.",
           "Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real). — Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata).",
@@ -14379,7 +14472,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-31-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos\"?",
         "options": [
           "Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional. — Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi.",
           "No hay ningún documento en el archivo que contradiga nuestra hipótesis principal. — Tidak ada satu dokumen pun di dalam arsip yang bertentangan dengan hipotesis utama kita.",
@@ -14393,7 +14486,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-31-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -14644,7 +14737,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"El decano solicitó que los directores de departamento presentaran sus informes anuales.\" berarti \"Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka.\"."
+        "explanation": "Kalimat \"El decano solicitó que los directores de departamento presentaran sus informes anuales.\" (dibaca: El decano solisitó ke los directores de departamento presentaran sus informes anuales.) berarti \"Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka.\". Kalimat ini menggunakan pola \"Ellos hablaron -> habla-ra/-se / Ellos tuvieron -> tuvie-ra/-se\" (Pretérito Imperfecto de Subjuntivo (-ra / -se): Formación y Usos) yang berfungsi untuk membentuk subjungtif masa lampau dari bentuk persona ketiga jamak pretérito indefinido untuk pengandaian dan subordinasi lampau."
       },
       {
         "id": "q-es-gram-31-bb-2",
@@ -14719,24 +14812,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Merumuskan pengandaian hipotetis yang berlawanan dengan fakta saat ini dalam wacana intelektual.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Condicionales Improbables e Hipotéticas con Si' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Condicionales Improbables e Hipotéticas con Si\" (El segundo tipo de oraciones condicionales: hipótesis inverosímiles o irreales en el presente) berfungsi untuk: merumuskan pengandaian hipotetis yang berlawanan dengan fakta saat ini dalam wacana intelektual. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico. — Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu."
+          "Rumus utama: Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple",
+          "Contoh 1: Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico. (Si tuviéramos acseso a esos archivos clasificados, podríamos dilusidar el enigma histórico.) — Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam kaidah bahasa Spanyol baku, klausa 'si' hipotetis wajib memakai imperfecto de subjuntivo (-ra/-se).",
         "ruleList": [
-          "Si el gobierno aumentara el presupuesto en ciencia, el país retendría más talento joven. — Seandainya pemerintah meningkatkan anggaran sains, negara akan mampu mempertahankan lebih banyak talenta muda."
+          "Polanya: Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple",
+          "Contoh 2: Si el gobierno aumentara el presupuesto en ciencia, el país retendría más talento joven. (Si el gobierno aumentara el presupuesto en siensia, el país retendría más talento khoven.) — Seandainya pemerintah meningkatkan anggaran sains, negara akan mampu mempertahankan lebih banyak talenta muda."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Condicionales Improbables e Hipotéticas con Si\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Sería una gran oportunidad para la facultad si ese prestigioso catedrático aceptara la invitación. — Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut."
+          "Contoh 3: Sería una gran oportunidad para la facultad si ese prestigioso catedrático aceptara la invitación. (Sería una gran oportunidad para la facultad si ese prestikhioso catedrático aseptara la invitasión.) — Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut.",
+          "Hindari kesalahan: \"si tendría dinero (arcaísmo o dialectalismo no estándar)\" → gunakan bentuk yang benar: \"si tuviera dinero, viajaría\"."
         ]
       }
     ],
@@ -14744,19 +14840,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-32-ex-1",
         "native": "Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico.",
-        "phonetic": "",
+        "phonetic": "Si tuviéramos acseso a esos archivos clasificados, podríamos dilusidar el enigma histórico.",
         "translationId": "Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu."
       },
       {
         "id": "es-gram-32-ex-2",
         "native": "Si el gobierno aumentara el presupuesto en ciencia, el país retendría más talento joven.",
-        "phonetic": "",
+        "phonetic": "Si el gobierno aumentara el presupuesto en siensia, el país retendría más talento khoven.",
         "translationId": "Seandainya pemerintah meningkatkan anggaran sains, negara akan mampu mempertahankan lebih banyak talenta muda."
       },
       {
         "id": "es-gram-32-ex-3",
         "native": "Sería una gran oportunidad para la facultad si ese prestigioso catedrático aceptara la invitación.",
-        "phonetic": "",
+        "phonetic": "Sería una gran oportunidad para la facultad si ese prestikhioso catedrático aseptara la invitasión.",
         "translationId": "Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut."
       }
     ],
@@ -14772,7 +14868,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Condicionales Improbables e Hipotéticas con Si' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Condicionales Improbables e Hipotéticas con Si\" (Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-32-pg-1",
@@ -14788,7 +14884,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico.\" berarti \"Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu.\"."
+        "explanation": "Kalimat \"Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico.\" (dibaca: Si tuviéramos acseso a esos archivos clasificados, podríamos dilusidar el enigma histórico.) berarti \"Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu.\". Kalimat ini menggunakan pola \"Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple\" (Condicionales Improbables e Hipotéticas con Si) yang berfungsi untuk merumuskan pengandaian hipotetis yang berlawanan dengan fakta saat ini dalam wacana intelektual."
       },
       {
         "id": "q-es-gram-32-pg-2",
@@ -14804,7 +14900,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Si el gobierno aumentara el presupuesto en ciencia, el país retendría más talento joven.\" berarti \"Seandainya pemerintah meningkatkan anggaran sains, negara akan mampu mempertahankan lebih banyak talenta muda.\"."
+        "explanation": "Kalimat \"Si el gobierno aumentara el presupuesto en ciencia, el país retendría más talento joven.\" (dibaca: Si el gobierno aumentara el presupuesto en siensia, el país retendría más talento khoven.) berarti \"Seandainya pemerintah meningkatkan anggaran sains, negara akan mampu mempertahankan lebih banyak talenta muda.\". Kalimat ini menggunakan pola \"Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple\" (Condicionales Improbables e Hipotéticas con Si) yang berfungsi untuk merumuskan pengandaian hipotetis yang berlawanan dengan fakta saat ini dalam wacana intelektual."
       },
       {
         "id": "q-es-gram-32-pg-3",
@@ -14820,7 +14916,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Secara keseluruhan, penelitian ini membuktikan kelayakan usulan tersebut dalam konteks yang beragam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Sería una gran oportunidad para la facultad si ese prestigioso catedrático aceptara la invitación.\" berarti \"Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut.\"."
+        "explanation": "Kalimat \"Sería una gran oportunidad para la facultad si ese prestigioso catedrático aceptara la invitación.\" (dibaca: Sería una gran oportunidad para la facultad si ese prestikhioso catedrático aseptara la invitasión.) berarti \"Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut.\". Kalimat ini menggunakan pola \"Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple\" (Condicionales Improbables e Hipotéticas con Si) yang berfungsi untuk merumuskan pengandaian hipotetis yang berlawanan dengan fakta saat ini dalam wacana intelektual."
       },
       {
         "id": "q-es-gram-32-pg-4",
@@ -14840,7 +14936,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-32-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Condicionales Improbables e Hipotéticas con Si\"?",
         "options": [
           "Aunque los resultados sean desfavorables, continuaremos con la línea de investigación (hipotético). — Meskipun nantinya hasil pengujian kurang menguntungkan, kami akan tetap melanjutkan lini penelitian ini (hipotetis).",
           "En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones. — Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada.",
@@ -14854,7 +14950,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-32-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Condicionales Improbables e Hipotéticas con Si\"?",
         "options": [
           "Sería una gran oportunidad para la facultad si ese prestigioso catedrático aceptara la invitación. — Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut.",
           "Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real). — Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata).",
@@ -14868,7 +14964,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-32-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Condicionales Improbables e Hipotéticas con Si\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -15123,7 +15219,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico.\" berarti \"Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu.\"."
+        "explanation": "Kalimat \"Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico.\" (dibaca: Si tuviéramos acseso a esos archivos clasificados, podríamos dilusidar el enigma histórico.) berarti \"Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu.\". Kalimat ini menggunakan pola \"Si + Pretérito Imperfecto de Subjuntivo -> Condicional Simple\" (Condicionales Improbables e Hipotéticas con Si) yang berfungsi untuk merumuskan pengandaian hipotetis yang berlawanan dengan fakta saat ini dalam wacana intelektual."
       },
       {
         "id": "q-es-gram-32-bb-2",
@@ -15198,24 +15294,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis pengandaian kontrafaktual atas peristiwa sejarah riset yang tidak terwujud di masa lalu.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto\" (El tercer tipo de oraciones condicionales: el irreal del pasado y la retrospectiva crítica) berfungsi untuk: menganalisis pengandaian kontrafaktual atas peristiwa sejarah riset yang tidak terwujud di masa lalu. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes. — Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal."
+          "Rumus utama: Si + Hubiera/Hubiese + Participio -> Habría + Participio",
+          "Contoh 1: Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes. (Si los sientíficos hubieran dispuesto de mekhores instrumentos, habrían descubierto la anomalía antes.) — Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Si + Hubiera/Hubiese + Participio -> Habría + Participio memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Si + Hubiera/Hubiese + Participio -> Habría + Participio\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam pengandaian masa lalu yang tak terwujud, klausa 'si' wajib menggunakan pluscuamperfecto de subjuntivo (hubiera/hubiese).",
         "ruleList": [
-          "Habríamos asistido al coloquio internacional si hubiéramos recibido la notificación a tiempo. — Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu."
+          "Polanya: Si + Hubiera/Hubiese + Participio -> Habría + Participio",
+          "Contoh 2: Habríamos asistido al coloquio internacional si hubiéramos recibido la notificación a tiempo. (Habríamos asistido al colokio internasional si hubiéramos resibido la notificasión a tiempo.) — Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "El proyecto no habría fracasado si se hubieran implementado los controles adecuados. — Proyek tersebut tidak akan gagal seandainya pengawasan yang memadai telah diterapkan sejak awal."
+          "Contoh 3: El proyecto no habría fracasado si se hubieran implementado los controles adecuados. (El proyecto no habría fracasado si se hubieran implementado los controles adecuados.) — Proyek tersebut tidak akan gagal seandainya pengawasan yang memadai telah diterapkan sejak awal.",
+          "Hindari kesalahan: \"si habría sabido\" → gunakan bentuk yang benar: \"si hubiera sabido, habría actuado\"."
         ]
       }
     ],
@@ -15223,19 +15322,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-33-ex-1",
         "native": "Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes.",
-        "phonetic": "",
+        "phonetic": "Si los sientíficos hubieran dispuesto de mekhores instrumentos, habrían descubierto la anomalía antes.",
         "translationId": "Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal."
       },
       {
         "id": "es-gram-33-ex-2",
         "native": "Habríamos asistido al coloquio internacional si hubiéramos recibido la notificación a tiempo.",
-        "phonetic": "",
+        "phonetic": "Habríamos asistido al colokio internasional si hubiéramos resibido la notificasión a tiempo.",
         "translationId": "Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu."
       },
       {
         "id": "es-gram-33-ex-3",
         "native": "El proyecto no habría fracasado si se hubieran implementado los controles adecuados.",
-        "phonetic": "",
+        "phonetic": "El proyecto no habría fracasado si se hubieran implementado los controles adecuados.",
         "translationId": "Proyek tersebut tidak akan gagal seandainya pengawasan yang memadai telah diterapkan sejak awal."
       }
     ],
@@ -15251,7 +15350,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto\" (Si + Hubiera/Hubiese + Participio -> Habría + Participio) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-33-pg-1",
@@ -15267,7 +15366,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes.\" berarti \"Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal.\"."
+        "explanation": "Kalimat \"Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes.\" (dibaca: Si los sientíficos hubieran dispuesto de mekhores instrumentos, habrían descubierto la anomalía antes.) berarti \"Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal.\". Kalimat ini menggunakan pola \"Si + Hubiera/Hubiese + Participio -> Habría + Participio\" (Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-es-gram-33-pg-2",
@@ -15283,7 +15382,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Habríamos asistido al coloquio internacional si hubiéramos recibido la notificación a tiempo.\" berarti \"Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu.\"."
+        "explanation": "Kalimat \"Habríamos asistido al coloquio internacional si hubiéramos recibido la notificación a tiempo.\" (dibaca: Habríamos asistido al colokio internasional si hubiéramos resibido la notificasión a tiempo.) berarti \"Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu.\". Kalimat ini menggunakan pola \"Si + Hubiera/Hubiese + Participio -> Habría + Participio\" (Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-es-gram-33-pg-3",
@@ -15299,7 +15398,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El proyecto no habría fracasado si se hubieran implementado los controles adecuados.\" berarti \"Proyek tersebut tidak akan gagal seandainya pengawasan yang memadai telah diterapkan sejak awal.\"."
+        "explanation": "Kalimat \"El proyecto no habría fracasado si se hubieran implementado los controles adecuados.\" (dibaca: El proyecto no habría fracasado si se hubieran implementado los controles adecuados.) berarti \"Proyek tersebut tidak akan gagal seandainya pengawasan yang memadai telah diterapkan sejak awal.\". Kalimat ini menggunakan pola \"Si + Hubiera/Hubiese + Participio -> Habría + Participio\" (Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-es-gram-33-pg-4",
@@ -15319,7 +15418,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-33-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto\"?",
         "options": [
           "Habríamos asistido al coloquio internacional si hubiéramos recibido la notificación a tiempo. — Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu.",
           "Los datos empíricos contradicen la teoría clásica; por consiguiente, se impone un nuevo paradigma. — Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru.",
@@ -15333,7 +15432,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-33-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto\"?",
         "options": [
           "En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones. — Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada.",
           "El proyecto no habría fracasado si se hubieran implementado los controles adecuados. — Proyek tersebut tidak akan gagal seandainya pengawasan yang memadai telah diterapkan sejak awal.",
@@ -15347,7 +15446,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-33-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15604,7 +15703,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes.\" berarti \"Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal.\"."
+        "explanation": "Kalimat \"Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes.\" (dibaca: Si los sientíficos hubieran dispuesto de mekhores instrumentos, habrían descubierto la anomalía antes.) berarti \"Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal.\". Kalimat ini menggunakan pola \"Si + Hubiera/Hubiese + Participio -> Habría + Participio\" (Pretérito Pluscuamperfecto de Subjuntivo y Condicional Compuesto) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-es-gram-33-bb-2",
@@ -15679,24 +15778,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menggunakan pasif refleksif dengan partikel 'se' yang merupakan ciri khas gaya penulisan akademik Spanyol alami.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'La Voz Pasiva con Ser y la Pasiva Refleja con Se' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"La Voz Pasiva con Ser y la Pasiva Refleja con Se\" (El empleo estilístico de la pasiva analítica y la pasiva refleja en textos formales) berfungsi untuk: menggunakan pasif refleksif dengan partikel 'se' yang merupakan ciri khas gaya penulisan akademik Spanyol alami. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Se analizaron minuciosamente todas las variables socioeconómicas en el estudio. — Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut."
+          "Rumus utama: Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)",
+          "Contoh 1: Se analizaron minuciosamente todas las variables socioeconómicas en el estudio. (Se analizaron minusiosamente todas las variables sosioeconómicas en el estudio.) — Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa Spanyol ilmiah, konstruksi pasiva refleja (se + kata kerja) jauh lebih alami dan sering digunakan.",
         "ruleList": [
-          "La monografía fue redactada por un equipo multidisciplinar de investigadores de la UNAM. — Monograf tersebut telah disusun oleh sebuah tim peneliti multidisipliner dari UNAM."
+          "Polanya: Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)",
+          "Contoh 2: La monografía fue redactada por un equipo multidisciplinar de investigadores de la UNAM. (La monografía fue redactada por un ekipo multidissiplinar de investigadores de la unam.) — Monograf tersebut telah disusun oleh sebuah tim peneliti multidisipliner dari UNAM."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"La Voz Pasiva con Ser y la Pasiva Refleja con Se\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes. — Hasil-hasil uji klinis tersebut akan dipublikasikan di sebuah jurnal terindeks pada bulan depan."
+          "Contoh 3: Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes. (Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes.) — Hasil-hasil uji klinis tersebut akan dipublikasikan di sebuah jurnal terindeks pada bulan depan.",
+          "Hindari kesalahan: \"fueron analizados los datos por la computadora (estilo forzado)\" → gunakan bentuk yang benar: \"se analizaron los datos computacionalmente\"."
         ]
       }
     ],
@@ -15704,19 +15806,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-34-ex-1",
         "native": "Se analizaron minuciosamente todas las variables socioeconómicas en el estudio.",
-        "phonetic": "",
+        "phonetic": "Se analizaron minusiosamente todas las variables sosioeconómicas en el estudio.",
         "translationId": "Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut."
       },
       {
         "id": "es-gram-34-ex-2",
         "native": "La monografía fue redactada por un equipo multidisciplinar de investigadores de la UNAM.",
-        "phonetic": "",
+        "phonetic": "La monografía fue redactada por un ekipo multidissiplinar de investigadores de la unam.",
         "translationId": "Monograf tersebut telah disusun oleh sebuah tim peneliti multidisipliner dari UNAM."
       },
       {
         "id": "es-gram-34-ex-3",
         "native": "Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes.",
-        "phonetic": "",
+        "phonetic": "Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes.",
         "translationId": "Hasil-hasil uji klinis tersebut akan dipublikasikan di sebuah jurnal terindeks pada bulan depan."
       }
     ],
@@ -15732,7 +15834,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'La Voz Pasiva con Ser y la Pasiva Refleja con Se' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"La Voz Pasiva con Ser y la Pasiva Refleja con Se\" (Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-34-pg-1",
@@ -15748,7 +15850,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Se analizaron minuciosamente todas las variables socioeconómicas en el estudio.\" berarti \"Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut.\"."
+        "explanation": "Kalimat \"Se analizaron minuciosamente todas las variables socioeconómicas en el estudio.\" (dibaca: Se analizaron minusiosamente todas las variables sosioeconómicas en el estudio.) berarti \"Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut.\". Kalimat ini menggunakan pola \"Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)\" (La Voz Pasiva con Ser y la Pasiva Refleja con Se) yang berfungsi untuk menggunakan pasif refleksif dengan partikel 'se' yang merupakan ciri khas gaya penulisan akademik Spanyol alami."
       },
       {
         "id": "q-es-gram-34-pg-2",
@@ -15764,7 +15866,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La monografía fue redactada por un equipo multidisciplinar de investigadores de la UNAM.\" berarti \"Monograf tersebut telah disusun oleh sebuah tim peneliti multidisipliner dari UNAM.\"."
+        "explanation": "Kalimat \"La monografía fue redactada por un equipo multidisciplinar de investigadores de la UNAM.\" (dibaca: La monografía fue redactada por un ekipo multidissiplinar de investigadores de la unam.) berarti \"Monograf tersebut telah disusun oleh sebuah tim peneliti multidisipliner dari UNAM.\". Kalimat ini menggunakan pola \"Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)\" (La Voz Pasiva con Ser y la Pasiva Refleja con Se) yang berfungsi untuk menggunakan pasif refleksif dengan partikel 'se' yang merupakan ciri khas gaya penulisan akademik Spanyol alami."
       },
       {
         "id": "q-es-gram-34-pg-3",
@@ -15780,7 +15882,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Hasil-hasil uji klinis tersebut akan dipublikasikan di sebuah jurnal terindeks pada bulan depan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes.\" berarti \"Hasil-hasil uji klinis tersebut akan dipublikasikan di sebuah jurnal terindeks pada bulan depan.\"."
+        "explanation": "Kalimat \"Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes.\" (dibaca: Se publicarán los resultados del ensayo clínico en una revista indexada el próximo mes.) berarti \"Hasil-hasil uji klinis tersebut akan dipublikasikan di sebuah jurnal terindeks pada bulan depan.\". Kalimat ini menggunakan pola \"Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)\" (La Voz Pasiva con Ser y la Pasiva Refleja con Se) yang berfungsi untuk menggunakan pasif refleksif dengan partikel 'se' yang merupakan ciri khas gaya penulisan akademik Spanyol alami."
       },
       {
         "id": "q-es-gram-34-pg-4",
@@ -15800,7 +15902,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-34-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Voz Pasiva con Ser y la Pasiva Refleja con Se\"?",
         "options": [
           "Los autores dejaron de utilizar esa metodología experimental tras los primeros ensayos. — Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama.",
           "La monografía fue redactada por un equipo multidisciplinar de investigadores de la UNAM. — Monograf tersebut telah disusun oleh sebuah tim peneliti multidisipliner dari UNAM.",
@@ -15814,7 +15916,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-34-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Voz Pasiva con Ser y la Pasiva Refleja con Se\"?",
         "options": [
           "El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años. — Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun.",
           "Acabamos de recibir el dictamen favorable de los revisores externos de la revista. — Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut.",
@@ -15828,7 +15930,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-34-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Voz Pasiva con Ser y la Pasiva Refleja con Se\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -16083,7 +16185,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Se analizaron minuciosamente todas las variables socioeconómicas en el estudio.\" berarti \"Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut.\"."
+        "explanation": "Kalimat \"Se analizaron minuciosamente todas las variables socioeconómicas en el estudio.\" (dibaca: Se analizaron minusiosamente todas las variables sosioeconómicas en el estudio.) berarti \"Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut.\". Kalimat ini menggunakan pola \"Ser + Participio (+ por + Agente) vs Se + Verbo en 3ª persona (Singular/Plural)\" (La Voz Pasiva con Ser y la Pasiva Refleja con Se) yang berfungsi untuk menggunakan pasif refleksif dengan partikel 'se' yang merupakan ciri khas gaya penulisan akademik Spanyol alami."
       },
       {
         "id": "q-es-gram-34-bb-2",
@@ -16158,24 +16260,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah krusial klausa relatif: jika benda acuan bersifat definit/nyata gunakan indikatif, jika belum tentu ada/disangkal gunakan subjungtif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)\" (El modo en las oraciones de relativo según el grado de existencia o conocimiento del antecedente) berfungsi untuk: kaidah krusial klausa relatif: jika benda acuan bersifat definit/nyata gunakan indikatif, jika belum tentu ada/disangkal gunakan subjungtif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional. — Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi."
+          "Rumus utama: Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)",
+          "Contoh 1: Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional. (Buscamos un investigador postdoctoral ke tenga experiensia en bioinformática computasional.) — Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Jika acuan benda (antecedente) belum spesifik, masih dicari, atau disangkal, klausa relatif wajib memakai subjuntivo.",
         "ruleList": [
-          "Conozco a un profesor emérito que domina a la perfección el hebreo y el arameo. — Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna."
+          "Polanya: Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)",
+          "Contoh 2: Conozco a un profesor emérito que domina a la perfección el hebreo y el arameo. (Conozco a un profesor emérito ke domina a la perfecsión el hebreo y el arameo.) — Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "No hay ningún documento en el archivo que contradiga nuestra hipótesis principal. — Tidak ada satu dokumen pun di dalam arsip yang bertentangan dengan hipotesis utama kita."
+          "Contoh 3: No hay ningún documento en el archivo que contradiga nuestra hipótesis principal. (No hay ningún documento en el archivo ke contradiga nuestra hipótesis prinsipal.) — Tidak ada satu dokumen pun di dalam arsip yang bertentangan dengan hipotesis utama kita.",
+          "Hindari kesalahan: \"busco un asistente que tiene experiencia (si aún no se conoce quién es)\" → gunakan bentuk yang benar: \"busco un asistente que tenga experiencia\"."
         ]
       }
     ],
@@ -16183,19 +16288,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-35-ex-1",
         "native": "Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional.",
-        "phonetic": "",
+        "phonetic": "Buscamos un investigador postdoctoral ke tenga experiensia en bioinformática computasional.",
         "translationId": "Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi."
       },
       {
         "id": "es-gram-35-ex-2",
         "native": "Conozco a un profesor emérito que domina a la perfección el hebreo y el arameo.",
-        "phonetic": "",
+        "phonetic": "Conozco a un profesor emérito ke domina a la perfecsión el hebreo y el arameo.",
         "translationId": "Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna."
       },
       {
         "id": "es-gram-35-ex-3",
         "native": "No hay ningún documento en el archivo que contradiga nuestra hipótesis principal.",
-        "phonetic": "",
+        "phonetic": "No hay ningún documento en el archivo ke contradiga nuestra hipótesis prinsipal.",
         "translationId": "Tidak ada satu dokumen pun di dalam arsip yang bertentangan dengan hipotesis utama kita."
       }
     ],
@@ -16211,7 +16316,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)\" (Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-35-pg-1",
@@ -16227,7 +16332,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional.\" berarti \"Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi.\"."
+        "explanation": "Kalimat \"Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional.\" (dibaca: Buscamos un investigador postdoctoral ke tenga experiensia en bioinformática computasional.) berarti \"Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi.\". Kalimat ini menggunakan pola \"Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)\" (Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)) yang berfungsi untuk kaidah krusial klausa relatif: jika benda acuan bersifat definit/nyata gunakan indikatif, jika belum tentu ada/disangkal gunakan subjungtif."
       },
       {
         "id": "q-es-gram-35-pg-2",
@@ -16243,7 +16348,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Conozco a un profesor emérito que domina a la perfección el hebreo y el arameo.\" berarti \"Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna.\"."
+        "explanation": "Kalimat \"Conozco a un profesor emérito que domina a la perfección el hebreo y el arameo.\" (dibaca: Conozco a un profesor emérito ke domina a la perfecsión el hebreo y el arameo.) berarti \"Saya mengenal seorang profesor emeritus yang menguasai bahasa Ibrani dan Aram dengan sempurna.\". Kalimat ini menggunakan pola \"Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)\" (Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)) yang berfungsi untuk kaidah krusial klausa relatif: jika benda acuan bersifat definit/nyata gunakan indikatif, jika belum tentu ada/disangkal gunakan subjungtif."
       },
       {
         "id": "q-es-gram-35-pg-3",
@@ -16259,7 +16364,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya senantiasa siap sedia memberikan klarifikasi apa pun yang Anda pandang perlu terkait berkas akademik saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"No hay ningún documento en el archivo que contradiga nuestra hipótesis principal.\" berarti \"Tidak ada satu dokumen pun di dalam arsip yang bertentangan dengan hipotesis utama kita.\"."
+        "explanation": "Kalimat \"No hay ningún documento en el archivo que contradiga nuestra hipótesis principal.\" (dibaca: No hay ningún documento en el archivo ke contradiga nuestra hipótesis prinsipal.) berarti \"Tidak ada satu dokumen pun di dalam arsip yang bertentangan dengan hipotesis utama kita.\". Kalimat ini menggunakan pola \"Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)\" (Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)) yang berfungsi untuk kaidah krusial klausa relatif: jika benda acuan bersifat definit/nyata gunakan indikatif, jika belum tentu ada/disangkal gunakan subjungtif."
       },
       {
         "id": "q-es-gram-35-pg-4",
@@ -16279,7 +16384,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-35-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)\"?",
         "options": [
           "La decana anunció que la ceremonia de investidura se celebraría el próximo mes de mayo. — Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang.",
           "Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral. — Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda.",
@@ -16293,7 +16398,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-35-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)\"?",
         "options": [
           "El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa. — Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan.",
           "Los evaluadores indicaron que el marco teórico requería una fundamentación bibliográfica mayor. — Para penilai menunjukkan bahwa kerangka teoretis tersebut memerlukan landasan kepustakaan yang lebih luas.",
@@ -16307,7 +16412,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-35-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -16562,7 +16667,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional.\" berarti \"Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi.\"."
+        "explanation": "Kalimat \"Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional.\" (dibaca: Buscamos un investigador postdoctoral ke tenga experiensia en bioinformática computasional.) berarti \"Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi.\". Kalimat ini menggunakan pola \"Antecedente conocido (Indicativo) vs Antecedente desconocido / Negado (Subjuntivo)\" (Subjuntivo en Oraciones Relativas (Antecedente Específico vs Inespecífico)) yang berfungsi untuk kaidah krusial klausa relatif: jika benda acuan bersifat definit/nyata gunakan indikatif, jika belum tentu ada/disangkal gunakan subjungtif."
       },
       {
         "id": "q-es-gram-35-bb-2",
@@ -16637,24 +16742,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membedakan nuansa kata penghubung aunque: indikatif untuk mengakui fakta nyata, dan subjungtif untuk merelativisasi kendala.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)\" (La delimitación modal de la información conocida o hipotética en las concesivas) berfungsi untuk: membedakan nuansa kata penghubung aunque: indikatif untuk mengakui fakta nyata, dan subjungtif untuk merelativisasi kendala. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real). — Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata)."
+          "Rumus utama: Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)",
+          "Contoh 1: Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real). (Aunke la recopilasión de datos fue ardua, logramos completar el trabakho de campo (real).) — Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata)."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante) memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pemakaian subjuntivo setelah 'aunque' menandakan kemungkinan hipotetis atau rintangan yang dianggap tidak menghalangi.",
         "ruleList": [
-          "Aunque los resultados sean desfavorables, continuaremos con la línea de investigación (hipotético). — Meskipun nantinya hasil pengujian kurang menguntungkan, kami akan tetap melanjutkan lini penelitian ini (hipotetis)."
+          "Polanya: Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)",
+          "Contoh 2: Aunque los resultados sean desfavorables, continuaremos con la línea de investigación (hipotético). (Aunke los resultados sean desfavorables, continuaremos con la línea de investigasión (hipotético).) — Meskipun nantinya hasil pengujian kurang menguntungkan, kami akan tetap melanjutkan lini penelitian ini (hipotetis)."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Aunque llueva torrencialmente, la ceremonia de graduación tendrá lugar en el paraninfo. — Sekalipun hujan turun dengan lebat, upacara wisuda akan tetap berlangsung di aula utama."
+          "Contoh 3: Aunque llueva torrencialmente, la ceremonia de graduación tendrá lugar en el paraninfo. (Aunke yueva torrensialmente, la seremonia de graduasión tendrá lugar en el paraninfo.) — Sekalipun hujan turun dengan lebat, upacara wisuda akan tetap berlangsung di aula utama.",
+          "Hindari kesalahan: \"aunque es difícil (cuando se trata de una posibilidad hipotética)\" → gunakan bentuk yang benar: \"aunque sea difícil\"."
         ]
       }
     ],
@@ -16662,19 +16770,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-36-ex-1",
         "native": "Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real).",
-        "phonetic": "",
+        "phonetic": "Aunke la recopilasión de datos fue ardua, logramos completar el trabakho de campo (real).",
         "translationId": "Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata)."
       },
       {
         "id": "es-gram-36-ex-2",
         "native": "Aunque los resultados sean desfavorables, continuaremos con la línea de investigación (hipotético).",
-        "phonetic": "",
+        "phonetic": "Aunke los resultados sean desfavorables, continuaremos con la línea de investigasión (hipotético).",
         "translationId": "Meskipun nantinya hasil pengujian kurang menguntungkan, kami akan tetap melanjutkan lini penelitian ini (hipotetis)."
       },
       {
         "id": "es-gram-36-ex-3",
         "native": "Aunque llueva torrencialmente, la ceremonia de graduación tendrá lugar en el paraninfo.",
-        "phonetic": "",
+        "phonetic": "Aunke yueva torrensialmente, la seremonia de graduasión tendrá lugar en el paraninfo.",
         "translationId": "Sekalipun hujan turun dengan lebat, upacara wisuda akan tetap berlangsung di aula utama."
       }
     ],
@@ -16690,7 +16798,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)\" (Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-36-pg-1",
@@ -16706,7 +16814,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata)."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real).\" berarti \"Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata).\"."
+        "explanation": "Kalimat \"Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real).\" (dibaca: Aunke la recopilasión de datos fue ardua, logramos completar el trabakho de campo (real).) berarti \"Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata).\". Kalimat ini menggunakan pola \"Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)\" (Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)) yang berfungsi untuk membedakan nuansa kata penghubung aunque: indikatif untuk mengakui fakta nyata, dan subjungtif untuk merelativisasi kendala."
       },
       {
         "id": "q-es-gram-36-pg-2",
@@ -16722,7 +16830,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Aunque los resultados sean desfavorables, continuaremos con la línea de investigación (hipotético).\" berarti \"Meskipun nantinya hasil pengujian kurang menguntungkan, kami akan tetap melanjutkan lini penelitian ini (hipotetis).\"."
+        "explanation": "Kalimat \"Aunque los resultados sean desfavorables, continuaremos con la línea de investigación (hipotético).\" (dibaca: Aunke los resultados sean desfavorables, continuaremos con la línea de investigasión (hipotético).) berarti \"Meskipun nantinya hasil pengujian kurang menguntungkan, kami akan tetap melanjutkan lini penelitian ini (hipotetis).\". Kalimat ini menggunakan pola \"Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)\" (Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)) yang berfungsi untuk membedakan nuansa kata penghubung aunque: indikatif untuk mengakui fakta nyata, dan subjungtif untuk merelativisasi kendala."
       },
       {
         "id": "q-es-gram-36-pg-3",
@@ -16738,7 +16846,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dia meragukan bahwa hasil-hasil eksperimen tersebut memiliki validitas ilmiah yang diperlukan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Aunque llueva torrencialmente, la ceremonia de graduación tendrá lugar en el paraninfo.\" berarti \"Sekalipun hujan turun dengan lebat, upacara wisuda akan tetap berlangsung di aula utama.\"."
+        "explanation": "Kalimat \"Aunque llueva torrencialmente, la ceremonia de graduación tendrá lugar en el paraninfo.\" (dibaca: Aunke yueva torrensialmente, la seremonia de graduasión tendrá lugar en el paraninfo.) berarti \"Sekalipun hujan turun dengan lebat, upacara wisuda akan tetap berlangsung di aula utama.\". Kalimat ini menggunakan pola \"Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)\" (Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)) yang berfungsi untuk membedakan nuansa kata penghubung aunque: indikatif untuk mengakui fakta nyata, dan subjungtif untuk merelativisasi kendala."
       },
       {
         "id": "q-es-gram-36-pg-4",
@@ -16758,7 +16866,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-36-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)\"?",
         "options": [
           "Agradeciendo de antemano su atención a la presente solicitud, le saluda atentamente. — Seraya mengucapkan terima kasih sebelumnya atas perhatian Anda terhadap permohonan ini, hormat saya.",
           "El decano solicitó que los directores de departamento presentaran sus informes anuales. — Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka.",
@@ -16772,7 +16880,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-36-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)\"?",
         "options": [
           "Aunque llueva torrencialmente, la ceremonia de graduación tendrá lugar en el paraninfo. — Sekalipun hujan turun dengan lebat, upacara wisuda akan tetap berlangsung di aula utama.",
           "Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral. — Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda.",
@@ -16786,7 +16894,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-36-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -17041,7 +17149,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real).\" berarti \"Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata).\"."
+        "explanation": "Kalimat \"Aunque la recopilación de datos fue ardua, logramos completar el trabajo de campo (real).\" (dibaca: Aunke la recopilasión de datos fue ardua, logramos completar el trabakho de campo (real).) berarti \"Meskipun pengumpulan data tersebut sangat berat, kami berhasil menuntaskan kerja lapangan (fakta nyata).\". Kalimat ini menggunakan pola \"Aunque + Indicativo (Hecho real constatado) vs Aunque + Subjuntivo (Hecho incierto o no relevante)\" (Oraciones Concesivas con Aunque (Indicativo vs Subjuntivo)) yang berfungsi untuk membedakan nuansa kata penghubung aunque: indikatif untuk mengakui fakta nyata, dan subjungtif untuk merelativisasi kendala."
       },
       {
         "id": "q-es-gram-36-bb-2",
@@ -17116,24 +17224,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Conectores Argumentativos para el Ensayo y Discurso Formal' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Conectores Argumentativos para el Ensayo y Discurso Formal\" (Estructuración lógica del texto académico mediante marcadores del discurso) berfungsi untuk: menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones. — Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada."
+          "Rumus utama: En primer lugar / Por consiguiente / En cambio / No obstante / En suma",
+          "Contoh 1: En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones. (En primer lugar, delimitaremos el marco conseptual; no obstante, examinaremos las obkhesiones.) — Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur En primer lugar / Por consiguiente / En cambio / No obstante / En suma memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"En primer lugar / Por consiguiente / En cambio / No obstante / En suma\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Hindari pengulangan kata penghubung yang mubazir; gunakan penanda wacana formal seperti 'no obstante'.",
         "ruleList": [
-          "Los datos empíricos contradicen la teoría clásica; por consiguiente, se impone un nuevo paradigma. — Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru."
+          "Polanya: En primer lugar / Por consiguiente / En cambio / No obstante / En suma",
+          "Contoh 2: Los datos empíricos contradicen la teoría clásica; por consiguiente, se impone un nuevo paradigma. (Los datos empíricos contradisen la teoría clásica; por consiguiente, se impone un nuevo paradigma.) — Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Conectores Argumentativos para el Ensayo y Discurso Formal\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "En suma, la investigación demuestra la viabilidad de la propuesta en contextos heterogéneos. — Secara keseluruhan, penelitian ini membuktikan kelayakan usulan tersebut dalam konteks yang beragam."
+          "Contoh 3: En suma, la investigación demuestra la viabilidad de la propuesta en contextos heterogéneos. (En suma, la investigasión demuestra la viabilidad de la propuesta en contextos heterogéneos.) — Secara keseluruhan, penelitian ini membuktikan kelayakan usulan tersebut dalam konteks yang beragam.",
+          "Hindari kesalahan: \"pero sin embargo (pleonasmo redundante)\" → gunakan bentuk yang benar: \"sin embargo / no obstante\"."
         ]
       }
     ],
@@ -17141,19 +17252,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-37-ex-1",
         "native": "En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones.",
-        "phonetic": "",
+        "phonetic": "En primer lugar, delimitaremos el marco conseptual; no obstante, examinaremos las obkhesiones.",
         "translationId": "Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada."
       },
       {
         "id": "es-gram-37-ex-2",
         "native": "Los datos empíricos contradicen la teoría clásica; por consiguiente, se impone un nuevo paradigma.",
-        "phonetic": "",
+        "phonetic": "Los datos empíricos contradisen la teoría clásica; por consiguiente, se impone un nuevo paradigma.",
         "translationId": "Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru."
       },
       {
         "id": "es-gram-37-ex-3",
         "native": "En suma, la investigación demuestra la viabilidad de la propuesta en contextos heterogéneos.",
-        "phonetic": "",
+        "phonetic": "En suma, la investigasión demuestra la viabilidad de la propuesta en contextos heterogéneos.",
         "translationId": "Secara keseluruhan, penelitian ini membuktikan kelayakan usulan tersebut dalam konteks yang beragam."
       }
     ],
@@ -17169,7 +17280,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Conectores Argumentativos para el Ensayo y Discurso Formal' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Conectores Argumentativos para el Ensayo y Discurso Formal\" (En primer lugar / Por consiguiente / En cambio / No obstante / En suma) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-37-pg-1",
@@ -17185,7 +17296,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones.\" berarti \"Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada.\"."
+        "explanation": "Kalimat \"En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones.\" (dibaca: En primer lugar, delimitaremos el marco conseptual; no obstante, examinaremos las obkhesiones.) berarti \"Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada.\". Kalimat ini menggunakan pola \"En primer lugar / Por consiguiente / En cambio / No obstante / En suma\" (Conectores Argumentativos para el Ensayo y Discurso Formal) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-es-gram-37-pg-2",
@@ -17201,7 +17312,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Los datos empíricos contradicen la teoría clásica; por consiguiente, se impone un nuevo paradigma.\" berarti \"Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru.\"."
+        "explanation": "Kalimat \"Los datos empíricos contradicen la teoría clásica; por consiguiente, se impone un nuevo paradigma.\" (dibaca: Los datos empíricos contradisen la teoría clásica; por consiguiente, se impone un nuevo paradigma.) berarti \"Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru.\". Kalimat ini menggunakan pola \"En primer lugar / Por consiguiente / En cambio / No obstante / En suma\" (Conectores Argumentativos para el Ensayo y Discurso Formal) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-es-gram-37-pg-3",
@@ -17217,7 +17328,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"En suma, la investigación demuestra la viabilidad de la propuesta en contextos heterogéneos.\" berarti \"Secara keseluruhan, penelitian ini membuktikan kelayakan usulan tersebut dalam konteks yang beragam.\"."
+        "explanation": "Kalimat \"En suma, la investigación demuestra la viabilidad de la propuesta en contextos heterogéneos.\" (dibaca: En suma, la investigasión demuestra la viabilidad de la propuesta en contextos heterogéneos.) berarti \"Secara keseluruhan, penelitian ini membuktikan kelayakan usulan tersebut dalam konteks yang beragam.\". Kalimat ini menggunakan pola \"En primer lugar / Por consiguiente / En cambio / No obstante / En suma\" (Conectores Argumentativos para el Ensayo y Discurso Formal) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-es-gram-37-pg-4",
@@ -17237,7 +17348,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-37-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Conectores Argumentativos para el Ensayo y Discurso Formal\"?",
         "options": [
           "Los datos empíricos contradicen la teoría clásica; por consiguiente, se impone un nuevo paradigma. — Data-data empiris bertentangan dengan teori klasik; oleh karena itu, diperlukan sebuah paradigma baru.",
           "Si la institución contara con mayores fondos, podría contratar más investigadores. — Seandainya institusi memiliki dana yang lebih besar, institusi akan dapat merekrut lebih banyak peneliti.",
@@ -17251,7 +17362,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-37-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Conectores Argumentativos para el Ensayo y Discurso Formal\"?",
         "options": [
           "El decano solicitó que los directores de departamento presentaran sus informes anuales. — Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka.",
           "En suma, la investigación demuestra la viabilidad de la propuesta en contextos heterogéneos. — Secara keseluruhan, penelitian ini membuktikan kelayakan usulan tersebut dalam konteks yang beragam.",
@@ -17265,7 +17376,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-37-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Conectores Argumentativos para el Ensayo y Discurso Formal\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17520,7 +17631,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dekan meminta agar para kepala departemen menyerahkan laporan tahunan mereka."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones.\" berarti \"Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada.\"."
+        "explanation": "Kalimat \"En primer lugar, delimitaremos el marco conceptual; no obstante, examinaremos las objeciones.\" (dibaca: En primer lugar, delimitaremos el marco conseptual; no obstante, examinaremos las obkhesiones.) berarti \"Pertama-tama, kita akan membatasi kerangka konseptual; namun demikian, kita akan menelaah pula keberatan-keberatan yang ada.\". Kalimat ini menggunakan pola \"En primer lugar / Por consiguiente / En cambio / No obstante / En suma\" (Conectores Argumentativos para el Ensayo y Discurso Formal) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-es-gram-37-bb-2",
@@ -17595,24 +17706,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan durasi akumulatif (llevar investigando diez años), penghentian aksi, atau kebiasaan akademik teratur.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)\" (Matices aspectuales de duración, reiteración y fase en las perífrasis verbales) berfungsi untuk: menyatakan durasi akumulatif (llevar investigando diez años), penghentian aksi, atau kebiasaan akademik teratur. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años. — Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun."
+          "Rumus utama: Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo",
+          "Contoh 1: El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años. (El ekipo interdissiplinar yeva investigando este fenómeno epikhenético más de sinco anyos.) — Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk menyatakan durasi tindakan yang dimulai di masa lalu dan masih berlanjut hingga kini, gunakan 'llevar + gerundio'.",
         "ruleList": [
-          "Los autores dejaron de utilizar esa metodología experimental tras los primeros ensayos. — Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama."
+          "Polanya: Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo",
+          "Contoh 2: Los autores dejaron de utilizar esa metodología experimental tras los primeros ensayos. (Los autores dekharon de utilizar esa metodología experimental tras los primeros ensayos.) — Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Acabamos de recibir el dictamen favorable de los revisores externos de la revista. — Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut."
+          "Contoh 3: Acabamos de recibir el dictamen favorable de los revisores externos de la revista. (Acabamos de resibir el dictamen favorable de los revisores externos de la revista.) — Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut.",
+          "Hindari kesalahan: \"estoy investigando por cinco años\" → gunakan bentuk yang benar: \"llevo investigando cinco años\"."
         ]
       }
     ],
@@ -17620,19 +17734,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-38-ex-1",
         "native": "El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años.",
-        "phonetic": "",
+        "phonetic": "El ekipo interdissiplinar yeva investigando este fenómeno epikhenético más de sinco anyos.",
         "translationId": "Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun."
       },
       {
         "id": "es-gram-38-ex-2",
         "native": "Los autores dejaron de utilizar esa metodología experimental tras los primeros ensayos.",
-        "phonetic": "",
+        "phonetic": "Los autores dekharon de utilizar esa metodología experimental tras los primeros ensayos.",
         "translationId": "Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama."
       },
       {
         "id": "es-gram-38-ex-3",
         "native": "Acabamos de recibir el dictamen favorable de los revisores externos de la revista.",
-        "phonetic": "",
+        "phonetic": "Acabamos de resibir el dictamen favorable de los revisores externos de la revista.",
         "translationId": "Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut."
       }
     ],
@@ -17648,7 +17762,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)\" (Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-38-pg-1",
@@ -17664,7 +17778,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya pemerintah meningkatkan anggaran sains, negara akan mampu mempertahankan lebih banyak talenta muda."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años.\" berarti \"Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun.\"."
+        "explanation": "Kalimat \"El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años.\" (dibaca: El ekipo interdissiplinar yeva investigando este fenómeno epikhenético más de sinco anyos.) berarti \"Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun.\". Kalimat ini menggunakan pola \"Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo\" (Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)) yang berfungsi untuk menyatakan durasi akumulatif (llevar investigando diez años), penghentian aksi, atau kebiasaan akademik teratur."
       },
       {
         "id": "q-es-gram-38-pg-2",
@@ -17680,7 +17794,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Los autores dejaron de utilizar esa metodología experimental tras los primeros ensayos.\" berarti \"Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama.\"."
+        "explanation": "Kalimat \"Los autores dejaron de utilizar esa metodología experimental tras los primeros ensayos.\" (dibaca: Los autores dekharon de utilizar esa metodología experimental tras los primeros ensayos.) berarti \"Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama.\". Kalimat ini menggunakan pola \"Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo\" (Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)) yang berfungsi untuk menyatakan durasi akumulatif (llevar investigando diez años), penghentian aksi, atau kebiasaan akademik teratur."
       },
       {
         "id": "q-es-gram-38-pg-3",
@@ -17696,7 +17810,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Acabamos de recibir el dictamen favorable de los revisores externos de la revista.\" berarti \"Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut.\"."
+        "explanation": "Kalimat \"Acabamos de recibir el dictamen favorable de los revisores externos de la revista.\" (dibaca: Acabamos de resibir el dictamen favorable de los revisores externos de la revista.) berarti \"Kami baru saja menerima keputusan penilaian positif dari para penelaah sejawat eksternal jurnal tersebut.\". Kalimat ini menggunakan pola \"Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo\" (Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)) yang berfungsi untuk menyatakan durasi akumulatif (llevar investigando diez años), penghentian aksi, atau kebiasaan akademik teratur."
       },
       {
         "id": "q-es-gram-38-pg-4",
@@ -17716,7 +17830,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-38-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)\"?",
         "options": [
           "Si el gobierno aumentara el presupuesto en ciencia, el país retendría más talento joven. — Seandainya pemerintah meningkatkan anggaran sains, negara akan mampu mempertahankan lebih banyak talenta muda.",
           "Los autores dejaron de utilizar esa metodología experimental tras los primeros ensayos. — Para penulis berhenti menggunakan metodologi eksperimental tersebut setelah uji coba tahap pertama.",
@@ -17730,7 +17844,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-38-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)\"?",
         "options": [
           "Si tuviéramos acceso a esos archivos clasificados, podríamos dilucidar el enigma histórico. — Seandainya kita memiliki akses ke arsip-arsip rahasia tersebut, kita akan dapat memecahkan teka-teki sejarah itu.",
           "Sería una gran oportunidad para la facultad si ese prestigioso catedrático aceptara la invitación. — Akan menjadi peluang besar bagi fakultas seandainya guru besar ternama itu menerima undangan tersebut.",
@@ -17744,7 +17858,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-38-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -18001,7 +18115,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años.\" berarti \"Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun.\"."
+        "explanation": "Kalimat \"El equipo interdisciplinar lleva investigando este fenómeno epigenético más de cinco años.\" (dibaca: El ekipo interdissiplinar yeva investigando este fenómeno epikhenético más de sinco anyos.) berarti \"Tim lintas disiplin ilmu tersebut telah meneliti fenomena epigenetik ini selama lebih dari lima tahun.\". Kalimat ini menggunakan pola \"Llevar + Gerundio / Dejar de + Infinitivo / Soler + Infinitivo / Acabar de + Infinitivo\" (Perífrasis Verbales Modales y Aspectuales (Llevar + Gerundio)) yang berfungsi untuk menyatakan durasi akumulatif (llevar investigando diez años), penghentian aksi, atau kebiasaan akademik teratur."
       },
       {
         "id": "q-es-gram-38-bb-2",
@@ -18076,24 +18190,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau yang ketat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Estilo Indirecto en el Pasado y Correlación de Tiempos' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Estilo Indirecto en el Pasado y Correlación de Tiempos\" (La transposición de tiempos verbales, pronombres y deícticos en el relato indirecto) berfungsi untuk: melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau yang ketat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa. — Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan."
+          "Rumus utama: Dijo que + Imperfecto / Pluscuamperfecto / Condicional",
+          "Contoh 1: El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa. (El conferensiante afirmó ke su ekipo había descubierto una correlasión estadística significativa.) — Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Dijo que + Imperfecto / Pluscuamperfecto / Condicional memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Dijo que + Imperfecto / Pluscuamperfecto / Condicional\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah kata kerja pelaporan berbentuk lampau, futuro simple bergeser menjadi condicional dan 'mañana' menjadi 'al día siguiente'.",
         "ruleList": [
-          "La decana anunció que la ceremonia de investidura se celebraría el próximo mes de mayo. — Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang."
+          "Polanya: Dijo que + Imperfecto / Pluscuamperfecto / Condicional",
+          "Contoh 2: La decana anunció que la ceremonia de investidura se celebraría el próximo mes de mayo. (La decana anunsió ke la seremonia de investidura se selebraría el próximo mes de mayo.) — Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Estilo Indirecto en el Pasado y Correlación de Tiempos\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Los evaluadores indicaron que el marco teórico requería una fundamentación bibliográfica mayor. — Para penilai menunjukkan bahwa kerangka teoretis tersebut memerlukan landasan kepustakaan yang lebih luas."
+          "Contoh 3: Los evaluadores indicaron que el marco teórico requería una fundamentación bibliográfica mayor. (Los evaluadores indicaron ke el marco teórico rekería una fundamentasión bibliográfica mayor.) — Para penilai menunjukkan bahwa kerangka teoretis tersebut memerlukan landasan kepustakaan yang lebih luas.",
+          "Hindari kesalahan: \"él dijo que él vendrá mañana\" → gunakan bentuk yang benar: \"él dijo que vendría al día siguiente\"."
         ]
       }
     ],
@@ -18101,19 +18218,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-39-ex-1",
         "native": "El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa.",
-        "phonetic": "",
+        "phonetic": "El conferensiante afirmó ke su ekipo había descubierto una correlasión estadística significativa.",
         "translationId": "Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan."
       },
       {
         "id": "es-gram-39-ex-2",
         "native": "La decana anunció que la ceremonia de investidura se celebraría el próximo mes de mayo.",
-        "phonetic": "",
+        "phonetic": "La decana anunsió ke la seremonia de investidura se selebraría el próximo mes de mayo.",
         "translationId": "Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang."
       },
       {
         "id": "es-gram-39-ex-3",
         "native": "Los evaluadores indicaron que el marco teórico requería una fundamentación bibliográfica mayor.",
-        "phonetic": "",
+        "phonetic": "Los evaluadores indicaron ke el marco teórico rekería una fundamentasión bibliográfica mayor.",
         "translationId": "Para penilai menunjukkan bahwa kerangka teoretis tersebut memerlukan landasan kepustakaan yang lebih luas."
       }
     ],
@@ -18129,7 +18246,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Estilo Indirecto en el Pasado y Correlación de Tiempos' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Estilo Indirecto en el Pasado y Correlación de Tiempos\" (Dijo que + Imperfecto / Pluscuamperfecto / Condicional) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-39-pg-1",
@@ -18145,7 +18262,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa.\" berarti \"Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan.\"."
+        "explanation": "Kalimat \"El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa.\" (dibaca: El conferensiante afirmó ke su ekipo había descubierto una correlasión estadística significativa.) berarti \"Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan.\". Kalimat ini menggunakan pola \"Dijo que + Imperfecto / Pluscuamperfecto / Condicional\" (Estilo Indirecto en el Pasado y Correlación de Tiempos) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau yang ketat."
       },
       {
         "id": "q-es-gram-39-pg-2",
@@ -18161,7 +18278,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"La decana anunció que la ceremonia de investidura se celebraría el próximo mes de mayo.\" berarti \"Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang.\"."
+        "explanation": "Kalimat \"La decana anunció que la ceremonia de investidura se celebraría el próximo mes de mayo.\" (dibaca: La decana anunsió ke la seremonia de investidura se selebraría el próximo mes de mayo.) berarti \"Ibu Dekan mengumumkan bahwa upacara pengukuhan akan diselenggarakan pada bulan Mei mendatang.\". Kalimat ini menggunakan pola \"Dijo que + Imperfecto / Pluscuamperfecto / Condicional\" (Estilo Indirecto en el Pasado y Correlación de Tiempos) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau yang ketat."
       },
       {
         "id": "q-es-gram-39-pg-3",
@@ -18177,7 +18294,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Hasil-hasil uji klinis tersebut akan dipublikasikan di sebuah jurnal terindeks pada bulan depan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Los evaluadores indicaron que el marco teórico requería una fundamentación bibliográfica mayor.\" berarti \"Para penilai menunjukkan bahwa kerangka teoretis tersebut memerlukan landasan kepustakaan yang lebih luas.\"."
+        "explanation": "Kalimat \"Los evaluadores indicaron que el marco teórico requería una fundamentación bibliográfica mayor.\" (dibaca: Los evaluadores indicaron ke el marco teórico rekería una fundamentasión bibliográfica mayor.) berarti \"Para penilai menunjukkan bahwa kerangka teoretis tersebut memerlukan landasan kepustakaan yang lebih luas.\". Kalimat ini menggunakan pola \"Dijo que + Imperfecto / Pluscuamperfecto / Condicional\" (Estilo Indirecto en el Pasado y Correlación de Tiempos) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau yang ketat."
       },
       {
         "id": "q-es-gram-39-pg-4",
@@ -18197,7 +18314,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-39-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Estilo Indirecto en el Pasado y Correlación de Tiempos\"?",
         "options": [
           "Habríamos asistido al coloquio internacional si hubiéramos recibido la notificación a tiempo. — Kami pasti telah menghadiri kolokium internasional tersebut seandainya kami menerima pemberitahuan tepat waktu.",
           "Se analizaron minuciosamente todas las variables socioeconómicas en el estudio. — Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut.",
@@ -18211,7 +18328,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-39-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Estilo Indirecto en el Pasado y Correlación de Tiempos\"?",
         "options": [
           "Si los científicos hubieran dispuesto de mejores instrumentos, habrían descubierto la anomalía antes. — Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal.",
           "El proyecto no habría fracasado si se hubieran implementado los controles adecuados. — Proyek tersebut tidak akan gagal seandainya pengawasan yang memadai telah diterapkan sejak awal.",
@@ -18225,7 +18342,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-39-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Estilo Indirecto en el Pasado y Correlación de Tiempos\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -18482,7 +18599,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya para ilmuwan dahulu memiliki instrumen yang lebih baik, mereka pasti telah menemukan anomali tersebut lebih awal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa.\" berarti \"Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan.\"."
+        "explanation": "Kalimat \"El conferenciante afirmó que su equipo había descubierto una correlación estadística significativa.\" (dibaca: El conferensiante afirmó ke su ekipo había descubierto una correlasión estadística significativa.) berarti \"Penceramah tersebut menegaskan bahwa timnya telah menemukan korelasi statistik yang signifikan.\". Kalimat ini menggunakan pola \"Dijo que + Imperfecto / Pluscuamperfecto / Condicional\" (Estilo Indirecto en el Pasado y Correlación de Tiempos) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau yang ketat."
       },
       {
         "id": "q-es-gram-39-bb-2",
@@ -18557,24 +18674,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Etiket surat dinas resmi kepada rektorat, dekanat, dan komite beasiswa di universitas Spanyol dan Amerika Latin.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Registro Formal, Fórmulas de Cortesía y Epistolares' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Registro Formal, Fórmulas de Cortesía y Epistolares\" (El protocolo de la correspondencia universitaria y administrativa en el mundo hispánico) berfungsi untuk: etiket surat dinas resmi kepada rektorat, dekanat, dan komite beasiswa di universitas Spanyol dan Amerika Latin. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral. — Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda."
+          "Rumus utama: Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición",
+          "Contoh 1: Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral. (Estimada profesora martínez: me dirikho a usted con el propósito de solisitar su asesoría doctoral.) — Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam korespondensi resmi universitas Hispanik, gunakan sapaan protokol formal dan tanda titik dua (:).",
         "ruleList": [
-          "Agradeciendo de antemano su atención a la presente solicitud, le saluda atentamente. — Seraya mengucapkan terima kasih sebelumnya atas perhatian Anda terhadap permohonan ini, hormat saya."
+          "Polanya: Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición",
+          "Contoh 2: Agradeciendo de antemano su atención a la presente solicitud, le saluda atentamente. (Agradesiendo de antemano su atensión a la presente solisitud, le saluda atentamente.) — Seraya mengucapkan terima kasih sebelumnya atas perhatian Anda terhadap permohonan ini, hormat saya."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Registro Formal, Fórmulas de Cortesía y Epistolares\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Quedo a su entera disposición para cualquier aclaración que considere pertinente sobre mi expediente. — Saya senantiasa siap sedia memberikan klarifikasi apa pun yang Anda pandang perlu terkait berkas akademik saya."
+          "Contoh 3: Quedo a su entera disposición para cualquier aclaración que considere pertinente sobre mi expediente. (Kedo a su entera disposisión para cualkier aclarasión ke considere pertinente sobre mi expediente.) — Saya senantiasa siap sedia memberikan klarifikasi apa pun yang Anda pandang perlu terkait berkas akademik saya.",
+          "Hindari kesalahan: \"hola profe (en un correo formal institucional)\" → gunakan bentuk yang benar: \"Distinguido/a profesor/a / Estimado/a profesor/a\"."
         ]
       }
     ],
@@ -18582,19 +18702,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-40-ex-1",
         "native": "Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral.",
-        "phonetic": "",
+        "phonetic": "Estimada profesora martínez: me dirikho a usted con el propósito de solisitar su asesoría doctoral.",
         "translationId": "Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda."
       },
       {
         "id": "es-gram-40-ex-2",
         "native": "Agradeciendo de antemano su atención a la presente solicitud, le saluda atentamente.",
-        "phonetic": "",
+        "phonetic": "Agradesiendo de antemano su atensión a la presente solisitud, le saluda atentamente.",
         "translationId": "Seraya mengucapkan terima kasih sebelumnya atas perhatian Anda terhadap permohonan ini, hormat saya."
       },
       {
         "id": "es-gram-40-ex-3",
         "native": "Quedo a su entera disposición para cualquier aclaración que considere pertinente sobre mi expediente.",
-        "phonetic": "",
+        "phonetic": "Kedo a su entera disposisión para cualkier aclarasión ke considere pertinente sobre mi expediente.",
         "translationId": "Saya senantiasa siap sedia memberikan klarifikasi apa pun yang Anda pandang perlu terkait berkas akademik saya."
       }
     ],
@@ -18610,7 +18730,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Registro Formal, Fórmulas de Cortesía y Epistolares' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Registro Formal, Fórmulas de Cortesía y Epistolares\" (Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-40-pg-1",
@@ -18626,7 +18746,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral.\" berarti \"Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda.\"."
+        "explanation": "Kalimat \"Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral.\" (dibaca: Estimada profesora martínez: me dirikho a usted con el propósito de solisitar su asesoría doctoral.) berarti \"Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda.\". Kalimat ini menggunakan pola \"Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición\" (Registro Formal, Fórmulas de Cortesía y Epistolares) yang berfungsi untuk etiket surat dinas resmi kepada rektorat, dekanat, dan komite beasiswa di universitas Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-40-pg-2",
@@ -18642,7 +18762,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Agradeciendo de antemano su atención a la presente solicitud, le saluda atentamente.\" berarti \"Seraya mengucapkan terima kasih sebelumnya atas perhatian Anda terhadap permohonan ini, hormat saya.\"."
+        "explanation": "Kalimat \"Agradeciendo de antemano su atención a la presente solicitud, le saluda atentamente.\" (dibaca: Agradesiendo de antemano su atensión a la presente solisitud, le saluda atentamente.) berarti \"Seraya mengucapkan terima kasih sebelumnya atas perhatian Anda terhadap permohonan ini, hormat saya.\". Kalimat ini menggunakan pola \"Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición\" (Registro Formal, Fórmulas de Cortesía y Epistolares) yang berfungsi untuk etiket surat dinas resmi kepada rektorat, dekanat, dan komite beasiswa di universitas Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-40-pg-3",
@@ -18658,7 +18778,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Tidak ada satu dokumen pun di dalam arsip yang bertentangan dengan hipotesis utama kita."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Quedo a su entera disposición para cualquier aclaración que considere pertinente sobre mi expediente.\" berarti \"Saya senantiasa siap sedia memberikan klarifikasi apa pun yang Anda pandang perlu terkait berkas akademik saya.\"."
+        "explanation": "Kalimat \"Quedo a su entera disposición para cualquier aclaración que considere pertinente sobre mi expediente.\" (dibaca: Kedo a su entera disposisión para cualkier aclarasión ke considere pertinente sobre mi expediente.) berarti \"Saya senantiasa siap sedia memberikan klarifikasi apa pun yang Anda pandang perlu terkait berkas akademik saya.\". Kalimat ini menggunakan pola \"Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición\" (Registro Formal, Fórmulas de Cortesía y Epistolares) yang berfungsi untuk etiket surat dinas resmi kepada rektorat, dekanat, dan komite beasiswa di universitas Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-40-pg-4",
@@ -18678,7 +18798,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-40-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Registro Formal, Fórmulas de Cortesía y Epistolares\"?",
         "options": [
           "La monografía fue redactada por un equipo multidisciplinar de investigadores de la UNAM. — Monograf tersebut telah disusun oleh sebuah tim peneliti multidisipliner dari UNAM.",
           "Buscamos un investigador postdoctoral que tenga experiencia en bioinformática computacional. — Kami sedang mencari seorang peneliti pascadoktoral yang memiliki pengalaman di bidang bioinformatika komputasi.",
@@ -18692,7 +18812,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-40-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Registro Formal, Fórmulas de Cortesía y Epistolares\"?",
         "options": [
           "Quedo a su entera disposición para cualquier aclaración que considere pertinente sobre mi expediente. — Saya senantiasa siap sedia memberikan klarifikasi apa pun yang Anda pandang perlu terkait berkas akademik saya.",
           "Se analizaron minuciosamente todas las variables socioeconómicas en el estudio. — Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut.",
@@ -18706,7 +18826,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-40-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Registro Formal, Fórmulas de Cortesía y Epistolares\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -18961,7 +19081,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Seluruh variabel sosial-ekonomi telah dianalisis secara cermat di dalam studi tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral.\" berarti \"Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda.\"."
+        "explanation": "Kalimat \"Estimada profesora Martínez: Me dirijo a usted con el propósito de solicitar su asesoría doctoral.\" (dibaca: Estimada profesora martínez: me dirikho a usted con el propósito de solisitar su asesoría doctoral.) berarti \"Yang terhormat Profesor Martínez: Saya menulis surat ini kepada Anda dengan tujuan memohon bimbingan doktoral Anda.\". Kalimat ini menggunakan pola \"Estimado/a Señor/a / Distinguido/a Catedrático/a / Le saluda atentamente / Quedo a su disposición\" (Registro Formal, Fórmulas de Cortesía y Epistolares) yang berfungsi untuk etiket surat dinas resmi kepada rektorat, dekanat, dan komite beasiswa di universitas Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-40-bb-2",
@@ -19036,24 +19156,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menerapkan inversi sintaksis tinggi dan struktur pemfokusan untuk memberikan penekanan retorika pada naskah ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Inversión Sintáctica y Énfasis en el Discurso Académico' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Inversión Sintáctica y Énfasis en el Discurso Académico\" (La focalización mediante la anteposición de complementos y la inversión sujeto-verbo) berfungsi untuk: menerapkan inversi sintaksis tinggi dan struktur pemfokusan untuk memberikan penekanan retorika pada naskah ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta. — Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita."
+          "Rumus utama: Estructuras escindidas: Es precisamente... lo que / Bien sabido es que",
+          "Contoh 1: Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta. (Es presisamente esta diverkhensia interpretativa lo ke confiere orikhinalidad a nuestra propuesta.) — Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Estructuras escindidas: Es precisamente... lo que / Bien sabido es que memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Estructuras escindidas: Es precisamente... lo que / Bien sabido es que\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Struktur pemfokusan (estructuras escindidas) menonjolkan gagasan utama secara elegan dalam wacana ilmiah.",
         "ruleList": [
-          "Bien sabido es por la comunidad científica que la correlación no implica causalidad. — Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas."
+          "Polanya: Estructuras escindidas: Es precisamente... lo que / Bien sabido es que",
+          "Contoh 2: Bien sabido es por la comunidad científica que la correlación no implica causalidad. (Bien sabido es por la comunidad sientífica ke la correlasión no implica causalidad.) — Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Inversión Sintáctica y Énfasis en el Discurso Académico\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De sumo interés para la historiografía contemporánea resultan los testimonios aquí reunidos. — Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini."
+          "Contoh 3: De sumo interés para la historiografía contemporánea resultan los testimonios aquí reunidos. (De sumo interés para la historiografía contemporánea resultan los testimonios akí reunidos.) — Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini.",
+          "Hindari kesalahan: \"esta divergencia es lo que confiere originalidad (más simple)\" → gunakan bentuk yang benar: \"es precisamente esta divergencia lo que confiere originalidad\"."
         ]
       }
     ],
@@ -19061,19 +19184,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-41-ex-1",
         "native": "Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta.",
-        "phonetic": "",
+        "phonetic": "Es presisamente esta diverkhensia interpretativa lo ke confiere orikhinalidad a nuestra propuesta.",
         "translationId": "Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita."
       },
       {
         "id": "es-gram-41-ex-2",
         "native": "Bien sabido es por la comunidad científica que la correlación no implica causalidad.",
-        "phonetic": "",
+        "phonetic": "Bien sabido es por la comunidad sientífica ke la correlasión no implica causalidad.",
         "translationId": "Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas."
       },
       {
         "id": "es-gram-41-ex-3",
         "native": "De sumo interés para la historiografía contemporánea resultan los testimonios aquí reunidos.",
-        "phonetic": "",
+        "phonetic": "De sumo interés para la historiografía contemporánea resultan los testimonios akí reunidos.",
         "translationId": "Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini."
       }
     ],
@@ -19089,7 +19212,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Inversión Sintáctica y Énfasis en el Discurso Académico' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Inversión Sintáctica y Énfasis en el Discurso Académico\" (Estructuras escindidas: Es precisamente... lo que / Bien sabido es que) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-41-pg-1",
@@ -19105,7 +19228,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta.\" berarti \"Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita.\"."
+        "explanation": "Kalimat \"Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta.\" (dibaca: Es presisamente esta diverkhensia interpretativa lo ke confiere orikhinalidad a nuestra propuesta.) berarti \"Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita.\". Kalimat ini menggunakan pola \"Estructuras escindidas: Es precisamente... lo que / Bien sabido es que\" (Inversión Sintáctica y Énfasis en el Discurso Académico) yang berfungsi untuk menerapkan inversi sintaksis tinggi dan struktur pemfokusan untuk memberikan penekanan retorika pada naskah ilmiah."
       },
       {
         "id": "q-es-gram-41-pg-2",
@@ -19121,7 +19244,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Bien sabido es por la comunidad científica que la correlación no implica causalidad.\" berarti \"Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas.\"."
+        "explanation": "Kalimat \"Bien sabido es por la comunidad científica que la correlación no implica causalidad.\" (dibaca: Bien sabido es por la comunidad sientífica ke la correlasión no implica causalidad.) berarti \"Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas.\". Kalimat ini menggunakan pola \"Estructuras escindidas: Es precisamente... lo que / Bien sabido es que\" (Inversión Sintáctica y Énfasis en el Discurso Académico) yang berfungsi untuk menerapkan inversi sintaksis tinggi dan struktur pemfokusan untuk memberikan penekanan retorika pada naskah ilmiah."
       },
       {
         "id": "q-es-gram-41-pg-3",
@@ -19137,7 +19260,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Bagian kesimpulan merangkum kontribusi-kontribusi orisinal serta memetakan arah pencarian ilmiah di masa depan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De sumo interés para la historiografía contemporánea resultan los testimonios aquí reunidos.\" berarti \"Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini.\"."
+        "explanation": "Kalimat \"De sumo interés para la historiografía contemporánea resultan los testimonios aquí reunidos.\" (dibaca: De sumo interés para la historiografía contemporánea resultan los testimonios akí reunidos.) berarti \"Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini.\". Kalimat ini menggunakan pola \"Estructuras escindidas: Es precisamente... lo que / Bien sabido es que\" (Inversión Sintáctica y Énfasis en el Discurso Académico) yang berfungsi untuk menerapkan inversi sintaksis tinggi dan struktur pemfokusan untuk memberikan penekanan retorika pada naskah ilmiah."
       },
       {
         "id": "q-es-gram-41-pg-4",
@@ -19157,7 +19280,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-41-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Inversión Sintáctica y Énfasis en el Discurso Académico\"?",
         "options": [
           "Bien sabido es por la comunidad científica que la correlación no implica causalidad. — Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas.",
           "El tratado de paz sentó las bases de un nuevo equilibrio geopolítico en el Mediterráneo occidental. — Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat.",
@@ -19171,7 +19294,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-41-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Inversión Sintáctica y Énfasis en el Discurso Académico\"?",
         "options": [
           "Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado. — Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi.",
           "De sumo interés para la historiografía contemporánea resultan los testimonios aquí reunidos. — Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini.",
@@ -19185,7 +19308,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-41-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Inversión Sintáctica y Énfasis en el Discurso Académico\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19442,7 +19565,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta.\" berarti \"Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita.\"."
+        "explanation": "Kalimat \"Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta.\" (dibaca: Es presisamente esta diverkhensia interpretativa lo ke confiere orikhinalidad a nuestra propuesta.) berarti \"Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita.\". Kalimat ini menggunakan pola \"Estructuras escindidas: Es precisamente... lo que / Bien sabido es que\" (Inversión Sintáctica y Énfasis en el Discurso Académico) yang berfungsi untuk menerapkan inversi sintaksis tinggi dan struktur pemfokusan untuk memberikan penekanan retorika pada naskah ilmiah."
       },
       {
         "id": "q-es-gram-41-bb-2",
@@ -19517,24 +19640,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Teknik orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri tanpa konfrontasi agresif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Marcadores del Discurso para la Matización y Refutación' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Marcadores del Discurso para la Matización y Refutación\" (Estrategias de atenuación, distanciamiento y refutación dialéctica) berfungsi untuk: teknik orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri tanpa konfrontasi agresif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado. — Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi."
+          "Rumus utama: Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar",
+          "Contoh 1: Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado. (Si bien es sierto ke el modelo presenta limitasiones, no es menos sierto ke su valor predictivo es elevado.) — Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sanggahan akademik yang berwibawa disusun melalui konsesi berimbang dan ketajaman konseptual.",
         "ruleList": [
-          "Lejos de refutar nuestra hipótesis de partida, estos hallazgos vienen a corroborarla plenamente. — Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh."
+          "Polanya: Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar",
+          "Contoh 2: Lejos de refutar nuestra hipótesis de partida, estos hallazgos vienen a corroborarla plenamente. (Lekhos de refutar nuestra hipótesis de partida, estos hayazgos vienen a corroborarla plenamente.) — Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Marcadores del Discurso para la Matización y Refutación\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Cabe puntualizar que los resultados no pretenden ser exhaustivos, sino analíticamente representativos. — Perlu digarisbawahi bahwa hasil-hasil ini tidak dimaksudkan mencakup segalanya, melainkan representatif secara analitis."
+          "Contoh 3: Cabe puntualizar que los resultados no pretenden ser exhaustivos, sino analíticamente representativos. (Cabe puntualizar ke los resultados no pretenden ser exhaustivos, sino analíticamente representativos.) — Perlu digarisbawahi bahwa hasil-hasil ini tidak dimaksudkan mencakup segalanya, melainkan representatif secara analitis.",
+          "Hindari kesalahan: \"el autor está equivocado\" → gunakan bentuk yang benar: \"si bien es cierto que la tesis es sugestiva, cabe puntualizar ciertas aporías\"."
         ]
       }
     ],
@@ -19542,19 +19668,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-42-ex-1",
         "native": "Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado.",
-        "phonetic": "",
+        "phonetic": "Si bien es sierto ke el modelo presenta limitasiones, no es menos sierto ke su valor predictivo es elevado.",
         "translationId": "Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi."
       },
       {
         "id": "es-gram-42-ex-2",
         "native": "Lejos de refutar nuestra hipótesis de partida, estos hallazgos vienen a corroborarla plenamente.",
-        "phonetic": "",
+        "phonetic": "Lekhos de refutar nuestra hipótesis de partida, estos hayazgos vienen a corroborarla plenamente.",
         "translationId": "Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh."
       },
       {
         "id": "es-gram-42-ex-3",
         "native": "Cabe puntualizar que los resultados no pretenden ser exhaustivos, sino analíticamente representativos.",
-        "phonetic": "",
+        "phonetic": "Cabe puntualizar ke los resultados no pretenden ser exhaustivos, sino analíticamente representativos.",
         "translationId": "Perlu digarisbawahi bahwa hasil-hasil ini tidak dimaksudkan mencakup segalanya, melainkan representatif secara analitis."
       }
     ],
@@ -19570,7 +19696,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Marcadores del Discurso para la Matización y Refutación' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Marcadores del Discurso para la Matización y Refutación\" (Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-42-pg-1",
@@ -19586,7 +19712,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado.\" berarti \"Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi.\"."
+        "explanation": "Kalimat \"Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado.\" (dibaca: Si bien es sierto ke el modelo presenta limitasiones, no es menos sierto ke su valor predictivo es elevado.) berarti \"Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi.\". Kalimat ini menggunakan pola \"Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar\" (Marcadores del Discurso para la Matización y Refutación) yang berfungsi untuk teknik orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri tanpa konfrontasi agresif."
       },
       {
         "id": "q-es-gram-42-pg-2",
@@ -19602,7 +19728,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Lejos de refutar nuestra hipótesis de partida, estos hallazgos vienen a corroborarla plenamente.\" berarti \"Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh.\"."
+        "explanation": "Kalimat \"Lejos de refutar nuestra hipótesis de partida, estos hallazgos vienen a corroborarla plenamente.\" (dibaca: Lekhos de refutar nuestra hipótesis de partida, estos hayazgos vienen a corroborarla plenamente.) berarti \"Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh.\". Kalimat ini menggunakan pola \"Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar\" (Marcadores del Discurso para la Matización y Refutación) yang berfungsi untuk teknik orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri tanpa konfrontasi agresif."
       },
       {
         "id": "q-es-gram-42-pg-3",
@@ -19618,7 +19744,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Perlu digarisbawahi bahwa hasil-hasil ini tidak dimaksudkan mencakup segalanya, melainkan representatif secara analitis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Cabe puntualizar que los resultados no pretenden ser exhaustivos, sino analíticamente representativos.\" berarti \"Perlu digarisbawahi bahwa hasil-hasil ini tidak dimaksudkan mencakup segalanya, melainkan representatif secara analitis.\"."
+        "explanation": "Kalimat \"Cabe puntualizar que los resultados no pretenden ser exhaustivos, sino analíticamente representativos.\" (dibaca: Cabe puntualizar ke los resultados no pretenden ser exhaustivos, sino analíticamente representativos.) berarti \"Perlu digarisbawahi bahwa hasil-hasil ini tidak dimaksudkan mencakup segalanya, melainkan representatif secara analitis.\". Kalimat ini menggunakan pola \"Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar\" (Marcadores del Discurso para la Matización y Refutación) yang berfungsi untuk teknik orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri tanpa konfrontasi agresif."
       },
       {
         "id": "q-es-gram-42-pg-4",
@@ -19638,7 +19764,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-42-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Marcadores del Discurso para la Matización y Refutación\"?",
         "options": [
           "En el apartado de discusión se cotejan los hallazgos propios con la bibliografía internacional de referencia. — Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional.",
           "Lejos de refutar nuestra hipótesis de partida, estos hallazgos vienen a corroborarla plenamente. — Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh.",
@@ -19652,7 +19778,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-42-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Marcadores del Discurso para la Matización y Refutación\"?",
         "options": [
           "La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas. — Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi.",
           "Las conclusiones recapitulan las aportaciones originales y deslindan futuros derroteros heurísticos. — Bagian kesimpulan merangkum kontribusi-kontribusi orisinal serta memetakan arah pencarian ilmiah di masa depan.",
@@ -19666,7 +19792,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-42-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Marcadores del Discurso para la Matización y Refutación\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19923,7 +20049,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado.\" berarti \"Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi.\"."
+        "explanation": "Kalimat \"Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado.\" (dibaca: Si bien es sierto ke el modelo presenta limitasiones, no es menos sierto ke su valor predictivo es elevado.) berarti \"Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi.\". Kalimat ini menggunakan pola \"Si bien es cierto que... no es menos cierto que / Lejos de / Cabe puntualizar\" (Marcadores del Discurso para la Matización y Refutación) yang berfungsi untuk teknik orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri tanpa konfrontasi agresif."
       },
       {
         "id": "q-es-gram-42-bb-2",
@@ -19998,24 +20124,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengenali dan menginterpretasikan bentuk masa depan subjungtif yang bertahan dalam teks hukum tata negara dan piagam universitas.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales\" (El valor arcaico y prescriptivo del futuro de subjuntivo (-re, -res, -re...)) berfungsi untuk: mengenali dan menginterpretasikan bentuk masa depan subjungtif yang bertahan dalam teks hukum tata negara dan piagam universitas. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria. — Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku."
+          "Rumus utama: Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito",
+          "Contoh 1: Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria. (Kien infrinkhiere los estatutos académicos será sansionado conforme a la reglamentasión dissiplinaria.) — Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Futuro de subjuntivo (-re) bertahan sebagai penanda gaya hukum yang khidmat dan preskriptif dalam undang-undang.",
         "ruleList": [
-          "Si hubiere lugar a reclamación formal, las partes se someterán al arbitraje del tribunal universitario. — Apabila terdapat dasar bagi pengajuan keberatan resmi, para pihak akan tunduk pada arbitrase majelis universitas."
+          "Polanya: Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito",
+          "Contoh 2: Si hubiere lugar a reclamación formal, las partes se someterán al arbitraje del tribunal universitario. (Si hubiere lugar a reclamasión formal, las partes se someterán al arbitrakhe del tribunal universitario.) — Apabila terdapat dasar bagi pengajuan keberatan resmi, para pihak akan tunduk pada arbitrase majelis universitas."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Cualquiera que fuere el desenlace de la votación, el acuerdo surtirá efectos plenos. — Apa pun hasil akhir dari pemungutan suara tersebut, kesepakatan itu akan berlaku sepenuhnya."
+          "Contoh 3: Cualquiera que fuere el desenlace de la votación, el acuerdo surtirá efectos plenos. (Cualkiera ke fuere el desenlase de la votasión, el acuerdo surtirá efectos plenos.) — Apa pun hasil akhir dari pemungutan suara tersebut, kesepakatan itu akan berlaku sepenuhnya.",
+          "Hindari kesalahan: \"quien infringe (en redacción arcaizante de códigos)\" → gunakan bentuk yang benar: \"quien infringiere\"."
         ]
       }
     ],
@@ -20023,19 +20152,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-43-ex-1",
         "native": "Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria.",
-        "phonetic": "",
+        "phonetic": "Kien infrinkhiere los estatutos académicos será sansionado conforme a la reglamentasión dissiplinaria.",
         "translationId": "Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku."
       },
       {
         "id": "es-gram-43-ex-2",
         "native": "Si hubiere lugar a reclamación formal, las partes se someterán al arbitraje del tribunal universitario.",
-        "phonetic": "",
+        "phonetic": "Si hubiere lugar a reclamasión formal, las partes se someterán al arbitrakhe del tribunal universitario.",
         "translationId": "Apabila terdapat dasar bagi pengajuan keberatan resmi, para pihak akan tunduk pada arbitrase majelis universitas."
       },
       {
         "id": "es-gram-43-ex-3",
         "native": "Cualquiera que fuere el desenlace de la votación, el acuerdo surtirá efectos plenos.",
-        "phonetic": "",
+        "phonetic": "Cualkiera ke fuere el desenlase de la votasión, el acuerdo surtirá efectos plenos.",
         "translationId": "Apa pun hasil akhir dari pemungutan suara tersebut, kesepakatan itu akan berlaku sepenuhnya."
       }
     ],
@@ -20051,7 +20180,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales\" (Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-43-pg-1",
@@ -20067,7 +20196,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sebagai bukti sahnya, para pihak menandatangani akta perjanjian ini dalam rangkap dua yang berkekuatan hukum sama."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria.\" berarti \"Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku.\"."
+        "explanation": "Kalimat \"Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria.\" (dibaca: Kien infrinkhiere los estatutos académicos será sansionado conforme a la reglamentasión dissiplinaria.) berarti \"Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku.\". Kalimat ini menggunakan pola \"Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito\" (Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales) yang berfungsi untuk mengenali dan menginterpretasikan bentuk masa depan subjungtif yang bertahan dalam teks hukum tata negara dan piagam universitas."
       },
       {
         "id": "q-es-gram-43-pg-2",
@@ -20083,7 +20212,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Apabila terdapat dasar bagi pengajuan keberatan resmi, para pihak akan tunduk pada arbitrase majelis universitas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si hubiere lugar a reclamación formal, las partes se someterán al arbitraje del tribunal universitario.\" berarti \"Apabila terdapat dasar bagi pengajuan keberatan resmi, para pihak akan tunduk pada arbitrase majelis universitas.\"."
+        "explanation": "Kalimat \"Si hubiere lugar a reclamación formal, las partes se someterán al arbitraje del tribunal universitario.\" (dibaca: Si hubiere lugar a reclamasión formal, las partes se someterán al arbitrakhe del tribunal universitario.) berarti \"Apabila terdapat dasar bagi pengajuan keberatan resmi, para pihak akan tunduk pada arbitrase majelis universitas.\". Kalimat ini menggunakan pola \"Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito\" (Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales) yang berfungsi untuk mengenali dan menginterpretasikan bentuk masa depan subjungtif yang bertahan dalam teks hukum tata negara dan piagam universitas."
       },
       {
         "id": "q-es-gram-43-pg-3",
@@ -20099,7 +20228,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Triangulasi hermeneutis memberikan kekokohan interpretatif pada kesimpulan-kesimpulan monograf tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Cualquiera que fuere el desenlace de la votación, el acuerdo surtirá efectos plenos.\" berarti \"Apa pun hasil akhir dari pemungutan suara tersebut, kesepakatan itu akan berlaku sepenuhnya.\"."
+        "explanation": "Kalimat \"Cualquiera que fuere el desenlace de la votación, el acuerdo surtirá efectos plenos.\" (dibaca: Cualkiera ke fuere el desenlase de la votasión, el acuerdo surtirá efectos plenos.) berarti \"Apa pun hasil akhir dari pemungutan suara tersebut, kesepakatan itu akan berlaku sepenuhnya.\". Kalimat ini menggunakan pola \"Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito\" (Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales) yang berfungsi untuk mengenali dan menginterpretasikan bentuk masa depan subjungtif yang bertahan dalam teks hukum tata negara dan piagam universitas."
       },
       {
         "id": "q-es-gram-43-pg-4",
@@ -20119,7 +20248,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-43-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales\"?",
         "options": [
           "En fe de lo cual firman el presente instrumento contractual en dos ejemplares de idéntico tenor. — Sebagai bukti sahnya, para pihak menandatangani akta perjanjian ini dalam rangkap dua yang berkekuatan hukum sama.",
           "La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual. — Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks.",
@@ -20133,7 +20262,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-43-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales\"?",
         "options": [
           "Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado. — Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut.",
           "El presente reglamento rige para todas las dependencias académicas y administrativas de la universidad. — Peraturan ini berlaku mengikat bagi seluruh unit kerja akademik maupun administratif di lingkungan universitas.",
@@ -20147,7 +20276,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-43-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -20404,7 +20533,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria.\" berarti \"Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku.\"."
+        "explanation": "Kalimat \"Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria.\" (dibaca: Kien infrinkhiere los estatutos académicos será sansionado conforme a la reglamentasión dissiplinaria.) berarti \"Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku.\". Kalimat ini menggunakan pola \"Si así no lo hiciere, que la patria os lo demande / Quien cometiere delito\" (Uso Retórico y Estilístico del Futuro de Subjuntivo en Textos Legales) yang berfungsi untuk mengenali dan menginterpretasikan bentuk masa depan subjungtif yang bertahan dalam teks hukum tata negara dan piagam universitas."
       },
       {
         "id": "q-es-gram-43-bb-2",
@@ -20479,24 +20608,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengubah penalaran verbal menjadi gaya substantif padat berbobot tinggi untuk memenuhi standar jurnal indeksasi Scopus/WoS.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'La Sustantivación Compleja y Estilo Nominal Científico' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"La Sustantivación Compleja y Estilo Nominal Científico\" (La condensación semántica mediante estructuras nominales abstractas) berfungsi untuk: mengubah penalaran verbal menjadi gaya substantif padat berbobot tinggi untuk memenuhi standar jurnal indeksasi Scopus/WoS. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico. — Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis."
+          "Rumus utama: Transformación deverbal densa: La dilucidación de los factores condicionantes",
+          "Contoh 1: La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico. (La exhaustiva elusidasión de los factores condisionantes permitió reconfigurar el modelo teórico.) — Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Transformación deverbal densa: La dilucidación de los factores condicionantes memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Transformación deverbal densa: La dilucidación de los factores condicionantes\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gaya nominal ilmiah memberikan kepadatan epistemologis, keabstrakan konsep, dan keringkasan kalimat.",
         "ruleList": [
-          "La paulatina consolidación del paradigma hermenéutico transformó los estudios literarios. — Konsolidasi bertahap dari paradigma hermeneutika telah mengubah wajah kajian sastra."
+          "Polanya: Transformación deverbal densa: La dilucidación de los factores condicionantes",
+          "Contoh 2: La paulatina consolidación del paradigma hermenéutico transformó los estudios literarios. (La paulatina consolidasión del paradigma hermenéutico transformó los estudios literarios.) — Konsolidasi bertahap dari paradigma hermeneutika telah mengubah wajah kajian sastra."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"La Sustantivación Compleja y Estilo Nominal Científico\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "La convergencia metodológica facilitó una interpretación integradora de los datos obtenidos. — Konvergensi metodologis memfasilitasi penafsiran yang terintegrasi atas data-data yang diperoleh."
+          "Contoh 3: La convergencia metodológica facilitó una interpretación integradora de los datos obtenidos. (La converkhensia metodolókhica fasilitó una interpretasión integradora de los datos obtenidos.) — Konvergensi metodologis memfasilitasi penafsiran yang terintegrasi atas data-data yang diperoleh.",
+          "Hindari kesalahan: \"cuando se aclaran los factores\" → gunakan bentuk yang benar: \"la elucidación de los factores condicionantes\"."
         ]
       }
     ],
@@ -20504,19 +20636,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-44-ex-1",
         "native": "La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico.",
-        "phonetic": "",
+        "phonetic": "La exhaustiva elusidasión de los factores condisionantes permitió reconfigurar el modelo teórico.",
         "translationId": "Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis."
       },
       {
         "id": "es-gram-44-ex-2",
         "native": "La paulatina consolidación del paradigma hermenéutico transformó los estudios literarios.",
-        "phonetic": "",
+        "phonetic": "La paulatina consolidasión del paradigma hermenéutico transformó los estudios literarios.",
         "translationId": "Konsolidasi bertahap dari paradigma hermeneutika telah mengubah wajah kajian sastra."
       },
       {
         "id": "es-gram-44-ex-3",
         "native": "La convergencia metodológica facilitó una interpretación integradora de los datos obtenidos.",
-        "phonetic": "",
+        "phonetic": "La converkhensia metodolókhica fasilitó una interpretasión integradora de los datos obtenidos.",
         "translationId": "Konvergensi metodologis memfasilitasi penafsiran yang terintegrasi atas data-data yang diperoleh."
       }
     ],
@@ -20532,7 +20664,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'La Sustantivación Compleja y Estilo Nominal Científico' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"La Sustantivación Compleja y Estilo Nominal Científico\" (Transformación deverbal densa: La dilucidación de los factores condicionantes) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-44-pg-1",
@@ -20548,7 +20680,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico.\" berarti \"Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis.\"."
+        "explanation": "Kalimat \"La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico.\" (dibaca: La exhaustiva elusidasión de los factores condisionantes permitió reconfigurar el modelo teórico.) berarti \"Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis.\". Kalimat ini menggunakan pola \"Transformación deverbal densa: La dilucidación de los factores condicionantes\" (La Sustantivación Compleja y Estilo Nominal Científico) yang berfungsi untuk mengubah penalaran verbal menjadi gaya substantif padat berbobot tinggi untuk memenuhi standar jurnal indeksasi Scopus/WoS."
       },
       {
         "id": "q-es-gram-44-pg-2",
@@ -20564,7 +20696,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"La paulatina consolidación del paradigma hermenéutico transformó los estudios literarios.\" berarti \"Konsolidasi bertahap dari paradigma hermeneutika telah mengubah wajah kajian sastra.\"."
+        "explanation": "Kalimat \"La paulatina consolidación del paradigma hermenéutico transformó los estudios literarios.\" (dibaca: La paulatina consolidasión del paradigma hermenéutico transformó los estudios literarios.) berarti \"Konsolidasi bertahap dari paradigma hermeneutika telah mengubah wajah kajian sastra.\". Kalimat ini menggunakan pola \"Transformación deverbal densa: La dilucidación de los factores condicionantes\" (La Sustantivación Compleja y Estilo Nominal Científico) yang berfungsi untuk mengubah penalaran verbal menjadi gaya substantif padat berbobot tinggi untuk memenuhi standar jurnal indeksasi Scopus/WoS."
       },
       {
         "id": "q-es-gram-44-pg-3",
@@ -20580,7 +20712,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya kembali menghaturkan terima kasih kepada para anggota majelis penguji atas kehormatan yang diberikan dalam menguji karya ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"La convergencia metodológica facilitó una interpretación integradora de los datos obtenidos.\" berarti \"Konvergensi metodologis memfasilitasi penafsiran yang terintegrasi atas data-data yang diperoleh.\"."
+        "explanation": "Kalimat \"La convergencia metodológica facilitó una interpretación integradora de los datos obtenidos.\" (dibaca: La converkhensia metodolókhica fasilitó una interpretasión integradora de los datos obtenidos.) berarti \"Konvergensi metodologis memfasilitasi penafsiran yang terintegrasi atas data-data yang diperoleh.\". Kalimat ini menggunakan pola \"Transformación deverbal densa: La dilucidación de los factores condicionantes\" (La Sustantivación Compleja y Estilo Nominal Científico) yang berfungsi untuk mengubah penalaran verbal menjadi gaya substantif padat berbobot tinggi untuk memenuhi standar jurnal indeksasi Scopus/WoS."
       },
       {
         "id": "q-es-gram-44-pg-4",
@@ -20600,7 +20732,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-44-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Sustantivación Compleja y Estilo Nominal Científico\"?",
         "options": [
           "El marco metodológico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos. — Kerangka metodologis tersebut menjamin ketertelusuran dan keterulangan dari eksperimen-eksperimen kuantitatif.",
           "Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis. — Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya.",
@@ -20614,7 +20746,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-44-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Sustantivación Compleja y Estilo Nominal Científico\"?",
         "options": [
           "La convergencia metodológica facilitó una interpretación integradora de los datos obtenidos. — Konvergensi metodologis memfasilitasi penafsiran yang terintegrasi atas data-data yang diperoleh.",
           "La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual. — Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks.",
@@ -20628,7 +20760,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-44-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"La Sustantivación Compleja y Estilo Nominal Científico\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -20881,7 +21013,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico.\" berarti \"Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis.\"."
+        "explanation": "Kalimat \"La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico.\" (dibaca: La exhaustiva elusidasión de los factores condisionantes permitió reconfigurar el modelo teórico.) berarti \"Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis.\". Kalimat ini menggunakan pola \"Transformación deverbal densa: La dilucidación de los factores condicionantes\" (La Sustantivación Compleja y Estilo Nominal Científico) yang berfungsi untuk mengubah penalaran verbal menjadi gaya substantif padat berbobot tinggi untuk memenuhi standar jurnal indeksasi Scopus/WoS."
       },
       {
         "id": "q-es-gram-44-bb-2",
@@ -20956,24 +21088,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyusun tinjauan pustaka komparatif (estado de la cuestión) yang mempertemukan berbagai mazhab pemikiran ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Análisis Crítico y Síntesis de Fuentes Documentales Múltiples' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Análisis Crítico y Síntesis de Fuentes Documentales Múltiples\" (Metodología del estado de la cuestión y síntesis bibliográfica polifónica) berfungsi untuk: menyusun tinjauan pustaka komparatif (estado de la cuestión) yang mempertemukan berbagai mazhab pemikiran ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas. — Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis."
+          "Rumus utama: Contraste de posturas historiográficas / Diálogo crítico intertextual",
+          "Contoh 1: El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas. (El estado de la cuestión revela una fractura epistemolókhica entre estructuralistas y postestructuralistas.) — Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Contraste de posturas historiográficas / Diálogo crítico intertextual memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Contraste de posturas historiográficas / Diálogo crítico intertextual\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Tinjauan pustaka tingkat doktoral (estado de la cuestión) mempertemukan dan menyintesiskan berbagai posisi kritis.",
         "ruleList": [
-          "Frente a las tesis tradicionales de Menéndez Pidal, la filología reciente postula una poligénesis lírica. — Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik."
+          "Polanya: Contraste de posturas historiográficas / Diálogo crítico intertextual",
+          "Contoh 2: Frente a las tesis tradicionales de Menéndez Pidal, la filología reciente postula una poligénesis lírica. (Frente a las tesis tradisionales de menéndez pidal, la filología resiente postula una poligénesis lírica.) — Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Análisis Crítico y Síntesis de Fuentes Documentales Múltiples\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil. — Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang."
+          "Contoh 3: La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil. (La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil.) — Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang.",
+          "Hindari kesalahan: \"resumen de los libros uno por uno\" → gunakan bentuk yang benar: \"síntesis problematizada y dialéctica del estado de la cuestión\"."
         ]
       }
     ],
@@ -20981,19 +21116,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-45-ex-1",
         "native": "El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas.",
-        "phonetic": "",
+        "phonetic": "El estado de la cuestión revela una fractura epistemolókhica entre estructuralistas y postestructuralistas.",
         "translationId": "Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis."
       },
       {
         "id": "es-gram-45-ex-2",
         "native": "Frente a las tesis tradicionales de Menéndez Pidal, la filología reciente postula una poligénesis lírica.",
-        "phonetic": "",
+        "phonetic": "Frente a las tesis tradisionales de menéndez pidal, la filología resiente postula una poligénesis lírica.",
         "translationId": "Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik."
       },
       {
         "id": "es-gram-45-ex-3",
         "native": "La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil.",
-        "phonetic": "",
+        "phonetic": "La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil.",
         "translationId": "Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang."
       }
     ],
@@ -21009,7 +21144,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Análisis Crítico y Síntesis de Fuentes Documentales Múltiples' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Análisis Crítico y Síntesis de Fuentes Documentales Múltiples\" (Contraste de posturas historiográficas / Diálogo crítico intertextual) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-45-pg-1",
@@ -21025,7 +21160,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas.\" berarti \"Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis.\"."
+        "explanation": "Kalimat \"El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas.\" (dibaca: El estado de la cuestión revela una fractura epistemolókhica entre estructuralistas y postestructuralistas.) berarti \"Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis.\". Kalimat ini menggunakan pola \"Contraste de posturas historiográficas / Diálogo crítico intertextual\" (Análisis Crítico y Síntesis de Fuentes Documentales Múltiples) yang berfungsi untuk menyusun tinjauan pustaka komparatif (estado de la cuestión) yang mempertemukan berbagai mazhab pemikiran ilmiah."
       },
       {
         "id": "q-es-gram-45-pg-2",
@@ -21041,7 +21176,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Frente a las tesis tradicionales de Menéndez Pidal, la filología reciente postula una poligénesis lírica.\" berarti \"Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik.\"."
+        "explanation": "Kalimat \"Frente a las tesis tradicionales de Menéndez Pidal, la filología reciente postula una poligénesis lírica.\" (dibaca: Frente a las tesis tradisionales de menéndez pidal, la filología resiente postula una poligénesis lírica.) berarti \"Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik.\". Kalimat ini menggunakan pola \"Contraste de posturas historiográficas / Diálogo crítico intertextual\" (Análisis Crítico y Síntesis de Fuentes Documentales Múltiples) yang berfungsi untuk menyusun tinjauan pustaka komparatif (estado de la cuestión) yang mempertemukan berbagai mazhab pemikiran ilmiah."
       },
       {
         "id": "q-es-gram-45-pg-3",
@@ -21057,7 +21192,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil.\" berarti \"Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang.\"."
+        "explanation": "Kalimat \"La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil.\" (dibaca: La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil.) berarti \"Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang.\". Kalimat ini menggunakan pola \"Contraste de posturas historiográficas / Diálogo crítico intertextual\" (Análisis Crítico y Síntesis de Fuentes Documentales Múltiples) yang berfungsi untuk menyusun tinjauan pustaka komparatif (estado de la cuestión) yang mempertemukan berbagai mazhab pemikiran ilmiah."
       },
       {
         "id": "q-es-gram-45-pg-4",
@@ -21077,7 +21212,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-45-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Análisis Crítico y Síntesis de Fuentes Documentales Múltiples\"?",
         "options": [
           "Frente a las tesis tradicionales de Menéndez Pidal, la filología reciente postula una poligénesis lírica. — Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik.",
           "Paso a responder a la muy oportuna observación metodológica planteada por el señor secretario del tribunal. — Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji.",
@@ -21091,7 +21226,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-45-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Análisis Crítico y Síntesis de Fuentes Documentales Múltiples\"?",
         "options": [
           "Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis. — Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya.",
           "La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil. — Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang.",
@@ -21105,7 +21240,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-45-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Análisis Crítico y Síntesis de Fuentes Documentales Múltiples\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21362,7 +21497,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas.\" berarti \"Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis.\"."
+        "explanation": "Kalimat \"El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas.\" (dibaca: El estado de la cuestión revela una fractura epistemolókhica entre estructuralistas y postestructuralistas.) berarti \"Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis.\". Kalimat ini menggunakan pola \"Contraste de posturas historiográficas / Diálogo crítico intertextual\" (Análisis Crítico y Síntesis de Fuentes Documentales Múltiples) yang berfungsi untuk menyusun tinjauan pustaka komparatif (estado de la cuestión) yang mempertemukan berbagai mazhab pemikiran ilmiah."
       },
       {
         "id": "q-es-gram-45-bb-2",
@@ -21437,24 +21572,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel\" (El caudal metafórico abstracto y la precisión combinatoria del léxico culto) berfungsi untuk: memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado. — Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi."
+          "Rumus utama: Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia",
+          "Contoh 1: Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado. (Las resientes excavasiones arkeolókhicas vienen a arrokhar luz sobre un período escasamente documentado.) — Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kolokasi leksikal terpelajar seperti 'arrojar luz' dan 'sentar las bases' memperkokoh mutu stilistika publikasi ilmiah.",
         "ruleList": [
-          "El tratado de paz sentó las bases de un nuevo equilibrio geopolítico en el Mediterráneo occidental. — Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat."
+          "Polanya: Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia",
+          "Contoh 2: El tratado de paz sentó las bases de un nuevo equilibrio geopolítico en el Mediterráneo occidental. (El tratado de paz sentó las bases de un nuevo ekilibrio kheopolítico en el mediterráneo ocsidental.) — Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Corresponde al tribunal académico dirimir la controversia suscitada entre ambas corrientes científicas. — Menjadi wewenang majelis akademik untuk menengahi dan memutuskan kontroversi yang muncul di antara kedua aliran ilmiah tersebut."
+          "Contoh 3: Corresponde al tribunal académico dirimir la controversia suscitada entre ambas corrientes científicas. (Corresponde al tribunal académico dirimir la controversia sussitada entre ambas corrientes sientíficas.) — Menjadi wewenang majelis akademik untuk menengahi dan memutuskan kontroversi yang muncul di antara kedua aliran ilmiah tersebut.",
+          "Hindari kesalahan: \"dar luz sobre el tema (menos formal)\" → gunakan bentuk yang benar: \"arrojar luz sobre el tema\"."
         ]
       }
     ],
@@ -21462,19 +21600,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-46-ex-1",
         "native": "Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado.",
-        "phonetic": "",
+        "phonetic": "Las resientes excavasiones arkeolókhicas vienen a arrokhar luz sobre un período escasamente documentado.",
         "translationId": "Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi."
       },
       {
         "id": "es-gram-46-ex-2",
         "native": "El tratado de paz sentó las bases de un nuevo equilibrio geopolítico en el Mediterráneo occidental.",
-        "phonetic": "",
+        "phonetic": "El tratado de paz sentó las bases de un nuevo ekilibrio kheopolítico en el mediterráneo ocsidental.",
         "translationId": "Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat."
       },
       {
         "id": "es-gram-46-ex-3",
         "native": "Corresponde al tribunal académico dirimir la controversia suscitada entre ambas corrientes científicas.",
-        "phonetic": "",
+        "phonetic": "Corresponde al tribunal académico dirimir la controversia sussitada entre ambas corrientes sientíficas.",
         "translationId": "Menjadi wewenang majelis akademik untuk menengahi dan memutuskan kontroversi yang muncul di antara kedua aliran ilmiah tersebut."
       }
     ],
@@ -21490,7 +21628,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel\" (Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-46-pg-1",
@@ -21506,7 +21644,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado.\" berarti \"Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi.\"."
+        "explanation": "Kalimat \"Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado.\" (dibaca: Las resientes excavasiones arkeolókhicas vienen a arrokhar luz sobre un período escasamente documentado.) berarti \"Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi.\". Kalimat ini menggunakan pola \"Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia\" (Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-es-gram-46-pg-2",
@@ -21522,7 +21660,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"El tratado de paz sentó las bases de un nuevo equilibrio geopolítico en el Mediterráneo occidental.\" berarti \"Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat.\"."
+        "explanation": "Kalimat \"El tratado de paz sentó las bases de un nuevo equilibrio geopolítico en el Mediterráneo occidental.\" (dibaca: El tratado de paz sentó las bases de un nuevo ekilibrio kheopolítico en el mediterráneo ocsidental.) berarti \"Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat.\". Kalimat ini menggunakan pola \"Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia\" (Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-es-gram-46-pg-3",
@@ -21538,7 +21676,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Menjadi wewenang majelis akademik untuk menengahi dan memutuskan kontroversi yang muncul di antara kedua aliran ilmiah tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Corresponde al tribunal académico dirimir la controversia suscitada entre ambas corrientes científicas.\" berarti \"Menjadi wewenang majelis akademik untuk menengahi dan memutuskan kontroversi yang muncul di antara kedua aliran ilmiah tersebut.\"."
+        "explanation": "Kalimat \"Corresponde al tribunal académico dirimir la controversia suscitada entre ambas corrientes científicas.\" (dibaca: Corresponde al tribunal académico dirimir la controversia sussitada entre ambas corrientes sientíficas.) berarti \"Menjadi wewenang majelis akademik untuk menengahi dan memutuskan kontroversi yang muncul di antara kedua aliran ilmiah tersebut.\". Kalimat ini menggunakan pola \"Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia\" (Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-es-gram-46-pg-4",
@@ -21558,7 +21696,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-46-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel\"?",
         "options": [
           "Bien sabido es por la comunidad científica que la correlación no implica causalidad. — Telah diketahui dengan sangat baik oleh komunitas ilmiah bahwa korelasi tidak serta-merta berarti kausalitas.",
           "El tratado de paz sentó las bases de un nuevo equilibrio geopolítico en el Mediterráneo occidental. — Perjanjian perdamaian tersebut meletakkan dasar-dasar keseimbangan geopolitik baru di kawasan Mediterania barat.",
@@ -21572,7 +21710,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-46-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel\"?",
         "options": [
           "Es precisamente esta divergencia interpretativa lo que confiere originalidad a nuestra propuesta. — Justru perbedaan penafsiran inilah yang memberikan nilai keaslian pada usulan penelitian kita.",
           "De sumo interés para la historiografía contemporánea resultan los testimonios aquí reunidos. — Sangatlah menarik bagi historiografi kontemporer kesaksian-kesaksian sejarah yang dihimpun di sini.",
@@ -21586,7 +21724,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-46-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21843,7 +21981,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado.\" berarti \"Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi.\"."
+        "explanation": "Kalimat \"Las recientes excavaciones arqueológicas vienen a arrojar luz sobre un período escasamente documentado.\" (dibaca: Las resientes excavasiones arkeolókhicas vienen a arrokhar luz sobre un período escasamente documentado.) berarti \"Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi.\". Kalimat ini menggunakan pola \"Colocaciones: Sentar las bases / Arrojar luz / Salir al paso / Dirimir una controversia\" (Metáforas Conceptuales y Colocaciones Léxicas de Alto Nivel) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-es-gram-46-bb-2",
@@ -21918,24 +22056,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah standar penulisan naskah artikel jurnal internasional bereputasi: dari formulasi abstrak hingga bab diskusi penutup.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Redacción de Artículos de Investigación y Ensayos Académicos' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Redacción de Artículos de Investigación y Ensayos Académicos\" (La estructura canónica IMRyD (Introducción, Métodos, Resultados y Discusión)) berfungsi untuk: kaidah standar penulisan naskah artikel jurnal internasional bereputasi: dari formulasi abstrak hingga bab diskusi penutup. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas. — Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi."
+          "Rumus utama: Articulación discursiva formal de la investigación empírica y humanística",
+          "Contoh 1: La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas. (La secsión de resultados expone de manera pormenorizada las correlasiones estadísticas identificadas.) — Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Articulación discursiva formal de la investigación empírica y humanística memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Articulación discursiva formal de la investigación empírica y humanística\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Artikel jurnal ilmiah menuntut prosa teknis yang objektif, impersonal, dan terstruktur rapi.",
         "ruleList": [
-          "En el apartado de discusión se cotejan los hallazgos propios con la bibliografía internacional de referencia. — Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional."
+          "Polanya: Articulación discursiva formal de la investigación empírica y humanística",
+          "Contoh 2: En el apartado de discusión se cotejan los hallazgos propios con la bibliografía internacional de referencia. (En el apartado de discusión se cotekhan los hayazgos propios con la bibliografía internasional de referensia.) — Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Redacción de Artículos de Investigación y Ensayos Académicos\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Las conclusiones recapitulan las aportaciones originales y deslindan futuros derroteros heurísticos. — Bagian kesimpulan merangkum kontribusi-kontribusi orisinal serta memetakan arah pencarian ilmiah di masa depan."
+          "Contoh 3: Las conclusiones recapitulan las aportaciones originales y deslindan futuros derroteros heurísticos. (Las conclusiones recapitulan las aportasiones orikhinales y deslindan futuros derroteros heurísticos.) — Bagian kesimpulan merangkum kontribusi-kontribusi orisinal serta memetakan arah pencarian ilmiah di masa depan.",
+          "Hindari kesalahan: \"en este artículo hablo de\" → gunakan bentuk yang benar: \"el presente estudio tiene por objeto dilucidar la dinámica de...\"."
         ]
       }
     ],
@@ -21943,19 +22084,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-47-ex-1",
         "native": "La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas.",
-        "phonetic": "",
+        "phonetic": "La secsión de resultados expone de manera pormenorizada las correlasiones estadísticas identificadas.",
         "translationId": "Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi."
       },
       {
         "id": "es-gram-47-ex-2",
         "native": "En el apartado de discusión se cotejan los hallazgos propios con la bibliografía internacional de referencia.",
-        "phonetic": "",
+        "phonetic": "En el apartado de discusión se cotekhan los hayazgos propios con la bibliografía internasional de referensia.",
         "translationId": "Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional."
       },
       {
         "id": "es-gram-47-ex-3",
         "native": "Las conclusiones recapitulan las aportaciones originales y deslindan futuros derroteros heurísticos.",
-        "phonetic": "",
+        "phonetic": "Las conclusiones recapitulan las aportasiones orikhinales y deslindan futuros derroteros heurísticos.",
         "translationId": "Bagian kesimpulan merangkum kontribusi-kontribusi orisinal serta memetakan arah pencarian ilmiah di masa depan."
       }
     ],
@@ -21971,7 +22112,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Redacción de Artículos de Investigación y Ensayos Académicos' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Redacción de Artículos de Investigación y Ensayos Académicos\" (Articulación discursiva formal de la investigación empírica y humanística) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-47-pg-1",
@@ -21987,7 +22128,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas.\" berarti \"Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi.\"."
+        "explanation": "Kalimat \"La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas.\" (dibaca: La secsión de resultados expone de manera pormenorizada las correlasiones estadísticas identificadas.) berarti \"Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi.\". Kalimat ini menggunakan pola \"Articulación discursiva formal de la investigación empírica y humanística\" (Redacción de Artículos de Investigación y Ensayos Académicos) yang berfungsi untuk kaidah standar penulisan naskah artikel jurnal internasional bereputasi: dari formulasi abstrak hingga bab diskusi penutup."
       },
       {
         "id": "q-es-gram-47-pg-2",
@@ -22003,7 +22144,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"En el apartado de discusión se cotejan los hallazgos propios con la bibliografía internacional de referencia.\" berarti \"Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional.\"."
+        "explanation": "Kalimat \"En el apartado de discusión se cotejan los hallazgos propios con la bibliografía internacional de referencia.\" (dibaca: En el apartado de discusión se cotekhan los hayazgos propios con la bibliografía internasional de referensia.) berarti \"Pada bagian diskusi, temuan-temuan penelitian dibandingkan dengan kepustakaan rujukan internasional.\". Kalimat ini menggunakan pola \"Articulación discursiva formal de la investigación empírica y humanística\" (Redacción de Artículos de Investigación y Ensayos Académicos) yang berfungsi untuk kaidah standar penulisan naskah artikel jurnal internasional bereputasi: dari formulasi abstrak hingga bab diskusi penutup."
       },
       {
         "id": "q-es-gram-47-pg-3",
@@ -22019,7 +22160,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Apa pun hasil akhir dari pemungutan suara tersebut, kesepakatan itu akan berlaku sepenuhnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Las conclusiones recapitulan las aportaciones originales y deslindan futuros derroteros heurísticos.\" berarti \"Bagian kesimpulan merangkum kontribusi-kontribusi orisinal serta memetakan arah pencarian ilmiah di masa depan.\"."
+        "explanation": "Kalimat \"Las conclusiones recapitulan las aportaciones originales y deslindan futuros derroteros heurísticos.\" (dibaca: Las conclusiones recapitulan las aportasiones orikhinales y deslindan futuros derroteros heurísticos.) berarti \"Bagian kesimpulan merangkum kontribusi-kontribusi orisinal serta memetakan arah pencarian ilmiah di masa depan.\". Kalimat ini menggunakan pola \"Articulación discursiva formal de la investigación empírica y humanística\" (Redacción de Artículos de Investigación y Ensayos Académicos) yang berfungsi untuk kaidah standar penulisan naskah artikel jurnal internasional bereputasi: dari formulasi abstrak hingga bab diskusi penutup."
       },
       {
         "id": "q-es-gram-47-pg-4",
@@ -22039,7 +22180,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-47-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Redacción de Artículos de Investigación y Ensayos Académicos\"?",
         "options": [
           "Lejos de refutar nuestra hipótesis de partida, estos hallazgos vienen a corroborarla plenamente. — Jauh dari mematahkan hipotesis awal kita, temuan-temuan ini justru menguatkannya secara menyeluruh.",
           "Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria. — Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku.",
@@ -22053,7 +22194,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-47-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Redacción de Artículos de Investigación y Ensayos Académicos\"?",
         "options": [
           "Si bien es cierto que el modelo presenta limitaciones, no es menos cierto que su valor predictivo es elevado. — Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi.",
           "Cabe puntualizar que los resultados no pretenden ser exhaustivos, sino analíticamente representativos. — Perlu digarisbawahi bahwa hasil-hasil ini tidak dimaksudkan mencakup segalanya, melainkan representatif secara analitis.",
@@ -22067,7 +22208,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-47-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Redacción de Artículos de Investigación y Ensayos Académicos\"?",
         "options": [
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -22322,7 +22463,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sekalipun memang benar bahwa model ini memiliki keterbatasan, tak kalah benarnya pula bahwa nilai prediktifnya sangat tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas.\" berarti \"Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi.\"."
+        "explanation": "Kalimat \"La sección de resultados expone de manera pormenorizada las correlaciones estadísticas identificadas.\" (dibaca: La secsión de resultados expone de manera pormenorizada las correlasiones estadísticas identificadas.) berarti \"Bagian hasil penelitian memaparkan secara terperinci korelasi-korelasi statistik yang berhasil diidentifikasi.\". Kalimat ini menggunakan pola \"Articulación discursiva formal de la investigación empírica y humanística\" (Redacción de Artículos de Investigación y Ensayos Académicos) yang berfungsi untuk kaidah standar penulisan naskah artikel jurnal internasional bereputasi: dari formulasi abstrak hingga bab diskusi penutup."
       },
       {
         "id": "q-es-gram-47-bb-2",
@@ -22397,24 +22538,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah bahasa perjanjian dagang, piagam pendirian fakultas, dan naskah hukum resmi di Spanyol dan Amerika Latin.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Discurso Jurídico, Administrativo y Económico Hispanoamericano' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Discurso Jurídico, Administrativo y Económico Hispanoamericano\" (Peculiaridades morfosintácticas y léxicas del lenguaje de la administración pública) berfungsi untuk: kaidah bahasa perjanjian dagang, piagam pendirian fakultas, dan naskah hukum resmi di Spanyol dan Amerika Latin. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado. — Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut."
+          "Rumus utama: Formulaciones declarativas performativas: Se hace constar / En fe de lo cual",
+          "Contoh 1: Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado. (Se hase constar ke el postulante ha cumplido a cabalidad con todos los rekisitos condusentes al grado.) — Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Formulaciones declarativas performativas: Se hace constar / En fe de lo cual memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Formulaciones declarativas performativas: Se hace constar / En fe de lo cual\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Wacana hukum dan administrasi mengadopsi formula deklaratif impersonal yang memiliki keabsahan yuridis.",
         "ruleList": [
-          "En fe de lo cual firman el presente instrumento contractual en dos ejemplares de idéntico tenor. — Sebagai bukti sahnya, para pihak menandatangani akta perjanjian ini dalam rangkap dua yang berkekuatan hukum sama."
+          "Polanya: Formulaciones declarativas performativas: Se hace constar / En fe de lo cual",
+          "Contoh 2: En fe de lo cual firman el presente instrumento contractual en dos ejemplares de idéntico tenor. (En fe de lo cual firman el presente instrumento contractual en dos ekhemplares de idéntico tenor.) — Sebagai bukti sahnya, para pihak menandatangani akta perjanjian ini dalam rangkap dua yang berkekuatan hukum sama."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Discurso Jurídico, Administrativo y Económico Hispanoamericano\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "El presente reglamento rige para todas las dependencias académicas y administrativas de la universidad. — Peraturan ini berlaku mengikat bagi seluruh unit kerja akademik maupun administratif di lingkungan universitas."
+          "Contoh 3: El presente reglamento rige para todas las dependencias académicas y administrativas de la universidad. (El presente reglamento rikhe para todas las dependensias académicas y administrativas de la universidad.) — Peraturan ini berlaku mengikat bagi seluruh unit kerja akademik maupun administratif di lingkungan universitas.",
+          "Hindari kesalahan: \"yo digo que él cumplió\" → gunakan bentuk yang benar: \"se hace constar que el interesado ha cumplido a cabalidad\"."
         ]
       }
     ],
@@ -22422,19 +22566,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-48-ex-1",
         "native": "Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado.",
-        "phonetic": "",
+        "phonetic": "Se hase constar ke el postulante ha cumplido a cabalidad con todos los rekisitos condusentes al grado.",
         "translationId": "Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut."
       },
       {
         "id": "es-gram-48-ex-2",
         "native": "En fe de lo cual firman el presente instrumento contractual en dos ejemplares de idéntico tenor.",
-        "phonetic": "",
+        "phonetic": "En fe de lo cual firman el presente instrumento contractual en dos ekhemplares de idéntico tenor.",
         "translationId": "Sebagai bukti sahnya, para pihak menandatangani akta perjanjian ini dalam rangkap dua yang berkekuatan hukum sama."
       },
       {
         "id": "es-gram-48-ex-3",
         "native": "El presente reglamento rige para todas las dependencias académicas y administrativas de la universidad.",
-        "phonetic": "",
+        "phonetic": "El presente reglamento rikhe para todas las dependensias académicas y administrativas de la universidad.",
         "translationId": "Peraturan ini berlaku mengikat bagi seluruh unit kerja akademik maupun administratif di lingkungan universitas."
       }
     ],
@@ -22450,7 +22594,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Discurso Jurídico, Administrativo y Económico Hispanoamericano' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Discurso Jurídico, Administrativo y Económico Hispanoamericano\" (Formulaciones declarativas performativas: Se hace constar / En fe de lo cual) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-48-pg-1",
@@ -22466,7 +22610,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado.\" berarti \"Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut.\"."
+        "explanation": "Kalimat \"Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado.\" (dibaca: Se hase constar ke el postulante ha cumplido a cabalidad con todos los rekisitos condusentes al grado.) berarti \"Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut.\". Kalimat ini menggunakan pola \"Formulaciones declarativas performativas: Se hace constar / En fe de lo cual\" (Discurso Jurídico, Administrativo y Económico Hispanoamericano) yang berfungsi untuk kaidah bahasa perjanjian dagang, piagam pendirian fakultas, dan naskah hukum resmi di Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-48-pg-2",
@@ -22482,7 +22626,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"En fe de lo cual firman el presente instrumento contractual en dos ejemplares de idéntico tenor.\" berarti \"Sebagai bukti sahnya, para pihak menandatangani akta perjanjian ini dalam rangkap dua yang berkekuatan hukum sama.\"."
+        "explanation": "Kalimat \"En fe de lo cual firman el presente instrumento contractual en dos ejemplares de idéntico tenor.\" (dibaca: En fe de lo cual firman el presente instrumento contractual en dos ekhemplares de idéntico tenor.) berarti \"Sebagai bukti sahnya, para pihak menandatangani akta perjanjian ini dalam rangkap dua yang berkekuatan hukum sama.\". Kalimat ini menggunakan pola \"Formulaciones declarativas performativas: Se hace constar / En fe de lo cual\" (Discurso Jurídico, Administrativo y Económico Hispanoamericano) yang berfungsi untuk kaidah bahasa perjanjian dagang, piagam pendirian fakultas, dan naskah hukum resmi di Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-48-pg-3",
@@ -22498,7 +22642,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Konvergensi metodologis memfasilitasi penafsiran yang terintegrasi atas data-data yang diperoleh."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El presente reglamento rige para todas las dependencias académicas y administrativas de la universidad.\" berarti \"Peraturan ini berlaku mengikat bagi seluruh unit kerja akademik maupun administratif di lingkungan universitas.\"."
+        "explanation": "Kalimat \"El presente reglamento rige para todas las dependencias académicas y administrativas de la universidad.\" (dibaca: El presente reglamento rikhe para todas las dependensias académicas y administrativas de la universidad.) berarti \"Peraturan ini berlaku mengikat bagi seluruh unit kerja akademik maupun administratif di lingkungan universitas.\". Kalimat ini menggunakan pola \"Formulaciones declarativas performativas: Se hace constar / En fe de lo cual\" (Discurso Jurídico, Administrativo y Económico Hispanoamericano) yang berfungsi untuk kaidah bahasa perjanjian dagang, piagam pendirian fakultas, dan naskah hukum resmi di Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-48-pg-4",
@@ -22518,7 +22662,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-48-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Discurso Jurídico, Administrativo y Económico Hispanoamericano\"?",
         "options": [
           "Si hubiere lugar a reclamación formal, las partes se someterán al arbitraje del tribunal universitario. — Apabila terdapat dasar bagi pengajuan keberatan resmi, para pihak akan tunduk pada arbitrase majelis universitas.",
           "La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico. — Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis.",
@@ -22532,7 +22676,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-48-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Discurso Jurídico, Administrativo y Económico Hispanoamericano\"?",
         "options": [
           "El presente reglamento rige para todas las dependencias académicas y administrativas de la universidad. — Peraturan ini berlaku mengikat bagi seluruh unit kerja akademik maupun administratif di lingkungan universitas.",
           "Quien infringiere los estatutos académicos será sancionado conforme a la reglamentación disciplinaria. — Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku.",
@@ -22546,7 +22690,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-48-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Discurso Jurídico, Administrativo y Económico Hispanoamericano\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
@@ -22803,7 +22947,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Barang siapa melanggar statuta akademik akan dikenai sanksi sesuai dengan peraturan disiplin yang berlaku."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado.\" berarti \"Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut.\"."
+        "explanation": "Kalimat \"Se hace constar que el postulante ha cumplido a cabalidad con todos los requisitos conducentes al grado.\" (dibaca: Se hase constar ke el postulante ha cumplido a cabalidad con todos los rekisitos condusentes al grado.) berarti \"Dengan ini diterangkan bahwa pemohon telah memenuhi secara menyeluruh seluruh persyaratan untuk meraih gelar akademik tersebut.\". Kalimat ini menggunakan pola \"Formulaciones declarativas performativas: Se hace constar / En fe de lo cual\" (Discurso Jurídico, Administrativo y Económico Hispanoamericano) yang berfungsi untuk kaidah bahasa perjanjian dagang, piagam pendirian fakultas, dan naskah hukum resmi di Spanyol dan Amerika Latin."
       },
       {
         "id": "q-es-gram-48-bb-2",
@@ -22878,24 +23022,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam naskah monograf disertasi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Elaboración de la Tesis de Maestría y Proyecto de Grado' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Elaboración de la Tesis de Maestría y Proyecto de Grado\" (La coherencia holística entre hipótesis, metodología y conclusiones doctorales) berfungsi untuk: merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam naskah monograf disertasi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual. — Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks."
+          "Rumus utama: Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez",
+          "Contoh 1: La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual. (La tesis doctoral articula un diálogo fructífero entre la sosiología del conosimiento y la crítica textual.) — Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Naskah disertasi harus membuktikan orisinalitas temuan, ketelitian metodologis, dan kematangan teoretis.",
         "ruleList": [
-          "El marco metodológico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos. — Kerangka metodologis tersebut menjamin ketertelusuran dan keterulangan dari eksperimen-eksperimen kuantitatif."
+          "Polanya: Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez",
+          "Contoh 2: El marco metodológico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos. (El marco metodolókhico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos.) — Kerangka metodologis tersebut menjamin ketertelusuran dan keterulangan dari eksperimen-eksperimen kuantitatif."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Elaboración de la Tesis de Maestría y Proyecto de Grado\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "La triangulación hermenéutica confiere solidez interpretativa a las conclusiones de la monografía. — Triangulasi hermeneutis memberikan kekokohan interpretatif pada kesimpulan-kesimpulan monograf tersebut."
+          "Contoh 3: La triangulación hermenéutica confiere solidez interpretativa a las conclusiones de la monografía. (La triangulasión hermenéutica confiere solidez interpretativa a las conclusiones de la monografía.) — Triangulasi hermeneutis memberikan kekokohan interpretatif pada kesimpulan-kesimpulan monograf tersebut.",
+          "Hindari kesalahan: \"la tesis trata de cosas interesantes\" → gunakan bentuk yang benar: \"la tesis postula una reinterpretación epistemológica de...\"."
         ]
       }
     ],
@@ -22903,19 +23050,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-49-ex-1",
         "native": "La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual.",
-        "phonetic": "",
+        "phonetic": "La tesis doctoral articula un diálogo fructífero entre la sosiología del conosimiento y la crítica textual.",
         "translationId": "Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks."
       },
       {
         "id": "es-gram-49-ex-2",
         "native": "El marco metodológico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos.",
-        "phonetic": "",
+        "phonetic": "El marco metodolókhico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos.",
         "translationId": "Kerangka metodologis tersebut menjamin ketertelusuran dan keterulangan dari eksperimen-eksperimen kuantitatif."
       },
       {
         "id": "es-gram-49-ex-3",
         "native": "La triangulación hermenéutica confiere solidez interpretativa a las conclusiones de la monografía.",
-        "phonetic": "",
+        "phonetic": "La triangulasión hermenéutica confiere solidez interpretativa a las conclusiones de la monografía.",
         "translationId": "Triangulasi hermeneutis memberikan kekokohan interpretatif pada kesimpulan-kesimpulan monograf tersebut."
       }
     ],
@@ -22931,7 +23078,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Elaboración de la Tesis de Maestría y Proyecto de Grado' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Elaboración de la Tesis de Maestría y Proyecto de Grado\" (Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-49-pg-1",
@@ -22947,7 +23094,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Konsolidasi bertahap dari paradigma hermeneutika telah mengubah wajah kajian sastra."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual.\" berarti \"Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks.\"."
+        "explanation": "Kalimat \"La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual.\" (dibaca: La tesis doctoral articula un diálogo fructífero entre la sosiología del conosimiento y la crítica textual.) berarti \"Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks.\". Kalimat ini menggunakan pola \"Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez\" (Elaboración de la Tesis de Maestría y Proyecto de Grado) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam naskah monograf disertasi."
       },
       {
         "id": "q-es-gram-49-pg-2",
@@ -22963,7 +23110,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"El marco metodológico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos.\" berarti \"Kerangka metodologis tersebut menjamin ketertelusuran dan keterulangan dari eksperimen-eksperimen kuantitatif.\"."
+        "explanation": "Kalimat \"El marco metodológico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos.\" (dibaca: El marco metodolókhico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos.) berarti \"Kerangka metodologis tersebut menjamin ketertelusuran dan keterulangan dari eksperimen-eksperimen kuantitatif.\". Kalimat ini menggunakan pola \"Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez\" (Elaboración de la Tesis de Maestría y Proyecto de Grado) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam naskah monograf disertasi."
       },
       {
         "id": "q-es-gram-49-pg-3",
@@ -22979,7 +23126,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La triangulación hermenéutica confiere solidez interpretativa a las conclusiones de la monografía.\" berarti \"Triangulasi hermeneutis memberikan kekokohan interpretatif pada kesimpulan-kesimpulan monograf tersebut.\"."
+        "explanation": "Kalimat \"La triangulación hermenéutica confiere solidez interpretativa a las conclusiones de la monografía.\" (dibaca: La triangulasión hermenéutica confiere solidez interpretativa a las conclusiones de la monografía.) berarti \"Triangulasi hermeneutis memberikan kekokohan interpretatif pada kesimpulan-kesimpulan monograf tersebut.\". Kalimat ini menggunakan pola \"Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez\" (Elaboración de la Tesis de Maestría y Proyecto de Grado) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam naskah monograf disertasi."
       },
       {
         "id": "q-es-gram-49-pg-4",
@@ -22999,7 +23146,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-49-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Elaboración de la Tesis de Maestría y Proyecto de Grado\"?",
         "options": [
           "El marco metodológico garantiza la trazabilidad y la replicabilidad de los experimentos cuantitativos. — Kerangka metodologis tersebut menjamin ketertelusuran dan keterulangan dari eksperimen-eksperimen kuantitatif.",
           "La paulatina consolidación del paradigma hermenéutico transformó los estudios literarios. — Konsolidasi bertahap dari paradigma hermeneutika telah mengubah wajah kajian sastra.",
@@ -23013,7 +23160,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-49-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Elaboración de la Tesis de Maestría y Proyecto de Grado\"?",
         "options": [
           "La exhaustiva elucidación de los factores condicionantes permitió reconfigurar el modelo teórico. — Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis.",
           "La triangulación hermenéutica confiere solidez interpretativa a las conclusiones de la monografía. — Triangulasi hermeneutis memberikan kekokohan interpretatif pada kesimpulan-kesimpulan monograf tersebut.",
@@ -23027,7 +23174,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-49-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Elaboración de la Tesis de Maestría y Proyecto de Grado\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23282,7 +23429,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penjelasan menyeluruh terhadap faktor-faktor penentu tersebut memungkinkan penataan ulang model teoretis."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual.\" berarti \"Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks.\"."
+        "explanation": "Kalimat \"La tesis doctoral articula un diálogo fructífero entre la sociología del conocimiento y la crítica textual.\" (dibaca: La tesis doctoral articula un diálogo fructífero entre la sosiología del conosimiento y la crítica textual.) berarti \"Disertasi doktoral ini merajut dialog ilmiah yang produktif antara sosiologi pengetahuan dan kritik teks.\". Kalimat ini menggunakan pola \"Urdambre metodológica / Formulación del marco epistemológico / Criterios de validez\" (Elaboración de la Tesis de Maestría y Proyecto de Grado) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam naskah monograf disertasi."
       },
       {
         "id": "q-es-gram-49-bb-2",
@@ -23357,24 +23504,27 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Teknik penyampaian pidato pembuka sidang terbuka promosi doktor dan etika menerima masukan konstruktif dewan penguji.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah tata bahasa 'Defensa Oral de la Disertación Doctoral ante el Tribunal' sangat mutlak untuk mencapai ekspresi lisan dan tulisan yang akurat dalam bahasa Spanyol.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Defensa Oral de la Disertación Doctoral ante el Tribunal\" (El protocolo retórico y la elocuencia académica en la defensa de tesis (Acto de Defensa)) berfungsi untuk: teknik penyampaian pidato pembuka sidang terbuka promosi doktor dan etika menerima masukan konstruktif dewan penguji. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Spanyol sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis. — Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya."
+          "Rumus utama: Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal",
+          "Contoh 1: Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis. (Senyor presidente, senyoras y senyores vocales del tribunal: agradezco sinseramente la lectura atenta de mi tesis.) — Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Sintaksis",
-        "content": "Struktur Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal memungkinkan perumusan kalimat kompleks dengan ketepatan konseptual dan kelancaran alami.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sidang terbuka promosi doktor (acto de defensa) menuntut ketenangan retorika dan penghormatan terhadap tradisi akademik.",
         "ruleList": [
-          "Paso a responder a la muy oportuna observación metodológica planteada por el señor secretario del tribunal. — Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji."
+          "Polanya: Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal",
+          "Contoh 2: Paso a responder a la muy oportuna observación metodológica planteada por el señor secretario del tribunal. (Paso a responder a la muy oportuna observasión metodolókhica planteada por el senyor secretario del tribunal.) — Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Stilistika",
-        "content": "Di lingkungan universitas Spanyol dan Amerika Latin, kaidah sintaksis ini menjamin kematangan retorika dan wibawa ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Defensa Oral de la Disertación Doctoral ante el Tribunal\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Reitero mi agradecimiento a los miembros del tribunal por el honor que me confieren al examinar este trabajo. — Saya kembali menghaturkan terima kasih kepada para anggota majelis penguji atas kehormatan yang diberikan dalam menguji karya ini."
+          "Contoh 3: Reitero mi agradecimiento a los miembros del tribunal por el honor que me confieren al examinar este trabajo. (Reitero mi agradesimiento a los miembros del tribunal por el honor ke me confieren al examinar este trabakho.) — Saya kembali menghaturkan terima kasih kepada para anggota majelis penguji atas kehormatan yang diberikan dalam menguji karya ini.",
+          "Hindari kesalahan: \"gracias por darme el doctorado\" → gunakan bentuk yang benar: \"agradezco al ilustre tribunal sus valiosas observaciones que enriquecen este trabajo\"."
         ]
       }
     ],
@@ -23382,19 +23532,19 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "es-gram-50-ex-1",
         "native": "Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis.",
-        "phonetic": "",
+        "phonetic": "Senyor presidente, senyoras y senyores vocales del tribunal: agradezco sinseramente la lectura atenta de mi tesis.",
         "translationId": "Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya."
       },
       {
         "id": "es-gram-50-ex-2",
         "native": "Paso a responder a la muy oportuna observación metodológica planteada por el señor secretario del tribunal.",
-        "phonetic": "",
+        "phonetic": "Paso a responder a la muy oportuna observasión metodolókhica planteada por el senyor secretario del tribunal.",
         "translationId": "Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji."
       },
       {
         "id": "es-gram-50-ex-3",
         "native": "Reitero mi agradecimiento a los miembros del tribunal por el honor que me confieren al examinar este trabajo.",
-        "phonetic": "",
+        "phonetic": "Reitero mi agradesimiento a los miembros del tribunal por el honor ke me confieren al examinar este trabakho.",
         "translationId": "Saya kembali menghaturkan terima kasih kepada para anggota majelis penguji atas kehormatan yang diberikan dalam menguji karya ini."
       }
     ],
@@ -23410,7 +23560,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan keselarasan gender, jumlah, serta pemilihan modus indicativo vs subjuntivo dalam bahasa Spanyol."
       }
     ],
-    "culturalContext": "Penguasaan kompeten atas kaidah 'Defensa Oral de la Disertación Doctoral ante el Tribunal' dipandang sebagai indikator keunggulan komunikasi akademik di dunia Hispanik (DELE / SIELE).",
+    "culturalContext": "Dalam bahasa Spanyol sehari-hari, pola \"Defensa Oral de la Disertación Doctoral ante el Tribunal\" (Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-es-gram-50-pg-1",
@@ -23426,7 +23576,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis.\" berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya.\"."
+        "explanation": "Kalimat \"Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis.\" (dibaca: Senyor presidente, senyoras y senyores vocales del tribunal: agradezco sinseramente la lectura atenta de mi tesis.) berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya.\". Kalimat ini menggunakan pola \"Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal\" (Defensa Oral de la Disertación Doctoral ante el Tribunal) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka promosi doktor dan etika menerima masukan konstruktif dewan penguji."
       },
       {
         "id": "q-es-gram-50-pg-2",
@@ -23442,7 +23592,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Penggalian-penggalian arkeologis terkini memberikan titik terang atas suatu periode sejarah yang minim dokumentasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Paso a responder a la muy oportuna observación metodológica planteada por el señor secretario del tribunal.\" berarti \"Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji.\"."
+        "explanation": "Kalimat \"Paso a responder a la muy oportuna observación metodológica planteada por el señor secretario del tribunal.\" (dibaca: Paso a responder a la muy oportuna observasión metodolókhica planteada por el senyor secretario del tribunal.) berarti \"Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji.\". Kalimat ini menggunakan pola \"Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal\" (Defensa Oral de la Disertación Doctoral ante el Tribunal) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka promosi doktor dan etika menerima masukan konstruktif dewan penguji."
       },
       {
         "id": "q-es-gram-50-pg-3",
@@ -23458,7 +23608,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Saya kembali menghaturkan terima kasih kepada para anggota majelis penguji atas kehormatan yang diberikan dalam menguji karya ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Reitero mi agradecimiento a los miembros del tribunal por el honor que me confieren al examinar este trabajo.\" berarti \"Saya kembali menghaturkan terima kasih kepada para anggota majelis penguji atas kehormatan yang diberikan dalam menguji karya ini.\"."
+        "explanation": "Kalimat \"Reitero mi agradecimiento a los miembros del tribunal por el honor que me confieren al examinar este trabajo.\" (dibaca: Reitero mi agradesimiento a los miembros del tribunal por el honor ke me confieren al examinar este trabakho.) berarti \"Saya kembali menghaturkan terima kasih kepada para anggota majelis penguji atas kehormatan yang diberikan dalam menguji karya ini.\". Kalimat ini menggunakan pola \"Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal\" (Defensa Oral de la Disertación Doctoral ante el Tribunal) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka promosi doktor dan etika menerima masukan konstruktif dewan penguji."
       },
       {
         "id": "q-es-gram-50-pg-4",
@@ -23478,7 +23628,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-50-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Defensa Oral de la Disertación Doctoral ante el Tribunal\"?",
         "options": [
           "Frente a las tesis tradicionales de Menéndez Pidal, la filología reciente postula una poligénesis lírica. — Berhadapan dengan tesis tradisional Menéndez Pidal, filologi mutakhir mengajukan postulat poligenesis lirik.",
           "Paso a responder a la muy oportuna observación metodológica planteada por el señor secretario del tribunal. — Selanjutnya saya akan menanggapi catatan metodologis yang sangat tepat yang diajukan oleh Bapak Sekretaris Majelis Penguji.",
@@ -23492,7 +23642,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-50-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Sintaksis\":",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Defensa Oral de la Disertación Doctoral ante el Tribunal\"?",
         "options": [
           "El estado de la cuestión revela una fractura epistemológica entre estructuralistas y postestructuralistas. — Tinjauan pustaka terkini menyingkapkan keretakan epistemologis antara kubu strukturalis dan pascastrukturalis.",
           "La síntesis de los archivos notariales permite reconstruir la estructura patrimonial de la élite mercantil. — Sintesis terhadap arsip-arsip notaris memungkinkan rekonstruksi struktur kekayaan kalangan elit pedagang.",
@@ -23506,7 +23656,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-es-gram-50-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Stilistika\"?",
+        "prompt": "Manakah kalimat bahasa Spanyol berikut yang benar dan sesuai dengan materi \"Defensa Oral de la Disertación Doctoral ante el Tribunal\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23763,7 +23913,7 @@ export const SPANISH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis.\" berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya.\"."
+        "explanation": "Kalimat \"Señor presidente, señoras y señores vocales del tribunal: agradezco sinceramente la lectura atenta de mi tesis.\" (dibaca: Senyor presidente, senyoras y senyores vocales del tribunal: agradezco sinseramente la lectura atenta de mi tesis.) berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota majelis penguji yang terhormat: saya mengucapkan terima kasih yang tulus atas pembacaan saksama terhadap disertasi saya.\". Kalimat ini menggunakan pola \"Discurso liminar / Contestación a las objeciones de los vocales y censor / Agradecimiento formal\" (Defensa Oral de la Disertación Doctoral ante el Tribunal) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka promosi doktor dan etika menerima masukan konstruktif dewan penguji."
       },
       {
         "id": "q-es-gram-50-bb-2",

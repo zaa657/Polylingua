@@ -13,7 +13,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "مرحباً يا أستاذ، يسعدني لقاؤك اليوم.",
     "examplePhonetic": "Marhaban ya ustadh, yus'iduni liqa'uka al-yawm.",
     "exampleTranslation": "Halo Profesor, saya sangat senang bertemu dengan Anda hari ini.",
-    "notes": "Ungkapan salam pembuka percakapan.",
+    "notes": "Ungkapan salam pembuka percakapan. Kata \"مرحبا\" (cara baca: Marhaban) digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Halo\".",
     "tags": [
       "salam",
       "pemula",
@@ -70,7 +70,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "إلى اللقاء في المحاضرة القادمة إن شاء الله.",
     "examplePhonetic": "Ila al-liqa' fi al-muhadarah al-qadimah in sha' Allah.",
     "exampleTranslation": "Sampai jumpa di perkuliahan berikutnya insya Allah.",
-    "notes": "Ucapan perpisahan santun.",
+    "notes": "Ucapan perpisahan santun. Kata \"إلى اللقاء\" (cara baca: Ila al-liqa') digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Sampai jumpa lagi\".",
     "tags": [
       "salam",
       "pemula",
@@ -146,7 +146,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "أرشدني إلى قاعة المؤتمرات من فضلك.",
     "examplePhonetic": "Arshidni ila qa'at al-mu'tamarath min fadlik.",
     "exampleTranslation": "Tunjukkanlah saya arah ke auditorium konferensi, tolong.",
-    "notes": "Kata santun untuk memohon bantuan.",
+    "notes": "Kata santun untuk memohon bantuan. Kata \"من فضلك\" (cara baca: Min fadlik) digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Tolong\".",
     "tags": [
       "salam",
       "pemula",
@@ -165,7 +165,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "كيف حالك اليوم وكيف تسير دراستك؟",
     "examplePhonetic": "Kayfa haluka al-yawm wa kayfa tasiru dirasatuk?",
     "exampleTranslation": "Bagaimana kabarmu hari ini dan bagaimana studimu berjalan?",
-    "notes": "Menanyakan kabar dan kondisi kesehatan.",
+    "notes": "Menanyakan kabar dan kondisi kesehatan. Kata \"كيف حالك\" (cara baca: Kayfa haluk) digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Apa kabar?\".",
     "tags": [
       "salam",
       "pemula",
@@ -184,7 +184,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تشرفت بمعرفتك يا زميلي العزيز.",
     "examplePhonetic": "Tasharraftu bi-ma'rifatika ya zamili al-'aziz.",
     "exampleTranslation": "Sangat terhormat dan senang dapat berkenalan denganmu sahabatku.",
-    "notes": "Diucapkan saat perkenalan pertama kali.",
+    "notes": "Diucapkan saat perkenalan pertama kali. Kata \"تشرفت بمعرفتك\" (cara baca: Tasharraftu bi-ma'rifatik) digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Senang berkenalan dengan Anda\".",
     "tags": [
       "salam",
       "pemula",
@@ -203,7 +203,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "نعم، أنا طالب في السنة التحضيرية.",
     "examplePhonetic": "Na'am, ana talib fi as-sanah at-tahdiriyyah.",
     "exampleTranslation": "Ya, saya adalah mahasiswa di tahun persiapan matrikulasi.",
-    "notes": "Jawaban afirmatif menyetujui.",
+    "notes": "Jawaban afirmatif menyetujui. Kata \"نعم\" (cara baca: Na'am) digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Ya\".",
     "tags": [
       "salam",
       "pemula",
@@ -222,7 +222,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "لا، هذا المرجع ليس ملكي الشخصي.",
     "examplePhonetic": "La, hadha al-marji' laysa milki ash-shakhsi.",
     "exampleTranslation": "Bukan / Tidak, buku rujukan ini bukan milik pribadi saya.",
-    "notes": "Jawaban penolakan atau negasi.",
+    "notes": "Jawaban penolakan atau negasi. Kata \"لا\" (cara baca: La) digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Tidak\".",
     "tags": [
       "salam",
       "pemula",
@@ -260,7 +260,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "اسمي أحمد، جئت من جمهورية إندونيسيا.",
     "examplePhonetic": "Ismi Ahmad, ji'tu min jumhuriyyat Indunisiya.",
     "exampleTranslation": "Nama saya Ahmad, saya datang dari Republik Indonesia.",
-    "notes": "Memperkenalkan nama diri sendiri.",
+    "notes": "Memperkenalkan nama diri sendiri. Kata \"اسمي\" (cara baca: Ismi) digunakan dalam bahasa Arab (tingkat Pemula, kategori Salam & Percakapan) untuk menyatakan \"Nama saya...\".",
     "tags": [
       "salam",
       "pemula",
@@ -298,7 +298,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "جامعة الملك سعود رائدة في مجال الأبحاث العلمية.",
     "examplePhonetic": "Jami'at al-Malik Sa'ud ra'idah fi majal al-abhath al-'ilmiyyah.",
     "exampleTranslation": "Universitas King Saud adalah pelopor di bidang penelitian ilmiah.",
-    "notes": "Institusi pendidikan tinggi formal.",
+    "notes": "Institusi pendidikan tinggi formal. Kata \"جامعة\" (cara baca: Jami'ah) digunakan dalam bahasa Arab (tingkat Pemula, kategori Kampus & Pendidikan) untuk menyatakan \"Universitas\".",
     "tags": [
       "kampus",
       "pemula",
@@ -488,7 +488,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "حصل الطالب على درجة الامتياز في مقرر أصول الفقه.",
     "examplePhonetic": "Hasala at-talib 'ala darajat al-imtiyaz fi muqarrar usul al-fiqh.",
     "exampleTranslation": "Mahasiswa tersebut memperoleh nilai istimewa pada mata kuliah ushul fikih.",
-    "notes": "Hasil evaluasi prestasi belajar.",
+    "notes": "Hasil evaluasi prestasi belajar. Kata \"درجة\" (cara baca: Darajah) digunakan dalam bahasa Arab (tingkat Dasar, kategori Kampus & Pendidikan) untuk menyatakan \"Nilai akademik\".",
     "tags": [
       "kampus",
       "dasar",
@@ -507,7 +507,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "وفرت المملكة منحة دراسية كاملة للطلاب المتفوقين.",
     "examplePhonetic": "Waffarati al-mamlakah minhah dirasiyyah kamilah li-t-tullab al-mutafawwiqin.",
     "exampleTranslation": "Kerajaan menyediakan beasiswa penuh bagi mahasiswa berprestasi.",
-    "notes": "Bantuan dana pendidikan berprestasi.",
+    "notes": "Bantuan dana pendidikan berprestasi. Kata \"منحة دراسية\" (cara baca: Minhah dirasiyyah) digunakan dalam bahasa Arab (tingkat Dasar, kategori Kampus & Pendidikan) untuk menyatakan \"Beasiswa\".",
     "tags": [
       "kampus",
       "dasar",
@@ -640,7 +640,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "صاغ الباحث فرضية الدراسة استناداً إلى النظريات السابقة.",
     "examplePhonetic": "Sagha al-bahith fardiyyat ad-dirasah istinadan ila an-nazariyyat as-sabiqah.",
     "exampleTranslation": "Peneliti merumuskan hipotesis riset berdasarkan teori-teori terdahulu.",
-    "notes": "Dugaan awal yang diuji kebenarannya.",
+    "notes": "Dugaan awal yang diuji kebenarannya. Kata \"فرضية\" (cara baca: Fardiyyah) digunakan dalam bahasa Arab (tingkat Menengah, kategori Penelitian & Riset) untuk menyatakan \"Hipotesis penelitian\".",
     "tags": [
       "penelitian",
       "menengah",
@@ -716,7 +716,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "لخص الباحث في الخاتمة أهم النتائج والتوصيات المستقبلية.",
     "examplePhonetic": "Lakhkhasa al-bahith fi al-khatimah ahamm an-nata'ij wa at-tawsiyat al-mustaqbaliyyah.",
     "exampleTranslation": "Peneliti merangkum temuan terpenting dan rekomendasi pada kesimpulan.",
-    "notes": "Ringkasan intisari hasil penelitian.",
+    "notes": "Ringkasan intisari hasil penelitian. Kata \"خاتمة\" (cara baca: Khatimah) digunakan dalam bahasa Arab (tingkat Menengah, kategori Penelitian & Riset) untuk menyatakan \"Kesimpulan\".",
     "tags": [
       "penelitian",
       "menengah",
@@ -735,7 +735,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "رتبت قائمة المراجع هجائياً وفقاً للضوابط الأكاديمية.",
     "examplePhonetic": "Ruttibat qa'imat al-maraji' hija'iyyan wifqan li-d-dawabit al-akadimiyyah.",
     "exampleTranslation": "Daftar pustaka diurutkan secara alfabetis sesuai regulasi akademik.",
-    "notes": "Daftar rujukan literatur yang disitir.",
+    "notes": "Daftar rujukan literatur yang disitir. Kata \"قائمة المراجع\" (cara baca: Qa'imat al-maraji') digunakan dalam bahasa Arab (tingkat Menengah, kategori Penelitian & Riset) untuk menyatakan \"Daftar pustaka\".",
     "tags": [
       "penelitian",
       "menengah",
@@ -811,7 +811,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "ينطلق قطار الحرمين السريع بين مكة والمدينة بسرعات عالية.",
     "examplePhonetic": "Yantaliqu qitar al-haramayn as-sari' bayna Makkah wa al-Madinah bi-sur'at 'aliyah.",
     "exampleTranslation": "Kereta cepat Haramain melaju antara Mekkah dan Madinah dengan laju tinggi.",
-    "notes": "Moda transportasi rel cepat perkotaan.",
+    "notes": "Moda transportasi rel cepat perkotaan. Kata \"قطار\" (cara baca: Qitar) digunakan dalam bahasa Arab (tingkat Pemula, kategori Transportasi & Arah) untuk menyatakan \"Kereta api\".",
     "tags": [
       "transportasi",
       "pemula",
@@ -849,7 +849,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "طلبنا سيارة أجرة عبر التطبيق للذهاب إلى مركز المؤتمرات.",
     "examplePhonetic": "Talabna sayyarat ujrah 'abra at-tatbiq li-dh-dhihab ila markaz al-mu'tamarath.",
     "exampleTranslation": "Kami memesan taksi melalui aplikasi untuk menuju pusat konvensi.",
-    "notes": "Kendaraan sewa umum berbayar argo.",
+    "notes": "Kendaraan sewa umum berbayar argo. Kata \"سيارة أجرة\" (cara baca: Sayyarat ujrah) digunakan dalam bahasa Arab (tingkat Pemula, kategori Transportasi & Arah) untuk menyatakan \"Taksi\".",
     "tags": [
       "transportasi",
       "pemula",
@@ -925,7 +925,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "ينتظر الطلاب وصول الباص في موقف الحافلات المظلل.",
     "examplePhonetic": "Yantaziru at-tullab wusul al-bas fi mawqif al-hafilat al-muzallal.",
     "exampleTranslation": "Para mahasiswa menanti tibanya bus di halte yang terlindung atap peneduh.",
-    "notes": "Tempat perhentian bus di tepi jalan.",
+    "notes": "Tempat perhentian bus di tepi jalan. Kata \"موقف الحافلات\" (cara baca: Mawqif al-hafilat) digunakan dalam bahasa Arab (tingkat Pemula, kategori Transportasi & Arah) untuk menyatakan \"Halte bus\".",
     "tags": [
       "transportasi",
       "pemula",
@@ -944,7 +944,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "انعطف إلى اليسار عند الإشارة الضوئية القادمة للوصول للكلية.",
     "examplePhonetic": "In'atif ila al-yasar 'inda al-isharah ad-daw'iyyah al-qadimah.",
     "exampleTranslation": "Beloklah ke arah kiri pada rambu lampu lalu lintas depan menuju fakultas.",
-    "notes": "Petunjuk arah ke sisi kiri.",
+    "notes": "Petunjuk arah ke sisi kiri. Kata \"يسار\" (cara baca: Yasar) digunakan dalam bahasa Arab (tingkat Pemula, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kiri\".",
     "tags": [
       "transportasi",
       "pemula",
@@ -963,7 +963,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تقع عمادة شؤون الطلاب على اليمين مباشرة بعد المدخل الرئيسي.",
     "examplePhonetic": "Taqa'u 'imadat shu'un at-tullab 'ala al-yamin mubasharatan ba'da al-madkhal.",
     "exampleTranslation": "Kantor dekanat kemahasiswaan terletak di sebelah kanan gerbang utama.",
-    "notes": "Petunjuk arah ke sisi kanan.",
+    "notes": "Petunjuk arah ke sisi kanan. Kata \"يمين\" (cara baca: Yamin) digunakan dalam bahasa Arab (tingkat Pemula, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kanan\".",
     "tags": [
       "transportasi",
       "pemula",
@@ -982,7 +982,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "سر إلى الأمام مباشرة لمسافة مائتي متر حتى ترى مبنى الإدارة.",
     "examplePhonetic": "Sir ila al-amam mubasharatan li-masafati mi'atay metr.",
     "exampleTranslation": "Berjalanlah lurus terus sejauh dua ratus meter hingga melihat gedung rektorat.",
-    "notes": "Petunjuk arah tanpa berbelok.",
+    "notes": "Petunjuk arah tanpa berbelok. Kata \"إلى الأمام مباشرة\" (cara baca: Ila al-amam mubasharatan) digunakan dalam bahasa Arab (tingkat Pemula, kategori Transportasi & Arah) untuk menyatakan \"Lurus terus\".",
     "tags": [
       "transportasi",
       "pemula",
@@ -1001,7 +1001,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "اليوم هو موعد مناقشة مشاريع التخرج للدفعة الحالية.",
     "examplePhonetic": "Al-yawm huwa maw'id munaqashat mashari' at-takharruj li-d-duf'ah al-haliyah.",
     "exampleTranslation": "Hari ini adalah agenda sidang ujian tugas akhir angkatan tahun ini.",
-    "notes": "Hari saat ini berlangsung.",
+    "notes": "Hari saat ini berlangsung. Kata \"اليوم\" (cara baca: Al-Yawm) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Hari ini\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1020,7 +1020,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "غداً تبدأ فترة الحذف والإضافة للمقررات الدراسية.",
     "examplePhonetic": "Ghadan tabda'u fatrat al-hadhf wa al-idafah li-l-muqarrarat ad-dirasiyyah.",
     "exampleTranslation": "Besok dimulai periode batal-tambah mata kuliah perkuliahan.",
-    "notes": "Hari setelah hari ini.",
+    "notes": "Hari setelah hari ini. Kata \"غدا\" (cara baca: Ghadan) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Besok\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1039,7 +1039,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "أمس أنهينا بنجاح ورشة العمل حول الكتابة الأكاديمية باللغة العربية.",
     "examplePhonetic": "Ams anhayna bi-najah warshat al-'amal hawla al-kitabah al-akadimiyyah.",
     "exampleTranslation": "Kemarin kami sukses merampungkan lokakarya penulisan akademik bahasa Arab.",
-    "notes": "Hari sebelum hari ini.",
+    "notes": "Hari sebelum hari ini. Kata \"أمس\" (cara baca: Ams) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Kemarin\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1058,7 +1058,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "استغرقت المحاضرة العلمية ساعة ونصف من النقاش المثمر.",
     "examplePhonetic": "Istaghraqati al-muhadarah al-'ilmiyyah sa'atan wa nisf min an-niqash al-muthmir.",
     "exampleTranslation": "Kuliah ilmiah memakan waktu satu setengah jam diskusi yang produktif.",
-    "notes": "Satuan penunjuk waktu 60 menit.",
+    "notes": "Satuan penunjuk waktu 60 menit. Kata \"ساعة\" (cara baca: Sa'ah) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Jam\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1077,7 +1077,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تبقت عشر دقائق قبل إغلاق باب تسليم الأبحاث.",
     "examplePhonetic": "Tabaqqat 'ashru daqa'iq qabla ighlaq bab taslim al-abhath.",
     "exampleTranslation": "Tersisa sepuluh menit sebelum portal pengumpulan tugas riset ditutup.",
-    "notes": "Satuan penunjuk waktu 60 detik.",
+    "notes": "Satuan penunjuk waktu 60 detik. Kata \"دقيقة\" (cara baca: Daqiqah) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Menit\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1096,7 +1096,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "ينظم النادي الثقافي فعاليات متنوعة على مدار الأسبوع.",
     "examplePhonetic": "Yunazzimu an-nadi ath-thaqafi fa'aliyyat mutanawwi'ah 'ala madar al-usbu'.",
     "exampleTranslation": "Klub budaya menggelar beragam acara sepanjang sepekan ini.",
-    "notes": "Periode waktu tujuh hari.",
+    "notes": "Periode waktu tujuh hari. Kata \"أسبوع\" (cara baca: Usbu') digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Pekan\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1115,7 +1115,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "ينتهي التقديم على المنح الدراسية بنهاية هذا الشهر الفضيل.",
     "examplePhonetic": "Yantahi at-taqdim 'ala al-minah ad-dirasiyyah bi-nihayati hadha ash-shahr.",
     "exampleTranslation": "Pendaftaran beasiswa akan berakhir pada penghujung bulan ini.",
-    "notes": "Periode waktu sekitar 30 hari.",
+    "notes": "Periode waktu sekitar 30 hari. Kata \"شهر\" (cara baca: Shahr) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Bulan kalender\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1134,7 +1134,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "أمضى الباحث سنة كاملة في جمع المخطوطات النادرة وتحقيقها.",
     "examplePhonetic": "Amda al-bahith sanatan kamilah fi jam' al-makhtutat an-nadirah.",
     "exampleTranslation": "Peneliti menghabiskan waktu satu tahun penuh menghimpun manuskrip langka.",
-    "notes": "Periode waktu 12 bulan.",
+    "notes": "Periode waktu 12 bulan. Kata \"سنة\" (cara baca: Sanah) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Tahun\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1153,7 +1153,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "الآن يستمع الطلاب إلى توجيهات المشرف الأكاديمي بدقة.",
     "examplePhonetic": "Al-an yastami'u at-tullab ila tawjihat al-mushrif al-akadimi bi-diqqah.",
     "exampleTranslation": "Saat ini para mahasiswa mendengarkan arahan dosen pembimbing dengan cermat.",
-    "notes": "Waktu yang sedang terjadi kini.",
+    "notes": "Waktu yang sedang terjadi kini. Kata \"الآن\" (cara baca: Al-An) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Sekarang\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1172,7 +1172,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "سنناقش النتائج التفصيلية في جلسة الغد لاحقاً.",
     "examplePhonetic": "Sa-nunaqishu an-nata'ij at-tafsiliyyah fi jalsat al-ghad lahiqan.",
     "exampleTranslation": "Kami akan mendiskusikan temuan rinci pada sesi lanjutan besok.",
-    "notes": "Waktu yang akan datang tidak lama lagi.",
+    "notes": "Waktu yang akan datang tidak lama lagi. Kata \"لاحقا\" (cara baca: Lahiqan) digunakan dalam bahasa Arab (tingkat Pemula, kategori Waktu, Hari & Angka) untuk menyatakan \"Nanti\".",
     "tags": [
       "waktu,",
       "pemula",
@@ -1248,7 +1248,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تعد الكبسة بالأرز البسمتي من أشهر الأطباق السعودية التقليدية.",
     "examplePhonetic": "Tu'addu al-kabsah bi-l-aruzz al-basmati min ashhar al-atbaq.",
     "exampleTranslation": "Nasi kabsah basmati adalah salah satu hidangan tradisional Saudi paling terkenal.",
-    "notes": "Makanan pokok sumber karbohidrat utama.",
+    "notes": "Makanan pokok sumber karbohidrat utama. Kata \"أرز\" (cara baca: Aruzz) digunakan dalam bahasa Arab (tingkat Pemula, kategori Makanan & Restoran) untuk menyatakan \"Nasi\".",
     "tags": [
       "makanan",
       "pemula",
@@ -1343,7 +1343,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "التمر السكري مع القهوة العربية له مذاق لذيذ وفريد.",
     "examplePhonetic": "At-tamr as-sukkari ma'a al-qahwah al-'arabiyyah lahu madhaq ladhidh wa farid.",
     "exampleTranslation": "Kurma sukari bersanding kopi arabika memiliki cita rasa lezat nan khas.",
-    "notes": "Rasa makanan yang memuaskan lidah.",
+    "notes": "Rasa makanan yang memuaskan lidah. Kata \"لذيذ\" (cara baca: Ladhidh) digunakan dalam bahasa Arab (tingkat Pemula, kategori Makanan & Restoran) untuk menyatakan \"Enak\".",
     "tags": [
       "makanan",
       "pemula",
@@ -1419,7 +1419,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يوفر متجر الجامعة كافة المستلزمات الهندسية والأدوات المكتبية.",
     "examplePhonetic": "Yuwaffiru matjar al-jami'ah kaffat al-mustalzamat al-handasiyyah.",
     "exampleTranslation": "Toko kampus menyediakan segala perlengkapan teknik dan perabot kantor.",
-    "notes": "Tempat menjual aneka barang kebutuhan.",
+    "notes": "Tempat menjual aneka barang kebutuhan. Kata \"متجر\" (cara baca: Matjar) digunakan dalam bahasa Arab (tingkat Pemula, kategori Ekonomi & Bisnis) untuk menyatakan \"Toko\".",
     "tags": [
       "ekonomi",
       "pemula",
@@ -1438,7 +1438,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يحصل الطلاب على خصم خاص بنسبة ثلاثين بالمائة في المعارض.",
     "examplePhonetic": "Yahsulu at-tullab 'ala khasm khass bi-nisbat thalathin bi-l-mi'ah.",
     "exampleTranslation": "Mahasiswa memperoleh potongan diskon khusus 30% di pameran buku.",
-    "notes": "Pengurangan dari harga jual standar.",
+    "notes": "Pengurangan dari harga jual standar. Kata \"خصم\" (cara baca: Khasm) digunakan dalam bahasa Arab (tingkat Dasar, kategori Ekonomi & Bisnis) untuk menyatakan \"Diskon\".",
     "tags": [
       "ekonomi",
       "dasar",
@@ -1457,7 +1457,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تستخدم البطاقة المصرفية 'مدى' للدفع في كافة المتاجر والمطاعم.",
     "examplePhonetic": "Tustakhdamu al-bitaqah al-masrifiyyah 'Mada' li-d-daf' fi kaffat al-matajir.",
     "exampleTranslation": "Kartu debit Mada digunakan untuk membayar di seluruh gerai toko.",
-    "notes": "Alat transaksi perbankan nontunai.",
+    "notes": "Alat transaksi perbankan nontunai. Kata \"بطاقة مصرفية\" (cara baca: Bitaqah masrifiyyah) digunakan dalam bahasa Arab (tingkat Dasar, kategori Ekonomi & Bisnis) untuk menyatakan \"Kartu kredit\".",
     "tags": [
       "ekonomi",
       "dasar",
@@ -1476,7 +1476,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "احتفظ بإيصال الدفع كإثبات رسمي لسداد الرسوم المقررة.",
     "examplePhonetic": "Ihtafiz bi-isal ad-daf' ka-ithbat rasmi li-sadad ar-rusum al-muqarrarah.",
     "exampleTranslation": "Simpanlah kuitansi bukti pembayaran sah atas biaya administrasi.",
-    "notes": "Tanda bukti sah transaksi pembelian.",
+    "notes": "Tanda bukti sah transaksi pembelian. Kata \"إيصال الدفع\" (cara baca: Isal ad-daf') digunakan dalam bahasa Arab (tingkat Dasar, kategori Ekonomi & Bisnis) untuk menyatakan \"Struk bukti belanja\".",
     "tags": [
       "ekonomi",
       "dasar",
@@ -1495,7 +1495,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تتميز الأسواق التراثية ببيع العطور الشرقية والتمور الفاخرة.",
     "examplePhonetic": "Tatamayyazu al-aswaq at-turathiyyah bi-bay' al-'utur ash-sharqiyyah.",
     "exampleTranslation": "Pasar tradisional tersohor menjual wewangian timur dan kurma mutu utama.",
-    "notes": "Tempat bertemunya penjual dan pembeli.",
+    "notes": "Tempat bertemunya penjual dan pembeli. Kata \"سوق\" (cara baca: Suq) digunakan dalam bahasa Arab (tingkat Pemula, kategori Ekonomi & Bisnis) untuk menyatakan \"Pasar tradisional\".",
     "tags": [
       "ekonomi",
       "pemula",
@@ -1514,7 +1514,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "وسائل النقل الجامعية رخيصة ومريحة للغاية للدارسين.",
     "examplePhonetic": "Wasa'il an-naql al-jami'iyyah rakhisah wa murihah li-l-ghayah.",
     "exampleTranslation": "Sarana transportasi kampus bertarif sangat murah dan teramat nyaman.",
-    "notes": "Harga barang di bawah rata-rata umum.",
+    "notes": "Harga barang di bawah rata-rata umum. Kata \"رخيص\" (cara baca: Rakhis) digunakan dalam bahasa Arab (tingkat Pemula, kategori Ekonomi & Bisnis) untuk menyatakan \"Murah terjangkau\".",
     "tags": [
       "ekonomi",
       "pemula",
@@ -1590,7 +1590,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "قد تؤدي التجربة المعملية الصغيرة إلى كشف علمي عظيم.",
     "examplePhonetic": "Qad tu'addi at-tajribah al-ma'maliyyah as-saghirah ila kashf 'ilmi 'azim.",
     "exampleTranslation": "Eksperimen laboratorium kecil dapat membuahkan penemuan ilmiah agung.",
-    "notes": "Ukuran atau volume di bawah rata-rata.",
+    "notes": "Ukuran atau volume di bawah rata-rata. Kata \"صغير\" (cara baca: Saghir) digunakan dalam bahasa Arab (tingkat Pemula, kategori Kata Sifat & Keadaan) untuk menyatakan \"Kecil ukurannya\".",
     "tags": [
       "kata",
       "pemula",
@@ -1628,7 +1628,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "السير البطيء والمدروس أفضل من العجلة التي تؤدي للأخطاء.",
     "examplePhonetic": "As-sayr al-bati' wa al-madrus afdalu min al-'ajalah allati tu'addi li-l-akhta'.",
     "exampleTranslation": "Langkah teratur yang lambat lebih mulia daripada ketergesaan berbuah salah.",
-    "notes": "Membutuhkan waktu lama dalam bergerak.",
+    "notes": "Membutuhkan waktu lama dalam bergerak. Kata \"بطيء\" (cara baca: Bati') digunakan dalam bahasa Arab (tingkat Pemula, kategori Kata Sifat & Keadaan) untuk menyatakan \"Lambat pergerakannya\".",
     "tags": [
       "kata",
       "pemula",
@@ -1647,7 +1647,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "الطالب الذكي هو من ينظم أوقاته بين المذاكرة والأنشطة.",
     "examplePhonetic": "At-talib adh-dhakiyy huwa man yunazzimu awqatahu bayna al-mudhakarah.",
     "exampleTranslation": "Mahasiswa cerdas pandai adalah yang cermat membagi waktu studi dan aktivitas.",
-    "notes": "Mempunyai daya pikir cepat dan tajam.",
+    "notes": "Mempunyai daya pikir cepat dan tajam. Kata \"ذكي\" (cara baca: Dhakiyy) digunakan dalam bahasa Arab (tingkat Dasar, kategori Kata Sifat & Keadaan) untuk menyatakan \"Cerdas\".",
     "tags": [
       "kata",
       "dasar",
@@ -1723,7 +1723,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "الاستماع الجيد أثناء المحاضرة يختصر نصف وقت المذاكرة.",
     "examplePhonetic": "Al-istima' al-jayyid athna' al-muhadarah yakhtasiru nisfa waqt al-mudhakarah.",
     "exampleTranslation": "Menyimak dengan baik di kelas meringkas separuh waktu belajar mandiri.",
-    "notes": "Memiliki mutu tinggi dan bermanfaat.",
+    "notes": "Memiliki mutu tinggi dan bermanfaat. Kata \"جيد\" (cara baca: Jayyid) digunakan dalam bahasa Arab (tingkat Pemula, kategori Kata Sifat & Keadaan) untuk menyatakan \"Bagus\".",
     "tags": [
       "kata",
       "pemula",
@@ -1780,7 +1780,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يقرأ الطالب في كل أسبوع بحثاً جديداً في مجال تخصصه.",
     "examplePhonetic": "Yaqra'u at-talib fi kulli usbu'in bahthan jadidan fi majal takhassusih.",
     "exampleTranslation": "Mahasiswa membaca riset baru di bidang spesialisasinya setiap pekan.",
-    "notes": "Melihat dan memahami isi tulisan.",
+    "notes": "Melihat dan memahami isi tulisan. Kata \"يقرأ\" (cara baca: Yaqra') digunakan dalam bahasa Arab (tingkat Pemula, kategori Aksi Harian) untuk menyatakan \"Membaca teks buku\".",
     "tags": [
       "aksi",
       "pemula",
@@ -1818,7 +1818,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يتحدث الأستاذ مع طلابه بكل لطف وتقدير واحترام.",
     "examplePhonetic": "Yatahaddathu al-ustadh ma'a tullabihi bi-kulli lutf wa taqdir wa ihtiram.",
     "exampleTranslation": "Dosen berbicara ramah kepada para muridnya dengan santun dan penghargaan.",
-    "notes": "Menyampaikan kata-kata melalui suara.",
+    "notes": "Menyampaikan kata-kata melalui suara. Kata \"يتحدث\" (cara baca: Yatahaddath) digunakan dalam bahasa Arab (tingkat Pemula, kategori Aksi Harian) untuk menyatakan \"Berbicara lisan\".",
     "tags": [
       "aksi",
       "pemula",
@@ -1856,7 +1856,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يأكل الطلاب وجبة الغداء الصحية في المطعم المركزي للجامعة.",
     "examplePhonetic": "Ya'kulu at-tullab wajbat al-ghada' as-sihhiyyah fi al-mat'am al-markazi.",
     "exampleTranslation": "Mahasiswa makan siang sehat di restoran pusat lingkungan kampus.",
-    "notes": "Mengonsumsi makanan ke dalam perut.",
+    "notes": "Mengonsumsi makanan ke dalam perut. Kata \"يأكل\" (cara baca: Ya'kul) digunakan dalam bahasa Arab (tingkat Pemula, kategori Aksi Harian) untuk menyatakan \"Makan makanan\".",
     "tags": [
       "aksi",
       "pemula",
@@ -1875,7 +1875,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يشرب الباحث كوباً من القهوة الدافئة لتجديد النشاط الفكري.",
     "examplePhonetic": "Yashrabu al-bahith kuban min al-qahwah ad-dafi'ah li-tajdid an-nashat.",
     "exampleTranslation": "Peneliti meneguk cangkir kopi hangat demi memulihkan energi intelektual.",
-    "notes": "Meneguk zat cair penghilang dahaga.",
+    "notes": "Meneguk zat cair penghilang dahaga. Kata \"يشرب\" (cara baca: Yashrab) digunakan dalam bahasa Arab (tingkat Pemula, kategori Aksi Harian) untuk menyatakan \"Minum air cairan\".",
     "tags": [
       "aksi",
       "pemula",
@@ -1913,7 +1913,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يذهب الباحث إلى دار الكتب الوطنية لتحقيق المخطوطة النادرة.",
     "examplePhonetic": "Yadhhabu al-bahith ila Dar al-Kutub al-Wataniyyah li-tahqiq al-makhtutah.",
     "exampleTranslation": "Peneliti pergi ke perpustakaan arsip nasional meneliti manuskrip langka.",
-    "notes": "Berangkat meninggalkan lokasi saat ini.",
+    "notes": "Berangkat meninggalkan lokasi saat ini. Kata \"يذهب\" (cara baca: Yadhhab) digunakan dalam bahasa Arab (tingkat Pemula, kategori Aksi Harian) untuk menyatakan \"Pergi ke suatu tempat\".",
     "tags": [
       "aksi",
       "pemula",
@@ -1932,7 +1932,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يأتي الطلاب الدوليون من شتى بقاع الأرض للدراسة في المملكة.",
     "examplePhonetic": "Ya'ti at-tullab ad-duwaliyyun min shatta biqa' al-ard li-d-dirasah.",
     "exampleTranslation": "Mahasiswa internasional datang dari penjuru dunia menuntut ilmu di Saudi.",
-    "notes": "Sampai di tempat yang dituju.",
+    "notes": "Sampai di tempat yang dituju. Kata \"يأتي\" (cara baca: Ya'ti) digunakan dalam bahasa Arab (tingkat Pemula, kategori Aksi Harian) untuk menyatakan \"Datang tiba di tempat\".",
     "tags": [
       "aksi",
       "pemula",
@@ -2141,7 +2141,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "صيدلية الحرم الجامعي مجهزة بأحدث الأدوية والمستلزمات العلاجية.",
     "examplePhonetic": "Saydaliyyat al-haram al-jami'i mujahhazah bi-ahdath al-adwiyah.",
     "exampleTranslation": "Apotek kampus dilengkapi dengan obat-obatan dan peranti terapi terbaru.",
-    "notes": "Toko penyedia obat-obatan resmi.",
+    "notes": "Toko penyedia obat-obatan resmi. Kata \"صيدلية\" (cara baca: Saydaliyyah) digunakan dalam bahasa Arab (tingkat Pemula, kategori Kesehatan & Tubuh) untuk menyatakan \"Apotek obat\".",
     "tags": [
       "kesehatan",
       "pemula",
@@ -2217,7 +2217,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "شبكة الإنترنت عالية السرعة تدعم الفصول الافتراضية والتعلم عن بعد.",
     "examplePhonetic": "Shabakat al-intarnit 'aliyat as-sur'ah tad'amu al-fusul al-iftiradiyyah.",
     "exampleTranslation": "Jaringan internet berkecepatan tinggi menopang kelas daring jarak jauh.",
-    "notes": "Jaringan telekomunikasi digital global.",
+    "notes": "Jaringan telekomunikasi digital global. Kata \"إنترنت\" (cara baca: Intarnit) digunakan dalam bahasa Arab (tingkat Pemula, kategori Teknologi & Digital) untuk menyatakan \"Jaringan internet\".",
     "tags": [
       "teknologi",
       "pemula",
@@ -2236,7 +2236,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يحتوي الهاتف الذكي على تطبيق البوابة الأكاديمية لمتابعة الدرجات.",
     "examplePhonetic": "Yahtawi al-hatif adh-dhaki 'ala tatbiq al-bawwabah al-akadimiyyah.",
     "exampleTranslation": "Ponsel pintar memuat aplikasi portal kampus untuk memantau nilai studi.",
-    "notes": "Telepon genggam pintar serbaguna.",
+    "notes": "Telepon genggam pintar serbaguna. Kata \"هاتف ذكي\" (cara baca: Hatif dhaki) digunakan dalam bahasa Arab (tingkat Pemula, kategori Teknologi & Digital) untuk menyatakan \"Ponsel\".",
     "tags": [
       "teknologi",
       "pemula",
@@ -2388,7 +2388,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يكون الصيف حاراً جداً مما يتطلب الوجود في الأماكن المكيفة.",
     "examplePhonetic": "Yakunu as-sayf harran jiddan mimma yatatallabu al-wujud fi al-amakin al-mukayyafah.",
     "exampleTranslation": "Musim panas bersuhu amat terik mewajibkan berada di ruang berpendingin.",
-    "notes": "Suhu udara tinggi menghangatkan tubuh.",
+    "notes": "Suhu udara tinggi menghangatkan tubuh. Kata \"حار\" (cara baca: Harr) digunakan dalam bahasa Arab (tingkat Pemula, kategori Lingkungan & Alam) untuk menyatakan \"Panas udaranya\".",
     "tags": [
       "lingkungan",
       "pemula",
@@ -2426,7 +2426,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يستغل الطلاب عطلة الصيف في الدورات التدريبية واللغات الأجنبية.",
     "examplePhonetic": "Yastaghillu at-tullab 'utlat as-sayf fi ad-dawrat at-tadribiyyah.",
     "exampleTranslation": "Mahasiswa mengisi libur musim panas dengan kursus pelatihan dan bahasa.",
-    "notes": "Musim bersuhu tertinggi dalam kalender.",
+    "notes": "Musim bersuhu tertinggi dalam kalender. Kata \"صيف\" (cara baca: Sayf) digunakan dalam bahasa Arab (tingkat Pemula, kategori Lingkungan & Alam) untuk menyatakan \"Musim panas\".",
     "tags": [
       "lingkungan",
       "pemula",
@@ -2445,7 +2445,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يعتبر الشتاء موسماً رائعاً للأنشطة الطلابية والمخيمات الكشفية.",
     "examplePhonetic": "Yu'tabaru ash-shita' mawsiman ra'i'an li-l-anshitah at-tullabiyyah.",
     "exampleTranslation": "Musim dingin adalah masa indah bagi agenda kemahasiswaan dan pramuka.",
-    "notes": "Musim bersuhu terendah berhawa beku.",
+    "notes": "Musim bersuhu terendah berhawa beku. Kata \"شتاء\" (cara baca: Shita') digunakan dalam bahasa Arab (tingkat Pemula, kategori Lingkungan & Alam) untuk menyatakan \"Musim dingin\".",
     "tags": [
       "lingkungan",
       "pemula",
@@ -2464,7 +2464,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تضم حديقة الجامعة أشجار النخيل الباسقة والمسطحات الخضراء النضرة.",
     "examplePhonetic": "Tadummu hadiqat al-jami'ah ashjar an-nakhil al-basiqah wa al-musattahat.",
     "exampleTranslation": "Taman universitas dihiasi pepohonan kurma menjulang dan rumput hijau asri.",
-    "notes": "Ruang terbuka hijau asri untuk santai.",
+    "notes": "Ruang terbuka hijau asri untuk santai. Kata \"حديقة\" (cara baca: Hadiqah) digunakan dalam bahasa Arab (tingkat Pemula, kategori Lingkungan & Alam) untuk menyatakan \"Taman kampus hijau\".",
     "tags": [
       "lingkungan",
       "pemula",
@@ -2578,7 +2578,7 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "العالم الحقيقي كالسنابل الملأى: كلما زاد علم المرء قل ادعاؤه وتواضع.",
     "examplePhonetic": "Al-'alim al-haqiqi ka-s-sanabil al-mal'a: kullama zada 'ilmu al-mar'i qalla iddi'a'uh.",
     "exampleTranslation": "Ilmuwan sejati bagai bulir padi, kian berilmu kian tawadhu dan rendah hati.",
-    "notes": "Makin berilmu makin santun dan tawadhu.",
+    "notes": "Makin berilmu makin santun dan tawadhu. Kata \"كلما زاد علم المرء قل ادعاؤه\" (cara baca: Kullama zada 'ilmu al-mar'i qalla iddi'a'uh) digunakan dalam bahasa Arab (tingkat Lanjutan, kategori Idiom & Peribahasa) untuk menyatakan \"Padi makin berisi makin runduk\".",
     "tags": [
       "idiom",
       "lanjutan",
@@ -2692,11 +2692,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يبدأ أسبوع الدراسة في جامعتنا يوم الإثنين.",
     "examplePhonetic": "yabda'u usbu'u ad-dirasati fi jami'atina yawma al-ithnayn.",
     "exampleTranslation": "Pekan perkuliahan di universitas kami dimulai pada hari Senin.",
-    "notes": "Hari Senin.",
+    "notes": "Hari Senin. Kata \"يوم الإثنين\" (cara baca: yawm al-ithnayn) digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Senin\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2711,11 +2711,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "لدينا اختبار قصير يوم الثلاثاء في مادة القواعد.",
     "examplePhonetic": "ladayna ikhtibar qasir yawma ath-thulatha' fi maddat al-qawa'id.",
     "exampleTranslation": "Kami ada kuis singkat pada hari Selasa untuk mata kuliah tata bahasa.",
-    "notes": "Hari Selasa.",
+    "notes": "Hari Selasa. Kata \"يوم الثلاثاء\" (cara baca: yawm ath-thulatha') digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Selasa\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2730,11 +2730,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يوم الأربعاء مخصص للأنشطة الثقافية والرياضية.",
     "examplePhonetic": "yawmu al-arbi'a' mukhas-sas lil-anshita ath-thaqafiyyah war-riyadiyyah.",
     "exampleTranslation": "Hari Rabu didedikasikan untuk kegiatan budaya dan olahraga.",
-    "notes": "Hari Rabu.",
+    "notes": "Hari Rabu. Kata \"يوم الأربعاء\" (cara baca: yawm al-arbi'a') digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Rabu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2749,11 +2749,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تنتهي المحاضرات مبكراً يوم الخميس قبل عطلة نهاية الأسبوع.",
     "examplePhonetic": "tantahi al-muhadarat mubakkiran yawma al-khamis qabla 'utlat nihayat al-usbu'.",
     "exampleTranslation": "Perkuliahan berakhir lebih awal pada hari Kamis sebelum akhir pekan.",
-    "notes": "Hari Kamis.",
+    "notes": "Hari Kamis. Kata \"يوم الخميس\" (cara baca: yawm al-khamis) digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Kamis\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2768,11 +2768,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يوم الجمعة هو يوم عطلة رسمية وصلاة الجمعة.",
     "examplePhonetic": "yawmu al-jum'ati huwa yawmu 'utlatin rasmiyyatin wa-salat al-jum'ah.",
     "exampleTranslation": "Hari Jumat adalah hari libur resmi dan pelaksanaan salat Jumat.",
-    "notes": "Hari Jumat.",
+    "notes": "Hari Jumat. Kata \"يوم الجمعة\" (cara baca: yawm al-jum'ah) digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jumat\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2787,11 +2787,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يذهب الطلاب إلى مكتبة الجامعة صباح يوم السبت.",
     "examplePhonetic": "yadhhabu at-tullabu ila maktabat al-jami'ah sabaha yawmi as-sabt.",
     "exampleTranslation": "Para mahasiswa pergi ke perpustakaan kampus pada hari Sabtu pagi.",
-    "notes": "Hari Sabtu.",
+    "notes": "Hari Sabtu. Kata \"يوم السبت\" (cara baca: yawm as-sabt) digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Sabtu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2806,11 +2806,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "في بعض الدول العربية تبدأ الدراسة يوم الأحد.",
     "examplePhonetic": "fi ba'di ad-duwal al-'arabiyyah tabda'u ad-dirasatu yawma al-ahad.",
     "exampleTranslation": "Di beberapa negara Arab, sekolah dimulai pada hari Minggu.",
-    "notes": "Hari Minggu.",
+    "notes": "Hari Minggu. Kata \"يوم الأحد\" (cara baca: yawm al-ahad) digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Minggu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2827,9 +2827,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Anda dapat mengunduh jadwal pelajaran dari portal elektronik mahasiswa.",
     "notes": "Jadwal pelajaran sekolah / jadwal kuliah.",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -2846,9 +2846,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Hari sekolah dimulai dengan lagu kebangsaan di lapangan sekolah.",
     "notes": "Hari sekolah aktif atau hari kerja (يوم عمل).",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2863,11 +2863,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "أقضي عطلة نهاية الأسبوع في مراجعة الدروس وزيارة الأسرة.",
     "examplePhonetic": "aqdi 'utlata nihayati al-usbu'i fi muraja'at ad-durus wa-ziyarat al-usrah.",
     "exampleTranslation": "Saya menghabiskan akhir pekan untuk meninjau pelajaran dan mengunjungi keluarga.",
-    "notes": "Libur akhir pekan (weekend).",
+    "notes": "Libur akhir pekan (weekend). Kata \"عطلة نهاية الأسبوع\" (cara baca: 'utlat nihayat al-usbu') digunakan dalam bahasa Arab (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -2882,11 +2882,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "مادة الرياضيات تعتمد على التحليل المنطقي والحلول الدقيقة.",
     "examplePhonetic": "maddatu ar-riyadiyyati ta'tamidu 'ala at-tahlil al-mantiqiyyi wal-hulul ad-daqiqah.",
     "exampleTranslation": "Mata pelajaran matematika mengandalkan analisis logis dan solusi yang akurat.",
-    "notes": "Mata pelajaran matematika.",
+    "notes": "Mata pelajaran matematika. Kata \"الرياضيات\" (cara baca: ar-riyadiyyat) digunakan dalam bahasa Arab (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Matematika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2901,11 +2901,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "ندرس في علم الفيزياء قوانين الحركة والطاقة الكهرومغناطيسية.",
     "examplePhonetic": "nadrusu fi 'ilmi al-fiziya'i qawanina al-harakati wat-taqati al-kahrumaghnatisiyyah.",
     "exampleTranslation": "Kita mempelajari hukum gerak dan energi elektromagnetik dalam ilmu fisika.",
-    "notes": "Mata pelajaran fisika.",
+    "notes": "Mata pelajaran fisika. Kata \"الفيزياء\" (cara baca: al-fiziya') digunakan dalam bahasa Arab (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Fisika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2920,11 +2920,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "أجرينا تفاعلاً كيميائياً مدهشاً في حصة الكيمياء.",
     "examplePhonetic": "ajrayna tafa'ulan kimiya'iyyan mud-hishan fi hissat al-kimiya'.",
     "exampleTranslation": "Kami melakukan reaksi kimia yang menakjubkan di kelas kimia.",
-    "notes": "Mata pelajaran kimia.",
+    "notes": "Mata pelajaran kimia. Kata \"الكيمياء\" (cara baca: al-kimiya') digunakan dalam bahasa Arab (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Kimia\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2939,11 +2939,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يهتم علم الأحياء بدراسة الكائنات الحية والبيئة المحيطة بها.",
     "examplePhonetic": "yahtammu 'ilmu al-ahya'i bi-dirasati al-ka'inati al-hayyati wal-bi'ati al-muhitati biha.",
     "exampleTranslation": "Ilmu biologi berfokus pada studi makhluk hidup dan lingkungan di sekitarnya.",
-    "notes": "Mata pelajaran biologi.",
+    "notes": "Mata pelajaran biologi. Kata \"علم الأحياء\" (cara baca: 'ilm al-ahya') digunakan dalam bahasa Arab (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Biologi\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2958,11 +2958,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تاريخ الحضارات القديمة من أهم موضوعات كتاب التاريخ.",
     "examplePhonetic": "tarikhu al-hadarati al-qadimati min ahammi mawdu'ati kitabi at-tarikh.",
     "exampleTranslation": "Sejarah peradaban kuno adalah salah satu topik terpenting dalam buku sejarah.",
-    "notes": "Mata pelajaran sejarah.",
+    "notes": "Mata pelajaran sejarah. Kata \"التاريخ\" (cara baca: at-tarikh) digunakan dalam bahasa Arab (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sejarah\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2977,11 +2977,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تعلمنا في الجغرافيا كيفية قراءة التضاريس والخرائط الجوية.",
     "examplePhonetic": "ta'allamna fil-jughrafiya kayfiyyata qira'at at-tadarisi wal-khara'it al-jawwiyyah.",
     "exampleTranslation": "Kami belajar cara membaca kontur tanah dan peta udara di pelajaran geografi.",
-    "notes": "Mata pelajaran geografi.",
+    "notes": "Mata pelajaran geografi. Kata \"الجغرافيا\" (cara baca: al-jughrafiya) digunakan dalam bahasa Arab (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Geografi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2996,11 +2996,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "الأدب العربي غني بالشعر الكلاسيكي والقصص البلاغية.",
     "examplePhonetic": "al-adabu al-'arabiyyu ghaniyyun bish-shi'ri al-kulasikiyyi wal-qisasi al-balaghiyyah.",
     "exampleTranslation": "Sastra Arab kaya akan puisi klasik dan kisah-kisah retoris.",
-    "notes": "Sastra dan literatur bahasa.",
+    "notes": "Sastra dan literatur bahasa. Kata \"الأدب\" (cara baca: al-adab) digunakan dalam bahasa Arab (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sastra & Bahasa\".",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3015,11 +3015,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يتعلم الطلاب في قسم علوم الحاسوب لغات البرمجة الحديثة والذكاء الاصطناعي.",
     "examplePhonetic": "yata'allamu at-tullabu fi qismi 'ulumi al-hasubi lughati al-barmajati al-hadithati wadh-dhaka'i al-istina'i.",
     "exampleTranslation": "Mahasiswa di jurusan ilmu komputer mempelajari bahasa pemrograman modern dan kecerdasan buatan.",
-    "notes": "Ilmu komputer / informatika.",
+    "notes": "Ilmu komputer / informatika. Kata \"علوم الحاسوب\" (cara baca: 'ulum al-hasub) digunakan dalam bahasa Arab (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3034,11 +3034,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يحلل علم الاقتصاد آليات العرض والطلب والأسواق المالية.",
     "examplePhonetic": "yuhallilu 'ilmu al-iqtisadi aliyyati al-'ardi wat-talabi wal-aswaq al-maliyyah.",
     "exampleTranslation": "Ilmu ekonomi menganalisis mekanisme penawaran dan permintaan serta pasar keuangan.",
-    "notes": "Ilmu ekonomi.",
+    "notes": "Ilmu ekonomi. Kata \"علم الاقتصاد\" (cara baca: 'ilm al-iqtisad) digunakan dalam bahasa Arab (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Ekonomi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3053,11 +3053,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تسعى الفلسفة إلى فهم الوجود والمعرفة والأخلاق الإنسانية.",
     "examplePhonetic": "tas'a al-falsafatu ila fahmi al-wujudi wal-ma'rifati wal-akhlaqi al-insaniyyah.",
     "exampleTranslation": "Filsafat berupaya memahami keberadaan, pengetahuan, dan moral manusia.",
-    "notes": "Ilmu filsafat.",
+    "notes": "Ilmu filsafat. Kata \"الفلسفة\" (cara baca: al-falsafah) digunakan dalam bahasa Arab (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Filsafat\".",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3072,11 +3072,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تنظم كلية الفنون الجميلة معرضاً سنوياً للوحات الطلاب.",
     "examplePhonetic": "tunazzimu kulliyyatu al-fununi al-jamilati ma'radan sanawiyyan li-lawhati at-tullab.",
     "exampleTranslation": "Fakultas Seni Rupa menyelenggarakan pameran tahunan untuk lukisan mahasiswa.",
-    "notes": "Seni rupa dan seni visual.",
+    "notes": "Seni rupa dan seni visual. Kata \"الفنون الجميلة\" (cara baca: al-funun al-jamilah) digunakan dalam bahasa Arab (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Seni Rupa & Kesenian\".",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3093,9 +3093,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kelas pendidikan jasmani sangat penting untuk kesehatan tubuh dan kebugaran pikiran.",
     "notes": "Pendidikan jasmani & olahraga (Penjasorkes).",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3110,11 +3110,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "دراسة الطب تتطلب سنوات طويلة من التدريب في المستشفيات الجامعية.",
     "examplePhonetic": "dirasatu at-tibbi tatatallabu sanawatin tawilatan mina at-tadri bi fil-mustashfayati al-jami'iyyah.",
     "exampleTranslation": "Studi kedokteran membutuhkan pelatihan bertahun-tahun di rumah sakit pendidikan.",
-    "notes": "Ilmu kedokteran.",
+    "notes": "Ilmu kedokteran. Kata \"الطب\" (cara baca: at-tibb) digunakan dalam bahasa Arab (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Kedokteran\".",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3129,11 +3129,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يقوم خريجو كلية القانون بتقديم الاستشارات القانونية والترافع أمام المحاكم.",
     "examplePhonetic": "yaqumu kharriju kulliyyati al-qanuni bi-taqdimi al-istisharati al-qanuniyyati wat-tarafui amama al-mahakim.",
     "exampleTranslation": "Lulusan fakultas hukum memberikan konsultasi hukum dan beracara di pengadilan.",
-    "notes": "Ilmu hukum (syariah/hukum positif).",
+    "notes": "Ilmu hukum (syariah/hukum positif). Kata \"القانون\" (cara baca: al-qanun) digunakan dalam bahasa Arab (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3148,11 +3148,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تضم كلية الهندسة أقساماً متعددة كالهندسة المدنية والكهربائية.",
     "examplePhonetic": "tadummu kulliyyatu al-handasati aqsaman muta'addidatan kal-handasati al-madaniyyati wal-kahraba'iyyah.",
     "exampleTranslation": "Fakultas teknik mencakup berbagai jurusan seperti teknik sipil dan elektro.",
-    "notes": "Teknik dan rekayasa (engineering).",
+    "notes": "Teknik dan rekayasa (engineering). Kata \"الهندسة\" (cara baca: al-handasah) digunakan dalam bahasa Arab (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Teknik & Rekayasa\".",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3167,11 +3167,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "جلس الطلاب في قاعة الدراسة ينتظرون وصول الأستاذ.",
     "examplePhonetic": "jalasa at-tullabu fi qa'ati ad-dirasati yantaziruna wusula al-ustadh.",
     "exampleTranslation": "Para mahasiswa duduk di ruang kelas menunggu kedatangan profesor.",
-    "notes": "Ruang kelas / ruang kuliah (فصل دراسي).",
+    "notes": "Ruang kelas / ruang kuliah (فصل دراسي). Kata \"قاعة الدراسة\" (cara baca: qa'at ad-dirasah) digunakan dalam bahasa Arab (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Ruang Kelas\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3186,11 +3186,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تحتوي مكتبة الجامعة على مئات الآلاف من المراجع النادرة.",
     "examplePhonetic": "tahtawi maktabatu al-jami'ati 'ala mi'ati al-alafi mina al-maraji'i an-nadirah.",
     "exampleTranslation": "Perpustakaan universitas memuat ratusan ribu referensi langka.",
-    "notes": "Perpustakaan.",
+    "notes": "Perpustakaan. Kata \"المكتبة\" (cara baca: al-maktabah) digunakan dalam bahasa Arab (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Perpustakaan\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3205,11 +3205,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "المختبر مجهز بأحدث المجاهر وأدوات القياس الدقيقة.",
     "examplePhonetic": "al-mukhtabaru mujahhazun bi-ahdathi al-majahiri wa-adawati al-qiyasi ad-daqiqah.",
     "exampleTranslation": "Laboratorium dilengkapi dengan mikroskop terbaru dan alat pengukur presisi.",
-    "notes": "Laboratorium sains.",
+    "notes": "Laboratorium sains. Kata \"المختبر\" (cara baca: al-mukhtabar) digunakan dalam bahasa Arab (tingkat A2, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Sains\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3226,9 +3226,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ilmuwan tamu menyampaikan ceramahnya di auditorium / aula besar.",
     "notes": "Auditorium / aula pertemuan besar (المدرج الكبير).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3245,9 +3245,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Siswa pergi ke ruang guru untuk menyerahkan laporan proyek.",
     "notes": "Ruang guru sekolah atau ruang dosen (مكتب الأساتذة).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3264,9 +3264,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kantor rektor universitas terletak di lantai administrasi utama.",
     "notes": "Ruang kepala sekolah (مكتب المدير) atau rektorat kampus.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3281,11 +3281,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "نتناول وجبة الغداء مع الزملاء في كافتيريا الجامعة.",
     "examplePhonetic": "natanawalu wajbata al-ghada'i ma'a az-zumala'i fi kafitirya al-jami'ah.",
     "exampleTranslation": "Kami menyantap makan siang bersama rekan-rekan di kafetaria kampus/kantin.",
-    "notes": "Kantin / kafetaria kampus (المقصف).",
+    "notes": "Kantin / kafetaria kampus (المقصف). Kata \"كافتيريا الجامعة\" (cara baca: kafitirya al-jami'ah) digunakan dalam bahasa Arab (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Kantin\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3300,11 +3300,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تفتح الصالة الرياضية أبوابها للطلاب لممارسة كرة السلة والطائرة.",
     "examplePhonetic": "taftahu as-salatu ar-riyadiyyatu abwabaha lit-tullabi li-mumarasati kurati as-sallati wat-ta'irah.",
     "exampleTranslation": "Gedung olahraga membuka pintunya bagi siswa untuk bermain basket dan voli.",
-    "notes": "Gimnasium / aula olahraga tertutup.",
+    "notes": "Gimnasium / aula olahraga tertutup. Kata \"الصالة الرياضية\" (cara baca: as-salah ar-riyadiyyah) digunakan dalam bahasa Arab (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Gimnasium\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3321,9 +3321,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Asrama mahasiswa menyediakan lingkungan yang nyaman dan layanan internet bagi mahasiswa rantau.",
     "notes": "Asrama mahasiswa / asrama pelajar (المهجع).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3340,9 +3340,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Siswa yang sakit segera menuju ke ruang klinik/UKS untuk menerima pertolongan pertama.",
     "notes": "Ruang UKS sekolah / klinik medis kampus.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3357,11 +3357,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تجرى الامتحانات الرقمية داخل مختبر الحاسوب المجهز بالشبكة.",
     "examplePhonetic": "tujra al-imtihanatu ar-raqmiyyatu dakhila mukhtabari al-hasubi al-muhazzazi bish-shabakah.",
     "exampleTranslation": "Ujian digital diselenggarakan di laboratorium komputer yang terhubung jaringan.",
-    "notes": "Laboratorium komputer.",
+    "notes": "Laboratorium komputer. Kata \"مختبر الحاسوب\" (cara baca: mukhtabar al-hasub) digunakan dalam bahasa Arab (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Komputer\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3378,9 +3378,9 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Anda dapat mengambil kartu mahasiswa dan melegalisasi ijazah di bagian administrasi kemahasiswaan/tata usaha.",
     "notes": "Tata usaha sekolah / administrasi akademik.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3395,11 +3395,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "أحضر الكتاب المدرسي معك في كل حصة لتتابع الشرح.",
     "examplePhonetic": "ahdir al-kitaba al-madrasiyya ma'aka fi kulli hissatin li-tutabi'a ash-sharh.",
     "exampleTranslation": "Bawalah buku pelajaran bersamamu di setiap kelas untuk mengikuti penjelasan.",
-    "notes": "Buku teks / buku ajar pelajaran.",
+    "notes": "Buku teks / buku ajar pelajaran. Kata \"الكتاب المدرسي\" (cara baca: al-kitab al-madrasi) digunakan dalam bahasa Arab (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Buku Teks\".",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3414,11 +3414,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "كتب الأستاذ المسألة الحسابية على السبورة البيضاء.",
     "examplePhonetic": "kataba al-ustadhu al-mas'alata al-hisabiyyata 'ala as-sabburati al-bayda'.",
     "exampleTranslation": "Dosen menulis soal hitungan di papan tulis putih.",
-    "notes": "Papan tulis sekolah/kelas.",
+    "notes": "Papan tulis sekolah/kelas. Kata \"السبورة\" (cara baca: as-sabburah) digunakan dalam bahasa Arab (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Papan Tulis\".",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3433,11 +3433,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يجب على كل تلميذ إكمال الواجب المنزلي قبل الغد.",
     "examplePhonetic": "yajib 'ala kulli tilmidhin ikmalu al-wajibi al-manziliyyi qabla al-ghad.",
     "exampleTranslation": "Setiap murid wajib menyelesaikan pekerjaan rumah (PR) sebelum besok.",
-    "notes": "Pekerjaan rumah / tugas mandiri (PR).",
+    "notes": "Pekerjaan rumah / tugas mandiri (PR). Kata \"الواجب المنزلي\" (cara baca: al-wajib al-manzili) digunakan dalam bahasa Arab (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Tugas Rumah\".",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3452,11 +3452,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يستعد الطلاب للاختبار والامتحان النهائي بمذاكرة مكثفة.",
     "examplePhonetic": "yasta'iddu at-tullabu lil-ikhtibari wal-imtihani an-niha'iyyi bi-mudhakaratin mukath-thafah.",
     "exampleTranslation": "Para mahasiswa mempersiapkan diri untuk ujian akhir semester dengan belajar intensif.",
-    "notes": "Ujian evaluasi / tes semester.",
+    "notes": "Ujian evaluasi / tes semester. Kata \"الامتحان النهائي\" (cara baca: al-imtihan an-niha'i) digunakan dalam bahasa Arab (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Ujian Semester\".",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3471,11 +3471,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "يلتزم جميع الطلاب بارتداء الزي المدرسي الموحد كل صباح.",
     "examplePhonetic": "yaltazimu jami'u at-tullabi bi-irtida'i az-ziyyi al-madrasiyyi al-muwahhadi kulla sabah.",
     "exampleTranslation": "Semua murid diwajibkan mengenakan seragam sekolah yang seragam setiap pagi.",
-    "notes": "Seragam sekolah / almamater.",
+    "notes": "Seragam sekolah / almamater. Kata \"الزي المدرسي\" (cara baca: az-ziyy al-madrasi) digunakan dalam bahasa Arab (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Seragam Sekolah\".",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3490,11 +3490,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "تستخدم البطاقة الجامعية للدخول واستعارة الكتب من المكتبة.",
     "examplePhonetic": "tustakhdamu al-bitaqatu al-jami'iyyatu lid-dukhuli was-ti'arati al-kutubi mina al-maktabah.",
     "exampleTranslation": "Kartu tanda mahasiswa (KTM) digunakan untuk masuk dan meminjam buku dari perpustakaan.",
-    "notes": "Kartu pelajar / kartu mahasiswa (KTM).",
+    "notes": "Kartu pelajar / kartu mahasiswa (KTM). Kata \"البطاقة الجامعية\" (cara baca: al-bitaqah al-jami'iyyah) digunakan dalam bahasa Arab (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Kartu Pelajar\".",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3509,11 +3509,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "حصل الطالب المتفوق على منحة دراسية كاملة تشمل السكن ورسوم التعليم.",
     "examplePhonetic": "hasala at-talibu al-mutafawwiqu 'ala minhatin dirasiyyatin kamilatin tashmalu as-sakana wa-rusuma at-ta'lim.",
     "exampleTranslation": "Siswa berprestasi tersebut menerima beasiswa penuh yang mencakup akomodasi dan biaya kuliah.",
-    "notes": "Beasiswa pendidikan.",
+    "notes": "Beasiswa pendidikan. Kata \"المنحة الدراسية\" (cara baca: al-minhah ad-dirasiyyah) digunakan dalam bahasa Arab (tingkat A2, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Beasiswa Pendidikan\".",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3528,11 +3528,11 @@ export const ARABIC_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "شارك الآباء والأمهات فرحة أبنائهم في حفل التخرج السنوي.",
     "examplePhonetic": "sharaka al-aba'u wal-ummuhatu farhata abna'ihim fi hafli at-takharruji as-sanawiyy.",
     "exampleTranslation": "Para orang tua berbagi kegembiraan bersama putra-putri mereka pada upacara wisuda tahunan.",
-    "notes": "Upacara wisuda / kelulusan universitas.",
+    "notes": "Upacara wisuda / kelulusan universitas. Kata \"حفل التخرج\" (cara baca: hafl at-takharruj) digunakan dalam bahasa Arab (tingkat B1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Upacara Wisuda\".",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];

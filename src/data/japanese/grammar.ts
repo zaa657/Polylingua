@@ -78,7 +78,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah buku catatan bahasa Jepang milik saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"初めまして、私はインドネシアから来た留学生です。\" berarti \"Salam kenal, saya adalah mahasiswa internasional yang datang dari Indonesia.\"."
+        "explanation": "Kalimat \"初めまして、私はインドネシアから来た留学生です。\" (dibaca: Hajimemashite, watashi wa Indoneshia kara kita ryūgakusei desu.) berarti \"Salam kenal, saya adalah mahasiswa internasional yang datang dari Indonesia.\". Kalimat ini menggunakan pola \"Topik + は (wa) + Penjelasan / Profesi + です (desu)\" (Partikel Topik は (wa) dan Predikat Sopan です (desu)) yang berfungsi untuk partikel は (dibaca \"wa\") menandai topik pembicaraan. Kata です (desu) berfungsi sebagai kopula sopan untuk menyatakan \"adalah\" di akhir kalimat."
       },
       {
         "id": "q-ja-gram-1-pg-2",
@@ -94,7 +94,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan universitas buka dari hari Senin hingga Jumat, pada pukul 09.00 pagi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"田中さんは大学の先生です。\" berarti \"Pak Tanaka adalah dosen universitas.\"."
+        "explanation": "Kalimat \"田中さんは大学の先生です。\" (dibaca: Tanaka-san wa daigaku no sensei desu.) berarti \"Pak Tanaka adalah dosen universitas.\". Kalimat ini menggunakan pola \"Topik + は (wa) + Penjelasan / Profesi + です (desu)\" (Partikel Topik は (wa) dan Predikat Sopan です (desu)) yang berfungsi untuk partikel は (dibaca \"wa\") menandai topik pembicaraan. Kata です (desu) berfungsi sebagai kopula sopan untuk menyatakan \"adalah\" di akhir kalimat."
       },
       {
         "id": "q-ja-gram-1-pg-3",
@@ -110,7 +110,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Bulan depan, saya akan pergi ke Kyoto bersama teman."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"私は医者ではありません。学生です。\" berarti \"Saya bukan dokter. Saya adalah mahasiswa.\"."
+        "explanation": "Kalimat \"私は医者ではありません。学生です。\" (dibaca: Watashi wa isha dewa arimasen. Gakusei desu.) berarti \"Saya bukan dokter. Saya adalah mahasiswa.\". Kalimat ini menggunakan pola \"Topik + は (wa) + Penjelasan / Profesi + です (desu)\" (Partikel Topik は (wa) dan Predikat Sopan です (desu)) yang berfungsi untuk partikel は (dibaca \"wa\") menandai topik pembicaraan. Kata です (desu) berfungsi sebagai kopula sopan untuk menyatakan \"adalah\" di akhir kalimat."
       },
       {
         "id": "q-ja-gram-1-pg-4",
@@ -397,7 +397,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi, berapa harga kamus ini? Itu harganya 3.000 Yen."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"初めまして、私はインドネシアから来た留学生です。\" berarti \"Salam kenal, saya adalah mahasiswa internasional yang datang dari Indonesia.\"."
+        "explanation": "Kalimat \"初めまして、私はインドネシアから来た留学生です。\" (dibaca: Hajimemashite, watashi wa Indoneshia kara kita ryūgakusei desu.) berarti \"Salam kenal, saya adalah mahasiswa internasional yang datang dari Indonesia.\". Kalimat ini menggunakan pola \"Topik + は (wa) + Penjelasan / Profesi + です (desu)\" (Partikel Topik は (wa) dan Predikat Sopan です (desu)) yang berfungsi untuk partikel は (dibaca \"wa\") menandai topik pembicaraan. Kata です (desu) berfungsi sebagai kopula sopan untuk menyatakan \"adalah\" di akhir kalimat."
       },
       {
         "id": "q-ja-gram-1-bb-2",
@@ -543,7 +543,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saya setiap hari bangun pada pukul tujuh pagi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"すみません、この辞書はいくらですか。それは三千円です。\" berarti \"Permisi, berapa harga kamus ini? Itu harganya 3.000 Yen.\"."
+        "explanation": "Kalimat \"すみません、この辞書はいくらですか。それは三千円です。\" (dibaca: Sumimasen, kono jisho wa ikura desu ka. Sore wa sanzen-en desu.) berarti \"Permisi, berapa harga kamus ini? Itu harganya 3.000 Yen.\". Kalimat ini menggunakan pola \"これ/それ/あれ + は + N + です  |  この/その/あの + N + は ...\" (Kata Tunjuk Benda & Lokasi: これ, それ, あれ & ここ, そこ, あそこ) yang berfungsi untuk sistem kata tunjuk bahasa Jepang (\"Ko-So-A-Do\") ditentukan oleh posisi jarak relatif terhadap pembicara (Ko), lawan bicara (So), jauh dari keduanya (A), dan kata tanya (Do)."
       },
       {
         "id": "q-ja-gram-2-pg-2",
@@ -559,7 +559,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setiap pagi, saya mendengarkan berita bahasa Jepang di kamar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"これは私の日本語のノートです。\" berarti \"Ini adalah buku catatan bahasa Jepang milik saya.\"."
+        "explanation": "Kalimat \"これは私の日本語のノートです。\" (dibaca: Kore wa watashi no Nihongo no nōto desu.) berarti \"Ini adalah buku catatan bahasa Jepang milik saya.\". Kalimat ini menggunakan pola \"これ/それ/あれ + は + N + です  |  この/その/あの + N + は ...\" (Kata Tunjuk Benda & Lokasi: これ, それ, あれ & ここ, そこ, あそこ) yang berfungsi untuk sistem kata tunjuk bahasa Jepang (\"Ko-So-A-Do\") ditentukan oleh posisi jarak relatif terhadap pembicara (Ko), lawan bicara (So), jauh dari keduanya (A), dan kata tanya (Do)."
       },
       {
         "id": "q-ja-gram-2-pg-3",
@@ -575,7 +575,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan ada di sebelah sana. Kantin ada di sini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"図書館はあそこです。食堂はここです。\" berarti \"Perpustakaan ada di sebelah sana. Kantin ada di sini.\"."
+        "explanation": "Kalimat \"図書館はあそこです。食堂はここです。\" (dibaca: Toshokan wa asoko desu. Shokudō wa koko desu.) berarti \"Perpustakaan ada di sebelah sana. Kantin ada di sini.\". Kalimat ini menggunakan pola \"これ/それ/あれ + は + N + です  |  この/その/あの + N + は ...\" (Kata Tunjuk Benda & Lokasi: これ, それ, あれ & ここ, そこ, あそこ) yang berfungsi untuk sistem kata tunjuk bahasa Jepang (\"Ko-So-A-Do\") ditentukan oleh posisi jarak relatif terhadap pembicara (Ko), lawan bicara (So), jauh dari keduanya (A), dan kata tanya (Do)."
       },
       {
         "id": "q-ja-gram-2-pg-4",
@@ -864,7 +864,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi, berapa harga kamus ini? Itu harganya 3.000 Yen."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"すみません、この辞書はいくらですか。それは三千円です。\" berarti \"Permisi, berapa harga kamus ini? Itu harganya 3.000 Yen.\"."
+        "explanation": "Kalimat \"すみません、この辞書はいくらですか。それは三千円です。\" (dibaca: Sumimasen, kono jisho wa ikura desu ka. Sore wa sanzen-en desu.) berarti \"Permisi, berapa harga kamus ini? Itu harganya 3.000 Yen.\". Kalimat ini menggunakan pola \"これ/それ/あれ + は + N + です  |  この/その/あの + N + は ...\" (Kata Tunjuk Benda & Lokasi: これ, それ, あれ & ここ, そこ, あそこ) yang berfungsi untuk sistem kata tunjuk bahasa Jepang (\"Ko-So-A-Do\") ditentukan oleh posisi jarak relatif terhadap pembicara (Ko), lawan bicara (So), jauh dari keduanya (A), dan kata tanya (Do)."
       },
       {
         "id": "q-ja-gram-2-bb-2",
@@ -1005,7 +1005,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saya setiap hari makan siang di kantin universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"大学の図書館は月曜日から金曜日まで、朝9時に開きます。\" berarti \"Perpustakaan universitas buka dari hari Senin hingga Jumat, pada pukul 09.00 pagi.\"."
+        "explanation": "Kalimat \"大学の図書館は月曜日から金曜日まで、朝9時に開きます。\" (dibaca: Daigaku no toshokan wa getsuyōbi kara kinyōbi made, asa kuji ni akimasu.) berarti \"Perpustakaan universitas buka dari hari Senin hingga Jumat, pada pukul 09.00 pagi.\". Kalimat ini menggunakan pola \"Waktu Pasti + に  |  Tujuan + へ / に  |  Titik Awal + から + Titik Akhir + まで\" (Partikel Waktu/Target に (ni), Arah へ (e), & Rentang から〜まで) yang berfungsi untuk partikel に (ni) menandai waktu spesifik atau titik tujuan akhir. Partikel へ (dibaca \"e\") menandai arah pergerakan. から (kara) dan まで (made) menandai rentang awal dan akhir."
       },
       {
         "id": "q-ja-gram-3-pg-2",
@@ -1021,7 +1021,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saya setiap hari bangun pada pukul tujuh pagi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"私は毎日朝七時に起きます。\" berarti \"Saya setiap hari bangun pada pukul tujuh pagi.\"."
+        "explanation": "Kalimat \"私は毎日朝七時に起きます。\" (dibaca: Watashi wa mainichi asa shichiji ni okimasu.) berarti \"Saya setiap hari bangun pada pukul tujuh pagi.\". Kalimat ini menggunakan pola \"Waktu Pasti + に  |  Tujuan + へ / に  |  Titik Awal + から + Titik Akhir + まで\" (Partikel Waktu/Target に (ni), Arah へ (e), & Rentang から〜まで) yang berfungsi untuk partikel に (ni) menandai waktu spesifik atau titik tujuan akhir. Partikel へ (dibaca \"e\") menandai arah pergerakan. から (kara) dan まで (made) menandai rentang awal dan akhir."
       },
       {
         "id": "q-ja-gram-3-pg-3",
@@ -1037,7 +1037,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena kemarin hari Minggu, saya tidak pergi ke universitas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"来月、友達と京都へ行きます。\" berarti \"Bulan depan, saya akan pergi ke Kyoto bersama teman.\"."
+        "explanation": "Kalimat \"来月、友達と京都へ行きます。\" (dibaca: Raigetsu, tomodachi to Kyōto e ikimasu.) berarti \"Bulan depan, saya akan pergi ke Kyoto bersama teman.\". Kalimat ini menggunakan pola \"Waktu Pasti + に  |  Tujuan + へ / に  |  Titik Awal + から + Titik Akhir + まで\" (Partikel Waktu/Target に (ni), Arah へ (e), & Rentang から〜まで) yang berfungsi untuk partikel に (ni) menandai waktu spesifik atau titik tujuan akhir. Partikel へ (dibaca \"e\") menandai arah pergerakan. から (kara) dan まで (made) menandai rentang awal dan akhir."
       },
       {
         "id": "q-ja-gram-3-pg-4",
@@ -1324,7 +1324,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setiap pagi, saya mendengarkan berita bahasa Jepang di kamar."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"大学の図書館は月曜日から金曜日まで、朝9時に開きます。\" berarti \"Perpustakaan universitas buka dari hari Senin hingga Jumat, pada pukul 09.00 pagi.\"."
+        "explanation": "Kalimat \"大学の図書館は月曜日から金曜日まで、朝9時に開きます。\" (dibaca: Daigaku no toshokan wa getsuyōbi kara kinyōbi made, asa kuji ni akimasu.) berarti \"Perpustakaan universitas buka dari hari Senin hingga Jumat, pada pukul 09.00 pagi.\". Kalimat ini menggunakan pola \"Waktu Pasti + に  |  Tujuan + へ / に  |  Titik Awal + から + Titik Akhir + まで\" (Partikel Waktu/Target に (ni), Arah へ (e), & Rentang から〜まで) yang berfungsi untuk partikel に (ni) menandai waktu spesifik atau titik tujuan akhir. Partikel へ (dibaca \"e\") menandai arah pergerakan. から (kara) dan まで (made) menandai rentang awal dan akhir."
       },
       {
         "id": "q-ja-gram-3-bb-2",
@@ -1463,7 +1463,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setiap pagi, saya mendengarkan berita bahasa Jepang di kamar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"毎朝、部屋で日本語のニュースを聞きます。\" berarti \"Setiap pagi, saya mendengarkan berita bahasa Jepang di kamar.\"."
+        "explanation": "Kalimat \"毎朝、部屋で日本語のニュースを聞きます。\" (dibaca: Maiasa, heya de Nihongo no nyūsu o kikimasu.) berarti \"Setiap pagi, saya mendengarkan berita bahasa Jepang di kamar.\". Kalimat ini menggunakan pola \"Tempat + で (de) + Objek + を (o) + Kata Kerja (Aksi Dinamis)\" (Partikel Objek を (o) dan Lokasi Aktivitas Dinamis で (de)) yang berfungsi untuk partikel を (ditulis \"wo\", dilafalkan \"o\") menandai objek penderita langsung dari kata kerja transitif. Partikel で (de) menandai tempat berlangsungnya aksi aktif."
       },
       {
         "id": "q-ja-gram-4-pg-2",
@@ -1479,7 +1479,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di dalam ruang kelas ada guru Tanaka dan mahasiswa asing."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"私は毎日大学の食堂で昼ご飯を食べます。\" berarti \"Saya setiap hari makan siang di kantin universitas.\"."
+        "explanation": "Kalimat \"私は毎日大学の食堂で昼ご飯を食べます。\" (dibaca: Watashi wa mainichi daigaku no shokudō de hirugohan o tabemasu.) berarti \"Saya setiap hari makan siang di kantin universitas.\". Kalimat ini menggunakan pola \"Tempat + で (de) + Objek + を (o) + Kata Kerja (Aksi Dinamis)\" (Partikel Objek を (o) dan Lokasi Aktivitas Dinamis で (de)) yang berfungsi untuk partikel を (ditulis \"wo\", dilafalkan \"o\") menandai objek penderita langsung dari kata kerja transitif. Partikel で (de) menandai tempat berlangsungnya aksi aktif."
       },
       {
         "id": "q-ja-gram-4-pg-3",
@@ -1495,7 +1495,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di halaman ada dua ekor kucing yang lucu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"学生たちは図書館で本を読みます。\" berarti \"Para mahasiswa membaca buku di perpustakaan.\"."
+        "explanation": "Kalimat \"学生たちは図書館で本を読みます。\" (dibaca: Gakuseitachi wa toshokan de hon o yomimasu.) berarti \"Para mahasiswa membaca buku di perpustakaan.\". Kalimat ini menggunakan pola \"Tempat + で (de) + Objek + を (o) + Kata Kerja (Aksi Dinamis)\" (Partikel Objek を (o) dan Lokasi Aktivitas Dinamis で (de)) yang berfungsi untuk partikel を (ditulis \"wo\", dilafalkan \"o\") menandai objek penderita langsung dari kata kerja transitif. Partikel で (de) menandai tempat berlangsungnya aksi aktif."
       },
       {
         "id": "q-ja-gram-4-pg-4",
@@ -1780,7 +1780,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tadi malam, saya makan sushi yang lezat bersama teman."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"毎朝、部屋で日本語のニュースを聞きます。\" berarti \"Setiap pagi, saya mendengarkan berita bahasa Jepang di kamar.\"."
+        "explanation": "Kalimat \"毎朝、部屋で日本語のニュースを聞きます。\" (dibaca: Maiasa, heya de Nihongo no nyūsu o kikimasu.) berarti \"Setiap pagi, saya mendengarkan berita bahasa Jepang di kamar.\". Kalimat ini menggunakan pola \"Tempat + で (de) + Objek + を (o) + Kata Kerja (Aksi Dinamis)\" (Partikel Objek を (o) dan Lokasi Aktivitas Dinamis で (de)) yang berfungsi untuk partikel を (ditulis \"wo\", dilafalkan \"o\") menandai objek penderita langsung dari kata kerja transitif. Partikel で (de) menandai tempat berlangsungnya aksi aktif."
       },
       {
         "id": "q-ja-gram-4-bb-2",
@@ -1918,7 +1918,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di atas meja ada laptop dan kamus."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"昨日の晩、友達と美味しい寿司を食べました。\" berarti \"Tadi malam, saya makan sushi yang lezat bersama teman.\"."
+        "explanation": "Kalimat \"昨日の晩、友達と美味しい寿司を食べました。\" (dibaca: Kinō no ban, tomodachi to oishii sushi o tabemashita.) berarti \"Tadi malam, saya makan sushi yang lezat bersama teman.\". Kalimat ini menggunakan pola \"V-akar + ます (Positif Kini/Masa Depan) / ません (Negatif) / ました (Lampau)\" (Konjugasi Kata Kerja Bentuk Sopan: 〜ます, 〜ません, 〜ました) yang berfungsi untuk kata kerja bahasa Jepang dibagi menjadi 3 golongan (Godan, Ichidan, Irregular). Bentuk sopan (Masu-form) digunakan saat berkomunikasi formal dan ramah sehari-hari."
       },
       {
         "id": "q-ja-gram-5-pg-2",
@@ -1934,7 +1934,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Gunung Fuji adalah gunung yang sangat tinggi dan indah. Kyoto adalah kota yang tenang dan elok."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"私は毎晩十一時に寝ます。\" berarti \"Saya setiap malam tidur pada pukul sebelas.\"."
+        "explanation": "Kalimat \"私は毎晩十一時に寝ます。\" (dibaca: Watashi wa maiban jūichiji ni nemasu.) berarti \"Saya setiap malam tidur pada pukul sebelas.\". Kalimat ini menggunakan pola \"V-akar + ます (Positif Kini/Masa Depan) / ません (Negatif) / ました (Lampau)\" (Konjugasi Kata Kerja Bentuk Sopan: 〜ます, 〜ません, 〜ました) yang berfungsi untuk kata kerja bahasa Jepang dibagi menjadi 3 golongan (Godan, Ichidan, Irregular). Bentuk sopan (Masu-form) digunakan saat berkomunikasi formal dan ramah sehari-hari."
       },
       {
         "id": "q-ja-gram-5-pg-3",
@@ -1950,7 +1950,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Ujian kemarin tidak terlalu sulit."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"昨日は日曜日でしたから、大学へ行きませんでした。\" berarti \"Karena kemarin hari Minggu, saya tidak pergi ke universitas.\"."
+        "explanation": "Kalimat \"昨日は日曜日でしたから、大学へ行きませんでした。\" (dibaca: Kinō wa nichiyōbi deshita kara, daigaku e ikimasen deshita.) berarti \"Karena kemarin hari Minggu, saya tidak pergi ke universitas.\". Kalimat ini menggunakan pola \"V-akar + ます (Positif Kini/Masa Depan) / ません (Negatif) / ました (Lampau)\" (Konjugasi Kata Kerja Bentuk Sopan: 〜ます, 〜ません, 〜ました) yang berfungsi untuk kata kerja bahasa Jepang dibagi menjadi 3 golongan (Godan, Ichidan, Irregular). Bentuk sopan (Masu-form) digunakan saat berkomunikasi formal dan ramah sehari-hari."
       },
       {
         "id": "q-ja-gram-5-pg-4",
@@ -2235,7 +2235,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di dalam ruang kelas ada guru Tanaka dan mahasiswa asing."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"昨日の晩、友達と美味しい寿司を食べました。\" berarti \"Tadi malam, saya makan sushi yang lezat bersama teman.\"."
+        "explanation": "Kalimat \"昨日の晩、友達と美味しい寿司を食べました。\" (dibaca: Kinō no ban, tomodachi to oishii sushi o tabemashita.) berarti \"Tadi malam, saya makan sushi yang lezat bersama teman.\". Kalimat ini menggunakan pola \"V-akar + ます (Positif Kini/Masa Depan) / ません (Negatif) / ました (Lampau)\" (Konjugasi Kata Kerja Bentuk Sopan: 〜ます, 〜ません, 〜ました) yang berfungsi untuk kata kerja bahasa Jepang dibagi menjadi 3 golongan (Godan, Ichidan, Irregular). Bentuk sopan (Masu-form) digunakan saat berkomunikasi formal dan ramah sehari-hari."
       },
       {
         "id": "q-ja-gram-5-bb-2",
@@ -2377,7 +2377,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kamus baru ini sangat praktis dan mudah digunakan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"教室の中に田中先生と留学生がいます。\" berarti \"Di dalam ruang kelas ada guru Tanaka dan mahasiswa asing.\"."
+        "explanation": "Kalimat \"教室の中に田中先生と留学生がいます。\" (dibaca: Kyōshitsu no naka ni Tanaka sensei to ryūgakusei ga imasu.) berarti \"Di dalam ruang kelas ada guru Tanaka dan mahasiswa asing.\". Kalimat ini menggunakan pola \"Tempat + に + Makhluk Hidup + が + います  |  Tempat + に + Benda Mati + が + あります\" (Keberadaan Makhluk Hidup います (imasu) vs Benda Mati あります (arimasu)) yang berfungsi untuk bahasa Jepang membedakan secara tegas kata kerja keberadaan (\"ada\"): います (imasu) khusus untuk makhluk bernyawa (manusia, hewan), sedangkan あります (arimasu) untuk benda mati dan tanaman."
       },
       {
         "id": "q-ja-gram-6-pg-2",
@@ -2393,7 +2393,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akhir pekan ini, maukah pergi ke Akihabara di Tokyo bersama-sama? Ya, tentu saja ayo kita pergi!"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"机の上にパソコンと辞書があります。\" berarti \"Di atas meja ada laptop dan kamus.\"."
+        "explanation": "Kalimat \"机の上にパソコンと辞書があります。\" (dibaca: Tsukue no ue ni pasokon to jisho ga arimasu.) berarti \"Di atas meja ada laptop dan kamus.\". Kalimat ini menggunakan pola \"Tempat + に + Makhluk Hidup + が + います  |  Tempat + に + Benda Mati + が + あります\" (Keberadaan Makhluk Hidup います (imasu) vs Benda Mati あります (arimasu)) yang berfungsi untuk bahasa Jepang membedakan secara tegas kata kerja keberadaan (\"ada\"): います (imasu) khusus untuk makhluk bernyawa (manusia, hewan), sedangkan あります (arimasu) untuk benda mati dan tanaman."
       },
       {
         "id": "q-ja-gram-6-pg-3",
@@ -2409,7 +2409,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di halaman ada dua ekor kucing yang lucu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"庭に可愛い猫が二匹います。\" berarti \"Di halaman ada dua ekor kucing yang lucu.\"."
+        "explanation": "Kalimat \"庭に可愛い猫が二匹います。\" (dibaca: Niwa ni kawaii neko ga nihiki imasu.) berarti \"Di halaman ada dua ekor kucing yang lucu.\". Kalimat ini menggunakan pola \"Tempat + に + Makhluk Hidup + が + います  |  Tempat + に + Benda Mati + が + あります\" (Keberadaan Makhluk Hidup います (imasu) vs Benda Mati あります (arimasu)) yang berfungsi untuk bahasa Jepang membedakan secara tegas kata kerja keberadaan (\"ada\"): います (imasu) khusus untuk makhluk bernyawa (manusia, hewan), sedangkan あります (arimasu) untuk benda mati dan tanaman."
       },
       {
         "id": "q-ja-gram-6-pg-4",
@@ -2698,7 +2698,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di dalam ruang kelas ada guru Tanaka dan mahasiswa asing."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"教室の中に田中先生と留学生がいます。\" berarti \"Di dalam ruang kelas ada guru Tanaka dan mahasiswa asing.\"."
+        "explanation": "Kalimat \"教室の中に田中先生と留学生がいます。\" (dibaca: Kyōshitsu no naka ni Tanaka sensei to ryūgakusei ga imasu.) berarti \"Di dalam ruang kelas ada guru Tanaka dan mahasiswa asing.\". Kalimat ini menggunakan pola \"Tempat + に + Makhluk Hidup + が + います  |  Tempat + に + Benda Mati + が + あります\" (Keberadaan Makhluk Hidup います (imasu) vs Benda Mati あります (arimasu)) yang berfungsi untuk bahasa Jepang membedakan secara tegas kata kerja keberadaan (\"ada\"): います (imasu) khusus untuk makhluk bernyawa (manusia, hewan), sedangkan あります (arimasu) untuk benda mati dan tanaman."
       },
       {
         "id": "q-ja-gram-6-bb-2",
@@ -2834,7 +2834,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di masa depan, saya ingin meneliti kecerdasan buatan di sekolah pascasarjana Jepang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"富士山はとても高くて美しい山です。京都は静かで綺麗な町です。\" berarti \"Gunung Fuji adalah gunung yang sangat tinggi dan indah. Kyoto adalah kota yang tenang dan elok.\"."
+        "explanation": "Kalimat \"富士山はとても高くて美しい山です。京都は静かで綺麗な町です。\" (dibaca: Fujisan wa totemo takakute utsukushii yama desu. Kyōto wa shizuka de kirei na machi desu.) berarti \"Gunung Fuji adalah gunung yang sangat tinggi dan indah. Kyoto adalah kota yang tenang dan elok.\". Kalimat ini menggunakan pola \"i-adj: 〜い / 〜くない / 〜かった  |  na-adj: 〜な + Noun / 〜です / 〜ではありません\" (Kata Sifat い (i-keiyoushi) vs Kata Sifat な (na-keiyoushi)) yang berfungsi untuk kata sifat bahasa Jepang terbagi dua golongan: Kata Sifat Berakhiran -i (い形容詞) yang berkonjugasi pada suku katanya sendiri, dan Kata Sifat -na (な形容詞) yang membutuhkan akhiran \"na\" saat menerangkan kata benda."
       },
       {
         "id": "q-ja-gram-7-pg-2",
@@ -2850,7 +2850,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kamus baru ini sangat praktis dan mudah digunakan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"この新しい辞書はとても便利で使いやすいです。\" berarti \"Kamus baru ini sangat praktis dan mudah digunakan.\"."
+        "explanation": "Kalimat \"この新しい辞書はとても便利で使いやすいです。\" (dibaca: Kono atarashii jisho wa totemo benri de tsukaiyasui desu.) berarti \"Kamus baru ini sangat praktis dan mudah digunakan.\". Kalimat ini menggunakan pola \"i-adj: 〜い / 〜くない / 〜かった  |  na-adj: 〜な + Noun / 〜です / 〜ではありません\" (Kata Sifat い (i-keiyoushi) vs Kata Sifat な (na-keiyoushi)) yang berfungsi untuk kata sifat bahasa Jepang terbagi dua golongan: Kata Sifat Berakhiran -i (い形容詞) yang berkonjugasi pada suku katanya sendiri, dan Kata Sifat -na (な形容詞) yang membutuhkan akhiran \"na\" saat menerangkan kata benda."
       },
       {
         "id": "q-ja-gram-7-pg-3",
@@ -2866,7 +2866,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Meminjam buku di perpustakaan, lalu membacanya di kamar asrama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"昨日の試験はあまり難しくなかったです。\" berarti \"Ujian kemarin tidak terlalu sulit.\"."
+        "explanation": "Kalimat \"昨日の試験はあまり難しくなかったです。\" (dibaca: Kinō no shiken wa amari muzukashikunakatta desu.) berarti \"Ujian kemarin tidak terlalu sulit.\". Kalimat ini menggunakan pola \"i-adj: 〜い / 〜くない / 〜かった  |  na-adj: 〜な + Noun / 〜です / 〜ではありません\" (Kata Sifat い (i-keiyoushi) vs Kata Sifat な (na-keiyoushi)) yang berfungsi untuk kata sifat bahasa Jepang terbagi dua golongan: Kata Sifat Berakhiran -i (い形容詞) yang berkonjugasi pada suku katanya sendiri, dan Kata Sifat -na (な形容詞) yang membutuhkan akhiran \"na\" saat menerangkan kata benda."
       },
       {
         "id": "q-ja-gram-7-pg-4",
@@ -3161,7 +3161,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akhir pekan ini, maukah pergi ke Akihabara di Tokyo bersama-sama? Ya, tentu saja ayo kita pergi!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"富士山はとても高くて美しい山です。京都は静かで綺麗な町です。\" berarti \"Gunung Fuji adalah gunung yang sangat tinggi dan indah. Kyoto adalah kota yang tenang dan elok.\"."
+        "explanation": "Kalimat \"富士山はとても高くて美しい山です。京都は静かで綺麗な町です。\" (dibaca: Fujisan wa totemo takakute utsukushii yama desu. Kyōto wa shizuka de kirei na machi desu.) berarti \"Gunung Fuji adalah gunung yang sangat tinggi dan indah. Kyoto adalah kota yang tenang dan elok.\". Kalimat ini menggunakan pola \"i-adj: 〜い / 〜くない / 〜かった  |  na-adj: 〜な + Noun / 〜です / 〜ではありません\" (Kata Sifat い (i-keiyoushi) vs Kata Sifat な (na-keiyoushi)) yang berfungsi untuk kata sifat bahasa Jepang terbagi dua golongan: Kata Sifat Berakhiran -i (い形容詞) yang berkonjugasi pada suku katanya sendiri, dan Kata Sifat -na (な形容詞) yang membutuhkan akhiran \"na\" saat menerangkan kata benda."
       },
       {
         "id": "q-ja-gram-7-bb-2",
@@ -3296,7 +3296,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akhir pekan ini, maukah pergi ke Akihabara di Tokyo bersama-sama? Ya, tentu saja ayo kita pergi!"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"今度の週末、一緒に東京の秋葉原へ行きませんか。ええ、行きましょう！\" berarti \"Akhir pekan ini, maukah pergi ke Akihabara di Tokyo bersama-sama? Ya, tentu saja ayo kita pergi!\"."
+        "explanation": "Kalimat \"今度の週末、一緒に東京の秋葉原へ行きませんか。ええ、行きましょう！\" (dibaca: Kondo no shūmatsu, issho ni Tōkyō no Akihabara e ikimasen ka. Ee, ikimashou!) berarti \"Akhir pekan ini, maukah pergi ke Akihabara di Tokyo bersama-sama? Ya, tentu saja ayo kita pergi!\". Kalimat ini menggunakan pola \"V-masu stem + たいです (Ingin...)  |  V-masu stem + ましょう (Ayo...) / ませんか (Maukah...?)\" (Mengekspresikan Keinginan 〜たい (tai) & Ajakan Sopan 〜ましょう) yang berfungsi untuk pelajari cara menyatakan keinginan pribadi melakukan sesuatu (〜たいです) serta cara mengajak mitra bicara secara sopan menggunakan 〜ましょう (ayo) dan 〜ませんか (maukah?)."
       },
       {
         "id": "q-ja-gram-8-pg-2",
@@ -3312,7 +3312,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena hari ini sedang turun hujan, saya pergi ke universitas naik taksi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"将来、日本の大学院で人工知能を研究したいです。\" berarti \"Di masa depan, saya ingin meneliti kecerdasan buatan di sekolah pascasarjana Jepang.\"."
+        "explanation": "Kalimat \"将来、日本の大学院で人工知能を研究したいです。\" (dibaca: Shōrai, Nihon no daigakuin de jinkō chinō o kenkyū shitai desu.) berarti \"Di masa depan, saya ingin meneliti kecerdasan buatan di sekolah pascasarjana Jepang.\". Kalimat ini menggunakan pola \"V-masu stem + たいです (Ingin...)  |  V-masu stem + ましょう (Ayo...) / ませんか (Maukah...?)\" (Mengekspresikan Keinginan 〜たい (tai) & Ajakan Sopan 〜ましょう) yang berfungsi untuk pelajari cara menyatakan keinginan pribadi melakukan sesuatu (〜たいです) serta cara mengajak mitra bicara secara sopan menggunakan 〜ましょう (ayo) dan 〜ませんか (maukah?)."
       },
       {
         "id": "q-ja-gram-8-pg-3",
@@ -3328,7 +3328,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena besok ada ujian penting, malam ini saya tidur lebih awal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"疲れましたから、喫茶店で少し休みましょう。\" berarti \"Karena sudah lelah, mari kita beristirahat sebentar di kafe.\"."
+        "explanation": "Kalimat \"疲れましたから、喫茶店で少し休みましょう。\" (dibaca: Tsukaremashita kara, kissaten de sukoshi yasumimashō.) berarti \"Karena sudah lelah, mari kita beristirahat sebentar di kafe.\". Kalimat ini menggunakan pola \"V-masu stem + たいです (Ingin...)  |  V-masu stem + ましょう (Ayo...) / ませんか (Maukah...?)\" (Mengekspresikan Keinginan 〜たい (tai) & Ajakan Sopan 〜ましょう) yang berfungsi untuk pelajari cara menyatakan keinginan pribadi melakukan sesuatu (〜たいです) serta cara mengajak mitra bicara secara sopan menggunakan 〜ましょう (ayo) dan 〜ませんか (maukah?)."
       },
       {
         "id": "q-ja-gram-8-pg-4",
@@ -3617,7 +3617,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi/maaf, tolong katakan sekali lagi dengan pelan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"今度の週末、一緒に東京の秋葉原へ行きませんか。ええ、行きましょう！\" berarti \"Akhir pekan ini, maukah pergi ke Akihabara di Tokyo bersama-sama? Ya, tentu saja ayo kita pergi!\"."
+        "explanation": "Kalimat \"今度の週末、一緒に東京の秋葉原へ行きませんか。ええ、行きましょう！\" (dibaca: Kondo no shūmatsu, issho ni Tōkyō no Akihabara e ikimasen ka. Ee, ikimashou!) berarti \"Akhir pekan ini, maukah pergi ke Akihabara di Tokyo bersama-sama? Ya, tentu saja ayo kita pergi!\". Kalimat ini menggunakan pola \"V-masu stem + たいです (Ingin...)  |  V-masu stem + ましょう (Ayo...) / ませんか (Maukah...?)\" (Mengekspresikan Keinginan 〜たい (tai) & Ajakan Sopan 〜ましょう) yang berfungsi untuk pelajari cara menyatakan keinginan pribadi melakukan sesuatu (〜たいです) serta cara mengajak mitra bicara secara sopan menggunakan 〜ましょう (ayo) dan 〜ませんか (maukah?)."
       },
       {
         "id": "q-ja-gram-8-bb-2",
@@ -3757,7 +3757,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Bahasa Jepang banyak kanjinya, tetapi sangat menarik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"すみません、もう一度ゆっくり言ってください。\" berarti \"Permisi/maaf, tolong katakan sekali lagi dengan pelan.\"."
+        "explanation": "Kalimat \"すみません、もう一度ゆっくり言ってください。\" (dibaca: Sumimasen, mō ichido yukkuri itte kudasai.) berarti \"Permisi/maaf, tolong katakan sekali lagi dengan pelan.\". Kalimat ini menggunakan pola \"V-te + ください (Silakan / Tolong lakukan...)  |  V-te + もいいです (Boleh...)\" (Kata Kerja Bentuk-Te (て形) & Permohonan Sopan 〜てください) yang berfungsi untuk bentuk -Te (て形) adalah bentuk konjugasi paling penting dalam tata bahasa Jepang yang menjadi jembatan bagi puluhan pola kalimat lanjutan (permohonan, sedang berlangsung, urutan aksi, izin)."
       },
       {
         "id": "q-ja-gram-9-pg-2",
@@ -3773,7 +3773,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Salam kenal, saya adalah mahasiswa internasional yang datang dari Indonesia."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ここに名前と電話番号を書いてください。\" berarti \"Tolong tuliskan nama dan nomor telepon di sini.\"."
+        "explanation": "Kalimat \"ここに名前と電話番号を書いてください。\" (dibaca: Koko ni namae to denwa bangō o kaite kudasai.) berarti \"Tolong tuliskan nama dan nomor telepon di sini.\". Kalimat ini menggunakan pola \"V-te + ください (Silakan / Tolong lakukan...)  |  V-te + もいいです (Boleh...)\" (Kata Kerja Bentuk-Te (て形) & Permohonan Sopan 〜てください) yang berfungsi untuk bentuk -Te (て形) adalah bentuk konjugasi paling penting dalam tata bahasa Jepang yang menjadi jembatan bagi puluhan pola kalimat lanjutan (permohonan, sedang berlangsung, urutan aksi, izin)."
       },
       {
         "id": "q-ja-gram-9-pg-3",
@@ -3789,7 +3789,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saya bukan dokter. Saya adalah mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"図書館で本を借りて、寮の部屋で読みます。\" berarti \"Meminjam buku di perpustakaan, lalu membacanya di kamar asrama.\"."
+        "explanation": "Kalimat \"図書館で本を借りて、寮の部屋で読みます。\" (dibaca: Toshokan de hon o karite, ryō no heya de yomimasu.) berarti \"Meminjam buku di perpustakaan, lalu membacanya di kamar asrama.\". Kalimat ini menggunakan pola \"V-te + ください (Silakan / Tolong lakukan...)  |  V-te + もいいです (Boleh...)\" (Kata Kerja Bentuk-Te (て形) & Permohonan Sopan 〜てください) yang berfungsi untuk bentuk -Te (て形) adalah bentuk konjugasi paling penting dalam tata bahasa Jepang yang menjadi jembatan bagi puluhan pola kalimat lanjutan (permohonan, sedang berlangsung, urutan aksi, izin)."
       },
       {
         "id": "q-ja-gram-9-pg-4",
@@ -4082,7 +4082,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena hari ini sedang turun hujan, saya pergi ke universitas naik taksi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"すみません、もう一度ゆっくり言ってください。\" berarti \"Permisi/maaf, tolong katakan sekali lagi dengan pelan.\"."
+        "explanation": "Kalimat \"すみません、もう一度ゆっくり言ってください。\" (dibaca: Sumimasen, mō ichido yukkuri itte kudasai.) berarti \"Permisi/maaf, tolong katakan sekali lagi dengan pelan.\". Kalimat ini menggunakan pola \"V-te + ください (Silakan / Tolong lakukan...)  |  V-te + もいいです (Boleh...)\" (Kata Kerja Bentuk-Te (て形) & Permohonan Sopan 〜てください) yang berfungsi untuk bentuk -Te (て形) adalah bentuk konjugasi paling penting dalam tata bahasa Jepang yang menjadi jembatan bagi puluhan pola kalimat lanjutan (permohonan, sedang berlangsung, urutan aksi, izin)."
       },
       {
         "id": "q-ja-gram-9-bb-2",
@@ -4219,7 +4219,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Pak Tanaka adalah dosen universitas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"今日は雨が降っていますから、タクシーで大学へ行きます。\" berarti \"Karena hari ini sedang turun hujan, saya pergi ke universitas naik taksi.\"."
+        "explanation": "Kalimat \"今日は雨が降っていますから、タクシーで大学へ行きます。\" (dibaca: Kyō wa ame ga futte imasu kara, takushī de daigaku e ikimasu.) berarti \"Karena hari ini sedang turun hujan, saya pergi ke universitas naik taksi.\". Kalimat ini menggunakan pola \"Alasan + から (karena), Akibat  |  Klausa 1 + けど / が (tetapi), Klausa 2\" (Sintaksis Kalimat Majemuk (から / けど) & Evaluasi Komprehensif N5) yang berfungsi untuk kuasai konjungsi penggabung anak kalimat: から (sebab-akibat) dan けど/が (kontras/pembuka), serta uji pemahaman sintaksis penuh seluruh materi dasar JLPT N5 sebelum membuka N4!."
       },
       {
         "id": "q-ja-gram-10-pg-2",
@@ -4235,7 +4235,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Permisi, berapa harga kamus ini? Itu harganya 3.000 Yen."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"日本語は漢字が多いですが、とても面白いです。\" berarti \"Bahasa Jepang banyak kanjinya, tetapi sangat menarik.\"."
+        "explanation": "Kalimat \"日本語は漢字が多いですが、とても面白いです。\" (dibaca: Nihongo wa kanji ga ōi desu ga, totemo omoshiroi desu.) berarti \"Bahasa Jepang banyak kanjinya, tetapi sangat menarik.\". Kalimat ini menggunakan pola \"Alasan + から (karena), Akibat  |  Klausa 1 + けど / が (tetapi), Klausa 2\" (Sintaksis Kalimat Majemuk (から / けど) & Evaluasi Komprehensif N5) yang berfungsi untuk kuasai konjungsi penggabung anak kalimat: から (sebab-akibat) dan けど/が (kontras/pembuka), serta uji pemahaman sintaksis penuh seluruh materi dasar JLPT N5 sebelum membuka N4!."
       },
       {
         "id": "q-ja-gram-10-pg-3",
@@ -4251,7 +4251,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena besok ada ujian penting, malam ini saya tidur lebih awal."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"明日は大切な試験がありますから、今晩早く寝ます。\" berarti \"Karena besok ada ujian penting, malam ini saya tidur lebih awal.\"."
+        "explanation": "Kalimat \"明日は大切な試験がありますから、今晩早く寝ます。\" (dibaca: Ashita wa taisetsu na shiken ga arimasu kara, konban hayaku nemasu.) berarti \"Karena besok ada ujian penting, malam ini saya tidur lebih awal.\". Kalimat ini menggunakan pola \"Alasan + から (karena), Akibat  |  Klausa 1 + けど / が (tetapi), Klausa 2\" (Sintaksis Kalimat Majemuk (から / けど) & Evaluasi Komprehensif N5) yang berfungsi untuk kuasai konjungsi penggabung anak kalimat: から (sebab-akibat) dan けど/が (kontras/pembuka), serta uji pemahaman sintaksis penuh seluruh materi dasar JLPT N5 sebelum membuka N4!."
       },
       {
         "id": "q-ja-gram-10-pg-4",
@@ -4540,7 +4540,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena hari ini sedang turun hujan, saya pergi ke universitas naik taksi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"今日は雨が降っていますから、タクシーで大学へ行きます。\" berarti \"Karena hari ini sedang turun hujan, saya pergi ke universitas naik taksi.\"."
+        "explanation": "Kalimat \"今日は雨が降っていますから、タクシーで大学へ行きます。\" (dibaca: Kyō wa ame ga futte imasu kara, takushī de daigaku e ikimasu.) berarti \"Karena hari ini sedang turun hujan, saya pergi ke universitas naik taksi.\". Kalimat ini menggunakan pola \"Alasan + から (karena), Akibat  |  Klausa 1 + けど / が (tetapi), Klausa 2\" (Sintaksis Kalimat Majemuk (から / けど) & Evaluasi Komprehensif N5) yang berfungsi untuk kuasai konjungsi penggabung anak kalimat: から (sebab-akibat) dan けど/が (kontras/pembuka), serta uji pemahaman sintaksis penuh seluruh materi dasar JLPT N5 sebelum membuka N4!."
       },
       {
         "id": "q-ja-gram-10-bb-2",
@@ -4689,7 +4689,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Natto memang memiliki aroma yang khas, tapi saya bisa memakannya dengan nikmat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"日本に着いたら、すぐに家族にメッセージを送ります。\" berarti \"Begitu tiba di Jepang, saya akan segera mengirimkan pesan ke keluarga.\"."
+        "explanation": "Kalimat \"日本に着いたら、すぐに家族にメッセージを送ります。\" (dibaca: Nihon ni tsuitara, sugu ni kazoku ni messēji o okurimasu.) berarti \"Begitu tiba di Jepang, saya akan segera mengirimkan pesan ke keluarga.\". Kalimat ini menggunakan pola \"Bentuk Lampau (Ta) + ら (tara) / Bentuk Pengandaian (Ba-kei)\" (Pengandaian 〜たら (tara) dan 〜ば (ba)) yang berfungsi untuk pola 〜たら adalah pengandaian paling fleksibel untuk 'jika/setelah', sedangkan 〜ば fokus pada kondisi mutlak atau hipotesis logis umum."
       },
       {
         "id": "q-ja-gram-11-pg-2",
@@ -4705,7 +4705,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Jika murah saya akan beli, tapi jika mahal saya akan menyerah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"安ければ買いますが、高いなら諦めます。\" berarti \"Jika murah saya akan beli, tapi jika mahal saya akan menyerah.\"."
+        "explanation": "Kalimat \"安ければ買いますが、高いなら諦めます。\" (dibaca: Yasukereba kaimasu ga, takai nara akiramemasu.) berarti \"Jika murah saya akan beli, tapi jika mahal saya akan menyerah.\". Kalimat ini menggunakan pola \"Bentuk Lampau (Ta) + ら (tara) / Bentuk Pengandaian (Ba-kei)\" (Pengandaian 〜たら (tara) dan 〜ば (ba)) yang berfungsi untuk pola 〜たら adalah pengandaian paling fleksibel untuk 'jika/setelah', sedangkan 〜ば fokus pada kondisi mutlak atau hipotesis logis umum."
       },
       {
         "id": "q-ja-gram-11-pg-3",
@@ -4721,7 +4721,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di antara musim dalam satu tahun, musim semi yang paling nyaman dan paling saya sukai."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"時間ができたら、京都の古い寺を案内してください。\" berarti \"Jika ada waktu luang, tolong pandu saya berkeliling kuil tua Kyoto.\"."
+        "explanation": "Kalimat \"時間ができたら、京都の古い寺を案内してください。\" (dibaca: Jikan ga dekitara, Kyōto no furui tera o annai shite kudasai.) berarti \"Jika ada waktu luang, tolong pandu saya berkeliling kuil tua Kyoto.\". Kalimat ini menggunakan pola \"Bentuk Lampau (Ta) + ら (tara) / Bentuk Pengandaian (Ba-kei)\" (Pengandaian 〜たら (tara) dan 〜ば (ba)) yang berfungsi untuk pola 〜たら adalah pengandaian paling fleksibel untuk 'jika/setelah', sedangkan 〜ば fokus pada kondisi mutlak atau hipotesis logis umum."
       },
       {
         "id": "q-ja-gram-11-pg-4",
@@ -5014,7 +5014,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena saya berlatih kanji setiap hari, sekarang saya sudah bisa membaca koran sedikit."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"日本に着いたら、すぐに家族にメッセージを送ります。\" berarti \"Begitu tiba di Jepang, saya akan segera mengirimkan pesan ke keluarga.\"."
+        "explanation": "Kalimat \"日本に着いたら、すぐに家族にメッセージを送ります。\" (dibaca: Nihon ni tsuitara, sugu ni kazoku ni messēji o okurimasu.) berarti \"Begitu tiba di Jepang, saya akan segera mengirimkan pesan ke keluarga.\". Kalimat ini menggunakan pola \"Bentuk Lampau (Ta) + ら (tara) / Bentuk Pengandaian (Ba-kei)\" (Pengandaian 〜たら (tara) dan 〜ば (ba)) yang berfungsi untuk pola 〜たら adalah pengandaian paling fleksibel untuk 'jika/setelah', sedangkan 〜ば fokus pada kondisi mutlak atau hipotesis logis umum."
       },
       {
         "id": "q-ja-gram-11-bb-2",
@@ -5162,7 +5162,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Begitu belok kiri di lampu lalu lintas, ada stasiun kereta bawah tanah di sisi kiri."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"信号を左へ曲がると、左側に地下鉄の駅があります。\" berarti \"Begitu belok kiri di lampu lalu lintas, ada stasiun kereta bawah tanah di sisi kiri.\"."
+        "explanation": "Kalimat \"信号を左へ曲がると、左側に地下鉄の駅があります。\" (dibaca: Shingō o hidari e magaru to, hidarigawa ni chikatetsu no eki ga arimasu.) berarti \"Begitu belok kiri di lampu lalu lintas, ada stasiun kereta bawah tanah di sisi kiri.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus + と / Kata Benda / Bentuk Biasa + なら\" (Pengandaian Kondisi Pasti 〜と (to) dan Syarat Topik 〜なら (nara)) yang berfungsi untuk pola 〜と menyatakan konsekuensi alamiah atau urutan mekanis tak terhindarkan ('setiap kali A, pasti terjadi B'). Pola 〜なら dipakai untuk memberi saran atau respon berdasarkan topik yang diangkat lawan bicara."
       },
       {
         "id": "q-ja-gram-12-pg-2",
@@ -5178,7 +5178,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Demi lulus JLPT N4, saya berencana belajar 2 jam setiap malam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"日本の歴史に興味があるなら、ぜひ京都を訪れてみてください。\" berarti \"Jika kamu tertarik dengan sejarah Jepang, pastikan kamu mencoba mengunjungi Kyoto.\"."
+        "explanation": "Kalimat \"日本の歴史に興味があるなら、ぜひ京都を訪れてみてください。\" (dibaca: Nihon no rekishi ni kyōmi ga aru nara, zehi Kyōto o otozurete mite kudasai.) berarti \"Jika kamu tertarik dengan sejarah Jepang, pastikan kamu mencoba mengunjungi Kyoto.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus + と / Kata Benda / Bentuk Biasa + なら\" (Pengandaian Kondisi Pasti 〜と (to) dan Syarat Topik 〜なら (nara)) yang berfungsi untuk pola 〜と menyatakan konsekuensi alamiah atau urutan mekanis tak terhindarkan ('setiap kali A, pasti terjadi B'). Pola 〜なら dipakai untuk memberi saran atau respon berdasarkan topik yang diangkat lawan bicara."
       },
       {
         "id": "q-ja-gram-12-pg-3",
@@ -5194,7 +5194,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena perut sudah kenyang, mari kita lewati/tidak makan makanan penutup."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"冬になると、富士山の頂上に白い雪が積もります。\" berarti \"Setiap kali musim dingin tiba, salju putih menumpuk di puncak Gunung Fuji.\"."
+        "explanation": "Kalimat \"冬になると、富士山の頂上に白い雪が積もります。\" (dibaca: Fuyu ni naru to, Fujisan no chōjō ni shiroi yuki ga tsumorimasu.) berarti \"Setiap kali musim dingin tiba, salju putih menumpuk di puncak Gunung Fuji.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus + と / Kata Benda / Bentuk Biasa + なら\" (Pengandaian Kondisi Pasti 〜と (to) dan Syarat Topik 〜なら (nara)) yang berfungsi untuk pola 〜と menyatakan konsekuensi alamiah atau urutan mekanis tak terhindarkan ('setiap kali A, pasti terjadi B'). Pola 〜なら dipakai untuk memberi saran atau respon berdasarkan topik yang diangkat lawan bicara."
       },
       {
         "id": "q-ja-gram-12-pg-4",
@@ -5483,7 +5483,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dibandingkan bus, kereta api lebih bisa menepati waktu dengan akurat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"信号を左へ曲がると、左側に地下鉄の駅があります。\" berarti \"Begitu belok kiri di lampu lalu lintas, ada stasiun kereta bawah tanah di sisi kiri.\"."
+        "explanation": "Kalimat \"信号を左へ曲がると、左側に地下鉄の駅があります。\" (dibaca: Shingō o hidari e magaru to, hidarigawa ni chikatetsu no eki ga arimasu.) berarti \"Begitu belok kiri di lampu lalu lintas, ada stasiun kereta bawah tanah di sisi kiri.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus + と / Kata Benda / Bentuk Biasa + なら\" (Pengandaian Kondisi Pasti 〜と (to) dan Syarat Topik 〜なら (nara)) yang berfungsi untuk pola 〜と menyatakan konsekuensi alamiah atau urutan mekanis tak terhindarkan ('setiap kali A, pasti terjadi B'). Pola 〜なら dipakai untuk memberi saran atau respon berdasarkan topik yang diangkat lawan bicara."
       },
       {
         "id": "q-ja-gram-12-bb-2",
@@ -5631,7 +5631,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akhir pekan ini saya berniat untuk tidak bepergian ke mana pun dan beristirahat santai di rumah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"漢字を毎日練習しているので、新聞が少し読めるようになりました。\" berarti \"Karena saya berlatih kanji setiap hari, sekarang saya sudah bisa membaca koran sedikit.\"."
+        "explanation": "Kalimat \"漢字を毎日練習しているので、新聞が少し読めるようになりました。\" (dibaca: Kanji o mainichi renshū shite iru node, shinbun ga sukoshi yomeru yō ni narimashita.) berarti \"Karena saya berlatih kanji setiap hari, sekarang saya sudah bisa membaca koran sedikit.\". Kalimat ini menggunakan pola \"Golongan 1: u -> e + ru / Golongan 2: ru -> rareru / Golongan 3: kuru -> korareru, suru -> dekiru\" (Bentuk Potensial (Kemampuan) 可能形 (Kanoukei)) yang berfungsi untuk bentuk potensial mengubah kata kerja menjadi bentuk 'bisa / sanggup melakukan'. Partikel penanda objek を (o) umumnya berubah menjadi が (ga)."
       },
       {
         "id": "q-ja-gram-13-pg-2",
@@ -5647,7 +5647,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menang di lomba pidato, saya dipuji oleh kepala sekolah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"納豆は独特の匂いがありますが、私は美味しく食べられます。\" berarti \"Natto memang memiliki aroma yang khas, tapi saya bisa memakannya dengan nikmat.\"."
+        "explanation": "Kalimat \"納豆は独特の匂いがありますが、私は美味しく食べられます。\" (dibaca: Nattō wa dokutoku no nioi ga arimasu ga, watashi wa oishiku taberareru desu.) berarti \"Natto memang memiliki aroma yang khas, tapi saya bisa memakannya dengan nikmat.\". Kalimat ini menggunakan pola \"Golongan 1: u -> e + ru / Golongan 2: ru -> rareru / Golongan 3: kuru -> korareru, suru -> dekiru\" (Bentuk Potensial (Kemampuan) 可能形 (Kanoukei)) yang berfungsi untuk bentuk potensial mengubah kata kerja menjadi bentuk 'bisa / sanggup melakukan'. Partikel penanda objek を (o) umumnya berubah menjadi が (ga)."
       },
       {
         "id": "q-ja-gram-13-pg-3",
@@ -5663,7 +5663,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Pergi tanpa membawa payung, di tengah jalan saya kehujanan dan sangat kerepotan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"天気がいいので、屋上から遠くの山がはっきりと見えます。\" berarti \"Karena cuaca cerah, dari atap gedung pegunungan di kejauhan tampak dengan sangat jelas.\"."
+        "explanation": "Kalimat \"天気がいいので、屋上から遠くの山がはっきりと見えます。\" (dibaca: Tenki ga ii node, okujō kara tōku no yama ga hakkiri to miemasu.) berarti \"Karena cuaca cerah, dari atap gedung pegunungan di kejauhan tampak dengan sangat jelas.\". Kalimat ini menggunakan pola \"Golongan 1: u -> e + ru / Golongan 2: ru -> rareru / Golongan 3: kuru -> korareru, suru -> dekiru\" (Bentuk Potensial (Kemampuan) 可能形 (Kanoukei)) yang berfungsi untuk bentuk potensial mengubah kata kerja menjadi bentuk 'bisa / sanggup melakukan'. Partikel penanda objek を (o) umumnya berubah menjadi が (ga)."
       },
       {
         "id": "q-ja-gram-13-pg-4",
@@ -5954,7 +5954,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Demi lulus JLPT N4, saya berencana belajar 2 jam setiap malam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"漢字を毎日練習しているので、新聞が少し読めるようになりました。\" berarti \"Karena saya berlatih kanji setiap hari, sekarang saya sudah bisa membaca koran sedikit.\"."
+        "explanation": "Kalimat \"漢字を毎日練習しているので、新聞が少し読めるようになりました。\" (dibaca: Kanji o mainichi renshū shite iru node, shinbun ga sukoshi yomeru yō ni narimashita.) berarti \"Karena saya berlatih kanji setiap hari, sekarang saya sudah bisa membaca koran sedikit.\". Kalimat ini menggunakan pola \"Golongan 1: u -> e + ru / Golongan 2: ru -> rareru / Golongan 3: kuru -> korareru, suru -> dekiru\" (Bentuk Potensial (Kemampuan) 可能形 (Kanoukei)) yang berfungsi untuk bentuk potensial mengubah kata kerja menjadi bentuk 'bisa / sanggup melakukan'. Partikel penanda objek を (o) umumnya berubah menjadi が (ga)."
       },
       {
         "id": "q-ja-gram-13-bb-2",
@@ -6102,7 +6102,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di dalam kereta padat, kaki saya terinjak oleh orang di belakang dan rasanya sakit."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"バスより電車のほうが時間を正確に守れます。\" berarti \"Dibandingkan bus, kereta api lebih bisa menepati waktu dengan akurat.\"."
+        "explanation": "Kalimat \"バスより電車のほうが時間を正確に守れます。\" (dibaca: Basu yori densha no hō ga jikan o seikaku ni mamoremasu.) berarti \"Dibandingkan bus, kereta api lebih bisa menepati waktu dengan akurat.\". Kalimat ini menggunakan pola \"A のほうが B より... / A は B ほど...ない / 〜の中で〜が一番...\" (Perbandingan Tingkat Lanjut: 〜より〜のほうが & 〜ほど〜ない) yang berfungsi untuk membandingkan dua entitas atau memilih yang paling unggul di dalam kelompok. Pola 〜ほど〜ない digunakan khusus untuk kalimat perbandingan bernilai negatif ('A tidak se-... B')."
       },
       {
         "id": "q-ja-gram-14-pg-2",
@@ -6118,7 +6118,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena kondisi tubuh kurang fit, apakah saya boleh diizinkan untuk tidak menghadiri rapat hari ini?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"平日のテーマパークは、週末ほど混んでいません。\" berarti \"Taman hiburan pada hari kerja tidak sepadat saat akhir pekan.\"."
+        "explanation": "Kalimat \"平日のテーマパークは、週末ほど混んでいません。\" (dibaca: Heijitsu no tēmapāku wa, shūmatsu hodo konde imasen.) berarti \"Taman hiburan pada hari kerja tidak sepadat saat akhir pekan.\". Kalimat ini menggunakan pola \"A のほうが B より... / A は B ほど...ない / 〜の中で〜が一番...\" (Perbandingan Tingkat Lanjut: 〜より〜のほうが & 〜ほど〜ない) yang berfungsi untuk membandingkan dua entitas atau memilih yang paling unggul di dalam kelompok. Pola 〜ほど〜ない digunakan khusus untuk kalimat perbandingan bernilai negatif ('A tidak se-... B')."
       },
       {
         "id": "q-ja-gram-14-pg-3",
@@ -6134,7 +6134,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di antara musim dalam satu tahun, musim semi yang paling nyaman dan paling saya sukai."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"一年の中で春が一番過ごしやすくて好きです。\" berarti \"Di antara musim dalam satu tahun, musim semi yang paling nyaman dan paling saya sukai.\"."
+        "explanation": "Kalimat \"一年の中で春が一番過ごしやすくて好きです。\" (dibaca: Ichinen no naka de haru ga ichiban sugoshiyasukute suki desu.) berarti \"Di antara musim dalam satu tahun, musim semi yang paling nyaman dan paling saya sukai.\". Kalimat ini menggunakan pola \"A のほうが B より... / A は B ほど...ない / 〜の中で〜が一番...\" (Perbandingan Tingkat Lanjut: 〜より〜のほうが & 〜ほど〜ない) yang berfungsi untuk membandingkan dua entitas atau memilih yang paling unggul di dalam kelompok. Pola 〜ほど〜ない digunakan khusus untuk kalimat perbandingan bernilai negatif ('A tidak se-... B')."
       },
       {
         "id": "q-ja-gram-14-pg-4",
@@ -6423,7 +6423,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dibandingkan bus, kereta api lebih bisa menepati waktu dengan akurat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"バスより電車のほうが時間を正確に守れます。\" berarti \"Dibandingkan bus, kereta api lebih bisa menepati waktu dengan akurat.\"."
+        "explanation": "Kalimat \"バスより電車のほうが時間を正確に守れます。\" (dibaca: Basu yori densha no hō ga jikan o seikaku ni mamoremasu.) berarti \"Dibandingkan bus, kereta api lebih bisa menepati waktu dengan akurat.\". Kalimat ini menggunakan pola \"A のほうが B より... / A は B ほど...ない / 〜の中で〜が一番...\" (Perbandingan Tingkat Lanjut: 〜より〜のほうが & 〜ほど〜ない) yang berfungsi untuk membandingkan dua entitas atau memilih yang paling unggul di dalam kelompok. Pola 〜ほど〜ない digunakan khusus untuk kalimat perbandingan bernilai negatif ('A tidak se-... B')."
       },
       {
         "id": "q-ja-gram-14-bb-2",
@@ -6571,7 +6571,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Guru menyuruh para siswa banyak berbicara bahasa Jepang selama pelajaran berlangsung."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"JLPT N4に合格するために、毎晩2時間勉強しようと思っています。\" berarti \"Demi lulus JLPT N4, saya berencana belajar 2 jam setiap malam.\"."
+        "explanation": "Kalimat \"JLPT N4に合格するために、毎晩2時間勉強しようと思っています。\" (dibaca: Nihongo Nōryoku Shiken Enu-yon ni gōkaku suru tame ni, maiban nijikan benkyō shiyō to omotte imasu.) berarti \"Demi lulus JLPT N4, saya berencana belajar 2 jam setiap malam.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + つもり / Bentuk Volisional (〜よう) + と思う\" (Bentuk Niat & Rencana: 〜つもり (tsumori) & Bentuk Ajakan Volisional (意向形)) yang berfungsi untuk mengekspresikan tekad kuat pribadi (つもり) dan rencana yang terlintas dalam pikiran (〜ようと思う / と思っている)."
       },
       {
         "id": "q-ja-gram-15-pg-2",
@@ -6587,7 +6587,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akhir pekan ini saya berniat untuk tidak bepergian ke mana pun dan beristirahat santai di rumah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"今週末はどこにも出かけないで、家でゆっくり休むつもりです。\" berarti \"Akhir pekan ini saya berniat untuk tidak bepergian ke mana pun dan beristirahat santai di rumah.\"."
+        "explanation": "Kalimat \"今週末はどこにも出かけないで、家でゆっくり休むつもりです。\" (dibaca: Konshūmatsu wa doko ni mo dekakenaide, ie de yukkuri yasumu tsumori desu.) berarti \"Akhir pekan ini saya berniat untuk tidak bepergian ke mana pun dan beristirahat santai di rumah.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + つもり / Bentuk Volisional (〜よう) + と思う\" (Bentuk Niat & Rencana: 〜つもり (tsumori) & Bentuk Ajakan Volisional (意向形)) yang berfungsi untuk mengekspresikan tekad kuat pribadi (つもり) dan rencana yang terlintas dalam pikiran (〜ようと思う / と思っている)."
       },
       {
         "id": "q-ja-gram-15-pg-3",
@@ -6603,7 +6603,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena hujan semakin deras, saya meminjamkan payung saya kepada junior saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"もうお腹がいっぱいだから、デザートは食べないでおこう。\" berarti \"Karena perut sudah kenyang, mari kita lewati/tidak makan makanan penutup.\"."
+        "explanation": "Kalimat \"もうお腹がいっぱいだから、デザートは食べないでおこう。\" (dibaca: Mō onaka ga ippai da kara, dezāto wa tabenaide okō.) berarti \"Karena perut sudah kenyang, mari kita lewati/tidak makan makanan penutup.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + つもり / Bentuk Volisional (〜よう) + と思う\" (Bentuk Niat & Rencana: 〜つもり (tsumori) & Bentuk Ajakan Volisional (意向形)) yang berfungsi untuk mengekspresikan tekad kuat pribadi (つもり) dan rencana yang terlintas dalam pikiran (〜ようと思う / と思っている)."
       },
       {
         "id": "q-ja-gram-15-pg-4",
@@ -6896,7 +6896,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena kondisi tubuh kurang fit, apakah saya boleh diizinkan untuk tidak menghadiri rapat hari ini?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"JLPT N4に合格するために、毎晩2時間勉強しようと思っています。\" berarti \"Demi lulus JLPT N4, saya berencana belajar 2 jam setiap malam.\"."
+        "explanation": "Kalimat \"JLPT N4に合格するために、毎晩2時間勉強しようと思っています。\" (dibaca: Nihongo Nōryoku Shiken Enu-yon ni gōkaku suru tame ni, maiban nijikan benkyō shiyō to omotte imasu.) berarti \"Demi lulus JLPT N4, saya berencana belajar 2 jam setiap malam.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + つもり / Bentuk Volisional (〜よう) + と思う\" (Bentuk Niat & Rencana: 〜つもり (tsumori) & Bentuk Ajakan Volisional (意向形)) yang berfungsi untuk mengekspresikan tekad kuat pribadi (つもり) dan rencana yang terlintas dalam pikiran (〜ようと思う / と思っている)."
       },
       {
         "id": "q-ja-gram-15-bb-2",
@@ -7044,7 +7044,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menang di lomba pidato, saya dipuji oleh kepala sekolah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"スピーチコンテストで優勝して、校長先生に褒められました。\" berarti \"Menang di lomba pidato, saya dipuji oleh kepala sekolah.\"."
+        "explanation": "Kalimat \"スピーチコンテストで優勝して、校長先生に褒められました。\" (dibaca: Supīchi kontesuto de yūshō shite, kōchō-sensei ni homerarimashita.) berarti \"Menang di lomba pidato, saya dipuji oleh kepala sekolah.\". Kalimat ini menggunakan pola \"Subjek + は/が + Pelaku + に + Verba Pasif (G1: a+reru, G2: rareru)\" (Bentuk Pasif 受身形 (Ukemi-kei) dan Pasif Merugikan (Meiwaku Ukemi)) yang berfungsi untuk kalimat pasif mengubah fokus kalimat ke pihak yang menerima perbuatan. Di Jepang, bentuk pasif juga memiliki fungsi unik 'pasif penderitaan/merugikan' (迷惑の受身) saat terkena dampak buruk orang lain atau alam."
       },
       {
         "id": "q-ja-gram-16-pg-2",
@@ -7060,7 +7060,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Langit tiba-tiba menggelap dan angin dingin mulai berhembus, kelihatannya sebentar lagi mau turun hujan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"満員電車の中で、後ろの人に見知らぬ足を踏まれて痛かったです。\" berarti \"Di dalam kereta padat, kaki saya terinjak oleh orang di belakang dan rasanya sakit.\"."
+        "explanation": "Kalimat \"満員電車の中で、後ろの人に見知らぬ足を踏まれて痛かったです。\" (dibaca: Man'in densha no naka de, ushiro no hito ni mishiranu ashi o fumarete itakatta desu.) berarti \"Di dalam kereta padat, kaki saya terinjak oleh orang di belakang dan rasanya sakit.\". Kalimat ini menggunakan pola \"Subjek + は/が + Pelaku + に + Verba Pasif (G1: a+reru, G2: rareru)\" (Bentuk Pasif 受身形 (Ukemi-kei) dan Pasif Merugikan (Meiwaku Ukemi)) yang berfungsi untuk kalimat pasif mengubah fokus kalimat ke pihak yang menerima perbuatan. Di Jepang, bentuk pasif juga memiliki fungsi unik 'pasif penderitaan/merugikan' (迷惑の受身) saat terkena dampak buruk orang lain atau alam."
       },
       {
         "id": "q-ja-gram-16-pg-3",
@@ -7076,7 +7076,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dia selalu datang tepat waktu dan memiliki rasa tanggung jawab yang tinggi, benar-benar sosok anggota masyarakat yang pantas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"傘を持たずに出かけたら、途中で雨に降られて困りました。\" berarti \"Pergi tanpa membawa payung, di tengah jalan saya kehujanan dan sangat kerepotan.\"."
+        "explanation": "Kalimat \"傘を持たずに出かけたら、途中で雨に降られて困りました。\" (dibaca: Kasa o motazu ni dekaketara, tochū de ame ni furarete komarimashita.) berarti \"Pergi tanpa membawa payung, di tengah jalan saya kehujanan dan sangat kerepotan.\". Kalimat ini menggunakan pola \"Subjek + は/が + Pelaku + に + Verba Pasif (G1: a+reru, G2: rareru)\" (Bentuk Pasif 受身形 (Ukemi-kei) dan Pasif Merugikan (Meiwaku Ukemi)) yang berfungsi untuk kalimat pasif mengubah fokus kalimat ke pihak yang menerima perbuatan. Di Jepang, bentuk pasif juga memiliki fungsi unik 'pasif penderitaan/merugikan' (迷惑の受身) saat terkena dampak buruk orang lain atau alam."
       },
       {
         "id": "q-ja-gram-16-pg-4",
@@ -7369,7 +7369,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saat saya tersesat di jalan, seorang polisi yang ramah memberitahu arah dengan peta pos polisi untuk saya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"スピーチコンテストで優勝して、校長先生に褒められました。\" berarti \"Menang di lomba pidato, saya dipuji oleh kepala sekolah.\"."
+        "explanation": "Kalimat \"スピーチコンテストで優勝して、校長先生に褒められました。\" (dibaca: Supīchi kontesuto de yūshō shite, kōchō-sensei ni homerarimashita.) berarti \"Menang di lomba pidato, saya dipuji oleh kepala sekolah.\". Kalimat ini menggunakan pola \"Subjek + は/が + Pelaku + に + Verba Pasif (G1: a+reru, G2: rareru)\" (Bentuk Pasif 受身形 (Ukemi-kei) dan Pasif Merugikan (Meiwaku Ukemi)) yang berfungsi untuk kalimat pasif mengubah fokus kalimat ke pihak yang menerima perbuatan. Di Jepang, bentuk pasif juga memiliki fungsi unik 'pasif penderitaan/merugikan' (迷惑の受身) saat terkena dampak buruk orang lain atau alam."
       },
       {
         "id": "q-ja-gram-16-bb-2",
@@ -7517,7 +7517,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menurut ramalan cuaca, katanya besok salju akan turun di wilayah Kanto."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"体調が優れないので、本日の会議を欠席させていただけないでしょうか。\" berarti \"Karena kondisi tubuh kurang fit, apakah saya boleh diizinkan untuk tidak menghadiri rapat hari ini?\"."
+        "explanation": "Kalimat \"体調が優れないので、本日の会議を欠席させていただけないでしょうか。\" (dibaca: Taichō ga sugurenai node, honjitsu no kaigi o kesseki sasete itadakenai deshō ka.) berarti \"Karena kondisi tubuh kurang fit, apakah saya boleh diizinkan untuk tidak menghadiri rapat hari ini?\". Kalimat ini menggunakan pola \"Subjek (Pemberi izin/perintah) + は + Orang + に/を + Verba Kausatif (G1: a+seru, G2: saseru)\" (Bentuk Kausatif (Menyuruh / Mengizinkan) 使役形 (Shieki-kei)) yang berfungsi untuk bentuk kausatif digunakan ketika subjek membuat orang lain melakukan sesuatu, baik berupa paksaan/perintah maupun pemberian izin kelonggaran."
       },
       {
         "id": "q-ja-gram-17-pg-2",
@@ -7533,7 +7533,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setelah setengah tahun tinggal di Jepang, saya sudah bisa melakukan transit kereta api dengan lancar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"先生は授業中、生徒たちにたくさん日本語を話させます。\" berarti \"Guru menyuruh para siswa banyak berbicara bahasa Jepang selama pelajaran berlangsung.\"."
+        "explanation": "Kalimat \"先生は授業中、生徒たちにたくさん日本語を話させます。\" (dibaca: Sensei wa jugyōchū, seitotachi ni takusan Nihongo o hanasasemasu.) berarti \"Guru menyuruh para siswa banyak berbicara bahasa Jepang selama pelajaran berlangsung.\". Kalimat ini menggunakan pola \"Subjek (Pemberi izin/perintah) + は + Orang + に/を + Verba Kausatif (G1: a+seru, G2: saseru)\" (Bentuk Kausatif (Menyuruh / Mengizinkan) 使役形 (Shieki-kei)) yang berfungsi untuk bentuk kausatif digunakan ketika subjek membuat orang lain melakukan sesuatu, baik berupa paksaan/perintah maupun pemberian izin kelonggaran."
       },
       {
         "id": "q-ja-gram-17-pg-3",
@@ -7549,7 +7549,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Sesuai kebijakan perusahaan, mulai semester depan telah diputuskan bahwa semua rapat akan diselenggarakan dalam bahasa Inggris."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"子供の好奇心を育てるために、好きな本を自由に読ませています。\" berarti \"Demi memupuk rasa ingin tahu anak, saya membiarkannya membaca buku yang disukai dengan bebas.\"."
+        "explanation": "Kalimat \"子供の好奇心を育てるために、好きな本を自由に読ませています。\" (dibaca: Kodomo no kōkishin o sodateru tame ni, sukina hon o jiyū ni yomasete imasu.) berarti \"Demi memupuk rasa ingin tahu anak, saya membiarkannya membaca buku yang disukai dengan bebas.\". Kalimat ini menggunakan pola \"Subjek (Pemberi izin/perintah) + は + Orang + に/を + Verba Kausatif (G1: a+seru, G2: saseru)\" (Bentuk Kausatif (Menyuruh / Mengizinkan) 使役形 (Shieki-kei)) yang berfungsi untuk bentuk kausatif digunakan ketika subjek membuat orang lain melakukan sesuatu, baik berupa paksaan/perintah maupun pemberian izin kelonggaran."
       },
       {
         "id": "q-ja-gram-17-pg-4",
@@ -7844,7 +7844,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Langit tiba-tiba menggelap dan angin dingin mulai berhembus, kelihatannya sebentar lagi mau turun hujan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"体調が優れないので、本日の会議を欠席させていただけないでしょうか。\" berarti \"Karena kondisi tubuh kurang fit, apakah saya boleh diizinkan untuk tidak menghadiri rapat hari ini?\"."
+        "explanation": "Kalimat \"体調が優れないので、本日の会議を欠席させていただけないでしょうか。\" (dibaca: Taichō ga sugurenai node, honjitsu no kaigi o kesseki sasete itadakenai deshō ka.) berarti \"Karena kondisi tubuh kurang fit, apakah saya boleh diizinkan untuk tidak menghadiri rapat hari ini?\". Kalimat ini menggunakan pola \"Subjek (Pemberi izin/perintah) + は + Orang + に/を + Verba Kausatif (G1: a+seru, G2: saseru)\" (Bentuk Kausatif (Menyuruh / Mengizinkan) 使役形 (Shieki-kei)) yang berfungsi untuk bentuk kausatif digunakan ketika subjek membuat orang lain melakukan sesuatu, baik berupa paksaan/perintah maupun pemberian izin kelonggaran."
       },
       {
         "id": "q-ja-gram-17-bb-2",
@@ -7991,7 +7991,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Melihat hasil pemeriksaan kesehatan, mulai hari ini saya memutuskan untuk tidak menggunakan lift dan memakai tangga."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"道に迷っていたら、親切な警察官が交番の地図で教えてくれました。\" berarti \"Saat saya tersesat di jalan, seorang polisi yang ramah memberitahu arah dengan peta pos polisi untuk saya.\"."
+        "explanation": "Kalimat \"道に迷っていたら、親切な警察官が交番の地図で教えてくれました。\" (dibaca: Michi ni mayotte itara, shinsetsu na keisatsukan ga kōban no chizu de oshiete kuremashita.) berarti \"Saat saya tersesat di jalan, seorang polisi yang ramah memberitahu arah dengan peta pos polisi untuk saya.\". Kalimat ini menggunakan pola \"Bentuk Te + あげる (memberi ke orang) / もらう (menerima dari orang) / くれる (orang memberi ke saya)\" (Pemberian dan Penerimaan Jasa: 〜てあげる, 〜てもらう, 〜てくれる) yang berfungsi untuk tata bahasa penyerahan bantuan atau kebaikan hati (授受表現). Kuncinya terletak pada arah sudut pandang 'dalam kelompok saya' (ウチ) dan 'luar kelompok' (ソト)."
       },
       {
         "id": "q-ja-gram-18-pg-2",
@@ -8007,7 +8007,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Begitu tiba di Jepang, saya akan segera mengirimkan pesan ke keluarga."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"日本人の友人にレポートの文法をチェックしてもらいました。\" berarti \"Saya meminta tolong teman orang Jepang untuk mengecek tata bahasa laporan saya.\"."
+        "explanation": "Kalimat \"日本人の友人にレポートの文法をチェックしてもらいました。\" (dibaca: Nihonjin no yūjin ni repōto no bunpō o chekku shite moraimashita.) berarti \"Saya meminta tolong teman orang Jepang untuk mengecek tata bahasa laporan saya.\". Kalimat ini menggunakan pola \"Bentuk Te + あげる (memberi ke orang) / もらう (menerima dari orang) / くれる (orang memberi ke saya)\" (Pemberian dan Penerimaan Jasa: 〜てあげる, 〜てもらう, 〜てくれる) yang berfungsi untuk tata bahasa penyerahan bantuan atau kebaikan hati (授受表現). Kuncinya terletak pada arah sudut pandang 'dalam kelompok saya' (ウチ) dan 'luar kelompok' (ソト)."
       },
       {
         "id": "q-ja-gram-18-pg-3",
@@ -8023,7 +8023,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena hujan semakin deras, saya meminjamkan payung saya kepada junior saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"雨が強くなってきたので、後輩に私の傘を貸してあげました。\" berarti \"Karena hujan semakin deras, saya meminjamkan payung saya kepada junior saya.\"."
+        "explanation": "Kalimat \"雨が強くなってきたので、後輩に私の傘を貸してあげました。\" (dibaca: Ame ga tsuyoku natte kita node, kōhai ni watashi no kasa o kashite agemashita.) berarti \"Karena hujan semakin deras, saya meminjamkan payung saya kepada junior saya.\". Kalimat ini menggunakan pola \"Bentuk Te + あげる (memberi ke orang) / もらう (menerima dari orang) / くれる (orang memberi ke saya)\" (Pemberian dan Penerimaan Jasa: 〜てあげる, 〜てもらう, 〜てくれる) yang berfungsi untuk tata bahasa penyerahan bantuan atau kebaikan hati (授受表現). Kuncinya terletak pada arah sudut pandang 'dalam kelompok saya' (ウチ) dan 'luar kelompok' (ソト)."
       },
       {
         "id": "q-ja-gram-18-pg-4",
@@ -8322,7 +8322,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saat saya tersesat di jalan, seorang polisi yang ramah memberitahu arah dengan peta pos polisi untuk saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"道に迷っていたら、親切な警察官が交番の地図で教えてくれました。\" berarti \"Saat saya tersesat di jalan, seorang polisi yang ramah memberitahu arah dengan peta pos polisi untuk saya.\"."
+        "explanation": "Kalimat \"道に迷っていたら、親切な警察官が交番の地図で教えてくれました。\" (dibaca: Michi ni mayotte itara, shinsetsu na keisatsukan ga kōban no chizu de oshiete kuremashita.) berarti \"Saat saya tersesat di jalan, seorang polisi yang ramah memberitahu arah dengan peta pos polisi untuk saya.\". Kalimat ini menggunakan pola \"Bentuk Te + あげる (memberi ke orang) / もらう (menerima dari orang) / くれる (orang memberi ke saya)\" (Pemberian dan Penerimaan Jasa: 〜てあげる, 〜てもらう, 〜てくれる) yang berfungsi untuk tata bahasa penyerahan bantuan atau kebaikan hati (授受表現). Kuncinya terletak pada arah sudut pandang 'dalam kelompok saya' (ウチ) dan 'luar kelompok' (ソト)."
       },
       {
         "id": "q-ja-gram-18-bb-2",
@@ -8469,7 +8469,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Jika murah saya akan beli, tapi jika mahal saya akan menyerah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"空が急に暗くなって冷たい風が吹いてきたので、雨が降りそうです。\" berarti \"Langit tiba-tiba menggelap dan angin dingin mulai berhembus, kelihatannya sebentar lagi mau turun hujan.\"."
+        "explanation": "Kalimat \"空が急に暗くなって冷たい風が吹いてきたので、雨が降りそうです。\" (dibaca: Sora ga kyū ni kuraku natte tsumetai kaze ga fuite kita node, ame ga furisō desu.) berarti \"Langit tiba-tiba menggelap dan angin dingin mulai berhembus, kelihatannya sebentar lagi mau turun hujan.\". Kalimat ini menggunakan pola \"Masu-stem + そうだ (tampaknya akan) / Bentuk Biasa + そうだ (katanya) / ようだ / らしい\" (Dugaan Berdasarkan Bukti & Rumor: 〜そうだ, 〜ようだ, 〜らしい) yang berfungsi untuk membedakan dugaan visual sekilas (〜そうだ), dugaan berdasarkan fakta/situasi menyeluruh (〜ようだ), serta dugaan objektif atau kabar angin terpercaya (〜らしい)."
       },
       {
         "id": "q-ja-gram-19-pg-2",
@@ -8485,7 +8485,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menurut ramalan cuaca, katanya besok salju akan turun di wilayah Kanto."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"天気予報によると、明日は関東地方で雪が降るそうです。\" berarti \"Menurut ramalan cuaca, katanya besok salju akan turun di wilayah Kanto.\"."
+        "explanation": "Kalimat \"天気予報によると、明日は関東地方で雪が降るそうです。\" (dibaca: Tenkiyohō ni yoru to, ashita wa Kantō-chihō de yuki ga furu sō desu.) berarti \"Menurut ramalan cuaca, katanya besok salju akan turun di wilayah Kanto.\". Kalimat ini menggunakan pola \"Masu-stem + そうだ (tampaknya akan) / Bentuk Biasa + そうだ (katanya) / ようだ / らしい\" (Dugaan Berdasarkan Bukti & Rumor: 〜そうだ, 〜ようだ, 〜らしい) yang berfungsi untuk membedakan dugaan visual sekilas (〜そうだ), dugaan berdasarkan fakta/situasi menyeluruh (〜ようだ), serta dugaan objektif atau kabar angin terpercaya (〜らしい)."
       },
       {
         "id": "q-ja-gram-19-pg-3",
@@ -8501,7 +8501,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setiap kali musim dingin tiba, salju putih menumpuk di puncak Gunung Fuji."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"彼はいつも時間通りに来て責任感が強く、本当に社会人らしい人です。\" berarti \"Dia selalu datang tepat waktu dan memiliki rasa tanggung jawab yang tinggi, benar-benar sosok anggota masyarakat yang pantas.\"."
+        "explanation": "Kalimat \"彼はいつも時間通りに来て責任感が強く、本当に社会人らしい人です。\" (dibaca: Kare wa itsumo jikandōri ni kite sekininkan ga tsuyoku, hontō ni shakaijin-rashii hito desu.) berarti \"Dia selalu datang tepat waktu dan memiliki rasa tanggung jawab yang tinggi, benar-benar sosok anggota masyarakat yang pantas.\". Kalimat ini menggunakan pola \"Masu-stem + そうだ (tampaknya akan) / Bentuk Biasa + そうだ (katanya) / ようだ / らしい\" (Dugaan Berdasarkan Bukti & Rumor: 〜そうだ, 〜ようだ, 〜らしい) yang berfungsi untuk membedakan dugaan visual sekilas (〜そうだ), dugaan berdasarkan fakta/situasi menyeluruh (〜ようだ), serta dugaan objektif atau kabar angin terpercaya (〜らしい)."
       },
       {
         "id": "q-ja-gram-19-pg-4",
@@ -8798,7 +8798,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Begitu tiba di Jepang, saya akan segera mengirimkan pesan ke keluarga."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"空が急に暗くなって冷たい風が吹いてきたので、雨が降りそうです。\" berarti \"Langit tiba-tiba menggelap dan angin dingin mulai berhembus, kelihatannya sebentar lagi mau turun hujan.\"."
+        "explanation": "Kalimat \"空が急に暗くなって冷たい風が吹いてきたので、雨が降りそうです。\" (dibaca: Sora ga kyū ni kuraku natte tsumetai kaze ga fuite kita node, ame ga furisō desu.) berarti \"Langit tiba-tiba menggelap dan angin dingin mulai berhembus, kelihatannya sebentar lagi mau turun hujan.\". Kalimat ini menggunakan pola \"Masu-stem + そうだ (tampaknya akan) / Bentuk Biasa + そうだ (katanya) / ようだ / らしい\" (Dugaan Berdasarkan Bukti & Rumor: 〜そうだ, 〜ようだ, 〜らしい) yang berfungsi untuk membedakan dugaan visual sekilas (〜そうだ), dugaan berdasarkan fakta/situasi menyeluruh (〜ようだ), serta dugaan objektif atau kabar angin terpercaya (〜らしい)."
       },
       {
         "id": "q-ja-gram-19-bb-2",
@@ -8945,7 +8945,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setelah setengah tahun tinggal di Jepang, saya sudah bisa melakukan transit kereta api dengan lancar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"日本に住み始めて半年が経ち、電車の乗り換えがスムーズにできるようになりました。\" berarti \"Setelah setengah tahun tinggal di Jepang, saya sudah bisa melakukan transit kereta api dengan lancar.\"."
+        "explanation": "Kalimat \"日本に住み始めて半年が経ち、電車の乗り換えがスムーズにできるようになりました。\" (dibaca: Nihon ni sumihajimete hantoshi ga tachi, densha no norikae ga sumūzu ni dekiru yō ni narimashita.) berarti \"Setelah setengah tahun tinggal di Jepang, saya sudah bisa melakukan transit kereta api dengan lancar.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + ようになる (terjadi perubahan) / ことにする (keputusan sendiri)\" (Perubahan Kebiasaan & Keputusan Pribadi: 〜ようになる & 〜ことにする) yang berfungsi untuk pola 〜ようになる menandai titik perubahan kemampuan atau kebiasaan baru secara bertahap. Pola 〜ことにする mengekspresikan keputusan bertekad yang diambil atas kehendak sendiri."
       },
       {
         "id": "q-ja-gram-20-pg-2",
@@ -8961,7 +8961,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena saya berlatih kanji setiap hari, sekarang saya sudah bisa membaca koran sedikit."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"健康診断の結果を見て、今日からエレベーターを使わずに階段を使うことにしました。\" berarti \"Melihat hasil pemeriksaan kesehatan, mulai hari ini saya memutuskan untuk tidak menggunakan lift dan memakai tangga.\"."
+        "explanation": "Kalimat \"健康診断の結果を見て、今日からエレベーターを使わずに階段を使うことにしました。\" (dibaca: Kenkōshindan no kekka o mite, kyō kara erebētā o tsukawazu ni kaidan o tsukau koto ni shimashita.) berarti \"Melihat hasil pemeriksaan kesehatan, mulai hari ini saya memutuskan untuk tidak menggunakan lift dan memakai tangga.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + ようになる (terjadi perubahan) / ことにする (keputusan sendiri)\" (Perubahan Kebiasaan & Keputusan Pribadi: 〜ようになる & 〜ことにする) yang berfungsi untuk pola 〜ようになる menandai titik perubahan kemampuan atau kebiasaan baru secara bertahap. Pola 〜ことにする mengekspresikan keputusan bertekad yang diambil atas kehendak sendiri."
       },
       {
         "id": "q-ja-gram-20-pg-3",
@@ -8977,7 +8977,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena cuaca cerah, dari atap gedung pegunungan di kejauhan tampak dengan sangat jelas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"会社の方針により、来学期から全ての会議を英語で行うことになりました。\" berarti \"Sesuai kebijakan perusahaan, mulai semester depan telah diputuskan bahwa semua rapat akan diselenggarakan dalam bahasa Inggris.\"."
+        "explanation": "Kalimat \"会社の方針により、来学期から全ての会議を英語で行うことになりました。\" (dibaca: Kaisha no hōshin ni yori, raigakki kara subete no kaigi o Eigo de okonau koto ni narimashita.) berarti \"Sesuai kebijakan perusahaan, mulai semester depan telah diputuskan bahwa semua rapat akan diselenggarakan dalam bahasa Inggris.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + ようになる (terjadi perubahan) / ことにする (keputusan sendiri)\" (Perubahan Kebiasaan & Keputusan Pribadi: 〜ようになる & 〜ことにする) yang berfungsi untuk pola 〜ようになる menandai titik perubahan kemampuan atau kebiasaan baru secara bertahap. Pola 〜ことにする mengekspresikan keputusan bertekad yang diambil atas kehendak sendiri."
       },
       {
         "id": "q-ja-gram-20-pg-4",
@@ -9276,7 +9276,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Begitu belok kiri di lampu lalu lintas, ada stasiun kereta bawah tanah di sisi kiri."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"日本に住み始めて半年が経ち、電車の乗り換えがスムーズにできるようになりました。\" berarti \"Setelah setengah tahun tinggal di Jepang, saya sudah bisa melakukan transit kereta api dengan lancar.\"."
+        "explanation": "Kalimat \"日本に住み始めて半年が経ち、電車の乗り換えがスムーズにできるようになりました。\" (dibaca: Nihon ni sumihajimete hantoshi ga tachi, densha no norikae ga sumūzu ni dekiru yō ni narimashita.) berarti \"Setelah setengah tahun tinggal di Jepang, saya sudah bisa melakukan transit kereta api dengan lancar.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Nai + ようになる (terjadi perubahan) / ことにする (keputusan sendiri)\" (Perubahan Kebiasaan & Keputusan Pribadi: 〜ようになる & 〜ことにする) yang berfungsi untuk pola 〜ようになる menandai titik perubahan kemampuan atau kebiasaan baru secara bertahap. Pola 〜ことにする mengekspresikan keputusan bertekad yang diambil atas kehendak sendiri."
       },
       {
         "id": "q-ja-gram-20-bb-2",
@@ -9423,7 +9423,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tergantung pada negara dan budayanya, gestur salam dan tata krama berbeda secara signifikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"彼は日本に10年も住んでいるそうだ。だから日本語がペラペラなわけだ。\" berarti \"Kudengar dia sudah tinggal di Jepang selama 10 tahun. Pantas saja bahasa Jepangnya fasih sekali.\"."
+        "explanation": "Kalimat \"彼は日本に10年も住んでいるそうだ。だから日本語がペラペラなわけだ。\" (dibaca: Kare wa Nihon ni jūnen mo sunde iru sō da. Dakara Nihongo ga perapera na wake da.) berarti \"Kudengar dia sudah tinggal di Jepang selama 10 tahun. Pantas saja bahasa Jepangnya fasih sekali.\". Kalimat ini menggunakan pola \"Bentuk Biasa + わけだ (Pantas saja!) / わけがない (Mustahil sekali!)\" (Alasan Logis & Kemustahilan: 〜わけだ (wake da) & 〜わけがない (wake ga nai)) yang berfungsi untuk pola 〜わけだ menyatakan pemahaman mendalam setelah mengetahui alasan ('Pantas saja begini!'). Pola 〜わけがない menyatakan bantahan mutlak ('Mustahil / tidak mungkin sekali')."
       },
       {
         "id": "q-ja-gram-21-pg-2",
@@ -9439,7 +9439,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena pergi keluar rumah dengan AC dibiarkan menyala terus, tagihan listrik menjadi sangat mahal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"あんなに誠実で真面目な山田さんが、嘘をつくわけがありません。\" berarti \"Pak Yamada yang sebegitu jujur dan berdedikasi itu mustahil sekali berbohong.\"."
+        "explanation": "Kalimat \"あんなに誠実で真面目な山田さんが、嘘をつくわけがありません。\" (dibaca: Anna ni seijitsu de majime na Yamada-san ga, uso o tsuku wake ga arimasen.) berarti \"Pak Yamada yang sebegitu jujur dan berdedikasi itu mustahil sekali berbohong.\". Kalimat ini menggunakan pola \"Bentuk Biasa + わけだ (Pantas saja!) / わけがない (Mustahil sekali!)\" (Alasan Logis & Kemustahilan: 〜わけだ (wake da) & 〜わけがない (wake ga nai)) yang berfungsi untuk pola 〜わけだ menyatakan pemahaman mendalam setelah mengetahui alasan ('Pantas saja begini!'). Pola 〜わけがない menyatakan bantahan mutlak ('Mustahil / tidak mungkin sekali')."
       },
       {
         "id": "q-ja-gram-21-pg-3",
@@ -9455,7 +9455,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena berdiri terus tanpa henti selama 2 jam di kereta yang penuh sesak, pinggang saya sangat sakit."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"甘いものが嫌いなわけではありませんが、今はダイエット中なので控えています。\" berarti \"Bukan berarti saya membenci makanan manis, hanya saja sekarang sedang diet jadi saya menahannya.\"."
+        "explanation": "Kalimat \"甘いものが嫌いなわけではありませんが、今はダイエット中なので控えています。\" (dibaca: Amai mono ga kirai na wake dewa arimasen ga, ima wa daietto-chū na node hikaete imasu.) berarti \"Bukan berarti saya membenci makanan manis, hanya saja sekarang sedang diet jadi saya menahannya.\". Kalimat ini menggunakan pola \"Bentuk Biasa + わけだ (Pantas saja!) / わけがない (Mustahil sekali!)\" (Alasan Logis & Kemustahilan: 〜わけだ (wake da) & 〜わけがない (wake ga nai)) yang berfungsi untuk pola 〜わけだ menyatakan pemahaman mendalam setelah mengetahui alasan ('Pantas saja begini!'). Pola 〜わけがない menyatakan bantahan mutlak ('Mustahil / tidak mungkin sekali')."
       },
       {
         "id": "q-ja-gram-21-pg-4",
@@ -9746,7 +9746,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat pemadaman listrik yang disebabkan salju lebat, jadwal shinkansen mengalami kekacauan besar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"彼は日本に10年も住んでいるそうだ。だから日本語がペラペラなわけだ。\" berarti \"Kudengar dia sudah tinggal di Jepang selama 10 tahun. Pantas saja bahasa Jepangnya fasih sekali.\"."
+        "explanation": "Kalimat \"彼は日本に10年も住んでいるそうだ。だから日本語がペラペラなわけだ。\" (dibaca: Kare wa Nihon ni jūnen mo sunde iru sō da. Dakara Nihongo ga perapera na wake da.) berarti \"Kudengar dia sudah tinggal di Jepang selama 10 tahun. Pantas saja bahasa Jepangnya fasih sekali.\". Kalimat ini menggunakan pola \"Bentuk Biasa + わけだ (Pantas saja!) / わけがない (Mustahil sekali!)\" (Alasan Logis & Kemustahilan: 〜わけだ (wake da) & 〜わけがない (wake ga nai)) yang berfungsi untuk pola 〜わけだ menyatakan pemahaman mendalam setelah mengetahui alasan ('Pantas saja begini!'). Pola 〜わけがない menyatakan bantahan mutlak ('Mustahil / tidak mungkin sekali')."
       },
       {
         "id": "q-ja-gram-21-bb-2",
@@ -9892,7 +9892,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saat memasuki rumah orang Jepang, dilarang naik ke dalam ruangan dengan sepatu tetap terpakai."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"何か問題が発生したときは、すぐに上司に報告して指示を仰ぐべきです。\" berarti \"Ketika terjadi suatu masalah, semestinya segera melapor kepada atasan dan memohon petunjuk.\"."
+        "explanation": "Kalimat \"何か問題が発生したときは、すぐに上司に報告して指示を仰ぐべきです。\" (dibaca: Nanika mondai ga hassei shita toki wa, sugu ni jōshi ni hōkoku shite shiji o aogu beki desu.) berarti \"Ketika terjadi suatu masalah, semestinya segera melapor kepada atasan dan memohon petunjuk.\". Kalimat ini menggunakan pola \"Kata Kerja Bentuk Kamus + べきだ / べきではない (khusus する -> すべきだ / するべきだ)\" (Kewajiban Moral & Kelayakan: 〜べきだ (beki da) & 〜べきではない) yang berfungsi untuk menyatakan sesuatu yang selayaknya, sewajarnya, atau secara moral mutlak harus dilakukan atau tidak boleh dilakukan menurut norma umum."
       },
       {
         "id": "q-ja-gram-22-pg-2",
@@ -9908,7 +9908,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kontras dengan populasi pemuda yang meningkat di kawasan perkotaan, di desa pedalaman penipisan penduduk justru semakin parah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"若いうちに様々な異文化に触れて、視野を広げる経験を積むべきだ。\" berarti \"Selagi masih muda, semestinya kita bersentuhan dengan berbagai budaya asing dan menumpuk pengalaman memperluas wawasan.\"."
+        "explanation": "Kalimat \"若いうちに様々な異文化に触れて、視野を広げる経験を積むべきだ。\" (dibaca: Wakai uchi ni samazama na ibunka ni furete, shiya o hirogeru keiken o tsumu beki da.) berarti \"Selagi masih muda, semestinya kita bersentuhan dengan berbagai budaya asing dan menumpuk pengalaman memperluas wawasan.\". Kalimat ini menggunakan pola \"Kata Kerja Bentuk Kamus + べきだ / べきではない (khusus する -> すべきだ / するべきだ)\" (Kewajiban Moral & Kelayakan: 〜べきだ (beki da) & 〜べきではない) yang berfungsi untuk menyatakan sesuatu yang selayaknya, sewajarnya, atau secara moral mutlak harus dilakukan atau tidak boleh dilakukan menurut norma umum."
       },
       {
         "id": "q-ja-gram-22-pg-3",
@@ -9924,7 +9924,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kabar burung yang tak berdasar semestinya tidak disebarluaskan begitu saja di media sosial."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"根拠のない噂話をSNSで安易に拡散させるべきではありません。\" berarti \"Kabar burung yang tak berdasar semestinya tidak disebarluaskan begitu saja di media sosial.\"."
+        "explanation": "Kalimat \"根拠のない噂話をSNSで安易に拡散させるべきではありません。\" (dibaca: Konkyo no nai uwasabanashi o esu-enu-esu de an'i ni kakusan saseru beki dewa arimasen.) berarti \"Kabar burung yang tak berdasar semestinya tidak disebarluaskan begitu saja di media sosial.\". Kalimat ini menggunakan pola \"Kata Kerja Bentuk Kamus + べきだ / べきではない (khusus する -> すべきだ / するべきだ)\" (Kewajiban Moral & Kelayakan: 〜べきだ (beki da) & 〜べきではない) yang berfungsi untuk menyatakan sesuatu yang selayaknya, sewajarnya, atau secara moral mutlak harus dilakukan atau tidak boleh dilakukan menurut norma umum."
       },
       {
         "id": "q-ja-gram-22-pg-4",
@@ -10229,7 +10229,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Ketika terjadi suatu masalah, semestinya segera melapor kepada atasan dan memohon petunjuk."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"何か問題が発生したときは、すぐに上司に報告して指示を仰ぐべきです。\" berarti \"Ketika terjadi suatu masalah, semestinya segera melapor kepada atasan dan memohon petunjuk.\"."
+        "explanation": "Kalimat \"何か問題が発生したときは、すぐに上司に報告して指示を仰ぐべきです。\" (dibaca: Nanika mondai ga hassei shita toki wa, sugu ni jōshi ni hōkoku shite shiji o aogu beki desu.) berarti \"Ketika terjadi suatu masalah, semestinya segera melapor kepada atasan dan memohon petunjuk.\". Kalimat ini menggunakan pola \"Kata Kerja Bentuk Kamus + べきだ / べきではない (khusus する -> すべきだ / するべきだ)\" (Kewajiban Moral & Kelayakan: 〜べきだ (beki da) & 〜べきではない) yang berfungsi untuk menyatakan sesuatu yang selayaknya, sewajarnya, atau secara moral mutlak harus dilakukan atau tidak boleh dilakukan menurut norma umum."
       },
       {
         "id": "q-ja-gram-22-bb-2",
@@ -10376,7 +10376,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di satu sisi smartphone telah membuat hidup kita praktis, namun di sisi lain telah mengurangi komunikasi tatap muka langsung."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"卒業論文では、日本の少子高齢化が地域経済に与える影響について研究しました。\" berarti \"Dalam skripsi kelulusan, saya meneliti tentang dampak penurunan angka kelahiran dan penuaan populasi Jepang terhadap ekonomi regional.\"."
+        "explanation": "Kalimat \"卒業論文では、日本の少子高齢化が地域経済に与える影響について研究しました。\" (dibaca: Sotsugyō ronbun dewa, Nihon no shōshikōreika ga chiiki keizai ni ataeru eikyō ni tsuite kenkyū shimashita.) berarti \"Dalam skripsi kelulusan, saya meneliti tentang dampak penurunan angka kelahiran dan penuaan populasi Jepang terhadap ekonomi regional.\". Kalimat ini menggunakan pola \"Kata Benda + について (tentang/mengenai) / に関して (terkait dengan - register lebih formal)\" (Topik Pembahasan: 〜について (ni tsuite) & 〜に関して (ni kanshite)) yang berfungsi untuk menunjukkan topik, tema riset, atau materi bahasan ('mengenai / tentang / sehubungan dengan'). 〜に関して memiliki register formal yang lebih tinggi dan bernuansa formal akademis."
       },
       {
         "id": "q-ja-gram-23-pg-2",
@@ -10392,7 +10392,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Terkait rincian sistem beasiswa yang baru, silakan periksa papan pengumuman universitas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"新しい奨学金制度の詳細に関しましては、大学の掲示板をご確認ください。\" berarti \"Terkait rincian sistem beasiswa yang baru, silakan periksa papan pengumuman universitas.\"."
+        "explanation": "Kalimat \"新しい奨学金制度の詳細に関しましては、大学の掲示板をご確認ください。\" (dibaca: Atarashii shōgakukin seido no shōsai ni kanshimashite wa, daigaku no keijiban o gokakunin kudasai.) berarti \"Terkait rincian sistem beasiswa yang baru, silakan periksa papan pengumuman universitas.\". Kalimat ini menggunakan pola \"Kata Benda + について (tentang/mengenai) / に関して (terkait dengan - register lebih formal)\" (Topik Pembahasan: 〜について (ni tsuite) & 〜に関して (ni kanshite)) yang berfungsi untuk menunjukkan topik, tema riset, atau materi bahasan ('mengenai / tentang / sehubungan dengan'). 〜に関して memiliki register formal yang lebih tinggi dan bernuansa formal akademis."
       },
       {
         "id": "q-ja-gram-23-pg-3",
@@ -10408,7 +10408,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Hal itu hanyalah sekadar opini sebagian kecil pihak yang bias, jadi tidak perlu terlalu diambil hati."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"人工知能の発展に関する議論が世界各地で活発に行われています。\" berarti \"Perdebatan terkait perkembangan kecerdasan buatan sedang berlangsung hangat di berbagai belahan dunia.\"."
+        "explanation": "Kalimat \"人工知能の発展に関する議論が世界各地で活発に行われています。\" (dibaca: Jinkō chinō no hatten ni kansuru giron ga sekai kakuchi de kappatsu ni okonawarete imasu.) berarti \"Perdebatan terkait perkembangan kecerdasan buatan sedang berlangsung hangat di berbagai belahan dunia.\". Kalimat ini menggunakan pola \"Kata Benda + について (tentang/mengenai) / に関して (terkait dengan - register lebih formal)\" (Topik Pembahasan: 〜について (ni tsuite) & 〜に関して (ni kanshite)) yang berfungsi untuk menunjukkan topik, tema riset, atau materi bahasan ('mengenai / tentang / sehubungan dengan'). 〜に関して memiliki register formal yang lebih tinggi dan bernuansa formal akademis."
       },
       {
         "id": "q-ja-gram-23-pg-4",
@@ -10705,7 +10705,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kontras dengan populasi pemuda yang meningkat di kawasan perkotaan, di desa pedalaman penipisan penduduk justru semakin parah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"卒業論文では、日本の少子高齢化が地域経済に与える影響について研究しました。\" berarti \"Dalam skripsi kelulusan, saya meneliti tentang dampak penurunan angka kelahiran dan penuaan populasi Jepang terhadap ekonomi regional.\"."
+        "explanation": "Kalimat \"卒業論文では、日本の少子高齢化が地域経済に与える影響について研究しました。\" (dibaca: Sotsugyō ronbun dewa, Nihon no shōshikōreika ga chiiki keizai ni ataeru eikyō ni tsuite kenkyū shimashita.) berarti \"Dalam skripsi kelulusan, saya meneliti tentang dampak penurunan angka kelahiran dan penuaan populasi Jepang terhadap ekonomi regional.\". Kalimat ini menggunakan pola \"Kata Benda + について (tentang/mengenai) / に関して (terkait dengan - register lebih formal)\" (Topik Pembahasan: 〜について (ni tsuite) & 〜に関して (ni kanshite)) yang berfungsi untuk menunjukkan topik, tema riset, atau materi bahasan ('mengenai / tentang / sehubungan dengan'). 〜に関して memiliki register formal yang lebih tinggi dan bernuansa formal akademis."
       },
       {
         "id": "q-ja-gram-23-bb-2",
@@ -10853,7 +10853,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat pemadaman listrik yang disebabkan salju lebat, jadwal shinkansen mengalami kekacauan besar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"大雪による停電のため、新幹線のダイヤが大幅に乱れました。\" berarti \"Akibat pemadaman listrik yang disebabkan salju lebat, jadwal shinkansen mengalami kekacauan besar.\"."
+        "explanation": "Kalimat \"大雪による停電のため、新幹線のダイヤが大幅に乱れました。\" (dibaca: Ōyuki ni yoru teiden no tame, shinkansen no daiya ga ōhaba ni midaremashita.) berarti \"Akibat pemadaman listrik yang disebabkan salju lebat, jadwal shinkansen mengalami kekacauan besar.\". Kalimat ini menggunakan pola \"Kata Benda + によって (oleh sebab / melalui sarana / tergantung pada) / による + Kata Benda\" (Sebab, Sarana, dan Keberagaman: 〜によって (ni yotte) / 〜による) yang berfungsi untuk pola serbaguna tingkat tinggi dengan 4 makna utama: (1) Sebab musabab, (2) Sarana/metode, (3) Variasi/kondisi relatif ('tergantung pada'), dan (4) Pelaku dalam kalimat pasif bersejarah."
       },
       {
         "id": "q-ja-gram-24-pg-2",
@@ -10869,7 +10869,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat depresiasi nilai yen harga kebutuhan pokok melonjak, beban pengeluaran rumah tangga terus meningkat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"国や文化によって、挨拶のジェスチャーやマナーが大きく異なります。\" berarti \"Tergantung pada negara dan budayanya, gestur salam dan tata krama berbeda secara signifikan.\"."
+        "explanation": "Kalimat \"国や文化によって、挨拶のジェスチャーやマナーが大きく異なります。\" (dibaca: Kuni ya bunka ni yotte, aisatsu no jesuchā ya manā ga ōkiku kotonarimasu.) berarti \"Tergantung pada negara dan budayanya, gestur salam dan tata krama berbeda secara signifikan.\". Kalimat ini menggunakan pola \"Kata Benda + によって (oleh sebab / melalui sarana / tergantung pada) / による + Kata Benda\" (Sebab, Sarana, dan Keberagaman: 〜によって (ni yotte) / 〜による) yang berfungsi untuk pola serbaguna tingkat tinggi dengan 4 makna utama: (1) Sebab musabab, (2) Sarana/metode, (3) Variasi/kondisi relatif ('tergantung pada'), dan (4) Pelaku dalam kalimat pasif bersejarah."
       },
       {
         "id": "q-ja-gram-24-pg-3",
@@ -10885,7 +10885,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Berkat kemajuan teknologi medis yang luar biasa, metode terapi penyakit langka sedang dalam proses terpecahkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"この有名な寺院は、14世紀に高名な僧侶によって建立されました。\" berarti \"Kuil megah yang terkenal ini didirikan pada abad ke-14 oleh seorang biksu tersohor.\"."
+        "explanation": "Kalimat \"この有名な寺院は、14世紀に高名な僧侶によって建立されました。\" (dibaca: Kono yūmei na jiin wa, jūyon-seiki ni kōmei na sōryo ni yotte konryū saremashita.) berarti \"Kuil megah yang terkenal ini didirikan pada abad ke-14 oleh seorang biksu tersohor.\". Kalimat ini menggunakan pola \"Kata Benda + によって (oleh sebab / melalui sarana / tergantung pada) / による + Kata Benda\" (Sebab, Sarana, dan Keberagaman: 〜によって (ni yotte) / 〜による) yang berfungsi untuk pola serbaguna tingkat tinggi dengan 4 makna utama: (1) Sebab musabab, (2) Sarana/metode, (3) Variasi/kondisi relatif ('tergantung pada'), dan (4) Pelaku dalam kalimat pasif bersejarah."
       },
       {
         "id": "q-ja-gram-24-pg-4",
@@ -11178,7 +11178,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Teknologi sains hanyalah sekadar alat untuk mewujudkan kebahagiaan manusia, bukan tujuan akhir itu sendiri."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"大雪による停電のため、新幹線のダイヤが大幅に乱れました。\" berarti \"Akibat pemadaman listrik yang disebabkan salju lebat, jadwal shinkansen mengalami kekacauan besar.\"."
+        "explanation": "Kalimat \"大雪による停電のため、新幹線のダイヤが大幅に乱れました。\" (dibaca: Ōyuki ni yoru teiden no tame, shinkansen no daiya ga ōhaba ni midaremashita.) berarti \"Akibat pemadaman listrik yang disebabkan salju lebat, jadwal shinkansen mengalami kekacauan besar.\". Kalimat ini menggunakan pola \"Kata Benda + によって (oleh sebab / melalui sarana / tergantung pada) / による + Kata Benda\" (Sebab, Sarana, dan Keberagaman: 〜によって (ni yotte) / 〜による) yang berfungsi untuk pola serbaguna tingkat tinggi dengan 4 makna utama: (1) Sebab musabab, (2) Sarana/metode, (3) Variasi/kondisi relatif ('tergantung pada'), dan (4) Pelaku dalam kalimat pasif bersejarah."
       },
       {
         "id": "q-ja-gram-24-bb-2",
@@ -11325,7 +11325,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat pengaruh pemanasan global, lapisan es di lingkar kutub utara sedang mencair dengan pesat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"エアコンをつけっぱなしにして外出したため、電気代が高くなってしまいました。\" berarti \"Karena pergi keluar rumah dengan AC dibiarkan menyala terus, tagihan listrik menjadi sangat mahal.\"."
+        "explanation": "Kalimat \"エアコンをつけっぱなしにして外出したため、電気代が高くなってしまいました。\" (dibaca: Eakon o tsukeppanashi ni shite gaishutsu shita tame, denkidai ga takaku natte shimaimashita.) berarti \"Karena pergi keluar rumah dengan AC dibiarkan menyala terus, tagihan listrik menjadi sangat mahal.\". Kalimat ini menggunakan pola \"Masu-stem + っぱなし (dibiarkan menyala/terbuka dengan nada kritik) / Bentuk Ta + まま (kondisi tetap)\" (Kondisi Berlanjut / Dibiarkan: 〜っぱなし (ppanashi) & 〜たまま (ta mama)) yang berfungsi untuk membicarakan kondisi yang dibiarkan terus berlangsung tanpa dikembalikan ke keadaan semula. Pola 〜っぱなし sering kali bernuansa kelalaian yang mengesalkan, sedangkan 〜たまま lebih netral."
       },
       {
         "id": "q-ja-gram-25-pg-2",
@@ -11341,7 +11341,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Pertama kali hidup mandiri sendirian, begitu malam tiba rasa rindu kepada keluarga dan sahabat di kampung halaman terasa tak tertahankan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"日本の家に入るときは、靴を履いたまま上がってはいけません。\" berarti \"Saat memasuki rumah orang Jepang, dilarang naik ke dalam ruangan dengan sepatu tetap terpakai.\"."
+        "explanation": "Kalimat \"日本の家に入るときは、靴を履いたまま上がってはいけません。\" (dibaca: Nihon no ie ni hairu toki wa, kutsu o haita mama agatte wa ikemasen.) berarti \"Saat memasuki rumah orang Jepang, dilarang naik ke dalam ruangan dengan sepatu tetap terpakai.\". Kalimat ini menggunakan pola \"Masu-stem + っぱなし (dibiarkan menyala/terbuka dengan nada kritik) / Bentuk Ta + まま (kondisi tetap)\" (Kondisi Berlanjut / Dibiarkan: 〜っぱなし (ppanashi) & 〜たまま (ta mama)) yang berfungsi untuk membicarakan kondisi yang dibiarkan terus berlangsung tanpa dikembalikan ke keadaan semula. Pola 〜っぱなし sering kali bernuansa kelalaian yang mengesalkan, sedangkan 〜たまま lebih netral."
       },
       {
         "id": "q-ja-gram-25-pg-3",
@@ -11357,7 +11357,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena bermain sepak bola berjam-jam di bawah terik matahari musim panas, saya rasanya ingin sekali minum air dingin sampai tak tertahankan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"満員電車で2時間立ちっぱなしだったので、腰がとても痛いです。\" berarti \"Karena berdiri terus tanpa henti selama 2 jam di kereta yang penuh sesak, pinggang saya sangat sakit.\"."
+        "explanation": "Kalimat \"満員電車で2時間立ちっぱなしだったので、腰がとても痛いです。\" (dibaca: Man'in densha de nijikan tachippanashi datta node, koshi ga totemo itai desu.) berarti \"Karena berdiri terus tanpa henti selama 2 jam di kereta yang penuh sesak, pinggang saya sangat sakit.\". Kalimat ini menggunakan pola \"Masu-stem + っぱなし (dibiarkan menyala/terbuka dengan nada kritik) / Bentuk Ta + まま (kondisi tetap)\" (Kondisi Berlanjut / Dibiarkan: 〜っぱなし (ppanashi) & 〜たまま (ta mama)) yang berfungsi untuk membicarakan kondisi yang dibiarkan terus berlangsung tanpa dikembalikan ke keadaan semula. Pola 〜っぱなし sering kali bernuansa kelalaian yang mengesalkan, sedangkan 〜たまま lebih netral."
       },
       {
         "id": "q-ja-gram-25-pg-4",
@@ -11656,7 +11656,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat depresiasi nilai yen harga kebutuhan pokok melonjak, beban pengeluaran rumah tangga terus meningkat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"エアコンをつけっぱなしにして外出したため、電気代が高くなってしまいました。\" berarti \"Karena pergi keluar rumah dengan AC dibiarkan menyala terus, tagihan listrik menjadi sangat mahal.\"."
+        "explanation": "Kalimat \"エアコンをつけっぱなしにして外出したため、電気代が高くなってしまいました。\" (dibaca: Eakon o tsukeppanashi ni shite gaishutsu shita tame, denkidai ga takaku natte shimaimashita.) berarti \"Karena pergi keluar rumah dengan AC dibiarkan menyala terus, tagihan listrik menjadi sangat mahal.\". Kalimat ini menggunakan pola \"Masu-stem + っぱなし (dibiarkan menyala/terbuka dengan nada kritik) / Bentuk Ta + まま (kondisi tetap)\" (Kondisi Berlanjut / Dibiarkan: 〜っぱなし (ppanashi) & 〜たまま (ta mama)) yang berfungsi untuk membicarakan kondisi yang dibiarkan terus berlangsung tanpa dikembalikan ke keadaan semula. Pola 〜っぱなし sering kali bernuansa kelalaian yang mengesalkan, sedangkan 〜たまま lebih netral."
       },
       {
         "id": "q-ja-gram-25-bb-2",
@@ -11803,7 +11803,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Hasil kelulusan dari instansi pilihan pertama yang saya wawancarai kemarin membuat saya amat sangat cemas dan penasaran."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"都市部で若者の人口が増加しているのに対して、地方の農村部では過疎化が深刻化しています。\" berarti \"Kontras dengan populasi pemuda yang meningkat di kawasan perkotaan, di desa pedalaman penipisan penduduk justru semakin parah.\"."
+        "explanation": "Kalimat \"都市部で若者の人口が増加しているのに対して、地方の農村部では過疎化が深刻化しています。\" (dibaca: Toshibu de wakamono no jinkō ga zōka shite iru no ni taishite, chihō no nōsonbu dewa kasoka ga shinkokuka shite imasu.) berarti \"Kontras dengan populasi pemuda yang meningkat di kawasan perkotaan, di desa pedalaman penipisan penduduk justru semakin parah.\". Kalimat ini menggunakan pola \"A に対して B は... (membandingkan dua pihak kontras) / Bentuk Biasa + 反面 (satu subjek dua sifat bertolak belakang)\" (Kontras dan Dua Sisi: 〜に対して (ni taishite) & 〜反面 (hanmen)) yang berfungsi untuk pola 〜に対して mempertentangkan dua subjek yang berbeda sifatnya secara tajam. Pola 〜反面 menyoroti satu subjek yang memiliki dua sisi mata uang yang saling bertolak belakang (kelebihan vs kekurangan)."
       },
       {
         "id": "q-ja-gram-26-pg-2",
@@ -11819,7 +11819,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dalam masyarakat modern, di satu sisi internet adalah alat yang tak tergantikan, namun di sisi lain kita semestinya selalu memperhatikan risiko kebocoran data."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"スマートフォンは生活を便利にしてくれた反面、対面でのコミュニケーションを減少させました。\" berarti \"Di satu sisi smartphone telah membuat hidup kita praktis, namun di sisi lain telah mengurangi komunikasi tatap muka langsung.\"."
+        "explanation": "Kalimat \"スマートフォンは生活を便利にしてくれた反面、対面でのコミュニケーションを減少させました。\" (dibaca: Sumātofon wa seikatsu o benri ni shite kureta hanmen, taimen de no komyunikēshon o genshō sasemashita.) berarti \"Di satu sisi smartphone telah membuat hidup kita praktis, namun di sisi lain telah mengurangi komunikasi tatap muka langsung.\". Kalimat ini menggunakan pola \"A に対して B は... (membandingkan dua pihak kontras) / Bentuk Biasa + 反面 (satu subjek dua sifat bertolak belakang)\" (Kontras dan Dua Sisi: 〜に対して (ni taishite) & 〜反面 (hanmen)) yang berfungsi untuk pola 〜に対して mempertentangkan dua subjek yang berbeda sifatnya secara tajam. Pola 〜反面 menyoroti satu subjek yang memiliki dua sisi mata uang yang saling bertolak belakang (kelebihan vs kekurangan)."
       },
       {
         "id": "q-ja-gram-26-pg-3",
@@ -11835,7 +11835,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Terhadap pelanggan, kita selalu dituntut untuk melayani dengan senyuman yang penuh rasa hormat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"お客樣に対して、常に敬意を込めた笑顔で接客することが求められます。\" berarti \"Terhadap pelanggan, kita selalu dituntut untuk melayani dengan senyuman yang penuh rasa hormat.\"."
+        "explanation": "Kalimat \"お客樣に対して、常に敬意を込めた笑顔で接客することが求められます。\" (dibaca: Okyakusama ni taishite, tsuneni keii o kometa egao de sekkyaku suru koto ga motomeraremasu.) berarti \"Terhadap pelanggan, kita selalu dituntut untuk melayani dengan senyuman yang penuh rasa hormat.\". Kalimat ini menggunakan pola \"A に対して B は... (membandingkan dua pihak kontras) / Bentuk Biasa + 反面 (satu subjek dua sifat bertolak belakang)\" (Kontras dan Dua Sisi: 〜に対して (ni taishite) & 〜反面 (hanmen)) yang berfungsi untuk pola 〜に対して mempertentangkan dua subjek yang berbeda sifatnya secara tajam. Pola 〜反面 menyoroti satu subjek yang memiliki dua sisi mata uang yang saling bertolak belakang (kelebihan vs kekurangan)."
       },
       {
         "id": "q-ja-gram-26-pg-4",
@@ -12136,7 +12136,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kontras dengan populasi pemuda yang meningkat di kawasan perkotaan, di desa pedalaman penipisan penduduk justru semakin parah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"都市部で若者の人口が増加しているのに対して、地方の農村部では過疎化が深刻化しています。\" berarti \"Kontras dengan populasi pemuda yang meningkat di kawasan perkotaan, di desa pedalaman penipisan penduduk justru semakin parah.\"."
+        "explanation": "Kalimat \"都市部で若者の人口が増加しているのに対して、地方の農村部では過疎化が深刻化しています。\" (dibaca: Toshibu de wakamono no jinkō ga zōka shite iru no ni taishite, chihō no nōsonbu dewa kasoka ga shinkokuka shite imasu.) berarti \"Kontras dengan populasi pemuda yang meningkat di kawasan perkotaan, di desa pedalaman penipisan penduduk justru semakin parah.\". Kalimat ini menggunakan pola \"A に対して B は... (membandingkan dua pihak kontras) / Bentuk Biasa + 反面 (satu subjek dua sifat bertolak belakang)\" (Kontras dan Dua Sisi: 〜に対して (ni taishite) & 〜反面 (hanmen)) yang berfungsi untuk pola 〜に対して mempertentangkan dua subjek yang berbeda sifatnya secara tajam. Pola 〜反面 menyoroti satu subjek yang memiliki dua sisi mata uang yang saling bertolak belakang (kelebihan vs kekurangan)."
       },
       {
         "id": "q-ja-gram-26-bb-2",
@@ -12283,7 +12283,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menurut hasil survei, di saat keengganan membaca pada pemuda terus meluas, di sisi lain tingkat pemanfaatan buku elektronik tampaknya sedang dalam tren meningkat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"科学技術は人間の幸福を実現するための道具にすぎず、目的そのものではありません。\" berarti \"Teknologi sains hanyalah sekadar alat untuk mewujudkan kebahagiaan manusia, bukan tujuan akhir itu sendiri.\"."
+        "explanation": "Kalimat \"科学技術は人間の幸福を実現するための道具にすぎず、目的そのものではありません。\" (dibaca: Kagakugijutsu wa ningen no kōfuku o jitsugen suru tame no dōgu ni sugizu, mokuteki sonomono dewa arimasen.) berarti \"Teknologi sains hanyalah sekadar alat untuk mewujudkan kebahagiaan manusia, bukan tujuan akhir itu sendiri.\". Kalimat ini menggunakan pola \"Kata Benda / Bentuk Biasa + にすぎない (hanya sekadar / tak lebih dari)\" (Pembatasan & Kerendahan: 〜にすぎない (ni suginai) & 〜だけにすぎない) yang berfungsi untuk pola 〜にすぎない berasal dari kata kerja 過ぎる (melebihi). Menyatakan bahwa derajat suatu hal hanyalah sekadar itu saja, tidak lebih tinggi atau tidak ada yang istimewa ('hanyalah sekadar...')."
       },
       {
         "id": "q-ja-gram-27-pg-2",
@@ -12299,7 +12299,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Keberhasilan meraih nilai bagus dalam ujian kali ini hanyalah sekadar keberuntungan semata, kemampuan saya masih belum cukup."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"今回テストで良い点が取れたのは運が良かったにすぎず、まだまだ実力が足りません。\" berarti \"Keberhasilan meraih nilai bagus dalam ujian kali ini hanyalah sekadar keberuntungan semata, kemampuan saya masih belum cukup.\"."
+        "explanation": "Kalimat \"今回テストで良い点が取れたのは運が良かったにすぎず、まだまだ実力が足りません。\" (dibaca: Konkai tesuto de yoi ten ga toreta no wa un ga yokatta ni sugizu, madamada jitsuryoku ga tarimasen.) berarti \"Keberhasilan meraih nilai bagus dalam ujian kali ini hanyalah sekadar keberuntungan semata, kemampuan saya masih belum cukup.\". Kalimat ini menggunakan pola \"Kata Benda / Bentuk Biasa + にすぎない (hanya sekadar / tak lebih dari)\" (Pembatasan & Kerendahan: 〜にすぎない (ni suginai) & 〜だけにすぎない) yang berfungsi untuk pola 〜にすぎない berasal dari kata kerja 過ぎる (melebihi). Menyatakan bahwa derajat suatu hal hanyalah sekadar itu saja, tidak lebih tinggi atau tidak ada yang istimewa ('hanyalah sekadar...')."
       },
       {
         "id": "q-ja-gram-27-pg-3",
@@ -12315,7 +12315,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Bukan berarti saya membenci makanan manis, hanya saja sekarang sedang diet jadi saya menahannya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"それは一部の偏った意見にすぎないので、あまり深く気にする必要はありません。\" berarti \"Hal itu hanyalah sekadar opini sebagian kecil pihak yang bias, jadi tidak perlu terlalu diambil hati.\"."
+        "explanation": "Kalimat \"それは一部の偏った意見にすぎないので、あまり深く気にする必要はありません。\" (dibaca: Sore wa ichibu no kayotta iken ni suginai node, amari fukaku ki ni suru hitsuyō wa arimasen.) berarti \"Hal itu hanyalah sekadar opini sebagian kecil pihak yang bias, jadi tidak perlu terlalu diambil hati.\". Kalimat ini menggunakan pola \"Kata Benda / Bentuk Biasa + にすぎない (hanya sekadar / tak lebih dari)\" (Pembatasan & Kerendahan: 〜にすぎない (ni suginai) & 〜だけにすぎない) yang berfungsi untuk pola 〜にすぎない berasal dari kata kerja 過ぎる (melebihi). Menyatakan bahwa derajat suatu hal hanyalah sekadar itu saja, tidak lebih tinggi atau tidak ada yang istimewa ('hanyalah sekadar...')."
       },
       {
         "id": "q-ja-gram-27-pg-4",
@@ -12608,7 +12608,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dalam masyarakat modern, di satu sisi internet adalah alat yang tak tergantikan, namun di sisi lain kita semestinya selalu memperhatikan risiko kebocoran data."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"科学技術は人間の幸福を実現するための道具にすぎず、目的そのものではありません。\" berarti \"Teknologi sains hanyalah sekadar alat untuk mewujudkan kebahagiaan manusia, bukan tujuan akhir itu sendiri.\"."
+        "explanation": "Kalimat \"科学技術は人間の幸福を実現するための道具にすぎず、目的そのものではありません。\" (dibaca: Kagakugijutsu wa ningen no kōfuku o jitsugen suru tame no dōgu ni sugizu, mokuteki sonomono dewa arimasen.) berarti \"Teknologi sains hanyalah sekadar alat untuk mewujudkan kebahagiaan manusia, bukan tujuan akhir itu sendiri.\". Kalimat ini menggunakan pola \"Kata Benda / Bentuk Biasa + にすぎない (hanya sekadar / tak lebih dari)\" (Pembatasan & Kerendahan: 〜にすぎない (ni suginai) & 〜だけにすぎない) yang berfungsi untuk pola 〜にすぎない berasal dari kata kerja 過ぎる (melebihi). Menyatakan bahwa derajat suatu hal hanyalah sekadar itu saja, tidak lebih tinggi atau tidak ada yang istimewa ('hanyalah sekadar...')."
       },
       {
         "id": "q-ja-gram-27-bb-2",
@@ -12755,7 +12755,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat depresiasi nilai yen harga kebutuhan pokok melonjak, beban pengeluaran rumah tangga terus meningkat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"円安の影響で生活必需品の価格が高騰し、家計の負担は増える一方です。\" berarti \"Akibat depresiasi nilai yen harga kebutuhan pokok melonjak, beban pengeluaran rumah tangga terus meningkat.\"."
+        "explanation": "Kalimat \"円安の影響で生活必需品の価格が高騰し、家計の負担は増える一方です。\" (dibaca: En'yasu no eikyō de seikatsuhitsujuhin no kakaku ga kōtō shi, kakei no futan wa fueru ippō desu.) berarti \"Akibat depresiasi nilai yen harga kebutuhan pokok melonjak, beban pengeluaran rumah tangga terus meningkat.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus (verba perubahan) + 一方だ / Masu-stem + つつある\" (Perubahan Tren & Gerak Menuju: 〜一方だ (ippou da) & 〜つつある (tsutsu aru)) yang berfungsi untuk membicarakan arah perubahan fenomena sosial atau fisik. 〜一方だ fokus pada tren yang terus melaju satu arah (seringkali memburuk), sedangkan 〜つつある adalah bentuk bahasa tulis elegan untuk 'sedang berangsur-angsur dalam proses'."
       },
       {
         "id": "q-ja-gram-28-pg-2",
@@ -12771,7 +12771,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Ketika terjadi suatu masalah, semestinya segera melapor kepada atasan dan memohon petunjuk."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"地球温暖化の影響により、北極圏の氷床は急速に融解しつつあります。\" berarti \"Akibat pengaruh pemanasan global, lapisan es di lingkar kutub utara sedang mencair dengan pesat.\"."
+        "explanation": "Kalimat \"地球温暖化の影響により、北極圏の氷床は急速に融解しつつあります。\" (dibaca: Chikyūondanka no eikyō ni yori, hokkyokuken no hyōshō wa kyūsoku ni yūkai shitsutsu arimasu.) berarti \"Akibat pengaruh pemanasan global, lapisan es di lingkar kutub utara sedang mencair dengan pesat.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus (verba perubahan) + 一方だ / Masu-stem + つつある\" (Perubahan Tren & Gerak Menuju: 〜一方だ (ippou da) & 〜つつある (tsutsu aru)) yang berfungsi untuk membicarakan arah perubahan fenomena sosial atau fisik. 〜一方だ fokus pada tren yang terus melaju satu arah (seringkali memburuk), sedangkan 〜つつある adalah bentuk bahasa tulis elegan untuk 'sedang berangsur-angsur dalam proses'."
       },
       {
         "id": "q-ja-gram-28-pg-3",
@@ -12787,7 +12787,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kabar burung yang tak berdasar semestinya tidak disebarluaskan begitu saja di media sosial."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"医療技術の目覚ましい進展により、難病の治療法が解明されつつあります。\" berarti \"Berkat kemajuan teknologi medis yang luar biasa, metode terapi penyakit langka sedang dalam proses terpecahkan.\"."
+        "explanation": "Kalimat \"医療技術の目覚ましい進展により、難病の治療法が解明されつつあります。\" (dibaca: Iryōgijutsu no mezamashii shinten ni yori, nanbyō no chiryōhō ga kaimei saretsutsu arimasu.) berarti \"Berkat kemajuan teknologi medis yang luar biasa, metode terapi penyakit langka sedang dalam proses terpecahkan.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus (verba perubahan) + 一方だ / Masu-stem + つつある\" (Perubahan Tren & Gerak Menuju: 〜一方だ (ippou da) & 〜つつある (tsutsu aru)) yang berfungsi untuk membicarakan arah perubahan fenomena sosial atau fisik. 〜一方だ fokus pada tren yang terus melaju satu arah (seringkali memburuk), sedangkan 〜つつある adalah bentuk bahasa tulis elegan untuk 'sedang berangsur-angsur dalam proses'."
       },
       {
         "id": "q-ja-gram-28-pg-4",
@@ -13078,7 +13078,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kudengar dia sudah tinggal di Jepang selama 10 tahun. Pantas saja bahasa Jepangnya fasih sekali."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"円安の影響で生活必需品の価格が高騰し、家計の負担は増える一方です。\" berarti \"Akibat depresiasi nilai yen harga kebutuhan pokok melonjak, beban pengeluaran rumah tangga terus meningkat.\"."
+        "explanation": "Kalimat \"円安の影響で生活必需品の価格が高騰し、家計の負担は増える一方です。\" (dibaca: En'yasu no eikyō de seikatsuhitsujuhin no kakaku ga kōtō shi, kakei no futan wa fueru ippō desu.) berarti \"Akibat depresiasi nilai yen harga kebutuhan pokok melonjak, beban pengeluaran rumah tangga terus meningkat.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus (verba perubahan) + 一方だ / Masu-stem + つつある\" (Perubahan Tren & Gerak Menuju: 〜一方だ (ippou da) & 〜つつある (tsutsu aru)) yang berfungsi untuk membicarakan arah perubahan fenomena sosial atau fisik. 〜一方だ fokus pada tren yang terus melaju satu arah (seringkali memburuk), sedangkan 〜つつある adalah bentuk bahasa tulis elegan untuk 'sedang berangsur-angsur dalam proses'."
       },
       {
         "id": "q-ja-gram-28-bb-2",
@@ -13226,7 +13226,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Selagi masih muda, semestinya kita bersentuhan dengan berbagai budaya asing dan menumpuk pengalaman memperluas wawasan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"初めての一人暮らしで、夜になると家族や故郷の友人が恋しくてたまりません。\" berarti \"Pertama kali hidup mandiri sendirian, begitu malam tiba rasa rindu kepada keluarga dan sahabat di kampung halaman terasa tak tertahankan.\"."
+        "explanation": "Kalimat \"初めての一人暮らしで、夜になると家族や故郷の友人が恋しくてたまりません。\" (dibaca: Hajimete no hitorigurashi de, yoru ni naru to kazoku ya kokyō no yūjin ga koishikute tamarimasen.) berarti \"Pertama kali hidup mandiri sendirian, begitu malam tiba rasa rindu kepada keluarga dan sahabat di kampung halaman terasa tak tertahankan.\". Kalimat ini menggunakan pola \"Bentuk Te + たまらない (tak tertahankan secara fisik/emosi) / しょうがない / しかたがない\" (Emosi Spontan & Tak Tertahankan: 〜てたまらない & 〜てしょうがない) yang berfungsi untuk mengekspresikan dorongan emosi, perasaan batin, atau sensasi fisik yang memuncak hingga tidak sanggup lagi ditahan atau dikendalikan oleh akal sehat."
       },
       {
         "id": "q-ja-gram-29-pg-2",
@@ -13242,7 +13242,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dalam skripsi kelulusan, saya meneliti tentang dampak penurunan angka kelahiran dan penuaan populasi Jepang terhadap ekonomi regional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"昨日面接を受けた第一志望の合否結果が、気になってしょうがない。\" berarti \"Hasil kelulusan dari instansi pilihan pertama yang saya wawancarai kemarin membuat saya amat sangat cemas dan penasaran.\"."
+        "explanation": "Kalimat \"昨日面接を受けた第一志望の合否結果が、気になってしょうがない。\" (dibaca: Kinō mensetsu o uketa daiichi-shibō no gōhi kekka ga, ki ni natte shōganai.) berarti \"Hasil kelulusan dari instansi pilihan pertama yang saya wawancarai kemarin membuat saya amat sangat cemas dan penasaran.\". Kalimat ini menggunakan pola \"Bentuk Te + たまらない (tak tertahankan secara fisik/emosi) / しょうがない / しかたがない\" (Emosi Spontan & Tak Tertahankan: 〜てたまらない & 〜てしょうがない) yang berfungsi untuk mengekspresikan dorongan emosi, perasaan batin, atau sensasi fisik yang memuncak hingga tidak sanggup lagi ditahan atau dikendalikan oleh akal sehat."
       },
       {
         "id": "q-ja-gram-29-pg-3",
@@ -13258,7 +13258,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Perdebatan terkait perkembangan kecerdasan buatan sedang berlangsung hangat di berbagai belahan dunia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"真夏の炎天下で長時間サッカーをしたので、冷たい水が飲みたくてたまらない。\" berarti \"Karena bermain sepak bola berjam-jam di bawah terik matahari musim panas, saya rasanya ingin sekali minum air dingin sampai tak tertahankan.\"."
+        "explanation": "Kalimat \"真夏の炎天下で長時間サッカーをしたので、冷たい水が飲みたくてたまらない。\" (dibaca: Manatsu no entenka de chōjikan sakkā o shita node, tsumetai mizu ga nomitakute tamaranai.) berarti \"Karena bermain sepak bola berjam-jam di bawah terik matahari musim panas, saya rasanya ingin sekali minum air dingin sampai tak tertahankan.\". Kalimat ini menggunakan pola \"Bentuk Te + たまらない (tak tertahankan secara fisik/emosi) / しょうがない / しかたがない\" (Emosi Spontan & Tak Tertahankan: 〜てたまらない & 〜てしょうがない) yang berfungsi untuk mengekspresikan dorongan emosi, perasaan batin, atau sensasi fisik yang memuncak hingga tidak sanggup lagi ditahan atau dikendalikan oleh akal sehat."
       },
       {
         "id": "q-ja-gram-29-pg-4",
@@ -13557,7 +13557,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Ketika terjadi suatu masalah, semestinya segera melapor kepada atasan dan memohon petunjuk."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"初めての一人暮らしで、夜になると家族や故郷の友人が恋しくてたまりません。\" berarti \"Pertama kali hidup mandiri sendirian, begitu malam tiba rasa rindu kepada keluarga dan sahabat di kampung halaman terasa tak tertahankan.\"."
+        "explanation": "Kalimat \"初めての一人暮らしで、夜になると家族や故郷の友人が恋しくてたまりません。\" (dibaca: Hajimete no hitorigurashi de, yoru ni naru to kazoku ya kokyō no yūjin ga koishikute tamarimasen.) berarti \"Pertama kali hidup mandiri sendirian, begitu malam tiba rasa rindu kepada keluarga dan sahabat di kampung halaman terasa tak tertahankan.\". Kalimat ini menggunakan pola \"Bentuk Te + たまらない (tak tertahankan secara fisik/emosi) / しょうがない / しかたがない\" (Emosi Spontan & Tak Tertahankan: 〜てたまらない & 〜てしょうがない) yang berfungsi untuk mengekspresikan dorongan emosi, perasaan batin, atau sensasi fisik yang memuncak hingga tidak sanggup lagi ditahan atau dikendalikan oleh akal sehat."
       },
       {
         "id": "q-ja-gram-29-bb-2",
@@ -13704,7 +13704,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Terkait rincian sistem beasiswa yang baru, silakan periksa papan pengumuman universitas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"現代社会においてインターネットは不可欠なツールである反面、情報漏洩のリスクにも常に配慮すべきである。\" berarti \"Dalam masyarakat modern, di satu sisi internet adalah alat yang tak tergantikan, namun di sisi lain kita semestinya selalu memperhatikan risiko kebocoran data.\"."
+        "explanation": "Kalimat \"現代社会においてインターネットは不可欠なツールである反面、情報漏洩のリスクにも常に配慮すべきである。\" (dibaca: Gendai shakai ni oite intānetto wa fukaketsu na tsūru de aru hanmen, jōhōrōei no risuku ni mo tsuneni hairyo subeki de aru.) berarti \"Dalam masyarakat modern, di satu sisi internet adalah alat yang tak tergantikan, namun di sisi lain kita semestinya selalu memperhatikan risiko kebocoran data.\". Kalimat ini menggunakan pola \"N3 必須文法複合運用 (総合読解・聴解フォーミュラ)\" (Rangkuman Strategis Pemantapan Menuju JLPT N3 (Mastery Unit)) yang berfungsi untuk integrasi menyeluruh dari tata bahasa N3: menghubungkan relasi kausal, kontras, dugaan, dan sudut pandang logis dalam wacana paragraf panjang dan soal simulasi ujian."
       },
       {
         "id": "q-ja-gram-30-pg-2",
@@ -13720,7 +13720,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat pemadaman listrik yang disebabkan salju lebat, jadwal shinkansen mengalami kekacauan besar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"調査の結果によると、若者の読書離れが進む一方で、電子書籍の利用率は増加しつつあるようだ。\" berarti \"Menurut hasil survei, di saat keengganan membaca pada pemuda terus meluas, di sisi lain tingkat pemanfaatan buku elektronik tampaknya sedang dalam tren meningkat.\"."
+        "explanation": "Kalimat \"調査の結果によると、若者の読書離れが進む一方で、電子書籍の利用率は増加しつつあるようだ。\" (dibaca: Chōsa no kekka ni yoru to, wakamono no dokusobanare ga susumu ippō de, denshishoseki no riyōritsu wa zōka shitsutsu aru yō da.) berarti \"Menurut hasil survei, di saat keengganan membaca pada pemuda terus meluas, di sisi lain tingkat pemanfaatan buku elektronik tampaknya sedang dalam tren meningkat.\". Kalimat ini menggunakan pola \"N3 必須文法複合運用 (総合読解・聴解フォーミュラ)\" (Rangkuman Strategis Pemantapan Menuju JLPT N3 (Mastery Unit)) yang berfungsi untuk integrasi menyeluruh dari tata bahasa N3: menghubungkan relasi kausal, kontras, dugaan, dan sudut pandang logis dalam wacana paragraf panjang dan soal simulasi ujian."
       },
       {
         "id": "q-ja-gram-30-pg-3",
@@ -13736,7 +13736,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena riset bertahun-tahun akhirnya membuahkan hasil dan obat mujarab untuk penyakit langka telah berhasil dikembangkan, pantas saja para peneliti bersuka cita meluap-luap."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"長年の研究がついに実を結び、難病の特効薬が開発されたのだから、研究者たちが喜びに湧くのも当然なわけだ。\" berarti \"Karena riset bertahun-tahun akhirnya membuahkan hasil dan obat mujarab untuk penyakit langka telah berhasil dikembangkan, pantas saja para peneliti bersuka cita meluap-luap.\"."
+        "explanation": "Kalimat \"長年の研究がついに実を結び、難病の特効薬が開発されたのだから、研究者たちが喜びに湧くのも当然なわけだ。\" (dibaca: Naganen no kenkyū ga tsuini mi o musubi, nanbyō no tokkōyaku ga kaihatsu sareta no da kara, kenkyūshatachi ga yorokobi ni waku no mo tōzen na wake da.) berarti \"Karena riset bertahun-tahun akhirnya membuahkan hasil dan obat mujarab untuk penyakit langka telah berhasil dikembangkan, pantas saja para peneliti bersuka cita meluap-luap.\". Kalimat ini menggunakan pola \"N3 必須文法複合運用 (総合読解・聴解フォーミュラ)\" (Rangkuman Strategis Pemantapan Menuju JLPT N3 (Mastery Unit)) yang berfungsi untuk integrasi menyeluruh dari tata bahasa N3: menghubungkan relasi kausal, kontras, dugaan, dan sudut pandang logis dalam wacana paragraf panjang dan soal simulasi ujian."
       },
       {
         "id": "q-ja-gram-30-pg-4",
@@ -14031,7 +14031,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dalam masyarakat modern, di satu sisi internet adalah alat yang tak tergantikan, namun di sisi lain kita semestinya selalu memperhatikan risiko kebocoran data."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"現代社会においてインターネットは不可欠なツールである反面、情報漏洩のリスクにも常に配慮すべきである。\" berarti \"Dalam masyarakat modern, di satu sisi internet adalah alat yang tak tergantikan, namun di sisi lain kita semestinya selalu memperhatikan risiko kebocoran data.\"."
+        "explanation": "Kalimat \"現代社会においてインターネットは不可欠なツールである反面、情報漏洩のリスクにも常に配慮すべきである。\" (dibaca: Gendai shakai ni oite intānetto wa fukaketsu na tsūru de aru hanmen, jōhōrōei no risuku ni mo tsuneni hairyo subeki de aru.) berarti \"Dalam masyarakat modern, di satu sisi internet adalah alat yang tak tergantikan, namun di sisi lain kita semestinya selalu memperhatikan risiko kebocoran data.\". Kalimat ini menggunakan pola \"N3 必須文法複合運用 (総合読解・聴解フォーミュラ)\" (Rangkuman Strategis Pemantapan Menuju JLPT N3 (Mastery Unit)) yang berfungsi untuk integrasi menyeluruh dari tata bahasa N3: menghubungkan relasi kausal, kontras, dugaan, dan sudut pandang logis dalam wacana paragraf panjang dan soal simulasi ujian."
       },
       {
         "id": "q-ja-gram-30-bb-2",
@@ -14184,7 +14184,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di satu sisi dia berkeliling dunia sebagai pianis kelas dunia, di samping itu dia juga mencurahkan semangat untuk mendidik generasi penerus."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"昨日お送りいただきました企画書のデータ、早速拝見いたしました。\" berarti \"Data proposal proyek yang kemarin Bapak kirimkan telah langsung saya baca/telaah dengan seksama.\"."
+        "explanation": "Kalimat \"昨日お送りいただきました企画書のデータ、早速拝見いたしました。\" (dibaca: Kinō o-okuri itadakimashita kikakusho no dēta, sassoku haiken itashimashita.) berarti \"Data proposal proyek yang kemarin Bapak kirimkan telah langsung saya baca/telaah dengan seksama.\". Kalimat ini menggunakan pola \"お/ご + Masu-stem + になる (Sonkeigo) / お/ご + Masu-stem + いたす (Kenjougo)\" (Keigo Bisnis Lanjutan (Sonkeigo & Kenjougo II / 敬語体系)) yang berfungsi untuk membedakan penggunaan Sonkeigo (bahasa penghormatan untuk memuliakan mitra/klien) dan Kenjougo (bahasa rendah hati untuk merendahkan diri dan rekan satu perusahaan di depan pihak luar)."
       },
       {
         "id": "q-ja-gram-31-pg-2",
@@ -14200,7 +14200,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Bapak Presiden Direktur telah berangkat ke kantor cabang Osaka dengan penerbangan pukul 10."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"社長はすでに10時の便で大阪支社へ出発なさいました。\" berarti \"Bapak Presiden Direktur telah berangkat ke kantor cabang Osaka dengan penerbangan pukul 10.\"."
+        "explanation": "Kalimat \"社長はすでに10時の便で大阪支社へ出発なさいました。\" (dibaca: Shachō wa sudeni jūji no bin de Ōsaka shisha e shuppatsu nasaimashita.) berarti \"Bapak Presiden Direktur telah berangkat ke kantor cabang Osaka dengan penerbangan pukul 10.\". Kalimat ini menggunakan pola \"お/ご + Masu-stem + になる (Sonkeigo) / お/ご + Masu-stem + いたす (Kenjougo)\" (Keigo Bisnis Lanjutan (Sonkeigo & Kenjougo II / 敬語体系)) yang berfungsi untuk membedakan penggunaan Sonkeigo (bahasa penghormatan untuk memuliakan mitra/klien) dan Kenjougo (bahasa rendah hati untuk merendahkan diri dan rekan satu perusahaan di depan pihak luar)."
       },
       {
         "id": "q-ja-gram-31-pg-3",
@@ -14216,7 +14216,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tepat saat mematikan lampu kamar, di sudut langit-langit mendadak terdengar suara aneh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"恐れ入りますが、こちらの書類にお名前とお電話番号をご記入いただけますでしょうか。\" berarti \"Mohon maaf merepotkan, apakah Anda berkenan mengisi nama dan nomor telepon pada formulir ini?\"."
+        "explanation": "Kalimat \"恐れ入りますが、こちらの書類にお名前とお電話番号をご記入いただけますでしょうか。\" (dibaca: Osoreirimasu ga, kochira no shorui ni onamae to odenwabangō o gokinyū itadakemasu deshō ka.) berarti \"Mohon maaf merepotkan, apakah Anda berkenan mengisi nama dan nomor telepon pada formulir ini?\". Kalimat ini menggunakan pola \"お/ご + Masu-stem + になる (Sonkeigo) / お/ご + Masu-stem + いたす (Kenjougo)\" (Keigo Bisnis Lanjutan (Sonkeigo & Kenjougo II / 敬語体系)) yang berfungsi untuk membedakan penggunaan Sonkeigo (bahasa penghormatan untuk memuliakan mitra/klien) dan Kenjougo (bahasa rendah hati untuk merendahkan diri dan rekan satu perusahaan di depan pihak luar)."
       },
       {
         "id": "q-ja-gram-31-pg-4",
@@ -14511,7 +14511,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Pemerintah mendorong energi terbarukan demi mewujudkan masyarakat bebas karbon, namun di sisi lain juga bersusah payah mengamankan pasokan listrik yang stabil."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"昨日お送りいただきました企画書のデータ、早速拝見いたしました。\" berarti \"Data proposal proyek yang kemarin Bapak kirimkan telah langsung saya baca/telaah dengan seksama.\"."
+        "explanation": "Kalimat \"昨日お送りいただきました企画書のデータ、早速拝見いたしました。\" (dibaca: Kinō o-okuri itadakimashita kikakusho no dēta, sassoku haiken itashimashita.) berarti \"Data proposal proyek yang kemarin Bapak kirimkan telah langsung saya baca/telaah dengan seksama.\". Kalimat ini menggunakan pola \"お/ご + Masu-stem + になる (Sonkeigo) / お/ご + Masu-stem + いたす (Kenjougo)\" (Keigo Bisnis Lanjutan (Sonkeigo & Kenjougo II / 敬語体系)) yang berfungsi untuk membedakan penggunaan Sonkeigo (bahasa penghormatan untuk memuliakan mitra/klien) dan Kenjougo (bahasa rendah hati untuk merendahkan diri dan rekan satu perusahaan di depan pihak luar)."
       },
       {
         "id": "q-ja-gram-31-bb-2",
@@ -14657,7 +14657,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan hasil survei kuesioner terbaru, kami telah memutuskan arah kebijakan desain ponsel pintar generasi berikutnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"最新のアンケート調査結果に基づいて、次期スマートフォンのデザイン方針を決定しました。\" berarti \"Berdasarkan hasil survei kuesioner terbaru, kami telah memutuskan arah kebijakan desain ponsel pintar generasi berikutnya.\"."
+        "explanation": "Kalimat \"最新のアンケート調査結果に基づいて、次期スマートフォンのデザイン方針を決定しました。\" (dibaca: Saishin no ankēto chōsa kekka ni motozuite, jiki sumātofon no dezain hōshin o kettei shimashita.) berarti \"Berdasarkan hasil survei kuesioner terbaru, kami telah memutuskan arah kebijakan desain ponsel pintar generasi berikutnya.\". Kalimat ini menggunakan pola \"Kata Benda + に基づいて (berdasarkan/berlandaskan hukum/data) / を踏まえて (dengan mempertimbangkan/berpijak pada)\" (Berdasarkan Fakta & Landasan: 〜に基づいて (motozuite) & 〜を踏まえて (fumaete)) yang berfungsi untuk pola resmi untuk menyatakan bahwa suatu tindakan, keputusan, atau analisis didasarkan secara ketat pada data ilmiah, peraturan perundang-undangan, atau pengalaman masa lalu."
       },
       {
         "id": "q-ja-gram-32-pg-2",
@@ -14673,7 +14673,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Seputar rencana lokasi pembangunan pabrik baru, perdebatan sengit sedang berlangsung hangat antara perusahaan pengembang dan penduduk setempat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"昨年度の失敗とお客様からのご意見を踏まえて、業務マニュアルを抜本的に見直しました。\" berarti \"Dengan mempertimbangkan kegagalan tahun lalu dan masukan dari para pelanggan, kami telah meninjau ulang manual operasional secara mendasar.\"."
+        "explanation": "Kalimat \"昨年度の失敗とお客様からのご意見を踏まえて、業務マニュアルを抜本的に見直しました。\" (dibaca: Sakunendo no shippai to okyakusama kara no go-iken o fumaete, gyōmu manyuaru o bapponteki ni minaoshimashita.) berarti \"Dengan mempertimbangkan kegagalan tahun lalu dan masukan dari para pelanggan, kami telah meninjau ulang manual operasional secara mendasar.\". Kalimat ini menggunakan pola \"Kata Benda + に基づいて (berdasarkan/berlandaskan hukum/data) / を踏まえて (dengan mempertimbangkan/berpijak pada)\" (Berdasarkan Fakta & Landasan: 〜に基づいて (motozuite) & 〜を踏まえて (fumaete)) yang berfungsi untuk pola resmi untuk menyatakan bahwa suatu tindakan, keputusan, atau analisis didasarkan secara ketat pada data ilmiah, peraturan perundang-undangan, atau pengalaman masa lalu."
       },
       {
         "id": "q-ja-gram-32-pg-3",
@@ -14689,7 +14689,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Memperebutkan kursi ketua partai berikutnya, intrik politik di bawah permukaan oleh faksi-faksi utama internal partai terus berlanjut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"憲法の理念に基づく法改正が、国会で慎重に審議されています。\" berarti \"Amandemen undang-undang yang berlandaskan pada prinsip konstitusi sedang diperdebatkan secara seksama di parlemen.\"."
+        "explanation": "Kalimat \"憲法の理念に基づく法改正が、国会で慎重に審議されています。\" (dibaca: Kenpō no rinen ni motozuku hōkaisei ga, kokkai de shinchō ni shingi sarete imasu.) berarti \"Amandemen undang-undang yang berlandaskan pada prinsip konstitusi sedang diperdebatkan secara seksama di parlemen.\". Kalimat ini menggunakan pola \"Kata Benda + に基づいて (berdasarkan/berlandaskan hukum/data) / を踏まえて (dengan mempertimbangkan/berpijak pada)\" (Berdasarkan Fakta & Landasan: 〜に基づいて (motozuite) & 〜を踏まえて (fumaete)) yang berfungsi untuk pola resmi untuk menyatakan bahwa suatu tindakan, keputusan, atau analisis didasarkan secara ketat pada data ilmiah, peraturan perundang-undangan, atau pengalaman masa lalu."
       },
       {
         "id": "q-ja-gram-32-pg-4",
@@ -14984,7 +14984,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Segera setelah jadwal inspeksi lapangan terkonfirmasi, kami akan segera mengirimkan rincian jadwal perjalanan kepada seluruh pihak terkait."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"最新のアンケート調査結果に基づいて、次期スマートフォンのデザイン方針を決定しました。\" berarti \"Berdasarkan hasil survei kuesioner terbaru, kami telah memutuskan arah kebijakan desain ponsel pintar generasi berikutnya.\"."
+        "explanation": "Kalimat \"最新のアンケート調査結果に基づいて、次期スマートフォンのデザイン方針を決定しました。\" (dibaca: Saishin no ankēto chōsa kekka ni motozuite, jiki sumātofon no dezain hōshin o kettei shimashita.) berarti \"Berdasarkan hasil survei kuesioner terbaru, kami telah memutuskan arah kebijakan desain ponsel pintar generasi berikutnya.\". Kalimat ini menggunakan pola \"Kata Benda + に基づいて (berdasarkan/berlandaskan hukum/data) / を踏まえて (dengan mempertimbangkan/berpijak pada)\" (Berdasarkan Fakta & Landasan: 〜に基づいて (motozuite) & 〜を踏まえて (fumaete)) yang berfungsi untuk pola resmi untuk menyatakan bahwa suatu tindakan, keputusan, atau analisis didasarkan secara ketat pada data ilmiah, peraturan perundang-undangan, atau pengalaman masa lalu."
       },
       {
         "id": "q-ja-gram-32-bb-2",
@@ -15131,7 +15131,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Gugatan hukum seputar kepemilikan hak paten telah diputuskan untuk dibawa hingga ke tingkat Mahkamah Agung."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"外国人観光客の視点から見ると、日本の自動販売機やコンビニの利便性は驚異的です。\" berarti \"Ditinjau dari sudut pandang wisatawan mancanegara, kepraktisan mesin penjual otomatis dan toserba di Jepang sungguh mengagumkan.\"."
+        "explanation": "Kalimat \"外国人観光客の視点から見ると、日本の自動販売機やコンビニの利便性は驚異的です。\" (dibaca: Gaikokujin kankōkyaku no shiten kara miru to, Nihon no jidōhanbaiki ya konbini no ribensei wa kyōiteki desu.) berarti \"Ditinjau dari sudut pandang wisatawan mancanegara, kepraktisan mesin penjual otomatis dan toserba di Jepang sungguh mengagumkan.\". Kalimat ini menggunakan pola \"Kata Benda + から見ると / から見れば / から言うと / から言えば (ditinjau dari sudut pandang)\" (Sudut Pandang dan Perspektif: 〜から見ると (kara miru to) & 〜から言えば (kara ieba)) yang berfungsi untuk menilai suatu permasalahan, kebijakan, atau fenomena dari posisi atau sudut pandang pihak tertentu ('jika dilihat dari sudut pandang X / dinilai dari standar Y')."
       },
       {
         "id": "q-ja-gram-33-pg-2",
@@ -15147,7 +15147,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Para pejabat teras pemerintah mulai dari Perdana Menteri telah berkumpul di arena Konferensi Tingkat Tinggi Lingkungan Internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"デザインの美しさから言えばA案ですが、実用性と予算から言えばB案を採用すべきです。\" berarti \"Jika ditinjau dari keindahan desain proposal A pemenangnya, tetapi jika dinilai dari segi kepraktisan dan anggaran proposal B yang semestinya diadopsi.\"."
+        "explanation": "Kalimat \"デザインの美しさから言えばA案ですが、実用性と予算から言えばB案を採用すべきです。\" (dibaca: Dezain no utsukushisa kara ieba Ē-an desu ga, jitsuyōsei to yosan kara ieba Bī-an o saiyō subeki desu.) berarti \"Jika ditinjau dari keindahan desain proposal A pemenangnya, tetapi jika dinilai dari segi kepraktisan dan anggaran proposal B yang semestinya diadopsi.\". Kalimat ini menggunakan pola \"Kata Benda + から見ると / から見れば / から言うと / から言えば (ditinjau dari sudut pandang)\" (Sudut Pandang dan Perspektif: 〜から見ると (kara miru to) & 〜から言えば (kara ieba)) yang berfungsi untuk menilai suatu permasalahan, kebijakan, atau fenomena dari posisi atau sudut pandang pihak tertentu ('jika dilihat dari sudut pandang X / dinilai dari standar Y')."
       },
       {
         "id": "q-ja-gram-33-pg-3",
@@ -15163,7 +15163,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di rumah sakit gawat darurat, para dokter dan perawat berjuang menyelamatkan nyawa manusia tanpa mengenal siang maupun malam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"これまでの学習履歴から見て、彼女がJLPT N2に一発合格することは確実視されています。\" berarti \"Melihat dari rekam jejak belajarnya selama ini, kelulusannya dalam JLPT N2 pada kesempatan pertama dinilai sangat pasti.\"."
+        "explanation": "Kalimat \"これまでの学習履歴から見て、彼女がJLPT N2に一発合格することは確実視されています。\" (dibaca: Kore made no gakushū rireki kara mite, kanojo ga Nihongo Nōryoku Shiken Enu-tsū ni ippatsu gōkaku suru koto wa kakujitsushi sarete imasu.) berarti \"Melihat dari rekam jejak belajarnya selama ini, kelulusannya dalam JLPT N2 pada kesempatan pertama dinilai sangat pasti.\". Kalimat ini menggunakan pola \"Kata Benda + から見ると / から見れば / から言うと / から言えば (ditinjau dari sudut pandang)\" (Sudut Pandang dan Perspektif: 〜から見ると (kara miru to) & 〜から言えば (kara ieba)) yang berfungsi untuk menilai suatu permasalahan, kebijakan, atau fenomena dari posisi atau sudut pandang pihak tertentu ('jika dilihat dari sudut pandang X / dinilai dari standar Y')."
       },
       {
         "id": "q-ja-gram-33-pg-4",
@@ -15462,7 +15462,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Seputar rencana lokasi pembangunan pabrik baru, perdebatan sengit sedang berlangsung hangat antara perusahaan pengembang dan penduduk setempat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"外国人観光客の視点から見ると、日本の自動販売機やコンビニの利便性は驚異的です。\" berarti \"Ditinjau dari sudut pandang wisatawan mancanegara, kepraktisan mesin penjual otomatis dan toserba di Jepang sungguh mengagumkan.\"."
+        "explanation": "Kalimat \"外国人観光客の視点から見ると、日本の自動販売機やコンビニの利便性は驚異的です。\" (dibaca: Gaikokujin kankōkyaku no shiten kara miru to, Nihon no jidōhanbaiki ya konbini no ribensei wa kyōiteki desu.) berarti \"Ditinjau dari sudut pandang wisatawan mancanegara, kepraktisan mesin penjual otomatis dan toserba di Jepang sungguh mengagumkan.\". Kalimat ini menggunakan pola \"Kata Benda + から見ると / から見れば / から言うと / から言えば (ditinjau dari sudut pandang)\" (Sudut Pandang dan Perspektif: 〜から見ると (kara miru to) & 〜から言えば (kara ieba)) yang berfungsi untuk menilai suatu permasalahan, kebijakan, atau fenomena dari posisi atau sudut pandang pihak tertentu ('jika dilihat dari sudut pandang X / dinilai dari standar Y')."
       },
       {
         "id": "q-ja-gram-33-bb-2",
@@ -15609,7 +15609,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kegiatan sukarelawan warga ini merekrut peserta secara luas dari masyarakat umum tanpa memandang ada tidaknya pengalaman maupun kewarganegaraan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"これだけ明確な証拠を突きつけられては、自らの過ちを認めざるを得ません。\" berarti \"Setelah disodori bukti yang sebegitu telak dan jelas, saya terpaksa harus mengakui kesalahan diri saya sendiri.\"."
+        "explanation": "Kalimat \"これだけ明確な証拠を突きつけられては、自らの過ちを認めざるを得ません。\" (dibaca: Koredake meikaku na shōko o tsukitsukerarete wa, mizukara no ayamachi o mitomezaru o emasen.) berarti \"Setelah disodori bukti yang sebegitu telak dan jelas, saya terpaksa harus mengakui kesalahan diri saya sendiri.\". Kalimat ini menggunakan pola \"Kata Kerja Nai-stem + ざるを得ない (khusus する -> せざるを得ない)\" (Keterpaksaan Penuh Situasional: 〜ざるを得ない (zaru o enai)) yang berfungsi untuk menyatakan bahwa pembicara sebenarnya tidak ingin melakukan hal tersebut, tetapi karena desakan situasi atau keharusan mutlak, tidak ada pilihan lain selain terpaksa melakukannya."
       },
       {
         "id": "q-ja-gram-34-pg-2",
@@ -15625,7 +15625,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Topan skala besar sedang mendekat, dan dikhawatirkan ada risiko sungai meluap menjelang larut malam nanti."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"原材料費の記録的な高騰により、製品の販売価格を値上げせざるを得ない状況に追い込まれました。\" berarti \"Akibat lonjakan rekor biaya bahan baku, kami terdesak ke dalam situasi di mana kami terpaksa harus menaikkan harga jual produk.\"."
+        "explanation": "Kalimat \"原材料費の記録的な高騰により、製品の販売価格を値上げせざるを得ない状況に追い込まれました。\" (dibaca: Genzairyōhi no kirokuteki na kōtō ni yori, seihin no hanbaikakaku o neage sezaru o enai jōkyō ni oikomaremashita.) berarti \"Akibat lonjakan rekor biaya bahan baku, kami terdesak ke dalam situasi di mana kami terpaksa harus menaikkan harga jual produk.\". Kalimat ini menggunakan pola \"Kata Kerja Nai-stem + ざるを得ない (khusus する -> せざるを得ない)\" (Keterpaksaan Penuh Situasional: 〜ざるを得ない (zaru o enai)) yang berfungsi untuk menyatakan bahwa pembicara sebenarnya tidak ingin melakukan hal tersebut, tetapi karena desakan situasi atau keharusan mutlak, tidak ada pilihan lain selain terpaksa melakukannya."
       },
       {
         "id": "q-ja-gram-34-pg-3",
@@ -15641,7 +15641,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena cuaca buruk diperkirakan tak kunjung membaik, kegiatan mendaki gunung yang dinanti-nanti terpaksa harus dibatalkan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"悪天候が回復する見込みがないため、楽しみにしていた登山イベントは中止せざるを得ない。\" berarti \"Karena cuaca buruk diperkirakan tak kunjung membaik, kegiatan mendaki gunung yang dinanti-nanti terpaksa harus dibatalkan.\"."
+        "explanation": "Kalimat \"悪天候が回復する見込みがないため、楽しみにしていた登山イベントは中止せざるを得ない。\" (dibaca: Akutenkō ga kaifuku suru mikomi ga nai tame, tanoshimi ni shite ita tozan ibento wa chūshi sezaru o enai.) berarti \"Karena cuaca buruk diperkirakan tak kunjung membaik, kegiatan mendaki gunung yang dinanti-nanti terpaksa harus dibatalkan.\". Kalimat ini menggunakan pola \"Kata Kerja Nai-stem + ざるを得ない (khusus する -> せざるを得ない)\" (Keterpaksaan Penuh Situasional: 〜ざるを得ない (zaru o enai)) yang berfungsi untuk menyatakan bahwa pembicara sebenarnya tidak ingin melakukan hal tersebut, tetapi karena desakan situasi atau keharusan mutlak, tidak ada pilihan lain selain terpaksa melakukannya."
       },
       {
         "id": "q-ja-gram-34-pg-4",
@@ -15940,7 +15940,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setelah disodori bukti yang sebegitu telak dan jelas, saya terpaksa harus mengakui kesalahan diri saya sendiri."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"これだけ明確な証拠を突きつけられては、自らの過ちを認めざるを得ません。\" berarti \"Setelah disodori bukti yang sebegitu telak dan jelas, saya terpaksa harus mengakui kesalahan diri saya sendiri.\"."
+        "explanation": "Kalimat \"これだけ明確な証拠を突きつけられては、自らの過ちを認めざるを得ません。\" (dibaca: Koredake meikaku na shōko o tsukitsukerarete wa, mizukara no ayamachi o mitomezaru o emasen.) berarti \"Setelah disodori bukti yang sebegitu telak dan jelas, saya terpaksa harus mengakui kesalahan diri saya sendiri.\". Kalimat ini menggunakan pola \"Kata Kerja Nai-stem + ざるを得ない (khusus する -> せざるを得ない)\" (Keterpaksaan Penuh Situasional: 〜ざるを得ない (zaru o enai)) yang berfungsi untuk menyatakan bahwa pembicara sebenarnya tidak ingin melakukan hal tersebut, tetapi karena desakan situasi atau keharusan mutlak, tidak ada pilihan lain selain terpaksa melakukannya."
       },
       {
         "id": "q-ja-gram-34-bb-2",
@@ -16087,7 +16087,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Jika kerja lembur berlebihan dan kurang tidur dibiarkan begitu saja, hal itu sangat mungkin memicu gangguan kesehatan yang serius."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"政府は脱炭素社会の実現に向けて再生可能エネルギーを推進する一方で、電力の安定供給の確保にも苦慮している。\" berarti \"Pemerintah mendorong energi terbarukan demi mewujudkan masyarakat bebas karbon, namun di sisi lain juga bersusah payah mengamankan pasokan listrik yang stabil.\"."
+        "explanation": "Kalimat \"政府は脱炭素社会の実現に向けて再生可能エネルギーを推進する一方で、電力の安定供給の確保にも苦慮している。\" (dibaca: Seifu wa datsutanso shakai no jitsugen ni mukete saiseikanō enerugī o suishin suru ippō de, denryoku no anteikyōkyū no kakuho ni mo kuryo shite iru.) berarti \"Pemerintah mendorong energi terbarukan demi mewujudkan masyarakat bebas karbon, namun di sisi lain juga bersusah payah mengamankan pasokan listrik yang stabil.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + である + 一方で (di sisi lain / di samping itu)\" (Dua Sisi Berdampingan: 〜一方で (ippou de)) yang berfungsi untuk pola penghubung diskursus untuk menyajikan dua fakta yang berlangsung secara simultan (berdampingan) atau dua sudut yang kontras dalam satu topik yang dibedah."
       },
       {
         "id": "q-ja-gram-35-pg-2",
@@ -16103,7 +16103,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di satu sisi dia berkeliling dunia sebagai pianis kelas dunia, di samping itu dia juga mencurahkan semangat untuk mendidik generasi penerus."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"彼は世界的なピアニストとして世界中を飛び回る一方で、後進の育成にも情熱を注いでいる。\" berarti \"Di satu sisi dia berkeliling dunia sebagai pianis kelas dunia, di samping itu dia juga mencurahkan semangat untuk mendidik generasi penerus.\"."
+        "explanation": "Kalimat \"彼は世界的なピアニストとして世界中を飛び回る一方で、後進の育成にも情熱を注いでいる。\" (dibaca: Kare wa sekai-teki na pianisuto to shite sekaijū o tobimawaru ippō de, kōshin no ikusei ni mo jōnetsu o sosoide iru.) berarti \"Di satu sisi dia berkeliling dunia sebagai pianis kelas dunia, di samping itu dia juga mencurahkan semangat untuk mendidik generasi penerus.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + である + 一方で (di sisi lain / di samping itu)\" (Dua Sisi Berdampingan: 〜一方で (ippou de)) yang berfungsi untuk pola penghubung diskursus untuk menyajikan dua fakta yang berlangsung secara simultan (berdampingan) atau dua sudut yang kontras dalam satu topik yang dibedah."
       },
       {
         "id": "q-ja-gram-35-pg-3",
@@ -16119,7 +16119,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dengan berpijak pada hikmah pelajaran masalah pencemaran di masa lalu, semestinya kita membangun model pembangunan berkelanjutan yang menekan beban lingkungan hingga batas minimal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"リモートワークは通勤ストレスを劇的に減らした一方で、社員同士の孤独感を深める要因にもなっている。\" berarti \"Kerja jarak jauh telah mengurangi stres komuter secara drastis, namun di sisi lain juga menjadi pemicu mendalamnya rasa kesepian antarkaryawan.\"."
+        "explanation": "Kalimat \"リモートワークは通勤ストレスを劇的に減らした一方で、社員同士の孤独感を深める要因にもなっている。\" (dibaca: Rimōtowāku wa tsūkin sutoresu o gekiteki ni herashita ippō de, shain-dōshi no kodokukan o fukameru yōin ni mo natte iru.) berarti \"Kerja jarak jauh telah mengurangi stres komuter secara drastis, namun di sisi lain juga menjadi pemicu mendalamnya rasa kesepian antarkaryawan.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + である + 一方で (di sisi lain / di samping itu)\" (Dua Sisi Berdampingan: 〜一方で (ippou de)) yang berfungsi untuk pola penghubung diskursus untuk menyajikan dua fakta yang berlangsung secara simultan (berdampingan) atau dua sudut yang kontras dalam satu topik yang dibedah."
       },
       {
         "id": "q-ja-gram-35-pg-4",
@@ -16416,7 +16416,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Topan skala besar sedang mendekat, dan dikhawatirkan ada risiko sungai meluap menjelang larut malam nanti."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"政府は脱炭素社会の実現に向けて再生可能エネルギーを推進する一方で、電力の安定供給の確保にも苦慮している。\" berarti \"Pemerintah mendorong energi terbarukan demi mewujudkan masyarakat bebas karbon, namun di sisi lain juga bersusah payah mengamankan pasokan listrik yang stabil.\"."
+        "explanation": "Kalimat \"政府は脱炭素社会の実現に向けて再生可能エネルギーを推進する一方で、電力の安定供給の確保にも苦慮している。\" (dibaca: Seifu wa datsutanso shakai no jitsugen ni mukete saiseikanō enerugī o suishin suru ippō de, denryoku no anteikyōkyū no kakuho ni mo kuryo shite iru.) berarti \"Pemerintah mendorong energi terbarukan demi mewujudkan masyarakat bebas karbon, namun di sisi lain juga bersusah payah mengamankan pasokan listrik yang stabil.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + である + 一方で (di sisi lain / di samping itu)\" (Dua Sisi Berdampingan: 〜一方で (ippou de)) yang berfungsi untuk pola penghubung diskursus untuk menyajikan dua fakta yang berlangsung secara simultan (berdampingan) atau dua sudut yang kontras dalam satu topik yang dibedah."
       },
       {
         "id": "q-ja-gram-35-bb-2",
@@ -16563,7 +16563,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Segera setelah jadwal inspeksi lapangan terkonfirmasi, kami akan segera mengirimkan rincian jadwal perjalanan kepada seluruh pihak terkait."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"現地の視察日程が確定し次第、関係者全員に詳細な旅程表をお送りいたします。\" berarti \"Segera setelah jadwal inspeksi lapangan terkonfirmasi, kami akan segera mengirimkan rincian jadwal perjalanan kepada seluruh pihak terkait.\"."
+        "explanation": "Kalimat \"現地の視察日程が確定し次第、関係者全員に詳細な旅程表をお送りいたします。\" (dibaca: Genchi no shisatsu nittei ga kakutei shishidai, kankeisha zen'in ni shōsai na ryoteihyō o o-okuri itashimasu.) berarti \"Segera setelah jadwal inspeksi lapangan terkonfirmasi, kami akan segera mengirimkan rincian jadwal perjalanan kepada seluruh pihak terkait.\". Kalimat ini menggunakan pola \"Masu-stem + 次第 (segera setelah X, langsung saya lakukan Y - rencana bisnis) / Bentuk Ta + とたん（に） (begitu X, spontan terjadi Y)\" (Segera Setelah / Kejadian Spontan: 〜次第 (shidai) & 〜たとたん (ta totan)) yang berfungsi untuk menyatakan dua peristiwa yang terjadi beruntun dengan jeda waktu sangat singkat. 〜次第 adalah bahasa resmi bisnis untuk janji aksi masa depan, sedangkan 〜たとたん berfokus pada kejadian tak terduga yang mengejutkan di masa lampau."
       },
       {
         "id": "q-ja-gram-36-pg-2",
@@ -16579,7 +16579,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Data proposal proyek yang kemarin Bapak kirimkan telah langsung saya baca/telaah dengan seksama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"長距離マラソンのゴールラインを越えたとたん、緊張が解けて足の力が一気に抜けた。\" berarti \"Begitu melewati garis finish maraton jarak jauh, ketegangan sirna dan seketika kekuatan kaki saya lemas seketika.\"."
+        "explanation": "Kalimat \"長距離マラソンのゴールラインを越えたとたん、緊張が解けて足の力が一気に抜けた。\" (dibaca: Chōkyori marason no gōrurain o koeta totan, kinchō ga tokete ashi no chikara ga ikki ni nuketa.) berarti \"Begitu melewati garis finish maraton jarak jauh, ketegangan sirna dan seketika kekuatan kaki saya lemas seketika.\". Kalimat ini menggunakan pola \"Masu-stem + 次第 (segera setelah X, langsung saya lakukan Y - rencana bisnis) / Bentuk Ta + とたん（に） (begitu X, spontan terjadi Y)\" (Segera Setelah / Kejadian Spontan: 〜次第 (shidai) & 〜たとたん (ta totan)) yang berfungsi untuk menyatakan dua peristiwa yang terjadi beruntun dengan jeda waktu sangat singkat. 〜次第 adalah bahasa resmi bisnis untuk janji aksi masa depan, sedangkan 〜たとたん berfokus pada kejadian tak terduga yang mengejutkan di masa lampau."
       },
       {
         "id": "q-ja-gram-36-pg-3",
@@ -16595,7 +16595,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Mohon maaf merepotkan, apakah Anda berkenan mengisi nama dan nomor telepon pada formulir ini?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"部屋の電気を消したとたんに、天井の片隅で奇妙な物音が聞こえた。\" berarti \"Tepat saat mematikan lampu kamar, di sudut langit-langit mendadak terdengar suara aneh.\"."
+        "explanation": "Kalimat \"部屋の電気を消したとたんに、天井の片隅で奇妙な物音が聞こえた。\" (dibaca: Heya no denki o keshita totan ni, tenjō no katasumi de kimyō na monooto ga kikoeta.) berarti \"Tepat saat mematikan lampu kamar, di sudut langit-langit mendadak terdengar suara aneh.\". Kalimat ini menggunakan pola \"Masu-stem + 次第 (segera setelah X, langsung saya lakukan Y - rencana bisnis) / Bentuk Ta + とたん（に） (begitu X, spontan terjadi Y)\" (Segera Setelah / Kejadian Spontan: 〜次第 (shidai) & 〜たとたん (ta totan)) yang berfungsi untuk menyatakan dua peristiwa yang terjadi beruntun dengan jeda waktu sangat singkat. 〜次第 adalah bahasa resmi bisnis untuk janji aksi masa depan, sedangkan 〜たとたん berfokus pada kejadian tak terduga yang mengejutkan di masa lampau."
       },
       {
         "id": "q-ja-gram-36-pg-4",
@@ -16896,7 +16896,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Seputar krisis kekurangan tenaga kerja akibat penuaan populasi memang terdapat berbagai perdebatan, namun berlandaskan data statistik kita terpaksa harus mempertimbangkan secara komprehensif kebijakan imigrasi dan dorongan otomatisasi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"現地の視察日程が確定し次第、関係者全員に詳細な旅程表をお送りいたします。\" berarti \"Segera setelah jadwal inspeksi lapangan terkonfirmasi, kami akan segera mengirimkan rincian jadwal perjalanan kepada seluruh pihak terkait.\"."
+        "explanation": "Kalimat \"現地の視察日程が確定し次第、関係者全員に詳細な旅程表をお送りいたします。\" (dibaca: Genchi no shisatsu nittei ga kakutei shishidai, kankeisha zen'in ni shōsai na ryoteihyō o o-okuri itashimasu.) berarti \"Segera setelah jadwal inspeksi lapangan terkonfirmasi, kami akan segera mengirimkan rincian jadwal perjalanan kepada seluruh pihak terkait.\". Kalimat ini menggunakan pola \"Masu-stem + 次第 (segera setelah X, langsung saya lakukan Y - rencana bisnis) / Bentuk Ta + とたん（に） (begitu X, spontan terjadi Y)\" (Segera Setelah / Kejadian Spontan: 〜次第 (shidai) & 〜たとたん (ta totan)) yang berfungsi untuk menyatakan dua peristiwa yang terjadi beruntun dengan jeda waktu sangat singkat. 〜次第 adalah bahasa resmi bisnis untuk janji aksi masa depan, sedangkan 〜たとたん berfokus pada kejadian tak terduga yang mengejutkan di masa lampau."
       },
       {
         "id": "q-ja-gram-36-bb-2",
@@ -17043,7 +17043,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Bapak Presiden Direktur telah berangkat ke kantor cabang Osaka dengan penerbangan pukul 10."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"新工場の建設予定地をめぐって、開発企業と地元住民の間で激しい議論が交わされている。\" berarti \"Seputar rencana lokasi pembangunan pabrik baru, perdebatan sengit sedang berlangsung hangat antara perusahaan pengembang dan penduduk setempat.\"."
+        "explanation": "Kalimat \"新工場の建設予定地をめぐって、開発企業と地元住民の間で激しい議論が交わされている。\" (dibaca: Shin-kōjō no kensetsu yoteichi o megutte, kaihatsu kigyō to jimoto jūmin no aida de hageshii giron ga kawasarete iru.) berarti \"Seputar rencana lokasi pembangunan pabrik baru, perdebatan sengit sedang berlangsung hangat antara perusahaan pengembang dan penduduk setempat.\". Kalimat ini menggunakan pola \"Kata Benda + をめぐって / をめぐる + Kata Benda (seputar / mengenai sengketa)\" (Isu yang Diperdebatkan Publik: 〜をめぐって (o megutte)) yang berfungsi untuk pola resmi yang menandakan topik yang menjadi pusat konflik, perdebatan sengit, sengketa perebutan, atau pertarungan opini publik antara dua pihak atau lebih ('seputar sengketa X')."
       },
       {
         "id": "q-ja-gram-37-pg-2",
@@ -17059,7 +17059,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan hasil survei kuesioner terbaru, kami telah memutuskan arah kebijakan desain ponsel pintar generasi berikutnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"特許権の帰属をめぐる裁判は、最高裁判所まで持ち越されることになりました。\" berarti \"Gugatan hukum seputar kepemilikan hak paten telah diputuskan untuk dibawa hingga ke tingkat Mahkamah Agung.\"."
+        "explanation": "Kalimat \"特許権の帰属をめぐる裁判は、最高裁判所まで持ち越されることになりました。\" (dibaca: Tokkyoken no kizoku o meguru saiban wa, saikōsaibansho made mochikosareru koto ni narimashita.) berarti \"Gugatan hukum seputar kepemilikan hak paten telah diputuskan untuk dibawa hingga ke tingkat Mahkamah Agung.\". Kalimat ini menggunakan pola \"Kata Benda + をめぐって / をめぐる + Kata Benda (seputar / mengenai sengketa)\" (Isu yang Diperdebatkan Publik: 〜をめぐって (o megutte)) yang berfungsi untuk pola resmi yang menandakan topik yang menjadi pusat konflik, perdebatan sengit, sengketa perebutan, atau pertarungan opini publik antara dua pihak atau lebih ('seputar sengketa X')."
       },
       {
         "id": "q-ja-gram-37-pg-3",
@@ -17075,7 +17075,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Amandemen undang-undang yang berlandaskan pada prinsip konstitusi sedang diperdebatkan secara seksama di parlemen."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"次期党首の座をめぐって、党内の主要派閥による水面下の駆け引きが続いています。\" berarti \"Memperebutkan kursi ketua partai berikutnya, intrik politik di bawah permukaan oleh faksi-faksi utama internal partai terus berlanjut.\"."
+        "explanation": "Kalimat \"次期党首の座をめぐって、党内の主要派閥による水面下の駆け引きが続いています。\" (dibaca: Jiki tōshu no za o megutte, tōnai no shuyō habatsu ni yoru suimenka no kakehiki ga tsuzuite imasu.) berarti \"Memperebutkan kursi ketua partai berikutnya, intrik politik di bawah permukaan oleh faksi-faksi utama internal partai terus berlanjut.\". Kalimat ini menggunakan pola \"Kata Benda + をめぐって / をめぐる + Kata Benda (seputar / mengenai sengketa)\" (Isu yang Diperdebatkan Publik: 〜をめぐって (o megutte)) yang berfungsi untuk pola resmi yang menandakan topik yang menjadi pusat konflik, perdebatan sengit, sengketa perebutan, atau pertarungan opini publik antara dua pihak atau lebih ('seputar sengketa X')."
       },
       {
         "id": "q-ja-gram-37-pg-4",
@@ -17372,7 +17372,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Data proposal proyek yang kemarin Bapak kirimkan telah langsung saya baca/telaah dengan seksama."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"新工場の建設予定地をめぐって、開発企業と地元住民の間で激しい議論が交わされている。\" berarti \"Seputar rencana lokasi pembangunan pabrik baru, perdebatan sengit sedang berlangsung hangat antara perusahaan pengembang dan penduduk setempat.\"."
+        "explanation": "Kalimat \"新工場の建設予定地をめぐって、開発企業と地元住民の間で激しい議論が交わされている。\" (dibaca: Shin-kōjō no kensetsu yoteichi o megutte, kaihatsu kigyō to jimoto jūmin no aida de hageshii giron ga kawasarete iru.) berarti \"Seputar rencana lokasi pembangunan pabrik baru, perdebatan sengit sedang berlangsung hangat antara perusahaan pengembang dan penduduk setempat.\". Kalimat ini menggunakan pola \"Kata Benda + をめぐって / をめぐる + Kata Benda (seputar / mengenai sengketa)\" (Isu yang Diperdebatkan Publik: 〜をめぐって (o megutte)) yang berfungsi untuk pola resmi yang menandakan topik yang menjadi pusat konflik, perdebatan sengit, sengketa perebutan, atau pertarungan opini publik antara dua pihak atau lebih ('seputar sengketa X')."
       },
       {
         "id": "q-ja-gram-37-bb-2",
@@ -17518,7 +17518,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dengan mempertimbangkan kegagalan tahun lalu dan masukan dari para pelanggan, kami telah meninjau ulang manual operasional secara mendasar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"首相をはじめとする政府要人たちが、国際環境サミットの会場に集結しました。\" berarti \"Para pejabat teras pemerintah mulai dari Perdana Menteri telah berkumpul di arena Konferensi Tingkat Tinggi Lingkungan Internasional.\"."
+        "explanation": "Kalimat \"首相をはじめとする政府要人たちが、国際環境サミットの会場に集結しました。\" (dibaca: Shushō o hajime to suru seifu yōjintachi ga, kokusai kankyō samitto no kaijō ni shūketsu shimashita.) berarti \"Para pejabat teras pemerintah mulai dari Perdana Menteri telah berkumpul di arena Konferensi Tingkat Tinggi Lingkungan Internasional.\". Kalimat ini menggunakan pola \"Kata Benda + をはじめ（として） (diawali contoh utama X, disusul lainnya) / を問わず (tanpa memandang/terlepas dari)\" (Inklusivitas & Representasi: 〜をはじめ (o hajime) & 〜を問わず (o towazu)) yang berfungsi untuk pola 〜をはじめ mengangkat contoh paling representatif yang memimpin kelompoknya. Pola 〜を問わず menegaskan bahwa suatu aturan atau partisipasi berlaku terbuka secara universal tanpa batasan usia, gender, atau waktu."
       },
       {
         "id": "q-ja-gram-38-pg-2",
@@ -17534,7 +17534,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Ditinjau dari sudut pandang wisatawan mancanegara, kepraktisan mesin penjual otomatis dan toserba di Jepang sungguh mengagumkan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"この市民ボランティア活動は、経験の有無や国籍を問わず広く一般から参加者を募集しています。\" berarti \"Kegiatan sukarelawan warga ini merekrut peserta secara luas dari masyarakat umum tanpa memandang ada tidaknya pengalaman maupun kewarganegaraan.\"."
+        "explanation": "Kalimat \"この市民ボランティア活動は、経験の有無や国籍を問わず広く一般から参加者を募集しています。\" (dibaca: Kono shimin borantia katsudō wa, keiken no umu ya kokuseki o towazu hiroku ippan kara sankasha o boshū shite imasu.) berarti \"Kegiatan sukarelawan warga ini merekrut peserta secara luas dari masyarakat umum tanpa memandang ada tidaknya pengalaman maupun kewarganegaraan.\". Kalimat ini menggunakan pola \"Kata Benda + をはじめ（として） (diawali contoh utama X, disusul lainnya) / を問わず (tanpa memandang/terlepas dari)\" (Inklusivitas & Representasi: 〜をはじめ (o hajime) & 〜を問わず (o towazu)) yang berfungsi untuk pola 〜をはじめ mengangkat contoh paling representatif yang memimpin kelompoknya. Pola 〜を問わず menegaskan bahwa suatu aturan atau partisipasi berlaku terbuka secara universal tanpa batasan usia, gender, atau waktu."
       },
       {
         "id": "q-ja-gram-38-pg-3",
@@ -17550,7 +17550,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Di rumah sakit gawat darurat, para dokter dan perawat berjuang menyelamatkan nyawa manusia tanpa mengenal siang maupun malam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"救急病院では、昼夜を問わず医師や看護師たちが人命救助に尽力しています。\" berarti \"Di rumah sakit gawat darurat, para dokter dan perawat berjuang menyelamatkan nyawa manusia tanpa mengenal siang maupun malam.\"."
+        "explanation": "Kalimat \"救急病院では、昼夜を問わず医師や看護師たちが人命救助に尽力しています。\" (dibaca: Kyūkyūbyōin dewa, chūya o towazu ishi ya kangoshitachi ga jinmeikyūjo ni jinryoku shite imasu.) berarti \"Di rumah sakit gawat darurat, para dokter dan perawat berjuang menyelamatkan nyawa manusia tanpa mengenal siang maupun malam.\". Kalimat ini menggunakan pola \"Kata Benda + をはじめ（として） (diawali contoh utama X, disusul lainnya) / を問わず (tanpa memandang/terlepas dari)\" (Inklusivitas & Representasi: 〜をはじめ (o hajime) & 〜を問わず (o towazu)) yang berfungsi untuk pola 〜をはじめ mengangkat contoh paling representatif yang memimpin kelompoknya. Pola 〜を問わず menegaskan bahwa suatu aturan atau partisipasi berlaku terbuka secara universal tanpa batasan usia, gender, atau waktu."
       },
       {
         "id": "q-ja-gram-38-pg-4",
@@ -17847,7 +17847,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Para pejabat teras pemerintah mulai dari Perdana Menteri telah berkumpul di arena Konferensi Tingkat Tinggi Lingkungan Internasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"首相をはじめとする政府要人たちが、国際環境サミットの会場に集結しました。\" berarti \"Para pejabat teras pemerintah mulai dari Perdana Menteri telah berkumpul di arena Konferensi Tingkat Tinggi Lingkungan Internasional.\"."
+        "explanation": "Kalimat \"首相をはじめとする政府要人たちが、国際環境サミットの会場に集結しました。\" (dibaca: Shushō o hajime to suru seifu yōjintachi ga, kokusai kankyō samitto no kaijō ni shūketsu shimashita.) berarti \"Para pejabat teras pemerintah mulai dari Perdana Menteri telah berkumpul di arena Konferensi Tingkat Tinggi Lingkungan Internasional.\". Kalimat ini menggunakan pola \"Kata Benda + をはじめ（として） (diawali contoh utama X, disusul lainnya) / を問わず (tanpa memandang/terlepas dari)\" (Inklusivitas & Representasi: 〜をはじめ (o hajime) & 〜を問わず (o towazu)) yang berfungsi untuk pola 〜をはじめ mengangkat contoh paling representatif yang memimpin kelompoknya. Pola 〜を問わず menegaskan bahwa suatu aturan atau partisipasi berlaku terbuka secara universal tanpa batasan usia, gender, atau waktu."
       },
       {
         "id": "q-ja-gram-38-bb-2",
@@ -17994,7 +17994,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Jika ditinjau dari keindahan desain proposal A pemenangnya, tetapi jika dinilai dari segi kepraktisan dan anggaran proposal B yang semestinya diadopsi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"大型の台風が接近しており、今夜遅くにかけて河川が氾濫するおそれがあります。\" berarti \"Topan skala besar sedang mendekat, dan dikhawatirkan ada risiko sungai meluap menjelang larut malam nanti.\"."
+        "explanation": "Kalimat \"大型の台風が接近しており、今夜遅くにかけて河川が氾濫するおそれがあります。\" (dibaca: Ōgata no taifū ga sekkin shite ori, kon'ya osoku ni kakete kasen ga hanran suru osore ga arimasu.) berarti \"Topan skala besar sedang mendekat, dan dikhawatirkan ada risiko sungai meluap menjelang larut malam nanti.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Kata Benda + の + おそれがある / Masu-stem + かねない (bisa berujung bahaya)\" (Kekhawatiran & Risiko Negatif: 〜おそれがある (osore ga aru) & 〜かねない (kane nai)) yang berfungsi untuk pola peringatan untuk mengantisipasi potensi timbulnya dampak negatif, bencana, atau kecelakaan fatal. 〜おそれがある adalah bahasa resmi berita peringatan bencana, sedangkan 〜かねない menyoroti potensi bahaya akibat perilaku ceroboh manusia."
       },
       {
         "id": "q-ja-gram-39-pg-2",
@@ -18010,7 +18010,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Jika kerja lembur berlebihan dan kurang tidur dibiarkan begitu saja, hal itu sangat mungkin memicu gangguan kesehatan yang serius."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"過度な過労と睡眠不足を放置すれば、深刻な体調不良を引き起こしかねません。\" berarti \"Jika kerja lembur berlebihan dan kurang tidur dibiarkan begitu saja, hal itu sangat mungkin memicu gangguan kesehatan yang serius.\"."
+        "explanation": "Kalimat \"過度な過労と睡眠不足を放置すれば、深刻な体調不良を引き起こしかねません。\" (dibaca: Kado na karō to suiminbusoku o hōchi sureba, shinkoku na taichōfuryō o hikiokoshikanemasen.) berarti \"Jika kerja lembur berlebihan dan kurang tidur dibiarkan begitu saja, hal itu sangat mungkin memicu gangguan kesehatan yang serius.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Kata Benda + の + おそれがある / Masu-stem + かねない (bisa berujung bahaya)\" (Kekhawatiran & Risiko Negatif: 〜おそれがある (osore ga aru) & 〜かねない (kane nai)) yang berfungsi untuk pola peringatan untuk mengantisipasi potensi timbulnya dampak negatif, bencana, atau kecelakaan fatal. 〜おそれがある adalah bahasa resmi berita peringatan bencana, sedangkan 〜かねない menyoroti potensi bahaya akibat perilaku ceroboh manusia."
       },
       {
         "id": "q-ja-gram-39-pg-3",
@@ -18026,7 +18026,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Karena cuaca buruk diperkirakan tak kunjung membaik, kegiatan mendaki gunung yang dinanti-nanti terpaksa harus dibatalkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"経営陣のずさんな情報管理が、企業の社会的信用を失墜させるおそれがある。\" berarti \"Manajemen informasi yang ceroboh dari jajaran direksi berisiko menjatuhkan kredibilitas sosial perusahaan.\"."
+        "explanation": "Kalimat \"経営陣のずさんな情報管理が、企業の社会的信用を失墜させるおそれがある。\" (dibaca: Keieijin no zusan na jōhōkanri ga, kigyō no shakai-teki shin'yō o shissui saseru osore ga aru.) berarti \"Manajemen informasi yang ceroboh dari jajaran direksi berisiko menjatuhkan kredibilitas sosial perusahaan.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Kata Benda + の + おそれがある / Masu-stem + かねない (bisa berujung bahaya)\" (Kekhawatiran & Risiko Negatif: 〜おそれがある (osore ga aru) & 〜かねない (kane nai)) yang berfungsi untuk pola peringatan untuk mengantisipasi potensi timbulnya dampak negatif, bencana, atau kecelakaan fatal. 〜おそれがある adalah bahasa resmi berita peringatan bencana, sedangkan 〜かねない menyoroti potensi bahaya akibat perilaku ceroboh manusia."
       },
       {
         "id": "q-ja-gram-39-pg-4",
@@ -18319,7 +18319,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Ditinjau dari sudut pandang wisatawan mancanegara, kepraktisan mesin penjual otomatis dan toserba di Jepang sungguh mengagumkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"大型の台風が接近しており、今夜遅くにかけて河川が氾濫するおそれがあります。\" berarti \"Topan skala besar sedang mendekat, dan dikhawatirkan ada risiko sungai meluap menjelang larut malam nanti.\"."
+        "explanation": "Kalimat \"大型の台風が接近しており、今夜遅くにかけて河川が氾濫するおそれがあります。\" (dibaca: Ōgata no taifū ga sekkin shite ori, kon'ya osoku ni kakete kasen ga hanran suru osore ga arimasu.) berarti \"Topan skala besar sedang mendekat, dan dikhawatirkan ada risiko sungai meluap menjelang larut malam nanti.\". Kalimat ini menggunakan pola \"Kata Kerja Kamus / Kata Benda + の + おそれがある / Masu-stem + かねない (bisa berujung bahaya)\" (Kekhawatiran & Risiko Negatif: 〜おそれがある (osore ga aru) & 〜かねない (kane nai)) yang berfungsi untuk pola peringatan untuk mengantisipasi potensi timbulnya dampak negatif, bencana, atau kecelakaan fatal. 〜おそれがある adalah bahasa resmi berita peringatan bencana, sedangkan 〜かねない menyoroti potensi bahaya akibat perilaku ceroboh manusia."
       },
       {
         "id": "q-ja-gram-39-bb-2",
@@ -18467,7 +18467,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Seputar krisis kekurangan tenaga kerja akibat penuaan populasi memang terdapat berbagai perdebatan, namun berlandaskan data statistik kita terpaksa harus mempertimbangkan secara komprehensif kebijakan imigrasi dan dorongan otomatisasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"少子高齢化に伴う労働力不足をめぐっては様々な議論があるが、統計データに基づいて移民政策や自動化の推進を総合的に検討せざるを得ない。\" berarti \"Seputar krisis kekurangan tenaga kerja akibat penuaan populasi memang terdapat berbagai perdebatan, namun berlandaskan data statistik kita terpaksa harus mempertimbangkan secara komprehensif kebijakan imigrasi dan dorongan otomatisasi.\"."
+        "explanation": "Kalimat \"少子高齢化に伴う労働力不足をめぐっては様々な議論があるが、統計データに基づいて移民政策や自動化の推進を総合的に検討せざるを得ない。\" (dibaca: Shōshikōreika ni tomonau rōdōryokubusoku o megutte wa samazama na giron ga aru ga, tōkei dēta ni motozuite iminseisaku ya jidōka no suishin o sōgōteki ni kentō sezaru o enai.) berarti \"Seputar krisis kekurangan tenaga kerja akibat penuaan populasi memang terdapat berbagai perdebatan, namun berlandaskan data statistik kita terpaksa harus mempertimbangkan secara komprehensif kebijakan imigrasi dan dorongan otomatisasi.\". Kalimat ini menggunakan pola \"論理的接続表現と論述スタイル (Integrasi Esai Ilmiah N2)\" (Simulasi Akademik & Esai Argumentatif N2 (Mastery Unit)) yang berfungsi untuk puncak pemantapan level N2: menguasai tata alur logika esai akademis, merangkai argumen pro-kontra dengan kepadatan gramatikal tinggi, dan teknik membedah wacana editorial panjang."
       },
       {
         "id": "q-ja-gram-40-pg-2",
@@ -18483,7 +18483,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Pemerintah mendorong energi terbarukan demi mewujudkan masyarakat bebas karbon, namun di sisi lain juga bersusah payah mengamankan pasokan listrik yang stabil."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"AIの導入は業務効率を飛躍的に高める一方で、人間の雇用を奪うおそれがあることも見過ごすべきではない。\" berarti \"Di satu sisi adopsi AI meningkatkan efisiensi operasional secara luar biasa, namun di sisi lain kekhawatiran bahwa hal itu dapat merenggut lapangan kerja manusia juga semestinya tidak diabaikan.\"."
+        "explanation": "Kalimat \"AIの導入は業務効率を飛躍的に高める一方で、人間の雇用を奪うおそれがあることも見過ごすべきではない。\" (dibaca: Ē-ai no dōnyū wa gyōmukōritsu o hiyakuteki ni takameru ippō de, ningen no koyō o ubau osore ga aru koto mo misugosu beki dewa nai.) berarti \"Di satu sisi adopsi AI meningkatkan efisiensi operasional secara luar biasa, namun di sisi lain kekhawatiran bahwa hal itu dapat merenggut lapangan kerja manusia juga semestinya tidak diabaikan.\". Kalimat ini menggunakan pola \"論理的接続表現と論述スタイル (Integrasi Esai Ilmiah N2)\" (Simulasi Akademik & Esai Argumentatif N2 (Mastery Unit)) yang berfungsi untuk puncak pemantapan level N2: menguasai tata alur logika esai akademis, merangkai argumen pro-kontra dengan kepadatan gramatikal tinggi, dan teknik membedah wacana editorial panjang."
       },
       {
         "id": "q-ja-gram-40-pg-3",
@@ -18499,7 +18499,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kerja jarak jauh telah mengurangi stres komuter secara drastis, namun di sisi lain juga menjadi pemicu mendalamnya rasa kesepian antarkaryawan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"過去の公害問題の教訓を踏まえて、環境負荷を最小限に抑えた持続可能な開発モデルを構築すべきである。\" berarti \"Dengan berpijak pada hikmah pelajaran masalah pencemaran di masa lalu, semestinya kita membangun model pembangunan berkelanjutan yang menekan beban lingkungan hingga batas minimal.\"."
+        "explanation": "Kalimat \"過去の公害問題の教訓を踏まえて、環境負荷を最小限に抑えた持続可能な開発モデルを構築すべきである。\" (dibaca: Kako no kōgai mondai no kyōkun o fumaete, kankyōfuka o saishingen ni osaeta jizokukanō na kaihatsu moderu o kōchiku subeki de aru.) berarti \"Dengan berpijak pada hikmah pelajaran masalah pencemaran di masa lalu, semestinya kita membangun model pembangunan berkelanjutan yang menekan beban lingkungan hingga batas minimal.\". Kalimat ini menggunakan pola \"論理的接続表現と論述スタイル (Integrasi Esai Ilmiah N2)\" (Simulasi Akademik & Esai Argumentatif N2 (Mastery Unit)) yang berfungsi untuk puncak pemantapan level N2: menguasai tata alur logika esai akademis, merangkai argumen pro-kontra dengan kepadatan gramatikal tinggi, dan teknik membedah wacana editorial panjang."
       },
       {
         "id": "q-ja-gram-40-pg-4",
@@ -18802,7 +18802,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Setelah disodori bukti yang sebegitu telak dan jelas, saya terpaksa harus mengakui kesalahan diri saya sendiri."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"少子高齢化に伴う労働力不足をめぐっては様々な議論があるが、統計データに基づいて移民政策や自動化の推進を総合的に検討せざるを得ない。\" berarti \"Seputar krisis kekurangan tenaga kerja akibat penuaan populasi memang terdapat berbagai perdebatan, namun berlandaskan data statistik kita terpaksa harus mempertimbangkan secara komprehensif kebijakan imigrasi dan dorongan otomatisasi.\"."
+        "explanation": "Kalimat \"少子高齢化に伴う労働力不足をめぐっては様々な議論があるが、統計データに基づいて移民政策や自動化の推進を総合的に検討せざるを得ない。\" (dibaca: Shōshikōreika ni tomonau rōdōryokubusoku o megutte wa samazama na giron ga aru ga, tōkei dēta ni motozuite iminseisaku ya jidōka no suishin o sōgōteki ni kentō sezaru o enai.) berarti \"Seputar krisis kekurangan tenaga kerja akibat penuaan populasi memang terdapat berbagai perdebatan, namun berlandaskan data statistik kita terpaksa harus mempertimbangkan secara komprehensif kebijakan imigrasi dan dorongan otomatisasi.\". Kalimat ini menggunakan pola \"論理的接続表現と論述スタイル (Integrasi Esai Ilmiah N2)\" (Simulasi Akademik & Esai Argumentatif N2 (Mastery Unit)) yang berfungsi untuk puncak pemantapan level N2: menguasai tata alur logika esai akademis, merangkai argumen pro-kontra dengan kepadatan gramatikal tinggi, dan teknik membedah wacana editorial panjang."
       },
       {
         "id": "q-ja-gram-40-bb-2",
@@ -18948,7 +18948,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kalau anak sekolah dasar mungkin masih bisa dimaklumi, namun orang dewasa matang berteriak gaduh di ruang publik adalah hal yang teramat sangat memalukan dipandang mata."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。\" berarti \"Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.\"."
+        "explanation": "Kalimat \"研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。\" (dibaca: Kenkyū dēta o kaizan shite ronbun o happyō suru nado, kenkyūsha to shite musekinin kiwamarinai kōi de ari, tōtei yōnin dekinai.) berarti \"Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.\". Kalimat ini menggunakan pola \"Kata Sifat -na (Stem) / Kata Benda + 極まりない / 極まる (teramat sangat / tiada tara)\" (Derajat Ekstrem Bahasa Tulis: 〜極まりない (kiwamarinai) & 〜極まる (kiwamaru)) yang berfungsi untuk pola register tulis formal tingkat tertinggi (硬い文語) untuk mengekspresikan derajat yang mencapai titik kulminasi ekstrem, baik dalam mengkritik kepicikan perilaku manusia maupun mengagumi sesuatu."
       },
       {
         "id": "q-ja-gram-41-pg-2",
@@ -18964,7 +18964,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"安全点検を怠ったまま老朽化したジェットコースターを運行させ続けるとは、危険極まる判断だ。\" berarti \"Terus mengoperasikan roller coaster tua tanpa melakukan inspeksi keselamatan adalah keputusan yang teramat sangat berbahaya.\"."
+        "explanation": "Kalimat \"安全点検を怠ったまま老朽化したジェットコースターを運行させ続けるとは、危険極まる判断だ。\" (dibaca: Anzen tenken o okotta mama rōkyūka shita jettokōsutā o unkō sase tsuzukeru to wa, kiken kiwamaru handan da.) berarti \"Terus mengoperasikan roller coaster tua tanpa melakukan inspeksi keselamatan adalah keputusan yang teramat sangat berbahaya.\". Kalimat ini menggunakan pola \"Kata Sifat -na (Stem) / Kata Benda + 極まりない / 極まる (teramat sangat / tiada tara)\" (Derajat Ekstrem Bahasa Tulis: 〜極まりない (kiwamarinai) & 〜極まる (kiwamaru)) yang berfungsi untuk pola register tulis formal tingkat tertinggi (硬い文語) untuk mengekspresikan derajat yang mencapai titik kulminasi ekstrem, baik dalam mengkritik kepicikan perilaku manusia maupun mengagumi sesuatu."
       },
       {
         "id": "q-ja-gram-41-pg-3",
@@ -18980,7 +18980,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akar mendasar bagaimana manusia mampu menguasai bahasa dan membangun peradaban tinggi tiada lain adalah semata-mata karena telah mengembangkan kemampuan berempati dengan sesamanya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"長年の悲願であった国家プロジェクトが頓挫してしまい、関係者一同、痛恨極まりない思いを抱いている。\" berarti \"Proyek nasional yang menjadi harapan besar bertahun-tahun terpaksa kandas di tengah jalan, seluruh pihak terkait memendam rasa penyesalan mendalam yang tiada taranya.\"."
+        "explanation": "Kalimat \"長年の悲願であった国家プロジェクトが頓挫してしまい、関係者一同、痛恨極まりない思いを抱いている。\" (dibaca: Naganen no higan de atta kokka purojekuto ga tonza shite shimai, kankeisha ichidō, tsūkon kiwamarinai omoi o idaite iru.) berarti \"Proyek nasional yang menjadi harapan besar bertahun-tahun terpaksa kandas di tengah jalan, seluruh pihak terkait memendam rasa penyesalan mendalam yang tiada taranya.\". Kalimat ini menggunakan pola \"Kata Sifat -na (Stem) / Kata Benda + 極まりない / 極まる (teramat sangat / tiada tara)\" (Derajat Ekstrem Bahasa Tulis: 〜極まりない (kiwamarinai) & 〜極まる (kiwamaru)) yang berfungsi untuk pola register tulis formal tingkat tertinggi (硬い文語) untuk mengekspresikan derajat yang mencapai titik kulminasi ekstrem, baik dalam mengkritik kepicikan perilaku manusia maupun mengagumi sesuatu."
       },
       {
         "id": "q-ja-gram-41-pg-4",
@@ -19281,7 +19281,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。\" berarti \"Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.\"."
+        "explanation": "Kalimat \"研究データを改ざんして論文を発表するなど、研究者として無責任極まりない行為であり、到底容認できない。\" (dibaca: Kenkyū dēta o kaizan shite ronbun o happyō suru nado, kenkyūsha to shite musekinin kiwamarinai kōi de ari, tōtei yōnin dekinai.) berarti \"Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi.\". Kalimat ini menggunakan pola \"Kata Sifat -na (Stem) / Kata Benda + 極まりない / 極まる (teramat sangat / tiada tara)\" (Derajat Ekstrem Bahasa Tulis: 〜極まりない (kiwamarinai) & 〜極まる (kiwamaru)) yang berfungsi untuk pola register tulis formal tingkat tertinggi (硬い文語) untuk mengekspresikan derajat yang mencapai titik kulminasi ekstrem, baik dalam mengkritik kepicikan perilaku manusia maupun mengagumi sesuatu."
       },
       {
         "id": "q-ja-gram-41-bb-2",
@@ -19429,7 +19429,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Mekanisme bagaimana kurang tidur memicu penurunan fungsi kognitif otak dan kemerosotan imunitas tubuh telah ditetapkan sebagai konsensus baku dalam ilmu kedokteran modern."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。\" berarti \"Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.\"."
+        "explanation": "Kalimat \"世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。\" (dibaca: Sekai-teki ninki bando no rainichi tsuā wa, raigetsu itsuka no Tōkyō Dōmu kōen o kawakiri ni zenkoku rokudai dōmu de kaisai saremasu.) berarti \"Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.\". Kalimat ini menggunakan pola \"Kata Benda + を皮切りに（して） / を皮切りとして (diawali dengan X, disusul peristiwa berikutnya)\" (Titik Tolak Rangkaian Peristiwa: 〜を皮切りに (o kawakiri ni)) yang berfungsi untuk menyatakan bahwa suatu peristiwa atau pertunjukan pertama menjadi titik tolak pemicu yang segera disusul oleh serangkaian peristiwa berskala serupa yang terus berkembang ke berbagai penjuru."
       },
       {
         "id": "q-ja-gram-42-pg-2",
@@ -19445,7 +19445,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"今年初頭の法改正を皮切りにして、各地方自治体でデジタル化を推進する条例が次々と制定された。\" berarti \"Diawali dengan amandemen undang-undang pada awal tahun ini, peraturan daerah yang mendorong digitalisasi disahkan berturut-turut di setiap pemerintah daerah.\"."
+        "explanation": "Kalimat \"今年初頭の法改正を皮切りにして、各地方自治体でデジタル化を推進する条例が次々と制定された。\" (dibaca: Kotoshi shotō no hōkaisei o kawakiri ni shite, kaku chihōjichitai de dejitaruka o suishin suru jōrei ga tsugitsugi to seitei sareta.) berarti \"Diawali dengan amandemen undang-undang pada awal tahun ini, peraturan daerah yang mendorong digitalisasi disahkan berturut-turut di setiap pemerintah daerah.\". Kalimat ini menggunakan pola \"Kata Benda + を皮切りに（して） / を皮切りとして (diawali dengan X, disusul peristiwa berikutnya)\" (Titik Tolak Rangkaian Peristiwa: 〜を皮切りに (o kawakiri ni)) yang berfungsi untuk menyatakan bahwa suatu peristiwa atau pertunjukan pertama menjadi titik tolak pemicu yang segera disusul oleh serangkaian peristiwa berskala serupa yang terus berkembang ke berbagai penjuru."
       },
       {
         "id": "q-ja-gram-42-pg-3",
@@ -19461,7 +19461,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Diawali dengan pembukaan toko utama, perusahaan tersebut memperkuat manuver ekspansi gerai secara agresif ke seluruh kawasan pasar Asia."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"旗艦店のオープンを皮切りとして、同社はアジア市場全域への本格的な出店攻勢を強めている。\" berarti \"Diawali dengan pembukaan toko utama, perusahaan tersebut memperkuat manuver ekspansi gerai secara agresif ke seluruh kawasan pasar Asia.\"."
+        "explanation": "Kalimat \"旗艦店のオープンを皮切りとして、同社はアジア市場全域への本格的な出店攻勢を強めている。\" (dibaca: Kikanten no ōpun o kawakiri to shite, dōsha wa Ajia shijō zen'iki e no honkakuteki na shutten kōsei o tsuyomete iru.) berarti \"Diawali dengan pembukaan toko utama, perusahaan tersebut memperkuat manuver ekspansi gerai secara agresif ke seluruh kawasan pasar Asia.\". Kalimat ini menggunakan pola \"Kata Benda + を皮切りに（して） / を皮切りとして (diawali dengan X, disusul peristiwa berikutnya)\" (Titik Tolak Rangkaian Peristiwa: 〜を皮切りに (o kawakiri ni)) yang berfungsi untuk menyatakan bahwa suatu peristiwa atau pertunjukan pertama menjadi titik tolak pemicu yang segera disusul oleh serangkaian peristiwa berskala serupa yang terus berkembang ke berbagai penjuru."
       },
       {
         "id": "q-ja-gram-42-pg-4",
@@ -19762,7 +19762,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。\" berarti \"Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.\"."
+        "explanation": "Kalimat \"世界的人気バンドの来日ツアーは、来月5日の東京ドーム公演を皮切りに全国6大ドームで開催されます。\" (dibaca: Sekai-teki ninki bando no rainichi tsuā wa, raigetsu itsuka no Tōkyō Dōmu kōen o kawakiri ni zenkoku rokudai dōmu de kaisai saremasu.) berarti \"Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan.\". Kalimat ini menggunakan pola \"Kata Benda + を皮切りに（して） / を皮切りとして (diawali dengan X, disusul peristiwa berikutnya)\" (Titik Tolak Rangkaian Peristiwa: 〜を皮切りに (o kawakiri ni)) yang berfungsi untuk menyatakan bahwa suatu peristiwa atau pertunjukan pertama menjadi titik tolak pemicu yang segera disusul oleh serangkaian peristiwa berskala serupa yang terus berkembang ke berbagai penjuru."
       },
       {
         "id": "q-ja-gram-42-bb-2",
@@ -19910,7 +19910,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kekurangan pasokan semikonduktor yang berlarut-larut dan terputusnya rantai pasok telah memaksa perusahaan otomotif memangkas volume produksi secara drastis."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。\" berarti \"Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.\"."
+        "explanation": "Kalimat \"机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。\" (dibaca: Kijō no kūron dewa naku, hisaichi no kibishii jitsujō ni sokushite jinsoku na fukkō shiensaku o sakutei subeki de aru.) berarti \"Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.\". Kalimat ini menggunakan pola \"Kata Benda (fakta/peraturan/kondisi riil) + に即して / に即した + Kata Benda\" (Kesesuaian Ketat terhadap Kaidah: 〜に即して (ni sokushite)) yang berfungsi untuk bertindak atau mengambil keputusan dengan menyesuaikan diri secara ketat dan tepat pada fakta kenyataan yang ada di lapangan, norma etika yang berlaku, atau kaidah hukum ('selaras dengan / berpijak persis pada')."
       },
       {
         "id": "q-ja-gram-43-pg-2",
@@ -19926,7 +19926,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Misi sejati jurnalisme adalah menyampaikan kebenaran yang selaras ketat dengan fakta objektif, tanpa tunduk pada tekanan politik mana pun."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ジャーナリズムの使命は、いかなる政治的圧力にも屈せず、客観的事実に即して真実を伝えることにある。\" berarti \"Misi sejati jurnalisme adalah menyampaikan kebenaran yang selaras ketat dengan fakta objektif, tanpa tunduk pada tekanan politik mana pun.\"."
+        "explanation": "Kalimat \"ジャーナリズムの使命は、いかなる政治的圧力にも屈せず、客観的事実に即して真実を伝えることにある。\" (dibaca: Jānarizumu no shimei wa, ikanaru seiji-teki atsuryoku ni mo kussezu, kakkanteki jijitsu ni sokushite shinjitsu o tsutaeru koto ni aru.) berarti \"Misi sejati jurnalisme adalah menyampaikan kebenaran yang selaras ketat dengan fakta objektif, tanpa tunduk pada tekanan politik mana pun.\". Kalimat ini menggunakan pola \"Kata Benda (fakta/peraturan/kondisi riil) + に即して / に即した + Kata Benda\" (Kesesuaian Ketat terhadap Kaidah: 〜に即して (ni sokushite)) yang berfungsi untuk bertindak atau mengambil keputusan dengan menyesuaikan diri secara ketat dan tepat pada fakta kenyataan yang ada di lapangan, norma etika yang berlaku, atau kaidah hukum ('selaras dengan / berpijak persis pada')."
       },
       {
         "id": "q-ja-gram-43-pg-3",
@@ -19942,7 +19942,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Hanya terpaku pada efisiensi cara sampai melupakan tujuan mulia yang sejati, tak dapat disangkal adalah puncak kekeliruan logika yang terbalik sama sekali."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"目まぐるしく変化する国際情勢に即した柔軟な外交戦略が、今こそ強く求められている。\" berarti \"Strategi diplomasi yang lentur dan selaras dengan situasi internasional yang berubah cepat, justru saat inilah amat sangat dibutuhkan.\"."
+        "explanation": "Kalimat \"目まぐるしく変化する国際情勢に即した柔軟な外交戦略が、今こそ強く求められている。\" (dibaca: Memagurushiku henka suru kokusai jōsei ni sokushita jūnan na gaikō senryaku ga, ima koso tsuyoku motomerarete iru.) berarti \"Strategi diplomasi yang lentur dan selaras dengan situasi internasional yang berubah cepat, justru saat inilah amat sangat dibutuhkan.\". Kalimat ini menggunakan pola \"Kata Benda (fakta/peraturan/kondisi riil) + に即して / に即した + Kata Benda\" (Kesesuaian Ketat terhadap Kaidah: 〜に即して (ni sokushite)) yang berfungsi untuk bertindak atau mengambil keputusan dengan menyesuaikan diri secara ketat dan tepat pada fakta kenyataan yang ada di lapangan, norma etika yang berlaku, atau kaidah hukum ('selaras dengan / berpijak persis pada')."
       },
       {
         "id": "q-ja-gram-43-pg-4",
@@ -20233,7 +20233,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。\" berarti \"Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.\"."
+        "explanation": "Kalimat \"机上の空論ではなく、被災地の厳しい実情に即した迅速な復興支援策を策定すべきである。\" (dibaca: Kijō no kūron dewa naku, hisaichi no kibishii jitsujō ni sokushite jinsoku na fukkō shiensaku o sakutei subeki de aru.) berarti \"Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan.\". Kalimat ini menggunakan pola \"Kata Benda (fakta/peraturan/kondisi riil) + に即して / に即した + Kata Benda\" (Kesesuaian Ketat terhadap Kaidah: 〜に即して (ni sokushite)) yang berfungsi untuk bertindak atau mengambil keputusan dengan menyesuaikan diri secara ketat dan tepat pada fakta kenyataan yang ada di lapangan, norma etika yang berlaku, atau kaidah hukum ('selaras dengan / berpijak persis pada')."
       },
       {
         "id": "q-ja-gram-43-bb-2",
@@ -20378,7 +20378,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。\" berarti \"Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.\"."
+        "explanation": "Kalimat \"台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。\" (dibaca: Taifū no sekkin ni tomonau kōtsūmō no konran to okyakusama no anzen o kangamite, honjitsu no kōen wa yamu o ezu chūshi to sasete itadakimasu.) berarti \"Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.\". Kalimat ini menggunakan pola \"Kata Benda (situasi/konteks/keadaan gawat) + を鑑みて (dengan menimbang/bercermin pada)\" (Mempertimbangkan Situasi Luas: 〜を鑑みて (o kangamite)) yang berfungsi untuk pola register tulis diplomatik dan manajerial tingkat tinggi. Berarti 'berkaca pada keadaan tersebut, menimbang segala konsekuensinya secara mendalam, lalu menetapkan langkah terbaik'."
       },
       {
         "id": "q-ja-gram-44-pg-2",
@@ -20394,7 +20394,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"長引く感染症の拡大状況を鑑み、今年度の社員研修は全てオンライン形式で実施することにいたしました。\" berarti \"Dengan menimbang situasi penyebaran penyakit menular yang berkepanjangan, seluruh pelatihan karyawan tahun fiskal ini diputuskan diselenggarakan secara daring.\"."
+        "explanation": "Kalimat \"長引く感染症の拡大状況を鑑み、今年度の社員研修は全てオンライン形式で実施することにいたしました。\" (dibaca: Nagabiku kansenshō no kakudai jōkyō o kangami, konnendo no shain kenshū wa subete onrain keishiki de jisshi suru koto ni itashimashita.) berarti \"Dengan menimbang situasi penyebaran penyakit menular yang berkepanjangan, seluruh pelatihan karyawan tahun fiskal ini diputuskan diselenggarakan secara daring.\". Kalimat ini menggunakan pola \"Kata Benda (situasi/konteks/keadaan gawat) + を鑑みて (dengan menimbang/bercermin pada)\" (Mempertimbangkan Situasi Luas: 〜を鑑みて (o kangamite)) yang berfungsi untuk pola register tulis diplomatik dan manajerial tingkat tinggi. Berarti 'berkaca pada keadaan tersebut, menimbang segala konsekuensinya secara mendalam, lalu menetapkan langkah terbaik'."
       },
       {
         "id": "q-ja-gram-44-pg-3",
@@ -20410,7 +20410,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Telah menuntaskan jalan penjelajahan ilmu yang panjang dan mencapai puncak tertinggi taraf keilmuan N1, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga masa depan para pembelajar sekalian senantiasa gilang-gemilang bertabur cahaya keemasan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"被告人の反省の態度とこれまでの社会的貢献を鑑み、裁判長は執行猶予付きの判決を言い渡した。\" berarti \"Menimbang sikap penyesalan terdakwa dan kontribusi sosialnya selama ini, Ketua Majelis Hakim menjatuhkan vonis dengan masa percobaan.\"."
+        "explanation": "Kalimat \"被告人の反省の態度とこれまでの社会的貢献を鑑み、裁判長は執行猶予付きの判決を言い渡した。\" (dibaca: Hikokunin no hansei no taido to kore made no shakai-teki kōken o kangami, saibanchō wa shikkōyūyo-tsuki no hanketsu o iiwatashita.) berarti \"Menimbang sikap penyesalan terdakwa dan kontribusi sosialnya selama ini, Ketua Majelis Hakim menjatuhkan vonis dengan masa percobaan.\". Kalimat ini menggunakan pola \"Kata Benda (situasi/konteks/keadaan gawat) + を鑑みて (dengan menimbang/bercermin pada)\" (Mempertimbangkan Situasi Luas: 〜を鑑みて (o kangamite)) yang berfungsi untuk pola register tulis diplomatik dan manajerial tingkat tinggi. Berarti 'berkaca pada keadaan tersebut, menimbang segala konsekuensinya secara mendalam, lalu menetapkan langkah terbaik'."
       },
       {
         "id": "q-ja-gram-44-pg-4",
@@ -20705,7 +20705,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。\" berarti \"Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.\"."
+        "explanation": "Kalimat \"台風の接近に伴う交通網の混乱とお客様の安全を鑑みて、本日の公演はやむを得ず中止とさせていただきます。\" (dibaca: Taifū no sekkin ni tomonau kōtsūmō no konran to okyakusama no anzen o kangamite, honjitsu no kōen wa yamu o ezu chūshi to sasete itadakimasu.) berarti \"Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan.\". Kalimat ini menggunakan pola \"Kata Benda (situasi/konteks/keadaan gawat) + を鑑みて (dengan menimbang/bercermin pada)\" (Mempertimbangkan Situasi Luas: 〜を鑑みて (o kangamite)) yang berfungsi untuk pola register tulis diplomatik dan manajerial tingkat tinggi. Berarti 'berkaca pada keadaan tersebut, menimbang segala konsekuensinya secara mendalam, lalu menetapkan langkah terbaik'."
       },
       {
         "id": "q-ja-gram-44-bb-2",
@@ -20852,7 +20852,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dengan berpijak pada pelajaran masa lalu dan berlandaskan analisis data dari berbagai sudut pandang, menyajikan kerangka teori baru tiada lain dan tak bukan adalah sumbangsih nyata bagi perkembangan akademis di masa depan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。\" berarti \"Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.\"."
+        "explanation": "Kalimat \"母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。\" (dibaca: Bokō o sudachi shakai e to habataku wakamonotachi no zento ni, sachi ōkaran koto o inotte yamimasen.) berarti \"Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.\". Kalimat ini menggunakan pola \"Bentuk Te + やまない (tiada henti-hentinya mendoakan/berharap) / Kata Benda + を禁じ得ない (tak sanggup membendung rasa)\" (Perasaan Emosional Mendalam: 〜てやまない (te yamanai) & 〜を禁じ得ない (o kinji enai)) yang berfungsi untuk mengekspresikan gelombang emosi batin yang teramat dahsyat. 〜てやまない menunjukkan doa atau harapan abadi dari lubuk hati terdalam, sedangkan 〜を禁じ得ない melukiskan perasaan murka, simpati, atau keterkejutan yang spontan meluap tak terbendung."
       },
       {
         "id": "q-ja-gram-45-pg-2",
@@ -20868,7 +20868,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tindakan seperti memanipulasi data riset lalu mempublikasikannya dalam makalah adalah perbuatan yang teramat sangat tidak bertanggung jawab bagi seorang peneliti, dan sama sekali tidak dapat ditoleransi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"罪のない一般市民が無差別に犠牲となった惨状を目の当たりにし、強い憤りを禁じ得ない。\" berarti \"Menyaksikan dengan mata kepala sendiri kebiadaban di mana warga sipil tak berdosa menjadi korban tanpa pandang bulu, saya tak kuasa membendung amarah yang mendidih dalam dada.\"."
+        "explanation": "Kalimat \"罪のない一般市民が無差別に犠牲となった惨状を目の当たりにし、強い憤りを禁じ得ない。\" (dibaca: Tsumi no nai ippan shimin ga musabetsu ni gisei to natta sanjō o me no atari ni shi, tsuyoi ikidōri o kinji enai.) berarti \"Menyaksikan dengan mata kepala sendiri kebiadaban di mana warga sipil tak berdosa menjadi korban tanpa pandang bulu, saya tak kuasa membendung amarah yang mendidih dalam dada.\". Kalimat ini menggunakan pola \"Bentuk Te + やまない (tiada henti-hentinya mendoakan/berharap) / Kata Benda + を禁じ得ない (tak sanggup membendung rasa)\" (Perasaan Emosional Mendalam: 〜てやまない (te yamanai) & 〜を禁じ得ない (o kinji enai)) yang berfungsi untuk mengekspresikan gelombang emosi batin yang teramat dahsyat. 〜てやまない menunjukkan doa atau harapan abadi dari lubuk hati terdalam, sedangkan 〜を禁じ得ない melukiskan perasaan murka, simpati, atau keterkejutan yang spontan meluap tak terbendung."
       },
       {
         "id": "q-ja-gram-45-pg-3",
@@ -20884,7 +20884,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Proyek nasional yang menjadi harapan besar bertahun-tahun terpaksa kandas di tengah jalan, seluruh pihak terkait memendam rasa penyesalan mendalam yang tiada taranya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"不屈の精神で難病を克服し金メダルを獲得した青年の雄姿に、深い感銘を禁じ得なかった。\" berarti \"Melihat sosok perkasa pemuda yang menaklukkan penyakit langka dengan semangat pantang menyerah dan meraih medali emas, kami tak kuasa membendung rasa haru dan takjub yang mendalam.\"."
+        "explanation": "Kalimat \"不屈の精神で難病を克服し金メダルを獲得した青年の雄姿に、深い感銘を禁じ得なかった。\" (dibaca: Fukutsu no seishin de nanbyō o kokufuku shi kinmedaru o kakutoku shita seinen no yūshi ni, fukai kanmei o kinji enakatta.) berarti \"Melihat sosok perkasa pemuda yang menaklukkan penyakit langka dengan semangat pantang menyerah dan meraih medali emas, kami tak kuasa membendung rasa haru dan takjub yang mendalam.\". Kalimat ini menggunakan pola \"Bentuk Te + やまない (tiada henti-hentinya mendoakan/berharap) / Kata Benda + を禁じ得ない (tak sanggup membendung rasa)\" (Perasaan Emosional Mendalam: 〜てやまない (te yamanai) & 〜を禁じ得ない (o kinji enai)) yang berfungsi untuk mengekspresikan gelombang emosi batin yang teramat dahsyat. 〜てやまない menunjukkan doa atau harapan abadi dari lubuk hati terdalam, sedangkan 〜を禁じ得ない melukiskan perasaan murka, simpati, atau keterkejutan yang spontan meluap tak terbendung."
       },
       {
         "id": "q-ja-gram-45-pg-4",
@@ -21189,7 +21189,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。\" berarti \"Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.\"."
+        "explanation": "Kalimat \"母校を巣立ち社会へと羽ばたく若者たちの前途に、幸多からんことを祈ってやみません。\" (dibaca: Bokō o sudachi shakai e to habataku wakamonotachi no zento ni, sachi ōkaran koto o inotte yamimasen.) berarti \"Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat.\". Kalimat ini menggunakan pola \"Bentuk Te + やまない (tiada henti-hentinya mendoakan/berharap) / Kata Benda + を禁じ得ない (tak sanggup membendung rasa)\" (Perasaan Emosional Mendalam: 〜てやまない (te yamanai) & 〜を禁じ得ない (o kinji enai)) yang berfungsi untuk mengekspresikan gelombang emosi batin yang teramat dahsyat. 〜てやまない menunjukkan doa atau harapan abadi dari lubuk hati terdalam, sedangkan 〜を禁じ得ない melukiskan perasaan murka, simpati, atau keterkejutan yang spontan meluap tak terbendung."
       },
       {
         "id": "q-ja-gram-45-bb-2",
@@ -21335,7 +21335,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Terus mengoperasikan roller coaster tua tanpa melakukan inspeksi keselamatan adalah keputusan yang teramat sangat berbahaya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。\" berarti \"Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.\"."
+        "explanation": "Kalimat \"事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。\" (dibaca: Jiko no shōgeki de ashi o kossetsu shite shimai, hashiru koto wa oroka, hitori de jiritsu shite tachiagaru koto sae dekimasen.) berarti \"Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.\". Kalimat ini menggunakan pola \"A はおろか B も / さえ...ない (Jangankan A, B yang lebih sepele saja pun tidak) / A ならいざ知らず B は...\" (Mengesampingkan yang Ekstrem: 〜はおろか (wa oroka) & 〜ならいざ知らず (nara iza shirazu)) yang berfungsi untuk menyatakan perbandingan yang menegaskan hal mendasar. 〜はおろか berarti jangankan hal besar A yang sudah sewajarnya demikian, hal remeh B saja bahkan mustahil. 〜ならいざ知らず berarti kalau situasi ekstrem A mungkin masih dimaklumi, tapi situasi B sama sekali tak termaafkan."
       },
       {
         "id": "q-ja-gram-46-pg-2",
@@ -21351,7 +21351,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"小学生ならいざ知らず、いい大人が公共の場で大声で騒ぐなど、見苦しいこと極まりない。\" berarti \"Kalau anak sekolah dasar mungkin masih bisa dimaklumi, namun orang dewasa matang berteriak gaduh di ruang publik adalah hal yang teramat sangat memalukan dipandang mata.\"."
+        "explanation": "Kalimat \"小学生ならいざ知らず、いい大人が公共の場で大声で騒ぐなど、見苦しいこと極まりない。\" (dibaca: Shōgakkōsei nara iza shirazu, ii otona ga kōkyō no ba de ōgoe de sawagu nado, migigurushii koto kiwamarinai.) berarti \"Kalau anak sekolah dasar mungkin masih bisa dimaklumi, namun orang dewasa matang berteriak gaduh di ruang publik adalah hal yang teramat sangat memalukan dipandang mata.\". Kalimat ini menggunakan pola \"A はおろか B も / さえ...ない (Jangankan A, B yang lebih sepele saja pun tidak) / A ならいざ知らず B は...\" (Mengesampingkan yang Ekstrem: 〜はおろか (wa oroka) & 〜ならいざ知らず (nara iza shirazu)) yang berfungsi untuk menyatakan perbandingan yang menegaskan hal mendasar. 〜はおろか berarti jangankan hal besar A yang sudah sewajarnya demikian, hal remeh B saja bahkan mustahil. 〜ならいざ知らず berarti kalau situasi ekstrem A mungkin masih dimaklumi, tapi situasi B sama sekali tak termaafkan."
       },
       {
         "id": "q-ja-gram-46-pg-3",
@@ -21367,7 +21367,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Terhantam dampak resesi berkepanjangan, jangankan uang bonus tahunan, gaji pokok bulanan saja bahkan sampai tertunggak pembayarannya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"長引く不況のあおりを受け、ボーナスはおろか毎月の基本給さえ滞納されている始末だ。\" berarti \"Terhantam dampak resesi berkepanjangan, jangankan uang bonus tahunan, gaji pokok bulanan saja bahkan sampai tertunggak pembayarannya.\"."
+        "explanation": "Kalimat \"長引く不況のあおりを受け、ボーナスはおろか毎月の基本給さえ滞納されている始末だ。\" (dibaca: Nagabiku fukyō no aori o uke, bōnasu wa oroka maitsuki no kihonkyū sae tainō sarete iru shimatsu da.) berarti \"Terhantam dampak resesi berkepanjangan, jangankan uang bonus tahunan, gaji pokok bulanan saja bahkan sampai tertunggak pembayarannya.\". Kalimat ini menggunakan pola \"A はおろか B も / さえ...ない (Jangankan A, B yang lebih sepele saja pun tidak) / A ならいざ知らず B は...\" (Mengesampingkan yang Ekstrem: 〜はおろか (wa oroka) & 〜ならいざ知らず (nara iza shirazu)) yang berfungsi untuk menyatakan perbandingan yang menegaskan hal mendasar. 〜はおろか berarti jangankan hal besar A yang sudah sewajarnya demikian, hal remeh B saja bahkan mustahil. 〜ならいざ知らず berarti kalau situasi ekstrem A mungkin masih dimaklumi, tapi situasi B sama sekali tak termaafkan."
       },
       {
         "id": "q-ja-gram-46-pg-4",
@@ -21666,7 +21666,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。\" berarti \"Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.\"."
+        "explanation": "Kalimat \"事故の衝撃で足を骨折してしまい、走ることはおろか、一人で自立して立ち上がることさえできません。\" (dibaca: Jiko no shōgeki de ashi o kossetsu shite shimai, hashiru koto wa oroka, hitori de jiritsu shite tachiagaru koto sae dekimasen.) berarti \"Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya.\". Kalimat ini menggunakan pola \"A はおろか B も / さえ...ない (Jangankan A, B yang lebih sepele saja pun tidak) / A ならいざ知らず B は...\" (Mengesampingkan yang Ekstrem: 〜はおろか (wa oroka) & 〜ならいざ知らず (nara iza shirazu)) yang berfungsi untuk menyatakan perbandingan yang menegaskan hal mendasar. 〜はおろか berarti jangankan hal besar A yang sudah sewajarnya demikian, hal remeh B saja bahkan mustahil. 〜ならいざ知らず berarti kalau situasi ekstrem A mungkin masih dimaklumi, tapi situasi B sama sekali tak termaafkan."
       },
       {
         "id": "q-ja-gram-46-bb-2",
@@ -21813,7 +21813,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Diawali dengan amandemen undang-undang pada awal tahun ini, peraturan daerah yang mendorong digitalisasi disahkan berturut-turut di setiap pemerintah daerah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。\" berarti \"Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.\"."
+        "explanation": "Kalimat \"彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。\" (dibaca: Kare ga kazukazu no gyakkyō o norikoete igyō o tassei dekita no wa, futōfukutsu no shinnen o mochitsuzuketa kara ni hokanaranai.) berarti \"Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + にほかならない (tak lain dan tak bukan adalah) / とされている (secara luas diyakini/ditetapkan)\" (Kalimat Formal Akademis: 〜にほかならない (ni hokanaranai) & 〜とされている) yang berfungsi untuk pola retorika puncak penulisan ilmiah akademis dan tesis doktoral di Jepang. 〜にほかならない digunakan untuk menarik kesimpulan kausalitas mutlak tanpa keraguan, sedangkan 〜とされている menjaga objektivitas wacana berbasis konsensus ilmiah."
       },
       {
         "id": "q-ja-gram-47-pg-2",
@@ -21829,7 +21829,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Mekanisme bagaimana kurang tidur memicu penurunan fungsi kognitif otak dan kemerosotan imunitas tubuh telah ditetapkan sebagai konsensus baku dalam ilmu kedokteran modern."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"睡眠不足が脳の認知機能低下や免疫力の減退を招くメカニズムは、現代医学において既に定説とされている。\" berarti \"Mekanisme bagaimana kurang tidur memicu penurunan fungsi kognitif otak dan kemerosotan imunitas tubuh telah ditetapkan sebagai konsensus baku dalam ilmu kedokteran modern.\"."
+        "explanation": "Kalimat \"睡眠不足が脳の認知機能低下や免疫力の減退を招くメカニズムは、現代医学において既に定説とされている。\" (dibaca: Suiminbusoku ga nō no ninchikinō teika ya men'ekiryoku no gentai o maneku mekanizumu wa, gendai igaku ni oite sudeni teisetsu to sarete iru.) berarti \"Mekanisme bagaimana kurang tidur memicu penurunan fungsi kognitif otak dan kemerosotan imunitas tubuh telah ditetapkan sebagai konsensus baku dalam ilmu kedokteran modern.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + にほかならない (tak lain dan tak bukan adalah) / とされている (secara luas diyakini/ditetapkan)\" (Kalimat Formal Akademis: 〜にほかならない (ni hokanaranai) & 〜とされている) yang berfungsi untuk pola retorika puncak penulisan ilmiah akademis dan tesis doktoral di Jepang. 〜にほかならない digunakan untuk menarik kesimpulan kausalitas mutlak tanpa keraguan, sedangkan 〜とされている menjaga objektivitas wacana berbasis konsensus ilmiah."
       },
       {
         "id": "q-ja-gram-47-pg-3",
@@ -21845,7 +21845,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Strategi diplomasi yang lentur dan selaras dengan situasi internasional yang berubah cepat, justru saat inilah amat sangat dibutuhkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"人間が言語を獲得し高度な文明を築き得た根源は、他者との共感能力を発達させたことにほかならない。\" berarti \"Akar mendasar bagaimana manusia mampu menguasai bahasa dan membangun peradaban tinggi tiada lain adalah semata-mata karena telah mengembangkan kemampuan berempati dengan sesamanya.\"."
+        "explanation": "Kalimat \"人間が言語を獲得し高度な文明を築き得た根源は、他者との共感能力を発達させたことにほかならない。\" (dibaca: Ningen ga gengo o kakutoku shi kōdo na bunmei o kizukietta kongen wa, tasha to no kyōkannōryoku o hattatsu saseta koto ni hokanaranai.) berarti \"Akar mendasar bagaimana manusia mampu menguasai bahasa dan membangun peradaban tinggi tiada lain adalah semata-mata karena telah mengembangkan kemampuan berempati dengan sesamanya.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + にほかならない (tak lain dan tak bukan adalah) / とされている (secara luas diyakini/ditetapkan)\" (Kalimat Formal Akademis: 〜にほかならない (ni hokanaranai) & 〜とされている) yang berfungsi untuk pola retorika puncak penulisan ilmiah akademis dan tesis doktoral di Jepang. 〜にほかならない digunakan untuk menarik kesimpulan kausalitas mutlak tanpa keraguan, sedangkan 〜とされている menjaga objektivitas wacana berbasis konsensus ilmiah."
       },
       {
         "id": "q-ja-gram-47-pg-4",
@@ -22148,7 +22148,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Tur kedatangan grup musik terkenal dunia ke Jepang akan diselenggarakan di 6 stadion kubah nasional, diawali dengan konser Tokyo Dome pada tanggal 5 bulan depan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。\" berarti \"Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.\"."
+        "explanation": "Kalimat \"彼が数々の逆境を乗り越えて偉業を達成できたのは、不撓不屈の信念を持ち続けたからにほかならない。\" (dibaca: Kare ga kazukazu no gyakkyō o norikoete igyō o tassei dekita no wa, futōfukutsu no shinnen o mochitsuzuketa kara ni hokanaranai.) berarti \"Keberhasilannya melampaui berbagai rintangan nestapa dan menorehkan prestasi agung tiada lain dan tak bukan adalah semata-mata karena ia terus menggenggam keyakinan yang pantang menyerah.\". Kalimat ini menggunakan pola \"Bentuk Biasa / Kata Benda + にほかならない (tak lain dan tak bukan adalah) / とされている (secara luas diyakini/ditetapkan)\" (Kalimat Formal Akademis: 〜にほかならない (ni hokanaranai) & 〜とされている) yang berfungsi untuk pola retorika puncak penulisan ilmiah akademis dan tesis doktoral di Jepang. 〜にほかならない digunakan untuk menarik kesimpulan kausalitas mutlak tanpa keraguan, sedangkan 〜とされている menjaga objektivitas wacana berbasis konsensus ilmiah."
       },
       {
         "id": "q-ja-gram-47-bb-2",
@@ -22295,7 +22295,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。\" berarti \"Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.\"."
+        "explanation": "Kalimat \"大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。\" (dibaca: Dai-jishin ni yoru genshiryoku hatsudensho no jiko ni yori, sūman-nin mono jūmin ga suminareta kokyō kara no hinan seikatsu o yogi naku saremashita.) berarti \"Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.\". Kalimat ini menggunakan pola \"Kata Benda (situasi sulit/perubahan) + を余儀なくされる (terpaksa harus) / を余儀なくさせる (memaksa situasi harus)\" (Tekanan Keadaan yang Tak Terelakkan: 〜を余儀なくされる (o yogi naku sareru)) yang berfungsi untuk pola register tulis tingkat tinggi untuk menyatakan bahwa karena adanya faktor eksternal di luar kekuasaan manusia (bencana alam, perang, kebangkrutan, krisis moneter), pihak terkait dipaksa berada dalam kondisi terpojok untuk melakukan hal yang tak diinginkan."
       },
       {
         "id": "q-ja-gram-48-pg-2",
@@ -22311,7 +22311,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"長引く半導体不足とサプライチェーンの寸断が、自動車各社に大幅な減産を余儀なくさせた。\" berarti \"Kekurangan pasokan semikonduktor yang berlarut-larut dan terputusnya rantai pasok telah memaksa perusahaan otomotif memangkas volume produksi secara drastis.\"."
+        "explanation": "Kalimat \"長引く半導体不足とサプライチェーンの寸断が、自動車各社に大幅な減産を余儀なくさせた。\" (dibaca: Nagabiku handōtai busoku to sapuraichēn no sundan ga, jidōsha kakusha ni ōhaba na gensan o yogi naku saseta.) berarti \"Kekurangan pasokan semikonduktor yang berlarut-larut dan terputusnya rantai pasok telah memaksa perusahaan otomotif memangkas volume produksi secara drastis.\". Kalimat ini menggunakan pola \"Kata Benda (situasi sulit/perubahan) + を余儀なくされる (terpaksa harus) / を余儀なくさせる (memaksa situasi harus)\" (Tekanan Keadaan yang Tak Terelakkan: 〜を余儀なくされる (o yogi naku sareru)) yang berfungsi untuk pola register tulis tingkat tinggi untuk menyatakan bahwa karena adanya faktor eksternal di luar kekuasaan manusia (bencana alam, perang, kebangkrutan, krisis moneter), pihak terkait dipaksa berada dalam kondisi terpojok untuk melakukan hal yang tak diinginkan."
       },
       {
         "id": "q-ja-gram-48-pg-3",
@@ -22327,7 +22327,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menimbang sikap penyesalan terdakwa dan kontribusi sosialnya selama ini, Ketua Majelis Hakim menjatuhkan vonis dengan masa percobaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"資金繰りの悪化により、創業100年を誇る老舗旅館が廃業を余儀なくされる事態に陥った。\" berarti \"Akibat memburuknya arus kas permodalan, penginapan ryokan legendaris berumur 100 tahun terjerumus ke dalam situasi di mana mereka terpaksa harus gulung tikar.\"."
+        "explanation": "Kalimat \"資金繰りの悪化により、創業100年を誇る老舗旅館が廃業を余儀なくされる事態に陥った。\" (dibaca: Shikinguri no akka ni yori, sōgyō hyakunen o hokoru shinise ryokan ga haigyō o yogi naku sareru jitai ni ochiitta.) berarti \"Akibat memburuknya arus kas permodalan, penginapan ryokan legendaris berumur 100 tahun terjerumus ke dalam situasi di mana mereka terpaksa harus gulung tikar.\". Kalimat ini menggunakan pola \"Kata Benda (situasi sulit/perubahan) + を余儀なくされる (terpaksa harus) / を余儀なくさせる (memaksa situasi harus)\" (Tekanan Keadaan yang Tak Terelakkan: 〜を余儀なくされる (o yogi naku sareru)) yang berfungsi untuk pola register tulis tingkat tinggi untuk menyatakan bahwa karena adanya faktor eksternal di luar kekuasaan manusia (bencana alam, perang, kebangkrutan, krisis moneter), pihak terkait dipaksa berada dalam kondisi terpojok untuk melakukan hal yang tak diinginkan."
       },
       {
         "id": "q-ja-gram-48-pg-4",
@@ -22622,7 +22622,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Bukan sekadar teori hampa di atas meja, semestinya kita merumuskan kebijakan bantuan rekonstruksi yang cepat dan selaras persis dengan kondisi riil korban bencana di lapangan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。\" berarti \"Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.\"."
+        "explanation": "Kalimat \"大地震による原子力発電所の事故により、数万人もの住民が住み慣れた故郷からの避難生活を余儀なくされました。\" (dibaca: Dai-jishin ni yoru genshiryoku hatsudensho no jiko ni yori, sūman-nin mono jūmin ga suminareta kokyō kara no hinan seikatsu o yogi naku saremashita.) berarti \"Akibat kecelakaan instalasi pembangkit listrik tenaga nuklir yang dipicu gempa dahsyat, puluhan ribu warga terpaksa harus menjalani hidup mengungsi meninggalkan tanah kelahiran yang mereka cintai.\". Kalimat ini menggunakan pola \"Kata Benda (situasi sulit/perubahan) + を余儀なくされる (terpaksa harus) / を余儀なくさせる (memaksa situasi harus)\" (Tekanan Keadaan yang Tak Terelakkan: 〜を余儀なくされる (o yogi naku sareru)) yang berfungsi untuk pola register tulis tingkat tinggi untuk menyatakan bahwa karena adanya faktor eksternal di luar kekuasaan manusia (bencana alam, perang, kebangkrutan, krisis moneter), pihak terkait dipaksa berada dalam kondisi terpojok untuk melakukan hal yang tak diinginkan."
       },
       {
         "id": "q-ja-gram-48-bb-2",
@@ -22773,7 +22773,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Dengan menimbang situasi penyebaran penyakit menular yang berkepanjangan, seluruh pelatihan karyawan tahun fiskal ini diputuskan diselenggarakan secara daring."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。\" berarti \"Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.\"."
+        "explanation": "Kalimat \"マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。\" (dibaca: Manyuarudōri no kakuitsuteki na taiō ni torawarezu, genba no jōkyō ni ōjite rinki-ōhen ni taisho suru jūnansei ga motomerareru.) berarti \"Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.\". Kalimat ini menggunakan pola \"四字熟語 (Yojijukugo filosofis) + に / で / として (Integrasi Retorika Klasik)\" (Yojijukugo (Idiom Empat Kanji) dalam Diskursus Resmi N1) yang berfungsi untuk menguasai peribahasa 4 kanji (四字熟語 - Yojijukugo) yang menjadi pilar intelek dalam pidato kepemimpinan, wacana opini koran Asahi Shimbun, dan soal bacaan Dokkai level N1."
       },
       {
         "id": "q-ja-gram-49-pg-2",
@@ -22789,7 +22789,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Saya tiada henti-hentinya memanjatkan doa dari lubuk hati terdalam agar limpahan kebahagiaan menyertai masa depan para pemuda yang meninggalkan almamater dan mengepakkan sayap menuju masyarakat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"新薬の開発プロセスにおいては、幾度もの失敗と試行錯誤を重ねる中でようやく画期的なブレイクスルーがもたらされた。\" berarti \"Dalam proses pengembangan obat baru, di tengah penumpukan kegagalan dan proses trial-and-error berkali-kali, akhirnya sebuah terobosan bersejarah berhasil dicapai.\"."
+        "explanation": "Kalimat \"新薬の開発プロセスにおいては、幾度もの失敗と試行錯誤を重ねる中でようやく画期的なブレイクスルーがもたらされた。\" (dibaca: Shin'yaku no kaihatsu purosesu ni oite wa, ikudo mono shippai to shikō-sakugo o kasaneru naka de yōyaku kakkititeki na bureikusurū ga motarasareta.) berarti \"Dalam proses pengembangan obat baru, di tengah penumpukan kegagalan dan proses trial-and-error berkali-kali, akhirnya sebuah terobosan bersejarah berhasil dicapai.\". Kalimat ini menggunakan pola \"四字熟語 (Yojijukugo filosofis) + に / で / として (Integrasi Retorika Klasik)\" (Yojijukugo (Idiom Empat Kanji) dalam Diskursus Resmi N1) yang berfungsi untuk menguasai peribahasa 4 kanji (四字熟語 - Yojijukugo) yang menjadi pilar intelek dalam pidato kepemimpinan, wacana opini koran Asahi Shimbun, dan soal bacaan Dokkai level N1."
       },
       {
         "id": "q-ja-gram-49-pg-3",
@@ -22805,7 +22805,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Melihat sosok perkasa pemuda yang menaklukkan penyakit langka dengan semangat pantang menyerah dan meraih medali emas, kami tak kuasa membendung rasa haru dan takjub yang mendalam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"手段の効率化ばかりに気を取られて本来の目的を見失うのは、まさに本末転倒の極みと言わざるを得ない。\" berarti \"Hanya terpaku pada efisiensi cara sampai melupakan tujuan mulia yang sejati, tak dapat disangkal adalah puncak kekeliruan logika yang terbalik sama sekali.\"."
+        "explanation": "Kalimat \"手段の効率化ばかりに気を取られて本来の目的を見失うのは、まさに本末転倒の極みと言わざるを得ない。\" (dibaca: Shudan no kōritsuka bakari ni ki o torawarete honrai no mokuteki o miushinau no wa, masa ni honmatsu-tentō no kiwami to iwazaru o enai.) berarti \"Hanya terpaku pada efisiensi cara sampai melupakan tujuan mulia yang sejati, tak dapat disangkal adalah puncak kekeliruan logika yang terbalik sama sekali.\". Kalimat ini menggunakan pola \"四字熟語 (Yojijukugo filosofis) + に / で / として (Integrasi Retorika Klasik)\" (Yojijukugo (Idiom Empat Kanji) dalam Diskursus Resmi N1) yang berfungsi untuk menguasai peribahasa 4 kanji (四字熟語 - Yojijukugo) yang menjadi pilar intelek dalam pidato kepemimpinan, wacana opini koran Asahi Shimbun, dan soal bacaan Dokkai level N1."
       },
       {
         "id": "q-ja-gram-49-pg-4",
@@ -23102,7 +23102,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menimbang kekacauan jaringan transportasi akibat mendekatnya topan dan keselamatan para pengunjung, pertunjukan hari ini dengan amat berat hati terpaksa kami batalkan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。\" berarti \"Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.\"."
+        "explanation": "Kalimat \"マニュアル通りの画一的な対応にとらわれず、現場の状況に応じて臨機応変に対処する柔軟性が求められる。\" (dibaca: Manyuarudōri no kakuitsuteki na taiō ni torawarezu, genba no jōkyō ni ōjite rinki-ōhen ni taisho suru jūnansei ga motomerareru.) berarti \"Tanpa terpaku pada respons seragam yang kaku sesuai manual, kita dituntut memiliki kelenturan untuk bertindak secara luwes menyesuaikan diri dengan situasi di lapangan.\". Kalimat ini menggunakan pola \"四字熟語 (Yojijukugo filosofis) + に / で / として (Integrasi Retorika Klasik)\" (Yojijukugo (Idiom Empat Kanji) dalam Diskursus Resmi N1) yang berfungsi untuk menguasai peribahasa 4 kanji (四字熟語 - Yojijukugo) yang menjadi pilar intelek dalam pidato kepemimpinan, wacana opini koran Asahi Shimbun, dan soal bacaan Dokkai level N1."
       },
       {
         "id": "q-ja-gram-49-bb-2",
@@ -23254,7 +23254,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Menyaksikan dengan mata kepala sendiri kebiadaban di mana warga sipil tak berdosa menjadi korban tanpa pandang bulu, saya tak kuasa membendung amarah yang mendidih dalam dada."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。\" berarti \"Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.\"."
+        "explanation": "Kalimat \"本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。\" (dibaca: Hon-kenkyū wa, kyūsoku ni shinten suru seisei Ē-ai gijutsu no rinriteki kadai o meguri, kokunaigai no hōseido to terashiawasetsutsu, genjitsu ni sokushita gabanansu moderu no kōchiku o mezasu mono de aru.) berarti \"Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.\". Kalimat ini menggunakan pola \"最高難度複合構文統合演習 (Integrasi Sintaksis N1 & Penulisan Proposal Riset Pascasarjana)\" (Mahakarya Kelulusan JLPT N1 & Bahasa Jepang Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak pencapaian tertinggi penguasaan bahasa Jepang: menggabungkan retorika sastra N1, dialektika argumentasi esai, dan penyusunan Proposal Riset (研究計画書 - Kenkyū Keikakusho) untuk studi magister dan doktoral di Jepang."
       },
       {
         "id": "q-ja-gram-50-pg-2",
@@ -23270,7 +23270,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Kaki saya patah akibat benturan kecelakaan, jangankan untuk berlari, untuk berdiri tegak mandiri seorang diri saja bahkan tak berdaya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"過去の失敗と教訓を踏まえ、多角的なデータ分析に基づいて新たな理論的枠組みを提示することは、今後の学術的発展に寄与するものにほかならない。\" berarti \"Dengan berpijak pada pelajaran masa lalu dan berlandaskan analisis data dari berbagai sudut pandang, menyajikan kerangka teori baru tiada lain dan tak bukan adalah sumbangsih nyata bagi perkembangan akademis di masa depan.\"."
+        "explanation": "Kalimat \"過去の失敗と教訓を踏まえ、多角的なデータ分析に基づいて新たな理論的枠組みを提示することは、今後の学術的発展に寄与するものにほかならない。\" (dibaca: Kako no shippai to kyōkun o fumaete, takakuteki na dēta bunseki ni motozuite arata na rironteki wakugumi o teiji suru koto wa, kongo no gakujutsuteki hatten ni kiyo suru mono ni hokanaranai.) berarti \"Dengan berpijak pada pelajaran masa lalu dan berlandaskan analisis data dari berbagai sudut pandang, menyajikan kerangka teori baru tiada lain dan tak bukan adalah sumbangsih nyata bagi perkembangan akademis di masa depan.\". Kalimat ini menggunakan pola \"最高難度複合構文統合演習 (Integrasi Sintaksis N1 & Penulisan Proposal Riset Pascasarjana)\" (Mahakarya Kelulusan JLPT N1 & Bahasa Jepang Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak pencapaian tertinggi penguasaan bahasa Jepang: menggabungkan retorika sastra N1, dialektika argumentasi esai, dan penyusunan Proposal Riset (研究計画書 - Kenkyū Keikakusho) untuk studi magister dan doktoral di Jepang."
       },
       {
         "id": "q-ja-gram-50-pg-3",
@@ -23286,7 +23286,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Telah menuntaskan jalan penjelajahan ilmu yang panjang dan mencapai puncak tertinggi taraf keilmuan N1, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga masa depan para pembelajar sekalian senantiasa gilang-gemilang bertabur cahaya keemasan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"長きにわたる学問の探求の道を歩み終え、日本語の最高峰たるN1の境地に達した学徒諸君の未来が、光り輝くものとなることを心より願ってやまない。\" berarti \"Telah menuntaskan jalan penjelajahan ilmu yang panjang dan mencapai puncak tertinggi taraf keilmuan N1, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga masa depan para pembelajar sekalian senantiasa gilang-gemilang bertabur cahaya keemasan.\"."
+        "explanation": "Kalimat \"長きにわたる学問の探求の道を歩み終え、日本語の最高峰たるN1の境地に達した学徒諸君の未来が、光り輝くものとなることを心より願ってやまない。\" (dibaca: Nagaki ni wataru gakumon no tankyū no michi o ayumioe, Nihongo no saikōhō taru Enu-wan no kyōchi ni tasshita gakuto shokun no mirai ga, hikarikagayaku mono to naru koto o kokoro yori negatte yamanai.) berarti \"Telah menuntaskan jalan penjelajahan ilmu yang panjang dan mencapai puncak tertinggi taraf keilmuan N1, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga masa depan para pembelajar sekalian senantiasa gilang-gemilang bertabur cahaya keemasan.\". Kalimat ini menggunakan pola \"最高難度複合構文統合演習 (Integrasi Sintaksis N1 & Penulisan Proposal Riset Pascasarjana)\" (Mahakarya Kelulusan JLPT N1 & Bahasa Jepang Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak pencapaian tertinggi penguasaan bahasa Jepang: menggabungkan retorika sastra N1, dialektika argumentasi esai, dan penyusunan Proposal Riset (研究計画書 - Kenkyū Keikakusho) untuk studi magister dan doktoral di Jepang."
       },
       {
         "id": "q-ja-gram-50-pg-4",
@@ -23591,7 +23591,7 @@ export const JAPANESE_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。\" berarti \"Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.\"."
+        "explanation": "Kalimat \"本研究は、急速に進展する生成AI技術の倫理的課題をめぐり、国内外の法制度と照らし合わせつつ、現実に即したガバナンスモデルの構築を目指すものである。\" (dibaca: Hon-kenkyū wa, kyūsoku ni shinten suru seisei Ē-ai gijutsu no rinriteki kadai o meguri, kokunaigai no hōseido to terashiawasetsutsu, genjitsu ni sokushita gabanansu moderu no kōchiku o mezasu mono de aru.) berarti \"Penelitian ini, seputar tantangan etika teknologi AI generatif yang berkembang pesat, bertujuan membangun model tata kelola yang selaras dengan kenyataan lapangan sembari menyandingkannya dengan sistem hukum domestik dan internasional.\". Kalimat ini menggunakan pola \"最高難度複合構文統合演習 (Integrasi Sintaksis N1 & Penulisan Proposal Riset Pascasarjana)\" (Mahakarya Kelulusan JLPT N1 & Bahasa Jepang Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak pencapaian tertinggi penguasaan bahasa Jepang: menggabungkan retorika sastra N1, dialektika argumentasi esai, dan penyusunan Proposal Riset (研究計画書 - Kenkyū Keikakusho) untuk studi magister dan doktoral di Jepang."
       },
       {
         "id": "q-ja-gram-50-bb-2",

@@ -13,7 +13,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hallo professor, fijn u vandaag weer persoonlijk te ontmoeten.",
     "examplePhonetic": "Hah-loh proh-feh-sohr, fein oo vahn-dahkh wehr pehr-sohn-luk tuh ohnt-moo-tuhn.",
     "exampleTranslation": "Halo Profesor, senang sekali bertemu dengan Anda kembali hari ini.",
-    "notes": "Ungkapan salam pembuka percakapan.",
+    "notes": "Ungkapan salam pembuka percakapan. Kata \"Hallo\" (cara baca: hah-loh) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Halo\".",
     "tags": [
       "salam",
       "a1",
@@ -70,7 +70,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Tot ziens en een heel fijn weekend gewenst allemaal.",
     "examplePhonetic": "Toht zeens ehn un hayl fein week-ehnt khuh-wehnst ahl-luh-mahl.",
     "exampleTranslation": "Sampai jumpa lagi dan semoga akhir pekan Anda menyenangkan.",
-    "notes": "Ucapan perpisahan santun.",
+    "notes": "Ucapan perpisahan santun. Kata \"Tot ziens\" (cara baca: toht zeens) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Sampai jumpa lagi\".",
     "tags": [
       "salam",
       "a1",
@@ -146,7 +146,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Kunt u mij alstublieft de weg naar collegezaal vier wijzen?",
     "examplePhonetic": "Koont oo mei ahl-stoo-bleeft duh wehkh nahr kohl-lay-zhuh-zahl feer wei-zuhn?",
     "exampleTranslation": "Bisakah Anda menunjukkan jalan ke ruang kuliah empat, tolong?",
-    "notes": "Kata santun untuk memohon bantuan.",
+    "notes": "Kata santun untuk memohon bantuan. Kata \"Alsjeblieft / Alstublieft\" (cara baca: ahl-stoo-bleeft) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tolong\".",
     "tags": [
       "salam",
       "a1",
@@ -165,7 +165,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hallo Thomas, hoe gaat het met je studie en tentamens?",
     "examplePhonetic": "Hah-loh Toh-mahs, hoo khaht heht meht yuh stoo-dee ehn tehn-tah-muhns?",
     "exampleTranslation": "Halo Thomas, bagaimana kabarmu dan bagaimana ujian perkuliahanmu?",
-    "notes": "Menanyakan kabar dan kondisi kesehatan.",
+    "notes": "Menanyakan kabar dan kondisi kesehatan. Kata \"Hoe gaat het\" (cara baca: hoo khaht heht) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Apa kabar?\".",
     "tags": [
       "salam",
       "a1",
@@ -184,7 +184,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Aangenaam kennis met u te maken tijdens dit colloquium.",
     "examplePhonetic": "Ahn-khuh-nahm keh-nees meht oo tuh mah-kuhn tei-duhns dit kohl-loh-kwee-oom.",
     "exampleTranslation": "Sangat senang dapat berkenalan dengan Anda di sesi kolokium ini.",
-    "notes": "Diucapkan saat perkenalan pertama kali.",
+    "notes": "Diucapkan saat perkenalan pertama kali. Kata \"Aangenaam\" (cara baca: ahn-khuh-nahm) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Senang berkenalan dengan Anda\".",
     "tags": [
       "salam",
       "a1",
@@ -203,7 +203,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ja, ik ben officieel ingeschreven als voltijdstudent.",
     "examplePhonetic": "Yah, ik behn ohf-fee-sheel in-khuh-skhray-vuhn ahls vohl-teit-stoo-dehnt.",
     "exampleTranslation": "Ya, saya resmi terdaftar sebagai mahasiswa purnawaktu.",
-    "notes": "Jawaban afirmatif menyetujui.",
+    "notes": "Jawaban afirmatif menyetujui. Kata \"Ja\" (cara baca: yah) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Ya\".",
     "tags": [
       "salam",
       "a1",
@@ -222,7 +222,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nee, dit wetenschappelijke tijdschrift kan niet worden uitgeleend.",
     "examplePhonetic": "Nay, dit way-tuhn-skhahp-puh-luh-kuh teit-skhreフト kahn neet wohr-duhn owt-khuh-laynt.",
     "exampleTranslation": "Bukan / Tidak, jurnal ilmiah berkala ini tidak dapat dipinjam keluar.",
-    "notes": "Jawaban penolakan atau negasi.",
+    "notes": "Jawaban penolakan atau negasi. Kata \"Nee\" (cara baca: nay) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tidak\".",
     "tags": [
       "salam",
       "a1",
@@ -260,7 +260,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ik heet Kevin en ik kom uit Jakarta, Indonesië.",
     "examplePhonetic": "Ik hayt Keh-vin ehn ik kohm owt Jah-kahr-tah, In-doh-nay-zee-uh.",
     "exampleTranslation": "Nama saya Kevin dan saya berasal dari Jakarta, Indonesia.",
-    "notes": "Memperkenalkan nama diri sendiri.",
+    "notes": "Memperkenalkan nama diri sendiri. Kata \"Ik heet\" (cara baca: ik hayt) digunakan dalam bahasa Belanda (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Nama saya...\".",
     "tags": [
       "salam",
       "a1",
@@ -298,7 +298,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De Universiteit Leiden is de oudste universiteit van Nederland.",
     "examplePhonetic": "Duh Oo-nee-vehr-see-teit Lei-duhn is duh owt-stuh oo-nee-vehr-see-teit vahn Nay-duhr-lahnt.",
     "exampleTranslation": "Universitas Leiden adalah universitas tertua di Negeri Belanda.",
-    "notes": "Institusi pendidikan tinggi formal.",
+    "notes": "Institusi pendidikan tinggi formal. Kata \"Universiteit\" (cara baca: oo-nee-vehr-see-teit) digunakan dalam bahasa Belanda (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Universitas\".",
     "tags": [
       "kampus",
       "a1",
@@ -488,7 +488,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hij behaalde een schitterend cijfer van een negen voor statistiek.",
     "examplePhonetic": "Hei buh-hahl-duh un skheet-tuh-ruhnt sei-fuhr vahn un nay-khuhn fohr stah-tees-teek.",
     "exampleTranslation": "Dia memperoleh nilai sangat memuaskan angka sembilan untuk statistika.",
-    "notes": "Hasil evaluasi prestasi belajar.",
+    "notes": "Hasil evaluasi prestasi belajar. Kata \"Cijfer\" (cara baca: sei-fuhr) digunakan dalam bahasa Belanda (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Nilai akademik\".",
     "tags": [
       "kampus",
       "a1",
@@ -507,7 +507,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De beurs dekt zowel het wettelijke collegegeld als de leefkosten.",
     "examplePhonetic": "Duh buhrs dehkt zoh-wehl heht weht-tuh-look-kuh kohl-lay-zhuh-khehlt ahls.",
     "exampleTranslation": "Beasiswa menanggung uang kuliah reguler sekaligus biaya hidup harian.",
-    "notes": "Bantuan dana pendidikan berprestasi.",
+    "notes": "Bantuan dana pendidikan berprestasi. Kata \"Beurs\" (cara baca: buhrs) digunakan dalam bahasa Belanda (tingkat A2, kategori Kampus & Pendidikan) untuk menyatakan \"Beasiswa\".",
     "tags": [
       "kampus",
       "a2",
@@ -640,7 +640,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De experimentele resultaten bevestigen de vooraf opgestelde hypothese.",
     "examplePhonetic": "Duh ehks-peh-ree-mehn-tay-luh ray-zool-tah-tuhn buh-veh-stee-khuhn duh.",
     "exampleTranslation": "Hasil eksperimen membuktikan kebenaran hipotesis yang dirumuskan.",
-    "notes": "Dugaan awal yang diuji kebenarannya.",
+    "notes": "Dugaan awal yang diuji kebenarannya. Kata \"Hypothese\" (cara baca: hee-poh-tay-zuh) digunakan dalam bahasa Belanda (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Hipotesis penelitian\".",
     "tags": [
       "penelitian",
       "b2",
@@ -716,7 +716,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In de slotconclusie formuleren de onderzoekers praktische beleidsaanbevelingen.",
     "examplePhonetic": "In duh sloht-kohn-kloo-zee fohr-moo-lay-ruhn duh ohn-duhr-zoo-kuhrs.",
     "exampleTranslation": "Pada simpulan akhir peneliti merumuskan rekomendasi kebijakan praktis.",
-    "notes": "Ringkasan intisari hasil penelitian.",
+    "notes": "Ringkasan intisari hasil penelitian. Kata \"Conclusie\" (cara baca: kohn-kloo-zee) digunakan dalam bahasa Belanda (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Kesimpulan\".",
     "tags": [
       "penelitian",
       "b2",
@@ -735,7 +735,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De literatuurlijst is nauwkeurig opgesteld volgens de APA-richtlijnen.",
     "examplePhonetic": "Duh lee-tuh-rah-toor-leist is now-kur-rukh ohp-khuh-stehlt vohl-khuhns duh.",
     "exampleTranslation": "Daftar pustaka disusun dengan cermat sesuai panduan format kaidah APA.",
-    "notes": "Daftar rujukan literatur yang disitir.",
+    "notes": "Daftar rujukan literatur yang disitir. Kata \"Literatuurlijst\" (cara baca: lee-tuh-rah-toor-leist) digunakan dalam bahasa Belanda (tingkat B1, kategori Penelitian & Riset) untuk menyatakan \"Daftar pustaka\".",
     "tags": [
       "penelitian",
       "b1",
@@ -811,7 +811,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De Intercity-trein brengt je in drie kwartier van Amsterdam naar Utrecht.",
     "examplePhonetic": "Duh In-tehr-see-tee-trein brehngt yuh in dree kwahr-teer vahn Ahm-stehr-dahm.",
     "exampleTranslation": "Kereta api antarkota melaju dalam 45 menit dari Amsterdam ke Utrecht.",
-    "notes": "Moda transportasi rel cepat perkotaan.",
+    "notes": "Moda transportasi rel cepat perkotaan. Kata \"Trein\" (cara baca: trein) digunakan dalam bahasa Belanda (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Kereta api\".",
     "tags": [
       "transportasi",
       "a1",
@@ -849,7 +849,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "We namen een taxi naar Schiphol vanwege de zware bagagekoffers.",
     "examplePhonetic": "Way nah-muhn un tahk-see nahr Skhree-phohl vahn-way-khuh duh zwah-ruh.",
     "exampleTranslation": "Kami menaiki taksi menuju Schiphol karena membawa koper bawaan berat.",
-    "notes": "Kendaraan sewa umum berbayar argo.",
+    "notes": "Kendaraan sewa umum berbayar argo. Kata \"Taxi\" (cara baca: tahk-see) digunakan dalam bahasa Belanda (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Taksi\".",
     "tags": [
       "transportasi",
       "a1",
@@ -925,7 +925,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De bushalte bevindt zich direct voor het universiteitsrestaurant.",
     "examplePhonetic": "Duh boos-hahl-tuh buh-vint zikh dee-rehkt fohr heht oo-nee-vehr-see-teits.",
     "exampleTranslation": "Halte bus berada tepat persis di depan gedung kantin kampus.",
-    "notes": "Tempat perhentian bus di tepi jalan.",
+    "notes": "Tempat perhentian bus di tepi jalan. Kata \"Bushalte\" (cara baca: boos-hahl-tuh) digunakan dalam bahasa Belanda (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Halte bus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -944,7 +944,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Sla bij het volgende kruispunt linksaf richting de faculteit geneeskunde.",
     "examplePhonetic": "Slah bei heht vohl-khuhn-duh krows-poont leengk-sahf reekh-ting duh fah-kool-teit.",
     "exampleTranslation": "Beloklah ke arah kiri pada persimpangan menuju fakultas kedokteran.",
-    "notes": "Petunjuk arah ke sisi kiri.",
+    "notes": "Petunjuk arah ke sisi kiri. Kata \"Linksaf\" (cara baca: leengk-sahf) digunakan dalam bahasa Belanda (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kiri\".",
     "tags": [
       "transportasi",
       "a1",
@@ -963,7 +963,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ga rechtsaf om bij het studentensportcentrum van de campus te komen.",
     "examplePhonetic": "Khah rehkht-sahf ohm bei heht stoo-dehn-tuhn-spohrt-sehn-troom tuh koh-muhn.",
     "exampleTranslation": "Beloklah ke kanan untuk tiba di gedung pusat olahraga kemahasiswaan.",
-    "notes": "Petunjuk arah ke sisi kanan.",
+    "notes": "Petunjuk arah ke sisi kanan. Kata \"Rechtsaf\" (cara baca: rehkht-sahf) digunakan dalam bahasa Belanda (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kanan\".",
     "tags": [
       "transportasi",
       "a1",
@@ -982,7 +982,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Fiets rechtdoor over het fietspad tot je het academiegebouw ziet.",
     "examplePhonetic": "Feets rehkh-dohr oh-vuhr heht feets-pahd toht yuh heht ah-kah-day-mee.",
     "exampleTranslation": "Gowes sepeda lurus terus di jalur sepeda hingga tampak gedung akademi.",
-    "notes": "Petunjuk arah tanpa berbelok.",
+    "notes": "Petunjuk arah tanpa berbelok. Kata \"Rechtdoor\" (cara baca: rehkh-dohr) digunakan dalam bahasa Belanda (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Lurus terus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -1001,7 +1001,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Vandaag organiseert de faculteit een introductiemarkt voor nieuwe studenten.",
     "examplePhonetic": "Vahn-dahkh ohr-khah-nee-zayrt duh fah-kool-teit un in-troh-dook-tsee-mahrkt.",
     "exampleTranslation": "Hari ini fakultas menyelenggarakan pameran orientasi mahasiswa baru.",
-    "notes": "Hari saat ini berlangsung.",
+    "notes": "Hari saat ini berlangsung. Kata \"Vandaag\" (cara baca: vahn-dahkh) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Hari ini\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1020,7 +1020,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Morgen is de uiterste inleverdatum voor de tussentijdse onderzoeksopdracht.",
     "examplePhonetic": "Mohr-khuhn is duh oy-tuhr-stuh in-lay-vuhr-dah-toom fohr duh toos-suhn-teid-suh.",
     "exampleTranslation": "Besok adalah batas akhir pengumpulan draf laporan riset berkala.",
-    "notes": "Hari setelah hari ini.",
+    "notes": "Hari setelah hari ini. Kata \"Morgen\" (cara baca: mohr-khuhn) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Besok\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1039,7 +1039,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Gisteren hebben we het experimentele gedeelte met succes afgerond.",
     "examplePhonetic": "Khees-tuh-ruhn hehp-buhn way heht ehks-peh-ree-mehn-tay-luh khuh-dayl-tuh.",
     "exampleTranslation": "Kemarin kami telah menuntaskan bagian eksperimen lapangan dengan sukses.",
-    "notes": "Hari sebelum hari ini.",
+    "notes": "Hari sebelum hari ini. Kata \"Gisteren\" (cara baca: khees-tuh-ruhn) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Kemarin\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1058,7 +1058,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Het colloquium duurt precies een uur inclusief vragenronde.",
     "examplePhonetic": "Heht kohl-loh-kwee-oom doort pray-sees un oor in-kloo-seef vrah-khuhn-rohn-duh.",
     "exampleTranslation": "Sesi kolokium berlangsung genap satu jam termasuk sesi tanya jawab.",
-    "notes": "Satuan penunjuk waktu 60 menit.",
+    "notes": "Satuan penunjuk waktu 60 menit. Kata \"Uur\" (cara baca: oor) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Jam\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1077,7 +1077,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Er zijn nog tien minuten over om de laatste meerkeuzevragen in te vullen.",
     "examplePhonetic": "Ehr zein nohkh teen mee-noo-tuhn oh-vuhr ohm duh laht-stuh mayr-koy-zuh.",
     "exampleTranslation": "Tersisa sepuluh menit lagi untuk menyelesaikan soal pilihan ganda terakhir.",
-    "notes": "Satuan penunjuk waktu 60 detik.",
+    "notes": "Satuan penunjuk waktu 60 detik. Kata \"Minuut\" (cara baca: mee-noot) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Menit\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1096,7 +1096,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Volgende week is er een collegavrije week om zelfstandig te studeren.",
     "examplePhonetic": "Vohl-khuhn-duh wayk is ehr un kohl-lay-khah-vree-yuh wayk ohm zehlf-stahn-dukh.",
     "exampleTranslation": "Pekan depan adalah pekan bebas perkuliahan untuk belajar mandiri.",
-    "notes": "Periode waktu tujuh hari.",
+    "notes": "Periode waktu tujuh hari. Kata \"Week\" (cara baca: wayk) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Pekan\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1115,7 +1115,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Over een maand start het inschrijven voor keuzevakken van het voorjaar.",
     "examplePhonetic": "Oh-vuhr un mahnt stahrt heht in-skhrei-vuhn fohr koy-zuh-vahk-kuhn.",
     "exampleTranslation": "Sebulan lagi pendaftaran mata kuliah peminatan musim semi dimulai.",
-    "notes": "Periode waktu sekitar 30 hari.",
+    "notes": "Periode waktu sekitar 30 hari. Kata \"Maand\" (cara baca: mahnt) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Bulan kalender\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1134,7 +1134,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Het Nederlandse collegejaar loopt officieel van september tot en met augustus.",
     "examplePhonetic": "Heht Nay-duhr-lahnt-suh kohl-lay-zhuh-yahr lohpt ohf-fee-sheel vahn sehp-tehm-buhr.",
     "exampleTranslation": "Tahun kuliah di Belanda secara resmi berlangsung September hingga Agustus.",
-    "notes": "Periode waktu 12 bulan.",
+    "notes": "Periode waktu 12 bulan. Kata \"Jaar\" (cara baca: yahr) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Tahun\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1153,7 +1153,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nu is het uitgelezen moment om te beginnen aan het literatuuronderzoek.",
     "examplePhonetic": "Noo is heht owt-khuh-lay-zuhn moh-mehnt ohm tuh buh-kheen-nuhn ahn heht.",
     "exampleTranslation": "Sekarang adalah saat yang paling tepat memulai telaah kajian pustaka.",
-    "notes": "Waktu yang sedang terjadi kini.",
+    "notes": "Waktu yang sedang terjadi kini. Kata \"Nu\" (cara baca: noo) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Sekarang\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1172,7 +1172,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "We bespreken de verdere stappen later tijdens het wekelijkse overleg.",
     "examplePhonetic": "Way buh-spray-kuhn duh vehr-duh-ruh stahp-puhn lah-tuhr tei-duhns heht.",
     "exampleTranslation": "Kita akan membahas tahapan lanjutan nanti pada rapat koordinasi pekanan.",
-    "notes": "Waktu yang akan datang tidak lama lagi.",
+    "notes": "Waktu yang akan datang tidak lama lagi. Kata \"Later\" (cara baca: lah-tuhr) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Nanti\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1248,7 +1248,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Een bruine boterham met kaas is de traditionele lunch op de campus.",
     "examplePhonetic": "Un brow-nuh boh-tuhr-hahm meht kahs is duh trah-dee-tsyo-nay-luh loonch.",
     "exampleTranslation": "Roti gandum berpadu keju Belanda adalah santapan makan siang khas di kampus.",
-    "notes": "Makanan pokok sumber karbohidrat utama.",
+    "notes": "Makanan pokok sumber karbohidrat utama. Kata \"Brood\" (cara baca: broht) digunakan dalam bahasa Belanda (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Nasi\".",
     "tags": [
       "makanan",
       "a1",
@@ -1343,7 +1343,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Deze warme stroopwafel met kaneel is ontzettend vers en lekker.",
     "examplePhonetic": "Day-zuh wahr-muh strohp-wah-fuhl meht kah-nayl is ohnt-zeht-tuhnt vehrs ehn lehk-kuhr.",
     "exampleTranslation": "Wafel stroopwafel hangat berkayu manis ini sungguh terasa sangat lezat.",
-    "notes": "Rasa makanan yang memuaskan lidah.",
+    "notes": "Rasa makanan yang memuaskan lidah. Kata \"Lekker\" (cara baca: lehk-kuhr) digunakan dalam bahasa Belanda (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Enak\".",
     "tags": [
       "makanan",
       "a1",
@@ -1419,7 +1419,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De universitaire campuswinkel verkoopt blocnotes, mappen en studieboeken.",
     "examplePhonetic": "Duh oo-nee-vehr-see-tay-ruh kahm-poos-ween-kuhl vuhr-kohpt blohk-noh-tuhs.",
     "exampleTranslation": "Toko kampus menjual buku catatan, map berkas, dan aneka buku kuliah.",
-    "notes": "Tempat menjual aneka barang kebutuhan.",
+    "notes": "Tempat menjual aneka barang kebutuhan. Kata \"Winkel\" (cara baca: ween-kuhl) digunakan dalam bahasa Belanda (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Toko\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1438,7 +1438,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Toon je studentenkaart voor tien procent korting op culturele evenementen.",
     "examplePhonetic": "Tohn yuh stoo-dehn-tuhn-kahrt fohr teen proh-sehnt kohr-teeng ohp.",
     "exampleTranslation": "Tunjukkan kartu mahasiswa untuk potongan diskon 10% acara kebudayaan.",
-    "notes": "Pengurangan dari harga jual standar.",
+    "notes": "Pengurangan dari harga jual standar. Kata \"Korting\" (cara baca: kohr-teeng) digunakan dalam bahasa Belanda (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Diskon\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1457,7 +1457,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In Nederland betaalt vrijwel iedereen contactloos met de pinpas.",
     "examplePhonetic": "In Nay-duhr-lahnt buh-tahlt vrei-wehl ee-duh-rayn kohn-tahkt-lohs meht duh peen-pahs.",
     "exampleTranslation": "Di Belanda hampir semua orang bertransaksi nirsentuh dengan kartu debit pin.",
-    "notes": "Alat transaksi perbankan nontunai.",
+    "notes": "Alat transaksi perbankan nontunai. Kata \"Pinpas\" (cara baca: peen-pahs) digunakan dalam bahasa Belanda (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Kartu kredit\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1476,7 +1476,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Bewaar het aankoopbonnetje altijd zorgvuldig voor de garantie.",
     "examplePhonetic": "Buh-wahr heht ahn-kohp-bohn-nuh-tyuh ahl-teit zohrk-vool-dukh fohr duh.",
     "exampleTranslation": "Simpanlah struk belanja dengan teliti sebagai tanda bukti garansi sah.",
-    "notes": "Tanda bukti sah transaksi pembelian.",
+    "notes": "Tanda bukti sah transaksi pembelian. Kata \"Bonnetje\" (cara baca: bohn-nuh-tyuh) digunakan dalam bahasa Belanda (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Struk bukti belanja\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1495,7 +1495,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Op de wekelijkse zaterdagmarkt koop je voordelig verse groenten en bloemen.",
     "examplePhonetic": "Ohp duh way-kuh-look-suh zah-tuhr-dahkh-mahrkt kohp yuh fohr-day-lukh.",
     "exampleTranslation": "Di pasar hari Sabtu dapat dibeli sayur-mayur segar dan bunga berharga hemat.",
-    "notes": "Tempat bertemunya penjual dan pembeli.",
+    "notes": "Tempat bertemunya penjual dan pembeli. Kata \"Markt\" (cara baca: mahrkt) digunakan dalam bahasa Belanda (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Pasar tradisional\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1514,7 +1514,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Tweedehands meubels kopen via Marktplaats is verrassend goedkoop.",
     "examplePhonetic": "Tway-duh-hahnds mur-buhls koh-puhn vee-ah Mahrkt-plahts is vehr-rahs-suhnt.",
     "exampleTranslation": "Membeli perabot bekas via Marktplaats terbukti sangat murah terjangkau.",
-    "notes": "Harga barang di bawah rata-rata umum.",
+    "notes": "Harga barang di bawah rata-rata umum. Kata \"Goedkoop\" (cara baca: khoot-kohp) digunakan dalam bahasa Belanda (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Murah terjangkau\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1590,7 +1590,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In een kleine werkgroep krijgt iedere student persoonlijke feedback.",
     "examplePhonetic": "In un kley-nuh wehrk-khroop kreykht ee-duh-ruh stoo-dehnt pehr-sohn-luh-kuh.",
     "exampleTranslation": "Dalam kelompok kecil setiap mahasiswa meraih masukan bimbingan personal.",
-    "notes": "Ukuran atau volume di bawah rata-rata.",
+    "notes": "Ukuran atau volume di bawah rata-rata. Kata \"Klein\" (cara baca: klein) digunakan dalam bahasa Belanda (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Kecil ukurannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1628,7 +1628,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De professor sprak langzaam zodat iedereen de formule kon noteren.",
     "examplePhonetic": "Duh proh-feh-sohr sprahk lahng-zahm zoh-daht ee-duh-rayn duh fohr-moo-luh.",
     "exampleTranslation": "Profesor bertutur lambat agar setiap orang sempat mencatat rumus.",
-    "notes": "Membutuhkan waktu lama dalam bergerak.",
+    "notes": "Membutuhkan waktu lama dalam bergerak. Kata \"Langzaam\" (cara baca: lahng-zahm) digunakan dalam bahasa Belanda (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Lambat pergerakannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1647,7 +1647,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Zij vond een slimme en elegante wiskundige oplossing voor het probleem.",
     "examplePhonetic": "Zei vohnt un sleem-muh ehn ay-luh-khahn-tuh wees-koon-dee-khuh ohp-lohs-seeng.",
     "exampleTranslation": "Dia menemukan solusi matematika yang cerdas dan elegan atas persoalan itu.",
-    "notes": "Mempunyai daya pikir cepat dan tajam.",
+    "notes": "Mempunyai daya pikir cepat dan tajam. Kata \"Slim\" (cara baca: sleem) digunakan dalam bahasa Belanda (tingkat A2, kategori Kata Sifat & Keadaan) untuk menyatakan \"Cerdas\".",
     "tags": [
       "kata",
       "a2",
@@ -1723,7 +1723,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Een goede wetenschappelijke opzet voorkomt onnauwkeurigheden in het eindverslag.",
     "examplePhonetic": "Un khoo-duh way-tuhn-skhahp-puh-luh-kuh ohp-zeht fohr-kohmt ohn-now-kur-rukh.",
     "exampleTranslation": "Perencanaan riset yang baik mencegah ketidaktepatan pada laporan akhir.",
-    "notes": "Memiliki mutu tinggi dan bermanfaat.",
+    "notes": "Memiliki mutu tinggi dan bermanfaat. Kata \"Goed\" (cara baca: khoot) digunakan dalam bahasa Belanda (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Bagus\".",
     "tags": [
       "kata",
       "a1",
@@ -1780,7 +1780,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Onderzoekers moeten dagelijks wetenschappelijke peer-reviewed artikelen lezen.",
     "examplePhonetic": "Ohn-duhr-zoo-kuhrs moo-tuhn dahkh-luhks way-tuhn-skhahp-puh-look-kuh lay-zuhn.",
     "exampleTranslation": "Para peneliti harus membaca artikel ilmiah berpenelaah sejawat setiap hari.",
-    "notes": "Melihat dan memahami isi tulisan.",
+    "notes": "Melihat dan memahami isi tulisan. Kata \"Lezen\" (cara baca: lay-zuhn) digunakan dalam bahasa Belanda (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Membaca teks buku\".",
     "tags": [
       "aksi",
       "a1",
@@ -1818,7 +1818,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Probeer in het dagelijks leven zoveel mogelijk Nederlands te spreken.",
     "examplePhonetic": "Proh-bayr in heht dahkh-look-kuh lay-vuhn zoh-vayl moh-khuh-look.",
     "exampleTranslation": "Cobalah berbicara bahasa Belanda sebanyak mungkin dalam keseharian.",
-    "notes": "Menyampaikan kata-kata melalui suara.",
+    "notes": "Menyampaikan kata-kata melalui suara. Kata \"Spreken\" (cara baca: spray-kuhn) digunakan dalam bahasa Belanda (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Berbicara lisan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1856,7 +1856,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De studenten gaan samen een warme maaltijd eten in de mensa.",
     "examplePhonetic": "Duh stoo-dehn-tuhn khahn sah-muhn un wahr-muh mahl-teit ay-tuhn in duh.",
     "exampleTranslation": "Para mahasiswa bersama-sama pergi makan santapan hangat di kantin.",
-    "notes": "Mengonsumsi makanan ke dalam perut.",
+    "notes": "Mengonsumsi makanan ke dalam perut. Kata \"Eten\" (cara baca: ay-tuhn) digunakan dalam bahasa Belanda (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Makan makanan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1875,7 +1875,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Vergeet niet voldoende water te drinken tijdens warme zomerdagen.",
     "examplePhonetic": "Vuhr-khayt neet vohl-doon-duh wah-tuhr tuh dring-kuhn tei-duhns.",
     "exampleTranslation": "Jangan lupa meminum air secukupnya selama hari-hari musim panas terik.",
-    "notes": "Meneguk zat cair penghilang dahaga.",
+    "notes": "Meneguk zat cair penghilang dahaga. Kata \"Drinken\" (cara baca: dring-kuhn) digunakan dalam bahasa Belanda (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Minum air cairan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1913,7 +1913,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ik ga vanmiddag naar het laboratorium om metingen uit te voeren.",
     "examplePhonetic": "Ik khah vahn-meed-dahkh nahr heht lah-boh-rah-toh-ree-oom ohm may-teeng-uhn.",
     "exampleTranslation": "Saya pergi siang ini ke laboratorium untuk melaksanakan pengukuran data.",
-    "notes": "Berangkat meninggalkan lokasi saat ini.",
+    "notes": "Berangkat meninggalkan lokasi saat ini. Kata \"Gaan\" (cara baca: khahn) digunakan dalam bahasa Belanda (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Pergi ke suatu tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -1932,7 +1932,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Studenten van over de hele wereld komen studeren aan onze universiteit.",
     "examplePhonetic": "Stoo-dehn-tuhn vahn oh-vuhr duh hay-luh way-ruhlt koh-muhn stoo-day-ruhn.",
     "exampleTranslation": "Mahasiswa dari penjuru dunia datang menuntut ilmu di universitas kami.",
-    "notes": "Sampai di tempat yang dituju.",
+    "notes": "Sampai di tempat yang dituju. Kata \"Komen\" (cara baca: koh-muhn) digunakan dalam bahasa Belanda (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Datang tiba di tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -2141,7 +2141,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De dienstdoende apotheek is ook 's nachts geopend voor noodgevallen.",
     "examplePhonetic": "Duh deenst-doon-duh ah-poh-tayk is ohk snahkhts khuh-oh-puhnt fohr.",
     "exampleTranslation": "Apotek jaga siaga tetap buka di waktu malam untuk keadaan darurat.",
-    "notes": "Toko penyedia obat-obatan resmi.",
+    "notes": "Toko penyedia obat-obatan resmi. Kata \"Apotheek\" (cara baca: ah-poh-tayk) digunakan dalam bahasa Belanda (tingkat A1, kategori Kesehatan & Tubuh) untuk menyatakan \"Apotek obat\".",
     "tags": [
       "kesehatan",
       "a1",
@@ -2217,7 +2217,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Het snelle Eduroam-wifi-netwerk is op de hele campus beschikbaar.",
     "examplePhonetic": "Heht sneh-luh Ay-doo-rohm-wee-fee-neht-wehrk is ohp duh hay-luh kahm-poos.",
     "exampleTranslation": "Jaringan internet nirkabel Eduroam tersedia di seluruh sudut kampus.",
-    "notes": "Jaringan telekomunikasi digital global.",
+    "notes": "Jaringan telekomunikasi digital global. Kata \"Internet\" (cara baca: in-tehr-neht) digunakan dalam bahasa Belanda (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Jaringan internet\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2236,7 +2236,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Schakel je mobiele telefoon uit tijdens de officiële toetszitting.",
     "examplePhonetic": "Skhah-kuhl yuh moh-bee-luh tay-luh-fohn owt tei-duhns duh ohf-fee-shay-luh.",
     "exampleTranslation": "Matikan ponsel telepon genggam Anda selama sesi ujian resmi berlangsung.",
-    "notes": "Telepon genggam pintar serbaguna.",
+    "notes": "Telepon genggam pintar serbaguna. Kata \"Mobiele telefoon\" (cara baca: moh-bee-luh tay-luh-fohn) digunakan dalam bahasa Belanda (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Ponsel\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2388,7 +2388,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Tijdens warme zomerdagen zoeken studenten verkoeling in de stadsparken.",
     "examplePhonetic": "Tei-duhns wahr-muh zoh-muhr-dah-khuhn zoo-kuhn stoo-dehn-tuhn vuhr-koo-leeng.",
     "exampleTranslation": "Di hari musim panas yang terik mahasiswa berteduh santai di taman kota.",
-    "notes": "Suhu udara tinggi menghangatkan tubuh.",
+    "notes": "Suhu udara tinggi menghangatkan tubuh. Kata \"Warm\" (cara baca: wahrm) digunakan dalam bahasa Belanda (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Panas udaranya\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2426,7 +2426,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In de zomer organiseren de studentenverenigingen barbecue-avonden aan het water.",
     "examplePhonetic": "In duh zoh-muhr ohr-khah-nee-zay-ruhn duh stoo-dehn-tuhn-vuh-ray-nee-kheeng-uhn.",
     "exampleTranslation": "Di musim panas himpunan mahasiswa menggelar acara bakar barbekyu di tepi danau.",
-    "notes": "Musim bersuhu tertinggi dalam kalender.",
+    "notes": "Musim bersuhu tertinggi dalam kalender. Kata \"Zomer\" (cara baca: zoh-muhr) digunakan dalam bahasa Belanda (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim panas\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2445,7 +2445,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Als het in de winter hard vriest, kan er geschaatst worden op de natuurgrachten.",
     "examplePhonetic": "Ahls heht in duh ween-tuhr hahrt vreest, kahn ehr khuh-skhahtst wohr-duhn.",
     "exampleTranslation": "Bila musim dingin membeku keras, orang dapat meluncur es di atas kanal alam.",
-    "notes": "Musim bersuhu terendah berhawa beku.",
+    "notes": "Musim bersuhu terendah berhawa beku. Kata \"Winter\" (cara baca: ween-tuhr) digunakan dalam bahasa Belanda (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim dingin\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2464,7 +2464,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Het Vondelpark in Amsterdam is een geliefde ontmoetingsplek voor jongeren.",
     "examplePhonetic": "Heht Vohn-duhl-pahrk in Ahm-stehr-dahm is un khuh-leef-duh ohnt-moo-teengs-plehk.",
     "exampleTranslation": "Taman Vondelpark di Amsterdam adalah tempat kumpul favorit para pemuda.",
-    "notes": "Ruang terbuka hijau asri untuk santai.",
+    "notes": "Ruang terbuka hijau asri untuk santai. Kata \"Park\" (cara baca: pahrk) digunakan dalam bahasa Belanda (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Taman kampus hijau\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2578,7 +2578,7 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Een echte academicus weet dat kennis macht is, maar karakter de ware kracht vormt.",
     "examplePhonetic": "Un ehkh-tuh ah-kah-day-mee-koos wayt daht keh-nees mahkht is, mahr kah-rahk-tuhr.",
     "exampleTranslation": "Akademisi sejati paham bahwa pengetahuan adalah kuasa, namun budi pekerti adalah kekuatan hakiki.",
-    "notes": "Makin berilmu makin santun dan tawadhu.",
+    "notes": "Makin berilmu makin santun dan tawadhu. Kata \"Kennis is macht, karakter is kracht\" (cara baca: keh-nees is mahkht, kah-rahk-tuhr is krahkht) digunakan dalam bahasa Belanda (tingkat B2, kategori Idiom & Peribahasa) untuk menyatakan \"Padi makin berisi makin runduk\".",
     "tags": [
       "idiom",
       "b2",
@@ -2692,11 +2692,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Op maandagochtend hebben we twee uur wiskunde.",
     "examplePhonetic": "Op maandagochtend hebben we twee uur wiskunde.",
     "exampleTranslation": "Pada Senin pagi, kami ada dua jam pelajaran matematika.",
-    "notes": "Hari Senin.",
+    "notes": "Hari Senin. Kata \"Maandag\" (cara baca: maːndɑx) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Senin\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2711,11 +2711,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Elke dinsdagmiddag is er een werkgroep sociologie.",
     "examplePhonetic": "Elke dinsdagmiddag is er een werkgroep sociologie.",
     "exampleTranslation": "Setiap Selasa siang ada kelompok belajar sosiologi.",
-    "notes": "Hari Selasa.",
+    "notes": "Hari Selasa. Kata \"Dinsdag\" (cara baca: dɪnsdɑx) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Selasa\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2730,11 +2730,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Op woensdag zijn de lessen om halftwee al afgelopen.",
     "examplePhonetic": "Op woensdag zijn de lessen om halftwee al afgelopen.",
     "exampleTranslation": "Pada hari Rabu pelajaran sudah selesai pada pukul setengah dua.",
-    "notes": "Hari Rabu.",
+    "notes": "Hari Rabu. Kata \"Woensdag\" (cara baca: vunsdɑx) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Rabu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2749,11 +2749,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "We hebben aanstaande donderdag een tussentijdse toets geschiedenis.",
     "examplePhonetic": "We hebben aanstaande donderdag een tussentijdse toets geschiedenis.",
     "exampleTranslation": "Kami ada ujian tengah semester sejarah hari Kamis mendatang.",
-    "notes": "Hari Kamis.",
+    "notes": "Hari Kamis. Kata \"Donderdag\" (cara baca: dɔndərdɑx) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Kamis\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2768,11 +2768,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Vrijdag is de laatste collegedag van deze lesweek.",
     "examplePhonetic": "Vrijdag is de laatste collegedag van deze lesweek.",
     "exampleTranslation": "Jumat adalah hari perkuliahan terakhir dalam pekan kuliah ini.",
-    "notes": "Hari Jumat.",
+    "notes": "Hari Jumat. Kata \"Vrijdag\" (cara baca: vrɛidɑx) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jumat\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2787,11 +2787,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Op zaterdag is de universiteitsbibliotheek geopend tot vijf uur.",
     "examplePhonetic": "Op zaterdag is de universiteitsbibliotheek geopend tot vijf uur.",
     "exampleTranslation": "Pada hari Sabtu perpustakaan universitas buka hingga pukul lima.",
-    "notes": "Hari Sabtu.",
+    "notes": "Hari Sabtu. Kata \"Zaterdag\" (cara baca: zaːtərdɑx) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Sabtu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2806,11 +2806,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Zondag is een rustdag voor alle scholieren en studenten.",
     "examplePhonetic": "Zondag is een rustdag voor alle scholieren en studenten.",
     "exampleTranslation": "Hari Minggu adalah hari istirahat bagi semua siswa dan mahasiswa.",
-    "notes": "Hari Minggu.",
+    "notes": "Hari Minggu. Kata \"Zondag\" (cara baca: zɔndɑx) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Minggu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2827,9 +2827,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jadwal pelajaran/kuliah baru sudah ada di portal mahasiswa sejak tadi pagi.",
     "notes": "Jadwal pelajaran atau jadwal kuliah (rooster).",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -2844,11 +2844,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Een normale schooldag begint om halfnegen 's ochtends.",
     "examplePhonetic": "Een normale schooldag begint om halfnegen 's ochtends.",
     "exampleTranslation": "Hari sekolah biasa dimulai pada pukul setengah sembilan pagi.",
-    "notes": "Hari sekolah atau hari kerja (werkdag).",
+    "notes": "Hari sekolah atau hari kerja (werkdag). Kata \"Schooldag\" (cara baca: sxoːldɑx) digunakan dalam bahasa Belanda (tingkat A2, kategori Waktu & Hari Sekolah) untuk menyatakan \"Hari Kerja\".",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2863,11 +2863,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In het weekend bestuderen we de leerstof voor het tentamen.",
     "examplePhonetic": "In het weekend bestuderen we de leerstof voor het tentamen.",
     "exampleTranslation": "Di akhir pekan kami mempelajari materi untuk ujian.",
-    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "notes": "Akhir pekan (Sabtu & Minggu). Kata \"Weekend\" (cara baca: vikeːnt) digunakan dalam bahasa Belanda (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -2882,11 +2882,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Wiskunde is een verplicht vak op de middelbare school.",
     "examplePhonetic": "Wiskunde is een verplicht vak op de middelbare school.",
     "exampleTranslation": "Matematika adalah mata pelajaran wajib di sekolah menengah.",
-    "notes": "Mata pelajaran matematika.",
+    "notes": "Mata pelajaran matematika. Kata \"Wiskunde\" (cara baca: ʋɪskʏndə) digunakan dalam bahasa Belanda (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Matematika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2901,11 +2901,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Bij natuurkunde doen we praktische proeven over zwaartekracht.",
     "examplePhonetic": "Bij natuurkunde doen we praktische proeven over zwaartekracht.",
     "exampleTranslation": "Dalam fisika kami melakukan eksperimen praktis tentang gravitasi.",
-    "notes": "Mata pelajaran fisika.",
+    "notes": "Mata pelajaran fisika. Kata \"Natuurkunde\" (cara baca: naːtyːrkʏndə) digunakan dalam bahasa Belanda (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Fisika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2920,11 +2920,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Tijdens de scheikundeles moeten alle leerlingen een veiligheidsbril dragen.",
     "examplePhonetic": "Tijdens de scheikundeles moeten alle leerlingen een veiligheidsbril dragen.",
     "exampleTranslation": "Selama pelajaran kimia semua siswa harus memakai kacamata pelindung.",
-    "notes": "Mata pelajaran kimia.",
+    "notes": "Mata pelajaran kimia. Kata \"Scheikunde\" (cara baca: sxɛikʏndə) digunakan dalam bahasa Belanda (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Kimia\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2939,11 +2939,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Biologie leert ons over de evolutie en het menselijk lichaam.",
     "examplePhonetic": "Biologie leert ons over de evolutie en het menselijk lichaam.",
     "exampleTranslation": "Biologi mengajarkan kita tentang evolusi dan tubuh manusia.",
-    "notes": "Mata pelajaran biologi.",
+    "notes": "Mata pelajaran biologi. Kata \"Biologie\" (cara baca: biːoːloːxi) digunakan dalam bahasa Belanda (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Biologi\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2958,11 +2958,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Geschiedenis geeft inzicht in de oorsprong van de moderne samenleving.",
     "examplePhonetic": "Geschiedenis geeft inzicht in de oorsprong van de moderne samenleving.",
     "exampleTranslation": "Sejarah memberikan pemahaman tentang asal-usul masyarakat modern.",
-    "notes": "Mata pelajaran sejarah.",
+    "notes": "Mata pelajaran sejarah. Kata \"Geschiedenis\" (cara baca: xəsxiːdənɪs) digunakan dalam bahasa Belanda (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sejarah\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2977,11 +2977,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "We gebruiken de atlas tijdens de les aardrijkskunde.",
     "examplePhonetic": "We gebruiken de atlas tijdens de les aardrijkskunde.",
     "exampleTranslation": "Kami menggunakan atlas saat pelajaran geografi.",
-    "notes": "Mata pelajaran geografi.",
+    "notes": "Mata pelajaran geografi. Kata \"Aardrijkskunde\" (cara baca: aːrdrɛikskʏndə) digunakan dalam bahasa Belanda (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Geografi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2996,11 +2996,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nederlandse letterkunde omvat klassieke romans en moderne poëzie.",
     "examplePhonetic": "Nederlandse letterkunde omvat klassieke romans en moderne poëzie.",
     "exampleTranslation": "Sastra Belanda mencakup novel klasik dan puisi modern.",
-    "notes": "Sastra dan literatur (literatuur).",
+    "notes": "Sastra dan literatur (literatuur). Kata \"Letterkunde\" (cara baca: lɛtərkʏndə) digunakan dalam bahasa Belanda (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sastra & Bahasa\".",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3015,11 +3015,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Informatica bereidt studenten voor op functies in softwareontwikkeling.",
     "examplePhonetic": "Informatica bereidt studenten voor op functies in softwareontwikkeling.",
     "exampleTranslation": "Informatika mempersiapkan mahasiswa untuk berkarier di pengembangan perangkat lunak.",
-    "notes": "Ilmu komputer / informatika.",
+    "notes": "Ilmu komputer / informatika. Kata \"Informatica\" (cara baca: ɪnfɔrmaːtikaː) digunakan dalam bahasa Belanda (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3034,11 +3034,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De faculteit economie onderzoekt wereldwijde handelsstromen.",
     "examplePhonetic": "De faculteit economie onderzoekt wereldwijde handelsstromen.",
     "exampleTranslation": "Fakultas ekonomi meneliti arus perdagangan dunia.",
-    "notes": "Ilmu ekonomi.",
+    "notes": "Ilmu ekonomi. Kata \"Economie\" (cara baca: eːkoːnoːmi) digunakan dalam bahasa Belanda (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Ekonomi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3053,11 +3053,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Filosofie stimuleert kritisch en logisch nadenken over ethische vraagstukken.",
     "examplePhonetic": "Filosofie stimuleert kritisch en logisch nadenken over ethische vraagstukken.",
     "exampleTranslation": "Filsafat merangsang pemikiran kritis dan logis tentang isu etika.",
-    "notes": "Filsafat.",
+    "notes": "Filsafat. Kata \"Filosofie\" (cara baca: fiːloːzoːfi) digunakan dalam bahasa Belanda (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Filsafat\".",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3072,11 +3072,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In de les beeldende kunst leren scholieren schilderen en beeldhouwen.",
     "examplePhonetic": "In de les beeldende kunst leren scholieren schilderen en beeldhouwen.",
     "exampleTranslation": "Dalam pelajaran seni rupa para siswa belajar melukis dan memahat.",
-    "notes": "Seni rupa dan seni visual.",
+    "notes": "Seni rupa dan seni visual. Kata \"Beeldende kunst\" (cara baca: beːldəndə kʏnst) digunakan dalam bahasa Belanda (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Seni Rupa & Kesenian\".",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3093,9 +3093,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Dalam penjasorkes kami bermain futsal di aula olahraga.",
     "notes": "Pendidikan jasmani dan olahraga (sering disingkat LO atau gym).",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3110,11 +3110,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De toelating tot de studie geneeskunde verloopt via een strenge selectie.",
     "examplePhonetic": "De toelating tot de studie geneeskunde verloopt via een strenge selectie.",
     "exampleTranslation": "Penerimaan program studi kedokteran berlangsung melalui seleksi yang ketat.",
-    "notes": "Ilmu kedokteran.",
+    "notes": "Ilmu kedokteran. Kata \"Geneeskunde\" (cara baca: xəneːskʏndə) digunakan dalam bahasa Belanda (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Kedokteran\".",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3129,11 +3129,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Studenten rechten bestuderen het burgerlijk wetboek en strafrecht.",
     "examplePhonetic": "Studenten rechten bestuderen het burgerlijk wetboek en strafrecht.",
     "exampleTranslation": "Mahasiswa hukum mempelajari kitab undang-undang hukum perdata dan pidana.",
-    "notes": "Ilmu hukum (rechtsgeleerdheid).",
+    "notes": "Ilmu hukum (rechtsgeleerdheid). Kata \"Rechten\" (cara baca: rɛxtən) digunakan dalam bahasa Belanda (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3150,9 +3150,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Di universitas teknik ia mempelajari ilmu teknik dan rekayasa.",
     "notes": "Teknik dan rekayasa (bouwkunde / techniek).",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3167,11 +3167,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "De docent wacht op de leerlingen in het klaslokaal.",
     "examplePhonetic": "De docent wacht op de leerlingen in het klaslokaal.",
     "exampleTranslation": "Guru menunggu para siswa di dalam ruang kelas.",
-    "notes": "Ruang kelas (lokaal).",
+    "notes": "Ruang kelas (lokaal). Kata \"Klaslokaal\" (cara baca: klɑsloːkaːl) digunakan dalam bahasa Belanda (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Ruang Kelas\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3186,11 +3186,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Veel studenten studeren in stilte in de universiteitsbibliotheek.",
     "examplePhonetic": "Veel studenten studeren in stilte in de universiteitsbibliotheek.",
     "exampleTranslation": "Banyak mahasiswa belajar dalam keheningan di perpustakaan universitas.",
-    "notes": "Perpustakaan (sering disingkat UB).",
+    "notes": "Perpustakaan (sering disingkat UB). Kata \"Bibliotheek\" (cara baca: biːbliːoːteːk) digunakan dalam bahasa Belanda (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Perpustakaan\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3205,11 +3205,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In het laboratorium voeren onderzoekers geavanceerde experimenten uit.",
     "examplePhonetic": "In het laboratorium voeren onderzoekers geavanceerde experimenten uit.",
     "exampleTranslation": "Di laboratorium para peneliti melakukan percobaan lanjutan.",
-    "notes": "Laboratorium sains (lab).",
+    "notes": "Laboratorium sains (lab). Kata \"Laboratorium\" (cara baca: laːboːraːtoːriːʏm) digunakan dalam bahasa Belanda (tingkat A2, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Sains\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3224,11 +3224,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Het openingscollege vindt plaats in de grote collegezaal van het hoofdgebouw.",
     "examplePhonetic": "Het openingscollege vindt plaats in de grote collegezaal van het hoofdgebouw.",
     "exampleTranslation": "Kuliah perdana diselenggarakan di auditorium / aula besar gedung utama.",
-    "notes": "Auditorium kuliah / aula besar (aula).",
+    "notes": "Auditorium kuliah / aula besar (aula). Kata \"Collegezaal\" (cara baca: kɔleːʒəzaːl) digunakan dalam bahasa Belanda (tingkat A2, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Auditorium\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3245,9 +3245,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Saat istirahat para guru minum kopi di ruang guru.",
     "notes": "Ruang guru sekolah / ruang dosen (lerarenkamer).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3264,9 +3264,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ruang kepala sekolah dan rektorat terletak di lantai tiga.",
     "notes": "Ruang rektor / biro rektorat kampus atau kepala sekolah.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3281,11 +3281,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "We lunchen tussen de middag gezellig in de schoolkantine.",
     "examplePhonetic": "We lunchen tussen de middag gezellig in de schoolkantine.",
     "exampleTranslation": "Kami makan siang dengan menyenangkan di kantin sekolah.",
-    "notes": "Kantin / kafetaria kampus (mensa).",
+    "notes": "Kantin / kafetaria kampus (mensa). Kata \"Kantine\" (cara baca: kɑntiːnə) digunakan dalam bahasa Belanda (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Kantin\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3302,9 +3302,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Pertandingan bola voli dimainkan di gedung olahraga/sporthal tertutup.",
     "notes": "Gimnasium / gedung sarana olahraga (gymzaal).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3321,9 +3321,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Dia menyewa kamar di asrama/rumah mahasiswa dekat kampus.",
     "notes": "Asrama mahasiswa / tempat tinggal bersama mahasiswa.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3340,9 +3340,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Untuk cedera ringan Anda langsung pergi ke ruang UKS/pos P3K di sekolah.",
     "notes": "Ruang UKS sekolah / pos pertolongan pertama (ziekenboeg).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3359,9 +3359,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Praktikum keterampilan digital diadakan di laboratorium komputer.",
     "notes": "Laboratorium komputer sekolah atau kampus.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3378,9 +3378,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Untuk surat bukti pendaftaran, Anda menghubungi bagian administrasi mahasiswa / tata usaha.",
     "notes": "Tata usaha sekolah / biro administrasi kemahasiswaan.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3397,9 +3397,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Bawalah buku teks yang tepat ke kelas untuk setiap mata pelajaran.",
     "notes": "Buku teks / buku paket ajar (studieboek).",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3416,9 +3416,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Guru menulis rumus dengan jelas di papan tulis sekolah.",
     "notes": "Papan tulis (krijtbord atau whiteboard).",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3433,11 +3433,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Heb je al je huiswerk voor morgen al afgemaakt?",
     "examplePhonetic": "Heb je al je huiswerk voor morgen al afgemaakt?",
     "exampleTranslation": "Apakah kamu sudah menyelesaikan semua pekerjaan rumahmu (PR) untuk besok?",
-    "notes": "Tugas rumah / PR sekolah.",
+    "notes": "Tugas rumah / PR sekolah. Kata \"Huiswerk\" (cara baca: hœysʋɛrk) digunakan dalam bahasa Belanda (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Tugas Rumah\".",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3454,9 +3454,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Minggu depan kami ada ujian tertulis untuk blok semester ini.",
     "notes": "Ujian evaluasi semester universitas (di sekolah: examen atau proefwerk).",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3471,11 +3471,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In Nederland dragen bijna geen scholen een verplicht schooluniform.",
     "examplePhonetic": "In Nederland dragen bijna geen scholen een verplicht schooluniform.",
     "exampleTranslation": "Di Belanda hampir tidak ada sekolah yang mewajibkan seragam sekolah.",
-    "notes": "Seragam sekolah.",
+    "notes": "Seragam sekolah. Kata \"Schooluniform\" (cara baca: sxoːlynifoːrm) digunakan dalam bahasa Belanda (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Seragam Sekolah\".",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3492,9 +3492,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Anda membutuhkan kartu mahasiswa (KTM) untuk meminjam buku dan mencetak dokumen.",
     "notes": "Kartu tanda mahasiswa (KTM) atau kartu pelajar (schoolpas).",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3509,11 +3509,11 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Dankzij een studiebeurs kan zij een master in het buitenland volgen.",
     "examplePhonetic": "Dankzij een studiebeurs kan zij een master in het buitenland volgen.",
     "exampleTranslation": "Berkat beasiswa studi, ia dapat menempuh program magister di luar negeri.",
-    "notes": "Beasiswa pendidikan.",
+    "notes": "Beasiswa pendidikan. Kata \"Studiebeurs\" (cara baca: styːdiːbøːrs) digunakan dalam bahasa Belanda (tingkat A2, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Beasiswa Pendidikan\".",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3530,9 +3530,9 @@ export const DUTCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Upacara penyerahan ijazah/wisuda yang meriah diadakan di aula universitas.",
     "notes": "Upacara wisuda kelulusan / penyerahan ijazah (afstuderen).",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];

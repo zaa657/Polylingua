@@ -12,24 +12,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konjugasi dua kata kerja paling fundamental dalam bahasa Prancis untuk menyatakan identitas, status, keberadaan, dan kepemilikan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Verbes Être & Avoir au Présent & Pronoms Sujets' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verbes Être & Avoir au Présent & Pronoms Sujets\" (Les verbes Être et Avoir au présent de l'indicatif) berfungsi untuk: konjugasi dua kata kerja paling fundamental dalam bahasa Prancis untuk menyatakan identitas, status, keberadaan, dan kepemilikan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je suis étudiant à l'université de la Sorbonne. — Saya adalah mahasiswa di Universitas Sorbonne."
+          "Rumus utama: Je suis / Tu es / Il est & J'ai / Tu as / Il a",
+          "Contoh 1: Je suis étudiant à l'université de la Sorbonne. (Je suis étudiant à l'université de la sorbonne.) — Saya adalah mahasiswa di Universitas Sorbonne."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Je suis / Tu es / Il est & J'ai / Tu as / Il a memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Je suis / Tu es / Il est & J'ai / Tu as / Il a\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk menyatakan kepemilikan, gunakan kata kerja avoir (j'ai), bukan être.",
         "ruleList": [
-          "Nous avons beaucoup de livres dans notre bibliothèque. — Kami memiliki banyak buku di perpustakaan kami."
+          "Polanya: Je suis / Tu es / Il est & J'ai / Tu as / Il a",
+          "Contoh 2: Nous avons beaucoup de livres dans notre bibliothèque. (Nus avons bocup de livres dans notre bibliothèke.) — Kami memiliki banyak buku di perpustakaan kami."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verbes Être & Avoir au Présent & Pronoms Sujets\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Elle est très intelligente et passionnée par la recherche. — Dia sangat cerdas dan bersemangat dalam penelitian."
+          "Contoh 3: Elle est très intelligente et passionnée par la recherche. (Elle est très intelligente et passionnée par la resyersye.) — Dia sangat cerdas dan bersemangat dalam penelitian.",
+          "Hindari kesalahan: \"je suis avoir\" → gunakan bentuk yang benar: \"j'ai\"."
         ]
       }
     ],
@@ -37,19 +40,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-1-ex-1",
         "native": "Je suis étudiant à l'université de la Sorbonne.",
-        "phonetic": "",
+        "phonetic": "Je suis étudiant à l'université de la sorbonne.",
         "translationId": "Saya adalah mahasiswa di Universitas Sorbonne."
       },
       {
         "id": "fr-gram-1-ex-2",
         "native": "Nous avons beaucoup de livres dans notre bibliothèque.",
-        "phonetic": "",
+        "phonetic": "Nus avons bocup de livres dans notre bibliothèke.",
         "translationId": "Kami memiliki banyak buku di perpustakaan kami."
       },
       {
         "id": "fr-gram-1-ex-3",
         "native": "Elle est très intelligente et passionnée par la recherche.",
-        "phonetic": "",
+        "phonetic": "Elle est très intelligente et passionnée par la resyersye.",
         "translationId": "Dia sangat cerdas dan bersemangat dalam penelitian."
       }
     ],
@@ -60,12 +63,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Untuk menyatakan kepemilikan, gunakan kata kerja avoir (j'ai), bukan être."
       },
       {
-        "incorrect": "je suis avoir (kesalahan umum)",
-        "correct": "j'ai",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Je suis",
+        "correct": "Mengikuti struktur Je suis / Tu es / Il est & J'ai / Tu as / Il a",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Je suis / Tu es / Il est & J'ai / Tu as / Il a\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Verbes Être & Avoir au Présent & Pronoms Sujets' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Verbes Être & Avoir au Présent & Pronoms Sujets\" (Je suis / Tu es / Il est & J'ai / Tu as / Il a) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-1-pg-1",
@@ -81,7 +84,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah sebuah universitas besar dengan kampus modern."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Je suis étudiant à l'université de la Sorbonne.\" berarti \"Saya adalah mahasiswa di Universitas Sorbonne.\"."
+        "explanation": "Kalimat \"Je suis étudiant à l'université de la Sorbonne.\" (dibaca: Je suis étudiant à l'université de la sorbonne.) berarti \"Saya adalah mahasiswa di Universitas Sorbonne.\". Kalimat ini menggunakan pola \"Je suis / Tu es / Il est & J'ai / Tu as / Il a\" (Verbes Être & Avoir au Présent & Pronoms Sujets) yang berfungsi untuk konjugasi dua kata kerja paling fundamental dalam bahasa Prancis untuk menyatakan identitas, status, keberadaan, dan kepemilikan."
       },
       {
         "id": "q-fr-gram-1-pg-2",
@@ -97,7 +100,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami mempelajari sastra Prancis dengan penuh semangat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nous avons beaucoup de livres dans notre bibliothèque.\" berarti \"Kami memiliki banyak buku di perpustakaan kami.\"."
+        "explanation": "Kalimat \"Nous avons beaucoup de livres dans notre bibliothèque.\" (dibaca: Nus avons bocup de livres dans notre bibliothèke.) berarti \"Kami memiliki banyak buku di perpustakaan kami.\". Kalimat ini menggunakan pola \"Je suis / Tu es / Il est & J'ai / Tu as / Il a\" (Verbes Être & Avoir au Présent & Pronoms Sujets) yang berfungsi untuk konjugasi dua kata kerja paling fundamental dalam bahasa Prancis untuk menyatakan identitas, status, keberadaan, dan kepemilikan."
       },
       {
         "id": "q-fr-gram-1-pg-3",
@@ -113,7 +116,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kamu tinggal di dekat kampus universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Elle est très intelligente et passionnée par la recherche.\" berarti \"Dia sangat cerdas dan bersemangat dalam penelitian.\"."
+        "explanation": "Kalimat \"Elle est très intelligente et passionnée par la recherche.\" (dibaca: Elle est très intelligente et passionnée par la resyersye.) berarti \"Dia sangat cerdas dan bersemangat dalam penelitian.\". Kalimat ini menggunakan pola \"Je suis / Tu es / Il est & J'ai / Tu as / Il a\" (Verbes Être & Avoir au Présent & Pronoms Sujets) yang berfungsi untuk konjugasi dua kata kerja paling fundamental dalam bahasa Prancis untuk menyatakan identitas, status, keberadaan, dan kepemilikan."
       },
       {
         "id": "q-fr-gram-1-pg-4",
@@ -133,7 +136,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-1-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Verbes Être & Avoir au Présent & Pronoms Sujets\"?",
         "options": [
           "Nous avons beaucoup de livres dans notre bibliothèque. — Kami memiliki banyak buku di perpustakaan kami.",
           "C'est une grande université avec un campus moderne. — Ini adalah sebuah universitas besar dengan kampus modern.",
@@ -147,7 +150,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-1-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Verbes Être & Avoir au Présent & Pronoms Sujets\"?",
         "options": [
           "Le professeur explique la leçon aux étudiants. — Profesor menjelaskan pelajaran tersebut kepada para mahasiswa.",
           "Elle est très intelligente et passionnée par la recherche. — Dia sangat cerdas dan bersemangat dalam penelitian.",
@@ -161,7 +164,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-1-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Verbes Être & Avoir au Présent & Pronoms Sujets\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -408,7 +411,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menjelaskan pelajaran tersebut kepada para mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Je suis étudiant à l'université de la Sorbonne.\" berarti \"Saya adalah mahasiswa di Universitas Sorbonne.\"."
+        "explanation": "Kalimat \"Je suis étudiant à l'université de la Sorbonne.\" (dibaca: Je suis étudiant à l'université de la sorbonne.) berarti \"Saya adalah mahasiswa di Universitas Sorbonne.\". Kalimat ini menggunakan pola \"Je suis / Tu es / Il est & J'ai / Tu as / Il a\" (Verbes Être & Avoir au Présent & Pronoms Sujets) yang berfungsi untuk konjugasi dua kata kerja paling fundamental dalam bahasa Prancis untuk menyatakan identitas, status, keberadaan, dan kepemilikan."
       },
       {
         "id": "q-fr-gram-1-bb-2",
@@ -483,24 +486,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Sistem gender kata benda maskulin dan feminin serta pemilihan artikel definit dan indefinit.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Articles Définis, Indéfinis et Genre des Noms' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Articles Définis, Indéfinis et Genre des Noms\" (Le genre des noms et les articles définis (le/la/les) et indéfinis (un/une/des)) berfungsi untuk: sistem gender kata benda maskulin dan feminin serta pemilihan artikel definit dan indefinit. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Le professeur explique la leçon aux étudiants. — Profesor menjelaskan pelajaran tersebut kepada para mahasiswa."
+          "Rumus utama: Le / La / Les & Un / Une / Des + Nom",
+          "Contoh 1: Le professeur explique la leçon aux étudiants. (Le professer explike la leçon ox étudiants.) — Profesor menjelaskan pelajaran tersebut kepada para mahasiswa."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Le / La / Les & Un / Une / Des + Nom memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Le / La / Les & Un / Une / Des + Nom\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Di depan huruf vokal atau h bisu, artikel definit le/la disingkat (elisi) menjadi l'.",
         "ruleList": [
-          "C'est une grande université avec un campus moderne. — Ini adalah sebuah universitas besar dengan kampus modern."
+          "Polanya: Le / La / Les & Un / Une / Des + Nom",
+          "Contoh 2: C'est une grande université avec un campus moderne. (C'est une grande université avec un campus moderne.) — Ini adalah sebuah universitas besar dengan kampus modern."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Articles Définis, Indéfinis et Genre des Noms\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Les cours commencent toujours à l'heure. — Perkuliahan selalu dimulai tepat waktu."
+          "Contoh 3: Les cours commencent toujours à l'heure. (Les curs commencent tujurs à l'here.) — Perkuliahan selalu dimulai tepat waktu.",
+          "Hindari kesalahan: \"le université\" → gunakan bentuk yang benar: \"l'université\"."
         ]
       }
     ],
@@ -508,19 +514,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-2-ex-1",
         "native": "Le professeur explique la leçon aux étudiants.",
-        "phonetic": "",
+        "phonetic": "Le professer explike la leçon ox étudiants.",
         "translationId": "Profesor menjelaskan pelajaran tersebut kepada para mahasiswa."
       },
       {
         "id": "fr-gram-2-ex-2",
         "native": "C'est une grande université avec un campus moderne.",
-        "phonetic": "",
+        "phonetic": "C'est une grande université avec un campus moderne.",
         "translationId": "Ini adalah sebuah universitas besar dengan kampus modern."
       },
       {
         "id": "fr-gram-2-ex-3",
         "native": "Les cours commencent toujours à l'heure.",
-        "phonetic": "",
+        "phonetic": "Les curs commencent tujurs à l'here.",
         "translationId": "Perkuliahan selalu dimulai tepat waktu."
       }
     ],
@@ -531,12 +537,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Di depan huruf vokal atau h bisu, artikel definit le/la disingkat (elisi) menjadi l'."
       },
       {
-        "incorrect": "le université (kesalahan umum)",
-        "correct": "l'université",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Le",
+        "correct": "Mengikuti struktur Le / La / Les & Un / Une / Des + Nom",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Le / La / Les & Un / Une / Des + Nom\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Articles Définis, Indéfinis et Genre des Noms' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Articles Définis, Indéfinis et Genre des Noms\" (Le / La / Les & Un / Une / Des + Nom) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-2-pg-1",
@@ -552,7 +558,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka berbicara beberapa bahasa asing dengan fasih."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Le professeur explique la leçon aux étudiants.\" berarti \"Profesor menjelaskan pelajaran tersebut kepada para mahasiswa.\"."
+        "explanation": "Kalimat \"Le professeur explique la leçon aux étudiants.\" (dibaca: Le professer explike la leçon ox étudiants.) berarti \"Profesor menjelaskan pelajaran tersebut kepada para mahasiswa.\". Kalimat ini menggunakan pola \"Le / La / Les & Un / Une / Des + Nom\" (Articles Définis, Indéfinis et Genre des Noms) yang berfungsi untuk sistem gender kata benda maskulin dan feminin serta pemilihan artikel definit dan indefinit."
       },
       {
         "id": "q-fr-gram-2-pg-2",
@@ -568,7 +574,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak memahami kaidah tata bahasa ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"C'est une grande université avec un campus moderne.\" berarti \"Ini adalah sebuah universitas besar dengan kampus modern.\"."
+        "explanation": "Kalimat \"C'est une grande université avec un campus moderne.\" (dibaca: C'est une grande université avec un campus moderne.) berarti \"Ini adalah sebuah universitas besar dengan kampus modern.\". Kalimat ini menggunakan pola \"Le / La / Les & Un / Une / Des + Nom\" (Articles Définis, Indéfinis et Genre des Noms) yang berfungsi untuk sistem gender kata benda maskulin dan feminin serta pemilihan artikel definit dan indefinit."
       },
       {
         "id": "q-fr-gram-2-pg-3",
@@ -584,7 +590,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Perkuliahan selalu dimulai tepat waktu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Les cours commencent toujours à l'heure.\" berarti \"Perkuliahan selalu dimulai tepat waktu.\"."
+        "explanation": "Kalimat \"Les cours commencent toujours à l'heure.\" (dibaca: Les curs commencent tujurs à l'here.) berarti \"Perkuliahan selalu dimulai tepat waktu.\". Kalimat ini menggunakan pola \"Le / La / Les & Un / Une / Des + Nom\" (Articles Définis, Indéfinis et Genre des Noms) yang berfungsi untuk sistem gender kata benda maskulin dan feminin serta pemilihan artikel definit dan indefinit."
       },
       {
         "id": "q-fr-gram-2-pg-4",
@@ -604,7 +610,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-2-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Articles Définis, Indéfinis et Genre des Noms\"?",
         "options": [
           "Ils parlent plusieurs langues étrangères couramment. — Mereka berbicara beberapa bahasa asing dengan fasih.",
           "C'est une grande université avec un campus moderne. — Ini adalah sebuah universitas besar dengan kampus modern.",
@@ -618,7 +624,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-2-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Articles Définis, Indéfinis et Genre des Noms\"?",
         "options": [
           "Nous étudions la littérature française avec passion. — Kami mempelajari sastra Prancis dengan penuh semangat.",
           "Tu habites près du campus universitaire. — Kamu tinggal di dekat kampus universitas.",
@@ -632,7 +638,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-2-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Articles Définis, Indéfinis et Genre des Noms\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -883,7 +889,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menjelaskan pelajaran tersebut kepada para mahasiswa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le professeur explique la leçon aux étudiants.\" berarti \"Profesor menjelaskan pelajaran tersebut kepada para mahasiswa.\"."
+        "explanation": "Kalimat \"Le professeur explique la leçon aux étudiants.\" (dibaca: Le professer explike la leçon ox étudiants.) berarti \"Profesor menjelaskan pelajaran tersebut kepada para mahasiswa.\". Kalimat ini menggunakan pola \"Le / La / Les & Un / Une / Des + Nom\" (Articles Définis, Indéfinis et Genre des Noms) yang berfungsi untuk sistem gender kata benda maskulin dan feminin serta pemilihan artikel definit dan indefinit."
       },
       {
         "id": "q-fr-gram-2-bb-2",
@@ -958,24 +964,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pola konjugasi kelompok kata kerja beraturan terbesar dalam bahasa Prancis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Verbes du Premier Groupe (-er) au Présent' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verbes du Premier Groupe (-er) au Présent\" (La conjugaison des verbes réguliers en -er au présent) berfungsi untuk: pola konjugasi kelompok kata kerja beraturan terbesar dalam bahasa Prancis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Nous étudions la littérature française avec passion. — Kami mempelajari sastra Prancis dengan penuh semangat."
+          "Rumus utama: Radical + -e, -es, -e, -ons, -ez, -ent",
+          "Contoh 1: Nous étudions la littérature française avec passion. (Nus étudions la littérature française avec passion.) — Kami mempelajari sastra Prancis dengan penuh semangat."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Radical + -e, -es, -e, -ons, -ez, -ent memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Radical + -e, -es, -e, -ons, -ez, -ent\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Akhiran konjugasi untuk orang pertama jamak (nous) adalah -ons.",
         "ruleList": [
-          "Ils parlent plusieurs langues étrangères couramment. — Mereka berbicara beberapa bahasa asing dengan fasih."
+          "Polanya: Radical + -e, -es, -e, -ons, -ez, -ent",
+          "Contoh 2: Ils parlent plusieurs langues étrangères couramment. (Ils parlent plusiers langues étrangères curamment.) — Mereka berbicara beberapa bahasa asing dengan fasih."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verbes du Premier Groupe (-er) au Présent\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Tu habites près du campus universitaire. — Kamu tinggal di dekat kampus universitas."
+          "Contoh 3: Tu habites près du campus universitaire. (Tu habites près du campus universitaire.) — Kamu tinggal di dekat kampus universitas.",
+          "Hindari kesalahan: \"nous étudiez\" → gunakan bentuk yang benar: \"nous étudions\"."
         ]
       }
     ],
@@ -983,19 +992,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-3-ex-1",
         "native": "Nous étudions la littérature française avec passion.",
-        "phonetic": "",
+        "phonetic": "Nus étudions la littérature française avec passion.",
         "translationId": "Kami mempelajari sastra Prancis dengan penuh semangat."
       },
       {
         "id": "fr-gram-3-ex-2",
         "native": "Ils parlent plusieurs langues étrangères couramment.",
-        "phonetic": "",
+        "phonetic": "Ils parlent plusiers langues étrangères curamment.",
         "translationId": "Mereka berbicara beberapa bahasa asing dengan fasih."
       },
       {
         "id": "fr-gram-3-ex-3",
         "native": "Tu habites près du campus universitaire.",
-        "phonetic": "",
+        "phonetic": "Tu habites près du campus universitaire.",
         "translationId": "Kamu tinggal di dekat kampus universitas."
       }
     ],
@@ -1006,12 +1015,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Akhiran konjugasi untuk orang pertama jamak (nous) adalah -ons."
       },
       {
-        "incorrect": "nous étudiez (kesalahan umum)",
-        "correct": "nous étudions",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Radical + -e, -es, -e, -ons, -ez, -ent",
+        "correct": "Mengikuti struktur Radical + -e, -es, -e, -ons, -ez, -ent",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Radical + -e, -es, -e, -ons, -ez, -ent\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Verbes du Premier Groupe (-er) au Présent' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Verbes du Premier Groupe (-er) au Présent\" (Radical + -e, -es, -e, -ons, -ez, -ent) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-3-pg-1",
@@ -1027,7 +1036,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia tidak tinggal di Paris, dia tinggal di Lyon."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nous étudions la littérature française avec passion.\" berarti \"Kami mempelajari sastra Prancis dengan penuh semangat.\"."
+        "explanation": "Kalimat \"Nous étudions la littérature française avec passion.\" (dibaca: Nus étudions la littérature française avec passion.) berarti \"Kami mempelajari sastra Prancis dengan penuh semangat.\". Kalimat ini menggunakan pola \"Radical + -e, -es, -e, -ons, -ez, -ent\" (Verbes du Premier Groupe (-er) au Présent) yang berfungsi untuk pola konjugasi kelompok kata kerja beraturan terbesar dalam bahasa Prancis."
       },
       {
         "id": "q-fr-gram-3-pg-2",
@@ -1043,7 +1052,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka berbicara beberapa bahasa asing dengan fasih."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ils parlent plusieurs langues étrangères couramment.\" berarti \"Mereka berbicara beberapa bahasa asing dengan fasih.\"."
+        "explanation": "Kalimat \"Ils parlent plusieurs langues étrangères couramment.\" (dibaca: Ils parlent plusiers langues étrangères curamment.) berarti \"Mereka berbicara beberapa bahasa asing dengan fasih.\". Kalimat ini menggunakan pola \"Radical + -e, -es, -e, -ons, -ez, -ent\" (Verbes du Premier Groupe (-er) au Présent) yang berfungsi untuk pola konjugasi kelompok kata kerja beraturan terbesar dalam bahasa Prancis."
       },
       {
         "id": "q-fr-gram-3-pg-3",
@@ -1059,7 +1068,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia mengenakan syal biru yang indah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Tu habites près du campus universitaire.\" berarti \"Kamu tinggal di dekat kampus universitas.\"."
+        "explanation": "Kalimat \"Tu habites près du campus universitaire.\" (dibaca: Tu habites près du campus universitaire.) berarti \"Kamu tinggal di dekat kampus universitas.\". Kalimat ini menggunakan pola \"Radical + -e, -es, -e, -ons, -ez, -ent\" (Verbes du Premier Groupe (-er) au Présent) yang berfungsi untuk pola konjugasi kelompok kata kerja beraturan terbesar dalam bahasa Prancis."
       },
       {
         "id": "q-fr-gram-3-pg-4",
@@ -1079,7 +1088,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-3-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Verbes du Premier Groupe (-er) au Présent\"?",
         "options": [
           "Il n'habite pas à Paris, il habite à Lyon. — Dia tidak tinggal di Paris, dia tinggal di Lyon.",
           "C'est une bibliothèque historique très célèbre. — Ini adalah perpustakaan bersejarah yang sangat terkenal.",
@@ -1093,7 +1102,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-3-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Verbes du Premier Groupe (-er) au Présent\"?",
         "options": [
           "Je ne comprends pas cette règle de grammaire. — Saya tidak memahami kaidah tata bahasa ini.",
           "Nous ne parlons pas encore couramment l'espagnol. — Kami belum berbicara bahasa Spanyol dengan lancar.",
@@ -1107,7 +1116,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-3-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Verbes du Premier Groupe (-er) au Présent\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -1358,7 +1367,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak memahami kaidah tata bahasa ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nous étudions la littérature française avec passion.\" berarti \"Kami mempelajari sastra Prancis dengan penuh semangat.\"."
+        "explanation": "Kalimat \"Nous étudions la littérature française avec passion.\" (dibaca: Nus étudions la littérature française avec passion.) berarti \"Kami mempelajari sastra Prancis dengan penuh semangat.\". Kalimat ini menggunakan pola \"Radical + -e, -es, -e, -ons, -ez, -ent\" (Verbes du Premier Groupe (-er) au Présent) yang berfungsi untuk pola konjugasi kelompok kata kerja beraturan terbesar dalam bahasa Prancis."
       },
       {
         "id": "q-fr-gram-3-bb-2",
@@ -1433,24 +1442,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk kalimat penyangkalan dasar dengan mengapit kata kerja menggunakan partikel ne dan pas.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'La Négation de Base avec Ne... Pas' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"La Négation de Base avec Ne... Pas\" (La structure de la négation simple : Ne + Verbe + Pas) berfungsi untuk: membentuk kalimat penyangkalan dasar dengan mengapit kata kerja menggunakan partikel ne dan pas. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je ne comprends pas cette règle de grammaire. — Saya tidak memahami kaidah tata bahasa ini."
+          "Rumus utama: Sujet + ne (n') + Verbe + pas",
+          "Contoh 1: Je ne comprends pas cette règle de grammaire. (Je ne comprends pas cette règle de grammaire.) — Saya tidak memahami kaidah tata bahasa ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Sujet + ne (n') + Verbe + pas memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sujet + ne (n') + Verbe + pas\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa tulis formal, partikel penyangkalan 'ne' wajib disertakan.",
         "ruleList": [
-          "Il n'habite pas à Paris, il habite à Lyon. — Dia tidak tinggal di Paris, dia tinggal di Lyon."
+          "Polanya: Sujet + ne (n') + Verbe + pas",
+          "Contoh 2: Il n'habite pas à Paris, il habite à Lyon. (Il n'habite pas à paris, il habite à lyon.) — Dia tidak tinggal di Paris, dia tinggal di Lyon."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"La Négation de Base avec Ne... Pas\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nous ne parlons pas encore couramment l'espagnol. — Kami belum berbicara bahasa Spanyol dengan lancar."
+          "Contoh 3: Nous ne parlons pas encore couramment l'espagnol. (Nus ne parlons pas encore curamment l'espanyol.) — Kami belum berbicara bahasa Spanyol dengan lancar.",
+          "Hindari kesalahan: \"je comprends pas (à l'écrit formel)\" → gunakan bentuk yang benar: \"je ne comprends pas\"."
         ]
       }
     ],
@@ -1458,19 +1470,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-4-ex-1",
         "native": "Je ne comprends pas cette règle de grammaire.",
-        "phonetic": "",
+        "phonetic": "Je ne comprends pas cette règle de grammaire.",
         "translationId": "Saya tidak memahami kaidah tata bahasa ini."
       },
       {
         "id": "fr-gram-4-ex-2",
         "native": "Il n'habite pas à Paris, il habite à Lyon.",
-        "phonetic": "",
+        "phonetic": "Il n'habite pas à paris, il habite à lyon.",
         "translationId": "Dia tidak tinggal di Paris, dia tinggal di Lyon."
       },
       {
         "id": "fr-gram-4-ex-3",
         "native": "Nous ne parlons pas encore couramment l'espagnol.",
-        "phonetic": "",
+        "phonetic": "Nus ne parlons pas encore curamment l'espanyol.",
         "translationId": "Kami belum berbicara bahasa Spanyol dengan lancar."
       }
     ],
@@ -1481,12 +1493,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Dalam bahasa tulis formal, partikel penyangkalan 'ne' wajib disertakan."
       },
       {
-        "incorrect": "je comprends pas (à l'écrit formel) (kesalahan umum)",
-        "correct": "je ne comprends pas",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Sujet + ne (n') + Verbe + pas",
+        "correct": "Mengikuti struktur Sujet + ne (n') + Verbe + pas",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Sujet + ne (n') + Verbe + pas\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'La Négation de Base avec Ne... Pas' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"La Négation de Base avec Ne... Pas\" (Sujet + ne (n') + Verbe + pas) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-4-pg-1",
@@ -1502,7 +1514,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak memahami kaidah tata bahasa ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Je ne comprends pas cette règle de grammaire.\" berarti \"Saya tidak memahami kaidah tata bahasa ini.\"."
+        "explanation": "Kalimat \"Je ne comprends pas cette règle de grammaire.\" (dibaca: Je ne comprends pas cette règle de grammaire.) berarti \"Saya tidak memahami kaidah tata bahasa ini.\". Kalimat ini menggunakan pola \"Sujet + ne (n') + Verbe + pas\" (La Négation de Base avec Ne... Pas) yang berfungsi untuk membentuk kalimat penyangkalan dasar dengan mengapit kata kerja menggunakan partikel ne dan pas."
       },
       {
         "id": "q-fr-gram-4-pg-2",
@@ -1518,7 +1530,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda sedang mempersiapkan gelar magister?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Il n'habite pas à Paris, il habite à Lyon.\" berarti \"Dia tidak tinggal di Paris, dia tinggal di Lyon.\"."
+        "explanation": "Kalimat \"Il n'habite pas à Paris, il habite à Lyon.\" (dibaca: Il n'habite pas à paris, il habite à lyon.) berarti \"Dia tidak tinggal di Paris, dia tinggal di Lyon.\". Kalimat ini menggunakan pola \"Sujet + ne (n') + Verbe + pas\" (La Négation de Base avec Ne... Pas) yang berfungsi untuk membentuk kalimat penyangkalan dasar dengan mengapit kata kerja menggunakan partikel ne dan pas."
       },
       {
         "id": "q-fr-gram-4-pg-3",
@@ -1534,7 +1546,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Di manakah letak laboratorium penelitian ilmiah?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nous ne parlons pas encore couramment l'espagnol.\" berarti \"Kami belum berbicara bahasa Spanyol dengan lancar.\"."
+        "explanation": "Kalimat \"Nous ne parlons pas encore couramment l'espagnol.\" (dibaca: Nus ne parlons pas encore curamment l'espanyol.) berarti \"Kami belum berbicara bahasa Spanyol dengan lancar.\". Kalimat ini menggunakan pola \"Sujet + ne (n') + Verbe + pas\" (La Négation de Base avec Ne... Pas) yang berfungsi untuk membentuk kalimat penyangkalan dasar dengan mengapit kata kerja menggunakan partikel ne dan pas."
       },
       {
         "id": "q-fr-gram-4-pg-4",
@@ -1554,7 +1566,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-4-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Négation de Base avec Ne... Pas\"?",
         "options": [
           "Les nouveaux étudiants sont accueillis chaleureusement. — Para mahasiswa baru disambut dengan hangat.",
           "Est-ce que vous préparez un diplôme de master? — Apakah Anda sedang mempersiapkan gelar magister?",
@@ -1568,7 +1580,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-4-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Négation de Base avec Ne... Pas\"?",
         "options": [
           "Nous ne parlons pas encore couramment l'espagnol. — Kami belum berbicara bahasa Spanyol dengan lancar.",
           "C'est une bibliothèque historique très célèbre. — Ini adalah perpustakaan bersejarah yang sangat terkenal.",
@@ -1582,7 +1594,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-4-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Négation de Base avec Ne... Pas\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -1833,7 +1845,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah perpustakaan bersejarah yang sangat terkenal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Je ne comprends pas cette règle de grammaire.\" berarti \"Saya tidak memahami kaidah tata bahasa ini.\"."
+        "explanation": "Kalimat \"Je ne comprends pas cette règle de grammaire.\" (dibaca: Je ne comprends pas cette règle de grammaire.) berarti \"Saya tidak memahami kaidah tata bahasa ini.\". Kalimat ini menggunakan pola \"Sujet + ne (n') + Verbe + pas\" (La Négation de Base avec Ne... Pas) yang berfungsi untuk membentuk kalimat penyangkalan dasar dengan mengapit kata kerja menggunakan partikel ne dan pas."
       },
       {
         "id": "q-fr-gram-4-bb-2",
@@ -1908,24 +1920,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Penyelarasan kata sifat dengan gender dan jumlah nomina yang diterangkannya serta aturan posisinya.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre\" (L'accord et la place des adjectifs qualificatifs) berfungsi untuk: penyelarasan kata sifat dengan gender dan jumlah nomina yang diterangkannya serta aturan posisinya. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "C'est une bibliothèque historique très célèbre. — Ini adalah perpustakaan bersejarah yang sangat terkenal."
+          "Rumus utama: Nom + Adjectif (Accord en Genre: +e / Nombre: +s)",
+          "Contoh 1: C'est une bibliothèque historique très célèbre. (C'est une bibliothèke historike très célèbre.) — Ini adalah perpustakaan bersejarah yang sangat terkenal."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Nom + Adjectif (Accord en Genre: +e / Nombre: +s) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Nom + Adjectif (Accord en Genre: +e / Nombre: +s)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata benda livre bergender maskulin, sehingga menggunakan artikel un dan kata sifat maskulin.",
         "ruleList": [
-          "Les nouveaux étudiants sont accueillis chaleureusement. — Para mahasiswa baru disambut dengan hangat."
+          "Polanya: Nom + Adjectif (Accord en Genre: +e / Nombre: +s)",
+          "Contoh 2: Les nouveaux étudiants sont accueillis chaleureusement. (Les nuvox étudiants sont accueillis syaleresement.) — Para mahasiswa baru disambut dengan hangat."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Elle porte une belle écharpe bleue. — Dia mengenakan syal biru yang indah."
+          "Contoh 3: Elle porte une belle écharpe bleue. (Elle porte une belle ésyarpe blee.) — Dia mengenakan syal biru yang indah.",
+          "Hindari kesalahan: \"une livre intéressant\" → gunakan bentuk yang benar: \"un livre intéressant\"."
         ]
       }
     ],
@@ -1933,19 +1948,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-5-ex-1",
         "native": "C'est une bibliothèque historique très célèbre.",
-        "phonetic": "",
+        "phonetic": "C'est une bibliothèke historike très célèbre.",
         "translationId": "Ini adalah perpustakaan bersejarah yang sangat terkenal."
       },
       {
         "id": "fr-gram-5-ex-2",
         "native": "Les nouveaux étudiants sont accueillis chaleureusement.",
-        "phonetic": "",
+        "phonetic": "Les nuvox étudiants sont accueillis syaleresement.",
         "translationId": "Para mahasiswa baru disambut dengan hangat."
       },
       {
         "id": "fr-gram-5-ex-3",
         "native": "Elle porte une belle écharpe bleue.",
-        "phonetic": "",
+        "phonetic": "Elle porte une belle ésyarpe blee.",
         "translationId": "Dia mengenakan syal biru yang indah."
       }
     ],
@@ -1956,12 +1971,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata benda livre bergender maskulin, sehingga menggunakan artikel un dan kata sifat maskulin."
       },
       {
-        "incorrect": "une livre intéressant (kesalahan umum)",
-        "correct": "un livre intéressant",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Nom + Adjectif (Accord en Genre: +e",
+        "correct": "Mengikuti struktur Nom + Adjectif (Accord en Genre: +e / Nombre: +s)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Nom + Adjectif (Accord en Genre: +e / Nombre: +s)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre\" (Nom + Adjectif (Accord en Genre: +e / Nombre: +s)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-5-pg-1",
@@ -1977,7 +1992,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"C'est une bibliothèque historique très célèbre.\" berarti \"Ini adalah perpustakaan bersejarah yang sangat terkenal.\"."
+        "explanation": "Kalimat \"C'est une bibliothèque historique très célèbre.\" (dibaca: C'est une bibliothèke historike très célèbre.) berarti \"Ini adalah perpustakaan bersejarah yang sangat terkenal.\". Kalimat ini menggunakan pola \"Nom + Adjectif (Accord en Genre: +e / Nombre: +s)\" (Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre) yang berfungsi untuk penyelarasan kata sifat dengan gender dan jumlah nomina yang diterangkannya serta aturan posisinya."
       },
       {
         "id": "q-fr-gram-5-pg-2",
@@ -1993,7 +2008,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor linguistik saya sangat kompeten."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Les nouveaux étudiants sont accueillis chaleureusement.\" berarti \"Para mahasiswa baru disambut dengan hangat.\"."
+        "explanation": "Kalimat \"Les nouveaux étudiants sont accueillis chaleureusement.\" (dibaca: Les nuvox étudiants sont accueillis syaleresement.) berarti \"Para mahasiswa baru disambut dengan hangat.\". Kalimat ini menggunakan pola \"Nom + Adjectif (Accord en Genre: +e / Nombre: +s)\" (Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre) yang berfungsi untuk penyelarasan kata sifat dengan gender dan jumlah nomina yang diterangkannya serta aturan posisinya."
       },
       {
         "id": "q-fr-gram-5-pg-3",
@@ -2009,7 +2024,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah teman masa kecil perempuan saya (memakai mon di depan huruf vokal)."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Elle porte une belle écharpe bleue.\" berarti \"Dia mengenakan syal biru yang indah.\"."
+        "explanation": "Kalimat \"Elle porte une belle écharpe bleue.\" (dibaca: Elle porte une belle ésyarpe blee.) berarti \"Dia mengenakan syal biru yang indah.\". Kalimat ini menggunakan pola \"Nom + Adjectif (Accord en Genre: +e / Nombre: +s)\" (Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre) yang berfungsi untuk penyelarasan kata sifat dengan gender dan jumlah nomina yang diterangkannya serta aturan posisinya."
       },
       {
         "id": "q-fr-gram-5-pg-4",
@@ -2029,7 +2044,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-5-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre\"?",
         "options": [
           "Les nouveaux étudiants sont accueillis chaleureusement. — Para mahasiswa baru disambut dengan hangat.",
           "Parlez-vous français avec vos camarades de classe? — Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?",
@@ -2043,7 +2058,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-5-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre\"?",
         "options": [
           "Est-ce que vous préparez un diplôme de master? — Apakah Anda sedang mempersiapkan gelar magister?",
           "Elle porte une belle écharpe bleue. — Dia mengenakan syal biru yang indah.",
@@ -2057,7 +2072,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-5-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2309,7 +2324,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda sedang mempersiapkan gelar magister?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"C'est une bibliothèque historique très célèbre.\" berarti \"Ini adalah perpustakaan bersejarah yang sangat terkenal.\"."
+        "explanation": "Kalimat \"C'est une bibliothèque historique très célèbre.\" (dibaca: C'est une bibliothèke historike très célèbre.) berarti \"Ini adalah perpustakaan bersejarah yang sangat terkenal.\". Kalimat ini menggunakan pola \"Nom + Adjectif (Accord en Genre: +e / Nombre: +s)\" (Les Adjectifs Qualificatifs & L'Accord en Genre et Nombre) yang berfungsi untuk penyelarasan kata sifat dengan gender dan jumlah nomina yang diterangkannya serta aturan posisinya."
       },
       {
         "id": "q-fr-gram-5-bb-2",
@@ -2384,24 +2399,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Tiga cara bertanya: intonasi naik kasual, est-ce que untuk situasi standar, dan inversi untuk ragam formal.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'L'Interrogation (Est-ce que, Inversion, Intonation)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"L'Interrogation (Est-ce que, Inversion, Intonation)\" (Les trois formes de l'interrogation en français) berfungsi untuk: tiga cara bertanya: intonasi naik kasual, est-ce que untuk situasi standar, dan inversi untuk ragam formal. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Est-ce que vous préparez un diplôme de master? — Apakah Anda sedang mempersiapkan gelar magister?"
+          "Rumus utama: Est-ce que + Phrase? / Inversion Verbe-Sujet?",
+          "Contoh 1: Est-ce que vous préparez un diplôme de master? (Est-ce ke vus préparez un diplôme de master?) — Apakah Anda sedang mempersiapkan gelar magister?"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Est-ce que + Phrase? / Inversion Verbe-Sujet? memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Est-ce que + Phrase? / Inversion Verbe-Sujet?\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Jangan menggabungkan rumus est-ce que dengan pembalikan (inversi) subjek-kata kerja.",
         "ruleList": [
-          "Parlez-vous français avec vos camarades de classe? — Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?"
+          "Polanya: Est-ce que + Phrase? / Inversion Verbe-Sujet?",
+          "Contoh 2: Parlez-vous français avec vos camarades de classe? (Parlez-vus français avec vos camarades de classe?) — Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?"
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"L'Interrogation (Est-ce que, Inversion, Intonation)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Où se trouve le laboratoire de recherche scientifique? — Di manakah letak laboratorium penelitian ilmiah?"
+          "Contoh 3: Où se trouve le laboratoire de recherche scientifique? (Où se truve le laboratware de resyersye scientifike?) — Di manakah letak laboratorium penelitian ilmiah?",
+          "Hindari kesalahan: \"est-ce que parlez-vous?\" → gunakan bentuk yang benar: \"parlez-vous? / est-ce que vous parlez?\"."
         ]
       }
     ],
@@ -2409,19 +2427,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-6-ex-1",
         "native": "Est-ce que vous préparez un diplôme de master?",
-        "phonetic": "",
+        "phonetic": "Est-ce ke vus préparez un diplôme de master?",
         "translationId": "Apakah Anda sedang mempersiapkan gelar magister?"
       },
       {
         "id": "fr-gram-6-ex-2",
         "native": "Parlez-vous français avec vos camarades de classe?",
-        "phonetic": "",
+        "phonetic": "Parlez-vus français avec vos camarades de classe?",
         "translationId": "Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?"
       },
       {
         "id": "fr-gram-6-ex-3",
         "native": "Où se trouve le laboratoire de recherche scientifique?",
-        "phonetic": "",
+        "phonetic": "Où se truve le laboratware de resyersye scientifike?",
         "translationId": "Di manakah letak laboratorium penelitian ilmiah?"
       }
     ],
@@ -2432,12 +2450,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Jangan menggabungkan rumus est-ce que dengan pembalikan (inversi) subjek-kata kerja."
       },
       {
-        "incorrect": "est-ce que parlez-vous? (kesalahan umum)",
-        "correct": "parlez-vous? / est-ce que vous parlez?",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Est-ce que + Phrase?",
+        "correct": "Mengikuti struktur Est-ce que + Phrase? / Inversion Verbe-Sujet?",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Est-ce que + Phrase? / Inversion Verbe-Sujet?\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'L'Interrogation (Est-ce que, Inversion, Intonation)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"L'Interrogation (Est-ce que, Inversion, Intonation)\" (Est-ce que + Phrase? / Inversion Verbe-Sujet?) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-6-pg-1",
@@ -2453,7 +2471,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Proyek-proyek penelitian mereka sangat inovatif."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Est-ce que vous préparez un diplôme de master?\" berarti \"Apakah Anda sedang mempersiapkan gelar magister?\"."
+        "explanation": "Kalimat \"Est-ce que vous préparez un diplôme de master?\" (dibaca: Est-ce ke vus préparez un diplôme de master?) berarti \"Apakah Anda sedang mempersiapkan gelar magister?\". Kalimat ini menggunakan pola \"Est-ce que + Phrase? / Inversion Verbe-Sujet?\" (L'Interrogation (Est-ce que, Inversion, Intonation)) yang berfungsi untuk tiga cara bertanya: intonasi naik kasual, est-ce que untuk situasi standar, dan inversi untuk ragam formal."
       },
       {
         "id": "q-fr-gram-6-pg-2",
@@ -2469,7 +2487,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya minum kopi sebelum pergi ke perpustakaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Parlez-vous français avec vos camarades de classe?\" berarti \"Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?\"."
+        "explanation": "Kalimat \"Parlez-vous français avec vos camarades de classe?\" (dibaca: Parlez-vus français avec vos camarades de classe?) berarti \"Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?\". Kalimat ini menggunakan pola \"Est-ce que + Phrase? / Inversion Verbe-Sujet?\" (L'Interrogation (Est-ce que, Inversion, Intonation)) yang berfungsi untuk tiga cara bertanya: intonasi naik kasual, est-ce que untuk situasi standar, dan inversi untuk ragam formal."
       },
       {
         "id": "q-fr-gram-6-pg-3",
@@ -2485,7 +2503,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Di manakah letak laboratorium penelitian ilmiah?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Où se trouve le laboratoire de recherche scientifique?\" berarti \"Di manakah letak laboratorium penelitian ilmiah?\"."
+        "explanation": "Kalimat \"Où se trouve le laboratoire de recherche scientifique?\" (dibaca: Où se truve le laboratware de resyersye scientifike?) berarti \"Di manakah letak laboratorium penelitian ilmiah?\". Kalimat ini menggunakan pola \"Est-ce que + Phrase? / Inversion Verbe-Sujet?\" (L'Interrogation (Est-ce que, Inversion, Intonation)) yang berfungsi untuk tiga cara bertanya: intonasi naik kasual, est-ce que untuk situasi standar, dan inversi untuk ragam formal."
       },
       {
         "id": "q-fr-gram-6-pg-4",
@@ -2505,7 +2523,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-6-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Interrogation (Est-ce que, Inversion, Intonation)\"?",
         "options": [
           "Leurs projets de recherche sont très innovants. — Proyek-proyek penelitian mereka sangat inovatif.",
           "Parlez-vous français avec vos camarades de classe? — Apakah Anda berbicara bahasa Prancis dengan teman-teman sekelas Anda?",
@@ -2519,7 +2537,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-6-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Interrogation (Est-ce que, Inversion, Intonation)\"?",
         "options": [
           "Mon professeur de linguistique est très compétent. — Profesor linguistik saya sangat kompeten.",
           "C'est mon amie d'enfance (devant voyelle féminine). — Ini adalah teman masa kecil perempuan saya (memakai mon di depan huruf vokal).",
@@ -2533,7 +2551,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-6-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Interrogation (Est-ce que, Inversion, Intonation)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2780,7 +2798,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda sedang mempersiapkan gelar magister?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Est-ce que vous préparez un diplôme de master?\" berarti \"Apakah Anda sedang mempersiapkan gelar magister?\"."
+        "explanation": "Kalimat \"Est-ce que vous préparez un diplôme de master?\" (dibaca: Est-ce ke vus préparez un diplôme de master?) berarti \"Apakah Anda sedang mempersiapkan gelar magister?\". Kalimat ini menggunakan pola \"Est-ce que + Phrase? / Inversion Verbe-Sujet?\" (L'Interrogation (Est-ce que, Inversion, Intonation)) yang berfungsi untuk tiga cara bertanya: intonasi naik kasual, est-ce que untuk situasi standar, dan inversi untuk ragam formal."
       },
       {
         "id": "q-fr-gram-6-bb-2",
@@ -2855,24 +2873,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan kepemilikan dengan menyesuaikan gender dan jumlah benda yang dimiliki.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Adjectifs Possessifs (Mon, Ma, Mes...)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Adjectifs Possessifs (Mon, Ma, Mes...)\" (Les déterminants possessifs en français) berfungsi untuk: menyatakan kepemilikan dengan menyesuaikan gender dan jumlah benda yang dimiliki. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Mon professeur de linguistique est très compétent. — Profesor linguistik saya sangat kompeten."
+          "Rumus utama: Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur",
+          "Contoh 1: Mon professeur de linguistique est très compétent. (Mon professer de linguistike est très compétent.) — Profesor linguistik saya sangat kompeten."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Di depan kata benda feminin yang diawali huruf vokal, gunakan mon/ton/son demi kelancaran bunyi.",
         "ruleList": [
-          "Leurs projets de recherche sont très innovants. — Proyek-proyek penelitian mereka sangat inovatif."
+          "Polanya: Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur",
+          "Contoh 2: Leurs projets de recherche sont très innovants. (Lers projets de resyersye sont très innovants.) — Proyek-proyek penelitian mereka sangat inovatif."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Adjectifs Possessifs (Mon, Ma, Mes...)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "C'est mon amie d'enfance (devant voyelle féminine). — Ini adalah teman masa kecil perempuan saya (memakai mon di depan huruf vokal)."
+          "Contoh 3: C'est mon amie d'enfance (devant voyelle féminine). (C'est mon amie d'enfance (devant voyelle féminine).) — Ini adalah teman masa kecil perempuan saya (memakai mon di depan huruf vokal).",
+          "Hindari kesalahan: \"ma amie\" → gunakan bentuk yang benar: \"mon amie\"."
         ]
       }
     ],
@@ -2880,19 +2901,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-7-ex-1",
         "native": "Mon professeur de linguistique est très compétent.",
-        "phonetic": "",
+        "phonetic": "Mon professer de linguistike est très compétent.",
         "translationId": "Profesor linguistik saya sangat kompeten."
       },
       {
         "id": "fr-gram-7-ex-2",
         "native": "Leurs projets de recherche sont très innovants.",
-        "phonetic": "",
+        "phonetic": "Lers projets de resyersye sont très innovants.",
         "translationId": "Proyek-proyek penelitian mereka sangat inovatif."
       },
       {
         "id": "fr-gram-7-ex-3",
         "native": "C'est mon amie d'enfance (devant voyelle féminine).",
-        "phonetic": "",
+        "phonetic": "C'est mon amie d'enfance (devant voyelle féminine).",
         "translationId": "Ini adalah teman masa kecil perempuan saya (memakai mon di depan huruf vokal)."
       }
     ],
@@ -2903,12 +2924,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Di depan kata benda feminin yang diawali huruf vokal, gunakan mon/ton/son demi kelancaran bunyi."
       },
       {
-        "incorrect": "ma amie (kesalahan umum)",
-        "correct": "mon amie",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Mon",
+        "correct": "Mengikuti struktur Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Adjectifs Possessifs (Mon, Ma, Mes...)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Adjectifs Possessifs (Mon, Ma, Mes...)\" (Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-7-pg-1",
@@ -2924,7 +2945,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tidak ada kuliah umum pada pagi hari ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Mon professeur de linguistique est très compétent.\" berarti \"Profesor linguistik saya sangat kompeten.\"."
+        "explanation": "Kalimat \"Mon professeur de linguistique est très compétent.\" (dibaca: Mon professer de linguistike est très compétent.) berarti \"Profesor linguistik saya sangat kompeten.\". Kalimat ini menggunakan pola \"Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur\" (Les Adjectifs Possessifs (Mon, Ma, Mes...)) yang berfungsi untuk menyatakan kepemilikan dengan menyesuaikan gender dan jumlah benda yang dimiliki."
       },
       {
         "id": "q-fr-gram-7-pg-2",
@@ -2940,7 +2961,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Proyek-proyek penelitian mereka sangat inovatif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Leurs projets de recherche sont très innovants.\" berarti \"Proyek-proyek penelitian mereka sangat inovatif.\"."
+        "explanation": "Kalimat \"Leurs projets de recherche sont très innovants.\" (dibaca: Lers projets de resyersye sont très innovants.) berarti \"Proyek-proyek penelitian mereka sangat inovatif.\". Kalimat ini menggunakan pola \"Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur\" (Les Adjectifs Possessifs (Mon, Ma, Mes...)) yang berfungsi untuk menyatakan kepemilikan dengan menyesuaikan gender dan jumlah benda yang dimiliki."
       },
       {
         "id": "q-fr-gram-7-pg-3",
@@ -2956,7 +2977,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka akan melaksanakan magang di sebuah laboratorium besar."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"C'est mon amie d'enfance (devant voyelle féminine).\" berarti \"Ini adalah teman masa kecil perempuan saya (memakai mon di depan huruf vokal).\"."
+        "explanation": "Kalimat \"C'est mon amie d'enfance (devant voyelle féminine).\" (dibaca: C'est mon amie d'enfance (devant voyelle féminine).) berarti \"Ini adalah teman masa kecil perempuan saya (memakai mon di depan huruf vokal).\". Kalimat ini menggunakan pola \"Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur\" (Les Adjectifs Possessifs (Mon, Ma, Mes...)) yang berfungsi untuk menyatakan kepemilikan dengan menyesuaikan gender dan jumlah benda yang dimiliki."
       },
       {
         "id": "q-fr-gram-7-pg-4",
@@ -2976,7 +2997,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-7-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Adjectifs Possessifs (Mon, Ma, Mes...)\"?",
         "options": [
           "Il n'y a pas de cours magistral ce matin. — Tidak ada kuliah umum pada pagi hari ini.",
           "Nous allons commencer notre séminaire dans dix minutes. — Kita akan segera memulai seminar kita dalam sepuluh menit.",
@@ -2990,7 +3011,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-7-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Adjectifs Possessifs (Mon, Ma, Mes...)\"?",
         "options": [
           "Je bois du café avant d'aller à la bibliothèque. — Saya minum kopi sebelum pergi ke perpustakaan.",
           "Nous achetons des fournitures universitaires. — Kami membeli perlengkapan perkuliahan.",
@@ -3004,7 +3025,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-7-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Adjectifs Possessifs (Mon, Ma, Mes...)\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -3249,7 +3270,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya minum kopi sebelum pergi ke perpustakaan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Mon professeur de linguistique est très compétent.\" berarti \"Profesor linguistik saya sangat kompeten.\"."
+        "explanation": "Kalimat \"Mon professeur de linguistique est très compétent.\" (dibaca: Mon professer de linguistike est très compétent.) berarti \"Profesor linguistik saya sangat kompeten.\". Kalimat ini menggunakan pola \"Mon / Ma / Mes / Ton / Ta / Tes / Son / Sa / Ses / Notre / Votre / Leur\" (Les Adjectifs Possessifs (Mon, Ma, Mes...)) yang berfungsi untuk menyatakan kepemilikan dengan menyesuaikan gender dan jumlah benda yang dimiliki."
       },
       {
         "id": "q-fr-gram-7-bb-2",
@@ -3324,24 +3345,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan kuantitas benda yang tak dapat dihitung dan perubahannya menjadi 'de' dalam kalimat negatif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Articles Partitifs (Du, De la, Des, De)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Articles Partitifs (Du, De la, Des, De)\" (L'expression de la quantité indéterminée et la négation) berfungsi untuk: menyatakan kuantitas benda yang tak dapat dihitung dan perubahannya menjadi 'de' dalam kalimat negatif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je bois du café avant d'aller à la bibliothèque. — Saya minum kopi sebelum pergi ke perpustakaan."
+          "Rumus utama: Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)",
+          "Contoh 1: Je bois du café avant d'aller à la bibliothèque. (Je bwas du café avant d'aller à la bibliothèke.) — Saya minum kopi sebelum pergi ke perpustakaan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah kalimat penyangkalan mutlak, seluruh artikel partitif berubah menjadi 'de'.",
         "ruleList": [
-          "Il n'y a pas de cours magistral ce matin. — Tidak ada kuliah umum pada pagi hari ini."
+          "Polanya: Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)",
+          "Contoh 2: Il n'y a pas de cours magistral ce matin. (Il n'y a pas de curs magistral ce matin.) — Tidak ada kuliah umum pada pagi hari ini."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Articles Partitifs (Du, De la, Des, De)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nous achetons des fournitures universitaires. — Kami membeli perlengkapan perkuliahan."
+          "Contoh 3: Nous achetons des fournitures universitaires. (Nus asyetons des furnitures universitaires.) — Kami membeli perlengkapan perkuliahan.",
+          "Hindari kesalahan: \"je ne bois pas du café\" → gunakan bentuk yang benar: \"je ne bois pas de café\"."
         ]
       }
     ],
@@ -3349,19 +3373,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-8-ex-1",
         "native": "Je bois du café avant d'aller à la bibliothèque.",
-        "phonetic": "",
+        "phonetic": "Je bwas du café avant d'aller à la bibliothèke.",
         "translationId": "Saya minum kopi sebelum pergi ke perpustakaan."
       },
       {
         "id": "fr-gram-8-ex-2",
         "native": "Il n'y a pas de cours magistral ce matin.",
-        "phonetic": "",
+        "phonetic": "Il n'y a pas de curs magistral ce matin.",
         "translationId": "Tidak ada kuliah umum pada pagi hari ini."
       },
       {
         "id": "fr-gram-8-ex-3",
         "native": "Nous achetons des fournitures universitaires.",
-        "phonetic": "",
+        "phonetic": "Nus asyetons des furnitures universitaires.",
         "translationId": "Kami membeli perlengkapan perkuliahan."
       }
     ],
@@ -3372,12 +3396,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Setelah kalimat penyangkalan mutlak, seluruh artikel partitif berubah menjadi 'de'."
       },
       {
-        "incorrect": "je ne bois pas du café (kesalahan umum)",
-        "correct": "je ne bois pas de café",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Du (m)",
+        "correct": "Mengikuti struktur Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Articles Partitifs (Du, De la, Des, De)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Articles Partitifs (Du, De la, Des, De)\" (Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-8-pg-1",
@@ -3393,7 +3417,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya minum kopi sebelum pergi ke perpustakaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Je bois du café avant d'aller à la bibliothèque.\" berarti \"Saya minum kopi sebelum pergi ke perpustakaan.\"."
+        "explanation": "Kalimat \"Je bois du café avant d'aller à la bibliothèque.\" (dibaca: Je bwas du café avant d'aller à la bibliothèke.) berarti \"Saya minum kopi sebelum pergi ke perpustakaan.\". Kalimat ini menggunakan pola \"Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)\" (Les Articles Partitifs (Du, De la, Des, De)) yang berfungsi untuk menyatakan kuantitas benda yang tak dapat dihitung dan perubahannya menjadi 'de' dalam kalimat negatif."
       },
       {
         "id": "q-fr-gram-8-pg-2",
@@ -3409,7 +3433,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya akan berkuliah di Prancis selama dua semester."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Il n'y a pas de cours magistral ce matin.\" berarti \"Tidak ada kuliah umum pada pagi hari ini.\"."
+        "explanation": "Kalimat \"Il n'y a pas de cours magistral ce matin.\" (dibaca: Il n'y a pas de curs magistral ce matin.) berarti \"Tidak ada kuliah umum pada pagi hari ini.\". Kalimat ini menggunakan pola \"Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)\" (Les Articles Partitifs (Du, De la, Des, De)) yang berfungsi untuk menyatakan kuantitas benda yang tak dapat dihitung dan perubahannya menjadi 'de' dalam kalimat negatif."
       },
       {
         "id": "q-fr-gram-8-pg-3",
@@ -3425,7 +3449,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami berkumpul di tempat kediaman teman sekelas kami."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nous achetons des fournitures universitaires.\" berarti \"Kami membeli perlengkapan perkuliahan.\"."
+        "explanation": "Kalimat \"Nous achetons des fournitures universitaires.\" (dibaca: Nus asyetons des furnitures universitaires.) berarti \"Kami membeli perlengkapan perkuliahan.\". Kalimat ini menggunakan pola \"Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)\" (Les Articles Partitifs (Du, De la, Des, De)) yang berfungsi untuk menyatakan kuantitas benda yang tak dapat dihitung dan perubahannya menjadi 'de' dalam kalimat negatif."
       },
       {
         "id": "q-fr-gram-8-pg-4",
@@ -3445,7 +3469,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-8-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Articles Partitifs (Du, De la, Des, De)\"?",
         "options": [
           "Je vais présenter les résultats de mes recherches demain. — Saya akan mempresentasikan hasil penelitian saya besok.",
           "Je vais étudier en France pendant deux semestres. — Saya akan berkuliah di Prancis selama dua semester.",
@@ -3459,7 +3483,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-8-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Articles Partitifs (Du, De la, Des, De)\"?",
         "options": [
           "Nous achetons des fournitures universitaires. — Kami membeli perlengkapan perkuliahan.",
           "Nous allons commencer notre séminaire dans dix minutes. — Kita akan segera memulai seminar kita dalam sepuluh menit.",
@@ -3473,7 +3497,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-8-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Articles Partitifs (Du, De la, Des, De)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -3720,7 +3744,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kita akan segera memulai seminar kita dalam sepuluh menit."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Je bois du café avant d'aller à la bibliothèque.\" berarti \"Saya minum kopi sebelum pergi ke perpustakaan.\"."
+        "explanation": "Kalimat \"Je bois du café avant d'aller à la bibliothèque.\" (dibaca: Je bwas du café avant d'aller à la bibliothèke.) berarti \"Saya minum kopi sebelum pergi ke perpustakaan.\". Kalimat ini menggunakan pola \"Du (m) / De la (f) / De l' (voyelle) / Des (pl) & De (négation)\" (Les Articles Partitifs (Du, De la, Des, De)) yang berfungsi untuk menyatakan kuantitas benda yang tak dapat dihitung dan perubahannya menjadi 'de' dalam kalimat negatif."
       },
       {
         "id": "q-fr-gram-8-bb-2",
@@ -3795,24 +3819,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengekspresikan aksi yang akan segera terjadi dalam waktu dekat menggunakan kata kerja bantu aller.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Verbes Aller, Faire, Venir & Le Futur Proche' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Verbes Aller, Faire, Venir & Le Futur Proche\" (Le futur proche : Aller au présent + Infinitif) berfungsi untuk: mengekspresikan aksi yang akan segera terjadi dalam waktu dekat menggunakan kata kerja bantu aller. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Nous allons commencer notre séminaire dans dix minutes. — Kita akan segera memulai seminar kita dalam sepuluh menit."
+          "Rumus utama: Aller (Présent) + Verbe à l'infinitif",
+          "Contoh 1: Nous allons commencer notre séminaire dans dix minutes. (Nus allons commencer notre séminaire dans dix minutes.) — Kita akan segera memulai seminar kita dalam sepuluh menit."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Aller (Présent) + Verbe à l'infinitif memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Aller (Présent) + Verbe à l'infinitif\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja utama setelah kata kerja bantu aller wajib berada dalam bentuk dasar (infinitif).",
         "ruleList": [
-          "Je vais présenter les résultats de mes recherches demain. — Saya akan mempresentasikan hasil penelitian saya besok."
+          "Polanya: Aller (Présent) + Verbe à l'infinitif",
+          "Contoh 2: Je vais présenter les résultats de mes recherches demain. (Je vais présenter les résultats de mes resyersyes demain.) — Saya akan mempresentasikan hasil penelitian saya besok."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Verbes Aller, Faire, Venir & Le Futur Proche\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Ils vont faire un stage dans un grand laboratoire. — Mereka akan melaksanakan magang di sebuah laboratorium besar."
+          "Contoh 3: Ils vont faire un stage dans un grand laboratoire. (Ils vont faire un stage dans un grand laboratware.) — Mereka akan melaksanakan magang di sebuah laboratorium besar.",
+          "Hindari kesalahan: \"je vais fais\" → gunakan bentuk yang benar: \"je vais faire\"."
         ]
       }
     ],
@@ -3820,19 +3847,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-9-ex-1",
         "native": "Nous allons commencer notre séminaire dans dix minutes.",
-        "phonetic": "",
+        "phonetic": "Nus allons commencer notre séminaire dans dix minutes.",
         "translationId": "Kita akan segera memulai seminar kita dalam sepuluh menit."
       },
       {
         "id": "fr-gram-9-ex-2",
         "native": "Je vais présenter les résultats de mes recherches demain.",
-        "phonetic": "",
+        "phonetic": "Je vais présenter les résultats de mes resyersyes demain.",
         "translationId": "Saya akan mempresentasikan hasil penelitian saya besok."
       },
       {
         "id": "fr-gram-9-ex-3",
         "native": "Ils vont faire un stage dans un grand laboratoire.",
-        "phonetic": "",
+        "phonetic": "Ils vont faire un stage dans un grand laboratware.",
         "translationId": "Mereka akan melaksanakan magang di sebuah laboratorium besar."
       }
     ],
@@ -3843,12 +3870,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata kerja utama setelah kata kerja bantu aller wajib berada dalam bentuk dasar (infinitif)."
       },
       {
-        "incorrect": "je vais fais (kesalahan umum)",
-        "correct": "je vais faire",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Aller (Présent) + Verbe à l'infinitif",
+        "correct": "Mengikuti struktur Aller (Présent) + Verbe à l'infinitif",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Aller (Présent) + Verbe à l'infinitif\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Verbes Aller, Faire, Venir & Le Futur Proche' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Verbes Aller, Faire, Venir & Le Futur Proche\" (Aller (Présent) + Verbe à l'infinitif) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-9-pg-1",
@@ -3864,7 +3891,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu tinggal di Kanada sejak lima tahun yang lalu."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nous allons commencer notre séminaire dans dix minutes.\" berarti \"Kita akan segera memulai seminar kita dalam sepuluh menit.\"."
+        "explanation": "Kalimat \"Nous allons commencer notre séminaire dans dix minutes.\" (dibaca: Nus allons commencer notre séminaire dans dix minutes.) berarti \"Kita akan segera memulai seminar kita dalam sepuluh menit.\". Kalimat ini menggunakan pola \"Aller (Présent) + Verbe à l'infinitif\" (Les Verbes Aller, Faire, Venir & Le Futur Proche) yang berfungsi untuk mengekspresikan aksi yang akan segera terjadi dalam waktu dekat menggunakan kata kerja bantu aller."
       },
       {
         "id": "q-fr-gram-9-pg-2",
@@ -3880,7 +3907,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah mahasiswa di Universitas Sorbonne."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Je vais présenter les résultats de mes recherches demain.\" berarti \"Saya akan mempresentasikan hasil penelitian saya besok.\"."
+        "explanation": "Kalimat \"Je vais présenter les résultats de mes recherches demain.\" (dibaca: Je vais présenter les résultats de mes resyersyes demain.) berarti \"Saya akan mempresentasikan hasil penelitian saya besok.\". Kalimat ini menggunakan pola \"Aller (Présent) + Verbe à l'infinitif\" (Les Verbes Aller, Faire, Venir & Le Futur Proche) yang berfungsi untuk mengekspresikan aksi yang akan segera terjadi dalam waktu dekat menggunakan kata kerja bantu aller."
       },
       {
         "id": "q-fr-gram-9-pg-3",
@@ -3896,7 +3923,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia sangat cerdas dan bersemangat dalam penelitian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ils vont faire un stage dans un grand laboratoire.\" berarti \"Mereka akan melaksanakan magang di sebuah laboratorium besar.\"."
+        "explanation": "Kalimat \"Ils vont faire un stage dans un grand laboratoire.\" (dibaca: Ils vont faire un stage dans un grand laboratware.) berarti \"Mereka akan melaksanakan magang di sebuah laboratorium besar.\". Kalimat ini menggunakan pola \"Aller (Présent) + Verbe à l'infinitif\" (Les Verbes Aller, Faire, Venir & Le Futur Proche) yang berfungsi untuk mengekspresikan aksi yang akan segera terjadi dalam waktu dekat menggunakan kata kerja bantu aller."
       },
       {
         "id": "q-fr-gram-9-pg-4",
@@ -3916,7 +3943,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-9-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Verbes Aller, Faire, Venir & Le Futur Proche\"?",
         "options": [
           "Je vais présenter les résultats de mes recherches demain. — Saya akan mempresentasikan hasil penelitian saya besok.",
           "Le professeur habite au Canada depuis cinq ans. — Profesor itu tinggal di Kanada sejak lima tahun yang lalu.",
@@ -3930,7 +3957,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-9-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Verbes Aller, Faire, Venir & Le Futur Proche\"?",
         "options": [
           "Je vais étudier en France pendant deux semestres. — Saya akan berkuliah di Prancis selama dua semester.",
           "Ils vont faire un stage dans un grand laboratoire. — Mereka akan melaksanakan magang di sebuah laboratorium besar.",
@@ -3944,7 +3971,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-9-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Verbes Aller, Faire, Venir & Le Futur Proche\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4191,7 +4218,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya akan berkuliah di Prancis selama dua semester."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nous allons commencer notre séminaire dans dix minutes.\" berarti \"Kita akan segera memulai seminar kita dalam sepuluh menit.\"."
+        "explanation": "Kalimat \"Nous allons commencer notre séminaire dans dix minutes.\" (dibaca: Nus allons commencer notre séminaire dans dix minutes.) berarti \"Kita akan segera memulai seminar kita dalam sepuluh menit.\". Kalimat ini menggunakan pola \"Aller (Présent) + Verbe à l'infinitif\" (Les Verbes Aller, Faire, Venir & Le Futur Proche) yang berfungsi untuk mengekspresikan aksi yang akan segera terjadi dalam waktu dekat menggunakan kata kerja bantu aller."
       },
       {
         "id": "q-fr-gram-9-bb-2",
@@ -4266,24 +4293,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan pemakaian kata depan tempat untuk kota, negara (menurut gendernya), dan orang/profesi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays\" (L'emploi des prépositions avec les villes et les pays) berfungsi untuk: aturan pemakaian kata depan tempat untuk kota, negara (menurut gendernya), dan orang/profesi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je vais étudier en France pendant deux semestres. — Saya akan berkuliah di Prancis selama dua semester."
+          "Rumus utama: À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne",
+          "Contoh 1: Je vais étudier en France pendant deux semestres. (Je vais étudier en france pendant dex semestres.) — Saya akan berkuliah di Prancis selama dua semester."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk nama negara bergender feminin (berakhiran -e), gunakan preposisi 'en'.",
         "ruleList": [
-          "Le professeur habite au Canada depuis cinq ans. — Profesor itu tinggal di Kanada sejak lima tahun yang lalu."
+          "Polanya: À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne",
+          "Contoh 2: Le professeur habite au Canada depuis cinq ans. (Le professer habite o canada depuis cinq ans.) — Profesor itu tinggal di Kanada sejak lima tahun yang lalu."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nous nous réunissons chez notre camarade de classe. — Kami berkumpul di tempat kediaman teman sekelas kami."
+          "Contoh 3: Nous nous réunissons chez notre camarade de classe. (Nus nus réunissons syez notre camarade de classe.) — Kami berkumpul di tempat kediaman teman sekelas kami.",
+          "Hindari kesalahan: \"je vais à France\" → gunakan bentuk yang benar: \"je vais en France\"."
         ]
       }
     ],
@@ -4291,19 +4321,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-10-ex-1",
         "native": "Je vais étudier en France pendant deux semestres.",
-        "phonetic": "",
+        "phonetic": "Je vais étudier en france pendant dex semestres.",
         "translationId": "Saya akan berkuliah di Prancis selama dua semester."
       },
       {
         "id": "fr-gram-10-ex-2",
         "native": "Le professeur habite au Canada depuis cinq ans.",
-        "phonetic": "",
+        "phonetic": "Le professer habite o canada depuis cinq ans.",
         "translationId": "Profesor itu tinggal di Kanada sejak lima tahun yang lalu."
       },
       {
         "id": "fr-gram-10-ex-3",
         "native": "Nous nous réunissons chez notre camarade de classe.",
-        "phonetic": "",
+        "phonetic": "Nus nus réunissons syez notre camarade de classe.",
         "translationId": "Kami berkumpul di tempat kediaman teman sekelas kami."
       }
     ],
@@ -4314,12 +4344,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Untuk nama negara bergender feminin (berakhiran -e), gunakan preposisi 'en'."
       },
       {
-        "incorrect": "je vais à France (kesalahan umum)",
-        "correct": "je vais en France",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola À + Ville",
+        "correct": "Mengikuti struktur À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays\" (À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-10-pg-1",
@@ -4335,7 +4365,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami memiliki banyak buku di perpustakaan kami."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Je vais étudier en France pendant deux semestres.\" berarti \"Saya akan berkuliah di Prancis selama dua semester.\"."
+        "explanation": "Kalimat \"Je vais étudier en France pendant deux semestres.\" (dibaca: Je vais étudier en france pendant dex semestres.) berarti \"Saya akan berkuliah di Prancis selama dua semester.\". Kalimat ini menggunakan pola \"À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne\" (Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays) yang berfungsi untuk aturan pemakaian kata depan tempat untuk kota, negara (menurut gendernya), dan orang/profesi."
       },
       {
         "id": "q-fr-gram-10-pg-2",
@@ -4351,7 +4381,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menjelaskan pelajaran tersebut kepada para mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Le professeur habite au Canada depuis cinq ans.\" berarti \"Profesor itu tinggal di Kanada sejak lima tahun yang lalu.\"."
+        "explanation": "Kalimat \"Le professeur habite au Canada depuis cinq ans.\" (dibaca: Le professer habite o canada depuis cinq ans.) berarti \"Profesor itu tinggal di Kanada sejak lima tahun yang lalu.\". Kalimat ini menggunakan pola \"À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne\" (Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays) yang berfungsi untuk aturan pemakaian kata depan tempat untuk kota, negara (menurut gendernya), dan orang/profesi."
       },
       {
         "id": "q-fr-gram-10-pg-3",
@@ -4367,7 +4397,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami berkumpul di tempat kediaman teman sekelas kami."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Nous nous réunissons chez notre camarade de classe.\" berarti \"Kami berkumpul di tempat kediaman teman sekelas kami.\"."
+        "explanation": "Kalimat \"Nous nous réunissons chez notre camarade de classe.\" (dibaca: Nus nus réunissons syez notre camarade de classe.) berarti \"Kami berkumpul di tempat kediaman teman sekelas kami.\". Kalimat ini menggunakan pola \"À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne\" (Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays) yang berfungsi untuk aturan pemakaian kata depan tempat untuk kota, negara (menurut gendernya), dan orang/profesi."
       },
       {
         "id": "q-fr-gram-10-pg-4",
@@ -4387,7 +4417,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-10-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays\"?",
         "options": [
           "Nous avons beaucoup de livres dans notre bibliothèque. — Kami memiliki banyak buku di perpustakaan kami.",
           "Le professeur habite au Canada depuis cinq ans. — Profesor itu tinggal di Kanada sejak lima tahun yang lalu.",
@@ -4401,7 +4431,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-10-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays\"?",
         "options": [
           "Je suis étudiant à l'université de la Sorbonne. — Saya adalah mahasiswa di Universitas Sorbonne.",
           "Elle est très intelligente et passionnée par la recherche. — Dia sangat cerdas dan bersemangat dalam penelitian.",
@@ -4415,7 +4445,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-10-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4662,7 +4692,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya akan berkuliah di Prancis selama dua semester."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Je vais étudier en France pendant deux semestres.\" berarti \"Saya akan berkuliah di Prancis selama dua semester.\"."
+        "explanation": "Kalimat \"Je vais étudier en France pendant deux semestres.\" (dibaca: Je vais étudier en france pendant dex semestres.) berarti \"Saya akan berkuliah di Prancis selama dua semester.\". Kalimat ini menggunakan pola \"À + Ville / En + Pays Féminin / Au + Pays Masculin / Chez + Personne\" (Les Prépositions de Lieu (À, En, Chez, Dans) et les Pays) yang berfungsi untuk aturan pemakaian kata depan tempat untuk kota, negara (menurut gendernya), dan orang/profesi."
       },
       {
         "id": "q-fr-gram-10-bb-2",
@@ -4737,24 +4767,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan peristiwa lampau yang tuntas menggunakan kata kerja bantu avoir dan partisip lampau.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Passé Composé avec Avoir (Réguliers & Irréguliers)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Passé Composé avec Avoir (Réguliers & Irréguliers)\" (Le passé composé avec l'auxiliaire avoir) berfungsi untuk: menyatakan peristiwa lampau yang tuntas menggunakan kata kerja bantu avoir dan partisip lampau. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "J'ai lu tous les articles scientifiques recommandés. — Saya telah membaca seluruh artikel ilmiah yang direkomendasikan."
+          "Rumus utama: Avoir (Présent) + Participe Passé (-é, -i, -u)",
+          "Contoh 1: J'ai lu tous les articles scientifiques recommandés. (J'ai lu tus les articles scientifikes recommandés.) — Saya telah membaca seluruh artikel ilmiah yang direkomendasikan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Avoir (Présent) + Participe Passé (-é, -i, -u) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Avoir (Présent) + Participe Passé (-é, -i, -u)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja setelah avoir pada passé composé wajib berbentuk participe passé.",
         "ruleList": [
-          "Nous avons terminé notre rapport de stage hier soir. — Kami telah menyelesaikan laporan magang kami tadi malam."
+          "Polanya: Avoir (Présent) + Participe Passé (-é, -i, -u)",
+          "Contoh 2: Nous avons terminé notre rapport de stage hier soir. (Nus avons terminé notre rapport de stage hier swar.) — Kami telah menyelesaikan laporan magang kami tadi malam."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Passé Composé avec Avoir (Réguliers & Irréguliers)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Le chercheur a découvert une nouvelle méthode d'analyse. — Peneliti itu telah menemukan sebuah metode analisis baru."
+          "Contoh 3: Le chercheur a découvert une nouvelle méthode d'analyse. (Le syersyer a décuvert une nuvelle méthode d'analyse.) — Peneliti itu telah menemukan sebuah metode analisis baru.",
+          "Hindari kesalahan: \"j'ai finir\" → gunakan bentuk yang benar: \"j'ai fini\"."
         ]
       }
     ],
@@ -4762,19 +4795,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-11-ex-1",
         "native": "J'ai lu tous les articles scientifiques recommandés.",
-        "phonetic": "",
+        "phonetic": "J'ai lu tus les articles scientifikes recommandés.",
         "translationId": "Saya telah membaca seluruh artikel ilmiah yang direkomendasikan."
       },
       {
         "id": "fr-gram-11-ex-2",
         "native": "Nous avons terminé notre rapport de stage hier soir.",
-        "phonetic": "",
+        "phonetic": "Nus avons terminé notre rapport de stage hier swar.",
         "translationId": "Kami telah menyelesaikan laporan magang kami tadi malam."
       },
       {
         "id": "fr-gram-11-ex-3",
         "native": "Le chercheur a découvert une nouvelle méthode d'analyse.",
-        "phonetic": "",
+        "phonetic": "Le syersyer a décuvert une nuvelle méthode d'analyse.",
         "translationId": "Peneliti itu telah menemukan sebuah metode analisis baru."
       }
     ],
@@ -4785,12 +4818,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata kerja setelah avoir pada passé composé wajib berbentuk participe passé."
       },
       {
-        "incorrect": "j'ai finir (kesalahan umum)",
-        "correct": "j'ai fini",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Avoir (Présent) + Participe Passé (-é, -i, -u)",
+        "correct": "Mengikuti struktur Avoir (Présent) + Participe Passé (-é, -i, -u)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Avoir (Présent) + Participe Passé (-é, -i, -u)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Passé Composé avec Avoir (Réguliers & Irréguliers)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Passé Composé avec Avoir (Réguliers & Irréguliers)\" (Avoir (Présent) + Participe Passé (-é, -i, -u)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-11-pg-1",
@@ -4806,7 +4839,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Cuacanya sangat cerah selama masa tinggal kami di Bordeaux."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"J'ai lu tous les articles scientifiques recommandés.\" berarti \"Saya telah membaca seluruh artikel ilmiah yang direkomendasikan.\"."
+        "explanation": "Kalimat \"J'ai lu tous les articles scientifiques recommandés.\" (dibaca: J'ai lu tus les articles scientifikes recommandés.) berarti \"Saya telah membaca seluruh artikel ilmiah yang direkomendasikan.\". Kalimat ini menggunakan pola \"Avoir (Présent) + Participe Passé (-é, -i, -u)\" (Le Passé Composé avec Avoir (Réguliers & Irréguliers)) yang berfungsi untuk menyatakan peristiwa lampau yang tuntas menggunakan kata kerja bantu avoir dan partisip lampau."
       },
       {
         "id": "q-fr-gram-11-pg-2",
@@ -4822,7 +4855,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah menyelesaikan laporan magang kami tadi malam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Nous avons terminé notre rapport de stage hier soir.\" berarti \"Kami telah menyelesaikan laporan magang kami tadi malam.\"."
+        "explanation": "Kalimat \"Nous avons terminé notre rapport de stage hier soir.\" (dibaca: Nus avons terminé notre rapport de stage hier swar.) berarti \"Kami telah menyelesaikan laporan magang kami tadi malam.\". Kalimat ini menggunakan pola \"Avoir (Présent) + Participe Passé (-é, -i, -u)\" (Le Passé Composé avec Avoir (Réguliers & Irréguliers)) yang berfungsi untuk menyatakan peristiwa lampau yang tuntas menggunakan kata kerja bantu avoir dan partisip lampau."
       },
       {
         "id": "q-fr-gram-11-pg-3",
@@ -4838,7 +4871,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Hujan sedang turun dengan deras ketika hasil ujian muncul."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Le chercheur a découvert une nouvelle méthode d'analyse.\" berarti \"Peneliti itu telah menemukan sebuah metode analisis baru.\"."
+        "explanation": "Kalimat \"Le chercheur a découvert une nouvelle méthode d'analyse.\" (dibaca: Le syersyer a décuvert une nuvelle méthode d'analyse.) berarti \"Peneliti itu telah menemukan sebuah metode analisis baru.\". Kalimat ini menggunakan pola \"Avoir (Présent) + Participe Passé (-é, -i, -u)\" (Le Passé Composé avec Avoir (Réguliers & Irréguliers)) yang berfungsi untuk menyatakan peristiwa lampau yang tuntas menggunakan kata kerja bantu avoir dan partisip lampau."
       },
       {
         "id": "q-fr-gram-11-pg-4",
@@ -4858,7 +4891,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-11-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Passé Composé avec Avoir (Réguliers & Irréguliers)\"?",
         "options": [
           "Il faisait très beau pendant notre séjour à Bordeaux. — Cuacanya sangat cerah selama masa tinggal kami di Bordeaux.",
           "Je lisais tranquillement quand le professeur est entré. — Saya sedang membaca dengan tenang ketika sang profesor masuk.",
@@ -4872,7 +4905,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-11-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Passé Composé avec Avoir (Réguliers & Irréguliers)\"?",
         "options": [
           "Quand j'étais étudiant en licence, j'étudiais tous les soirs. — Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam.",
           "Nous habitions près de la faculté des sciences. — Kami dahulu tinggal di dekat fakultas sains.",
@@ -4886,7 +4919,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-11-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Passé Composé avec Avoir (Réguliers & Irréguliers)\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -5133,7 +5166,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"J'ai lu tous les articles scientifiques recommandés.\" berarti \"Saya telah membaca seluruh artikel ilmiah yang direkomendasikan.\"."
+        "explanation": "Kalimat \"J'ai lu tous les articles scientifiques recommandés.\" (dibaca: J'ai lu tus les articles scientifikes recommandés.) berarti \"Saya telah membaca seluruh artikel ilmiah yang direkomendasikan.\". Kalimat ini menggunakan pola \"Avoir (Présent) + Participe Passé (-é, -i, -u)\" (Le Passé Composé avec Avoir (Réguliers & Irréguliers)) yang berfungsi untuk menyatakan peristiwa lampau yang tuntas menggunakan kata kerja bantu avoir dan partisip lampau."
       },
       {
         "id": "q-fr-gram-11-bb-2",
@@ -5208,24 +5241,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan konjugasi passé composé verba pergerakan (DR & MRS VANDERTRAMP) yang wajib berkesesuaian gender/jumlah subjek.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Passé Composé avec Être & L'Accord du Participe' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Passé Composé avec Être & L'Accord du Participe\" (Le passé composé avec être pour les verbes de mouvement) berfungsi untuk: aturan konjugasi passé composé verba pergerakan (DR & MRS VANDERTRAMP) yang wajib berkesesuaian gender/jumlah subjek. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Elle est allée à la bibliothèque universitaire ce matin. — Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini."
+          "Rumus utama: Être (Présent) + Participe Passé (Accord Sujet: +e, +s)",
+          "Contoh 1: Elle est allée à la bibliothèque universitaire ce matin. (Elle est allée à la bibliothèke universitaire ce matin.) — Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Être (Présent) + Participe Passé (Accord Sujet: +e, +s) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Être (Présent) + Participe Passé (Accord Sujet: +e, +s)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dengan kata kerja bantu être, participe passé wajib menyesuaikan gender dan jumlah subjek (+e/+s).",
         "ruleList": [
-          "Les étudiants internationaux sont arrivés à Paris hier. — Para mahasiswa internasional telah tiba di Paris kemarin."
+          "Polanya: Être (Présent) + Participe Passé (Accord Sujet: +e, +s)",
+          "Contoh 2: Les étudiants internationaux sont arrivés à Paris hier. (Les étudiants internasyongox sont arrivés à paris hier.) — Para mahasiswa internasional telah tiba di Paris kemarin."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Passé Composé avec Être & L'Accord du Participe\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nous sommes partis très tôt pour assister à la conférence. — Kami telah berangkat sangat pagi untuk menghadiri konferensi tersebut."
+          "Contoh 3: Nous sommes partis très tôt pour assister à la conférence. (Nus sommes partis très tôt pur assister à la conférence.) — Kami telah berangkat sangat pagi untuk menghadiri konferensi tersebut.",
+          "Hindari kesalahan: \"elle est allé\" → gunakan bentuk yang benar: \"elle est allée\"."
         ]
       }
     ],
@@ -5233,19 +5269,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-12-ex-1",
         "native": "Elle est allée à la bibliothèque universitaire ce matin.",
-        "phonetic": "",
+        "phonetic": "Elle est allée à la bibliothèke universitaire ce matin.",
         "translationId": "Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini."
       },
       {
         "id": "fr-gram-12-ex-2",
         "native": "Les étudiants internationaux sont arrivés à Paris hier.",
-        "phonetic": "",
+        "phonetic": "Les étudiants internasyongox sont arrivés à paris hier.",
         "translationId": "Para mahasiswa internasional telah tiba di Paris kemarin."
       },
       {
         "id": "fr-gram-12-ex-3",
         "native": "Nous sommes partis très tôt pour assister à la conférence.",
-        "phonetic": "",
+        "phonetic": "Nus sommes partis très tôt pur assister à la conférence.",
         "translationId": "Kami telah berangkat sangat pagi untuk menghadiri konferensi tersebut."
       }
     ],
@@ -5256,12 +5292,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Dengan kata kerja bantu être, participe passé wajib menyesuaikan gender dan jumlah subjek (+e/+s)."
       },
       {
-        "incorrect": "elle est allé (kesalahan umum)",
-        "correct": "elle est allée",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Être (Présent) + Participe Passé (Accord Sujet: +e, +s)",
+        "correct": "Mengikuti struktur Être (Présent) + Participe Passé (Accord Sujet: +e, +s)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Être (Présent) + Participe Passé (Accord Sujet: +e, +s)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Passé Composé avec Être & L'Accord du Participe' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Passé Composé avec Être & L'Accord du Participe\" (Être (Présent) + Participe Passé (Accord Sujet: +e, +s)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-12-pg-1",
@@ -5277,7 +5313,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Elle est allée à la bibliothèque universitaire ce matin.\" berarti \"Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini.\"."
+        "explanation": "Kalimat \"Elle est allée à la bibliothèque universitaire ce matin.\" (dibaca: Elle est allée à la bibliothèke universitaire ce matin.) berarti \"Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini.\". Kalimat ini menggunakan pola \"Être (Présent) + Participe Passé (Accord Sujet: +e, +s)\" (Le Passé Composé avec Être & L'Accord du Participe) yang berfungsi untuk aturan konjugasi passé composé verba pergerakan (DR & MRS VANDERTRAMP) yang wajib berkesesuaian gender/jumlah subjek."
       },
       {
         "id": "q-fr-gram-12-pg-2",
@@ -5293,7 +5329,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Buku ini sangat menarik, saya membacanya setiap malam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Les étudiants internationaux sont arrivés à Paris hier.\" berarti \"Para mahasiswa internasional telah tiba di Paris kemarin.\"."
+        "explanation": "Kalimat \"Les étudiants internationaux sont arrivés à Paris hier.\" (dibaca: Les étudiants internasyongox sont arrivés à paris hier.) berarti \"Para mahasiswa internasional telah tiba di Paris kemarin.\". Kalimat ini menggunakan pola \"Être (Présent) + Participe Passé (Accord Sujet: +e, +s)\" (Le Passé Composé avec Être & L'Accord du Participe) yang berfungsi untuk aturan konjugasi passé composé verba pergerakan (DR & MRS VANDERTRAMP) yang wajib berkesesuaian gender/jumlah subjek."
       },
       {
         "id": "q-fr-gram-12-pg-3",
@@ -5309,7 +5345,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tugas-tugas saya? Saya telah menyelesaikannya kemarin."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nous sommes partis très tôt pour assister à la conférence.\" berarti \"Kami telah berangkat sangat pagi untuk menghadiri konferensi tersebut.\"."
+        "explanation": "Kalimat \"Nous sommes partis très tôt pour assister à la conférence.\" (dibaca: Nus sommes partis très tôt pur assister à la conférence.) berarti \"Kami telah berangkat sangat pagi untuk menghadiri konferensi tersebut.\". Kalimat ini menggunakan pola \"Être (Présent) + Participe Passé (Accord Sujet: +e, +s)\" (Le Passé Composé avec Être & L'Accord du Participe) yang berfungsi untuk aturan konjugasi passé composé verba pergerakan (DR & MRS VANDERTRAMP) yang wajib berkesesuaian gender/jumlah subjek."
       },
       {
         "id": "q-fr-gram-12-pg-4",
@@ -5329,7 +5365,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-12-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Passé Composé avec Être & L'Accord du Participe\"?",
         "options": [
           "Pendant que nous travaillions, le téléphone a sonné. — Sementara kami sedang bekerja, telepon berdering.",
           "Ce livre est passionnant, je le lis tous les soirs. — Buku ini sangat menarik, saya membacanya setiap malam.",
@@ -5343,7 +5379,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-12-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Passé Composé avec Être & L'Accord du Participe\"?",
         "options": [
           "Nous sommes partis très tôt pour assister à la conférence. — Kami telah berangkat sangat pagi untuk menghadiri konferensi tersebut.",
           "Je lisais tranquillement quand le professeur est entré. — Saya sedang membaca dengan tenang ketika sang profesor masuk.",
@@ -5357,7 +5393,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-12-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Passé Composé avec Être & L'Accord du Participe\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -5604,7 +5640,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya sedang membaca dengan tenang ketika sang profesor masuk."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Elle est allée à la bibliothèque universitaire ce matin.\" berarti \"Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini.\"."
+        "explanation": "Kalimat \"Elle est allée à la bibliothèque universitaire ce matin.\" (dibaca: Elle est allée à la bibliothèke universitaire ce matin.) berarti \"Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini.\". Kalimat ini menggunakan pola \"Être (Présent) + Participe Passé (Accord Sujet: +e, +s)\" (Le Passé Composé avec Être & L'Accord du Participe) yang berfungsi untuk aturan konjugasi passé composé verba pergerakan (DR & MRS VANDERTRAMP) yang wajib berkesesuaian gender/jumlah subjek."
       },
       {
         "id": "q-fr-gram-12-bb-2",
@@ -5679,24 +5715,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, atau kondisi berlangsung.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'L'Imparfait: Formation et Emplois Descriptifs' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"L'Imparfait: Formation et Emplois Descriptifs\" (La formation de l'imparfait et la description du passé) berfungsi untuk: membentuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, atau kondisi berlangsung. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Quand j'étais étudiant en licence, j'étudiais tous les soirs. — Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam."
+          "Rumus utama: Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient",
+          "Contoh 1: Quand j'étais étudiant en licence, j'étudiais tous les soirs. (Kand j'étais étudiant en licence, j'étudiais tus les swars.) — Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk kebiasaan masa lalu atau keadaan yang berlangsung lama, gunakan l'imparfait.",
         "ruleList": [
-          "Il faisait très beau pendant notre séjour à Bordeaux. — Cuacanya sangat cerah selama masa tinggal kami di Bordeaux."
+          "Polanya: Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient",
+          "Contoh 2: Il faisait très beau pendant notre séjour à Bordeaux. (Il faisait très bo pendant notre séjur à bordox.) — Cuacanya sangat cerah selama masa tinggal kami di Bordeaux."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"L'Imparfait: Formation et Emplois Descriptifs\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nous habitions près de la faculté des sciences. — Kami dahulu tinggal di dekat fakultas sains."
+          "Contoh 3: Nous habitions près de la faculté des sciences. (Nus habisyongs près de la faculté des sciences.) — Kami dahulu tinggal di dekat fakultas sains.",
+          "Hindari kesalahan: \"quand j'ai été petit (habitude)\" → gunakan bentuk yang benar: \"quand j'étais petit\"."
         ]
       }
     ],
@@ -5704,19 +5743,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-13-ex-1",
         "native": "Quand j'étais étudiant en licence, j'étudiais tous les soirs.",
-        "phonetic": "",
+        "phonetic": "Kand j'étais étudiant en licence, j'étudiais tus les swars.",
         "translationId": "Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam."
       },
       {
         "id": "fr-gram-13-ex-2",
         "native": "Il faisait très beau pendant notre séjour à Bordeaux.",
-        "phonetic": "",
+        "phonetic": "Il faisait très bo pendant notre séjur à bordox.",
         "translationId": "Cuacanya sangat cerah selama masa tinggal kami di Bordeaux."
       },
       {
         "id": "fr-gram-13-ex-3",
         "native": "Nous habitions près de la faculté des sciences.",
-        "phonetic": "",
+        "phonetic": "Nus habisyongs près de la faculté des sciences.",
         "translationId": "Kami dahulu tinggal di dekat fakultas sains."
       }
     ],
@@ -5727,12 +5766,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Untuk kebiasaan masa lalu atau keadaan yang berlangsung lama, gunakan l'imparfait."
       },
       {
-        "incorrect": "quand j'ai été petit (habitude) (kesalahan umum)",
-        "correct": "quand j'étais petit",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient",
+        "correct": "Mengikuti struktur Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'L'Imparfait: Formation et Emplois Descriptifs' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"L'Imparfait: Formation et Emplois Descriptifs\" (Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-13-pg-1",
@@ -5748,7 +5787,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Quand j'étais étudiant en licence, j'étudiais tous les soirs.\" berarti \"Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam.\"."
+        "explanation": "Kalimat \"Quand j'étais étudiant en licence, j'étudiais tous les soirs.\" (dibaca: Kand j'étais étudiant en licence, j'étudiais tus les swars.) berarti \"Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam.\". Kalimat ini menggunakan pola \"Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient\" (L'Imparfait: Formation et Emplois Descriptifs) yang berfungsi untuk membentuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, atau kondisi berlangsung."
       },
       {
         "id": "q-fr-gram-13-pg-2",
@@ -5764,7 +5803,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Il faisait très beau pendant notre séjour à Bordeaux.\" berarti \"Cuacanya sangat cerah selama masa tinggal kami di Bordeaux.\"."
+        "explanation": "Kalimat \"Il faisait très beau pendant notre séjour à Bordeaux.\" (dibaca: Il faisait très bo pendant notre séjur à bordox.) berarti \"Cuacanya sangat cerah selama masa tinggal kami di Bordeaux.\". Kalimat ini menggunakan pola \"Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient\" (L'Imparfait: Formation et Emplois Descriptifs) yang berfungsi untuk membentuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, atau kondisi berlangsung."
       },
       {
         "id": "q-fr-gram-13-pg-3",
@@ -5780,7 +5819,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia meneleponnya secara berkala untuk mengajukan pertanyaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nous habitions près de la faculté des sciences.\" berarti \"Kami dahulu tinggal di dekat fakultas sains.\"."
+        "explanation": "Kalimat \"Nous habitions près de la faculté des sciences.\" (dibaca: Nus habisyongs près de la faculté des sciences.) berarti \"Kami dahulu tinggal di dekat fakultas sains.\". Kalimat ini menggunakan pola \"Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient\" (L'Imparfait: Formation et Emplois Descriptifs) yang berfungsi untuk membentuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, atau kondisi berlangsung."
       },
       {
         "id": "q-fr-gram-13-pg-4",
@@ -5800,7 +5839,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-13-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Imparfait: Formation et Emplois Descriptifs\"?",
         "options": [
           "Il faisait très beau pendant notre séjour à Bordeaux. — Cuacanya sangat cerah selama masa tinggal kami di Bordeaux.",
           "Cette conférence était enrichissante, nous l'avons beaucoup appréciée. — Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya.",
@@ -5814,7 +5853,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-13-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Imparfait: Formation et Emplois Descriptifs\"?",
         "options": [
           "Ce livre est passionnant, je le lis tous les soirs. — Buku ini sangat menarik, saya membacanya setiap malam.",
           "Nous habitions près de la faculté des sciences. — Kami dahulu tinggal di dekat fakultas sains.",
@@ -5828,7 +5867,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-13-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Imparfait: Formation et Emplois Descriptifs\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6075,7 +6114,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Buku ini sangat menarik, saya membacanya setiap malam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Quand j'étais étudiant en licence, j'étudiais tous les soirs.\" berarti \"Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam.\"."
+        "explanation": "Kalimat \"Quand j'étais étudiant en licence, j'étudiais tous les soirs.\" (dibaca: Kand j'étais étudiant en licence, j'étudiais tus les swars.) berarti \"Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam.\". Kalimat ini menggunakan pola \"Radical de Nous au présent + -ais, -ais, -ait, -ions, -iez, -aient\" (L'Imparfait: Formation et Emplois Descriptifs) yang berfungsi untuk membentuk waktu lampau deskriptif untuk melukiskan kebiasaan masa lalu, latar belakang cerita, atau kondisi berlangsung."
       },
       {
         "id": "q-fr-gram-13-bb-2",
@@ -6150,24 +6189,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memadukan latar belakang kondisi (imparfait) dengan aksi mendadak yang memotong alur narasi (passé composé).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Contraste Passé Composé vs Imparfait dans le Récit' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Contraste Passé Composé vs Imparfait dans le Récit\" (L'alternance entre l'imparfait et le passé composé) berfungsi untuk: memadukan latar belakang kondisi (imparfait) dengan aksi mendadak yang memotong alur narasi (passé composé). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je lisais tranquillement quand le professeur est entré. — Saya sedang membaca dengan tenang ketika sang profesor masuk."
+          "Rumus utama: Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)",
+          "Contoh 1: Je lisais tranquillement quand le professeur est entré. (Je lisais trankillement kand le professer est entré.) — Saya sedang membaca dengan tenang ketika sang profesor masuk."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Tindakan tunggal dan tiba-tiba yang memotong kondisi berdurasi dikonjugasikan dalam passé composé.",
         "ruleList": [
-          "Pendant que nous travaillions, le téléphone a sonné. — Sementara kami sedang bekerja, telepon berdering."
+          "Polanya: Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)",
+          "Contoh 2: Pendant que nous travaillions, le téléphone a sonné. (Pendant ke nus travaillions, le téléphone a sonné.) — Sementara kami sedang bekerja, telepon berdering."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Contraste Passé Composé vs Imparfait dans le Récit\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Il pleuvait fort lorsque les résultats sont apparus. — Hujan sedang turun dengan deras ketika hasil ujian muncul."
+          "Contoh 3: Il pleuvait fort lorsque les résultats sont apparus. (Il plevait fort lorske les résultats sont apparus.) — Hujan sedang turun dengan deras ketika hasil ujian muncul.",
+          "Hindari kesalahan: \"je lisais quand le professeur entrait\" → gunakan bentuk yang benar: \"je lisais quand le professeur est entré\"."
         ]
       }
     ],
@@ -6175,19 +6217,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-14-ex-1",
         "native": "Je lisais tranquillement quand le professeur est entré.",
-        "phonetic": "",
+        "phonetic": "Je lisais trankillement kand le professer est entré.",
         "translationId": "Saya sedang membaca dengan tenang ketika sang profesor masuk."
       },
       {
         "id": "fr-gram-14-ex-2",
         "native": "Pendant que nous travaillions, le téléphone a sonné.",
-        "phonetic": "",
+        "phonetic": "Pendant ke nus travaillions, le téléphone a sonné.",
         "translationId": "Sementara kami sedang bekerja, telepon berdering."
       },
       {
         "id": "fr-gram-14-ex-3",
         "native": "Il pleuvait fort lorsque les résultats sont apparus.",
-        "phonetic": "",
+        "phonetic": "Il plevait fort lorske les résultats sont apparus.",
         "translationId": "Hujan sedang turun dengan deras ketika hasil ujian muncul."
       }
     ],
@@ -6198,12 +6240,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Tindakan tunggal dan tiba-tiba yang memotong kondisi berdurasi dikonjugasikan dalam passé composé."
       },
       {
-        "incorrect": "je lisais quand le professeur entrait (kesalahan umum)",
-        "correct": "je lisais quand le professeur est entré",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Imparfait (Arrière-plan",
+        "correct": "Mengikuti struktur Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Contraste Passé Composé vs Imparfait dans le Récit' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Contraste Passé Composé vs Imparfait dans le Récit\" (Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-14-pg-1",
@@ -6219,7 +6261,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya telah menjelaskan petunjuk ujian akhir kepada mereka."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Je lisais tranquillement quand le professeur est entré.\" berarti \"Saya sedang membaca dengan tenang ketika sang profesor masuk.\"."
+        "explanation": "Kalimat \"Je lisais tranquillement quand le professeur est entré.\" (dibaca: Je lisais trankillement kand le professer est entré.) berarti \"Saya sedang membaca dengan tenang ketika sang profesor masuk.\". Kalimat ini menggunakan pola \"Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)\" (Contraste Passé Composé vs Imparfait dans le Récit) yang berfungsi untuk memadukan latar belakang kondisi (imparfait) dengan aksi mendadak yang memotong alur narasi (passé composé)."
       },
       {
         "id": "q-fr-gram-14-pg-2",
@@ -6235,7 +6277,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Anda pergi ke universitas? Ya, saya pergi ke sana naik metro."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Pendant que nous travaillions, le téléphone a sonné.\" berarti \"Sementara kami sedang bekerja, telepon berdering.\"."
+        "explanation": "Kalimat \"Pendant que nous travaillions, le téléphone a sonné.\" (dibaca: Pendant ke nus travaillions, le téléphone a sonné.) berarti \"Sementara kami sedang bekerja, telepon berdering.\". Kalimat ini menggunakan pola \"Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)\" (Contraste Passé Composé vs Imparfait dans le Récit) yang berfungsi untuk memadukan latar belakang kondisi (imparfait) dengan aksi mendadak yang memotong alur narasi (passé composé)."
       },
       {
         "id": "q-fr-gram-14-pg-3",
@@ -6251,7 +6293,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Hujan sedang turun dengan deras ketika hasil ujian muncul."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Il pleuvait fort lorsque les résultats sont apparus.\" berarti \"Hujan sedang turun dengan deras ketika hasil ujian muncul.\"."
+        "explanation": "Kalimat \"Il pleuvait fort lorsque les résultats sont apparus.\" (dibaca: Il plevait fort lorske les résultats sont apparus.) berarti \"Hujan sedang turun dengan deras ketika hasil ujian muncul.\". Kalimat ini menggunakan pola \"Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)\" (Contraste Passé Composé vs Imparfait dans le Récit) yang berfungsi untuk memadukan latar belakang kondisi (imparfait) dengan aksi mendadak yang memotong alur narasi (passé composé)."
       },
       {
         "id": "q-fr-gram-14-pg-4",
@@ -6271,7 +6313,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-14-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Contraste Passé Composé vs Imparfait dans le Récit\"?",
         "options": [
           "Je leur ai expliqué les consignes de l'examen final. — Saya telah menjelaskan petunjuk ujian akhir kepada mereka.",
           "Pendant que nous travaillions, le téléphone a sonné. — Sementara kami sedang bekerja, telepon berdering.",
@@ -6285,7 +6327,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-14-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Contraste Passé Composé vs Imparfait dans le Récit\"?",
         "options": [
           "Le professeur lui a envoyé le sujet de recherche par courriel. — Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel.",
           "Elle lui téléphone régulièrement pour poser des questions. — Dia meneleponnya secara berkala untuk mengajukan pertanyaan.",
@@ -6299,7 +6341,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-14-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Contraste Passé Composé vs Imparfait dans le Récit\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6546,7 +6588,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya sedang membaca dengan tenang ketika sang profesor masuk."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Je lisais tranquillement quand le professeur est entré.\" berarti \"Saya sedang membaca dengan tenang ketika sang profesor masuk.\"."
+        "explanation": "Kalimat \"Je lisais tranquillement quand le professeur est entré.\" (dibaca: Je lisais trankillement kand le professer est entré.) berarti \"Saya sedang membaca dengan tenang ketika sang profesor masuk.\". Kalimat ini menggunakan pola \"Imparfait (Arrière-plan/Durée) + Passé Composé (Action ponctuelle)\" (Contraste Passé Composé vs Imparfait dans le Récit) yang berfungsi untuk memadukan latar belakang kondisi (imparfait) dengan aksi mendadak yang memotong alur narasi (passé composé)."
       },
       {
         "id": "q-fr-gram-14-bb-2",
@@ -6621,24 +6663,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menggantikan objek penderita langsung tanpa preposisi dengan pronomina le, la, l', les.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)\" (Les pronoms COD pour éviter la répétition du nom) berfungsi untuk: menggantikan objek penderita langsung tanpa preposisi dengan pronomina le, la, l', les. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ce livre est passionnant, je le lis tous les soirs. — Buku ini sangat menarik, saya membacanya setiap malam."
+          "Rumus utama: Sujet + (Ne) + Le / La / L' / Les + Verbe",
+          "Contoh 1: Ce livre est passionnant, je le lis tous les soirs. (Ce livre est passionnant, je le lis tus les swars.) — Buku ini sangat menarik, saya membacanya setiap malam."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Sujet + (Ne) + Le / La / L' / Les + Verbe memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sujet + (Ne) + Le / La / L' / Les + Verbe\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata ganti objek langsung (COD) dalam bahasa Prancis diletakkan tepat di depan kata kerja.",
         "ruleList": [
-          "Cette conférence était enrichissante, nous l'avons beaucoup appréciée. — Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya."
+          "Polanya: Sujet + (Ne) + Le / La / L' / Les + Verbe",
+          "Contoh 2: Cette conférence était enrichissante, nous l'avons beaucoup appréciée. (Cette conférence était enrisyissante, nus l'avons bocup appréciée.) — Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Mes devoirs? Je les ai terminés hier. — Tugas-tugas saya? Saya telah menyelesaikannya kemarin."
+          "Contoh 3: Mes devoirs? Je les ai terminés hier. (Mes devwars? je les ai terminés hier.) — Tugas-tugas saya? Saya telah menyelesaikannya kemarin.",
+          "Hindari kesalahan: \"je lis le\" → gunakan bentuk yang benar: \"je le lis\"."
         ]
       }
     ],
@@ -6646,19 +6691,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-15-ex-1",
         "native": "Ce livre est passionnant, je le lis tous les soirs.",
-        "phonetic": "",
+        "phonetic": "Ce livre est passionnant, je le lis tus les swars.",
         "translationId": "Buku ini sangat menarik, saya membacanya setiap malam."
       },
       {
         "id": "fr-gram-15-ex-2",
         "native": "Cette conférence était enrichissante, nous l'avons beaucoup appréciée.",
-        "phonetic": "",
+        "phonetic": "Cette conférence était enrisyissante, nus l'avons bocup appréciée.",
         "translationId": "Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya."
       },
       {
         "id": "fr-gram-15-ex-3",
         "native": "Mes devoirs? Je les ai terminés hier.",
-        "phonetic": "",
+        "phonetic": "Mes devwars? je les ai terminés hier.",
         "translationId": "Tugas-tugas saya? Saya telah menyelesaikannya kemarin."
       }
     ],
@@ -6669,12 +6714,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata ganti objek langsung (COD) dalam bahasa Prancis diletakkan tepat di depan kata kerja."
       },
       {
-        "incorrect": "je lis le (kesalahan umum)",
-        "correct": "je le lis",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Sujet + (Ne) + Le",
+        "correct": "Mengikuti struktur Sujet + (Ne) + Le / La / L' / Les + Verbe",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Sujet + (Ne) + Le / La / L' / Les + Verbe\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)\" (Sujet + (Ne) + Le / La / L' / Les + Verbe) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-15-pg-1",
@@ -6690,7 +6735,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ce livre est passionnant, je le lis tous les soirs.\" berarti \"Buku ini sangat menarik, saya membacanya setiap malam.\"."
+        "explanation": "Kalimat \"Ce livre est passionnant, je le lis tous les soirs.\" (dibaca: Ce livre est passionnant, je le lis tus les swars.) berarti \"Buku ini sangat menarik, saya membacanya setiap malam.\". Kalimat ini menggunakan pola \"Sujet + (Ne) + Le / La / L' / Les + Verbe\" (Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina le, la, l', les."
       },
       {
         "id": "q-fr-gram-15-pg-2",
@@ -6706,7 +6751,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Cette conférence était enrichissante, nous l'avons beaucoup appréciée.\" berarti \"Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya.\"."
+        "explanation": "Kalimat \"Cette conférence était enrichissante, nous l'avons beaucoup appréciée.\" (dibaca: Cette conférence était enrisyissante, nus l'avons bocup appréciée.) berarti \"Konferensi ini sangat memperkaya wawasan, kami sangat mengapresiasinya.\". Kalimat ini menggunakan pola \"Sujet + (Ne) + Le / La / L' / Les + Verbe\" (Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina le, la, l', les."
       },
       {
         "id": "q-fr-gram-15-pg-3",
@@ -6722,7 +6767,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia bekerja sama tekunnya dengan rekan-rekan sejawatnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Mes devoirs? Je les ai terminés hier.\" berarti \"Tugas-tugas saya? Saya telah menyelesaikannya kemarin.\"."
+        "explanation": "Kalimat \"Mes devoirs? Je les ai terminés hier.\" (dibaca: Mes devwars? je les ai terminés hier.) berarti \"Tugas-tugas saya? Saya telah menyelesaikannya kemarin.\". Kalimat ini menggunakan pola \"Sujet + (Ne) + Le / La / L' / Les + Verbe\" (Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina le, la, l', les."
       },
       {
         "id": "q-fr-gram-15-pg-4",
@@ -6742,7 +6787,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-15-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)\"?",
         "options": [
           "Avez-vous besoin de ce dictionnaire? Oui, j'en ai besoin. — Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya.",
           "Cette méthode est plus efficace que l'ancienne approche. — Metode ini lebih efektif daripada pendekatan yang lama.",
@@ -6756,7 +6801,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-15-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)\"?",
         "options": [
           "Vous allez à l'université? Oui, j'y vais en métro. — Anda pergi ke universitas? Ya, saya pergi ke sana naik metro.",
           "Des stylos? Oui, j'en ai trois. — Pulpen? Ya, saya memilikinya tiga buah.",
@@ -6770,7 +6815,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-15-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -7017,7 +7062,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Anda pergi ke universitas? Ya, saya pergi ke sana naik metro."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ce livre est passionnant, je le lis tous les soirs.\" berarti \"Buku ini sangat menarik, saya membacanya setiap malam.\"."
+        "explanation": "Kalimat \"Ce livre est passionnant, je le lis tous les soirs.\" (dibaca: Ce livre est passionnant, je le lis tus les swars.) berarti \"Buku ini sangat menarik, saya membacanya setiap malam.\". Kalimat ini menggunakan pola \"Sujet + (Ne) + Le / La / L' / Les + Verbe\" (Les Pronoms Compléments d'Objet Direct (COD: Le, La, Les)) yang berfungsi untuk menggantikan objek penderita langsung tanpa preposisi dengan pronomina le, la, l', les."
       },
       {
         "id": "q-fr-gram-15-bb-2",
@@ -7092,24 +7137,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menggantikan orang sebagai objek penyerta tak langsung yang diawali preposisi 'à' (parler à, téléphoner à).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)\" (Les pronoms COI avec la préposition 'à') berfungsi untuk: menggantikan orang sebagai objek penyerta tak langsung yang diawali preposisi 'à' (parler à, téléphoner à). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Le professeur lui a envoyé le sujet de recherche par courriel. — Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel."
+          "Rumus utama: Sujet + Lui / Leur + Verbe",
+          "Contoh 1: Le professeur lui a envoyé le sujet de recherche par courriel. (Le professer lui a envoyé le sujet de resyersye par curriel.) — Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Sujet + Lui / Leur + Verbe memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sujet + Lui / Leur + Verbe\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata ganti COI lui menggantikan objek orang tunggal yang didahului preposisi 'à'.",
         "ruleList": [
-          "Je leur ai expliqué les consignes de l'examen final. — Saya telah menjelaskan petunjuk ujian akhir kepada mereka."
+          "Polanya: Sujet + Lui / Leur + Verbe",
+          "Contoh 2: Je leur ai expliqué les consignes de l'examen final. (Je ler ai expliké les consinyes de l'examen final.) — Saya telah menjelaskan petunjuk ujian akhir kepada mereka."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Elle lui téléphone régulièrement pour poser des questions. — Dia meneleponnya secara berkala untuk mengajukan pertanyaan."
+          "Contoh 3: Elle lui téléphone régulièrement pour poser des questions. (Elle lui téléphone régulièrement pur poser des kessyongs.) — Dia meneleponnya secara berkala untuk mengajukan pertanyaan.",
+          "Hindari kesalahan: \"je téléphone à lui\" → gunakan bentuk yang benar: \"je lui téléphone\"."
         ]
       }
     ],
@@ -7117,19 +7165,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-16-ex-1",
         "native": "Le professeur lui a envoyé le sujet de recherche par courriel.",
-        "phonetic": "",
+        "phonetic": "Le professer lui a envoyé le sujet de resyersye par curriel.",
         "translationId": "Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel."
       },
       {
         "id": "fr-gram-16-ex-2",
         "native": "Je leur ai expliqué les consignes de l'examen final.",
-        "phonetic": "",
+        "phonetic": "Je ler ai expliké les consinyes de l'examen final.",
         "translationId": "Saya telah menjelaskan petunjuk ujian akhir kepada mereka."
       },
       {
         "id": "fr-gram-16-ex-3",
         "native": "Elle lui téléphone régulièrement pour poser des questions.",
-        "phonetic": "",
+        "phonetic": "Elle lui téléphone régulièrement pur poser des kessyongs.",
         "translationId": "Dia meneleponnya secara berkala untuk mengajukan pertanyaan."
       }
     ],
@@ -7140,12 +7188,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata ganti COI lui menggantikan objek orang tunggal yang didahului preposisi 'à'."
       },
       {
-        "incorrect": "je téléphone à lui (kesalahan umum)",
-        "correct": "je lui téléphone",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Sujet + Lui",
+        "correct": "Mengikuti struktur Sujet + Lui / Leur + Verbe",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Sujet + Lui / Leur + Verbe\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)\" (Sujet + Lui / Leur + Verbe) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-16-pg-1",
@@ -7161,7 +7209,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le professeur lui a envoyé le sujet de recherche par courriel.\" berarti \"Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel.\"."
+        "explanation": "Kalimat \"Le professeur lui a envoyé le sujet de recherche par courriel.\" (dibaca: Le professer lui a envoyé le sujet de resyersye par curriel.) berarti \"Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel.\". Kalimat ini menggunakan pola \"Sujet + Lui / Leur + Verbe\" (Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)) yang berfungsi untuk menggantikan orang sebagai objek penyerta tak langsung yang diawali preposisi 'à' (parler à, téléphoner à)."
       },
       {
         "id": "q-fr-gram-16-pg-2",
@@ -7177,7 +7225,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Je leur ai expliqué les consignes de l'examen final.\" berarti \"Saya telah menjelaskan petunjuk ujian akhir kepada mereka.\"."
+        "explanation": "Kalimat \"Je leur ai expliqué les consignes de l'examen final.\" (dibaca: Je ler ai expliké les consinyes de l'examen final.) berarti \"Saya telah menjelaskan petunjuk ujian akhir kepada mereka.\". Kalimat ini menggunakan pola \"Sujet + Lui / Leur + Verbe\" (Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)) yang berfungsi untuk menggantikan orang sebagai objek penyerta tak langsung yang diawali preposisi 'à' (parler à, téléphoner à)."
       },
       {
         "id": "q-fr-gram-16-pg-3",
@@ -7193,7 +7241,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Rektor akan mengumumkan program beasiswa universitas yang baru."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Elle lui téléphone régulièrement pour poser des questions.\" berarti \"Dia meneleponnya secara berkala untuk mengajukan pertanyaan.\"."
+        "explanation": "Kalimat \"Elle lui téléphone régulièrement pour poser des questions.\" (dibaca: Elle lui téléphone régulièrement pur poser des kessyongs.) berarti \"Dia meneleponnya secara berkala untuk mengajukan pertanyaan.\". Kalimat ini menggunakan pola \"Sujet + Lui / Leur + Verbe\" (Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)) yang berfungsi untuk menggantikan orang sebagai objek penyerta tak langsung yang diawali preposisi 'à' (parler à, téléphoner à)."
       },
       {
         "id": "q-fr-gram-16-pg-4",
@@ -7213,7 +7261,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-16-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)\"?",
         "options": [
           "Ce mémoire de master est le plus complet de la promotion. — Tesis magister ini adalah yang paling lengkap di angkatan ini.",
           "L'année prochaine, nous publierons notre premier article scientifique. — Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami.",
@@ -7227,7 +7275,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-16-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)\"?",
         "options": [
           "Elle lui téléphone régulièrement pour poser des questions. — Dia meneleponnya secara berkala untuk mengajukan pertanyaan.",
           "Cette méthode est plus efficace que l'ancienne approche. — Metode ini lebih efektif daripada pendekatan yang lama.",
@@ -7241,7 +7289,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-16-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -7488,7 +7536,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Metode ini lebih efektif daripada pendekatan yang lama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Le professeur lui a envoyé le sujet de recherche par courriel.\" berarti \"Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel.\"."
+        "explanation": "Kalimat \"Le professeur lui a envoyé le sujet de recherche par courriel.\" (dibaca: Le professer lui a envoyé le sujet de resyersye par curriel.) berarti \"Sang profesor telah mengirimkan topik penelitian kepadanya melalui surel.\". Kalimat ini menggunakan pola \"Sujet + Lui / Leur + Verbe\" (Les Pronoms Compléments d'Objet Indirect (COI: Lui, Leur)) yang berfungsi untuk menggantikan orang sebagai objek penyerta tak langsung yang diawali preposisi 'à' (parler à, téléphoner à)."
       },
       {
         "id": "q-fr-gram-16-bb-2",
@@ -7563,24 +7611,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pronomina adverbial Y untuk tempat atau objek diawali 'à', dan En untuk kuantitas atau diawali 'de'.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Pronoms En et Y (Lieu et Quantité)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Pronoms En et Y (Lieu et Quantité)\" (L'emploi des pronoms adverbiaux En et Y) berfungsi untuk: pronomina adverbial Y untuk tempat atau objek diawali 'à', dan En untuk kuantitas atau diawali 'de'. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Vous allez à l'université? Oui, j'y vais en métro. — Anda pergi ke universitas? Ya, saya pergi ke sana naik metro."
+          "Rumus utama: Y (À + Lieu/Chose) & En (De + Chose / Quantité)",
+          "Contoh 1: Vous allez à l'université? Oui, j'y vais en métro. (Vus allez à l'université? ui, j'y vais en métro.) — Anda pergi ke universitas? Ya, saya pergi ke sana naik metro."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Y (À + Lieu/Chose) & En (De + Chose / Quantité) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Y (À + Lieu/Chose) & En (De + Chose / Quantité)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata ganti adverbial 'y' diletakkan tepat sebelum kata kerja yang terkonjugasi.",
         "ruleList": [
-          "Avez-vous besoin de ce dictionnaire? Oui, j'en ai besoin. — Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya."
+          "Polanya: Y (À + Lieu/Chose) & En (De + Chose / Quantité)",
+          "Contoh 2: Avez-vous besoin de ce dictionnaire? Oui, j'en ai besoin. (Avez-vus beswan de ce dicsyongnaire? ui, j'en ai beswan.) — Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Pronoms En et Y (Lieu et Quantité)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Des stylos? Oui, j'en ai trois. — Pulpen? Ya, saya memilikinya tiga buah."
+          "Contoh 3: Des stylos? Oui, j'en ai trois. (Des stylos? ui, j'en ai trwas.) — Pulpen? Ya, saya memilikinya tiga buah.",
+          "Hindari kesalahan: \"je vais y\" → gunakan bentuk yang benar: \"j'y vais\"."
         ]
       }
     ],
@@ -7588,19 +7639,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-17-ex-1",
         "native": "Vous allez à l'université? Oui, j'y vais en métro.",
-        "phonetic": "",
+        "phonetic": "Vus allez à l'université? ui, j'y vais en métro.",
         "translationId": "Anda pergi ke universitas? Ya, saya pergi ke sana naik metro."
       },
       {
         "id": "fr-gram-17-ex-2",
         "native": "Avez-vous besoin de ce dictionnaire? Oui, j'en ai besoin.",
-        "phonetic": "",
+        "phonetic": "Avez-vus beswan de ce dicsyongnaire? ui, j'en ai beswan.",
         "translationId": "Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya."
       },
       {
         "id": "fr-gram-17-ex-3",
         "native": "Des stylos? Oui, j'en ai trois.",
-        "phonetic": "",
+        "phonetic": "Des stylos? ui, j'en ai trwas.",
         "translationId": "Pulpen? Ya, saya memilikinya tiga buah."
       }
     ],
@@ -7611,12 +7662,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata ganti adverbial 'y' diletakkan tepat sebelum kata kerja yang terkonjugasi."
       },
       {
-        "incorrect": "je vais y (kesalahan umum)",
-        "correct": "j'y vais",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Y (À + Lieu",
+        "correct": "Mengikuti struktur Y (À + Lieu/Chose) & En (De + Chose / Quantité)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Y (À + Lieu/Chose) & En (De + Chose / Quantité)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Pronoms En et Y (Lieu et Quantité)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Pronoms En et Y (Lieu et Quantité)\" (Y (À + Lieu/Chose) & En (De + Chose / Quantité)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-17-pg-1",
@@ -7632,7 +7683,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Anda akan meraih ijazah magister Anda dengan predikat pujian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Vous allez à l'université? Oui, j'y vais en métro.\" berarti \"Anda pergi ke universitas? Ya, saya pergi ke sana naik metro.\"."
+        "explanation": "Kalimat \"Vous allez à l'université? Oui, j'y vais en métro.\" (dibaca: Vus allez à l'université? ui, j'y vais en métro.) berarti \"Anda pergi ke universitas? Ya, saya pergi ke sana naik metro.\". Kalimat ini menggunakan pola \"Y (À + Lieu/Chose) & En (De + Chose / Quantité)\" (Les Pronoms En et Y (Lieu et Quantité)) yang berfungsi untuk pronomina adverbial Y untuk tempat atau objek diawali 'à', dan En untuk kuantitas atau diawali 'de'."
       },
       {
         "id": "q-fr-gram-17-pg-2",
@@ -7648,7 +7699,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Bersegeralah mengirimkan berkas pendaftaran Anda!"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Avez-vous besoin de ce dictionnaire? Oui, j'en ai besoin.\" berarti \"Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya.\"."
+        "explanation": "Kalimat \"Avez-vous besoin de ce dictionnaire? Oui, j'en ai besoin.\" (dibaca: Avez-vus beswan de ce dicsyongnaire? ui, j'en ai beswan.) berarti \"Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya.\". Kalimat ini menggunakan pola \"Y (À + Lieu/Chose) & En (De + Chose / Quantité)\" (Les Pronoms En et Y (Lieu et Quantité)) yang berfungsi untuk pronomina adverbial Y untuk tempat atau objek diawali 'à', dan En untuk kuantitas atau diawali 'de'."
       },
       {
         "id": "q-fr-gram-17-pg-3",
@@ -7664,7 +7715,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Des stylos? Oui, j'en ai trois.\" berarti \"Pulpen? Ya, saya memilikinya tiga buah.\"."
+        "explanation": "Kalimat \"Des stylos? Oui, j'en ai trois.\" (dibaca: Des stylos? ui, j'en ai trwas.) berarti \"Pulpen? Ya, saya memilikinya tiga buah.\". Kalimat ini menggunakan pola \"Y (À + Lieu/Chose) & En (De + Chose / Quantité)\" (Les Pronoms En et Y (Lieu et Quantité)) yang berfungsi untuk pronomina adverbial Y untuk tempat atau objek diawali 'à', dan En untuk kuantitas atau diawali 'de'."
       },
       {
         "id": "q-fr-gram-17-pg-4",
@@ -7684,7 +7735,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-17-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms En et Y (Lieu et Quantité)\"?",
         "options": [
           "Avez-vous besoin de ce dictionnaire? Oui, j'en ai besoin. — Apakah Anda memerlukan kamus ini? Ya, saya memerlukannya.",
           "Vous obtiendrez votre diplôme de master avec mention. — Anda akan meraih ijazah magister Anda dengan predikat pujian.",
@@ -7698,7 +7749,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-17-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms En et Y (Lieu et Quantité)\"?",
         "options": [
           "L'année prochaine, nous publierons notre premier article scientifique. — Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami.",
           "Des stylos? Oui, j'en ai trois. — Pulpen? Ya, saya memilikinya tiga buah.",
@@ -7712,7 +7763,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-17-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms En et Y (Lieu et Quantité)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -7961,7 +8012,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Vous allez à l'université? Oui, j'y vais en métro.\" berarti \"Anda pergi ke universitas? Ya, saya pergi ke sana naik metro.\"."
+        "explanation": "Kalimat \"Vous allez à l'université? Oui, j'y vais en métro.\" (dibaca: Vus allez à l'université? ui, j'y vais en métro.) berarti \"Anda pergi ke universitas? Ya, saya pergi ke sana naik metro.\". Kalimat ini menggunakan pola \"Y (À + Lieu/Chose) & En (De + Chose / Quantité)\" (Les Pronoms En et Y (Lieu et Quantité)) yang berfungsi untuk pronomina adverbial Y untuk tempat atau objek diawali 'à', dan En untuk kuantitas atau diawali 'de'."
       },
       {
         "id": "q-fr-gram-17-bb-2",
@@ -8036,24 +8087,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membandingkan dua hal (lebih, kurang, sama) serta menyatakan tingkat paling unggul (superlatif).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Comparatif et le Superlatif des Adjectifs' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Comparatif et le Superlatif des Adjectifs\" (Les degrés de comparaison des adjectifs et adverbes) berfungsi untuk: membandingkan dua hal (lebih, kurang, sama) serta menyatakan tingkat paling unggul (superlatif). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Cette méthode est plus efficace que l'ancienne approche. — Metode ini lebih efektif daripada pendekatan yang lama."
+          "Rumus utama: Plus... que / Moins... que / Aussi... que & Le plus / La plus",
+          "Contoh 1: Cette méthode est plus efficace que l'ancienne approche. (Cette méthode est plus efficace ke l'ancienne approsye.) — Metode ini lebih efektif daripada pendekatan yang lama."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Plus... que / Moins... que / Aussi... que & Le plus / La plus memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Plus... que / Moins... que / Aussi... que & Le plus / La plus\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk komparatif keunggulan untuk kata sifat 'bon' (baik) adalah 'meilleur' (lebih baik).",
         "ruleList": [
-          "Ce mémoire de master est le plus complet de la promotion. — Tesis magister ini adalah yang paling lengkap di angkatan ini."
+          "Polanya: Plus... que / Moins... que / Aussi... que & Le plus / La plus",
+          "Contoh 2: Ce mémoire de master est le plus complet de la promotion. (Ce mémware de master est le plus complet de la promosyong.) — Tesis magister ini adalah yang paling lengkap di angkatan ini."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Comparatif et le Superlatif des Adjectifs\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Il travaille aussi assidûment que ses collègues. — Dia bekerja sama tekunnya dengan rekan-rekan sejawatnya."
+          "Contoh 3: Il travaille aussi assidûment que ses collègues. (Il travaille ossi assidûment ke ses collègues.) — Dia bekerja sama tekunnya dengan rekan-rekan sejawatnya.",
+          "Hindari kesalahan: \"plus bon que\" → gunakan bentuk yang benar: \"meilleur que\"."
         ]
       }
     ],
@@ -8061,19 +8115,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-18-ex-1",
         "native": "Cette méthode est plus efficace que l'ancienne approche.",
-        "phonetic": "",
+        "phonetic": "Cette méthode est plus efficace ke l'ancienne approsye.",
         "translationId": "Metode ini lebih efektif daripada pendekatan yang lama."
       },
       {
         "id": "fr-gram-18-ex-2",
         "native": "Ce mémoire de master est le plus complet de la promotion.",
-        "phonetic": "",
+        "phonetic": "Ce mémware de master est le plus complet de la promosyong.",
         "translationId": "Tesis magister ini adalah yang paling lengkap di angkatan ini."
       },
       {
         "id": "fr-gram-18-ex-3",
         "native": "Il travaille aussi assidûment que ses collègues.",
-        "phonetic": "",
+        "phonetic": "Il travaille ossi assidûment ke ses collègues.",
         "translationId": "Dia bekerja sama tekunnya dengan rekan-rekan sejawatnya."
       }
     ],
@@ -8084,12 +8138,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Bentuk komparatif keunggulan untuk kata sifat 'bon' (baik) adalah 'meilleur' (lebih baik)."
       },
       {
-        "incorrect": "plus bon que (kesalahan umum)",
-        "correct": "meilleur que",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Plus... que",
+        "correct": "Mengikuti struktur Plus... que / Moins... que / Aussi... que & Le plus / La plus",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Plus... que / Moins... que / Aussi... que & Le plus / La plus\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Comparatif et le Superlatif des Adjectifs' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Comparatif et le Superlatif des Adjectifs\" (Plus... que / Moins... que / Aussi... que & Le plus / La plus) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-18-pg-1",
@@ -8105,7 +8159,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Janganlah Anda khawatir menghadapi ujian lisan bahasa Prancis."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Cette méthode est plus efficace que l'ancienne approche.\" berarti \"Metode ini lebih efektif daripada pendekatan yang lama.\"."
+        "explanation": "Kalimat \"Cette méthode est plus efficace que l'ancienne approche.\" (dibaca: Cette méthode est plus efficace ke l'ancienne approsye.) berarti \"Metode ini lebih efektif daripada pendekatan yang lama.\". Kalimat ini menggunakan pola \"Plus... que / Moins... que / Aussi... que & Le plus / La plus\" (Le Comparatif et le Superlatif des Adjectifs) yang berfungsi untuk membandingkan dua hal (lebih, kurang, sama) serta menyatakan tingkat paling unggul (superlatif)."
       },
       {
         "id": "q-fr-gram-18-pg-2",
@@ -8121,7 +8175,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca seluruh artikel ilmiah yang direkomendasikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ce mémoire de master est le plus complet de la promotion.\" berarti \"Tesis magister ini adalah yang paling lengkap di angkatan ini.\"."
+        "explanation": "Kalimat \"Ce mémoire de master est le plus complet de la promotion.\" (dibaca: Ce mémware de master est le plus complet de la promosyong.) berarti \"Tesis magister ini adalah yang paling lengkap di angkatan ini.\". Kalimat ini menggunakan pola \"Plus... que / Moins... que / Aussi... que & Le plus / La plus\" (Le Comparatif et le Superlatif des Adjectifs) yang berfungsi untuk membandingkan dua hal (lebih, kurang, sama) serta menyatakan tingkat paling unggul (superlatif)."
       },
       {
         "id": "q-fr-gram-18-pg-3",
@@ -8137,7 +8191,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia bekerja sama tekunnya dengan rekan-rekan sejawatnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Il travaille aussi assidûment que ses collègues.\" berarti \"Dia bekerja sama tekunnya dengan rekan-rekan sejawatnya.\"."
+        "explanation": "Kalimat \"Il travaille aussi assidûment que ses collègues.\" (dibaca: Il travaille ossi assidûment ke ses collègues.) berarti \"Dia bekerja sama tekunnya dengan rekan-rekan sejawatnya.\". Kalimat ini menggunakan pola \"Plus... que / Moins... que / Aussi... que & Le plus / La plus\" (Le Comparatif et le Superlatif des Adjectifs) yang berfungsi untuk membandingkan dua hal (lebih, kurang, sama) serta menyatakan tingkat paling unggul (superlatif)."
       },
       {
         "id": "q-fr-gram-18-pg-4",
@@ -8157,7 +8211,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-18-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Comparatif et le Superlatif des Adjectifs\"?",
         "options": [
           "Ne vous inquiétez pas pour l'épreuve orale de français. — Janganlah Anda khawatir menghadapi ujian lisan bahasa Prancis.",
           "Ce mémoire de master est le plus complet de la promotion. — Tesis magister ini adalah yang paling lengkap di angkatan ini.",
@@ -8171,7 +8225,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-18-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Comparatif et le Superlatif des Adjectifs\"?",
         "options": [
           "Dépêchez-vous d'envoyer votre dossier de candidature! — Bersegeralah mengirimkan berkas pendaftaran Anda!",
           "Préparons-nous sérieusement pour la rentrée académique. — Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik.",
@@ -8185,7 +8239,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-18-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Comparatif et le Superlatif des Adjectifs\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -8434,7 +8488,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Metode ini lebih efektif daripada pendekatan yang lama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Cette méthode est plus efficace que l'ancienne approche.\" berarti \"Metode ini lebih efektif daripada pendekatan yang lama.\"."
+        "explanation": "Kalimat \"Cette méthode est plus efficace que l'ancienne approche.\" (dibaca: Cette méthode est plus efficace ke l'ancienne approsye.) berarti \"Metode ini lebih efektif daripada pendekatan yang lama.\". Kalimat ini menggunakan pola \"Plus... que / Moins... que / Aussi... que & Le plus / La plus\" (Le Comparatif et le Superlatif des Adjectifs) yang berfungsi untuk membandingkan dua hal (lebih, kurang, sama) serta menyatakan tingkat paling unggul (superlatif)."
       },
       {
         "id": "q-fr-gram-18-bb-2",
@@ -8509,24 +8563,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan rencana jangka panjang, prediksi masa depan, dan proyek riset yang akan datang.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Futur Simple: Formation et Projets d'Avenir' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Futur Simple: Formation et Projets d'Avenir\" (La formation du futur simple des verbes réguliers et irréguliers) berfungsi untuk: menyatakan rencana jangka panjang, prediksi masa depan, dan proyek riset yang akan datang. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "L'année prochaine, nous publierons notre premier article scientifique. — Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami."
+          "Rumus utama: Infinitif + -ai, -as, -a, -ons, -ez, -ont",
+          "Contoh 1: L'année prochaine, nous publierons notre premier article scientifique. (L'année prosyaine, nus publierons notre premier article scientifike.) — Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Infinitif + -ai, -as, -a, -ons, -ez, -ont memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Infinitif + -ai, -as, -a, -ons, -ez, -ont\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk kata kerja berakhiran -er pada futur simple, tambahkan akhiran -ons langsung pada bentuk infinitif.",
         "ruleList": [
-          "Vous obtiendrez votre diplôme de master avec mention. — Anda akan meraih ijazah magister Anda dengan predikat pujian."
+          "Polanya: Infinitif + -ai, -as, -a, -ons, -ez, -ont",
+          "Contoh 2: Vous obtiendrez votre diplôme de master avec mention. (Vus obtiendrez votre diplôme de master avec mensyong.) — Anda akan meraih ijazah magister Anda dengan predikat pujian."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Futur Simple: Formation et Projets d'Avenir\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Le recteur annoncera les nouvelles bourses universitaires. — Rektor akan mengumumkan program beasiswa universitas yang baru."
+          "Contoh 3: Le recteur annoncera les nouvelles bourses universitaires. (Le recter annoncera les nuvelles burses universitaires.) — Rektor akan mengumumkan program beasiswa universitas yang baru.",
+          "Hindari kesalahan: \"nous publieronsons\" → gunakan bentuk yang benar: \"nous publierons\"."
         ]
       }
     ],
@@ -8534,19 +8591,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-19-ex-1",
         "native": "L'année prochaine, nous publierons notre premier article scientifique.",
-        "phonetic": "",
+        "phonetic": "L'année prosyaine, nus publierons notre premier article scientifike.",
         "translationId": "Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami."
       },
       {
         "id": "fr-gram-19-ex-2",
         "native": "Vous obtiendrez votre diplôme de master avec mention.",
-        "phonetic": "",
+        "phonetic": "Vus obtiendrez votre diplôme de master avec mensyong.",
         "translationId": "Anda akan meraih ijazah magister Anda dengan predikat pujian."
       },
       {
         "id": "fr-gram-19-ex-3",
         "native": "Le recteur annoncera les nouvelles bourses universitaires.",
-        "phonetic": "",
+        "phonetic": "Le recter annoncera les nuvelles burses universitaires.",
         "translationId": "Rektor akan mengumumkan program beasiswa universitas yang baru."
       }
     ],
@@ -8557,12 +8614,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Untuk kata kerja berakhiran -er pada futur simple, tambahkan akhiran -ons langsung pada bentuk infinitif."
       },
       {
-        "incorrect": "nous publieronsons (kesalahan umum)",
-        "correct": "nous publierons",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Infinitif + -ai, -as, -a, -ons, -ez, -ont",
+        "correct": "Mengikuti struktur Infinitif + -ai, -as, -a, -ons, -ez, -ont",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Infinitif + -ai, -as, -a, -ons, -ez, -ont\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Futur Simple: Formation et Projets d'Avenir' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Futur Simple: Formation et Projets d'Avenir\" (Infinitif + -ai, -as, -a, -ons, -ez, -ont) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-19-pg-1",
@@ -8578,7 +8635,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah menyelesaikan laporan magang kami tadi malam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"L'année prochaine, nous publierons notre premier article scientifique.\" berarti \"Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami.\"."
+        "explanation": "Kalimat \"L'année prochaine, nous publierons notre premier article scientifique.\" (dibaca: L'année prosyaine, nus publierons notre premier article scientifike.) berarti \"Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami.\". Kalimat ini menggunakan pola \"Infinitif + -ai, -as, -a, -ons, -ez, -ont\" (Le Futur Simple: Formation et Projets d'Avenir) yang berfungsi untuk menyatakan rencana jangka panjang, prediksi masa depan, dan proyek riset yang akan datang."
       },
       {
         "id": "q-fr-gram-19-pg-2",
@@ -8594,7 +8651,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Anda akan meraih ijazah magister Anda dengan predikat pujian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Vous obtiendrez votre diplôme de master avec mention.\" berarti \"Anda akan meraih ijazah magister Anda dengan predikat pujian.\"."
+        "explanation": "Kalimat \"Vous obtiendrez votre diplôme de master avec mention.\" (dibaca: Vus obtiendrez votre diplôme de master avec mensyong.) berarti \"Anda akan meraih ijazah magister Anda dengan predikat pujian.\". Kalimat ini menggunakan pola \"Infinitif + -ai, -as, -a, -ons, -ez, -ont\" (Le Futur Simple: Formation et Projets d'Avenir) yang berfungsi untuk menyatakan rencana jangka panjang, prediksi masa depan, dan proyek riset yang akan datang."
       },
       {
         "id": "q-fr-gram-19-pg-3",
@@ -8610,7 +8667,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah berangkat sangat pagi untuk menghadiri konferensi tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Le recteur annoncera les nouvelles bourses universitaires.\" berarti \"Rektor akan mengumumkan program beasiswa universitas yang baru.\"."
+        "explanation": "Kalimat \"Le recteur annoncera les nouvelles bourses universitaires.\" (dibaca: Le recter annoncera les nuvelles burses universitaires.) berarti \"Rektor akan mengumumkan program beasiswa universitas yang baru.\". Kalimat ini menggunakan pola \"Infinitif + -ai, -as, -a, -ons, -ez, -ont\" (Le Futur Simple: Formation et Projets d'Avenir) yang berfungsi untuk menyatakan rencana jangka panjang, prediksi masa depan, dan proyek riset yang akan datang."
       },
       {
         "id": "q-fr-gram-19-pg-4",
@@ -8630,7 +8687,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-19-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Futur Simple: Formation et Projets d'Avenir\"?",
         "options": [
           "Nous avons terminé notre rapport de stage hier soir. — Kami telah menyelesaikan laporan magang kami tadi malam.",
           "Elle est allée à la bibliothèque universitaire ce matin. — Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini.",
@@ -8644,7 +8701,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-19-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Futur Simple: Formation et Projets d'Avenir\"?",
         "options": [
           "J'ai lu tous les articles scientifiques recommandés. — Saya telah membaca seluruh artikel ilmiah yang direkomendasikan.",
           "Le chercheur a découvert une nouvelle méthode d'analyse. — Peneliti itu telah menemukan sebuah metode analisis baru.",
@@ -8658,7 +8715,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-19-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Futur Simple: Formation et Projets d'Avenir\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -8905,7 +8962,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca seluruh artikel ilmiah yang direkomendasikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"L'année prochaine, nous publierons notre premier article scientifique.\" berarti \"Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami.\"."
+        "explanation": "Kalimat \"L'année prochaine, nous publierons notre premier article scientifique.\" (dibaca: L'année prosyaine, nus publierons notre premier article scientifike.) berarti \"Tahun depan, kami akan memublikasikan artikel ilmiah pertama kami.\". Kalimat ini menggunakan pola \"Infinitif + -ai, -as, -a, -ons, -ez, -ont\" (Le Futur Simple: Formation et Projets d'Avenir) yang berfungsi untuk menyatakan rencana jangka panjang, prediksi masa depan, dan proyek riset yang akan datang."
       },
       {
         "id": "q-fr-gram-19-bb-2",
@@ -8980,24 +9037,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memberikan instruksi, anjuran, dan nasihat kepada diri sendiri dan orang lain.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'L'Impératif et les Verbes Pronominaux' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"L'Impératif et les Verbes Pronominaux\" (L'impératif affirmatif et négatif des verbes pronominaux) berfungsi untuk: memberikan instruksi, anjuran, dan nasihat kepada diri sendiri dan orang lain. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Dépêchez-vous d'envoyer votre dossier de candidature! — Bersegeralah mengirimkan berkas pendaftaran Anda!"
+          "Rumus utama: Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas",
+          "Contoh 1: Dépêchez-vous d'envoyer votre dossier de candidature! (Dépêsyez-vus d'envoyer votre dossier de candidature!) — Bersegeralah mengirimkan berkas pendaftaran Anda!"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bentuk imperatif negatif, kata ganti refleksif kembali ke posisi sebelum kata kerja.",
         "ruleList": [
-          "Ne vous inquiétez pas pour l'épreuve orale de français. — Janganlah Anda khawatir menghadapi ujian lisan bahasa Prancis."
+          "Polanya: Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas",
+          "Contoh 2: Ne vous inquiétez pas pour l'épreuve orale de français. (Ne vus inkiétez pas pur l'épreve orale de français.) — Janganlah Anda khawatir menghadapi ujian lisan bahasa Prancis."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"L'Impératif et les Verbes Pronominaux\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Préparons-nous sérieusement pour la rentrée académique. — Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik."
+          "Contoh 3: Préparons-nous sérieusement pour la rentrée académique. (Préparons-nus sériesement pur la rentrée académike.) — Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik.",
+          "Hindari kesalahan: \"dépêchez vous pas\" → gunakan bentuk yang benar: \"ne vous dépêchez pas\"."
         ]
       }
     ],
@@ -9005,19 +9065,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-20-ex-1",
         "native": "Dépêchez-vous d'envoyer votre dossier de candidature!",
-        "phonetic": "",
+        "phonetic": "Dépêsyez-vus d'envoyer votre dossier de candidature!",
         "translationId": "Bersegeralah mengirimkan berkas pendaftaran Anda!"
       },
       {
         "id": "fr-gram-20-ex-2",
         "native": "Ne vous inquiétez pas pour l'épreuve orale de français.",
-        "phonetic": "",
+        "phonetic": "Ne vus inkiétez pas pur l'épreve orale de français.",
         "translationId": "Janganlah Anda khawatir menghadapi ujian lisan bahasa Prancis."
       },
       {
         "id": "fr-gram-20-ex-3",
         "native": "Préparons-nous sérieusement pour la rentrée académique.",
-        "phonetic": "",
+        "phonetic": "Préparons-nus sériesement pur la rentrée académike.",
         "translationId": "Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik."
       }
     ],
@@ -9028,12 +9088,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Dalam bentuk imperatif negatif, kata ganti refleksif kembali ke posisi sebelum kata kerja."
       },
       {
-        "incorrect": "dépêchez vous pas (kesalahan umum)",
-        "correct": "ne vous dépêchez pas",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Verbe-toi",
+        "correct": "Mengikuti struktur Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'L'Impératif et les Verbes Pronominaux' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"L'Impératif et les Verbes Pronominaux\" (Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-20-pg-1",
@@ -9049,7 +9109,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Bersegeralah mengirimkan berkas pendaftaran Anda!"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Dépêchez-vous d'envoyer votre dossier de candidature!\" berarti \"Bersegeralah mengirimkan berkas pendaftaran Anda!\"."
+        "explanation": "Kalimat \"Dépêchez-vous d'envoyer votre dossier de candidature!\" (dibaca: Dépêsyez-vus d'envoyer votre dossier de candidature!) berarti \"Bersegeralah mengirimkan berkas pendaftaran Anda!\". Kalimat ini menggunakan pola \"Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas\" (L'Impératif et les Verbes Pronominaux) yang berfungsi untuk memberikan instruksi, anjuran, dan nasihat kepada diri sendiri dan orang lain."
       },
       {
         "id": "q-fr-gram-20-pg-2",
@@ -9065,7 +9125,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ne vous inquiétez pas pour l'épreuve orale de français.\" berarti \"Janganlah Anda khawatir menghadapi ujian lisan bahasa Prancis.\"."
+        "explanation": "Kalimat \"Ne vous inquiétez pas pour l'épreuve orale de français.\" (dibaca: Ne vus inkiétez pas pur l'épreve orale de français.) berarti \"Janganlah Anda khawatir menghadapi ujian lisan bahasa Prancis.\". Kalimat ini menggunakan pola \"Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas\" (L'Impératif et les Verbes Pronominaux) yang berfungsi untuk memberikan instruksi, anjuran, dan nasihat kepada diri sendiri dan orang lain."
       },
       {
         "id": "q-fr-gram-20-pg-3",
@@ -9081,7 +9141,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami dahulu tinggal di dekat fakultas sains."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Préparons-nous sérieusement pour la rentrée académique.\" berarti \"Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik.\"."
+        "explanation": "Kalimat \"Préparons-nous sérieusement pour la rentrée académique.\" (dibaca: Préparons-nus sériesement pur la rentrée académike.) berarti \"Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik.\". Kalimat ini menggunakan pola \"Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas\" (L'Impératif et les Verbes Pronominaux) yang berfungsi untuk memberikan instruksi, anjuran, dan nasihat kepada diri sendiri dan orang lain."
       },
       {
         "id": "q-fr-gram-20-pg-4",
@@ -9101,7 +9161,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-20-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Impératif et les Verbes Pronominaux\"?",
         "options": [
           "Les étudiants internationaux sont arrivés à Paris hier. — Para mahasiswa internasional telah tiba di Paris kemarin.",
           "Quand j'étais étudiant en licence, j'étudiais tous les soirs. — Ketika saya masih mahasiswa sarjana, saya biasa belajar setiap malam.",
@@ -9115,7 +9175,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-20-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Impératif et les Verbes Pronominaux\"?",
         "options": [
           "Préparons-nous sérieusement pour la rentrée académique. — Mari kita mempersiapkan diri dengan sungguh-sungguh menyambut awal tahun akademik.",
           "Elle est allée à la bibliothèque universitaire ce matin. — Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini.",
@@ -9129,7 +9189,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-20-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Impératif et les Verbes Pronominaux\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -9380,7 +9440,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia (perempuan) telah pergi ke perpustakaan universitas pagi ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Dépêchez-vous d'envoyer votre dossier de candidature!\" berarti \"Bersegeralah mengirimkan berkas pendaftaran Anda!\"."
+        "explanation": "Kalimat \"Dépêchez-vous d'envoyer votre dossier de candidature!\" (dibaca: Dépêsyez-vus d'envoyer votre dossier de candidature!) berarti \"Bersegeralah mengirimkan berkas pendaftaran Anda!\". Kalimat ini menggunakan pola \"Verbe-toi / Verbe-nous / Verbe-vous & Ne te/nous/vous + Verbe + pas\" (L'Impératif et les Verbes Pronominaux) yang berfungsi untuk memberikan instruksi, anjuran, dan nasihat kepada diri sendiri dan orang lain."
       },
       {
         "id": "q-fr-gram-20-bb-2",
@@ -9455,24 +9515,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyampaikan permohonan dengan sangat sopan, harapan bersyarat, dan anjuran akademik.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Conditionnel Présent: Politesse, Souhait et Conseil' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Conditionnel Présent: Politesse, Souhait et Conseil\" (Le conditionnel présent pour exprimer la nuance et le conseil) berfungsi untuk: menyampaikan permohonan dengan sangat sopan, harapan bersyarat, dan anjuran akademik. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je voudrais m'inscrire à ce programme d'échange universitaire. — Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini."
+          "Rumus utama: Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)",
+          "Contoh 1: Je voudrais m'inscrire à ce programme d'échange universitaire. (Je vudrais m'inscrire à ce programme d'ésyange universitaire.) — Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan bentuk conditionnel présent (je voudrais) untuk mengajukan permohonan sopan kepada dosen.",
         "ruleList": [
-          "Vous devriez consulter ces ouvrages de référence en bibliothèque. — Anda sebaiknya memeriksa buku-buku referensi ini di perpustakaan."
+          "Polanya: Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)",
+          "Contoh 2: Vous devriez consulter ces ouvrages de référence en bibliothèque. (Vus devriez consulter ces uvrages de référence en bibliothèke.) — Anda sebaiknya memeriksa buku-buku referensi ini di perpustakaan."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Conditionnel Présent: Politesse, Souhait et Conseil\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nous aimerions collaborer avec votre laboratoire de recherche. — Kami sangat ingin berkolaborasi dengan laboratorium penelitian Anda."
+          "Contoh 3: Nous aimerions collaborer avec votre laboratoire de recherche. (Nus aimerions collaborer avec votre laboratware de resyersye.) — Kami sangat ingin berkolaborasi dengan laboratorium penelitian Anda.",
+          "Hindari kesalahan: \"je veux (dans une demande formelle)\" → gunakan bentuk yang benar: \"je voudrais\"."
         ]
       }
     ],
@@ -9480,19 +9543,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-21-ex-1",
         "native": "Je voudrais m'inscrire à ce programme d'échange universitaire.",
-        "phonetic": "",
+        "phonetic": "Je vudrais m'inscrire à ce programme d'ésyange universitaire.",
         "translationId": "Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini."
       },
       {
         "id": "fr-gram-21-ex-2",
         "native": "Vous devriez consulter ces ouvrages de référence en bibliothèque.",
-        "phonetic": "",
+        "phonetic": "Vus devriez consulter ces uvrages de référence en bibliothèke.",
         "translationId": "Anda sebaiknya memeriksa buku-buku referensi ini di perpustakaan."
       },
       {
         "id": "fr-gram-21-ex-3",
         "native": "Nous aimerions collaborer avec votre laboratoire de recherche.",
-        "phonetic": "",
+        "phonetic": "Nus aimerions collaborer avec votre laboratware de resyersye.",
         "translationId": "Kami sangat ingin berkolaborasi dengan laboratorium penelitian Anda."
       }
     ],
@@ -9503,12 +9566,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Gunakan bentuk conditionnel présent (je voudrais) untuk mengajukan permohonan sopan kepada dosen."
       },
       {
-        "incorrect": "je veux (dans une demande formelle) (kesalahan umum)",
-        "correct": "je voudrais",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)",
+        "correct": "Mengikuti struktur Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Conditionnel Présent: Politesse, Souhait et Conseil' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Conditionnel Présent: Politesse, Souhait et Conseil\" (Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-21-pg-1",
@@ -9524,7 +9587,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saya memiliki lebih banyak waktu, saya akan mengadakan survei lapangan yang lebih luas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Je voudrais m'inscrire à ce programme d'échange universitaire.\" berarti \"Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini.\"."
+        "explanation": "Kalimat \"Je voudrais m'inscrire à ce programme d'échange universitaire.\" (dibaca: Je vudrais m'inscrire à ce programme d'ésyange universitaire.) berarti \"Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini.\". Kalimat ini menggunakan pola \"Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)\" (Le Conditionnel Présent: Politesse, Souhait et Conseil) yang berfungsi untuk menyampaikan permohonan dengan sangat sopan, harapan bersyarat, dan anjuran akademik."
       },
       {
         "id": "q-fr-gram-21-pg-2",
@@ -9540,7 +9603,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Vous devriez consulter ces ouvrages de référence en bibliothèque.\" berarti \"Anda sebaiknya memeriksa buku-buku referensi ini di perpustakaan.\"."
+        "explanation": "Kalimat \"Vous devriez consulter ces ouvrages de référence en bibliothèque.\" (dibaca: Vus devriez consulter ces uvrages de référence en bibliothèke.) berarti \"Anda sebaiknya memeriksa buku-buku referensi ini di perpustakaan.\". Kalimat ini menggunakan pola \"Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)\" (Le Conditionnel Présent: Politesse, Souhait et Conseil) yang berfungsi untuk menyampaikan permohonan dengan sangat sopan, harapan bersyarat, dan anjuran akademik."
       },
       {
         "id": "q-fr-gram-21-pg-3",
@@ -9556,7 +9619,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Keputusan tersebut akan disahkan oleh dewan pengurus universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nous aimerions collaborer avec votre laboratoire de recherche.\" berarti \"Kami sangat ingin berkolaborasi dengan laboratorium penelitian Anda.\"."
+        "explanation": "Kalimat \"Nous aimerions collaborer avec votre laboratoire de recherche.\" (dibaca: Nus aimerions collaborer avec votre laboratware de resyersye.) berarti \"Kami sangat ingin berkolaborasi dengan laboratorium penelitian Anda.\". Kalimat ini menggunakan pola \"Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)\" (Le Conditionnel Présent: Politesse, Souhait et Conseil) yang berfungsi untuk menyampaikan permohonan dengan sangat sopan, harapan bersyarat, dan anjuran akademik."
       },
       {
         "id": "q-fr-gram-21-pg-4",
@@ -9576,7 +9639,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-21-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Conditionnel Présent: Politesse, Souhait et Conseil\"?",
         "options": [
           "Vous devriez consulter ces ouvrages de référence en bibliothèque. — Anda sebaiknya memeriksa buku-buku referensi ini di perpustakaan.",
           "Si j'avais plus de temps, je mènerais une enquête de terrain plus vaste. — Seandainya saya memiliki lebih banyak waktu, saya akan mengadakan survei lapangan yang lebih luas.",
@@ -9590,7 +9653,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-21-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Conditionnel Présent: Politesse, Souhait et Conseil\"?",
         "options": [
           "Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats. — Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan.",
           "Nous aimerions collaborer avec votre laboratoire de recherche. — Kami sangat ingin berkolaborasi dengan laboratorium penelitian Anda.",
@@ -9604,7 +9667,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-21-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Conditionnel Présent: Politesse, Souhait et Conseil\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -9853,7 +9916,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Je voudrais m'inscrire à ce programme d'échange universitaire.\" berarti \"Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini.\"."
+        "explanation": "Kalimat \"Je voudrais m'inscrire à ce programme d'échange universitaire.\" (dibaca: Je vudrais m'inscrire à ce programme d'ésyange universitaire.) berarti \"Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini.\". Kalimat ini menggunakan pola \"Radical du Futur + Terminaisons de l'Imparfait (-ais, -ais, -ait...)\" (Le Conditionnel Présent: Politesse, Souhait et Conseil) yang berfungsi untuk menyampaikan permohonan dengan sangat sopan, harapan bersyarat, dan anjuran akademik."
       },
       {
         "id": "q-fr-gram-21-bb-2",
@@ -9928,24 +9991,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Modus subjungtif untuk mengekspresikan keharusan, kehendak, dan keinginan yang belum pasti.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Subjonctif Présent: Formation et Obligation/Volonté' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Subjonctif Présent: Formation et Obligation/Volonté\" (La formation du subjonctif présent et les déclencheurs de volonté) berfungsi untuk: modus subjungtif untuk mengekspresikan keharusan, kehendak, dan keinginan yang belum pasti. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Il faut que les étudiants rendent leur travail de recherche à temps. — Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu."
+          "Rumus utama: Il faut que / Vouloir que + Sujet + Verbe au Subjonctif",
+          "Contoh 1: Il faut que les étudiants rendent leur travail de recherche à temps. (Il fot ke les étudiants rendent ler travail de resyersye à temps.) — Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Il faut que / Vouloir que + Sujet + Verbe au Subjonctif memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Il faut que / Vouloir que + Sujet + Verbe au Subjonctif\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah ungkapan keharusan il faut que, kata kerja wajib menggunakan modus subjonctif (tu fasses).",
         "ruleList": [
-          "Le jury exige que la thèse soit rédigée avec rigueur. — Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi."
+          "Polanya: Il faut que / Vouloir que + Sujet + Verbe au Subjonctif",
+          "Contoh 2: Le jury exige que la thèse soit rédigée avec rigueur. (Le jury exige ke la thèse swat rédigée avec riguer.) — Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Subjonctif Présent: Formation et Obligation/Volonté\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Je souhaite que vous réussissiez brillamment vos examens. — Saya berharap agar Anda berhasil lulus ujian dengan gemilang."
+          "Contoh 3: Je souhaite que vous réussissiez brillamment vos examens. (Je suhaite ke vus réussissiez brillamment vos examens.) — Saya berharap agar Anda berhasil lulus ujian dengan gemilang.",
+          "Hindari kesalahan: \"il faut que tu fais\" → gunakan bentuk yang benar: \"il faut que tu fasses\"."
         ]
       }
     ],
@@ -9953,19 +10019,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-22-ex-1",
         "native": "Il faut que les étudiants rendent leur travail de recherche à temps.",
-        "phonetic": "",
+        "phonetic": "Il fot ke les étudiants rendent ler travail de resyersye à temps.",
         "translationId": "Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu."
       },
       {
         "id": "fr-gram-22-ex-2",
         "native": "Le jury exige que la thèse soit rédigée avec rigueur.",
-        "phonetic": "",
+        "phonetic": "Le jury exige ke la thèse swat rédigée avec riguer.",
         "translationId": "Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi."
       },
       {
         "id": "fr-gram-22-ex-3",
         "native": "Je souhaite que vous réussissiez brillamment vos examens.",
-        "phonetic": "",
+        "phonetic": "Je suhaite ke vus réussissiez brillamment vos examens.",
         "translationId": "Saya berharap agar Anda berhasil lulus ujian dengan gemilang."
       }
     ],
@@ -9976,12 +10042,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Setelah ungkapan keharusan il faut que, kata kerja wajib menggunakan modus subjonctif (tu fasses)."
       },
       {
-        "incorrect": "il faut que tu fais (kesalahan umum)",
-        "correct": "il faut que tu fasses",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Il faut que",
+        "correct": "Mengikuti struktur Il faut que / Vouloir que + Sujet + Verbe au Subjonctif",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Il faut que / Vouloir que + Sujet + Verbe au Subjonctif\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Subjonctif Présent: Formation et Obligation/Volonté' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Subjonctif Présent: Formation et Obligation/Volonté\" (Il faut que / Vouloir que + Sujet + Verbe au Subjonctif) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-22-pg-1",
@@ -9997,7 +10063,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sampel-sampel tersebut dianalisis setiap hari di laboratorium."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Il faut que les étudiants rendent leur travail de recherche à temps.\" berarti \"Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu.\"."
+        "explanation": "Kalimat \"Il faut que les étudiants rendent leur travail de recherche à temps.\" (dibaca: Il fot ke les étudiants rendent ler travail de resyersye à temps.) berarti \"Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu.\". Kalimat ini menggunakan pola \"Il faut que / Vouloir que + Sujet + Verbe au Subjonctif\" (Le Subjonctif Présent: Formation et Obligation/Volonté) yang berfungsi untuk modus subjungtif untuk mengekspresikan keharusan, kehendak, dan keinginan yang belum pasti."
       },
       {
         "id": "q-fr-gram-22-pg-2",
@@ -10013,7 +10079,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Le jury exige que la thèse soit rédigée avec rigueur.\" berarti \"Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi.\"."
+        "explanation": "Kalimat \"Le jury exige que la thèse soit rédigée avec rigueur.\" (dibaca: Le jury exige ke la thèse swat rédigée avec riguer.) berarti \"Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi.\". Kalimat ini menggunakan pola \"Il faut que / Vouloir que + Sujet + Verbe au Subjonctif\" (Le Subjonctif Présent: Formation et Obligation/Volonté) yang berfungsi untuk modus subjungtif untuk mengekspresikan keharusan, kehendak, dan keinginan yang belum pasti."
       },
       {
         "id": "q-fr-gram-22-pg-3",
@@ -10029,7 +10095,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap agar Anda berhasil lulus ujian dengan gemilang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Je souhaite que vous réussissiez brillamment vos examens.\" berarti \"Saya berharap agar Anda berhasil lulus ujian dengan gemilang.\"."
+        "explanation": "Kalimat \"Je souhaite que vous réussissiez brillamment vos examens.\" (dibaca: Je suhaite ke vus réussissiez brillamment vos examens.) berarti \"Saya berharap agar Anda berhasil lulus ujian dengan gemilang.\". Kalimat ini menggunakan pola \"Il faut que / Vouloir que + Sujet + Verbe au Subjonctif\" (Le Subjonctif Présent: Formation et Obligation/Volonté) yang berfungsi untuk modus subjungtif untuk mengekspresikan keharusan, kehendak, dan keinginan yang belum pasti."
       },
       {
         "id": "q-fr-gram-22-pg-4",
@@ -10049,7 +10115,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-22-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Présent: Formation et Obligation/Volonté\"?",
         "options": [
           "Les échantillons sont analysés quotidiennement en laboratoire. — Sampel-sampel tersebut dianalisis setiap hari di laboratorium.",
           "Le jury exige que la thèse soit rédigée avec rigueur. — Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi.",
@@ -10063,7 +10129,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-22-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Présent: Formation et Obligation/Volonté\"?",
         "options": [
           "Cette théorie scientifique a été développée par un éminent linguiste. — Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka.",
           "La décision sera validée par le conseil d'administration. — Keputusan tersebut akan disahkan oleh dewan pengurus universitas.",
@@ -10077,7 +10143,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-22-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Présent: Formation et Obligation/Volonté\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -10326,7 +10392,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Il faut que les étudiants rendent leur travail de recherche à temps.\" berarti \"Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu.\"."
+        "explanation": "Kalimat \"Il faut que les étudiants rendent leur travail de recherche à temps.\" (dibaca: Il fot ke les étudiants rendent ler travail de resyersye à temps.) berarti \"Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu.\". Kalimat ini menggunakan pola \"Il faut que / Vouloir que + Sujet + Verbe au Subjonctif\" (Le Subjonctif Présent: Formation et Obligation/Volonté) yang berfungsi untuk modus subjungtif untuk mengekspresikan keharusan, kehendak, dan keinginan yang belum pasti."
       },
       {
         "id": "q-fr-gram-22-bb-2",
@@ -10401,24 +10467,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengekspresikan keraguan, evaluasi subjektif, dan kecemasan dalam wacana intelektual.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Subjonctif après les Sentiments et le Doute' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Subjonctif après les Sentiments et le Doute\" (L'emploi du subjonctif avec les émotions, le doute et le jugement) berfungsi untuk: mengekspresikan keraguan, evaluasi subjektif, dan kecemasan dalam wacana intelektual. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je doute que ces données statistiques soient entièrement fiables. — Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan."
+          "Rumus utama: Avoir peur que / Douter que / Il est important que + Subjonctif",
+          "Contoh 1: Je doute que ces données statistiques soient entièrement fiables. (Je dute ke ces données statistikes swaent entièrement fiables.) — Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Avoir peur que / Douter que / Il est important que + Subjonctif memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Avoir peur que / Douter que / Il est important que + Subjonctif\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja keraguan 'douter que' mewajibkan pemakaian modus subjonctif.",
         "ruleList": [
-          "Il est essentiel que chaque chercheur respecte l'éthique scientifique. — Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan."
+          "Polanya: Avoir peur que / Douter que / Il est important que + Subjonctif",
+          "Contoh 2: Il est essentiel que chaque chercheur respecte l'éthique scientifique. (Il est essentiel ke syake syersyer respecte l'éthike scientifike.) — Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Subjonctif après les Sentiments et le Doute\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nous sommes heureux que ce projet obtienne une subvention. — Kami merasa gembira bahwa proyek ini berhasil mendapatkan hibah pendanaan."
+          "Contoh 3: Nous sommes heureux que ce projet obtienne une subvention. (Nus sommes herex ke ce projet obtienne une subvensyong.) — Kami merasa gembira bahwa proyek ini berhasil mendapatkan hibah pendanaan.",
+          "Hindari kesalahan: \"je doute qu'il est\" → gunakan bentuk yang benar: \"je doute qu'il soit\"."
         ]
       }
     ],
@@ -10426,19 +10495,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-23-ex-1",
         "native": "Je doute que ces données statistiques soient entièrement fiables.",
-        "phonetic": "",
+        "phonetic": "Je dute ke ces données statistikes swaent entièrement fiables.",
         "translationId": "Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan."
       },
       {
         "id": "fr-gram-23-ex-2",
         "native": "Il est essentiel que chaque chercheur respecte l'éthique scientifique.",
-        "phonetic": "",
+        "phonetic": "Il est essentiel ke syake syersyer respecte l'éthike scientifike.",
         "translationId": "Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan."
       },
       {
         "id": "fr-gram-23-ex-3",
         "native": "Nous sommes heureux que ce projet obtienne une subvention.",
-        "phonetic": "",
+        "phonetic": "Nus sommes herex ke ce projet obtienne une subvensyong.",
         "translationId": "Kami merasa gembira bahwa proyek ini berhasil mendapatkan hibah pendanaan."
       }
     ],
@@ -10449,12 +10518,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata kerja keraguan 'douter que' mewajibkan pemakaian modus subjonctif."
       },
       {
-        "incorrect": "je doute qu'il est (kesalahan umum)",
-        "correct": "je doute qu'il soit",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Avoir peur que",
+        "correct": "Mengikuti struktur Avoir peur que / Douter que / Il est important que + Subjonctif",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Avoir peur que / Douter que / Il est important que + Subjonctif\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Subjonctif après les Sentiments et le Doute' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Subjonctif après les Sentiments et le Doute\" (Avoir peur que / Douter que / Il est important que + Subjonctif) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-23-pg-1",
@@ -10470,7 +10539,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Je doute que ces données statistiques soient entièrement fiables.\" berarti \"Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan.\"."
+        "explanation": "Kalimat \"Je doute que ces données statistiques soient entièrement fiables.\" (dibaca: Je dute ke ces données statistikes swaent entièrement fiables.) berarti \"Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan.\". Kalimat ini menggunakan pola \"Avoir peur que / Douter que / Il est important que + Subjonctif\" (Le Subjonctif après les Sentiments et le Doute) yang berfungsi untuk mengekspresikan keraguan, evaluasi subjektif, dan kecemasan dalam wacana intelektual."
       },
       {
         "id": "q-fr-gram-23-pg-2",
@@ -10486,7 +10555,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Il est essentiel que chaque chercheur respecte l'éthique scientifique.\" berarti \"Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan.\"."
+        "explanation": "Kalimat \"Il est essentiel que chaque chercheur respecte l'éthique scientifique.\" (dibaca: Il est essentiel ke syake syersyer respecte l'éthike scientifike.) berarti \"Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan.\". Kalimat ini menggunakan pola \"Avoir peur que / Douter que / Il est important que + Subjonctif\" (Le Subjonctif après les Sentiments et le Doute) yang berfungsi untuk mengekspresikan keraguan, evaluasi subjektif, dan kecemasan dalam wacana intelektual."
       },
       {
         "id": "q-fr-gram-23-pg-3",
@@ -10502,7 +10571,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Penulis yang menerbitkan monograf ini diakui secara internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nous sommes heureux que ce projet obtienne une subvention.\" berarti \"Kami merasa gembira bahwa proyek ini berhasil mendapatkan hibah pendanaan.\"."
+        "explanation": "Kalimat \"Nous sommes heureux que ce projet obtienne une subvention.\" (dibaca: Nus sommes herex ke ce projet obtienne une subvensyong.) berarti \"Kami merasa gembira bahwa proyek ini berhasil mendapatkan hibah pendanaan.\". Kalimat ini menggunakan pola \"Avoir peur que / Douter que / Il est important que + Subjonctif\" (Le Subjonctif après les Sentiments et le Doute) yang berfungsi untuk mengekspresikan keraguan, evaluasi subjektif, dan kecemasan dalam wacana intelektual."
       },
       {
         "id": "q-fr-gram-23-pg-4",
@@ -10522,7 +10591,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-23-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif après les Sentiments et le Doute\"?",
         "options": [
           "Nous avions vérifié les calculs avant de soumettre l'article. — Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut.",
           "C'est un sujet novateur dont nous avons discuté hier en séminaire. — Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar.",
@@ -10536,7 +10605,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-23-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif après les Sentiments et le Doute\"?",
         "options": [
           "Quand le cours a commencé, le professeur avait déjà distribué les polycopiés. — Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi.",
           "Elle était déjà partie lorsque la décision a été annoncée. — Dia sudah berangkat ketika keputusan tersebut diumumkan.",
@@ -10550,7 +10619,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-23-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif après les Sentiments et le Doute\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -10799,7 +10868,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Je doute que ces données statistiques soient entièrement fiables.\" berarti \"Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan.\"."
+        "explanation": "Kalimat \"Je doute que ces données statistiques soient entièrement fiables.\" (dibaca: Je dute ke ces données statistikes swaent entièrement fiables.) berarti \"Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan.\". Kalimat ini menggunakan pola \"Avoir peur que / Douter que / Il est important que + Subjonctif\" (Le Subjonctif après les Sentiments et le Doute) yang berfungsi untuk mengekspresikan keraguan, evaluasi subjektif, dan kecemasan dalam wacana intelektual."
       },
       {
         "id": "q-fr-gram-23-bb-2",
@@ -10874,24 +10943,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyusun kalimat pengandaian nyata dan pengandaian hipotetis potensial masa kini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'L'Hypothèse avec Si dans le Présent et l'Avenir' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"L'Hypothèse avec Si dans le Présent et l'Avenir\" (Le système hypothétique avec 'Si' (1ère et 2ème structures)) berfungsi untuk: menyusun kalimat pengandaian nyata dan pengandaian hipotetis potensial masa kini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats. — Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan."
+          "Rumus utama: Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent",
+          "Contoh 1: Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats. (Si vus étudiez régulièrement, vus obtiendrez d'excellents résultats.) — Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata hubung 'si' (jika) tidak boleh diikuti langsung oleh bentuk conditionnel.",
         "ruleList": [
-          "Si j'avais plus de temps, je mènerais une enquête de terrain plus vaste. — Seandainya saya memiliki lebih banyak waktu, saya akan mengadakan survei lapangan yang lebih luas."
+          "Polanya: Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent",
+          "Contoh 2: Si j'avais plus de temps, je mènerais une enquête de terrain plus vaste. (Si j'avais plus de temps, je mènerais une enkête de terrain plus vaste.) — Seandainya saya memiliki lebih banyak waktu, saya akan mengadakan survei lapangan yang lebih luas."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"L'Hypothèse avec Si dans le Présent et l'Avenir\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Si le budget le permettait, nous achèterions ce microscope électronique. — Seandainya anggaran memungkinkan, kami akan membeli mikroskop elektron ini."
+          "Contoh 3: Si le budget le permettait, nous achèterions ce microscope électronique. (Si le budget le permettait, nus asyèterions ce microscope électronike.) — Seandainya anggaran memungkinkan, kami akan membeli mikroskop elektron ini.",
+          "Hindari kesalahan: \"si j'aurais le temps\" → gunakan bentuk yang benar: \"si j'avais le temps\"."
         ]
       }
     ],
@@ -10899,19 +10971,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-24-ex-1",
         "native": "Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats.",
-        "phonetic": "",
+        "phonetic": "Si vus étudiez régulièrement, vus obtiendrez d'excellents résultats.",
         "translationId": "Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan."
       },
       {
         "id": "fr-gram-24-ex-2",
         "native": "Si j'avais plus de temps, je mènerais une enquête de terrain plus vaste.",
-        "phonetic": "",
+        "phonetic": "Si j'avais plus de temps, je mènerais une enkête de terrain plus vaste.",
         "translationId": "Seandainya saya memiliki lebih banyak waktu, saya akan mengadakan survei lapangan yang lebih luas."
       },
       {
         "id": "fr-gram-24-ex-3",
         "native": "Si le budget le permettait, nous achèterions ce microscope électronique.",
-        "phonetic": "",
+        "phonetic": "Si le budget le permettait, nus asyèterions ce microscope électronike.",
         "translationId": "Seandainya anggaran memungkinkan, kami akan membeli mikroskop elektron ini."
       }
     ],
@@ -10922,12 +10994,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata hubung 'si' (jika) tidak boleh diikuti langsung oleh bentuk conditionnel."
       },
       {
-        "incorrect": "si j'aurais le temps (kesalahan umum)",
-        "correct": "si j'avais le temps",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent",
+        "correct": "Mengikuti struktur Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'L'Hypothèse avec Si dans le Présent et l'Avenir' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"L'Hypothèse avec Si dans le Présent et l'Avenir\" (Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-24-pg-1",
@@ -10943,7 +11015,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats.\" berarti \"Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan.\"."
+        "explanation": "Kalimat \"Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats.\" (dibaca: Si vus étudiez régulièrement, vus obtiendrez d'excellents résultats.) berarti \"Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan.\". Kalimat ini menggunakan pola \"Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent\" (L'Hypothèse avec Si dans le Présent et l'Avenir) yang berfungsi untuk menyusun kalimat pengandaian nyata dan pengandaian hipotetis potensial masa kini."
       },
       {
         "id": "q-fr-gram-24-pg-2",
@@ -10959,7 +11031,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Si j'avais plus de temps, je mènerais une enquête de terrain plus vaste.\" berarti \"Seandainya saya memiliki lebih banyak waktu, saya akan mengadakan survei lapangan yang lebih luas.\"."
+        "explanation": "Kalimat \"Si j'avais plus de temps, je mènerais une enquête de terrain plus vaste.\" (dibaca: Si j'avais plus de temps, je mènerais une enkête de terrain plus vaste.) berarti \"Seandainya saya memiliki lebih banyak waktu, saya akan mengadakan survei lapangan yang lebih luas.\". Kalimat ini menggunakan pola \"Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent\" (L'Hypothèse avec Si dans le Présent et l'Avenir) yang berfungsi untuk menyusun kalimat pengandaian nyata dan pengandaian hipotetis potensial masa kini."
       },
       {
         "id": "q-fr-gram-24-pg-3",
@@ -10975,7 +11047,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Berhubung hujan turun, upacara dilaksanakan di dalam amfiteater."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Si le budget le permettait, nous achèterions ce microscope électronique.\" berarti \"Seandainya anggaran memungkinkan, kami akan membeli mikroskop elektron ini.\"."
+        "explanation": "Kalimat \"Si le budget le permettait, nous achèterions ce microscope électronique.\" (dibaca: Si le budget le permettait, nus asyèterions ce microscope électronike.) berarti \"Seandainya anggaran memungkinkan, kami akan membeli mikroskop elektron ini.\". Kalimat ini menggunakan pola \"Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent\" (L'Hypothèse avec Si dans le Présent et l'Avenir) yang berfungsi untuk menyusun kalimat pengandaian nyata dan pengandaian hipotetis potensial masa kini."
       },
       {
         "id": "q-fr-gram-24-pg-4",
@@ -10995,7 +11067,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-24-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Hypothèse avec Si dans le Présent et l'Avenir\"?",
         "options": [
           "L'université où j'ai fait mes études fête son tricentenaire. — Universitas tempat saya menempuh studi sedang merayakan hari jadinya yang ke-300 tahun.",
           "Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante. — Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya.",
@@ -11009,7 +11081,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-24-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Hypothèse avec Si dans le Présent et l'Avenir\"?",
         "options": [
           "Si le budget le permettait, nous achèterions ce microscope électronique. — Seandainya anggaran memungkinkan, kami akan membeli mikroskop elektron ini.",
           "C'est un sujet novateur dont nous avons discuté hier en séminaire. — Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar.",
@@ -11023,7 +11095,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-24-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Hypothèse avec Si dans le Présent et l'Avenir\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -11272,7 +11344,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats.\" berarti \"Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan.\"."
+        "explanation": "Kalimat \"Si vous étudiez régulièrement, vous obtiendrez d'excellents résultats.\" (dibaca: Si vus étudiez régulièrement, vus obtiendrez d'excellents résultats.) berarti \"Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan.\". Kalimat ini menggunakan pola \"Si + Présent -> Futur Simple & Si + Imparfait -> Conditionnel Présent\" (L'Hypothèse avec Si dans le Présent et l'Avenir) yang berfungsi untuk menyusun kalimat pengandaian nyata dan pengandaian hipotetis potensial masa kini."
       },
       {
         "id": "q-fr-gram-24-bb-2",
@@ -11347,24 +11419,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghadirkan gaya penulisan ilmiah yang objektif tanpa menonjolkan subjek persona.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'La Voix Passive dans les Écrits Académiques' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"La Voix Passive dans les Écrits Académiques\" (La voix passive : formation et contraintes d'emploi) berfungsi untuk: menghadirkan gaya penulisan ilmiah yang objektif tanpa menonjolkan subjek persona. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Cette théorie scientifique a été développée par un éminent linguiste. — Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka."
+          "Rumus utama: Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)",
+          "Contoh 1: Cette théorie scientifique a été développée par un éminent linguiste. (Cette théorie scientifike a été développée par un éminent linguiste.) — Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kalimat pasif menonjolkan objek temuan riset secara objektif.",
         "ruleList": [
-          "Les échantillons sont analysés quotidiennement en laboratoire. — Sampel-sampel tersebut dianalisis setiap hari di laboratorium."
+          "Polanya: Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)",
+          "Contoh 2: Les échantillons sont analysés quotidiennement en laboratoire. (Les ésyantillons sont analysés kotidiennement en laboratware.) — Sampel-sampel tersebut dianalisis setiap hari di laboratorium."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"La Voix Passive dans les Écrits Académiques\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "La décision sera validée par le conseil d'administration. — Keputusan tersebut akan disahkan oleh dewan pengurus universitas."
+          "Contoh 3: La décision sera validée par le conseil d'administration. (La décision sera validée par le conseil d'administrasyong.) — Keputusan tersebut akan disahkan oleh dewan pengurus universitas.",
+          "Hindari kesalahan: \"le chercheur a développé (pour insister sur la théorie)\" → gunakan bentuk yang benar: \"la théorie a été développée par le chercheur\"."
         ]
       }
     ],
@@ -11372,19 +11447,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-25-ex-1",
         "native": "Cette théorie scientifique a été développée par un éminent linguiste.",
-        "phonetic": "",
+        "phonetic": "Cette théorie scientifike a été développée par un éminent linguiste.",
         "translationId": "Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka."
       },
       {
         "id": "fr-gram-25-ex-2",
         "native": "Les échantillons sont analysés quotidiennement en laboratoire.",
-        "phonetic": "",
+        "phonetic": "Les ésyantillons sont analysés kotidiennement en laboratware.",
         "translationId": "Sampel-sampel tersebut dianalisis setiap hari di laboratorium."
       },
       {
         "id": "fr-gram-25-ex-3",
         "native": "La décision sera validée par le conseil d'administration.",
-        "phonetic": "",
+        "phonetic": "La décision sera validée par le conseil d'administrasyong.",
         "translationId": "Keputusan tersebut akan disahkan oleh dewan pengurus universitas."
       }
     ],
@@ -11395,12 +11470,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kalimat pasif menonjolkan objek temuan riset secara objektif."
       },
       {
-        "incorrect": "le chercheur a développé (pour insister sur la théorie) (kesalahan umum)",
-        "correct": "la théorie a été développée par le chercheur",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Être (Conjugué) + Participe Passé (+ par",
+        "correct": "Mengikuti struktur Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'La Voix Passive dans les Écrits Académiques' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"La Voix Passive dans les Écrits Académiques\" (Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-25-pg-1",
@@ -11416,7 +11491,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sampel tersebut terkontaminasi, oleh karena itu pengujian ditunda."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Cette théorie scientifique a été développée par un éminent linguiste.\" berarti \"Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka.\"."
+        "explanation": "Kalimat \"Cette théorie scientifique a été développée par un éminent linguiste.\" (dibaca: Cette théorie scientifike a été développée par un éminent linguiste.) berarti \"Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka.\". Kalimat ini menggunakan pola \"Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)\" (La Voix Passive dans les Écrits Académiques) yang berfungsi untuk menghadirkan gaya penulisan ilmiah yang objektif tanpa menonjolkan subjek persona."
       },
       {
         "id": "q-fr-gram-25-pg-2",
@@ -11432,7 +11507,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Les échantillons sont analysés quotidiennement en laboratoire.\" berarti \"Sampel-sampel tersebut dianalisis setiap hari di laboratorium.\"."
+        "explanation": "Kalimat \"Les échantillons sont analysés quotidiennement en laboratoire.\" (dibaca: Les ésyantillons sont analysés kotidiennement en laboratware.) berarti \"Sampel-sampel tersebut dianalisis setiap hari di laboratorium.\". Kalimat ini menggunakan pola \"Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)\" (La Voix Passive dans les Écrits Académiques) yang berfungsi untuk menghadirkan gaya penulisan ilmiah yang objektif tanpa menonjolkan subjek persona."
       },
       {
         "id": "q-fr-gram-25-pg-3",
@@ -11448,7 +11523,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La décision sera validée par le conseil d'administration.\" berarti \"Keputusan tersebut akan disahkan oleh dewan pengurus universitas.\"."
+        "explanation": "Kalimat \"La décision sera validée par le conseil d'administration.\" (dibaca: La décision sera validée par le conseil d'administrasyong.) berarti \"Keputusan tersebut akan disahkan oleh dewan pengurus universitas.\". Kalimat ini menggunakan pola \"Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)\" (La Voix Passive dans les Écrits Académiques) yang berfungsi untuk menghadirkan gaya penulisan ilmiah yang objektif tanpa menonjolkan subjek persona."
       },
       {
         "id": "q-fr-gram-25-pg-4",
@@ -11468,7 +11543,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-25-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Voix Passive dans les Écrits Académiques\"?",
         "options": [
           "Les échantillons sont analysés quotidiennement en laboratoire. — Sampel-sampel tersebut dianalisis setiap hari di laboratorium.",
           "L'échantillon était contaminé, par conséquent les tests ont été reportés. — Sampel tersebut terkontaminasi, oleh karena itu pengujian ditunda.",
@@ -11482,7 +11557,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-25-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Voix Passive dans les Écrits Académiques\"?",
         "options": [
           "Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante. — Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya.",
           "La décision sera validée par le conseil d'administration. — Keputusan tersebut akan disahkan oleh dewan pengurus universitas.",
@@ -11496,7 +11571,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-25-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Voix Passive dans les Écrits Académiques\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -11743,7 +11818,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Cette théorie scientifique a été développée par un éminent linguiste.\" berarti \"Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka.\"."
+        "explanation": "Kalimat \"Cette théorie scientifique a été développée par un éminent linguiste.\" (dibaca: Cette théorie scientifike a été développée par un éminent linguiste.) berarti \"Teori ilmiah ini telah dikembangkan oleh seorang ahli linguistik terkemuka.\". Kalimat ini menggunakan pola \"Être (Conjugué) + Participe Passé (+ par / de + Complément d'Agent)\" (La Voix Passive dans les Écrits Académiques) yang berfungsi untuk menghadirkan gaya penulisan ilmiah yang objektif tanpa menonjolkan subjek persona."
       },
       {
         "id": "q-fr-gram-25-bb-2",
@@ -11818,24 +11893,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan peristiwa lampau yang telah selesai terjadi sebelum peristiwa lampau lainnya bermula.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Plus-que-Parfait: Antériorité dans le Passé' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Plus-que-Parfait: Antériorité dans le Passé\" (L'expression de l'antériorité temporelle dans le passé) berfungsi untuk: menyatakan peristiwa lampau yang telah selesai terjadi sebelum peristiwa lampau lainnya bermula. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Quand le cours a commencé, le professeur avait déjà distribué les polycopiés. — Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi."
+          "Rumus utama: Avoir / Être à l'Imparfait + Participe Passé",
+          "Contoh 1: Quand le cours a commencé, le professeur avait déjà distribué les polycopiés. (Kand le curs a commencé, le professer avait déjà distribué les polycopiés.) — Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Avoir / Être à l'Imparfait + Participe Passé memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Avoir / Être à l'Imparfait + Participe Passé\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan plus-que-parfait untuk menandai peristiwa yang lebih dulu selesai dibanding kejadian lampau lainnya.",
         "ruleList": [
-          "Nous avions vérifié les calculs avant de soumettre l'article. — Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut."
+          "Polanya: Avoir / Être à l'Imparfait + Participe Passé",
+          "Contoh 2: Nous avions vérifié les calculs avant de soumettre l'article. (Nus avions vérifié les calculs avant de sumettre l'article.) — Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Plus-que-Parfait: Antériorité dans le Passé\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Elle était déjà partie lorsque la décision a été annoncée. — Dia sudah berangkat ketika keputusan tersebut diumumkan."
+          "Contoh 3: Elle était déjà partie lorsque la décision a été annoncée. (Elle était déjà partie lorske la décision a été annoncée.) — Dia sudah berangkat ketika keputusan tersebut diumumkan.",
+          "Hindari kesalahan: \"j'ai déjà lu avant qu'il est arrivé\" → gunakan bentuk yang benar: \"j'avais déjà lu avant qu'il ne soit arrivé\"."
         ]
       }
     ],
@@ -11843,19 +11921,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-26-ex-1",
         "native": "Quand le cours a commencé, le professeur avait déjà distribué les polycopiés.",
-        "phonetic": "",
+        "phonetic": "Kand le curs a commencé, le professer avait déjà distribué les polycopiés.",
         "translationId": "Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi."
       },
       {
         "id": "fr-gram-26-ex-2",
         "native": "Nous avions vérifié les calculs avant de soumettre l'article.",
-        "phonetic": "",
+        "phonetic": "Nus avions vérifié les calculs avant de sumettre l'article.",
         "translationId": "Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut."
       },
       {
         "id": "fr-gram-26-ex-3",
         "native": "Elle était déjà partie lorsque la décision a été annoncée.",
-        "phonetic": "",
+        "phonetic": "Elle était déjà partie lorske la décision a été annoncée.",
         "translationId": "Dia sudah berangkat ketika keputusan tersebut diumumkan."
       }
     ],
@@ -11866,12 +11944,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Gunakan plus-que-parfait untuk menandai peristiwa yang lebih dulu selesai dibanding kejadian lampau lainnya."
       },
       {
-        "incorrect": "j'ai déjà lu avant qu'il est arrivé (kesalahan umum)",
-        "correct": "j'avais déjà lu avant qu'il ne soit arrivé",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Avoir",
+        "correct": "Mengikuti struktur Avoir / Être à l'Imparfait + Participe Passé",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Avoir / Être à l'Imparfait + Participe Passé\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Plus-que-Parfait: Antériorité dans le Passé' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Plus-que-Parfait: Antériorité dans le Passé\" (Avoir / Être à l'Imparfait + Participe Passé) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-26-pg-1",
@@ -11887,7 +11965,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Quand le cours a commencé, le professeur avait déjà distribué les polycopiés.\" berarti \"Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi.\"."
+        "explanation": "Kalimat \"Quand le cours a commencé, le professeur avait déjà distribué les polycopiés.\" (dibaca: Kand le curs a commencé, le professer avait déjà distribué les polycopiés.) berarti \"Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi.\". Kalimat ini menggunakan pola \"Avoir / Être à l'Imparfait + Participe Passé\" (Le Plus-que-Parfait: Antériorité dans le Passé) yang berfungsi untuk menyatakan peristiwa lampau yang telah selesai terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-fr-gram-26-pg-2",
@@ -11903,7 +11981,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Nous avions vérifié les calculs avant de soumettre l'article.\" berarti \"Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut.\"."
+        "explanation": "Kalimat \"Nous avions vérifié les calculs avant de soumettre l'article.\" (dibaca: Nus avions vérifié les calculs avant de sumettre l'article.) berarti \"Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut.\". Kalimat ini menggunakan pola \"Avoir / Être à l'Imparfait + Participe Passé\" (Le Plus-que-Parfait: Antériorité dans le Passé) yang berfungsi untuk menyatakan peristiwa lampau yang telah selesai terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-fr-gram-26-pg-3",
@@ -11919,7 +11997,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia sudah berangkat ketika keputusan tersebut diumumkan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Elle était déjà partie lorsque la décision a été annoncée.\" berarti \"Dia sudah berangkat ketika keputusan tersebut diumumkan.\"."
+        "explanation": "Kalimat \"Elle était déjà partie lorsque la décision a été annoncée.\" (dibaca: Elle était déjà partie lorske la décision a été annoncée.) berarti \"Dia sudah berangkat ketika keputusan tersebut diumumkan.\". Kalimat ini menggunakan pola \"Avoir / Être à l'Imparfait + Participe Passé\" (Le Plus-que-Parfait: Antériorité dans le Passé) yang berfungsi untuk menyatakan peristiwa lampau yang telah selesai terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-fr-gram-26-pg-4",
@@ -11939,7 +12017,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-26-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Plus-que-Parfait: Antériorité dans le Passé\"?",
         "options": [
           "Nous avons révisé le protocole afin d'éviter toute erreur expérimentale. — Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental.",
           "Nous avions vérifié les calculs avant de soumettre l'article. — Kami telah memeriksa ulang perhitungan sebelum mengirimkan artikel tersebut.",
@@ -11953,7 +12031,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-26-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Plus-que-Parfait: Antériorité dans le Passé\"?",
         "options": [
           "Bien que cette méthode soit complexe, elle donne des mesures très précises. — Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi.",
           "Le tuteur explique la démarche pour que tous comprennent les enjeux. — Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya.",
@@ -11967,7 +12045,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-26-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Plus-que-Parfait: Antériorité dans le Passé\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -12218,7 +12296,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Quand le cours a commencé, le professeur avait déjà distribué les polycopiés.\" berarti \"Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi.\"."
+        "explanation": "Kalimat \"Quand le cours a commencé, le professeur avait déjà distribué les polycopiés.\" (dibaca: Kand le curs a commencé, le professer avait déjà distribué les polycopiés.) berarti \"Ketika perkuliahan dimulai, sang profesor sudah membagikan diktat materi.\". Kalimat ini menggunakan pola \"Avoir / Être à l'Imparfait + Participe Passé\" (Le Plus-que-Parfait: Antériorité dans le Passé) yang berfungsi untuk menyatakan peristiwa lampau yang telah selesai terjadi sebelum peristiwa lampau lainnya bermula."
       },
       {
         "id": "q-fr-gram-26-bb-2",
@@ -12293,24 +12371,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan klausa penjelas relatif secara elegan tanpa repetisi kata benda.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)\" (Les pronoms relatifs simples pour enrichir le discours) berfungsi untuk: menghubungkan klausa penjelas relatif secara elegan tanpa repetisi kata benda. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "C'est un sujet novateur dont nous avons discuté hier en séminaire. — Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar."
+          "Rumus utama: Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)",
+          "Contoh 1: C'est un sujet novateur dont nous avons discuté hier en séminaire. (C'est un sujet novater dont nus avons discuté hier en séminaire.) — Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk kata kerja yang berkonstruksi dengan preposisi 'de' (parler de), gunakan pronomina relatif 'dont'.",
         "ruleList": [
-          "L'université où j'ai fait mes études fête son tricentenaire. — Universitas tempat saya menempuh studi sedang merayakan hari jadinya yang ke-300 tahun."
+          "Polanya: Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)",
+          "Contoh 2: L'université où j'ai fait mes études fête son tricentenaire. (L'université où j'ai fait mes études fête son tricentenaire.) — Universitas tempat saya menempuh studi sedang merayakan hari jadinya yang ke-300 tahun."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "L'auteur qui a publié ce mémoire est mondialement reconnu. — Penulis yang menerbitkan monograf ini diakui secara internasional."
+          "Contoh 3: L'auteur qui a publié ce mémoire est mondialement reconnu. (L'oter ki a publié ce mémware est mondialement reconnu.) — Penulis yang menerbitkan monograf ini diakui secara internasional.",
+          "Hindari kesalahan: \"le livre que j'ai parlé\" → gunakan bentuk yang benar: \"le livre dont j'ai parlé\"."
         ]
       }
     ],
@@ -12318,19 +12399,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-27-ex-1",
         "native": "C'est un sujet novateur dont nous avons discuté hier en séminaire.",
-        "phonetic": "",
+        "phonetic": "C'est un sujet novater dont nus avons discuté hier en séminaire.",
         "translationId": "Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar."
       },
       {
         "id": "fr-gram-27-ex-2",
         "native": "L'université où j'ai fait mes études fête son tricentenaire.",
-        "phonetic": "",
+        "phonetic": "L'université où j'ai fait mes études fête son tricentenaire.",
         "translationId": "Universitas tempat saya menempuh studi sedang merayakan hari jadinya yang ke-300 tahun."
       },
       {
         "id": "fr-gram-27-ex-3",
         "native": "L'auteur qui a publié ce mémoire est mondialement reconnu.",
-        "phonetic": "",
+        "phonetic": "L'oter ki a publié ce mémware est mondialement reconnu.",
         "translationId": "Penulis yang menerbitkan monograf ini diakui secara internasional."
       }
     ],
@@ -12341,12 +12422,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Untuk kata kerja yang berkonstruksi dengan preposisi 'de' (parler de), gunakan pronomina relatif 'dont'."
       },
       {
-        "incorrect": "le livre que j'ai parlé (kesalahan umum)",
-        "correct": "le livre dont j'ai parlé",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Qui (Sujet)",
+        "correct": "Mengikuti struktur Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)\" (Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-27-pg-1",
@@ -12362,7 +12443,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"C'est un sujet novateur dont nous avons discuté hier en séminaire.\" berarti \"Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar.\"."
+        "explanation": "Kalimat \"C'est un sujet novateur dont nous avons discuté hier en séminaire.\" (dibaca: C'est un sujet novater dont nus avons discuté hier en séminaire.) berarti \"Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar.\". Kalimat ini menggunakan pola \"Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)\" (Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)) yang berfungsi untuk menghubungkan klausa penjelas relatif secara elegan tanpa repetisi kata benda."
       },
       {
         "id": "q-fr-gram-27-pg-2",
@@ -12378,7 +12459,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas tempat saya menempuh studi sedang merayakan hari jadinya yang ke-300 tahun."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"L'université où j'ai fait mes études fête son tricentenaire.\" berarti \"Universitas tempat saya menempuh studi sedang merayakan hari jadinya yang ke-300 tahun.\"."
+        "explanation": "Kalimat \"L'université où j'ai fait mes études fête son tricentenaire.\" (dibaca: L'université où j'ai fait mes études fête son tricentenaire.) berarti \"Universitas tempat saya menempuh studi sedang merayakan hari jadinya yang ke-300 tahun.\". Kalimat ini menggunakan pola \"Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)\" (Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)) yang berfungsi untuk menghubungkan klausa penjelas relatif secara elegan tanpa repetisi kata benda."
       },
       {
         "id": "q-fr-gram-27-pg-3",
@@ -12394,7 +12475,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami sangat ingin berkolaborasi dengan laboratorium penelitian Anda."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"L'auteur qui a publié ce mémoire est mondialement reconnu.\" berarti \"Penulis yang menerbitkan monograf ini diakui secara internasional.\"."
+        "explanation": "Kalimat \"L'auteur qui a publié ce mémoire est mondialement reconnu.\" (dibaca: L'oter ki a publié ce mémware est mondialement reconnu.) berarti \"Penulis yang menerbitkan monograf ini diakui secara internasional.\". Kalimat ini menggunakan pola \"Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)\" (Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)) yang berfungsi untuk menghubungkan klausa penjelas relatif secara elegan tanpa repetisi kata benda."
       },
       {
         "id": "q-fr-gram-27-pg-4",
@@ -12414,7 +12495,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-27-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)\"?",
         "options": [
           "Elle nous a expliqué qu'elle avait déjà soutenu son mémoire de master. — Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya.",
           "Je voudrais m'inscrire à ce programme d'échange universitaire. — Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini.",
@@ -12428,7 +12509,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-27-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)\"?",
         "options": [
           "Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres. — Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama.",
           "Le directeur a annoncé que la bibliothèque fermerait plus tôt ce vendredi. — Direktur mengumumkan bahwa perpustakaan akan tutup lebih awal pada hari Jumat ini.",
@@ -12442,7 +12523,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-27-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -12693,7 +12774,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"C'est un sujet novateur dont nous avons discuté hier en séminaire.\" berarti \"Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar.\"."
+        "explanation": "Kalimat \"C'est un sujet novateur dont nous avons discuté hier en séminaire.\" (dibaca: C'est un sujet novater dont nus avons discuté hier en séminaire.) berarti \"Ini adalah topik inovatif yang telah kita diskusikan kemarin di dalam seminar.\". Kalimat ini menggunakan pola \"Qui (Sujet) / Que (COD) / Où (Lieu/Temps) / Dont (Complément de De)\" (Les Pronoms Relatifs Simples (Qui, Que, Où, Dont)) yang berfungsi untuk menghubungkan klausa penjelas relatif secara elegan tanpa repetisi kata benda."
       },
       {
         "id": "q-fr-gram-27-bb-2",
@@ -12768,24 +12849,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyusun penalaran ilmiah yang logis dan persuasif dalam penulisan esai argumen.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Exprimer la Cause et la Conséquence' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Exprimer la Cause et la Conséquence\" (Les connecteurs logiques de cause et de conséquence) berfungsi untuk: menyusun penalaran ilmiah yang logis dan persuasif dalam penulisan esai argumen. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante. — Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya."
+          "Rumus utama: Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)",
+          "Contoh 1: Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante. (Puiske les résultats sont concluants, nus puvons passer à l'étape suivante.) — Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Di awal kalimat, utamakan kata penghubung 'comme' atau 'puisque' daripada 'parce que'.",
         "ruleList": [
-          "L'échantillon était contaminé, par conséquent les tests ont été reportés. — Sampel tersebut terkontaminasi, oleh karena itu pengujian ditunda."
+          "Polanya: Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)",
+          "Contoh 2: L'échantillon était contaminé, par conséquent les tests ont été reportés. (L'ésyantillon était contaminé, par consékent les tests ont été reportés.) — Sampel tersebut terkontaminasi, oleh karena itu pengujian ditunda."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Exprimer la Cause et la Conséquence\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Comme il pleuvait, la cérémonie a eu lieu en amphithéâtre. — Berhubung hujan turun, upacara dilaksanakan di dalam amfiteater."
+          "Contoh 3: Comme il pleuvait, la cérémonie a eu lieu en amphithéâtre. (Comme il plevait, la cérémonie a e lie en amphithéâtre.) — Berhubung hujan turun, upacara dilaksanakan di dalam amfiteater.",
+          "Hindari kesalahan: \"parce que (en tout début absolu de phrase)\" → gunakan bentuk yang benar: \"comme / puisque\"."
         ]
       }
     ],
@@ -12793,19 +12877,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-28-ex-1",
         "native": "Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante.",
-        "phonetic": "",
+        "phonetic": "Puiske les résultats sont concluants, nus puvons passer à l'étape suivante.",
         "translationId": "Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya."
       },
       {
         "id": "fr-gram-28-ex-2",
         "native": "L'échantillon était contaminé, par conséquent les tests ont été reportés.",
-        "phonetic": "",
+        "phonetic": "L'ésyantillon était contaminé, par consékent les tests ont été reportés.",
         "translationId": "Sampel tersebut terkontaminasi, oleh karena itu pengujian ditunda."
       },
       {
         "id": "fr-gram-28-ex-3",
         "native": "Comme il pleuvait, la cérémonie a eu lieu en amphithéâtre.",
-        "phonetic": "",
+        "phonetic": "Comme il plevait, la cérémonie a e lie en amphithéâtre.",
         "translationId": "Berhubung hujan turun, upacara dilaksanakan di dalam amfiteater."
       }
     ],
@@ -12816,12 +12900,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Di awal kalimat, utamakan kata penghubung 'comme' atau 'puisque' daripada 'parce que'."
       },
       {
-        "incorrect": "parce que (en tout début absolu de phrase) (kesalahan umum)",
-        "correct": "comme / puisque",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Parce que",
+        "correct": "Mengikuti struktur Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Exprimer la Cause et la Conséquence' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Exprimer la Cause et la Conséquence\" (Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-28-pg-1",
@@ -12837,7 +12921,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante.\" berarti \"Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya.\"."
+        "explanation": "Kalimat \"Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante.\" (dibaca: Puiske les résultats sont concluants, nus puvons passer à l'étape suivante.) berarti \"Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya.\". Kalimat ini menggunakan pola \"Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)\" (Exprimer la Cause et la Conséquence) yang berfungsi untuk menyusun penalaran ilmiah yang logis dan persuasif dalam penulisan esai argumen."
       },
       {
         "id": "q-fr-gram-28-pg-2",
@@ -12853,7 +12937,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"L'échantillon était contaminé, par conséquent les tests ont été reportés.\" berarti \"Sampel tersebut terkontaminasi, oleh karena itu pengujian ditunda.\"."
+        "explanation": "Kalimat \"L'échantillon était contaminé, par conséquent les tests ont été reportés.\" (dibaca: L'ésyantillon était contaminé, par consékent les tests ont été reportés.) berarti \"Sampel tersebut terkontaminasi, oleh karena itu pengujian ditunda.\". Kalimat ini menggunakan pola \"Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)\" (Exprimer la Cause et la Conséquence) yang berfungsi untuk menyusun penalaran ilmiah yang logis dan persuasif dalam penulisan esai argumen."
       },
       {
         "id": "q-fr-gram-28-pg-3",
@@ -12869,7 +12953,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap agar Anda berhasil lulus ujian dengan gemilang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Comme il pleuvait, la cérémonie a eu lieu en amphithéâtre.\" berarti \"Berhubung hujan turun, upacara dilaksanakan di dalam amfiteater.\"."
+        "explanation": "Kalimat \"Comme il pleuvait, la cérémonie a eu lieu en amphithéâtre.\" (dibaca: Comme il plevait, la cérémonie a e lie en amphithéâtre.) berarti \"Berhubung hujan turun, upacara dilaksanakan di dalam amfiteater.\". Kalimat ini menggunakan pola \"Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)\" (Exprimer la Cause et la Conséquence) yang berfungsi untuk menyusun penalaran ilmiah yang logis dan persuasif dalam penulisan esai argumen."
       },
       {
         "id": "q-fr-gram-28-pg-4",
@@ -12889,7 +12973,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-28-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Exprimer la Cause et la Conséquence\"?",
         "options": [
           "Vous devriez consulter ces ouvrages de référence en bibliothèque. — Anda sebaiknya memeriksa buku-buku referensi ini di perpustakaan.",
           "Il faut que les étudiants rendent leur travail de recherche à temps. — Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu.",
@@ -12903,7 +12987,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-28-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Exprimer la Cause et la Conséquence\"?",
         "options": [
           "Comme il pleuvait, la cérémonie a eu lieu en amphithéâtre. — Berhubung hujan turun, upacara dilaksanakan di dalam amfiteater.",
           "Je voudrais m'inscrire à ce programme d'échange universitaire. — Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini.",
@@ -12917,7 +13001,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-28-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Exprimer la Cause et la Conséquence\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -13164,7 +13248,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin mendaftarkan diri pada program pertukaran mahasiswa ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante.\" berarti \"Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya.\"."
+        "explanation": "Kalimat \"Puisque les résultats sont concluants, nous pouvons passer à l'étape suivante.\" (dibaca: Puiske les résultats sont concluants, nus puvons passer à l'étape suivante.) berarti \"Karena hasil pengujiannya meyakinkan, kita dapat beralih ke tahapan berikutnya.\". Kalimat ini menggunakan pola \"Parce que / Puisque / Comme (Cause) & Donc / Par conséquent (Conséquence)\" (Exprimer la Cause et la Conséquence) yang berfungsi untuk menyusun penalaran ilmiah yang logis dan persuasif dalam penulisan esai argumen."
       },
       {
         "id": "q-fr-gram-28-bb-2",
@@ -13239,24 +13323,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan tujuan penelitian dan konsesi pertentangan dialektis dalam artikel ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Exprimer le But et l'Opposition' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Exprimer le But et l'Opposition\" (L'expression du but (afin de / pour que) et de l'opposition (bien que / mais)) berfungsi untuk: menyatakan tujuan penelitian dan konsesi pertentangan dialektis dalam artikel ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Bien que cette méthode soit complexe, elle donne des mesures très précises. — Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi."
+          "Rumus utama: Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif",
+          "Contoh 1: Bien que cette méthode soit complexe, elle donne des mesures très précises. (Bien ke cette méthode swat complexe, elle donne des mesures très précises.) — Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Konjungsi konsesif 'bien que' (meskipun) wajib diikuti oleh modus subjonctif.",
         "ruleList": [
-          "Nous avons révisé le protocole afin d'éviter toute erreur expérimentale. — Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental."
+          "Polanya: Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif",
+          "Contoh 2: Nous avons révisé le protocole afin d'éviter toute erreur expérimentale. (Nus avons révisé le protocole afin d'éviter tute errer expérimentale.) — Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Exprimer le But et l'Opposition\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Le tuteur explique la démarche pour que tous comprennent les enjeux. — Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya."
+          "Contoh 3: Le tuteur explique la démarche pour que tous comprennent les enjeux. (Le tuter explike la démarsye pur ke tus comprennent les enjex.) — Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya.",
+          "Hindari kesalahan: \"bien que c'est difficile\" → gunakan bentuk yang benar: \"bien que ce soit difficile\"."
         ]
       }
     ],
@@ -13264,19 +13351,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-29-ex-1",
         "native": "Bien que cette méthode soit complexe, elle donne des mesures très précises.",
-        "phonetic": "",
+        "phonetic": "Bien ke cette méthode swat complexe, elle donne des mesures très précises.",
         "translationId": "Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi."
       },
       {
         "id": "fr-gram-29-ex-2",
         "native": "Nous avons révisé le protocole afin d'éviter toute erreur expérimentale.",
-        "phonetic": "",
+        "phonetic": "Nus avons révisé le protocole afin d'éviter tute errer expérimentale.",
         "translationId": "Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental."
       },
       {
         "id": "fr-gram-29-ex-3",
         "native": "Le tuteur explique la démarche pour que tous comprennent les enjeux.",
-        "phonetic": "",
+        "phonetic": "Le tuter explike la démarsye pur ke tus comprennent les enjex.",
         "translationId": "Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya."
       }
     ],
@@ -13287,12 +13374,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Konjungsi konsesif 'bien que' (meskipun) wajib diikuti oleh modus subjonctif."
       },
       {
-        "incorrect": "bien que c'est difficile (kesalahan umum)",
-        "correct": "bien que ce soit difficile",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Pour que + Subjonctif",
+        "correct": "Mengikuti struktur Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Exprimer le But et l'Opposition' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Exprimer le But et l'Opposition\" (Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-29-pg-1",
@@ -13308,7 +13395,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Bien que cette méthode soit complexe, elle donne des mesures très précises.\" berarti \"Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi.\"."
+        "explanation": "Kalimat \"Bien que cette méthode soit complexe, elle donne des mesures très précises.\" (dibaca: Bien ke cette méthode swat complexe, elle donne des mesures très précises.) berarti \"Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi.\". Kalimat ini menggunakan pola \"Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif\" (Exprimer le But et l'Opposition) yang berfungsi untuk menyatakan tujuan penelitian dan konsesi pertentangan dialektis dalam artikel ilmiah."
       },
       {
         "id": "q-fr-gram-29-pg-2",
@@ -13324,7 +13411,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nous avons révisé le protocole afin d'éviter toute erreur expérimentale.\" berarti \"Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental.\"."
+        "explanation": "Kalimat \"Nous avons révisé le protocole afin d'éviter toute erreur expérimentale.\" (dibaca: Nus avons révisé le protocole afin d'éviter tute errer expérimentale.) berarti \"Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental.\". Kalimat ini menggunakan pola \"Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif\" (Exprimer le But et l'Opposition) yang berfungsi untuk menyatakan tujuan penelitian dan konsesi pertentangan dialektis dalam artikel ilmiah."
       },
       {
         "id": "q-fr-gram-29-pg-3",
@@ -13340,7 +13427,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami merasa gembira bahwa proyek ini berhasil mendapatkan hibah pendanaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Le tuteur explique la démarche pour que tous comprennent les enjeux.\" berarti \"Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya.\"."
+        "explanation": "Kalimat \"Le tuteur explique la démarche pour que tous comprennent les enjeux.\" (dibaca: Le tuter explike la démarsye pur ke tus comprennent les enjex.) berarti \"Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya.\". Kalimat ini menggunakan pola \"Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif\" (Exprimer le But et l'Opposition) yang berfungsi untuk menyatakan tujuan penelitian dan konsesi pertentangan dialektis dalam artikel ilmiah."
       },
       {
         "id": "q-fr-gram-29-pg-4",
@@ -13360,7 +13447,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-29-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Exprimer le But et l'Opposition\"?",
         "options": [
           "Nous avons révisé le protocole afin d'éviter toute erreur expérimentale. — Kami telah merevisi protokol guna menghindari segala kesalahan eksperimental.",
           "Le jury exige que la thèse soit rédigée avec rigueur. — Dewan penguji menuntut agar disertasi ditulis dengan ketelitian tinggi.",
@@ -13374,7 +13461,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-29-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Exprimer le But et l'Opposition\"?",
         "options": [
           "Il faut que les étudiants rendent leur travail de recherche à temps. — Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu.",
           "Le tuteur explique la démarche pour que tous comprennent les enjeux. — Tutor menjelaskan langkah kerja tersebut agar semua peserta memahami pokok persoalannya.",
@@ -13388,7 +13475,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-29-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Exprimer le But et l'Opposition\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -13639,7 +13726,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa harus mengumpulkan karya penelitian mereka tepat waktu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Bien que cette méthode soit complexe, elle donne des mesures très précises.\" berarti \"Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi.\"."
+        "explanation": "Kalimat \"Bien que cette méthode soit complexe, elle donne des mesures très précises.\" (dibaca: Bien ke cette méthode swat complexe, elle donne des mesures très précises.) berarti \"Meskipun metode ini rumit, metode ini menghasilkan pengukuran yang sangat presisi.\". Kalimat ini menggunakan pola \"Pour que + Subjonctif / Afin de + Infinitif & Bien que + Subjonctif\" (Exprimer le But et l'Opposition) yang berfungsi untuk menyatakan tujuan penelitian dan konsesi pertentangan dialektis dalam artikel ilmiah."
       },
       {
         "id": "q-fr-gram-29-bb-2",
@@ -13714,24 +13801,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Discours Indirect au Présent et au Passé' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Discours Indirect au Présent et au Passé\" (La concordance des temps dans le discours rapporté) berfungsi untuk: melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres. — Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama."
+          "Rumus utama: Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel",
+          "Contoh 1: Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres. (Le professer a affirmé ke l'examen porterait sur les trwas premiers syapitres.) — Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Jika kata kerja pengantar berbentuk lampau, maka futur simple berubah menjadi conditionnel présent.",
         "ruleList": [
-          "Elle nous a expliqué qu'elle avait déjà soutenu son mémoire de master. — Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya."
+          "Polanya: Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel",
+          "Contoh 2: Elle nous a expliqué qu'elle avait déjà soutenu son mémoire de master. (Elle nus a expliké k'elle avait déjà sutenu son mémware de master.) — Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Discours Indirect au Présent et au Passé\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Le directeur a annoncé que la bibliothèque fermerait plus tôt ce vendredi. — Direktur mengumumkan bahwa perpustakaan akan tutup lebih awal pada hari Jumat ini."
+          "Contoh 3: Le directeur a annoncé que la bibliothèque fermerait plus tôt ce vendredi. (Le directer a annoncé ke la bibliothèke fermerait plus tôt ce vendredi.) — Direktur mengumumkan bahwa perpustakaan akan tutup lebih awal pada hari Jumat ini.",
+          "Hindari kesalahan: \"il a dit qu'il viendra demain\" → gunakan bentuk yang benar: \"il a dit qu'il viendrait le lendemain\"."
         ]
       }
     ],
@@ -13739,19 +13829,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-30-ex-1",
         "native": "Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres.",
-        "phonetic": "",
+        "phonetic": "Le professer a affirmé ke l'examen porterait sur les trwas premiers syapitres.",
         "translationId": "Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama."
       },
       {
         "id": "fr-gram-30-ex-2",
         "native": "Elle nous a expliqué qu'elle avait déjà soutenu son mémoire de master.",
-        "phonetic": "",
+        "phonetic": "Elle nus a expliké k'elle avait déjà sutenu son mémware de master.",
         "translationId": "Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya."
       },
       {
         "id": "fr-gram-30-ex-3",
         "native": "Le directeur a annoncé que la bibliothèque fermerait plus tôt ce vendredi.",
-        "phonetic": "",
+        "phonetic": "Le directer a annoncé ke la bibliothèke fermerait plus tôt ce vendredi.",
         "translationId": "Direktur mengumumkan bahwa perpustakaan akan tutup lebih awal pada hari Jumat ini."
       }
     ],
@@ -13762,12 +13852,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Jika kata kerja pengantar berbentuk lampau, maka futur simple berubah menjadi conditionnel présent."
       },
       {
-        "incorrect": "il a dit qu'il viendra demain (kesalahan umum)",
-        "correct": "il a dit qu'il viendrait le lendemain",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Présent -> Imparfait",
+        "correct": "Mengikuti struktur Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Discours Indirect au Présent et au Passé' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Discours Indirect au Présent et au Passé\" (Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-30-pg-1",
@@ -13783,7 +13873,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres.\" berarti \"Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama.\"."
+        "explanation": "Kalimat \"Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres.\" (dibaca: Le professer a affirmé ke l'examen porterait sur les trwas premiers syapitres.) berarti \"Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama.\". Kalimat ini menggunakan pola \"Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel\" (Le Discours Indirect au Présent et au Passé) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau."
       },
       {
         "id": "q-fr-gram-30-pg-2",
@@ -13799,7 +13889,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda belajar secara teratur, Anda akan meraih hasil yang sangat memuaskan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Elle nous a expliqué qu'elle avait déjà soutenu son mémoire de master.\" berarti \"Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya.\"."
+        "explanation": "Kalimat \"Elle nous a expliqué qu'elle avait déjà soutenu son mémoire de master.\" (dibaca: Elle nus a expliké k'elle avait déjà sutenu son mémware de master.) berarti \"Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya.\". Kalimat ini menggunakan pola \"Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel\" (Le Discours Indirect au Présent et au Passé) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau."
       },
       {
         "id": "q-fr-gram-30-pg-3",
@@ -13815,7 +13905,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Direktur mengumumkan bahwa perpustakaan akan tutup lebih awal pada hari Jumat ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le directeur a annoncé que la bibliothèque fermerait plus tôt ce vendredi.\" berarti \"Direktur mengumumkan bahwa perpustakaan akan tutup lebih awal pada hari Jumat ini.\"."
+        "explanation": "Kalimat \"Le directeur a annoncé que la bibliothèque fermerait plus tôt ce vendredi.\" (dibaca: Le directer a annoncé ke la bibliothèke fermerait plus tôt ce vendredi.) berarti \"Direktur mengumumkan bahwa perpustakaan akan tutup lebih awal pada hari Jumat ini.\". Kalimat ini menggunakan pola \"Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel\" (Le Discours Indirect au Présent et au Passé) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau."
       },
       {
         "id": "q-fr-gram-30-pg-4",
@@ -13835,7 +13925,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-30-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Discours Indirect au Présent et au Passé\"?",
         "options": [
           "Il est essentiel que chaque chercheur respecte l'éthique scientifique. — Sangatlah penting bahwa setiap peneliti menghormati etika keilmuan.",
           "Elle nous a expliqué qu'elle avait déjà soutenu son mémoire de master. — Dia menjelaskan kepada kami bahwa dia telah mempertahankan tesis magisternya.",
@@ -13849,7 +13939,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-30-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Discours Indirect au Présent et au Passé\"?",
         "options": [
           "Je doute que ces données statistiques soient entièrement fiables. — Saya meragukan bahwa data statistik ini sepenuhnya dapat diandalkan.",
           "Nous sommes heureux que ce projet obtienne une subvention. — Kami merasa gembira bahwa proyek ini berhasil mendapatkan hibah pendanaan.",
@@ -13863,7 +13953,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-30-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Discours Indirect au Présent et au Passé\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -14116,7 +14206,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres.\" berarti \"Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama.\"."
+        "explanation": "Kalimat \"Le professeur a affirmé que l'examen porterait sur les trois premiers chapitres.\" (dibaca: Le professer a affirmé ke l'examen porterait sur les trwas premiers syapitres.) berarti \"Profesor menegaskan bahwa ujian akan mencakup tiga bab pertama.\". Kalimat ini menggunakan pola \"Présent -> Imparfait / Passé Composé -> Plus-que-parfait / Futur -> Conditionnel\" (Le Discours Indirect au Présent et au Passé) yang berfungsi untuk melaporkan pernyataan pihak lain ke dalam wacana tidak langsung dengan pergeseran tenses lampau."
       },
       {
         "id": "q-fr-gram-30-bb-2",
@@ -14191,24 +14281,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Klausa relatif lanjutan setelah preposisi majemuk (grâce auquel, à propos duquel, au cours duquel).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)\" (Les pronoms relatifs complexes régis par des prépositions) berfungsi untuk: klausa relatif lanjutan setelah preposisi majemuk (grâce auquel, à propos duquel, au cours duquel). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "C'est un séminaire au cours duquel nous avons échangé de nombreuses idées. — Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan."
+          "Rumus utama: Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)",
+          "Contoh 1: C'est un séminaire au cours duquel nous avons échangé de nombreuses idées. (C'est un séminaire o curs dukel nus avons ésyangé de nombreses idées.) — Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk merujuk benda setelah preposisi, gunakan lequel/laquelle sesuai gender dan jumlah benda.",
         "ruleList": [
-          "Le cadre théorique dans lequel s'inscrit cette recherche est rigoureux. — Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh."
+          "Polanya: Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)",
+          "Contoh 2: Le cadre théorique dans lequel s'inscrit cette recherche est rigoureux. (Le cadre théorike dans lekel s'inscrit cette resyersye est rigurex.) — Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Voici les documents grâce auxquels nous avons pu prouver notre hypothèse. — Inilah dokumen-dokumen yang berkatnya kami dapat membuktikan hipotesis kami."
+          "Contoh 3: Voici les documents grâce auxquels nous avons pu prouver notre hypothèse. (Vwaci les documents grâce oxkels nus avons pu pruver notre hypothèse.) — Inilah dokumen-dokumen yang berkatnya kami dapat membuktikan hipotesis kami.",
+          "Hindari kesalahan: \"la réunion dans qui\" → gunakan bentuk yang benar: \"la réunion dans laquelle\"."
         ]
       }
     ],
@@ -14216,19 +14309,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-31-ex-1",
         "native": "C'est un séminaire au cours duquel nous avons échangé de nombreuses idées.",
-        "phonetic": "",
+        "phonetic": "C'est un séminaire o curs dukel nus avons ésyangé de nombreses idées.",
         "translationId": "Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan."
       },
       {
         "id": "fr-gram-31-ex-2",
         "native": "Le cadre théorique dans lequel s'inscrit cette recherche est rigoureux.",
-        "phonetic": "",
+        "phonetic": "Le cadre théorike dans lekel s'inscrit cette resyersye est rigurex.",
         "translationId": "Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh."
       },
       {
         "id": "fr-gram-31-ex-3",
         "native": "Voici les documents grâce auxquels nous avons pu prouver notre hypothèse.",
-        "phonetic": "",
+        "phonetic": "Vwaci les documents grâce oxkels nus avons pu pruver notre hypothèse.",
         "translationId": "Inilah dokumen-dokumen yang berkatnya kami dapat membuktikan hipotesis kami."
       }
     ],
@@ -14239,12 +14332,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Untuk merujuk benda setelah preposisi, gunakan lequel/laquelle sesuai gender dan jumlah benda."
       },
       {
-        "incorrect": "la réunion dans qui (kesalahan umum)",
-        "correct": "la réunion dans laquelle",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Préposition + Lequel",
+        "correct": "Mengikuti struktur Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)\" (Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-31-pg-1",
@@ -14260,7 +14353,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"C'est un séminaire au cours duquel nous avons échangé de nombreuses idées.\" berarti \"Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan.\"."
+        "explanation": "Kalimat \"C'est un séminaire au cours duquel nous avons échangé de nombreuses idées.\" (dibaca: C'est un séminaire o curs dukel nus avons ésyangé de nombreses idées.) berarti \"Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan.\". Kalimat ini menggunakan pola \"Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)\" (Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)) yang berfungsi untuk klausa relatif lanjutan setelah preposisi majemuk (grâce auquel, à propos duquel, au cours duquel)."
       },
       {
         "id": "q-fr-gram-31-pg-2",
@@ -14276,7 +14369,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le cadre théorique dans lequel s'inscrit cette recherche est rigoureux.\" berarti \"Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh.\"."
+        "explanation": "Kalimat \"Le cadre théorique dans lequel s'inscrit cette recherche est rigoureux.\" (dibaca: Le cadre théorike dans lekel s'inscrit cette resyersye est rigurex.) berarti \"Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh.\". Kalimat ini menggunakan pola \"Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)\" (Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)) yang berfungsi untuk klausa relatif lanjutan setelah preposisi majemuk (grâce auquel, à propos duquel, au cours duquel)."
       },
       {
         "id": "q-fr-gram-31-pg-3",
@@ -14292,7 +14385,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dengan terus menempa besi, seseorang menjadi pandai besi (keahlian lahir dari latihan)."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Voici les documents grâce auxquels nous avons pu prouver notre hypothèse.\" berarti \"Inilah dokumen-dokumen yang berkatnya kami dapat membuktikan hipotesis kami.\"."
+        "explanation": "Kalimat \"Voici les documents grâce auxquels nous avons pu prouver notre hypothèse.\" (dibaca: Vwaci les documents grâce oxkels nus avons pu pruver notre hypothèse.) berarti \"Inilah dokumen-dokumen yang berkatnya kami dapat membuktikan hipotesis kami.\". Kalimat ini menggunakan pola \"Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)\" (Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)) yang berfungsi untuk klausa relatif lanjutan setelah preposisi majemuk (grâce auquel, à propos duquel, au cours duquel)."
       },
       {
         "id": "q-fr-gram-31-pg-4",
@@ -14312,7 +14405,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-31-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)\"?",
         "options": [
           "Si vous aviez consulté votre directeur de thèse, vous n'auriez pas commis cette erreur. — Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini.",
           "En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices. — Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif.",
@@ -14326,7 +14419,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-31-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)\"?",
         "options": [
           "Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt. — Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal.",
           "Le projet aurait réussi si tous les partenaires s'étaient mobilisés. — Proyek tersebut pasti akan berhasil seandainya seluruh mitra telah bergerak bersama.",
@@ -14340,7 +14433,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-31-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -14593,7 +14686,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"C'est un séminaire au cours duquel nous avons échangé de nombreuses idées.\" berarti \"Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan.\"."
+        "explanation": "Kalimat \"C'est un séminaire au cours duquel nous avons échangé de nombreuses idées.\" (dibaca: C'est un séminaire o curs dukel nus avons ésyangé de nombreses idées.) berarti \"Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan.\". Kalimat ini menggunakan pola \"Préposition + Lequel / Laquelle / Lesquels / Lesquelles (Auquel / Duquel)\" (Les Pronoms Relatifs Composés (Lequel, Auquel, Duquel)) yang berfungsi untuk klausa relatif lanjutan setelah preposisi majemuk (grâce auquel, à propos duquel, au cours duquel)."
       },
       {
         "id": "q-fr-gram-31-bb-2",
@@ -14668,24 +14761,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menempatkan dua pronomina pelengkap secara berurutan di depan verba terkonjugasi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'La Double Pronomination et l'Ordre des Pronoms' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"La Double Pronomination et l'Ordre des Pronoms\" (L'ordre des pronoms compléments dans la phrase complexe) berfungsi untuk: menempatkan dua pronomina pelengkap secara berurutan di depan verba terkonjugasi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ce rapport de recherche? Le professeur le lui a envoyé ce matin. — Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini."
+          "Rumus utama: Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe",
+          "Contoh 1: Ce rapport de recherche? Le professeur le lui a envoyé ce matin. (Ce rapport de resyersye? le professer le lui a envoyé ce matin.) — Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata ganti objek langsung (le/la/les) mendahului kata ganti objek tak langsung orang ketiga (lui/leur).",
         "ruleList": [
-          "Nos conclusions? Nous vous les présenterons lors du prochain colloque. — Kesimpulan kami? Kami akan mempresentasikannya kepada Anda pada kolokium mendatang."
+          "Polanya: Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe",
+          "Contoh 2: Nos conclusions? Nous vous les présenterons lors du prochain colloque. (Nos conclusions? nus vus les présenterons lors du prosyain colloke.) — Kesimpulan kami? Kami akan mempresentasikannya kepada Anda pada kolokium mendatang."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"La Double Pronomination et l'Ordre des Pronoms\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Des exemplaires de ma thèse? Je vous en transmettrai avec plaisir. — Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati."
+          "Contoh 3: Des exemplaires de ma thèse? Je vous en transmettrai avec plaisir. (Des exemplaires de ma thèse? je vus en transmettrai avec plaisir.) — Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati.",
+          "Hindari kesalahan: \"je lui le donne\" → gunakan bentuk yang benar: \"je le lui donne\"."
         ]
       }
     ],
@@ -14693,19 +14789,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-32-ex-1",
         "native": "Ce rapport de recherche? Le professeur le lui a envoyé ce matin.",
-        "phonetic": "",
+        "phonetic": "Ce rapport de resyersye? le professer le lui a envoyé ce matin.",
         "translationId": "Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini."
       },
       {
         "id": "fr-gram-32-ex-2",
         "native": "Nos conclusions? Nous vous les présenterons lors du prochain colloque.",
-        "phonetic": "",
+        "phonetic": "Nos conclusions? nus vus les présenterons lors du prosyain colloke.",
         "translationId": "Kesimpulan kami? Kami akan mempresentasikannya kepada Anda pada kolokium mendatang."
       },
       {
         "id": "fr-gram-32-ex-3",
         "native": "Des exemplaires de ma thèse? Je vous en transmettrai avec plaisir.",
-        "phonetic": "",
+        "phonetic": "Des exemplaires de ma thèse? je vus en transmettrai avec plaisir.",
         "translationId": "Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati."
       }
     ],
@@ -14716,12 +14812,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kata ganti objek langsung (le/la/les) mendahului kata ganti objek tak langsung orang ketiga (lui/leur)."
       },
       {
-        "incorrect": "je lui le donne (kesalahan umum)",
-        "correct": "je le lui donne",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Sujet + (Me",
+        "correct": "Mengikuti struktur Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'La Double Pronomination et l'Ordre des Pronoms' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"La Double Pronomination et l'Ordre des Pronoms\" (Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-32-pg-1",
@@ -14737,7 +14833,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ce rapport de recherche? Le professeur le lui a envoyé ce matin.\" berarti \"Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini.\"."
+        "explanation": "Kalimat \"Ce rapport de recherche? Le professeur le lui a envoyé ce matin.\" (dibaca: Ce rapport de resyersye? le professer le lui a envoyé ce matin.) berarti \"Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini.\". Kalimat ini menggunakan pola \"Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe\" (La Double Pronomination et l'Ordre des Pronoms) yang berfungsi untuk menempatkan dua pronomina pelengkap secara berurutan di depan verba terkonjugasi."
       },
       {
         "id": "q-fr-gram-32-pg-2",
@@ -14753,7 +14849,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nos conclusions? Nous vous les présenterons lors du prochain colloque.\" berarti \"Kesimpulan kami? Kami akan mempresentasikannya kepada Anda pada kolokium mendatang.\"."
+        "explanation": "Kalimat \"Nos conclusions? Nous vous les présenterons lors du prochain colloque.\" (dibaca: Nos conclusions? nus vus les présenterons lors du prosyain colloke.) berarti \"Kesimpulan kami? Kami akan mempresentasikannya kepada Anda pada kolokium mendatang.\". Kalimat ini menggunakan pola \"Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe\" (La Double Pronomination et l'Ordre des Pronoms) yang berfungsi untuk menempatkan dua pronomina pelengkap secara berurutan di depan verba terkonjugasi."
       },
       {
         "id": "q-fr-gram-32-pg-3",
@@ -14769,7 +14865,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Walaupun pendekatan tersebut inovatif, hal itu memunculkan pertanyaan-pertanyaan etis yang beralasan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Des exemplaires de ma thèse? Je vous en transmettrai avec plaisir.\" berarti \"Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati.\"."
+        "explanation": "Kalimat \"Des exemplaires de ma thèse? Je vous en transmettrai avec plaisir.\" (dibaca: Des exemplaires de ma thèse? je vus en transmettrai avec plaisir.) berarti \"Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati.\". Kalimat ini menggunakan pola \"Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe\" (La Double Pronomination et l'Ordre des Pronoms) yang berfungsi untuk menempatkan dua pronomina pelengkap secara berurutan di depan verba terkonjugasi."
       },
       {
         "id": "q-fr-gram-32-pg-4",
@@ -14789,7 +14885,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-32-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Double Pronomination et l'Ordre des Pronoms\"?",
         "options": [
           "Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé. — Para mahasiswa yang mengikuti kurikulum ini mendapatkan bimbingan tutorial personal.",
           "Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés. — Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya.",
@@ -14803,7 +14899,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-32-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Double Pronomination et l'Ordre des Pronoms\"?",
         "options": [
           "Des exemplaires de ma thèse? Je vous en transmettrai avec plaisir. — Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati.",
           "En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices. — Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif.",
@@ -14817,7 +14913,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-32-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"La Double Pronomination et l'Ordre des Pronoms\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -15066,7 +15162,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ce rapport de recherche? Le professeur le lui a envoyé ce matin.\" berarti \"Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini.\"."
+        "explanation": "Kalimat \"Ce rapport de recherche? Le professeur le lui a envoyé ce matin.\" (dibaca: Ce rapport de resyersye? le professer le lui a envoyé ce matin.) berarti \"Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini.\". Kalimat ini menggunakan pola \"Sujet + (Me/Te/Se/Nous/Vous) + (Le/La/Les) + (Lui/Leur) + (Y) + (En) + Verbe\" (La Double Pronomination et l'Ordre des Pronoms) yang berfungsi untuk menempatkan dua pronomina pelengkap secara berurutan di depan verba terkonjugasi."
       },
       {
         "id": "q-fr-gram-32-bb-2",
@@ -15141,24 +15237,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengekspresikan kepuasan, penyesalan, atau evaluasi atas peristiwa masa lalu yang memerlukan subjungtif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Subjonctif Passé et ses Nuances Temporelles' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Subjonctif Passé et ses Nuances Temporelles\" (La formation et les emplois du subjonctif passé) berfungsi untuk: mengekspresikan kepuasan, penyesalan, atau evaluasi atas peristiwa masa lalu yang memerlukan subjungtif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Le jury se réjouit que vous ayez soutenu votre thèse avec succès. — Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses."
+          "Rumus utama: Avoir / Être au Subjonctif Présent + Participe Passé",
+          "Contoh 1: Le jury se réjouit que vous ayez soutenu votre thèse avec succès. (Le jury se réjuit ke vus ayez sutenu votre thèse avec succès.) — Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Avoir / Être au Subjonctif Présent + Participe Passé memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Avoir / Être au Subjonctif Présent + Participe Passé\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah ungkapan perasaan, gunakan subjonctif passé untuk menyatakan tindakan yang sudah selesai.",
         "ruleList": [
-          "Il est regrettable que les chercheurs n'aient pas obtenu le financement requis. — Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan."
+          "Polanya: Avoir / Être au Subjonctif Présent + Participe Passé",
+          "Contoh 2: Il est regrettable que les chercheurs n'aient pas obtenu le financement requis. (Il est regrettable ke les syersyers n'aient pas obtenu le financement rekis.) — Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Subjonctif Passé et ses Nuances Temporelles\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Je doute que l'étudiant soit arrivé à temps pour l'épreuve. — Saya meragukan bahwa mahasiswa tersebut telah tiba tepat waktu untuk mengikuti ujian."
+          "Contoh 3: Je doute que l'étudiant soit arrivé à temps pour l'épreuve. (Je dute ke l'étudiant swat arrivé à temps pur l'épreve.) — Saya meragukan bahwa mahasiswa tersebut telah tiba tepat waktu untuk mengikuti ujian.",
+          "Hindari kesalahan: \"je suis content que tu as fini\" → gunakan bentuk yang benar: \"je suis content que tu aies fini\"."
         ]
       }
     ],
@@ -15166,19 +15265,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-33-ex-1",
         "native": "Le jury se réjouit que vous ayez soutenu votre thèse avec succès.",
-        "phonetic": "",
+        "phonetic": "Le jury se réjuit ke vus ayez sutenu votre thèse avec succès.",
         "translationId": "Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses."
       },
       {
         "id": "fr-gram-33-ex-2",
         "native": "Il est regrettable que les chercheurs n'aient pas obtenu le financement requis.",
-        "phonetic": "",
+        "phonetic": "Il est regrettable ke les syersyers n'aient pas obtenu le financement rekis.",
         "translationId": "Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan."
       },
       {
         "id": "fr-gram-33-ex-3",
         "native": "Je doute que l'étudiant soit arrivé à temps pour l'épreuve.",
-        "phonetic": "",
+        "phonetic": "Je dute ke l'étudiant swat arrivé à temps pur l'épreve.",
         "translationId": "Saya meragukan bahwa mahasiswa tersebut telah tiba tepat waktu untuk mengikuti ujian."
       }
     ],
@@ -15189,12 +15288,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Setelah ungkapan perasaan, gunakan subjonctif passé untuk menyatakan tindakan yang sudah selesai."
       },
       {
-        "incorrect": "je suis content que tu as fini (kesalahan umum)",
-        "correct": "je suis content que tu aies fini",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Avoir",
+        "correct": "Mengikuti struktur Avoir / Être au Subjonctif Présent + Participe Passé",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Avoir / Être au Subjonctif Présent + Participe Passé\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Subjonctif Passé et ses Nuances Temporelles' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Subjonctif Passé et ses Nuances Temporelles\" (Avoir / Être au Subjonctif Présent + Participe Passé) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-33-pg-1",
@@ -15210,7 +15309,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Studi ini hanya mencakup sampel terbatas dari populasi usia kerja."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Le jury se réjouit que vous ayez soutenu votre thèse avec succès.\" berarti \"Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses.\"."
+        "explanation": "Kalimat \"Le jury se réjouit que vous ayez soutenu votre thèse avec succès.\" (dibaca: Le jury se réjuit ke vus ayez sutenu votre thèse avec succès.) berarti \"Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses.\". Kalimat ini menggunakan pola \"Avoir / Être au Subjonctif Présent + Participe Passé\" (Le Subjonctif Passé et ses Nuances Temporelles) yang berfungsi untuk mengekspresikan kepuasan, penyesalan, atau evaluasi atas peristiwa masa lalu yang memerlukan subjungtif."
       },
       {
         "id": "q-fr-gram-33-pg-2",
@@ -15226,7 +15325,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Il est regrettable que les chercheurs n'aient pas obtenu le financement requis.\" berarti \"Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan.\"."
+        "explanation": "Kalimat \"Il est regrettable que les chercheurs n'aient pas obtenu le financement requis.\" (dibaca: Il est regrettable ke les syersyers n'aient pas obtenu le financement rekis.) berarti \"Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan.\". Kalimat ini menggunakan pola \"Avoir / Être au Subjonctif Présent + Participe Passé\" (Le Subjonctif Passé et ses Nuances Temporelles) yang berfungsi untuk mengekspresikan kepuasan, penyesalan, atau evaluasi atas peristiwa masa lalu yang memerlukan subjungtif."
       },
       {
         "id": "q-fr-gram-33-pg-3",
@@ -15242,7 +15341,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Je doute que l'étudiant soit arrivé à temps pour l'épreuve.\" berarti \"Saya meragukan bahwa mahasiswa tersebut telah tiba tepat waktu untuk mengikuti ujian.\"."
+        "explanation": "Kalimat \"Je doute que l'étudiant soit arrivé à temps pour l'épreuve.\" (dibaca: Je dute ke l'étudiant swat arrivé à temps pur l'épreve.) berarti \"Saya meragukan bahwa mahasiswa tersebut telah tiba tepat waktu untuk mengikuti ujian.\". Kalimat ini menggunakan pola \"Avoir / Être au Subjonctif Présent + Participe Passé\" (Le Subjonctif Passé et ses Nuances Temporelles) yang berfungsi untuk mengekspresikan kepuasan, penyesalan, atau evaluasi atas peristiwa masa lalu yang memerlukan subjungtif."
       },
       {
         "id": "q-fr-gram-33-pg-4",
@@ -15262,7 +15361,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-33-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Passé et ses Nuances Temporelles\"?",
         "options": [
           "Il est regrettable que les chercheurs n'aient pas obtenu le financement requis. — Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan.",
           "Cette étude ne porte que sur un échantillon restreint de la population active. — Studi ini hanya mencakup sampel terbatas dari populasi usia kerja.",
@@ -15276,7 +15375,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-33-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Passé et ses Nuances Temporelles\"?",
         "options": [
           "Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés. — Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya.",
           "Je doute que l'étudiant soit arrivé à temps pour l'épreuve. — Saya meragukan bahwa mahasiswa tersebut telah tiba tepat waktu untuk mengikuti ujian.",
@@ -15290,7 +15389,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-33-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Passé et ses Nuances Temporelles\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15543,7 +15642,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Le jury se réjouit que vous ayez soutenu votre thèse avec succès.\" berarti \"Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses.\"."
+        "explanation": "Kalimat \"Le jury se réjouit que vous ayez soutenu votre thèse avec succès.\" (dibaca: Le jury se réjuit ke vus ayez sutenu votre thèse avec succès.) berarti \"Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses.\". Kalimat ini menggunakan pola \"Avoir / Être au Subjonctif Présent + Participe Passé\" (Le Subjonctif Passé et ses Nuances Temporelles) yang berfungsi untuk mengekspresikan kepuasan, penyesalan, atau evaluasi atas peristiwa masa lalu yang memerlukan subjungtif."
       },
       {
         "id": "q-fr-gram-33-bb-2",
@@ -15618,24 +15717,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan penyesalan atas peluang yang terlewat atau spekulasi peristiwa lampau yang tidak terwujud.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Conditionnel Passé et l'Expression du Regret' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Conditionnel Passé et l'Expression du Regret\" (Le conditionnel passé : formation et valeur de regret ou reproche) berfungsi untuk: menyatakan penyesalan atas peluang yang terlewat atau spekulasi peristiwa lampau yang tidak terwujud. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Nous aurions aimé participer à ce symposium international de physique. — Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut."
+          "Rumus utama: Avoir / Être au Conditionnel Présent + Participe Passé",
+          "Contoh 1: Nous aurions aimé participer à ce symposium international de physique. (Nus orions aimé participer à ce symposium internasyongal de physike.) — Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Avoir / Être au Conditionnel Présent + Participe Passé memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Avoir / Être au Conditionnel Présent + Participe Passé\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah kata kerja aimer dalam conditionnel passé, kata kerja infinitif mengikuti secara langsung tanpa preposisi.",
         "ruleList": [
-          "Vous auriez dû vérifier vos sources bibliographiques plus méticuleusement. — Anda seharusnya memeriksa sumber-sumber daftar pustaka Anda dengan lebih cermat."
+          "Polanya: Avoir / Être au Conditionnel Présent + Participe Passé",
+          "Contoh 2: Vous auriez dû vérifier vos sources bibliographiques plus méticuleusement. (Vus oriez dû vérifier vos surces bibliographikes plus méticulesement.) — Anda seharusnya memeriksa sumber-sumber daftar pustaka Anda dengan lebih cermat."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Conditionnel Passé et l'Expression du Regret\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "L'équipe de recherche aurait découvert une molécule prometteuse (information non confirmée). — Tim peneliti dikabarkan telah menemukan molekul yang menjanjikan (informasi yang masih menunggu konfirmasi)."
+          "Contoh 3: L'équipe de recherche aurait découvert une molécule prometteuse (information non confirmée). (L'ékipe de resyersye orait décuvert une molécule promettese (informasyong non confirmée).) — Tim peneliti dikabarkan telah menemukan molekul yang menjanjikan (informasi yang masih menunggu konfirmasi).",
+          "Hindari kesalahan: \"j'aurais aimé de faire\" → gunakan bentuk yang benar: \"j'aurais aimé faire\"."
         ]
       }
     ],
@@ -15643,19 +15745,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-34-ex-1",
         "native": "Nous aurions aimé participer à ce symposium international de physique.",
-        "phonetic": "",
+        "phonetic": "Nus orions aimé participer à ce symposium internasyongal de physike.",
         "translationId": "Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut."
       },
       {
         "id": "fr-gram-34-ex-2",
         "native": "Vous auriez dû vérifier vos sources bibliographiques plus méticuleusement.",
-        "phonetic": "",
+        "phonetic": "Vus oriez dû vérifier vos surces bibliographikes plus méticulesement.",
         "translationId": "Anda seharusnya memeriksa sumber-sumber daftar pustaka Anda dengan lebih cermat."
       },
       {
         "id": "fr-gram-34-ex-3",
         "native": "L'équipe de recherche aurait découvert une molécule prometteuse (information non confirmée).",
-        "phonetic": "",
+        "phonetic": "L'ékipe de resyersye orait décuvert une molécule promettese (informasyong non confirmée).",
         "translationId": "Tim peneliti dikabarkan telah menemukan molekul yang menjanjikan (informasi yang masih menunggu konfirmasi)."
       }
     ],
@@ -15666,12 +15768,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Setelah kata kerja aimer dalam conditionnel passé, kata kerja infinitif mengikuti secara langsung tanpa preposisi."
       },
       {
-        "incorrect": "j'aurais aimé de faire (kesalahan umum)",
-        "correct": "j'aurais aimé faire",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Avoir",
+        "correct": "Mengikuti struktur Avoir / Être au Conditionnel Présent + Participe Passé",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Avoir / Être au Conditionnel Présent + Participe Passé\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Conditionnel Passé et l'Expression du Regret' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Conditionnel Passé et l'Expression du Regret\" (Avoir / Être au Conditionnel Présent + Participe Passé) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-34-pg-1",
@@ -15687,7 +15789,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nous aurions aimé participer à ce symposium international de physique.\" berarti \"Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut.\"."
+        "explanation": "Kalimat \"Nous aurions aimé participer à ce symposium international de physique.\" (dibaca: Nus orions aimé participer à ce symposium internasyongal de physike.) berarti \"Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut.\". Kalimat ini menggunakan pola \"Avoir / Être au Conditionnel Présent + Participe Passé\" (Le Conditionnel Passé et l'Expression du Regret) yang berfungsi untuk menyatakan penyesalan atas peluang yang terlewat atau spekulasi peristiwa lampau yang tidak terwujud."
       },
       {
         "id": "q-fr-gram-34-pg-2",
@@ -15703,7 +15805,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Vous auriez dû vérifier vos sources bibliographiques plus méticuleusement.\" berarti \"Anda seharusnya memeriksa sumber-sumber daftar pustaka Anda dengan lebih cermat.\"."
+        "explanation": "Kalimat \"Vous auriez dû vérifier vos sources bibliographiques plus méticuleusement.\" (dibaca: Vus oriez dû vérifier vos surces bibliographikes plus méticulesement.) berarti \"Anda seharusnya memeriksa sumber-sumber daftar pustaka Anda dengan lebih cermat.\". Kalimat ini menggunakan pola \"Avoir / Être au Conditionnel Présent + Participe Passé\" (Le Conditionnel Passé et l'Expression du Regret) yang berfungsi untuk menyatakan penyesalan atas peluang yang terlewat atau spekulasi peristiwa lampau yang tidak terwujud."
       },
       {
         "id": "q-fr-gram-34-pg-3",
@@ -15719,7 +15821,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tim peneliti dikabarkan telah menemukan molekul yang menjanjikan (informasi yang masih menunggu konfirmasi)."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"L'équipe de recherche aurait découvert une molécule prometteuse (information non confirmée).\" berarti \"Tim peneliti dikabarkan telah menemukan molekul yang menjanjikan (informasi yang masih menunggu konfirmasi).\"."
+        "explanation": "Kalimat \"L'équipe de recherche aurait découvert une molécule prometteuse (information non confirmée).\" (dibaca: L'ékipe de resyersye orait décuvert une molécule promettese (informasyong non confirmée).) berarti \"Tim peneliti dikabarkan telah menemukan molekul yang menjanjikan (informasi yang masih menunggu konfirmasi).\". Kalimat ini menggunakan pola \"Avoir / Être au Conditionnel Présent + Participe Passé\" (Le Conditionnel Passé et l'Expression du Regret) yang berfungsi untuk menyatakan penyesalan atas peluang yang terlewat atau spekulasi peristiwa lampau yang tidak terwujud."
       },
       {
         "id": "q-fr-gram-34-pg-4",
@@ -15739,7 +15841,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-34-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Conditionnel Passé et l'Expression du Regret\"?",
         "options": [
           "De surcroît, les données archéologiques récentes corroborent cette interprétation. — Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini.",
           "Vous auriez dû vérifier vos sources bibliographiques plus méticuleusement. — Anda seharusnya memeriksa sumber-sumber daftar pustaka Anda dengan lebih cermat.",
@@ -15753,7 +15855,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-34-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Conditionnel Passé et l'Expression du Regret\"?",
         "options": [
           "En premier lieu, nous analyserons les postulats théoriques de cette école de pensée. — Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini.",
           "En définitive, cette perspective ouvre un horizon épistémologique nouveau. — Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru.",
@@ -15767,7 +15869,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-34-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Conditionnel Passé et l'Expression du Regret\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -16016,7 +16118,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Nous aurions aimé participer à ce symposium international de physique.\" berarti \"Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut.\"."
+        "explanation": "Kalimat \"Nous aurions aimé participer à ce symposium international de physique.\" (dibaca: Nus orions aimé participer à ce symposium internasyongal de physike.) berarti \"Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut.\". Kalimat ini menggunakan pola \"Avoir / Être au Conditionnel Présent + Participe Passé\" (Le Conditionnel Passé et l'Expression du Regret) yang berfungsi untuk menyatakan penyesalan atas peluang yang terlewat atau spekulasi peristiwa lampau yang tidak terwujud."
       },
       {
         "id": "q-fr-gram-34-bb-2",
@@ -16091,24 +16193,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis pengandaian kontrafaktual atas peristiwa sejarah atau eksperimen yang tidak pernah terjadi di masa lalu.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)\" (L'irréel du passé dans les systèmes conditionnels complexes) berfungsi untuk: menganalisis pengandaian kontrafaktual atas peristiwa sejarah atau eksperimen yang tidak pernah terjadi di masa lalu. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt. — Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal."
+          "Rumus utama: Si + Plus-que-parfait -> Conditionnel Passé",
+          "Contoh 1: Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt. (Si le guvernement avait investi davantage, le vaccin orait été développé plus tôt.) — Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Si + Plus-que-parfait -> Conditionnel Passé memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Si + Plus-que-parfait -> Conditionnel Passé\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Rumus pengandaian masa lalu yang baku adalah Si + Plus-que-parfait (diikuti Conditionnel Passé).",
         "ruleList": [
-          "Si vous aviez consulté votre directeur de thèse, vous n'auriez pas commis cette erreur. — Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini."
+          "Polanya: Si + Plus-que-parfait -> Conditionnel Passé",
+          "Contoh 2: Si vous aviez consulté votre directeur de thèse, vous n'auriez pas commis cette erreur. (Si vus aviez consulté votre directer de thèse, vus n'oriez pas commis cette errer.) — Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Le projet aurait réussi si tous les partenaires s'étaient mobilisés. — Proyek tersebut pasti akan berhasil seandainya seluruh mitra telah bergerak bersama."
+          "Contoh 3: Le projet aurait réussi si tous les partenaires s'étaient mobilisés. (Le projet orait réussi si tus les partenaires s'étaient mobilisés.) — Proyek tersebut pasti akan berhasil seandainya seluruh mitra telah bergerak bersama.",
+          "Hindari kesalahan: \"si j'aurais su\" → gunakan bentuk yang benar: \"si j'avais su\"."
         ]
       }
     ],
@@ -16116,19 +16221,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-35-ex-1",
         "native": "Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt.",
-        "phonetic": "",
+        "phonetic": "Si le guvernement avait investi davantage, le vaccin orait été développé plus tôt.",
         "translationId": "Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal."
       },
       {
         "id": "fr-gram-35-ex-2",
         "native": "Si vous aviez consulté votre directeur de thèse, vous n'auriez pas commis cette erreur.",
-        "phonetic": "",
+        "phonetic": "Si vus aviez consulté votre directer de thèse, vus n'oriez pas commis cette errer.",
         "translationId": "Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini."
       },
       {
         "id": "fr-gram-35-ex-3",
         "native": "Le projet aurait réussi si tous les partenaires s'étaient mobilisés.",
-        "phonetic": "",
+        "phonetic": "Le projet orait réussi si tus les partenaires s'étaient mobilisés.",
         "translationId": "Proyek tersebut pasti akan berhasil seandainya seluruh mitra telah bergerak bersama."
       }
     ],
@@ -16139,12 +16244,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Rumus pengandaian masa lalu yang baku adalah Si + Plus-que-parfait (diikuti Conditionnel Passé)."
       },
       {
-        "incorrect": "si j'aurais su (kesalahan umum)",
-        "correct": "si j'avais su",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Si + Plus-que-parfait -> Conditionnel Passé",
+        "correct": "Mengikuti struktur Si + Plus-que-parfait -> Conditionnel Passé",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Si + Plus-que-parfait -> Conditionnel Passé\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)\" (Si + Plus-que-parfait -> Conditionnel Passé) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-35-pg-1",
@@ -16160,7 +16265,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt.\" berarti \"Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal.\"."
+        "explanation": "Kalimat \"Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt.\" (dibaca: Si le guvernement avait investi davantage, le vaccin orait été développé plus tôt.) berarti \"Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal.\". Kalimat ini menggunakan pola \"Si + Plus-que-parfait -> Conditionnel Passé\" (L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah atau eksperimen yang tidak pernah terjadi di masa lalu."
       },
       {
         "id": "q-fr-gram-35-pg-2",
@@ -16176,7 +16281,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Si vous aviez consulté votre directeur de thèse, vous n'auriez pas commis cette erreur.\" berarti \"Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini.\"."
+        "explanation": "Kalimat \"Si vous aviez consulté votre directeur de thèse, vous n'auriez pas commis cette erreur.\" (dibaca: Si vus aviez consulté votre directer de thèse, vus n'oriez pas commis cette errer.) berarti \"Seandainya Anda telah berkonsultasi dengan promotor disertasi Anda, Anda tidak akan melakukan kekeliruan ini.\". Kalimat ini menggunakan pola \"Si + Plus-que-parfait -> Conditionnel Passé\" (L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah atau eksperimen yang tidak pernah terjadi di masa lalu."
       },
       {
         "id": "q-fr-gram-35-pg-3",
@@ -16192,7 +16297,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Permasalahan ini memerlukan pengujian mendalam terhadap hipotesis-hipotesis awal kita."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Le projet aurait réussi si tous les partenaires s'étaient mobilisés.\" berarti \"Proyek tersebut pasti akan berhasil seandainya seluruh mitra telah bergerak bersama.\"."
+        "explanation": "Kalimat \"Le projet aurait réussi si tous les partenaires s'étaient mobilisés.\" (dibaca: Le projet orait réussi si tus les partenaires s'étaient mobilisés.) berarti \"Proyek tersebut pasti akan berhasil seandainya seluruh mitra telah bergerak bersama.\". Kalimat ini menggunakan pola \"Si + Plus-que-parfait -> Conditionnel Passé\" (L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah atau eksperimen yang tidak pernah terjadi di masa lalu."
       },
       {
         "id": "q-fr-gram-35-pg-4",
@@ -16212,7 +16317,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-35-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)\"?",
         "options": [
           "La parution de cet ouvrage a suscité un débat passionné parmi les historiens. — Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan.",
           "Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu). — Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi).",
@@ -16226,7 +16331,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-35-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)\"?",
         "options": [
           "L'optimisation des ressources permet une amélioration notable des résultats. — Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan.",
           "Le renforcement de la coopération internationale demeure une priorité stratégique. — Penguatan kerja sama internasional tetap menjadi prioritas strategis.",
@@ -16240,7 +16345,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-35-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -16493,7 +16598,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt.\" berarti \"Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal.\"."
+        "explanation": "Kalimat \"Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt.\" (dibaca: Si le guvernement avait investi davantage, le vaccin orait été développé plus tôt.) berarti \"Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal.\". Kalimat ini menggunakan pola \"Si + Plus-que-parfait -> Conditionnel Passé\" (L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait)) yang berfungsi untuk menganalisis pengandaian kontrafaktual atas peristiwa sejarah atau eksperimen yang tidak pernah terjadi di masa lalu."
       },
       {
         "id": "q-fr-gram-35-bb-2",
@@ -16568,24 +16673,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Meringkas klausa relatif penjelas dan menyatakan simultanitas tindakan serta hubungan kausalitas aksi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Participe Présent et le Gérondif (-ant / en -ant)' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Participe Présent et le Gérondif (-ant / en -ant)\" (Le participe présent épithète et le gérondif adverbial) berfungsi untuk: meringkas klausa relatif penjelas dan menyatakan simultanitas tindakan serta hubungan kausalitas aksi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices. — Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif."
+          "Rumus utama: Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)",
+          "Contoh 1: En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices. (En travaillant en interdisciplinarité, les scientifikes ont truvé des solusyongs novatrices.) — Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Subjek dari bentuk gérondif (en + -ant) wajib merujuk pada subjek yang sama dengan klausa utama.",
         "ruleList": [
-          "Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé. — Para mahasiswa yang mengikuti kurikulum ini mendapatkan bimbingan tutorial personal."
+          "Polanya: Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)",
+          "Contoh 2: Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé. (Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé.) — Para mahasiswa yang mengikuti kurikulum ini mendapatkan bimbingan tutorial personal."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Participe Présent et le Gérondif (-ant / en -ant)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "C'est en forgeant qu'on devient forgeron. — Dengan terus menempa besi, seseorang menjadi pandai besi (keahlian lahir dari latihan)."
+          "Contoh 3: C'est en forgeant qu'on devient forgeron. (C'est en forgeant k'on devient forgeron.) — Dengan terus menempa besi, seseorang menjadi pandai besi (keahlian lahir dari latihan).",
+          "Hindari kesalahan: \"en travaillant, la solution est apparue\" → gunakan bentuk yang benar: \"en travaillant, les chercheurs ont trouvé\"."
         ]
       }
     ],
@@ -16593,19 +16701,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-36-ex-1",
         "native": "En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices.",
-        "phonetic": "",
+        "phonetic": "En travaillant en interdisciplinarité, les scientifikes ont truvé des solusyongs novatrices.",
         "translationId": "Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif."
       },
       {
         "id": "fr-gram-36-ex-2",
         "native": "Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé.",
-        "phonetic": "",
+        "phonetic": "Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé.",
         "translationId": "Para mahasiswa yang mengikuti kurikulum ini mendapatkan bimbingan tutorial personal."
       },
       {
         "id": "fr-gram-36-ex-3",
         "native": "C'est en forgeant qu'on devient forgeron.",
-        "phonetic": "",
+        "phonetic": "C'est en forgeant k'on devient forgeron.",
         "translationId": "Dengan terus menempa besi, seseorang menjadi pandai besi (keahlian lahir dari latihan)."
       }
     ],
@@ -16616,12 +16724,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Subjek dari bentuk gérondif (en + -ant) wajib merujuk pada subjek yang sama dengan klausa utama."
       },
       {
-        "incorrect": "en travaillant, la solution est apparue (kesalahan umum)",
-        "correct": "en travaillant, les chercheurs ont trouvé",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Participe Présent (-ant) & Gérondif (En + -ant : Manière",
+        "correct": "Mengikuti struktur Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Participe Présent et le Gérondif (-ant / en -ant)' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Participe Présent et le Gérondif (-ant / en -ant)\" (Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-36-pg-1",
@@ -16637,7 +16745,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices.\" berarti \"Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif.\"."
+        "explanation": "Kalimat \"En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices.\" (dibaca: En travaillant en interdisciplinarité, les scientifikes ont truvé des solusyongs novatrices.) berarti \"Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif.\". Kalimat ini menggunakan pola \"Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)\" (Le Participe Présent et le Gérondif (-ant / en -ant)) yang berfungsi untuk meringkas klausa relatif penjelas dan menyatakan simultanitas tindakan serta hubungan kausalitas aksi."
       },
       {
         "id": "q-fr-gram-36-pg-2",
@@ -16653,7 +16761,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé.\" berarti \"Para mahasiswa yang mengikuti kurikulum ini mendapatkan bimbingan tutorial personal.\"."
+        "explanation": "Kalimat \"Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé.\" (dibaca: Les étudiants suivant ce cursus bénéficient d'un tutorat personnalisé.) berarti \"Para mahasiswa yang mengikuti kurikulum ini mendapatkan bimbingan tutorial personal.\". Kalimat ini menggunakan pola \"Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)\" (Le Participe Présent et le Gérondif (-ant / en -ant)) yang berfungsi untuk meringkas klausa relatif penjelas dan menyatakan simultanitas tindakan serta hubungan kausalitas aksi."
       },
       {
         "id": "q-fr-gram-36-pg-3",
@@ -16669,7 +16777,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Inilah dokumen-dokumen yang berkatnya kami dapat membuktikan hipotesis kami."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"C'est en forgeant qu'on devient forgeron.\" berarti \"Dengan terus menempa besi, seseorang menjadi pandai besi (keahlian lahir dari latihan).\"."
+        "explanation": "Kalimat \"C'est en forgeant qu'on devient forgeron.\" (dibaca: C'est en forgeant k'on devient forgeron.) berarti \"Dengan terus menempa besi, seseorang menjadi pandai besi (keahlian lahir dari latihan).\". Kalimat ini menggunakan pola \"Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)\" (Le Participe Présent et le Gérondif (-ant / en -ant)) yang berfungsi untuk meringkas klausa relatif penjelas dan menyatakan simultanitas tindakan serta hubungan kausalitas aksi."
       },
       {
         "id": "q-fr-gram-36-pg-4",
@@ -16689,7 +16797,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-36-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Participe Présent et le Gérondif (-ant / en -ant)\"?",
         "options": [
           "Les étudiants ont bien travaillé sur leur projet de groupe (courant). — Para mahasiswa telah bekerja dengan baik pada proyek kelompok mereka (ragam standar).",
           "C'est un séminaire au cours duquel nous avons échangé de nombreuses idées. — Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan.",
@@ -16703,7 +16811,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-36-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Participe Présent et le Gérondif (-ant / en -ant)\"?",
         "options": [
           "C'est en forgeant qu'on devient forgeron. — Dengan terus menempa besi, seseorang menjadi pandai besi (keahlian lahir dari latihan).",
           "Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu). — Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi).",
@@ -16717,7 +16825,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-36-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Participe Présent et le Gérondif (-ant / en -ant)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -16966,7 +17074,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices.\" berarti \"Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif.\"."
+        "explanation": "Kalimat \"En travaillant en interdisciplinarité, les scientifiques ont trouvé des solutions novatrices.\" (dibaca: En travaillant en interdisciplinarité, les scientifikes ont truvé des solusyongs novatrices.) berarti \"Dengan bekerja secara lintas disiplin ilmu, para ilmuwan menemukan solusi-solusi inovatif.\". Kalimat ini menggunakan pola \"Participe Présent (-ant) & Gérondif (En + -ant : Manière/Cause/Temps)\" (Le Participe Présent et le Gérondif (-ant / en -ant)) yang berfungsi untuk meringkas klausa relatif penjelas dan menyatakan simultanitas tindakan serta hubungan kausalitas aksi."
       },
       {
         "id": "q-fr-gram-36-bb-2",
@@ -17041,24 +17149,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mempertahankan dialektika ilmiah dengan membatasi cakupan klaim dan mengakui kendala riset secara elegan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'L'Expression de la Concession et de la Restriction' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"L'Expression de la Concession et de la Restriction\" (La concession (quoique, malgré) et la restriction (ne... que)) berfungsi untuk: mempertahankan dialektika ilmiah dengan membatasi cakupan klaim dan mengakui kendala riset secara elegan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés. — Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya."
+          "Rumus utama: Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)",
+          "Contoh 1: Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés. (Malgré les contraintes budgétaires, le laboratware a maintenu ses activités clés.) — Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam gaya akademik terpelajar, gunakan 'bien que + subjonctif' atau 'malgré + kata benda'.",
         "ruleList": [
-          "Cette étude ne porte que sur un échantillon restreint de la population active. — Studi ini hanya mencakup sampel terbatas dari populasi usia kerja."
+          "Polanya: Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)",
+          "Contoh 2: Cette étude ne porte que sur un échantillon restreint de la population active. (Cette étude ne porte ke sur un ésyantillon restreint de la populasyong active.) — Studi ini hanya mencakup sampel terbatas dari populasi usia kerja."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"L'Expression de la Concession et de la Restriction\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Quoique la démarche soit novatrice, elle soulève des questions éthiques légitimes. — Walaupun pendekatan tersebut inovatif, hal itu memunculkan pertanyaan-pertanyaan etis yang beralasan."
+          "Contoh 3: Quoique la démarche soit novatrice, elle soulève des questions éthiques légitimes. (Kwake la démarsye swat novatrice, elle sulève des kessyongs éthikes légitimes.) — Walaupun pendekatan tersebut inovatif, hal itu memunculkan pertanyaan-pertanyaan etis yang beralasan.",
+          "Hindari kesalahan: \"malgré que + indicatif (banni du style soigné)\" → gunakan bentuk yang benar: \"bien que + subjonctif / malgré + nom\"."
         ]
       }
     ],
@@ -17066,19 +17177,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-37-ex-1",
         "native": "Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés.",
-        "phonetic": "",
+        "phonetic": "Malgré les contraintes budgétaires, le laboratware a maintenu ses activités clés.",
         "translationId": "Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya."
       },
       {
         "id": "fr-gram-37-ex-2",
         "native": "Cette étude ne porte que sur un échantillon restreint de la population active.",
-        "phonetic": "",
+        "phonetic": "Cette étude ne porte ke sur un ésyantillon restreint de la populasyong active.",
         "translationId": "Studi ini hanya mencakup sampel terbatas dari populasi usia kerja."
       },
       {
         "id": "fr-gram-37-ex-3",
         "native": "Quoique la démarche soit novatrice, elle soulève des questions éthiques légitimes.",
-        "phonetic": "",
+        "phonetic": "Kwake la démarsye swat novatrice, elle sulève des kessyongs éthikes légitimes.",
         "translationId": "Walaupun pendekatan tersebut inovatif, hal itu memunculkan pertanyaan-pertanyaan etis yang beralasan."
       }
     ],
@@ -17089,12 +17200,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Dalam gaya akademik terpelajar, gunakan 'bien que + subjonctif' atau 'malgré + kata benda'."
       },
       {
-        "incorrect": "malgré que + indicatif (banni du style soigné) (kesalahan umum)",
-        "correct": "bien que + subjonctif / malgré + nom",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Bien que",
+        "correct": "Mengikuti struktur Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'L'Expression de la Concession et de la Restriction' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"L'Expression de la Concession et de la Restriction\" (Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-37-pg-1",
@@ -17110,7 +17221,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés.\" berarti \"Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya.\"."
+        "explanation": "Kalimat \"Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés.\" (dibaca: Malgré les contraintes budgétaires, le laboratware a maintenu ses activités clés.) berarti \"Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya.\". Kalimat ini menggunakan pola \"Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)\" (L'Expression de la Concession et de la Restriction) yang berfungsi untuk mempertahankan dialektika ilmiah dengan membatasi cakupan klaim dan mengakui kendala riset secara elegan."
       },
       {
         "id": "q-fr-gram-37-pg-2",
@@ -17126,7 +17237,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Cette étude ne porte que sur un échantillon restreint de la population active.\" berarti \"Studi ini hanya mencakup sampel terbatas dari populasi usia kerja.\"."
+        "explanation": "Kalimat \"Cette étude ne porte que sur un échantillon restreint de la population active.\" (dibaca: Cette étude ne porte ke sur un ésyantillon restreint de la populasyong active.) berarti \"Studi ini hanya mencakup sampel terbatas dari populasi usia kerja.\". Kalimat ini menggunakan pola \"Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)\" (L'Expression de la Concession et de la Restriction) yang berfungsi untuk mempertahankan dialektika ilmiah dengan membatasi cakupan klaim dan mengakui kendala riset secara elegan."
       },
       {
         "id": "q-fr-gram-37-pg-3",
@@ -17142,7 +17253,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Quoique la démarche soit novatrice, elle soulève des questions éthiques légitimes.\" berarti \"Walaupun pendekatan tersebut inovatif, hal itu memunculkan pertanyaan-pertanyaan etis yang beralasan.\"."
+        "explanation": "Kalimat \"Quoique la démarche soit novatrice, elle soulève des questions éthiques légitimes.\" (dibaca: Kwake la démarsye swat novatrice, elle sulève des kessyongs éthikes légitimes.) berarti \"Walaupun pendekatan tersebut inovatif, hal itu memunculkan pertanyaan-pertanyaan etis yang beralasan.\". Kalimat ini menggunakan pola \"Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)\" (L'Expression de la Concession et de la Restriction) yang berfungsi untuk mempertahankan dialektika ilmiah dengan membatasi cakupan klaim dan mengakui kendala riset secara elegan."
       },
       {
         "id": "q-fr-gram-37-pg-4",
@@ -17162,7 +17273,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-37-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Expression de la Concession et de la Restriction\"?",
         "options": [
           "Cette étude ne porte que sur un échantillon restreint de la population active. — Studi ini hanya mencakup sampel terbatas dari populasi usia kerja.",
           "Le cadre théorique dans lequel s'inscrit cette recherche est rigoureux. — Kerangka teoretis yang menjadi landasan penelitian ini sangat kokoh.",
@@ -17176,7 +17287,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-37-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Expression de la Concession et de la Restriction\"?",
         "options": [
           "C'est un séminaire au cours duquel nous avons échangé de nombreuses idées. — Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan.",
           "Quoique la démarche soit novatrice, elle soulève des questions éthiques légitimes. — Walaupun pendekatan tersebut inovatif, hal itu memunculkan pertanyaan-pertanyaan etis yang beralasan.",
@@ -17190,7 +17301,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-37-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Expression de la Concession et de la Restriction\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17441,7 +17552,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah seminar yang di dalamnya kami saling bertukar banyak gagasan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés.\" berarti \"Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya.\"."
+        "explanation": "Kalimat \"Malgré les contraintes budgétaires, le laboratoire a maintenu ses activités clés.\" (dibaca: Malgré les contraintes budgétaires, le laboratware a maintenu ses activités clés.) berarti \"Meskipun terdapat keterbatasan anggaran, laboratorium tetap mempertahankan aktivitas-aktivitas utamanya.\". Kalimat ini menggunakan pola \"Bien que / Quoique + Subjonctif & Malgré + Nom & Ne... que (Seulement)\" (L'Expression de la Concession et de la Restriction) yang berfungsi untuk mempertahankan dialektika ilmiah dengan membatasi cakupan klaim dan mengakui kendala riset secara elegan."
       },
       {
         "id": "q-fr-gram-37-bb-2",
@@ -17516,24 +17627,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Connecteurs Logiques pour l'Essai Argumentatif' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Connecteurs Logiques pour l'Essai Argumentatif\" (L'organisation rhétorique du texte argumentatif académique) berfungsi untuk: menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "En premier lieu, nous analyserons les postulats théoriques de cette école de pensée. — Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini."
+          "Rumus utama: D'une part... d'autre part / En premier lieu / De surcroît / En définitive",
+          "Contoh 1: En premier lieu, nous analyserons les postulats théoriques de cette école de pensée. (En premier lie, nus analyserons les postulats théorikes de cette école de pensée.) — Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur D'une part... d'autre part / En premier lieu / De surcroît / En définitive memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"D'une part... d'autre part / En premier lieu / De surcroît / En définitive\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Utamakan korelasi formal 'd'une part... d'autre part' dalam penulisan esai universitas.",
         "ruleList": [
-          "De surcroît, les données archéologiques récentes corroborent cette interprétation. — Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini."
+          "Polanya: D'une part... d'autre part / En premier lieu / De surcroît / En définitive",
+          "Contoh 2: De surcroît, les données archéologiques récentes corroborent cette interprétation. (De surcroît, les données arsyéologikes récentes corroborent cette interprétasyong.) — Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Connecteurs Logiques pour l'Essai Argumentatif\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "En définitive, cette perspective ouvre un horizon épistémologique nouveau. — Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru."
+          "Contoh 3: En définitive, cette perspective ouvre un horizon épistémologique nouveau. (En définitive, cette perspective uvre un horizon épistémologike nuvo.) — Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru.",
+          "Hindari kesalahan: \"d'un côté... de l'autre côté (trop familier)\" → gunakan bentuk yang benar: \"d'une part... d'autre part\"."
         ]
       }
     ],
@@ -17541,19 +17655,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-38-ex-1",
         "native": "En premier lieu, nous analyserons les postulats théoriques de cette école de pensée.",
-        "phonetic": "",
+        "phonetic": "En premier lie, nus analyserons les postulats théorikes de cette école de pensée.",
         "translationId": "Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini."
       },
       {
         "id": "fr-gram-38-ex-2",
         "native": "De surcroît, les données archéologiques récentes corroborent cette interprétation.",
-        "phonetic": "",
+        "phonetic": "De surcroît, les données arsyéologikes récentes corroborent cette interprétasyong.",
         "translationId": "Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini."
       },
       {
         "id": "fr-gram-38-ex-3",
         "native": "En définitive, cette perspective ouvre un horizon épistémologique nouveau.",
-        "phonetic": "",
+        "phonetic": "En définitive, cette perspective uvre un horizon épistémologike nuvo.",
         "translationId": "Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru."
       }
     ],
@@ -17564,12 +17678,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Utamakan korelasi formal 'd'une part... d'autre part' dalam penulisan esai universitas."
       },
       {
-        "incorrect": "d'un côté... de l'autre côté (trop familier) (kesalahan umum)",
-        "correct": "d'une part... d'autre part",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola D'une part... d'autre part",
+        "correct": "Mengikuti struktur D'une part... d'autre part / En premier lieu / De surcroît / En définitive",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"D'une part... d'autre part / En premier lieu / De surcroît / En définitive\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Connecteurs Logiques pour l'Essai Argumentatif' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Connecteurs Logiques pour l'Essai Argumentatif\" (D'une part... d'autre part / En premier lieu / De surcroît / En définitive) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-38-pg-1",
@@ -17585,7 +17699,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kesimpulan kami? Kami akan mempresentasikannya kepada Anda pada kolokium mendatang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"En premier lieu, nous analyserons les postulats théoriques de cette école de pensée.\" berarti \"Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini.\"."
+        "explanation": "Kalimat \"En premier lieu, nous analyserons les postulats théoriques de cette école de pensée.\" (dibaca: En premier lie, nus analyserons les postulats théorikes de cette école de pensée.) berarti \"Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini.\". Kalimat ini menggunakan pola \"D'une part... d'autre part / En premier lieu / De surcroît / En définitive\" (Connecteurs Logiques pour l'Essai Argumentatif) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-fr-gram-38-pg-2",
@@ -17601,7 +17715,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De surcroît, les données archéologiques récentes corroborent cette interprétation.\" berarti \"Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini.\"."
+        "explanation": "Kalimat \"De surcroît, les données archéologiques récentes corroborent cette interprétation.\" (dibaca: De surcroît, les données arsyéologikes récentes corroborent cette interprétasyong.) berarti \"Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini.\". Kalimat ini menggunakan pola \"D'une part... d'autre part / En premier lieu / De surcroît / En définitive\" (Connecteurs Logiques pour l'Essai Argumentatif) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-fr-gram-38-pg-3",
@@ -17617,7 +17731,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"En définitive, cette perspective ouvre un horizon épistémologique nouveau.\" berarti \"Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru.\"."
+        "explanation": "Kalimat \"En définitive, cette perspective ouvre un horizon épistémologique nouveau.\" (dibaca: En définitive, cette perspective uvre un horizon épistémologike nuvo.) berarti \"Pada akhirnya, perspektif ini membuka cakrawala epistemologis yang baru.\". Kalimat ini menggunakan pola \"D'une part... d'autre part / En premier lieu / De surcroît / En définitive\" (Connecteurs Logiques pour l'Essai Argumentatif) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-fr-gram-38-pg-4",
@@ -17637,7 +17751,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-38-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Connecteurs Logiques pour l'Essai Argumentatif\"?",
         "options": [
           "Nos conclusions? Nous vous les présenterons lors du prochain colloque. — Kesimpulan kami? Kami akan mempresentasikannya kepada Anda pada kolokium mendatang.",
           "De surcroît, les données archéologiques récentes corroborent cette interprétation. — Terlebih lagi, data-data arkeologis terkini menguatkan penafsiran ini.",
@@ -17651,7 +17765,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-38-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Connecteurs Logiques pour l'Essai Argumentatif\"?",
         "options": [
           "Ce rapport de recherche? Le professeur le lui a envoyé ce matin. — Laporan penelitian ini? Profesor telah mengirimkannya kepadanya pagi ini.",
           "Des exemplaires de ma thèse? Je vous en transmettrai avec plaisir. — Salinan disertasi saya? Saya akan mengirimkannya beberapa kepada Anda dengan senang hati.",
@@ -17665,7 +17779,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-38-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Connecteurs Logiques pour l'Essai Argumentatif\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17916,7 +18030,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"En premier lieu, nous analyserons les postulats théoriques de cette école de pensée.\" berarti \"Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini.\"."
+        "explanation": "Kalimat \"En premier lieu, nous analyserons les postulats théoriques de cette école de pensée.\" (dibaca: En premier lie, nus analyserons les postulats théorikes de cette école de pensée.) berarti \"Pertama-tama, kita akan menganalisis postulat-postulat teoretis dari mazhab pemikiran ini.\". Kalimat ini menggunakan pola \"D'une part... d'autre part / En premier lieu / De surcroît / En définitive\" (Connecteurs Logiques pour l'Essai Argumentatif) yang berfungsi untuk menghubungkan paragraf esai argumen disertasi dengan penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-fr-gram-38-bb-2",
@@ -17991,24 +18105,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mentransformasikan kalimat verbal menjadi frasa nominal padat untuk memenuhi kaidah estetika tulisan resmi Prancis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Nominalisation et Style Administratif Français' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nominalisation et Style Administratif Français\" (La nominalisation comme procédé de concision et d'abstraction) berfungsi untuk: mentransformasikan kalimat verbal menjadi frasa nominal padat untuk memenuhi kaidah estetika tulisan resmi Prancis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "L'optimisation des ressources permet une amélioration notable des résultats. — Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan."
+          "Rumus utama: Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)",
+          "Contoh 1: L'optimisation des ressources permet une amélioration notable des résultats. (L'optimisasyong des ressurces permet une améliorasyong notable des résultats.) — Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Verbe -> Nom Abstrait (-tion, -ment, -age, -ure) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Nominalisasi memberikan sifat ilmiah, ringkas, dan objektif pada naskah akademik.",
         "ruleList": [
-          "La parution de cet ouvrage a suscité un débat passionné parmi les historiens. — Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan."
+          "Polanya: Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)",
+          "Contoh 2: La parution de cet ouvrage a suscité un débat passionné parmi les historiens. (La parusyong de cet uvrage a suscité un débat passionné parmi les historiens.) — Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nominalisation et Style Administratif Français\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Le renforcement de la coopération internationale demeure une priorité stratégique. — Penguatan kerja sama internasional tetap menjadi prioritas strategis."
+          "Contoh 3: Le renforcement de la coopération internationale demeure une priorité stratégique. (Le renforcement de la coopérasyong internasyongale demere une priorité stratégike.) — Penguatan kerja sama internasional tetap menjadi prioritas strategis.",
+          "Hindari kesalahan: \"quand on optimise les ressources\" → gunakan bentuk yang benar: \"l'optimisation des ressources\"."
         ]
       }
     ],
@@ -18016,19 +18133,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-39-ex-1",
         "native": "L'optimisation des ressources permet une amélioration notable des résultats.",
-        "phonetic": "",
+        "phonetic": "L'optimisasyong des ressurces permet une améliorasyong notable des résultats.",
         "translationId": "Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan."
       },
       {
         "id": "fr-gram-39-ex-2",
         "native": "La parution de cet ouvrage a suscité un débat passionné parmi les historiens.",
-        "phonetic": "",
+        "phonetic": "La parusyong de cet uvrage a suscité un débat passionné parmi les historiens.",
         "translationId": "Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan."
       },
       {
         "id": "fr-gram-39-ex-3",
         "native": "Le renforcement de la coopération internationale demeure une priorité stratégique.",
-        "phonetic": "",
+        "phonetic": "Le renforcement de la coopérasyong internasyongale demere une priorité stratégike.",
         "translationId": "Penguatan kerja sama internasional tetap menjadi prioritas strategis."
       }
     ],
@@ -18039,12 +18156,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Nominalisasi memberikan sifat ilmiah, ringkas, dan objektif pada naskah akademik."
       },
       {
-        "incorrect": "quand on optimise les ressources (kesalahan umum)",
-        "correct": "l'optimisation des ressources",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)",
+        "correct": "Mengikuti struktur Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Nominalisation et Style Administratif Français' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Nominalisation et Style Administratif Français\" (Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-39-pg-1",
@@ -18060,7 +18177,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"L'optimisation des ressources permet une amélioration notable des résultats.\" berarti \"Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan.\"."
+        "explanation": "Kalimat \"L'optimisation des ressources permet une amélioration notable des résultats.\" (dibaca: L'optimisasyong des ressurces permet une améliorasyong notable des résultats.) berarti \"Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan.\". Kalimat ini menggunakan pola \"Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)\" (Nominalisation et Style Administratif Français) yang berfungsi untuk mentransformasikan kalimat verbal menjadi frasa nominal padat untuk memenuhi kaidah estetika tulisan resmi Prancis."
       },
       {
         "id": "q-fr-gram-39-pg-2",
@@ -18076,7 +18193,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"La parution de cet ouvrage a suscité un débat passionné parmi les historiens.\" berarti \"Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan.\"."
+        "explanation": "Kalimat \"La parution de cet ouvrage a suscité un débat passionné parmi les historiens.\" (dibaca: La parusyong de cet uvrage a suscité un débat passionné parmi les historiens.) berarti \"Terbitnya karya buku ini telah memicu perdebatan hangat di kalangan para sejarawan.\". Kalimat ini menggunakan pola \"Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)\" (Nominalisation et Style Administratif Français) yang berfungsi untuk mentransformasikan kalimat verbal menjadi frasa nominal padat untuk memenuhi kaidah estetika tulisan resmi Prancis."
       },
       {
         "id": "q-fr-gram-39-pg-3",
@@ -18092,7 +18209,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tim peneliti dikabarkan telah menemukan molekul yang menjanjikan (informasi yang masih menunggu konfirmasi)."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Le renforcement de la coopération internationale demeure une priorité stratégique.\" berarti \"Penguatan kerja sama internasional tetap menjadi prioritas strategis.\"."
+        "explanation": "Kalimat \"Le renforcement de la coopération internationale demeure une priorité stratégique.\" (dibaca: Le renforcement de la coopérasyong internasyongale demere une priorité stratégike.) berarti \"Penguatan kerja sama internasional tetap menjadi prioritas strategis.\". Kalimat ini menggunakan pola \"Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)\" (Nominalisation et Style Administratif Français) yang berfungsi untuk mentransformasikan kalimat verbal menjadi frasa nominal padat untuk memenuhi kaidah estetika tulisan resmi Prancis."
       },
       {
         "id": "q-fr-gram-39-pg-4",
@@ -18112,7 +18229,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-39-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Nominalisation et Style Administratif Français\"?",
         "options": [
           "Il est regrettable que les chercheurs n'aient pas obtenu le financement requis. — Sangat disayangkan bahwa para peneliti belum memperoleh pendanaan yang diperlukan.",
           "Nous aurions aimé participer à ce symposium international de physique. — Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut.",
@@ -18126,7 +18243,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-39-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Nominalisation et Style Administratif Français\"?",
         "options": [
           "Le jury se réjouit que vous ayez soutenu votre thèse avec succès. — Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses.",
           "Je doute que l'étudiant soit arrivé à temps pour l'épreuve. — Saya meragukan bahwa mahasiswa tersebut telah tiba tepat waktu untuk mengikuti ujian.",
@@ -18140,7 +18257,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-39-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Nominalisation et Style Administratif Français\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -18393,7 +18510,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dewan penguji menyambut gembira bahwa Anda telah mempertahankan disertasi Anda dengan sukses."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"L'optimisation des ressources permet une amélioration notable des résultats.\" berarti \"Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan.\"."
+        "explanation": "Kalimat \"L'optimisation des ressources permet une amélioration notable des résultats.\" (dibaca: L'optimisasyong des ressurces permet une améliorasyong notable des résultats.) berarti \"Optimalisasi sumber daya memungkinkan peningkatan hasil yang signifikan.\". Kalimat ini menggunakan pola \"Verbe -> Nom Abstrait (-tion, -ment, -age, -ure)\" (Nominalisation et Style Administratif Français) yang berfungsi untuk mentransformasikan kalimat verbal menjadi frasa nominal padat untuk memenuhi kaidah estetika tulisan resmi Prancis."
       },
       {
         "id": "q-fr-gram-39-bb-2",
@@ -18468,24 +18585,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menguasai pergeseran gaya bahasa formal universitas dan menghindari kosakata ragam cakap dalam konteks ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Les Registres de Langue: Familier, Courant, Soutenu' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Les Registres de Langue: Familier, Courant, Soutenu\" (La différenciation sociolinguistique des registres de discours) berfungsi untuk: menguasai pergeseran gaya bahasa formal universitas dan menghindari kosakata ragam cakap dalam konteks ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu). — Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi)."
+          "Rumus utama: Registre Familier vs Registre Courant vs Registre Soutenu Académique",
+          "Contoh 1: Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu). (Le syersyer a exposé une argumentasyong d'une remarkable élokence (sutenu).) — Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi)."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Registre Familier vs Registre Courant vs Registre Soutenu Académique memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Registre Familier vs Registre Courant vs Registre Soutenu Académique\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Hindari pemakaian kosakata ragam santai/slang ketika melaksanakan sidang tesis atau disertasi.",
         "ruleList": [
-          "Les étudiants ont bien travaillé sur leur projet de groupe (courant). — Para mahasiswa telah bekerja dengan baik pada proyek kelompok mereka (ragam standar)."
+          "Polanya: Registre Familier vs Registre Courant vs Registre Soutenu Académique",
+          "Contoh 2: Les étudiants ont bien travaillé sur leur projet de groupe (courant). (Les étudiants ont bien travaillé sur ler projet de grupe (curant).) — Para mahasiswa telah bekerja dengan baik pada proyek kelompok mereka (ragam standar)."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Les Registres de Langue: Familier, Courant, Soutenu\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Cette problématique requiert un examen approfondi de nos hypothèses initiales. — Permasalahan ini memerlukan pengujian mendalam terhadap hipotesis-hipotesis awal kita."
+          "Contoh 3: Cette problématique requiert un examen approfondi de nos hypothèses initiales. (Cette problématike rekiert un examen approfondi de nos hypothèses initiales.) — Permasalahan ini memerlukan pengujian mendalam terhadap hipotesis-hipotesis awal kita.",
+          "Hindari kesalahan: \"le chercheur a causé de son boulot\" → gunakan bentuk yang benar: \"le chercheur a exposé ses travaux de recherche\"."
         ]
       }
     ],
@@ -18493,19 +18613,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-40-ex-1",
         "native": "Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu).",
-        "phonetic": "",
+        "phonetic": "Le syersyer a exposé une argumentasyong d'une remarkable élokence (sutenu).",
         "translationId": "Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi)."
       },
       {
         "id": "fr-gram-40-ex-2",
         "native": "Les étudiants ont bien travaillé sur leur projet de groupe (courant).",
-        "phonetic": "",
+        "phonetic": "Les étudiants ont bien travaillé sur ler projet de grupe (curant).",
         "translationId": "Para mahasiswa telah bekerja dengan baik pada proyek kelompok mereka (ragam standar)."
       },
       {
         "id": "fr-gram-40-ex-3",
         "native": "Cette problématique requiert un examen approfondi de nos hypothèses initiales.",
-        "phonetic": "",
+        "phonetic": "Cette problématike rekiert un examen approfondi de nos hypothèses initiales.",
         "translationId": "Permasalahan ini memerlukan pengujian mendalam terhadap hipotesis-hipotesis awal kita."
       }
     ],
@@ -18516,12 +18636,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari pemakaian kosakata ragam santai/slang ketika melaksanakan sidang tesis atau disertasi."
       },
       {
-        "incorrect": "le chercheur a causé de son boulot (kesalahan umum)",
-        "correct": "le chercheur a exposé ses travaux de recherche",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Registre Familier vs Registre Courant vs Registre Soutenu Académique",
+        "correct": "Mengikuti struktur Registre Familier vs Registre Courant vs Registre Soutenu Académique",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Registre Familier vs Registre Courant vs Registre Soutenu Académique\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Les Registres de Langue: Familier, Courant, Soutenu' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Les Registres de Langue: Familier, Courant, Soutenu\" (Registre Familier vs Registre Courant vs Registre Soutenu Académique) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-40-pg-1",
@@ -18537,7 +18657,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi)."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu).\" berarti \"Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi).\"."
+        "explanation": "Kalimat \"Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu).\" (dibaca: Le syersyer a exposé une argumentasyong d'une remarkable élokence (sutenu).) berarti \"Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi).\". Kalimat ini menggunakan pola \"Registre Familier vs Registre Courant vs Registre Soutenu Académique\" (Les Registres de Langue: Familier, Courant, Soutenu) yang berfungsi untuk menguasai pergeseran gaya bahasa formal universitas dan menghindari kosakata ragam cakap dalam konteks ilmiah."
       },
       {
         "id": "q-fr-gram-40-pg-2",
@@ -18553,7 +18673,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Les étudiants ont bien travaillé sur leur projet de groupe (courant).\" berarti \"Para mahasiswa telah bekerja dengan baik pada proyek kelompok mereka (ragam standar).\"."
+        "explanation": "Kalimat \"Les étudiants ont bien travaillé sur leur projet de groupe (courant).\" (dibaca: Les étudiants ont bien travaillé sur ler projet de grupe (curant).) berarti \"Para mahasiswa telah bekerja dengan baik pada proyek kelompok mereka (ragam standar).\". Kalimat ini menggunakan pola \"Registre Familier vs Registre Courant vs Registre Soutenu Académique\" (Les Registres de Langue: Familier, Courant, Soutenu) yang berfungsi untuk menguasai pergeseran gaya bahasa formal universitas dan menghindari kosakata ragam cakap dalam konteks ilmiah."
       },
       {
         "id": "q-fr-gram-40-pg-3",
@@ -18569,7 +18689,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Proyek tersebut pasti akan berhasil seandainya seluruh mitra telah bergerak bersama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Cette problématique requiert un examen approfondi de nos hypothèses initiales.\" berarti \"Permasalahan ini memerlukan pengujian mendalam terhadap hipotesis-hipotesis awal kita.\"."
+        "explanation": "Kalimat \"Cette problématique requiert un examen approfondi de nos hypothèses initiales.\" (dibaca: Cette problématike rekiert un examen approfondi de nos hypothèses initiales.) berarti \"Permasalahan ini memerlukan pengujian mendalam terhadap hipotesis-hipotesis awal kita.\". Kalimat ini menggunakan pola \"Registre Familier vs Registre Courant vs Registre Soutenu Académique\" (Les Registres de Langue: Familier, Courant, Soutenu) yang berfungsi untuk menguasai pergeseran gaya bahasa formal universitas dan menghindari kosakata ragam cakap dalam konteks ilmiah."
       },
       {
         "id": "q-fr-gram-40-pg-4",
@@ -18589,7 +18709,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-40-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Registres de Langue: Familier, Courant, Soutenu\"?",
         "options": [
           "Vous auriez dû vérifier vos sources bibliographiques plus méticuleusement. — Anda seharusnya memeriksa sumber-sumber daftar pustaka Anda dengan lebih cermat.",
           "Si le gouvernement avait investi davantage, le vaccin aurait été développé plus tôt. — Seandainya pemerintah berinvestasi lebih besar dulu, vaksin tersebut pasti telah dikembangkan lebih awal.",
@@ -18603,7 +18723,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-40-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Registres de Langue: Familier, Courant, Soutenu\"?",
         "options": [
           "Cette problématique requiert un examen approfondi de nos hypothèses initiales. — Permasalahan ini memerlukan pengujian mendalam terhadap hipotesis-hipotesis awal kita.",
           "Nous aurions aimé participer à ce symposium international de physique. — Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut.",
@@ -18617,7 +18737,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-40-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Les Registres de Langue: Familier, Courant, Soutenu\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -18864,7 +18984,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kami tadinya sangat ingin berpartisipasi dalam simposium internasional fisika tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu).\" berarti \"Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi).\"."
+        "explanation": "Kalimat \"Le chercheur a exposé une argumentation d'une remarquable éloquence (soutenu).\" (dibaca: Le syersyer a exposé une argumentasyong d'une remarkable élokence (sutenu).) berarti \"Peneliti itu memaparkan argumentasi dengan kefasihan retorika yang luar biasa (ragam tinggi).\". Kalimat ini menggunakan pola \"Registre Familier vs Registre Courant vs Registre Soutenu Académique\" (Les Registres de Langue: Familier, Courant, Soutenu) yang berfungsi untuk menguasai pergeseran gaya bahasa formal universitas dan menghindari kosakata ragam cakap dalam konteks ilmiah."
       },
       {
         "id": "q-fr-gram-40-bb-2",
@@ -18939,24 +19059,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menerapkan inversi gaya tinggi sastra dan wacana akademik setelah kata keterangan modalitas di awal kalimat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'L'Inversion du Sujet dans le Style Littéraire et Académique' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"L'Inversion du Sujet dans le Style Littéraire et Académique\" (L'inversion du sujet après les adverbes initiaux et dans l'incise) berfungsi untuk: menerapkan inversi gaya tinggi sastra dan wacana akademik setelah kata keterangan modalitas di awal kalimat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Sans doute les historiens retiendront-ils cette période comme un tournant décisif. — Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan."
+          "Rumus utama: Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet",
+          "Contoh 1: Sans doute les historiens retiendront-ils cette période comme un tournant décisif. (Sans dute les historiens retiendront-ils cette période comme un turnant décisif.) — Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah kata keterangan peut-être, sans doute, atau ainsi di awal kalimat formal, gunakan inversi pronomina.",
         "ruleList": [
-          "À peine le protocole fut-il appliqué que les premières anomalies se manifestèrent. — Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan."
+          "Polanya: Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet",
+          "Contoh 2: À peine le protocole fut-il appliqué que les premières anomalies se manifestèrent. (À peine le protocole fut-il appliké ke les premières anomalies se manifestèrent.) — Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"L'Inversion du Sujet dans le Style Littéraire et Académique\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Ainsi s'explique la divergence d'interprétation observée entre les deux spécialistes. — Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut."
+          "Contoh 3: Ainsi s'explique la divergence d'interprétation observée entre les deux spécialistes. (Ainsi s'explike la divergence d'interprétasyong observée entre les dex spécialistes.) — Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut.",
+          "Hindari kesalahan: \"peut-être il viendra (en tête de phrase formelle)\" → gunakan bentuk yang benar: \"peut-être viendra-t-il\"."
         ]
       }
     ],
@@ -18964,19 +19087,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-41-ex-1",
         "native": "Sans doute les historiens retiendront-ils cette période comme un tournant décisif.",
-        "phonetic": "",
+        "phonetic": "Sans dute les historiens retiendront-ils cette période comme un turnant décisif.",
         "translationId": "Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan."
       },
       {
         "id": "fr-gram-41-ex-2",
         "native": "À peine le protocole fut-il appliqué que les premières anomalies se manifestèrent.",
-        "phonetic": "",
+        "phonetic": "À peine le protocole fut-il appliké ke les premières anomalies se manifestèrent.",
         "translationId": "Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan."
       },
       {
         "id": "fr-gram-41-ex-3",
         "native": "Ainsi s'explique la divergence d'interprétation observée entre les deux spécialistes.",
-        "phonetic": "",
+        "phonetic": "Ainsi s'explike la divergence d'interprétasyong observée entre les dex spécialistes.",
         "translationId": "Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut."
       }
     ],
@@ -18987,12 +19110,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Setelah kata keterangan peut-être, sans doute, atau ainsi di awal kalimat formal, gunakan inversi pronomina."
       },
       {
-        "incorrect": "peut-être il viendra (en tête de phrase formelle) (kesalahan umum)",
-        "correct": "peut-être viendra-t-il",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Peut-être",
+        "correct": "Mengikuti struktur Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'L'Inversion du Sujet dans le Style Littéraire et Académique' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"L'Inversion du Sujet dans le Style Littéraire et Académique\" (Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-41-pg-1",
@@ -19008,7 +19131,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Sans doute les historiens retiendront-ils cette période comme un tournant décisif.\" berarti \"Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan.\"."
+        "explanation": "Kalimat \"Sans doute les historiens retiendront-ils cette période comme un tournant décisif.\" (dibaca: Sans dute les historiens retiendront-ils cette période comme un turnant décisif.) berarti \"Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan.\". Kalimat ini menggunakan pola \"Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet\" (L'Inversion du Sujet dans le Style Littéraire et Académique) yang berfungsi untuk menerapkan inversi gaya tinggi sastra dan wacana akademik setelah kata keterangan modalitas di awal kalimat."
       },
       {
         "id": "q-fr-gram-41-pg-2",
@@ -19024,7 +19147,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"À peine le protocole fut-il appliqué que les premières anomalies se manifestèrent.\" berarti \"Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan.\"."
+        "explanation": "Kalimat \"À peine le protocole fut-il appliqué que les premières anomalies se manifestèrent.\" (dibaca: À peine le protocole fut-il appliké ke les premières anomalies se manifestèrent.) berarti \"Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan.\". Kalimat ini menggunakan pola \"Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet\" (L'Inversion du Sujet dans le Style Littéraire et Académique) yang berfungsi untuk menerapkan inversi gaya tinggi sastra dan wacana akademik setelah kata keterangan modalitas di awal kalimat."
       },
       {
         "id": "q-fr-gram-41-pg-3",
@@ -19040,7 +19163,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Di situlah tepatnya terletak jantung argumentasi dialektis kami."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ainsi s'explique la divergence d'interprétation observée entre les deux spécialistes.\" berarti \"Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut.\"."
+        "explanation": "Kalimat \"Ainsi s'explique la divergence d'interprétation observée entre les deux spécialistes.\" (dibaca: Ainsi s'explike la divergence d'interprétasyong observée entre les dex spécialistes.) berarti \"Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut.\". Kalimat ini menggunakan pola \"Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet\" (L'Inversion du Sujet dans le Style Littéraire et Académique) yang berfungsi untuk menerapkan inversi gaya tinggi sastra dan wacana akademik setelah kata keterangan modalitas di awal kalimat."
       },
       {
         "id": "q-fr-gram-41-pg-4",
@@ -19060,7 +19183,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-41-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Inversion du Sujet dans le Style Littéraire et Académique\"?",
         "options": [
           "À peine le protocole fut-il appliqué que les premières anomalies se manifestèrent. — Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan.",
           "Les fouilles récentes ont permis d'élucider une énigme restée longtemps insoluble. — Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan.",
@@ -19074,7 +19197,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-41-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Inversion du Sujet dans le Style Littéraire et Académique\"?",
         "options": [
           "Cette crise politique est venue cristalliser des tensions socio-économiques larvées. — Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam.",
           "Ainsi s'explique la divergence d'interprétation observée entre les deux spécialistes. — Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut.",
@@ -19088,7 +19211,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-41-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"L'Inversion du Sujet dans le Style Littéraire et Académique\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19337,7 +19460,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Sans doute les historiens retiendront-ils cette période comme un tournant décisif.\" berarti \"Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan.\"."
+        "explanation": "Kalimat \"Sans doute les historiens retiendront-ils cette période comme un tournant décisif.\" (dibaca: Sans dute les historiens retiendront-ils cette période comme un turnant décisif.) berarti \"Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan.\". Kalimat ini menggunakan pola \"Peut-être / Sans doute / À peine / Ainsi + Inversion Verbe-Sujet\" (L'Inversion du Sujet dans le Style Littéraire et Académique) yang berfungsi untuk menerapkan inversi gaya tinggi sastra dan wacana akademik setelah kata keterangan modalitas di awal kalimat."
       },
       {
         "id": "q-fr-gram-41-bb-2",
@@ -19412,24 +19535,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengenali dan mengapresiasi struktur subjungtif masa lampau dalam literatur kanonik klasik dan pidato luhur Prancis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Le Subjonctif Imparfait et Plus-que-parfait' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Le Subjonctif Imparfait et Plus-que-parfait\" (La reconnaissance littéraire du subjonctif imparfait et plus-que-parfait) berfungsi untuk: mengenali dan mengapresiasi struktur subjungtif masa lampau dalam literatur kanonik klasik dan pidato luhur Prancis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Il eût fallu que la communauté internationale prît conscience du danger imminent. — Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut."
+          "Rumus utama: Radical du Passé Simple + -asse, -isse, -ût, -ît...",
+          "Contoh 1: Il eût fallu que la communauté internationale prît conscience du danger imminent. (Il eût fallu ke la communoté internasyongale prît conscience du danger imminent.) — Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Radical du Passé Simple + -asse, -isse, -ût, -ît... memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Radical du Passé Simple + -asse, -isse, -ût, -ît...\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Subjonctif imparfait menjaga keselarasan waktu (concordance des temps) dalam gaya sastra dan retorika klasik.",
         "ruleList": [
-          "Bien que l'auteur connût parfaitement les théories de ses prédécesseurs, il innova. — Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru."
+          "Polanya: Radical du Passé Simple + -asse, -isse, -ût, -ît...",
+          "Contoh 2: Bien que l'auteur connût parfaitement les théories de ses prédécesseurs, il innova. (Bien ke l'oter connût parfaitement les théories de ses prédécessers, il innova.) — Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Le Subjonctif Imparfait et Plus-que-parfait\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Le jury exigeait que chaque candidat fît preuve d'une érudition sans faille. — Dewan penguji menuntut agar setiap kandidat menunjukkan keluasan ilmu tanpa cela."
+          "Contoh 3: Le jury exigeait que chaque candidat fît preuve d'une érudition sans faille. (Le jury exigeait ke syake candidat fît preve d'une érudisyong sans faille.) — Dewan penguji menuntut agar setiap kandidat menunjukkan keluasan ilmu tanpa cela.",
+          "Hindari kesalahan: \"il fallait qu'il prenne (en style classique)\" → gunakan bentuk yang benar: \"il fallait qu'il prît\"."
         ]
       }
     ],
@@ -19437,19 +19563,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-42-ex-1",
         "native": "Il eût fallu que la communauté internationale prît conscience du danger imminent.",
-        "phonetic": "",
+        "phonetic": "Il eût fallu ke la communoté internasyongale prît conscience du danger imminent.",
         "translationId": "Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut."
       },
       {
         "id": "fr-gram-42-ex-2",
         "native": "Bien que l'auteur connût parfaitement les théories de ses prédécesseurs, il innova.",
-        "phonetic": "",
+        "phonetic": "Bien ke l'oter connût parfaitement les théories de ses prédécessers, il innova.",
         "translationId": "Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru."
       },
       {
         "id": "fr-gram-42-ex-3",
         "native": "Le jury exigeait que chaque candidat fît preuve d'une érudition sans faille.",
-        "phonetic": "",
+        "phonetic": "Le jury exigeait ke syake candidat fît preve d'une érudisyong sans faille.",
         "translationId": "Dewan penguji menuntut agar setiap kandidat menunjukkan keluasan ilmu tanpa cela."
       }
     ],
@@ -19460,12 +19586,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Subjonctif imparfait menjaga keselarasan waktu (concordance des temps) dalam gaya sastra dan retorika klasik."
       },
       {
-        "incorrect": "il fallait qu'il prenne (en style classique) (kesalahan umum)",
-        "correct": "il fallait qu'il prît",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Radical du Passé Simple + -asse, -isse, -ût, -ît...",
+        "correct": "Mengikuti struktur Radical du Passé Simple + -asse, -isse, -ût, -ît...",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Radical du Passé Simple + -asse, -isse, -ût, -ît...\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Le Subjonctif Imparfait et Plus-que-parfait' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Le Subjonctif Imparfait et Plus-que-parfait\" (Radical du Passé Simple + -asse, -isse, -ût, -ît...) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-42-pg-1",
@@ -19481,7 +19607,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Il eût fallu que la communauté internationale prît conscience du danger imminent.\" berarti \"Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut.\"."
+        "explanation": "Kalimat \"Il eût fallu que la communauté internationale prît conscience du danger imminent.\" (dibaca: Il eût fallu ke la communoté internasyongale prît conscience du danger imminent.) berarti \"Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut.\". Kalimat ini menggunakan pola \"Radical du Passé Simple + -asse, -isse, -ût, -ît...\" (Le Subjonctif Imparfait et Plus-que-parfait) yang berfungsi untuk mengenali dan mengapresiasi struktur subjungtif masa lampau dalam literatur kanonik klasik dan pidato luhur Prancis."
       },
       {
         "id": "q-fr-gram-42-pg-2",
@@ -19497,7 +19623,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Bien que l'auteur connût parfaitement les théories de ses prédécesseurs, il innova.\" berarti \"Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru.\"."
+        "explanation": "Kalimat \"Bien que l'auteur connût parfaitement les théories de ses prédécesseurs, il innova.\" (dibaca: Bien ke l'oter connût parfaitement les théories de ses prédécessers, il innova.) berarti \"Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru.\". Kalimat ini menggunakan pola \"Radical du Passé Simple + -asse, -isse, -ût, -ît...\" (Le Subjonctif Imparfait et Plus-que-parfait) yang berfungsi untuk mengenali dan mengapresiasi struktur subjungtif masa lampau dalam literatur kanonik klasik dan pidato luhur Prancis."
       },
       {
         "id": "q-fr-gram-42-pg-3",
@@ -19513,7 +19639,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Dewan penguji menuntut agar setiap kandidat menunjukkan keluasan ilmu tanpa cela."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le jury exigeait que chaque candidat fît preuve d'une érudition sans faille.\" berarti \"Dewan penguji menuntut agar setiap kandidat menunjukkan keluasan ilmu tanpa cela.\"."
+        "explanation": "Kalimat \"Le jury exigeait que chaque candidat fît preuve d'une érudition sans faille.\" (dibaca: Le jury exigeait ke syake candidat fît preve d'une érudisyong sans faille.) berarti \"Dewan penguji menuntut agar setiap kandidat menunjukkan keluasan ilmu tanpa cela.\". Kalimat ini menggunakan pola \"Radical du Passé Simple + -asse, -isse, -ût, -ît...\" (Le Subjonctif Imparfait et Plus-que-parfait) yang berfungsi untuk mengenali dan mengapresiasi struktur subjungtif masa lampau dalam literatur kanonik klasik dan pidato luhur Prancis."
       },
       {
         "id": "q-fr-gram-42-pg-4",
@@ -19533,7 +19659,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-42-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Imparfait et Plus-que-parfait\"?",
         "options": [
           "Loin d'affaiblir notre thèse, cette apparente contradiction en confirme la fécondité. — Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya.",
           "Bien que l'auteur connût parfaitement les théories de ses prédécesseurs, il innova. — Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru.",
@@ -19547,7 +19673,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-42-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Imparfait et Plus-que-parfait\"?",
         "options": [
           "Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète. — Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang.",
           "C'est précisément là que réside le cœur de notre argumentation dialectique. — Di situlah tepatnya terletak jantung argumentasi dialektis kami.",
@@ -19561,7 +19687,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-42-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Le Subjonctif Imparfait et Plus-que-parfait\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19816,7 +19942,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Il eût fallu que la communauté internationale prît conscience du danger imminent.\" berarti \"Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut.\"."
+        "explanation": "Kalimat \"Il eût fallu que la communauté internationale prît conscience du danger imminent.\" (dibaca: Il eût fallu ke la communoté internasyongale prît conscience du danger imminent.) berarti \"Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut.\". Kalimat ini menggunakan pola \"Radical du Passé Simple + -asse, -isse, -ût, -ît...\" (Le Subjonctif Imparfait et Plus-que-parfait) yang berfungsi untuk mengenali dan mengapresiasi struktur subjungtif masa lampau dalam literatur kanonik klasik dan pidato luhur Prancis."
       },
       {
         "id": "q-fr-gram-42-bb-2",
@@ -19891,24 +20017,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyampaikan keraguan analitis, menjaga jarak kritis dari klaim pihak ketiga, dan menghindari dogmatisme ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Nuances Polyphoniques et Modalisation du Discours' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nuances Polyphoniques et Modalisation du Discours\" (Les marques d'atténuation, de distanciation et de polyphonie) berfungsi untuk: menyampaikan keraguan analitis, menjaga jarak kritis dari klaim pihak ketiga, dan menghindari dogmatisme ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique. — Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno."
+          "Rumus utama: Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)",
+          "Contoh 1: Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique. (Cette décuverte permettrait de reconsidérer l'ensemble de la syronologie antike.) — Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Modalisasi menghaluskan kritik ilmiah dan menunjukkan kejujuran intelektual yang matang.",
         "ruleList": [
-          "Il semblerait que les résultats expérimentaux n'aient pas été suffisamment vérifiés. — Tampaknya hasil-hasil eksperimen tersebut belum diverifikasi secara memadai."
+          "Polanya: Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)",
+          "Contoh 2: Il semblerait que les résultats expérimentaux n'aient pas été suffisamment vérifiés. (Il semblerait ke les résultats expérimentox n'aient pas été suffisamment vérifiés.) — Tampaknya hasil-hasil eksperimen tersebut belum diverifikasi secara memadai."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nuances Polyphoniques et Modalisation du Discours\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "D'après certains observateurs, les pourparlers seraient sur le point d'aboutir. — Menurut sejumlah pengamat, perundingan tersebut dikabarkan hampir mencapai kesepakatan."
+          "Contoh 3: D'après certains observateurs, les pourparlers seraient sur le point d'aboutir. (D'après certains observaters, les purparlers seraient sur le pwant d'abutir.) — Menurut sejumlah pengamat, perundingan tersebut dikabarkan hampir mencapai kesepakatan.",
+          "Hindari kesalahan: \"l'auteur se trompe totalement\" → gunakan bentuk yang benar: \"les conclusions de l'auteur semblent prêter à discussion\"."
         ]
       }
     ],
@@ -19916,19 +20045,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-43-ex-1",
         "native": "Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique.",
-        "phonetic": "",
+        "phonetic": "Cette décuverte permettrait de reconsidérer l'ensemble de la syronologie antike.",
         "translationId": "Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno."
       },
       {
         "id": "fr-gram-43-ex-2",
         "native": "Il semblerait que les résultats expérimentaux n'aient pas été suffisamment vérifiés.",
-        "phonetic": "",
+        "phonetic": "Il semblerait ke les résultats expérimentox n'aient pas été suffisamment vérifiés.",
         "translationId": "Tampaknya hasil-hasil eksperimen tersebut belum diverifikasi secara memadai."
       },
       {
         "id": "fr-gram-43-ex-3",
         "native": "D'après certains observateurs, les pourparlers seraient sur le point d'aboutir.",
-        "phonetic": "",
+        "phonetic": "D'après certains observaters, les purparlers seraient sur le pwant d'abutir.",
         "translationId": "Menurut sejumlah pengamat, perundingan tersebut dikabarkan hampir mencapai kesepakatan."
       }
     ],
@@ -19939,12 +20068,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Modalisasi menghaluskan kritik ilmiah dan menunjukkan kejujuran intelektual yang matang."
       },
       {
-        "incorrect": "l'auteur se trompe totalement (kesalahan umum)",
-        "correct": "les conclusions de l'auteur semblent prêter à discussion",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Le conditionnel journalistique",
+        "correct": "Mengikuti struktur Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Nuances Polyphoniques et Modalisation du Discours' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Nuances Polyphoniques et Modalisation du Discours\" (Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-43-pg-1",
@@ -19960,7 +20089,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tak seorang pun berhak menyandang gelar doktor tanpa mempertahankan disertasinya secara terbuka."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique.\" berarti \"Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno.\"."
+        "explanation": "Kalimat \"Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique.\" (dibaca: Cette décuverte permettrait de reconsidérer l'ensemble de la syronologie antike.) berarti \"Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno.\". Kalimat ini menggunakan pola \"Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)\" (Nuances Polyphoniques et Modalisation du Discours) yang berfungsi untuk menyampaikan keraguan analitis, menjaga jarak kritis dari klaim pihak ketiga, dan menghindari dogmatisme ilmiah."
       },
       {
         "id": "q-fr-gram-43-pg-2",
@@ -19976,7 +20105,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tampaknya hasil-hasil eksperimen tersebut belum diverifikasi secara memadai."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Il semblerait que les résultats expérimentaux n'aient pas été suffisamment vérifiés.\" berarti \"Tampaknya hasil-hasil eksperimen tersebut belum diverifikasi secara memadai.\"."
+        "explanation": "Kalimat \"Il semblerait que les résultats expérimentaux n'aient pas été suffisamment vérifiés.\" (dibaca: Il semblerait ke les résultats expérimentox n'aient pas été suffisamment vérifiés.) berarti \"Tampaknya hasil-hasil eksperimen tersebut belum diverifikasi secara memadai.\". Kalimat ini menggunakan pola \"Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)\" (Nuances Polyphoniques et Modalisation du Discours) yang berfungsi untuk menyampaikan keraguan analitis, menjaga jarak kritis dari klaim pihak ketiga, dan menghindari dogmatisme ilmiah."
       },
       {
         "id": "q-fr-gram-43-pg-3",
@@ -19992,7 +20121,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Kerangka tiga bab kami menjawab tuntutan progresi pembuktian ilmiah yang berkesinambungan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"D'après certains observateurs, les pourparlers seraient sur le point d'aboutir.\" berarti \"Menurut sejumlah pengamat, perundingan tersebut dikabarkan hampir mencapai kesepakatan.\"."
+        "explanation": "Kalimat \"D'après certains observateurs, les pourparlers seraient sur le point d'aboutir.\" (dibaca: D'après certains observaters, les purparlers seraient sur le pwant d'abutir.) berarti \"Menurut sejumlah pengamat, perundingan tersebut dikabarkan hampir mencapai kesepakatan.\". Kalimat ini menggunakan pola \"Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)\" (Nuances Polyphoniques et Modalisation du Discours) yang berfungsi untuk menyampaikan keraguan analitis, menjaga jarak kritis dari klaim pihak ketiga, dan menghindari dogmatisme ilmiah."
       },
       {
         "id": "q-fr-gram-43-pg-4",
@@ -20012,7 +20141,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-43-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Nuances Polyphoniques et Modalisation du Discours\"?",
         "options": [
           "Nul ne peut prétendre au titre de docteur sans avoir soutenu publiquement sa thèse. — Tak seorang pun berhak menyandang gelar doktor tanpa mempertahankan disertasinya secara terbuka.",
           "La problématique centrale interroge l'articulation dialectique entre tradition et modernité. — Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas.",
@@ -20026,7 +20155,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-43-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Nuances Polyphoniques et Modalisation du Discours\"?",
         "options": [
           "Le présent décret entre en vigueur le premier jour du mois suivant sa publication. — Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya.",
           "Toute infraction aux dispositions statutaires entraîne des sanctions disciplinaires. — Setiap pelanggaran terhadap ketentuan statuta mengakibatkan sanksi disipliner.",
@@ -20040,7 +20169,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-43-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Nuances Polyphoniques et Modalisation du Discours\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -20291,7 +20420,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique.\" berarti \"Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno.\"."
+        "explanation": "Kalimat \"Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique.\" (dibaca: Cette décuverte permettrait de reconsidérer l'ensemble de la syronologie antike.) berarti \"Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno.\". Kalimat ini menggunakan pola \"Le conditionnel journalistique / Les modalisateurs (Sembler, Paraître)\" (Nuances Polyphoniques et Modalisation du Discours) yang berfungsi untuk menyampaikan keraguan analitis, menjaga jarak kritis dari klaim pihak ketiga, dan menghindari dogmatisme ilmiah."
       },
       {
         "id": "q-fr-gram-43-bb-2",
@@ -20366,24 +20495,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyusun sintesis komparatif dari multi-sumber dokumen dan merumuskan benang merah dialektika epistemologis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Analyse Critique et Synthèse de Documents Universitaires' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Analyse Critique et Synthèse de Documents Universitaires\" (La méthodologie de la note de synthèse et de la dissertation) berfungsi untuk: menyusun sintesis komparatif dari multi-sumber dokumen dan merumuskan benang merah dialektika epistemologis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "La synthèse méthodique des archives permet de dégager trois axes d'interprétation. — Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran."
+          "Rumus utama: Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)",
+          "Contoh 1: La synthèse méthodique des archives permet de dégager trois axes d'interprétation. (La synthèse méthodike des arsyives permet de dégager trwas axes d'interprétasyong.) — Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse) memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sintesis akademik Prancis (note de synthèse) tidak merangkum teks satu per satu, melainkan menyilangkan argumen secara tematis.",
         "ruleList": [
-          "Tout en reconnaissant la portée de cette analyse, force est de constater ses apories. — Sembari mengakui jangkauan analisis ini, kita tetap harus mencatat kebuntuan-kebuntuan teoretisnya."
+          "Polanya: Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)",
+          "Contoh 2: Tout en reconnaissant la portée de cette analyse, force est de constater ses apories. (Tut en reconnaissant la portée de cette analyse, force est de constater ses apories.) — Sembari mengakui jangkauan analisis ini, kita tetap harus mencatat kebuntuan-kebuntuan teoretisnya."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Analyse Critique et Synthèse de Documents Universitaires\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "L'auteur articule sa démonstration autour d'une tension épistémologique fondamentale. — Penulis menyusun pembuktian ilmiahnya di sekitar ketegangan epistemologis yang mendasar."
+          "Contoh 3: L'auteur articule sa démonstration autour d'une tension épistémologique fondamentale. (L'oter articule sa démonstrasyong otur d'une tension épistémologike fondamentale.) — Penulis menyusun pembuktian ilmiahnya di sekitar ketegangan epistemologis yang mendasar.",
+          "Hindari kesalahan: \"résumé des textes un par un\" → gunakan bentuk yang benar: \"synthèse croisée et problématisée des documents\"."
         ]
       }
     ],
@@ -20391,19 +20523,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-44-ex-1",
         "native": "La synthèse méthodique des archives permet de dégager trois axes d'interprétation.",
-        "phonetic": "",
+        "phonetic": "La synthèse méthodike des arsyives permet de dégager trwas axes d'interprétasyong.",
         "translationId": "Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran."
       },
       {
         "id": "fr-gram-44-ex-2",
         "native": "Tout en reconnaissant la portée de cette analyse, force est de constater ses apories.",
-        "phonetic": "",
+        "phonetic": "Tut en reconnaissant la portée de cette analyse, force est de constater ses apories.",
         "translationId": "Sembari mengakui jangkauan analisis ini, kita tetap harus mencatat kebuntuan-kebuntuan teoretisnya."
       },
       {
         "id": "fr-gram-44-ex-3",
         "native": "L'auteur articule sa démonstration autour d'une tension épistémologique fondamentale.",
-        "phonetic": "",
+        "phonetic": "L'oter articule sa démonstrasyong otur d'une tension épistémologike fondamentale.",
         "translationId": "Penulis menyusun pembuktian ilmiahnya di sekitar ketegangan epistemologis yang mendasar."
       }
     ],
@@ -20414,12 +20546,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Sintesis akademik Prancis (note de synthèse) tidak merangkum teks satu per satu, melainkan menyilangkan argumen secara tematis."
       },
       {
-        "incorrect": "résumé des textes un par un (kesalahan umum)",
-        "correct": "synthèse croisée et problématisée des documents",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Confrontation des thèses",
+        "correct": "Mengikuti struktur Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Analyse Critique et Synthèse de Documents Universitaires' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Analyse Critique et Synthèse de Documents Universitaires\" (Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-44-pg-1",
@@ -20435,7 +20567,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"La synthèse méthodique des archives permet de dégager trois axes d'interprétation.\" berarti \"Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran.\"."
+        "explanation": "Kalimat \"La synthèse méthodique des archives permet de dégager trois axes d'interprétation.\" (dibaca: La synthèse méthodike des arsyives permet de dégager trwas axes d'interprétasyong.) berarti \"Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran.\". Kalimat ini menggunakan pola \"Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)\" (Analyse Critique et Synthèse de Documents Universitaires) yang berfungsi untuk menyusun sintesis komparatif dari multi-sumber dokumen dan merumuskan benang merah dialektika epistemologis."
       },
       {
         "id": "q-fr-gram-44-pg-2",
@@ -20451,7 +20583,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Tout en reconnaissant la portée de cette analyse, force est de constater ses apories.\" berarti \"Sembari mengakui jangkauan analisis ini, kita tetap harus mencatat kebuntuan-kebuntuan teoretisnya.\"."
+        "explanation": "Kalimat \"Tout en reconnaissant la portée de cette analyse, force est de constater ses apories.\" (dibaca: Tut en reconnaissant la portée de cette analyse, force est de constater ses apories.) berarti \"Sembari mengakui jangkauan analisis ini, kita tetap harus mencatat kebuntuan-kebuntuan teoretisnya.\". Kalimat ini menggunakan pola \"Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)\" (Analyse Critique et Synthèse de Documents Universitaires) yang berfungsi untuk menyusun sintesis komparatif dari multi-sumber dokumen dan merumuskan benang merah dialektika epistemologis."
       },
       {
         "id": "q-fr-gram-44-pg-3",
@@ -20467,7 +20599,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya akan berupaya melanjutkan refleksi kajian ini dalam penelitian pascadoktoral saya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"L'auteur articule sa démonstration autour d'une tension épistémologique fondamentale.\" berarti \"Penulis menyusun pembuktian ilmiahnya di sekitar ketegangan epistemologis yang mendasar.\"."
+        "explanation": "Kalimat \"L'auteur articule sa démonstration autour d'une tension épistémologique fondamentale.\" (dibaca: L'oter articule sa démonstrasyong otur d'une tension épistémologike fondamentale.) berarti \"Penulis menyusun pembuktian ilmiahnya di sekitar ketegangan epistemologis yang mendasar.\". Kalimat ini menggunakan pola \"Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)\" (Analyse Critique et Synthèse de Documents Universitaires) yang berfungsi untuk menyusun sintesis komparatif dari multi-sumber dokumen dan merumuskan benang merah dialektika epistemologis."
       },
       {
         "id": "q-fr-gram-44-pg-4",
@@ -20487,7 +20619,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-44-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Analyse Critique et Synthèse de Documents Universitaires\"?",
         "options": [
           "Loin de se réduire à un inventaire factuel, l'étude interroge les conditions de possibilité du consensus. — Jauh dari sekadar daftar inventaris faktual, studi ini menelaah syarat-syarat kemungkinan terbentuknya konsensus.",
           "Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux. — Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya.",
@@ -20501,7 +20633,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-44-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Analyse Critique et Synthèse de Documents Universitaires\"?",
         "options": [
           "L'auteur articule sa démonstration autour d'une tension épistémologique fondamentale. — Penulis menyusun pembuktian ilmiahnya di sekitar ketegangan epistemologis yang mendasar.",
           "La problématique centrale interroge l'articulation dialectique entre tradition et modernité. — Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas.",
@@ -20515,7 +20647,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-44-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Analyse Critique et Synthèse de Documents Universitaires\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -20766,7 +20898,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"La synthèse méthodique des archives permet de dégager trois axes d'interprétation.\" berarti \"Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran.\"."
+        "explanation": "Kalimat \"La synthèse méthodique des archives permet de dégager trois axes d'interprétation.\" (dibaca: La synthèse méthodike des arsyives permet de dégager trwas axes d'interprétasyong.) berarti \"Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran.\". Kalimat ini menggunakan pola \"Confrontation des thèses / Plan dialectique (Thèse, Antithèse, Synthèse)\" (Analyse Critique et Synthèse de Documents Universitaires) yang berfungsi untuk menyusun sintesis komparatif dari multi-sumber dokumen dan merumuskan benang merah dialektika epistemologis."
       },
       {
         "id": "q-fr-gram-44-bb-2",
@@ -20841,24 +20973,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menulis surat permohonan dinas, rekomendasi beasiswa, dan korespondensi rektorat dengan tingkat etiket tertinggi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Formules Épistolaires Académiques et Institutionnelles' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Formules Épistolaires Académiques et Institutionnelles\" (L'étiquette de la correspondance formelle et institutionnelle) berfungsi untuk: menulis surat permohonan dinas, rekomendasi beasiswa, dan korespondensi rektorat dengan tingkat etiket tertinggi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance. — Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan."
+          "Rumus utama: Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur",
+          "Contoh 1: Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance. (Je vus sorais gré de bien vulwar examiner ma candidature avec bienveillance.) — Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Salam penutup surat resmi kepada pimpinan universitas harus mematuhi protokol korespondensi Prancis.",
         "ruleList": [
-          "Veuillez agréer, Monsieur le Recteur, l'expression de ma haute considération. — Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya."
+          "Polanya: Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur",
+          "Contoh 2: Veuillez agréer, Monsieur le Recteur, l'expression de ma haute considération. (Veillez agréer, monsier le recter, l'expression de ma hote considérasyong.) — Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Formules Épistolaires Académiques et Institutionnelles\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Dans l'attente de votre réponse, je reste à votre entière disposition. — Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut."
+          "Contoh 3: Dans l'attente de votre réponse, je reste à votre entière disposition. (Dans l'attente de votre réponse, je reste à votre entière disposisyong.) — Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut.",
+          "Hindari kesalahan: \"amicalement (à un doyen)\" → gunakan bentuk yang benar: \"veuillez agréer l'expression de mes sentiments distingués\"."
         ]
       }
     ],
@@ -20866,19 +21001,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-45-ex-1",
         "native": "Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance.",
-        "phonetic": "",
+        "phonetic": "Je vus sorais gré de bien vulwar examiner ma candidature avec bienveillance.",
         "translationId": "Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan."
       },
       {
         "id": "fr-gram-45-ex-2",
         "native": "Veuillez agréer, Monsieur le Recteur, l'expression de ma haute considération.",
-        "phonetic": "",
+        "phonetic": "Veillez agréer, monsier le recter, l'expression de ma hote considérasyong.",
         "translationId": "Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya."
       },
       {
         "id": "fr-gram-45-ex-3",
         "native": "Dans l'attente de votre réponse, je reste à votre entière disposition.",
-        "phonetic": "",
+        "phonetic": "Dans l'attente de votre réponse, je reste à votre entière disposisyong.",
         "translationId": "Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut."
       }
     ],
@@ -20889,12 +21024,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Salam penutup surat resmi kepada pimpinan universitas harus mematuhi protokol korespondensi Prancis."
       },
       {
-        "incorrect": "amicalement (à un doyen) (kesalahan umum)",
-        "correct": "veuillez agréer l'expression de mes sentiments distingués",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Formules d'appel",
+        "correct": "Mengikuti struktur Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Formules Épistolaires Académiques et Institutionnelles' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Formules Épistolaires Académiques et Institutionnelles\" (Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-45-pg-1",
@@ -20910,7 +21045,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance.\" berarti \"Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan.\"."
+        "explanation": "Kalimat \"Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance.\" (dibaca: Je vus sorais gré de bien vulwar examiner ma candidature avec bienveillance.) berarti \"Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan.\". Kalimat ini menggunakan pola \"Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur\" (Formules Épistolaires Académiques et Institutionnelles) yang berfungsi untuk menulis surat permohonan dinas, rekomendasi beasiswa, dan korespondensi rektorat dengan tingkat etiket tertinggi."
       },
       {
         "id": "q-fr-gram-45-pg-2",
@@ -20926,7 +21061,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Veuillez agréer, Monsieur le Recteur, l'expression de ma haute considération.\" berarti \"Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya.\"."
+        "explanation": "Kalimat \"Veuillez agréer, Monsieur le Recteur, l'expression de ma haute considération.\" (dibaca: Veillez agréer, monsier le recter, l'expression de ma hote considérasyong.) berarti \"Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya.\". Kalimat ini menggunakan pola \"Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur\" (Formules Épistolaires Académiques et Institutionnelles) yang berfungsi untuk menulis surat permohonan dinas, rekomendasi beasiswa, dan korespondensi rektorat dengan tingkat etiket tertinggi."
       },
       {
         "id": "q-fr-gram-45-pg-3",
@@ -20942,7 +21077,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Dans l'attente de votre réponse, je reste à votre entière disposition.\" berarti \"Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut.\"."
+        "explanation": "Kalimat \"Dans l'attente de votre réponse, je reste à votre entière disposition.\" (dibaca: Dans l'attente de votre réponse, je reste à votre entière disposisyong.) berarti \"Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut.\". Kalimat ini menggunakan pola \"Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur\" (Formules Épistolaires Académiques et Institutionnelles) yang berfungsi untuk menulis surat permohonan dinas, rekomendasi beasiswa, dan korespondensi rektorat dengan tingkat etiket tertinggi."
       },
       {
         "id": "q-fr-gram-45-pg-4",
@@ -20962,7 +21097,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-45-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Formules Épistolaires Académiques et Institutionnelles\"?",
         "options": [
           "Veuillez agréer, Monsieur le Recteur, l'expression de ma haute considération. — Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya.",
           "Je souscris pleinement à la remarque formulée par monsieur le rapporteur sur ce point méthodologique. — Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini.",
@@ -20976,7 +21111,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-45-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Formules Épistolaires Académiques et Institutionnelles\"?",
         "options": [
           "Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux. — Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya.",
           "Dans l'attente de votre réponse, je reste à votre entière disposition. — Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut.",
@@ -20990,7 +21125,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-45-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Formules Épistolaires Académiques et Institutionnelles\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21243,7 +21378,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance.\" berarti \"Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan.\"."
+        "explanation": "Kalimat \"Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance.\" (dibaca: Je vus sorais gré de bien vulwar examiner ma candidature avec bienveillance.) berarti \"Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan.\". Kalimat ini menggunakan pola \"Formules d'appel / Corps de lettre / Salutations protocolaires de rigueur\" (Formules Épistolaires Académiques et Institutionnelles) yang berfungsi untuk menulis surat permohonan dinas, rekomendasi beasiswa, dan korespondensi rektorat dengan tingkat etiket tertinggi."
       },
       {
         "id": "q-fr-gram-45-bb-2",
@@ -21318,24 +21453,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Métaphores Conceptuelles et Collocations Soutenues' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Métaphores Conceptuelles et Collocations Soutenues\" (La précision lexicale et les figures de rhétorique conceptuelle) berfungsi untuk: memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Cette crise politique est venue cristalliser des tensions socio-économiques larvées. — Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam."
+          "Rumus utama: Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider",
+          "Contoh 1: Cette crise politique est venue cristalliser des tensions socio-économiques larvées. (Cette crise politike est venue cristalliser des tensions socio-économikes larvées.) — Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kolokasi ragam tinggi memberikan wibawa stilistika yang meyakinkan pada publikasi riset.",
         "ruleList": [
-          "Les fouilles récentes ont permis d'élucider une énigme restée longtemps insoluble. — Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan."
+          "Polanya: Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider",
+          "Contoh 2: Les fouilles récentes ont permis d'élucider une énigme restée longtemps insoluble. (Les fuilles récentes ont permis d'élucider une énigme restée longtemps insoluble.) — Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Métaphores Conceptuelles et Collocations Soutenues\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Ces observations corroborent de manière éclatante les prédictions mathématiques. — Pengamatan-pengamatan ini menguatkan secara gemilang prediksi perhitungan matematis."
+          "Contoh 3: Ces observations corroborent de manière éclatante les prédictions mathématiques. (Ces observasyongs corroborent de manière éclatante les prédicsyongs mathématikes.) — Pengamatan-pengamatan ini menguatkan secara gemilang prediksi perhitungan matematis.",
+          "Hindari kesalahan: \"cette crise montre des problèmes\" → gunakan bentuk yang benar: \"cette crise vient cristalliser des tensions\"."
         ]
       }
     ],
@@ -21343,19 +21481,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-46-ex-1",
         "native": "Cette crise politique est venue cristalliser des tensions socio-économiques larvées.",
-        "phonetic": "",
+        "phonetic": "Cette crise politike est venue cristalliser des tensions socio-économikes larvées.",
         "translationId": "Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam."
       },
       {
         "id": "fr-gram-46-ex-2",
         "native": "Les fouilles récentes ont permis d'élucider une énigme restée longtemps insoluble.",
-        "phonetic": "",
+        "phonetic": "Les fuilles récentes ont permis d'élucider une énigme restée longtemps insoluble.",
         "translationId": "Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan."
       },
       {
         "id": "fr-gram-46-ex-3",
         "native": "Ces observations corroborent de manière éclatante les prédictions mathématiques.",
-        "phonetic": "",
+        "phonetic": "Ces observasyongs corroborent de manière éclatante les prédicsyongs mathématikes.",
         "translationId": "Pengamatan-pengamatan ini menguatkan secara gemilang prediksi perhitungan matematis."
       }
     ],
@@ -21366,12 +21504,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Kolokasi ragam tinggi memberikan wibawa stilistika yang meyakinkan pada publikasi riset."
       },
       {
-        "incorrect": "cette crise montre des problèmes (kesalahan umum)",
-        "correct": "cette crise vient cristalliser des tensions",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider",
+        "correct": "Mengikuti struktur Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Métaphores Conceptuelles et Collocations Soutenues' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Métaphores Conceptuelles et Collocations Soutenues\" (Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-46-pg-1",
@@ -21387,7 +21525,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Cette crise politique est venue cristalliser des tensions socio-économiques larvées.\" berarti \"Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam.\"."
+        "explanation": "Kalimat \"Cette crise politique est venue cristalliser des tensions socio-économiques larvées.\" (dibaca: Cette crise politike est venue cristalliser des tensions socio-économikes larvées.) berarti \"Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam.\". Kalimat ini menggunakan pola \"Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider\" (Métaphores Conceptuelles et Collocations Soutenues) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-fr-gram-46-pg-2",
@@ -21403,7 +21541,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Les fouilles récentes ont permis d'élucider une énigme restée longtemps insoluble.\" berarti \"Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan.\"."
+        "explanation": "Kalimat \"Les fouilles récentes ont permis d'élucider une énigme restée longtemps insoluble.\" (dibaca: Les fuilles récentes ont permis d'élucider une énigme restée longtemps insoluble.) berarti \"Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan.\". Kalimat ini menggunakan pola \"Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider\" (Métaphores Conceptuelles et Collocations Soutenues) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-fr-gram-46-pg-3",
@@ -21419,7 +21557,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Pengamatan-pengamatan ini menguatkan secara gemilang prediksi perhitungan matematis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ces observations corroborent de manière éclatante les prédictions mathématiques.\" berarti \"Pengamatan-pengamatan ini menguatkan secara gemilang prediksi perhitungan matematis.\"."
+        "explanation": "Kalimat \"Ces observations corroborent de manière éclatante les prédictions mathématiques.\" (dibaca: Ces observasyongs corroborent de manière éclatante les prédicsyongs mathématikes.) berarti \"Pengamatan-pengamatan ini menguatkan secara gemilang prediksi perhitungan matematis.\". Kalimat ini menggunakan pola \"Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider\" (Métaphores Conceptuelles et Collocations Soutenues) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-fr-gram-46-pg-4",
@@ -21439,7 +21577,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-46-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Métaphores Conceptuelles et Collocations Soutenues\"?",
         "options": [
           "À peine le protocole fut-il appliqué que les premières anomalies se manifestèrent. — Baru saja protokol tersebut diterapkan, anomali-anomali pertama langsung bermunculan.",
           "Les fouilles récentes ont permis d'élucider une énigme restée longtemps insoluble. — Penggalian arkeologis terkini berhasil memecahkan teka-teki yang telah lama tak terpecahkan.",
@@ -21453,7 +21591,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-46-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Métaphores Conceptuelles et Collocations Soutenues\"?",
         "options": [
           "Sans doute les historiens retiendront-ils cette période comme un tournant décisif. — Tidak diragukan lagi para sejarawan akan mencatat periode ini sebagai titik balik yang menentukan.",
           "Ainsi s'explique la divergence d'interprétation observée entre les deux spécialistes. — Demikianlah dapat dijelaskan perbedaan penafsiran yang terlihat di antara kedua pakar tersebut.",
@@ -21467,7 +21605,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-46-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Métaphores Conceptuelles et Collocations Soutenues\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21716,7 +21854,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Cette crise politique est venue cristalliser des tensions socio-économiques larvées.\" berarti \"Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam.\"."
+        "explanation": "Kalimat \"Cette crise politique est venue cristalliser des tensions socio-économiques larvées.\" (dibaca: Cette crise politike est venue cristalliser des tensions socio-économikes larvées.) berarti \"Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam.\". Kalimat ini menggunakan pola \"Verbes recteurs soutenus : Cristalliser, Sonder, Corroborer, Élucider\" (Métaphores Conceptuelles et Collocations Soutenues) yang berfungsi untuk memperkaya gaya tulisan disertasi doktoral dengan kolokasi intelektual yang matang dan presisi semantik tajam."
       },
       {
         "id": "q-fr-gram-46-bb-2",
@@ -21791,24 +21929,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri dalam sidang publik.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Rhétorique du Plaidoyer et de la Réfutation Dialectique' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Rhétorique du Plaidoyer et de la Réfutation Dialectique\" (L'argumentation oratoire et les figures de la controverse) berfungsi untuk: kaidah orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri dalam sidang publik. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète. — Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang."
+          "Rumus utama: Concession préliminaire / Prolepse / Réfutation péremptoire",
+          "Contoh 1: Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète. (K'il me swat permis de réfuter l'objecsyong selon lakelle cette approsye serait obsolète.) — Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Concession préliminaire / Prolepse / Réfutation péremptoire memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Concession préliminaire / Prolepse / Réfutation péremptoire\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sanggahan dialektis dalam sidang akademik bertumpu pada ketajaman logika dan kesantunan retorika.",
         "ruleList": [
-          "Loin d'affaiblir notre thèse, cette apparente contradiction en confirme la fécondité. — Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya."
+          "Polanya: Concession préliminaire / Prolepse / Réfutation péremptoire",
+          "Contoh 2: Loin d'affaiblir notre thèse, cette apparente contradiction en confirme la fécondité. (Lwan d'affaiblir notre thèse, cette apparente contradicsyong en confirme la fécondité.) — Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Rhétorique du Plaidoyer et de la Réfutation Dialectique\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "C'est précisément là que réside le cœur de notre argumentation dialectique. — Di situlah tepatnya terletak jantung argumentasi dialektis kami."
+          "Contoh 3: C'est précisément là que réside le cœur de notre argumentation dialectique. (C'est précisément là ke réside le cœur de notre argumentasyong dialectike.) — Di situlah tepatnya terletak jantung argumentasi dialektis kami.",
+          "Hindari kesalahan: \"vous avez tort sur ce point\" → gunakan bentuk yang benar: \"qu'il me soit permis de nuancer cette objection\"."
         ]
       }
     ],
@@ -21816,19 +21957,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-47-ex-1",
         "native": "Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète.",
-        "phonetic": "",
+        "phonetic": "K'il me swat permis de réfuter l'objecsyong selon lakelle cette approsye serait obsolète.",
         "translationId": "Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang."
       },
       {
         "id": "fr-gram-47-ex-2",
         "native": "Loin d'affaiblir notre thèse, cette apparente contradiction en confirme la fécondité.",
-        "phonetic": "",
+        "phonetic": "Lwan d'affaiblir notre thèse, cette apparente contradicsyong en confirme la fécondité.",
         "translationId": "Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya."
       },
       {
         "id": "fr-gram-47-ex-3",
         "native": "C'est précisément là que réside le cœur de notre argumentation dialectique.",
-        "phonetic": "",
+        "phonetic": "C'est précisément là ke réside le cœur de notre argumentasyong dialectike.",
         "translationId": "Di situlah tepatnya terletak jantung argumentasi dialektis kami."
       }
     ],
@@ -21839,12 +21980,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Sanggahan dialektis dalam sidang akademik bertumpu pada ketajaman logika dan kesantunan retorika."
       },
       {
-        "incorrect": "vous avez tort sur ce point (kesalahan umum)",
-        "correct": "qu'il me soit permis de nuancer cette objection",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Concession préliminaire",
+        "correct": "Mengikuti struktur Concession préliminaire / Prolepse / Réfutation péremptoire",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Concession préliminaire / Prolepse / Réfutation péremptoire\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Rhétorique du Plaidoyer et de la Réfutation Dialectique' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Rhétorique du Plaidoyer et de la Réfutation Dialectique\" (Concession préliminaire / Prolepse / Réfutation péremptoire) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-47-pg-1",
@@ -21860,7 +22001,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète.\" berarti \"Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang.\"."
+        "explanation": "Kalimat \"Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète.\" (dibaca: K'il me swat permis de réfuter l'objecsyong selon lakelle cette approsye serait obsolète.) berarti \"Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang.\". Kalimat ini menggunakan pola \"Concession préliminaire / Prolepse / Réfutation péremptoire\" (Rhétorique du Plaidoyer et de la Réfutation Dialectique) yang berfungsi untuk kaidah orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri dalam sidang publik."
       },
       {
         "id": "q-fr-gram-47-pg-2",
@@ -21876,7 +22017,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Loin d'affaiblir notre thèse, cette apparente contradiction en confirme la fécondité.\" berarti \"Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya.\"."
+        "explanation": "Kalimat \"Loin d'affaiblir notre thèse, cette apparente contradiction en confirme la fécondité.\" (dibaca: Lwan d'affaiblir notre thèse, cette apparente contradicsyong en confirme la fécondité.) berarti \"Jauh dari melemahkan tesis kami, kontradiksi semu ini justru menegaskan kesuburan teoretisnya.\". Kalimat ini menggunakan pola \"Concession préliminaire / Prolepse / Réfutation péremptoire\" (Rhétorique du Plaidoyer et de la Réfutation Dialectique) yang berfungsi untuk kaidah orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri dalam sidang publik."
       },
       {
         "id": "q-fr-gram-47-pg-3",
@@ -21892,7 +22033,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Menurut sejumlah pengamat, perundingan tersebut dikabarkan hampir mencapai kesepakatan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"C'est précisément là que réside le cœur de notre argumentation dialectique.\" berarti \"Di situlah tepatnya terletak jantung argumentasi dialektis kami.\"."
+        "explanation": "Kalimat \"C'est précisément là que réside le cœur de notre argumentation dialectique.\" (dibaca: C'est précisément là ke réside le cœur de notre argumentasyong dialectike.) berarti \"Di situlah tepatnya terletak jantung argumentasi dialektis kami.\". Kalimat ini menggunakan pola \"Concession préliminaire / Prolepse / Réfutation péremptoire\" (Rhétorique du Plaidoyer et de la Réfutation Dialectique) yang berfungsi untuk kaidah orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri dalam sidang publik."
       },
       {
         "id": "q-fr-gram-47-pg-4",
@@ -21912,7 +22053,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-47-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Rhétorique du Plaidoyer et de la Réfutation Dialectique\"?",
         "options": [
           "Bien que l'auteur connût parfaitement les théories de ses prédécesseurs, il innova. — Meskipun sang penulis memahami secara sempurna teori para pendahulunya, beliau tetap melakukan terobosan baru.",
           "Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique. — Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno.",
@@ -21926,7 +22067,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-47-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Rhétorique du Plaidoyer et de la Réfutation Dialectique\"?",
         "options": [
           "Il eût fallu que la communauté internationale prît conscience du danger imminent. — Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut.",
           "Le jury exigeait que chaque candidat fît preuve d'une érudition sans faille. — Dewan penguji menuntut agar setiap kandidat menunjukkan keluasan ilmu tanpa cela.",
@@ -21940,7 +22081,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-47-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Rhétorique du Plaidoyer et de la Réfutation Dialectique\"?",
         "options": [
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -22193,7 +22334,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Komunitas internasional semestinya telah menyadari bahaya yang mengancam tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète.\" berarti \"Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang.\"."
+        "explanation": "Kalimat \"Qu'il me soit permis de réfuter l'objection selon laquelle cette approche serait obsolète.\" (dibaca: K'il me swat permis de réfuter l'objecsyong selon lakelle cette approsye serait obsolète.) berarti \"Perkenankanlah saya membantah keberatan yang menyatakan bahwa pendekatan ini telah usang.\". Kalimat ini menggunakan pola \"Concession préliminaire / Prolepse / Réfutation péremptoire\" (Rhétorique du Plaidoyer et de la Réfutation Dialectique) yang berfungsi untuk kaidah orasi ilmiah saat menangkis argumen lawan dan mengokohkan keunggulan tesis sendiri dalam sidang publik."
       },
       {
         "id": "q-fr-gram-47-bb-2",
@@ -22268,24 +22409,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah interpretasi naskah regulasi universitas, perundang-undangan tata negara, dan konvensi hukum Prancis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Stylistique des Textes Juridiques et Institutionnels Français' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Stylistique des Textes Juridiques et Institutionnels Français\" (Les spécificités morphosyntaxiques du discours législatif et réglementaire) berfungsi untuk: kaidah interpretasi naskah regulasi universitas, perundang-undangan tata negara, dan konvensi hukum Prancis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Le présent décret entre en vigueur le premier jour du mois suivant sa publication. — Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya."
+          "Rumus utama: Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut",
+          "Contoh 1: Le présent décret entre en vigueur le premier jour du mois suivant sa publication. (Le présent décret entre en viguer le premier jur du mwas suivant sa publicasyong.) — Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gaya bahasa hukum Prancis mengutamakan pronomina formal seperti 'nul' dan konstruksi deklaratif mengikat.",
         "ruleList": [
-          "Nul ne peut prétendre au titre de docteur sans avoir soutenu publiquement sa thèse. — Tak seorang pun berhak menyandang gelar doktor tanpa mempertahankan disertasinya secara terbuka."
+          "Polanya: Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut",
+          "Contoh 2: Nul ne peut prétendre au titre de docteur sans avoir soutenu publiquement sa thèse. (Nul ne pet prétendre o titre de docter sans avwar sutenu publikement sa thèse.) — Tak seorang pun berhak menyandang gelar doktor tanpa mempertahankan disertasinya secara terbuka."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Stylistique des Textes Juridiques et Institutionnels Français\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Toute infraction aux dispositions statutaires entraîne des sanctions disciplinaires. — Setiap pelanggaran terhadap ketentuan statuta mengakibatkan sanksi disipliner."
+          "Contoh 3: Toute infraction aux dispositions statutaires entraîne des sanctions disciplinaires. (Tute infracsyong ox disposisyongs statutaires entraîne des sancsyongs disciplinaires.) — Setiap pelanggaran terhadap ketentuan statuta mengakibatkan sanksi disipliner.",
+          "Hindari kesalahan: \"personne ne peut (en texte de loi)\" → gunakan bentuk yang benar: \"nul ne peut prétendre\"."
         ]
       }
     ],
@@ -22293,19 +22437,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-48-ex-1",
         "native": "Le présent décret entre en vigueur le premier jour du mois suivant sa publication.",
-        "phonetic": "",
+        "phonetic": "Le présent décret entre en viguer le premier jur du mwas suivant sa publicasyong.",
         "translationId": "Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya."
       },
       {
         "id": "fr-gram-48-ex-2",
         "native": "Nul ne peut prétendre au titre de docteur sans avoir soutenu publiquement sa thèse.",
-        "phonetic": "",
+        "phonetic": "Nul ne pet prétendre o titre de docter sans avwar sutenu publikement sa thèse.",
         "translationId": "Tak seorang pun berhak menyandang gelar doktor tanpa mempertahankan disertasinya secara terbuka."
       },
       {
         "id": "fr-gram-48-ex-3",
         "native": "Toute infraction aux dispositions statutaires entraîne des sanctions disciplinaires.",
-        "phonetic": "",
+        "phonetic": "Tute infracsyong ox disposisyongs statutaires entraîne des sancsyongs disciplinaires.",
         "translationId": "Setiap pelanggaran terhadap ketentuan statuta mengakibatkan sanksi disipliner."
       }
     ],
@@ -22316,12 +22460,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Gaya bahasa hukum Prancis mengutamakan pronomina formal seperti 'nul' dan konstruksi deklaratif mengikat."
       },
       {
-        "incorrect": "personne ne peut (en texte de loi) (kesalahan umum)",
-        "correct": "nul ne peut prétendre",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Le présent de vérité juridique",
+        "correct": "Mengikuti struktur Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Stylistique des Textes Juridiques et Institutionnels Français' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Stylistique des Textes Juridiques et Institutionnels Français\" (Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-48-pg-1",
@@ -22337,7 +22481,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Le présent décret entre en vigueur le premier jour du mois suivant sa publication.\" berarti \"Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya.\"."
+        "explanation": "Kalimat \"Le présent décret entre en vigueur le premier jour du mois suivant sa publication.\" (dibaca: Le présent décret entre en viguer le premier jur du mwas suivant sa publicasyong.) berarti \"Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya.\". Kalimat ini menggunakan pola \"Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut\" (Stylistique des Textes Juridiques et Institutionnels Français) yang berfungsi untuk kaidah interpretasi naskah regulasi universitas, perundang-undangan tata negara, dan konvensi hukum Prancis."
       },
       {
         "id": "q-fr-gram-48-pg-2",
@@ -22353,7 +22497,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Nul ne peut prétendre au titre de docteur sans avoir soutenu publiquement sa thèse.\" berarti \"Tak seorang pun berhak menyandang gelar doktor tanpa mempertahankan disertasinya secara terbuka.\"."
+        "explanation": "Kalimat \"Nul ne peut prétendre au titre de docteur sans avoir soutenu publiquement sa thèse.\" (dibaca: Nul ne pet prétendre o titre de docter sans avwar sutenu publikement sa thèse.) berarti \"Tak seorang pun berhak menyandang gelar doktor tanpa mempertahankan disertasinya secara terbuka.\". Kalimat ini menggunakan pola \"Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut\" (Stylistique des Textes Juridiques et Institutionnels Français) yang berfungsi untuk kaidah interpretasi naskah regulasi universitas, perundang-undangan tata negara, dan konvensi hukum Prancis."
       },
       {
         "id": "q-fr-gram-48-pg-3",
@@ -22369,7 +22513,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Penulis menyusun pembuktian ilmiahnya di sekitar ketegangan epistemologis yang mendasar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Toute infraction aux dispositions statutaires entraîne des sanctions disciplinaires.\" berarti \"Setiap pelanggaran terhadap ketentuan statuta mengakibatkan sanksi disipliner.\"."
+        "explanation": "Kalimat \"Toute infraction aux dispositions statutaires entraîne des sanctions disciplinaires.\" (dibaca: Tute infracsyong ox disposisyongs statutaires entraîne des sancsyongs disciplinaires.) berarti \"Setiap pelanggaran terhadap ketentuan statuta mengakibatkan sanksi disipliner.\". Kalimat ini menggunakan pola \"Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut\" (Stylistique des Textes Juridiques et Institutionnels Français) yang berfungsi untuk kaidah interpretasi naskah regulasi universitas, perundang-undangan tata negara, dan konvensi hukum Prancis."
       },
       {
         "id": "q-fr-gram-48-pg-4",
@@ -22389,7 +22533,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-48-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Stylistique des Textes Juridiques et Institutionnels Français\"?",
         "options": [
           "Il semblerait que les résultats expérimentaux n'aient pas été suffisamment vérifiés. — Tampaknya hasil-hasil eksperimen tersebut belum diverifikasi secara memadai.",
           "La synthèse méthodique des archives permet de dégager trois axes d'interprétation. — Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran.",
@@ -22403,7 +22547,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-48-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Stylistique des Textes Juridiques et Institutionnels Français\"?",
         "options": [
           "Toute infraction aux dispositions statutaires entraîne des sanctions disciplinaires. — Setiap pelanggaran terhadap ketentuan statuta mengakibatkan sanksi disipliner.",
           "Cette découverte permettrait de reconsidérer l'ensemble de la chronologie antique. — Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno.",
@@ -22417,7 +22561,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-48-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Stylistique des Textes Juridiques et Institutionnels Français\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
@@ -22668,7 +22812,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Penemuan ini diperkirakan dapat meninjau ulang keseluruhan kronologi sejarah kuno."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Le présent décret entre en vigueur le premier jour du mois suivant sa publication.\" berarti \"Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya.\"."
+        "explanation": "Kalimat \"Le présent décret entre en vigueur le premier jour du mois suivant sa publication.\" (dibaca: Le présent décret entre en viguer le premier jur du mwas suivant sa publicasyong.) berarti \"Keputusan ini mulai berlaku pada hari pertama bulan berikutnya setelah tanggal pengundangannya.\". Kalimat ini menggunakan pola \"Le présent de vérité juridique / Formules performatives : Est réputé, Nul ne peut\" (Stylistique des Textes Juridiques et Institutionnels Français) yang berfungsi untuk kaidah interpretasi naskah regulasi universitas, perundang-undangan tata negara, dan konvensi hukum Prancis."
       },
       {
         "id": "q-fr-gram-48-bb-2",
@@ -22743,24 +22887,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam pengajuan proposal tesis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Rédaction de la Problématique et du Plan de Mémoire' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Rédaction de la Problématique et du Plan de Mémoire\" (L'art de problématiser un sujet de recherche en sciences humaines) berfungsi untuk: merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam pengajuan proposal tesis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "La problématique centrale interroge l'articulation dialectique entre tradition et modernité. — Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas."
+          "Rumus utama: La tension conceptuelle / La question directrice / Les jalons heuristiques",
+          "Contoh 1: La problématique centrale interroge l'articulation dialectique entre tradition et modernité. (La problématike centrale interroge l'articulasyong dialectike entre tradisyong et modernité.) — Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur La tension conceptuelle / La question directrice / Les jalons heuristiques memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"La tension conceptuelle / La question directrice / Les jalons heuristiques\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Rumusan masalah (problématique) tingkat doktoral harus merumuskan ketegangan konseptual yang bernas.",
         "ruleList": [
-          "Loin de se réduire à un inventaire factuel, l'étude interroge les conditions de possibilité du consensus. — Jauh dari sekadar daftar inventaris faktual, studi ini menelaah syarat-syarat kemungkinan terbentuknya konsensus."
+          "Polanya: La tension conceptuelle / La question directrice / Les jalons heuristiques",
+          "Contoh 2: Loin de se réduire à un inventaire factuel, l'étude interroge les conditions de possibilité du consensus. (Lwan de se réduire à un inventaire factuel, l'étude interroge les condisyongs de possibilité du consensus.) — Jauh dari sekadar daftar inventaris faktual, studi ini menelaah syarat-syarat kemungkinan terbentuknya konsensus."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Rédaction de la Problématique et du Plan de Mémoire\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Notre plan tripartite répond à une exigence de progression démonstrative continue. — Kerangka tiga bab kami menjawab tuntutan progresi pembuktian ilmiah yang berkesinambungan."
+          "Contoh 3: Notre plan tripartite répond à une exigence de progression démonstrative continue. (Notre plan tripartite répond à une exigence de progression démonstrative continue.) — Kerangka tiga bab kami menjawab tuntutan progresi pembuktian ilmiah yang berkesinambungan.",
+          "Hindari kesalahan: \"mon sujet est intéressant parce que\" → gunakan bentuk yang benar: \"la problématique interroge la tension fondamentale entre...\"."
         ]
       }
     ],
@@ -22768,19 +22915,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-49-ex-1",
         "native": "La problématique centrale interroge l'articulation dialectique entre tradition et modernité.",
-        "phonetic": "",
+        "phonetic": "La problématike centrale interroge l'articulasyong dialectike entre tradisyong et modernité.",
         "translationId": "Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas."
       },
       {
         "id": "fr-gram-49-ex-2",
         "native": "Loin de se réduire à un inventaire factuel, l'étude interroge les conditions de possibilité du consensus.",
-        "phonetic": "",
+        "phonetic": "Lwan de se réduire à un inventaire factuel, l'étude interroge les condisyongs de possibilité du consensus.",
         "translationId": "Jauh dari sekadar daftar inventaris faktual, studi ini menelaah syarat-syarat kemungkinan terbentuknya konsensus."
       },
       {
         "id": "fr-gram-49-ex-3",
         "native": "Notre plan tripartite répond à une exigence de progression démonstrative continue.",
-        "phonetic": "",
+        "phonetic": "Notre plan tripartite répond à une exigence de progression démonstrative continue.",
         "translationId": "Kerangka tiga bab kami menjawab tuntutan progresi pembuktian ilmiah yang berkesinambungan."
       }
     ],
@@ -22791,12 +22938,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Rumusan masalah (problématique) tingkat doktoral harus merumuskan ketegangan konseptual yang bernas."
       },
       {
-        "incorrect": "mon sujet est intéressant parce que (kesalahan umum)",
-        "correct": "la problématique interroge la tension fondamentale entre...",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola La tension conceptuelle",
+        "correct": "Mengikuti struktur La tension conceptuelle / La question directrice / Les jalons heuristiques",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"La tension conceptuelle / La question directrice / Les jalons heuristiques\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Rédaction de la Problématique et du Plan de Mémoire' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Rédaction de la Problématique et du Plan de Mémoire\" (La tension conceptuelle / La question directrice / Les jalons heuristiques) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-49-pg-1",
@@ -22812,7 +22959,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sembari mengakui jangkauan analisis ini, kita tetap harus mencatat kebuntuan-kebuntuan teoretisnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"La problématique centrale interroge l'articulation dialectique entre tradition et modernité.\" berarti \"Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas.\"."
+        "explanation": "Kalimat \"La problématique centrale interroge l'articulation dialectique entre tradition et modernité.\" (dibaca: La problématike centrale interroge l'articulasyong dialectike entre tradisyong et modernité.) berarti \"Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas.\". Kalimat ini menggunakan pola \"La tension conceptuelle / La question directrice / Les jalons heuristiques\" (Rédaction de la Problématique et du Plan de Mémoire) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam pengajuan proposal tesis."
       },
       {
         "id": "q-fr-gram-49-pg-2",
@@ -22828,7 +22975,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Loin de se réduire à un inventaire factuel, l'étude interroge les conditions de possibilité du consensus.\" berarti \"Jauh dari sekadar daftar inventaris faktual, studi ini menelaah syarat-syarat kemungkinan terbentuknya konsensus.\"."
+        "explanation": "Kalimat \"Loin de se réduire à un inventaire factuel, l'étude interroge les conditions de possibilité du consensus.\" (dibaca: Lwan de se réduire à un inventaire factuel, l'étude interroge les condisyongs de possibilité du consensus.) berarti \"Jauh dari sekadar daftar inventaris faktual, studi ini menelaah syarat-syarat kemungkinan terbentuknya konsensus.\". Kalimat ini menggunakan pola \"La tension conceptuelle / La question directrice / Les jalons heuristiques\" (Rédaction de la Problématique et du Plan de Mémoire) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam pengajuan proposal tesis."
       },
       {
         "id": "q-fr-gram-49-pg-3",
@@ -22844,7 +22991,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Notre plan tripartite répond à une exigence de progression démonstrative continue.\" berarti \"Kerangka tiga bab kami menjawab tuntutan progresi pembuktian ilmiah yang berkesinambungan.\"."
+        "explanation": "Kalimat \"Notre plan tripartite répond à une exigence de progression démonstrative continue.\" (dibaca: Notre plan tripartite répond à une exigence de progression démonstrative continue.) berarti \"Kerangka tiga bab kami menjawab tuntutan progresi pembuktian ilmiah yang berkesinambungan.\". Kalimat ini menggunakan pola \"La tension conceptuelle / La question directrice / Les jalons heuristiques\" (Rédaction de la Problématique et du Plan de Mémoire) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam pengajuan proposal tesis."
       },
       {
         "id": "q-fr-gram-49-pg-4",
@@ -22864,7 +23011,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-49-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Rédaction de la Problématique et du Plan de Mémoire\"?",
         "options": [
           "Loin de se réduire à un inventaire factuel, l'étude interroge les conditions de possibilité du consensus. — Jauh dari sekadar daftar inventaris faktual, studi ini menelaah syarat-syarat kemungkinan terbentuknya konsensus.",
           "Tout en reconnaissant la portée de cette analyse, force est de constater ses apories. — Sembari mengakui jangkauan analisis ini, kita tetap harus mencatat kebuntuan-kebuntuan teoretisnya.",
@@ -22878,7 +23025,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-49-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Rédaction de la Problématique et du Plan de Mémoire\"?",
         "options": [
           "La synthèse méthodique des archives permet de dégager trois axes d'interprétation. — Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran.",
           "Notre plan tripartite répond à une exigence de progression démonstrative continue. — Kerangka tiga bab kami menjawab tuntutan progresi pembuktian ilmiah yang berkesinambungan.",
@@ -22892,7 +23039,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-49-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Rédaction de la Problématique et du Plan de Mémoire\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23143,7 +23290,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Sintesis metodis terhadap arsip-arsip tersebut memungkinkan ditariknya tiga poros penafsiran."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"La problématique centrale interroge l'articulation dialectique entre tradition et modernité.\" berarti \"Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas.\"."
+        "explanation": "Kalimat \"La problématique centrale interroge l'articulation dialectique entre tradition et modernité.\" (dibaca: La problématike centrale interroge l'articulasyong dialectike entre tradisyong et modernité.) berarti \"Rumusan masalah utama menelaah artikulasi dialektis antara tradisi dan modernitas.\". Kalimat ini menggunakan pola \"La tension conceptuelle / La question directrice / Les jalons heuristiques\" (Rédaction de la Problématique et du Plan de Mémoire) yang berfungsi untuk merumuskan paradoks teoretis dan mendesain kerangka bab penelitian yang kohesif dalam pengajuan proposal tesis."
       },
       {
         "id": "q-fr-gram-49-bb-2",
@@ -23218,24 +23365,27 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Teknik penyampaian pidato pembuka sidang terbuka dan etika menerima kritik konstruktif dewan penguji.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Fundamental",
-        "content": "Penguasaan kaidah 'Soutenance Orale de Thèse et Dialogue avec les Pairs' sangat penting untuk ketepatan sintaksis dan keanggunan berekspresi dalam bahasa Prancis.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Soutenance Orale de Thèse et Dialogue avec les Pairs\" (L'art oratoire universitaire lors de la soutenance de doctorat) berfungsi untuk: teknik penyampaian pidato pembuka sidang terbuka dan etika menerima kritik konstruktif dewan penguji. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Prancis sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux. — Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya."
+          "Rumus utama: Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs",
+          "Contoh 1: Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux. (Monsier le président, mesdames et messiers les membres du jury, je vus remercie pur l'attensyong bienveillante ke vus avez portée à mes travox.) — Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs memungkinkan penyampaian gagasan secara teratur serta mematuhi standar akademik berbahasa Prancis.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sidang terbuka disertasi (soutenance) menandai masuknya kandidat secara resmi ke dalam komunitas ilmuwan sejawat.",
         "ruleList": [
-          "Je souscris pleinement à la remarque formulée par monsieur le rapporteur sur ce point méthodologique. — Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini."
+          "Polanya: Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs",
+          "Contoh 2: Je souscris pleinement à la remarque formulée par monsieur le rapporteur sur ce point méthodologique. (Je suscris pleinement à la remarke formulée par monsier le rapporter sur ce pwant méthodologike.) — Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini."
         ]
       },
       {
-        "heading": "3. Catatan Stilistika dan Pragmatik",
-        "content": "Dalam lingkungan universitas dan profesional berbahasa Prancis (Francophonie), formulasi ini menjamin kejelasan dan wibawa intelektual.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Soutenance Orale de Thèse et Dialogue avec les Pairs\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Je m'efforcerai de prolonger cette réflexion dans mes recherches postdoctorales. — Saya akan berupaya melanjutkan refleksi kajian ini dalam penelitian pascadoktoral saya."
+          "Contoh 3: Je m'efforcerai de prolonger cette réflexion dans mes recherches postdoctorales. (Je m'efforcerai de prolonger cette réflexion dans mes resyersyes postdoctorales.) — Saya akan berupaya melanjutkan refleksi kajian ini dalam penelitian pascadoktoral saya.",
+          "Hindari kesalahan: \"merci pour le diplôme\" → gunakan bentuk yang benar: \"je remercie les membres du jury pour l'honneur qu'ils me font\"."
         ]
       }
     ],
@@ -23243,19 +23393,19 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "fr-gram-50-ex-1",
         "native": "Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux.",
-        "phonetic": "",
+        "phonetic": "Monsier le président, mesdames et messiers les membres du jury, je vus remercie pur l'attensyong bienveillante ke vus avez portée à mes travox.",
         "translationId": "Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya."
       },
       {
         "id": "fr-gram-50-ex-2",
         "native": "Je souscris pleinement à la remarque formulée par monsieur le rapporteur sur ce point méthodologique.",
-        "phonetic": "",
+        "phonetic": "Je suscris pleinement à la remarke formulée par monsier le rapporter sur ce pwant méthodologike.",
         "translationId": "Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini."
       },
       {
         "id": "fr-gram-50-ex-3",
         "native": "Je m'efforcerai de prolonger cette réflexion dans mes recherches postdoctorales.",
-        "phonetic": "",
+        "phonetic": "Je m'efforcerai de prolonger cette réflexion dans mes resyersyes postdoctorales.",
         "translationId": "Saya akan berupaya melanjutkan refleksi kajian ini dalam penelitian pascadoktoral saya."
       }
     ],
@@ -23266,12 +23416,12 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Sidang terbuka disertasi (soutenance) menandai masuknya kandidat secara resmi ke dalam komunitas ilmuwan sejawat."
       },
       {
-        "incorrect": "merci pour le diplôme (kesalahan umum)",
-        "correct": "je remercie les membres du jury pour l'honneur qu'ils me font",
-        "explanation": "Perhatikan keselarasan gender, jumlah, serta pilihan modus kata kerja bahasa Prancis."
+        "incorrect": "Mengabaikan pola Exposé liminaire de soutenance",
+        "correct": "Mengikuti struktur Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs",
+        "explanation": "Pastikan susunan kata dalam kalimat bahasa Prancis selalu mengikuti pola \"Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs\" agar mudah dipahami lawan bicara."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Soutenance Orale de Thèse et Dialogue avec les Pairs' mencerminkan kematangan budaya berbahasa yang sangat dihargai di dunia akademik Prancis.",
+    "culturalContext": "Dalam bahasa Prancis sehari-hari, pola \"Soutenance Orale de Thèse et Dialogue avec les Pairs\" (Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-fr-gram-50-pg-1",
@@ -23287,7 +23437,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux.\" berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya.\"."
+        "explanation": "Kalimat \"Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux.\" (dibaca: Monsier le président, mesdames et messiers les membres du jury, je vus remercie pur l'attensyong bienveillante ke vus avez portée à mes travox.) berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya.\". Kalimat ini menggunakan pola \"Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs\" (Soutenance Orale de Thèse et Dialogue avec les Pairs) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka dan etika menerima kritik konstruktif dewan penguji."
       },
       {
         "id": "q-fr-gram-50-pg-2",
@@ -23303,7 +23453,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Krisis politik ini mengkristalkan ketegangan-ketegangan sosial ekonomi yang selama ini terpendam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Je souscris pleinement à la remarque formulée par monsieur le rapporteur sur ce point méthodologique.\" berarti \"Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini.\"."
+        "explanation": "Kalimat \"Je souscris pleinement à la remarque formulée par monsieur le rapporteur sur ce point méthodologique.\" (dibaca: Je suscris pleinement à la remarke formulée par monsier le rapporter sur ce pwant méthodologike.) berarti \"Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini.\". Kalimat ini menggunakan pola \"Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs\" (Soutenance Orale de Thèse et Dialogue avec les Pairs) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka dan etika menerima kritik konstruktif dewan penguji."
       },
       {
         "id": "q-fr-gram-50-pg-3",
@@ -23319,7 +23469,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Saya akan berupaya melanjutkan refleksi kajian ini dalam penelitian pascadoktoral saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Je m'efforcerai de prolonger cette réflexion dans mes recherches postdoctorales.\" berarti \"Saya akan berupaya melanjutkan refleksi kajian ini dalam penelitian pascadoktoral saya.\"."
+        "explanation": "Kalimat \"Je m'efforcerai de prolonger cette réflexion dans mes recherches postdoctorales.\" (dibaca: Je m'efforcerai de prolonger cette réflexion dans mes resyersyes postdoctorales.) berarti \"Saya akan berupaya melanjutkan refleksi kajian ini dalam penelitian pascadoktoral saya.\". Kalimat ini menggunakan pola \"Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs\" (Soutenance Orale de Thèse et Dialogue avec les Pairs) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka dan etika menerima kritik konstruktif dewan penguji."
       },
       {
         "id": "q-fr-gram-50-pg-4",
@@ -23339,7 +23489,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-50-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Fundamental\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Soutenance Orale de Thèse et Dialogue avec les Pairs\"?",
         "options": [
           "Veuillez agréer, Monsieur le Recteur, l'expression de ma haute considération. — Terimalah, Bapak Rektor yang terhormat, ungkapan penghormatan saya yang setinggi-tingginya.",
           "Je souscris pleinement à la remarque formulée par monsieur le rapporteur sur ce point méthodologique. — Saya menyetujui sepenuhnya catatan yang disampaikan oleh Bapak Penguji mengenai poin metodologis ini.",
@@ -23353,7 +23503,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-50-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Soutenance Orale de Thèse et Dialogue avec les Pairs\"?",
         "options": [
           "Je vous saurais gré de bien vouloir examiner ma candidature avec bienveillance. — Saya akan sangat berterima kasih kiranya Anda berkenan meninjau berkas lamaran saya dengan penuh kebaikan.",
           "Dans l'attente de votre réponse, je reste à votre entière disposition. — Sembari menantikan jawaban Anda, saya senantiasa siap sedia memberikan informasi lebih lanjut.",
@@ -23367,7 +23517,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-fr-gram-50-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Stilistika dan Pragmatik\"?",
+        "prompt": "Manakah kalimat bahasa Prancis berikut yang benar dan sesuai dengan materi \"Soutenance Orale de Thèse et Dialogue avec les Pairs\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23620,7 +23770,7 @@ export const FRENCH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux.\" berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya.\"."
+        "explanation": "Kalimat \"Monsieur le Président, mesdames et messieurs les membres du jury, je vous remercie pour l'attention bienveillante que vous avez portée à mes travaux.\" (dibaca: Monsier le président, mesdames et messiers les membres du jury, je vus remercie pur l'attensyong bienveillante ke vus avez portée à mes travox.) berarti \"Bapak Ketua Sidang, Ibu dan Bapak anggota dewan penguji yang terhormat, saya mengucapkan terima kasih atas perhatian saksama yang Anda berikan terhadap karya penelitian saya.\". Kalimat ini menggunakan pola \"Exposé liminaire de soutenance / Réponses aux remarques des rapporteurs\" (Soutenance Orale de Thèse et Dialogue avec les Pairs) yang berfungsi untuk teknik penyampaian pidato pembuka sidang terbuka dan etika menerima kritik konstruktif dewan penguji."
       },
       {
         "id": "q-fr-gram-50-bb-2",

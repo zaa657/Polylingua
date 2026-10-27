@@ -78,7 +78,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah sore hari ini ada waktu luang? Mari belajar bersama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"안녕하세요, 저는 인도네시아에서 온 유학생이에요.\" berarti \"Halo, saya adalah mahasiswa internasional yang datang dari Indonesia.\"."
+        "explanation": "Kalimat \"안녕하세요, 저는 인도네시아에서 온 유학생이에요.\" (dibaca: Annyeonghaseyo, jeoneun Indonesiada-eseo on yuhaksaeng-ieyo.) berarti \"Halo, saya adalah mahasiswa internasional yang datang dari Indonesia.\". Kalimat ini menggunakan pola \"Kata Benda + 은/는 + Kata Benda + 이에요/예요\" (Partikel Topik (은/는) & Kopula Informal Sopan (-이에요/-예요)) yang berfungsi untuk partikel 은/는 menandai topik atau perbandingan. Akhiran -이에요/-예요 adalah kopula \"adalah\" dalam ragam percakapan informal sopan (Haeyo-che)."
       },
       {
         "id": "q-ko-gram-1-pg-2",
@@ -94,7 +94,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Berapa harga kopi yang ini? Yang itu harganya 3.000 Won."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"제 이름은 김민수예요. 대학생이에요.\" berarti \"Nama saya adalah Kim Minsu. Saya seorang mahasiswa.\"."
+        "explanation": "Kalimat \"제 이름은 김민수예요. 대학생이에요.\" (dibaca: Je ireumeun Kim Minsu-yeyo. Daehaksaeng-ieyo.) berarti \"Nama saya adalah Kim Minsu. Saya seorang mahasiswa.\". Kalimat ini menggunakan pola \"Kata Benda + 은/는 + Kata Benda + 이에요/예요\" (Partikel Topik (은/는) & Kopula Informal Sopan (-이에요/-예요)) yang berfungsi untuk partikel 은/는 menandai topik atau perbandingan. Akhiran -이에요/-예요 adalah kopula \"adalah\" dalam ragam percakapan informal sopan (Haeyo-che)."
       },
       {
         "id": "q-ko-gram-1-pg-3",
@@ -110,7 +110,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di mana kantin mahasiswa? Ada di sebelah perpustakaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"이분은 우리 한국어 선생님이에요.\" berarti \"Beliau ini adalah guru bahasa Korea kami.\"."
+        "explanation": "Kalimat \"이분은 우리 한국어 선생님이에요.\" (dibaca: Ibuneun uri Hangugeo seonsaengnim-ieyo.) berarti \"Beliau ini adalah guru bahasa Korea kami.\". Kalimat ini menggunakan pola \"Kata Benda + 은/는 + Kata Benda + 이에요/예요\" (Partikel Topik (은/는) & Kopula Informal Sopan (-이에요/-예요)) yang berfungsi untuk partikel 은/는 menandai topik atau perbandingan. Akhiran -이에요/-예요 adalah kopula \"adalah\" dalam ragam percakapan informal sopan (Haeyo-che)."
       },
       {
         "id": "q-ko-gram-1-pg-4",
@@ -407,7 +407,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sekarang di dompet saya tidak ada uang tunai. Apakah Anda punya kartu kredit?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"안녕하세요, 저는 인도네시아에서 온 유학생이에요.\" berarti \"Halo, saya adalah mahasiswa internasional yang datang dari Indonesia.\"."
+        "explanation": "Kalimat \"안녕하세요, 저는 인도네시아에서 온 유학생이에요.\" (dibaca: Annyeonghaseyo, jeoneun Indonesiada-eseo on yuhaksaeng-ieyo.) berarti \"Halo, saya adalah mahasiswa internasional yang datang dari Indonesia.\". Kalimat ini menggunakan pola \"Kata Benda + 은/는 + Kata Benda + 이에요/예요\" (Partikel Topik (은/는) & Kopula Informal Sopan (-이에요/-예요)) yang berfungsi untuk partikel 은/는 menandai topik atau perbandingan. Akhiran -이에요/-예요 adalah kopula \"adalah\" dalam ragam percakapan informal sopan (Haeyo-che)."
       },
       {
         "id": "q-ko-gram-1-bb-2",
@@ -543,7 +543,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah kamus bahasa Korea, dan itu di sana adalah kamus bahasa Inggris."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"지금 지갑에 현금이 없어요. 신용카드가 있어요?\" berarti \"Sekarang di dompet saya tidak ada uang tunai. Apakah Anda punya kartu kredit?\"."
+        "explanation": "Kalimat \"지금 지갑에 현금이 없어요. 신용카드가 있어요?\" (dibaca: Jigeum jigabe hyeongeumi eopseoyo. Sinyongkadeuga isseoyo?) berarti \"Sekarang di dompet saya tidak ada uang tunai. Apakah Anda punya kartu kredit?\". Kalimat ini menggunakan pola \"Subjek + 이/가 + 있어요 (Ada / Punya)  |  없어요 (Tidak Ada / Tidak Punya)\" (Partikel Subjek (이/가) & Keberadaan/Kepemilikan (있어요 / 없어요)) yang berfungsi untuk partikel 이/가 menandai subjek gramatikal spesifik. Dipadukan dengan 있어요 (ada/punya) dan 없어요 (tidak ada/tidak punya) untuk menyatakan keberadaan atau kepemilikan benda."
       },
       {
         "id": "q-ko-gram-2-pg-2",
@@ -559,7 +559,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tolong beri saya dua cangkir Iced Americano. Totalnya 6.000 Won."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"오늘 오후에 시간이 있어요? 같이 공부해요.\" berarti \"Apakah sore hari ini ada waktu luang? Mari belajar bersama.\"."
+        "explanation": "Kalimat \"오늘 오후에 시간이 있어요? 같이 공부해요.\" (dibaca: Oneul ohu-e sigani isseoyo? Gachi gongbuhaeyo.) berarti \"Apakah sore hari ini ada waktu luang? Mari belajar bersama.\". Kalimat ini menggunakan pola \"Subjek + 이/가 + 있어요 (Ada / Punya)  |  없어요 (Tidak Ada / Tidak Punya)\" (Partikel Subjek (이/가) & Keberadaan/Kepemilikan (있어요 / 없어요)) yang berfungsi untuk partikel 이/가 menandai subjek gramatikal spesifik. Dipadukan dengan 있어요 (ada/punya) dan 없어요 (tidak ada/tidak punya) untuk menyatakan keberadaan atau kepemilikan benda."
       },
       {
         "id": "q-ko-gram-2-pg-3",
@@ -575,7 +575,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di dalam ruang kelas ada banyak mahasiswa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"교실 안에 학생들이 많이 있어요.\" berarti \"Di dalam ruang kelas ada banyak mahasiswa.\"."
+        "explanation": "Kalimat \"교실 안에 학생들이 많이 있어요.\" (dibaca: Gyosil ane haksaengdeuri mani isseoyo.) berarti \"Di dalam ruang kelas ada banyak mahasiswa.\". Kalimat ini menggunakan pola \"Subjek + 이/가 + 있어요 (Ada / Punya)  |  없어요 (Tidak Ada / Tidak Punya)\" (Partikel Subjek (이/가) & Keberadaan/Kepemilikan (있어요 / 없어요)) yang berfungsi untuk partikel 이/가 menandai subjek gramatikal spesifik. Dipadukan dengan 있어요 (ada/punya) dan 없어요 (tidak ada/tidak punya) untuk menyatakan keberadaan atau kepemilikan benda."
       },
       {
         "id": "q-ko-gram-2-pg-4",
@@ -880,7 +880,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sekarang di dompet saya tidak ada uang tunai. Apakah Anda punya kartu kredit?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"지금 지갑에 현금이 없어요. 신용카드가 있어요?\" berarti \"Sekarang di dompet saya tidak ada uang tunai. Apakah Anda punya kartu kredit?\"."
+        "explanation": "Kalimat \"지금 지갑에 현금이 없어요. 신용카드가 있어요?\" (dibaca: Jigeum jigabe hyeongeumi eopseoyo. Sinyongkadeuga isseoyo?) berarti \"Sekarang di dompet saya tidak ada uang tunai. Apakah Anda punya kartu kredit?\". Kalimat ini menggunakan pola \"Subjek + 이/가 + 있어요 (Ada / Punya)  |  없어요 (Tidak Ada / Tidak Punya)\" (Partikel Subjek (이/가) & Keberadaan/Kepemilikan (있어요 / 없어요)) yang berfungsi untuk partikel 이/가 menandai subjek gramatikal spesifik. Dipadukan dengan 있어요 (ada/punya) dan 없어요 (tidak ada/tidak punya) untuk menyatakan keberadaan atau kepemilikan benda."
       },
       {
         "id": "q-ko-gram-2-bb-2",
@@ -1023,7 +1023,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di ruang kelas kami ada lima belas orang mahasiswa asing."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"이 커피는 얼마예요? 그것은 삼천 원이에요.\" berarti \"Berapa harga kopi yang ini? Yang itu harganya 3.000 Won.\"."
+        "explanation": "Kalimat \"이 커피는 얼마예요? 그것은 삼천 원이에요.\" (dibaca: I keopineun eolmayeyo? Geugeoseun samcheon won-ieyo.) berarti \"Berapa harga kopi yang ini? Yang itu harganya 3.000 Won.\". Kalimat ini menggunakan pola \"이/그/저 + Noun  |  이것/그것/저것 + 은/는  |  여기/거기/저기 (Tempat)\" (Kata Tunjuk Benda & Lokasi: 이, 그, 저 & 이것, 그것, 저것) yang berfungsi untuk sistem kata tunjuk bahasa Korea dibagi berdasar jarak: 이 (dekat pembicara: ini), 그 (dekat pendengar atau dibicarakan sebelumnya: itu), dan 저 (jauh dari keduanya: itu di sana)."
       },
       {
         "id": "q-ko-gram-3-pg-2",
@@ -1039,7 +1039,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah kamus bahasa Korea, dan itu di sana adalah kamus bahasa Inggris."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"이것은 한국어 사전이고, 저것은 영어 사전이에요.\" berarti \"Ini adalah kamus bahasa Korea, dan itu di sana adalah kamus bahasa Inggris.\"."
+        "explanation": "Kalimat \"이것은 한국어 사전이고, 저것은 영어 사전이에요.\" (dibaca: Igeoseun Hangugeo sajeonigo, jeogeoseun Yeongeo sajeon-ieyo.) berarti \"Ini adalah kamus bahasa Korea, dan itu di sana adalah kamus bahasa Inggris.\". Kalimat ini menggunakan pola \"이/그/저 + Noun  |  이것/그것/저것 + 은/는  |  여기/거기/저기 (Tempat)\" (Kata Tunjuk Benda & Lokasi: 이, 그, 저 & 이것, 그것, 저것) yang berfungsi untuk sistem kata tunjuk bahasa Korea dibagi berdasar jarak: 이 (dekat pembicara: ini), 그 (dekat pendengar atau dibicarakan sebelumnya: itu), dan 저 (jauh dari keduanya: itu di sana)."
       },
       {
         "id": "q-ko-gram-3-pg-3",
@@ -1055,7 +1055,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pada siang hari saya makan bibimbap bersama teman."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"학생 식당이 어디예요? 도서관 옆에 있어요.\" berarti \"Di mana kantin mahasiswa? Ada di sebelah perpustakaan.\"."
+        "explanation": "Kalimat \"학생 식당이 어디예요? 도서관 옆에 있어요.\" (dibaca: Haksaeng sikdangi eodiyeyo? Doseogwan yeope isseoyo.) berarti \"Di mana kantin mahasiswa? Ada di sebelah perpustakaan.\". Kalimat ini menggunakan pola \"이/그/저 + Noun  |  이것/그것/저것 + 은/는  |  여기/거기/저기 (Tempat)\" (Kata Tunjuk Benda & Lokasi: 이, 그, 저 & 이것, 그것, 저것) yang berfungsi untuk sistem kata tunjuk bahasa Korea dibagi berdasar jarak: 이 (dekat pembicara: ini), 그 (dekat pendengar atau dibicarakan sebelumnya: itu), dan 저 (jauh dari keduanya: itu di sana)."
       },
       {
         "id": "q-ko-gram-3-pg-4",
@@ -1358,7 +1358,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tolong beri saya dua cangkir Iced Americano. Totalnya 6.000 Won."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"이 커피는 얼마예요? 그것은 삼천 원이에요.\" berarti \"Berapa harga kopi yang ini? Yang itu harganya 3.000 Won.\"."
+        "explanation": "Kalimat \"이 커피는 얼마예요? 그것은 삼천 원이에요.\" (dibaca: I keopineun eolmayeyo? Geugeoseun samcheon won-ieyo.) berarti \"Berapa harga kopi yang ini? Yang itu harganya 3.000 Won.\". Kalimat ini menggunakan pola \"이/그/저 + Noun  |  이것/그것/저것 + 은/는  |  여기/거기/저기 (Tempat)\" (Kata Tunjuk Benda & Lokasi: 이, 그, 저 & 이것, 그것, 저것) yang berfungsi untuk sistem kata tunjuk bahasa Korea dibagi berdasar jarak: 이 (dekat pembicara: ini), 그 (dekat pendengar atau dibicarakan sebelumnya: itu), dan 저 (jauh dari keduanya: itu di sana)."
       },
       {
         "id": "q-ko-gram-3-bb-2",
@@ -1504,7 +1504,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tolong beri saya dua cangkir Iced Americano. Totalnya 6.000 Won."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"아이스 아메리카노 두 잔 주세요. 모두 육천 원이에요.\" berarti \"Tolong beri saya dua cangkir Iced Americano. Totalnya 6.000 Won.\"."
+        "explanation": "Kalimat \"아이스 아메리카노 두 잔 주세요. 모두 육천 원이에요.\" (dibaca: Aiseu Amerikano du jan juseyo. Modu yukcheon won-ieyo.) berarti \"Tolong beri saya dua cangkir Iced Americano. Totalnya 6.000 Won.\". Kalimat ini menggunakan pola \"Angka Asli Korea + Satuan Penggolong  |  Angka Sino-Korea + Tanggal / Menit / Uang\" (Angka Sino-Korea vs Korea Asli & Satuan Penggolong) yang berfungsi untuk bahasa Korea memiliki dua sistem angka yang digunakan secara berdampingan: Angka Asli Korea (untuk menghitung jumlah benda, orang, jam) dan Angka Sino-Korea (untuk menit, tanggal, tahun, nomor telepon, dan uang)."
       },
       {
         "id": "q-ko-gram-4-pg-2",
@@ -1520,7 +1520,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di akhir pekan saya pergi ke Myeongdong. Lalu di toserba saya membeli pakaian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"우리 교실에는 외국인 학생이 열다섯 명 있어요.\" berarti \"Di ruang kelas kami ada lima belas orang mahasiswa asing.\"."
+        "explanation": "Kalimat \"우리 교실에는 외국인 학생이 열다섯 명 있어요.\" (dibaca: Uri gyosireneun oegugin haksaengi yeoldaseot myeong isseoyo.) berarti \"Di ruang kelas kami ada lima belas orang mahasiswa asing.\". Kalimat ini menggunakan pola \"Angka Asli Korea + Satuan Penggolong  |  Angka Sino-Korea + Tanggal / Menit / Uang\" (Angka Sino-Korea vs Korea Asli & Satuan Penggolong) yang berfungsi untuk bahasa Korea memiliki dua sistem angka yang digunakan secara berdampingan: Angka Asli Korea (untuk menghitung jumlah benda, orang, jam) dan Angka Sino-Korea (untuk menit, tanggal, tahun, nomor telepon, dan uang)."
       },
       {
         "id": "q-ko-gram-4-pg-3",
@@ -1536,7 +1536,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Besok pagi saya mengajukan visa di kedutaan besar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"서점에서 한국어 책 세 권을 샀어요.\" berarti \"Saya membeli tiga jilid buku bahasa Korea di toko buku.\"."
+        "explanation": "Kalimat \"서점에서 한국어 책 세 권을 샀어요.\" (dibaca: Seojeom-eseo Hangugeo chaek se gwoneul sasseoyo.) berarti \"Saya membeli tiga jilid buku bahasa Korea di toko buku.\". Kalimat ini menggunakan pola \"Angka Asli Korea + Satuan Penggolong  |  Angka Sino-Korea + Tanggal / Menit / Uang\" (Angka Sino-Korea vs Korea Asli & Satuan Penggolong) yang berfungsi untuk bahasa Korea memiliki dua sistem angka yang digunakan secara berdampingan: Angka Asli Korea (untuk menghitung jumlah benda, orang, jam) dan Angka Sino-Korea (untuk menit, tanggal, tahun, nomor telepon, dan uang)."
       },
       {
         "id": "q-ko-gram-4-pg-4",
@@ -1839,7 +1839,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap pagi saya belajar bahasa Korea di perpustakaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"아이스 아메리카노 두 잔 주세요. 모두 육천 원이에요.\" berarti \"Tolong beri saya dua cangkir Iced Americano. Totalnya 6.000 Won.\"."
+        "explanation": "Kalimat \"아이스 아메리카노 두 잔 주세요. 모두 육천 원이에요.\" (dibaca: Aiseu Amerikano du jan juseyo. Modu yukcheon won-ieyo.) berarti \"Tolong beri saya dua cangkir Iced Americano. Totalnya 6.000 Won.\". Kalimat ini menggunakan pola \"Angka Asli Korea + Satuan Penggolong  |  Angka Sino-Korea + Tanggal / Menit / Uang\" (Angka Sino-Korea vs Korea Asli & Satuan Penggolong) yang berfungsi untuk bahasa Korea memiliki dua sistem angka yang digunakan secara berdampingan: Angka Asli Korea (untuk menghitung jumlah benda, orang, jam) dan Angka Sino-Korea (untuk menit, tanggal, tahun, nomor telepon, dan uang)."
       },
       {
         "id": "q-ko-gram-4-bb-2",
@@ -1970,7 +1970,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sekarang saya pergi ke perpustakaan. Saya menulis laporan di perpustakaan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"저는 매일 아침 도서관에서 한국어를 공부해요.\" berarti \"Setiap pagi saya belajar bahasa Korea di perpustakaan.\"."
+        "explanation": "Kalimat \"저는 매일 아침 도서관에서 한국어를 공부해요.\" (dibaca: Jeoneun maeil achim doseogwan-eseo hangugeo-reul gongbuhaeyo.) berarti \"Setiap pagi saya belajar bahasa Korea di perpustakaan.\". Kalimat ini menggunakan pola \"Subjek + Noun + 을/를 + V-akar + -아요 / -어요 / -해요\" (Partikel Objek (을/를) & Akhiran Kata Kerja Informal Sopan (-아요/-어요)) yang berfungsi untuk partikel 을/를 menandai objek penderita kalimat. Akhiran -아요/-어요 adalah pola konjugasi kata kerja paling fundamental dalam bahasa Korea berdasarkan aturan harmoni vokal."
       },
       {
         "id": "q-ko-gram-5-pg-2",
@@ -1986,7 +1986,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kemarin saya menonton film Korea. Besok saya akan bertemu dengan teman."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"저는 저녁에 기숙사에서 한국 드라마를 봐요.\" berarti \"Saya pada malam hari menonton drama Korea di asrama.\"."
+        "explanation": "Kalimat \"저는 저녁에 기숙사에서 한국 드라마를 봐요.\" (dibaca: Jeoneun jeonyeoge gisuksa-eseo Hanguk deuramareul bwayo.) berarti \"Saya pada malam hari menonton drama Korea di asrama.\". Kalimat ini menggunakan pola \"Subjek + Noun + 을/를 + V-akar + -아요 / -어요 / -해요\" (Partikel Objek (을/를) & Akhiran Kata Kerja Informal Sopan (-아요/-어요)) yang berfungsi untuk partikel 을/를 menandai objek penderita kalimat. Akhiran -아요/-어요 adalah pola konjugasi kata kerja paling fundamental dalam bahasa Korea berdasarkan aturan harmoni vokal."
       },
       {
         "id": "q-ko-gram-5-pg-3",
@@ -2002,7 +2002,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pada liburan semester kali ini saya akan pulang ke Indonesia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"점심에 친구하고 같이 비빔밥을 먹어요.\" berarti \"Pada siang hari saya makan bibimbap bersama teman.\"."
+        "explanation": "Kalimat \"점심에 친구하고 같이 비빔밥을 먹어요.\" (dibaca: Jeomsime chinguhago gachi bibimbabeul meogeoyo.) berarti \"Pada siang hari saya makan bibimbap bersama teman.\". Kalimat ini menggunakan pola \"Subjek + Noun + 을/를 + V-akar + -아요 / -어요 / -해요\" (Partikel Objek (을/를) & Akhiran Kata Kerja Informal Sopan (-아요/-어요)) yang berfungsi untuk partikel 을/를 menandai objek penderita kalimat. Akhiran -아요/-어요 adalah pola konjugasi kata kerja paling fundamental dalam bahasa Korea berdasarkan aturan harmoni vokal."
       },
       {
         "id": "q-ko-gram-5-pg-4",
@@ -2305,7 +2305,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di akhir pekan saya pergi ke Myeongdong. Lalu di toserba saya membeli pakaian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"저는 매일 아침 도서관에서 한국어를 공부해요.\" berarti \"Setiap pagi saya belajar bahasa Korea di perpustakaan.\"."
+        "explanation": "Kalimat \"저는 매일 아침 도서관에서 한국어를 공부해요.\" (dibaca: Jeoneun maeil achim doseogwan-eseo hangugeo-reul gongbuhaeyo.) berarti \"Setiap pagi saya belajar bahasa Korea di perpustakaan.\". Kalimat ini menggunakan pola \"Subjek + Noun + 을/를 + V-akar + -아요 / -어요 / -해요\" (Partikel Objek (을/를) & Akhiran Kata Kerja Informal Sopan (-아요/-어요)) yang berfungsi untuk partikel 을/를 menandai objek penderita kalimat. Akhiran -아요/-어요 adalah pola konjugasi kata kerja paling fundamental dalam bahasa Korea berdasarkan aturan harmoni vokal."
       },
       {
         "id": "q-ko-gram-5-bb-2",
@@ -2441,7 +2441,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Minggu lalu saya pergi berlibur bersama keluarga ke Busan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"주말에 명동에 가요. 그리고 백화점에서 옷을 사요.\" berarti \"Di akhir pekan saya pergi ke Myeongdong. Lalu di toserba saya membeli pakaian.\"."
+        "explanation": "Kalimat \"주말에 명동에 가요. 그리고 백화점에서 옷을 사요.\" (dibaca: Jumare Myeongdong-e gayo. Geurigo baekhwajeom-eseo oseul sayo.) berarti \"Di akhir pekan saya pergi ke Myeongdong. Lalu di toserba saya membeli pakaian.\". Kalimat ini menggunakan pola \"Tempat + 에 + 있어요/가요/와요  |  Tempat + 에서 + Kata Kerja Aksi Dinamis\" (Partikel Lokasi: Titik Keberadaan/Tujuan (에) vs Lokasi Aksi (에서)) yang berfungsi untuk pembeda kritis tata bahasa Korea pemula: partikel 에 digunakan untuk lokasi keberadaan statis (있어요) atau tujuan perpindahan (가요/와요), sedangkan 에서 digunakan untuk lokasi berlangsungnya aksi aktif (makan, belajar, bekerja)."
       },
       {
         "id": "q-ko-gram-6-pg-2",
@@ -2457,7 +2457,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena terkena flu, hari ini saya tidak pergi ke kolam renang. Maka dari itu saya tidak bisa bertemu teman."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"지금 도서관에 가요. 도서관에서 리포트를 써요.\" berarti \"Sekarang saya pergi ke perpustakaan. Saya menulis laporan di perpustakaan.\"."
+        "explanation": "Kalimat \"지금 도서관에 가요. 도서관에서 리포트를 써요.\" (dibaca: Jigeum doseogwane gayo. Doseogwan-eseo ripoteureul sseoyo.) berarti \"Sekarang saya pergi ke perpustakaan. Saya menulis laporan di perpustakaan.\". Kalimat ini menggunakan pola \"Tempat + 에 + 있어요/가요/와요  |  Tempat + 에서 + Kata Kerja Aksi Dinamis\" (Partikel Lokasi: Titik Keberadaan/Tujuan (에) vs Lokasi Aksi (에서)) yang berfungsi untuk pembeda kritis tata bahasa Korea pemula: partikel 에 digunakan untuk lokasi keberadaan statis (있어요) atau tujuan perpindahan (가요/와요), sedangkan 에서 digunakan untuk lokasi berlangsungnya aksi aktif (makan, belajar, bekerja)."
       },
       {
         "id": "q-ko-gram-6-pg-3",
@@ -2473,7 +2473,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Besok pagi saya mengajukan visa di kedutaan besar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"내일 오전에 대사관에서 비자를 신청해요.\" berarti \"Besok pagi saya mengajukan visa di kedutaan besar.\"."
+        "explanation": "Kalimat \"내일 오전에 대사관에서 비자를 신청해요.\" (dibaca: Naeil ojeone daesagwan-eseo bijareul sincheonghaeyo.) berarti \"Besok pagi saya mengajukan visa di kedutaan besar.\". Kalimat ini menggunakan pola \"Tempat + 에 + 있어요/가요/와요  |  Tempat + 에서 + Kata Kerja Aksi Dinamis\" (Partikel Lokasi: Titik Keberadaan/Tujuan (에) vs Lokasi Aksi (에서)) yang berfungsi untuk pembeda kritis tata bahasa Korea pemula: partikel 에 digunakan untuk lokasi keberadaan statis (있어요) atau tujuan perpindahan (가요/와요), sedangkan 에서 digunakan untuk lokasi berlangsungnya aksi aktif (makan, belajar, bekerja)."
       },
       {
         "id": "q-ko-gram-6-pg-4",
@@ -2772,7 +2772,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di akhir pekan saya pergi ke Myeongdong. Lalu di toserba saya membeli pakaian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"주말에 명동에 가요. 그리고 백화점에서 옷을 사요.\" berarti \"Di akhir pekan saya pergi ke Myeongdong. Lalu di toserba saya membeli pakaian.\"."
+        "explanation": "Kalimat \"주말에 명동에 가요. 그리고 백화점에서 옷을 사요.\" (dibaca: Jumare Myeongdong-e gayo. Geurigo baekhwajeom-eseo oseul sayo.) berarti \"Di akhir pekan saya pergi ke Myeongdong. Lalu di toserba saya membeli pakaian.\". Kalimat ini menggunakan pola \"Tempat + 에 + 있어요/가요/와요  |  Tempat + 에서 + Kata Kerja Aksi Dinamis\" (Partikel Lokasi: Titik Keberadaan/Tujuan (에) vs Lokasi Aksi (에서)) yang berfungsi untuk pembeda kritis tata bahasa Korea pemula: partikel 에 digunakan untuk lokasi keberadaan statis (있어요) atau tujuan perpindahan (가요/와요), sedangkan 에서 digunakan untuk lokasi berlangsungnya aksi aktif (makan, belajar, bekerja)."
       },
       {
         "id": "q-ko-gram-6-bb-2",
@@ -2907,7 +2907,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tadi pagi karena bangun kesiangan saya tidak makan sarapan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"어제는 한국 영화를 봤어요. 내일은 친구를 만날 거예요.\" berarti \"Kemarin saya menonton film Korea. Besok saya akan bertemu dengan teman.\"."
+        "explanation": "Kalimat \"어제는 한국 영화를 봤어요. 내일은 친구를 만날 거예요.\" (dibaca: Eojeneun Hanguk yeonghwa-reul bwasseoyo. Naeireun chingu-reul mannal geoyeyo.) berarti \"Kemarin saya menonton film Korea. Besok saya akan bertemu dengan teman.\". Kalimat ini menggunakan pola \"V-akar + -았/었어요 (Lampau)  |  V-akar + -(으)ㄹ 거예요 (Akan / Masa Depan)\" (Bentuk Waktu Lampau (-았/었어요) & Rencana Masa Depan (-(으)ㄹ 거예요)) yang berfungsi untuk kuasai dimensi waktu dalam bahasa Korea: menyatakan peristiwa yang telah terjadi di masa lalu dengan -았/었어요, serta menyatakan rencana niat di masa depan dengan -(으)ㄹ 거예요."
       },
       {
         "id": "q-ko-gram-7-pg-2",
@@ -2923,7 +2923,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Minggu lalu saya pergi berlibur bersama keluarga ke Busan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"지난주에 부산으로 가족 여행을 다녀왔어요.\" berarti \"Minggu lalu saya pergi berlibur bersama keluarga ke Busan.\"."
+        "explanation": "Kalimat \"지난주에 부산으로 가족 여행을 다녀왔어요.\" (dibaca: Jinanju-e Busaneuro gajok yeohaengeul danyeowasseoyo.) berarti \"Minggu lalu saya pergi berlibur bersama keluarga ke Busan.\". Kalimat ini menggunakan pola \"V-akar + -았/었어요 (Lampau)  |  V-akar + -(으)ㄹ 거예요 (Akan / Masa Depan)\" (Bentuk Waktu Lampau (-았/었어요) & Rencana Masa Depan (-(으)ㄹ 거예요)) yang berfungsi untuk kuasai dimensi waktu dalam bahasa Korea: menyatakan peristiwa yang telah terjadi di masa lalu dengan -았/었어요, serta menyatakan rencana niat di masa depan dengan -(으)ㄹ 거예요."
       },
       {
         "id": "q-ko-gram-7-pg-3",
@@ -2939,7 +2939,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika ada kosakata yang tidak diketahui, silakan bertanya kapan saja."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"이번 방학에는 인도네시아에 돌아갈 거예요.\" berarti \"Pada liburan semester kali ini saya akan pulang ke Indonesia.\"."
+        "explanation": "Kalimat \"이번 방학에는 인도네시아에 돌아갈 거예요.\" (dibaca: Ibeon banghageneun Indonesia-e doragal geoyeyo.) berarti \"Pada liburan semester kali ini saya akan pulang ke Indonesia.\". Kalimat ini menggunakan pola \"V-akar + -았/었어요 (Lampau)  |  V-akar + -(으)ㄹ 거예요 (Akan / Masa Depan)\" (Bentuk Waktu Lampau (-았/었어요) & Rencana Masa Depan (-(으)ㄹ 거예요)) yang berfungsi untuk kuasai dimensi waktu dalam bahasa Korea: menyatakan peristiwa yang telah terjadi di masa lalu dengan -았/었어요, serta menyatakan rencana niat di masa depan dengan -(으)ㄹ 거예요."
       },
       {
         "id": "q-ko-gram-7-pg-4",
@@ -3236,7 +3236,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena terkena flu, hari ini saya tidak pergi ke kolam renang. Maka dari itu saya tidak bisa bertemu teman."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"어제는 한국 영화를 봤어요. 내일은 친구를 만날 거예요.\" berarti \"Kemarin saya menonton film Korea. Besok saya akan bertemu dengan teman.\"."
+        "explanation": "Kalimat \"어제는 한국 영화를 봤어요. 내일은 친구를 만날 거예요.\" (dibaca: Eojeneun Hanguk yeonghwa-reul bwasseoyo. Naeireun chingu-reul mannal geoyeyo.) berarti \"Kemarin saya menonton film Korea. Besok saya akan bertemu dengan teman.\". Kalimat ini menggunakan pola \"V-akar + -았/었어요 (Lampau)  |  V-akar + -(으)ㄹ 거예요 (Akan / Masa Depan)\" (Bentuk Waktu Lampau (-았/었어요) & Rencana Masa Depan (-(으)ㄹ 거예요)) yang berfungsi untuk kuasai dimensi waktu dalam bahasa Korea: menyatakan peristiwa yang telah terjadi di masa lalu dengan -았/었어요, serta menyatakan rencana niat di masa depan dengan -(으)ㄹ 거예요."
       },
       {
         "id": "q-ko-gram-7-bb-2",
@@ -3370,7 +3370,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena terkena flu, hari ini saya tidak pergi ke kolam renang. Maka dari itu saya tidak bisa bertemu teman."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"감기에 걸려서 오늘은 수영장에 가지 않아요. 그래서 친구를 못 만나요.\" berarti \"Karena terkena flu, hari ini saya tidak pergi ke kolam renang. Maka dari itu saya tidak bisa bertemu teman.\"."
+        "explanation": "Kalimat \"감기에 걸려서 오늘은 수영장에 가지 않아요. 그래서 친구를 못 만나요.\" (dibaca: Gamgie geollyeoseo oneureun suyeongjang-e gaji anayo. Geuraeseo chingureul mot mannayo.) berarti \"Karena terkena flu, hari ini saya tidak pergi ke kolam renang. Maka dari itu saya tidak bisa bertemu teman.\". Kalimat ini menggunakan pola \"안 + V (Singkat)  |  V-akar + -지 않아요 (Panjang)  |  못 + V (Tidak Mampu)\" (Kalimat Negasi: Penyangkalan (안 vs -지 않다) & Ketidakmampuan (못)) yang berfungsi untuk bahasa Korea membedakan negasi \"tidak mau\" (안 / -지 않다) dengan ketidakmampuan karena keterbatasan fisik/situasi \"tidak bisa\" (못 / -지 못하다)."
       },
       {
         "id": "q-ko-gram-8-pg-2",
@@ -3386,7 +3386,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pada akhir pekan saya belajar di perpustakaan lalu makan malam bersama teman-teman."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"오늘 아침에 늦게 일어나서 아침밥을 안 먹었어요.\" berarti \"Tadi pagi karena bangun kesiangan saya tidak makan sarapan.\"."
+        "explanation": "Kalimat \"오늘 아침에 늦게 일어나서 아침밥을 안 먹었어요.\" (dibaca: Oneul achime neutge ireonaseo achimbabeul an meogeosseoyo.) berarti \"Tadi pagi karena bangun kesiangan saya tidak makan sarapan.\". Kalimat ini menggunakan pola \"안 + V (Singkat)  |  V-akar + -지 않아요 (Panjang)  |  못 + V (Tidak Mampu)\" (Kalimat Negasi: Penyangkalan (안 vs -지 않다) & Ketidakmampuan (못)) yang berfungsi untuk bahasa Korea membedakan negasi \"tidak mau\" (안 / -지 않다) dengan ketidakmampuan karena keterbatasan fisik/situasi \"tidak bisa\" (못 / -지 못하다)."
       },
       {
         "id": "q-ko-gram-8-pg-3",
@@ -3402,7 +3402,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pelafalan bahasa Korea sedikit sulit, tetapi mempelajarinya menyenangkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"저는 매운 음식을 잘 못 먹어요.\" berarti \"Saya tidak terlalu bisa makan makanan pedas.\"."
+        "explanation": "Kalimat \"저는 매운 음식을 잘 못 먹어요.\" (dibaca: Jeoneun maeun eumsigeul jal mot meogeoyo.) berarti \"Saya tidak terlalu bisa makan makanan pedas.\". Kalimat ini menggunakan pola \"안 + V (Singkat)  |  V-akar + -지 않아요 (Panjang)  |  못 + V (Tidak Mampu)\" (Kalimat Negasi: Penyangkalan (안 vs -지 않다) & Ketidakmampuan (못)) yang berfungsi untuk bahasa Korea membedakan negasi \"tidak mau\" (안 / -지 않다) dengan ketidakmampuan karena keterbatasan fisik/situasi \"tidak bisa\" (못 / -지 못하다)."
       },
       {
         "id": "q-ko-gram-8-pg-4",
@@ -3703,7 +3703,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Silakan duduk di sebelah sini. Silakan lihat buku menunya dan pesan dengan santai."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"감기에 걸려서 오늘은 수영장에 가지 않아요. 그래서 친구를 못 만나요.\" berarti \"Karena terkena flu, hari ini saya tidak pergi ke kolam renang. Maka dari itu saya tidak bisa bertemu teman.\"."
+        "explanation": "Kalimat \"감기에 걸려서 오늘은 수영장에 가지 않아요. 그래서 친구를 못 만나요.\" (dibaca: Gamgie geollyeoseo oneureun suyeongjang-e gaji anayo. Geuraeseo chingureul mot mannayo.) berarti \"Karena terkena flu, hari ini saya tidak pergi ke kolam renang. Maka dari itu saya tidak bisa bertemu teman.\". Kalimat ini menggunakan pola \"안 + V (Singkat)  |  V-akar + -지 않아요 (Panjang)  |  못 + V (Tidak Mampu)\" (Kalimat Negasi: Penyangkalan (안 vs -지 않다) & Ketidakmampuan (못)) yang berfungsi untuk bahasa Korea membedakan negasi \"tidak mau\" (안 / -지 않다) dengan ketidakmampuan karena keterbatasan fisik/situasi \"tidak bisa\" (못 / -지 못하다)."
       },
       {
         "id": "q-ko-gram-8-bb-2",
@@ -3833,7 +3833,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Seoul transportasinya nyaman dan banyak tempat menarik untuk dilihat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"이쪽으로 앉으세요. 메뉴판을 보시고 천천히 주문하세요.\" berarti \"Silakan duduk di sebelah sini. Silakan lihat buku menunya dan pesan dengan santai.\"."
+        "explanation": "Kalimat \"이쪽으로 앉으세요. 메뉴판을 보시고 천천히 주문하세요.\" (dibaca: Ijjog-euro anj-euseyo. Menyupaneul boshigo cheoncheonhi jumunhaseyo.) berarti \"Silakan duduk di sebelah sini. Silakan lihat buku menunya dan pesan dengan santai.\". Kalimat ini menggunakan pola \"V-akar + -(으)세요 (Silakan lakukan...)  |  V-akar + -지 마세요 (Jangan...)\" (Permintaan Halus (-(으)세요) & Bentuk Larangan Sopan (-지 마세요)) yang berfungsi untuk pola -(으)세요 digunakan untuk memberi instruksi atau mempersilakan orang lain secara hormat dan santun. Pola -지 마세요 digunakan untuk larangan halus."
       },
       {
         "id": "q-ko-gram-9-pg-2",
@@ -3849,7 +3849,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Halo, saya adalah mahasiswa internasional yang datang dari Indonesia."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"박물관 안에서는 사진을 찍지 마세요.\" berarti \"Tolong jangan memotret di dalam museum.\"."
+        "explanation": "Kalimat \"박물관 안에서는 사진을 찍지 마세요.\" (dibaca: Bangmulgwan aneseoneun sajineul jjikji maseyo.) berarti \"Tolong jangan memotret di dalam museum.\". Kalimat ini menggunakan pola \"V-akar + -(으)세요 (Silakan lakukan...)  |  V-akar + -지 마세요 (Jangan...)\" (Permintaan Halus (-(으)세요) & Bentuk Larangan Sopan (-지 마세요)) yang berfungsi untuk pola -(으)세요 digunakan untuk memberi instruksi atau mempersilakan orang lain secara hormat dan santun. Pola -지 마세요 digunakan untuk larangan halus."
       },
       {
         "id": "q-ko-gram-9-pg-3",
@@ -3865,7 +3865,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Beliau ini adalah guru bahasa Korea kami."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"모르는 단어가 있으면 언제든지 질문하세요.\" berarti \"Jika ada kosakata yang tidak diketahui, silakan bertanya kapan saja.\"."
+        "explanation": "Kalimat \"모르는 단어가 있으면 언제든지 질문하세요.\" (dibaca: Moreuneun daneoga isseumyeon eonjedeunji jilmunhaseyo.) berarti \"Jika ada kosakata yang tidak diketahui, silakan bertanya kapan saja.\". Kalimat ini menggunakan pola \"V-akar + -(으)세요 (Silakan lakukan...)  |  V-akar + -지 마세요 (Jangan...)\" (Permintaan Halus (-(으)세요) & Bentuk Larangan Sopan (-지 마세요)) yang berfungsi untuk pola -(으)세요 digunakan untuk memberi instruksi atau mempersilakan orang lain secara hormat dan santun. Pola -지 마세요 digunakan untuk larangan halus."
       },
       {
         "id": "q-ko-gram-9-pg-4",
@@ -4166,7 +4166,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pada akhir pekan saya belajar di perpustakaan lalu makan malam bersama teman-teman."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"이쪽으로 앉으세요. 메뉴판을 보시고 천천히 주문하세요.\" berarti \"Silakan duduk di sebelah sini. Silakan lihat buku menunya dan pesan dengan santai.\"."
+        "explanation": "Kalimat \"이쪽으로 앉으세요. 메뉴판을 보시고 천천히 주문하세요.\" (dibaca: Ijjog-euro anj-euseyo. Menyupaneul boshigo cheoncheonhi jumunhaseyo.) berarti \"Silakan duduk di sebelah sini. Silakan lihat buku menunya dan pesan dengan santai.\". Kalimat ini menggunakan pola \"V-akar + -(으)세요 (Silakan lakukan...)  |  V-akar + -지 마세요 (Jangan...)\" (Permintaan Halus (-(으)세요) & Bentuk Larangan Sopan (-지 마세요)) yang berfungsi untuk pola -(으)세요 digunakan untuk memberi instruksi atau mempersilakan orang lain secara hormat dan santun. Pola -지 마세요 digunakan untuk larangan halus."
       },
       {
         "id": "q-ko-gram-9-bb-2",
@@ -4304,7 +4304,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Nama saya adalah Kim Minsu. Saya seorang mahasiswa."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"주말에는 도서관에서 공부하고 친구들과 저녁을 먹어요.\" berarti \"Pada akhir pekan saya belajar di perpustakaan lalu makan malam bersama teman-teman.\"."
+        "explanation": "Kalimat \"주말에는 도서관에서 공부하고 친구들과 저녁을 먹어요.\" (dibaca: Jumareneun doseogwan-eseo gongbuhago chingudeulgwa jeonyeogeul meogeoyo.) berarti \"Pada akhir pekan saya belajar di perpustakaan lalu makan malam bersama teman-teman.\". Kalimat ini menggunakan pola \"Klausa 1 + -고 (Dan / Lalu) + Klausa 2  |  Klausa 1 + -지만 (Tetapi) + Klausa 2\" (Konjungsi Penghubung (-고, -지만) & Evaluasi Komprehensif TOPIK 1) yang berfungsi untuk kuasai konjungsi dasar penggabung kalimat majemuk: -고 (penjajaran setara dan urutan waktu) serta -지만 (kontras pertentangan), dan tuntaskan evaluasi penuh 10 bab fondasi TOPIK 1!."
       },
       {
         "id": "q-ko-gram-10-pg-2",
@@ -4320,7 +4320,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sekarang di dompet saya tidak ada uang tunai. Apakah Anda punya kartu kredit?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"서울은 교통이 편리하고 볼거리가 많아요.\" berarti \"Seoul transportasinya nyaman dan banyak tempat menarik untuk dilihat.\"."
+        "explanation": "Kalimat \"서울은 교통이 편리하고 볼거리가 많아요.\" (dibaca: Seoureun gyotongi pyeollihago bolgeoriga manayo.) berarti \"Seoul transportasinya nyaman dan banyak tempat menarik untuk dilihat.\". Kalimat ini menggunakan pola \"Klausa 1 + -고 (Dan / Lalu) + Klausa 2  |  Klausa 1 + -지만 (Tetapi) + Klausa 2\" (Konjungsi Penghubung (-고, -지만) & Evaluasi Komprehensif TOPIK 1) yang berfungsi untuk kuasai konjungsi dasar penggabung kalimat majemuk: -고 (penjajaran setara dan urutan waktu) serta -지만 (kontras pertentangan), dan tuntaskan evaluasi penuh 10 bab fondasi TOPIK 1!."
       },
       {
         "id": "q-ko-gram-10-pg-3",
@@ -4336,7 +4336,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pelafalan bahasa Korea sedikit sulit, tetapi mempelajarinya menyenangkan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"한국어 발음은 조금 어렵지만 배우기가 재미있어요.\" berarti \"Pelafalan bahasa Korea sedikit sulit, tetapi mempelajarinya menyenangkan.\"."
+        "explanation": "Kalimat \"한국어 발음은 조금 어렵지만 배우기가 재미있어요.\" (dibaca: Hangugeo bareumeun jogeum eoryeopjiman baeugiga jaemiisseoyo.) berarti \"Pelafalan bahasa Korea sedikit sulit, tetapi mempelajarinya menyenangkan.\". Kalimat ini menggunakan pola \"Klausa 1 + -고 (Dan / Lalu) + Klausa 2  |  Klausa 1 + -지만 (Tetapi) + Klausa 2\" (Konjungsi Penghubung (-고, -지만) & Evaluasi Komprehensif TOPIK 1) yang berfungsi untuk kuasai konjungsi dasar penggabung kalimat majemuk: -고 (penjajaran setara dan urutan waktu) serta -지만 (kontras pertentangan), dan tuntaskan evaluasi penuh 10 bab fondasi TOPIK 1!."
       },
       {
         "id": "q-ko-gram-10-pg-4",
@@ -4635,7 +4635,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pada akhir pekan saya belajar di perpustakaan lalu makan malam bersama teman-teman."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"주말에는 도서관에서 공부하고 친구들과 저녁을 먹어요.\" berarti \"Pada akhir pekan saya belajar di perpustakaan lalu makan malam bersama teman-teman.\"."
+        "explanation": "Kalimat \"주말에는 도서관에서 공부하고 친구들과 저녁을 먹어요.\" (dibaca: Jumareneun doseogwan-eseo gongbuhago chingudeulgwa jeonyeogeul meogeoyo.) berarti \"Pada akhir pekan saya belajar di perpustakaan lalu makan malam bersama teman-teman.\". Kalimat ini menggunakan pola \"Klausa 1 + -고 (Dan / Lalu) + Klausa 2  |  Klausa 1 + -지만 (Tetapi) + Klausa 2\" (Konjungsi Penghubung (-고, -지만) & Evaluasi Komprehensif TOPIK 1) yang berfungsi untuk kuasai konjungsi dasar penggabung kalimat majemuk: -고 (penjajaran setara dan urutan waktu) serta -지만 (kontras pertentangan), dan tuntaskan evaluasi penuh 10 bab fondasi TOPIK 1!."
       },
       {
         "id": "q-ko-gram-10-bb-2",
@@ -4782,7 +4782,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kebetulan tenggorokan saya haus dan baru saja hendak minum air dingin, terima kasih banyak sudah memberiku minuman."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"시험이 얼마 남지 않았으니까 오늘부터 도서관에서 밤을 새워 집중해서 복습합시다.\" berarti \"Karena waktu ujian tidak lama lagi, mulai hari ini mari kita begadang dan fokus mengulang pelajaran di perpustakaan.\"."
+        "explanation": "Kalimat \"시험이 얼마 남지 않았으니까 오늘부터 도서관에서 밤을 새워 집중해서 복습합시다.\" (dibaca: Siheom-i eolma namji anat-eunikka oneulbuteo doseogwan-eseo bam-eul saewo jipjunghaeseo bokseup-hapsida.) berarti \"Karena waktu ujian tidak lama lagi, mulai hari ini mari kita begadang dan fokus mengulang pelajaran di perpustakaan.\". Kalimat ini menggunakan pola \"V/A + -(으)니까 (karena - cocok untuk ajakan/perintah) / V/A + -(으)ㄹ 뿐만 아니라 (bukan hanya... tapi juga...)\" (Sebab & Alasan Lanjutan: -(으)니까 & -(으)ㄹ 뿐만 아니라) yang berfungsi untuk pola -(으)니까 digunakan untuk memberikan alasan subjektif yang diikuti ajakan, perintah, atau saran. Pola -(으)ㄹ 뿐만 아니라 menambahkan informasi berbobot setara ('tidak hanya A, tetapi juga B')."
       },
       {
         "id": "q-ko-gram-11-pg-2",
@@ -4798,7 +4798,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Restoran ini bukan hanya cita rasa makanannya yang sangat luar biasa, namun pelayanan para stafnya pun amat ramah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"이 식당은 음식 맛이 아주 훌륭할 뿐만 아니라 직원들의 서비스도 무척 친절합니다.\" berarti \"Restoran ini bukan hanya cita rasa makanannya yang sangat luar biasa, namun pelayanan para stafnya pun amat ramah.\"."
+        "explanation": "Kalimat \"이 식당은 음식 맛이 아주 훌륭할 뿐만 아니라 직원들의 서비스도 무척 친절합니다.\" (dibaca: I sikdang-eun eumsik mas-i aju hullyunghal ppunman anira jikwon-deul-ui seobiseu-do mucheok chinjeolhamnida.) berarti \"Restoran ini bukan hanya cita rasa makanannya yang sangat luar biasa, namun pelayanan para stafnya pun amat ramah.\". Kalimat ini menggunakan pola \"V/A + -(으)니까 (karena - cocok untuk ajakan/perintah) / V/A + -(으)ㄹ 뿐만 아니라 (bukan hanya... tapi juga...)\" (Sebab & Alasan Lanjutan: -(으)니까 & -(으)ㄹ 뿐만 아니라) yang berfungsi untuk pola -(으)니까 digunakan untuk memberikan alasan subjektif yang diikuti ajakan, perintah, atau saran. Pola -(으)ㄹ 뿐만 아니라 menambahkan informasi berbobot setara ('tidak hanya A, tetapi juga B')."
       },
       {
         "id": "q-ko-gram-11-pg-3",
@@ -4814,7 +4814,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya kemampuan bahasa Korea saya lebih fasih, saya pasti bisa berpidato dengan memukau sebagai perwakilan mahasiswa asing, sungguh disayangkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"지하철이 버스보다 훨씬 빠르고 정체도 없으니까 지하철을 타고 이동합시다.\" berarti \"Karena kereta bawah tanah jauh lebih cepat daripada bus dan bebas macet, mari kita bepergian naik kereta bawah tanah.\"."
+        "explanation": "Kalimat \"지하철이 버스보다 훨씬 빠르고 정체도 없으니까 지하철을 타고 이동합시다.\" (dibaca: Jihacheol-i beoseuboda hwolssin ppareugo jeongche-do eopseunikka jihacheol-eul tago idonghapsida.) berarti \"Karena kereta bawah tanah jauh lebih cepat daripada bus dan bebas macet, mari kita bepergian naik kereta bawah tanah.\". Kalimat ini menggunakan pola \"V/A + -(으)니까 (karena - cocok untuk ajakan/perintah) / V/A + -(으)ㄹ 뿐만 아니라 (bukan hanya... tapi juga...)\" (Sebab & Alasan Lanjutan: -(으)니까 & -(으)ㄹ 뿐만 아니라) yang berfungsi untuk pola -(으)니까 digunakan untuk memberikan alasan subjektif yang diikuti ajakan, perintah, atau saran. Pola -(으)ㄹ 뿐만 아니라 menambahkan informasi berbobot setara ('tidak hanya A, tetapi juga B')."
       },
       {
         "id": "q-ko-gram-11-pg-4",
@@ -5113,7 +5113,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Demi bekerja di perusahaan teknologi informasi Korea, setiap akhir pekan saya belajar coding dan bahasa Korea."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"시험이 얼마 남지 않았으니까 오늘부터 도서관에서 밤을 새워 집중해서 복습합시다.\" berarti \"Karena waktu ujian tidak lama lagi, mulai hari ini mari kita begadang dan fokus mengulang pelajaran di perpustakaan.\"."
+        "explanation": "Kalimat \"시험이 얼마 남지 않았으니까 오늘부터 도서관에서 밤을 새워 집중해서 복습합시다.\" (dibaca: Siheom-i eolma namji anat-eunikka oneulbuteo doseogwan-eseo bam-eul saewo jipjunghaeseo bokseup-hapsida.) berarti \"Karena waktu ujian tidak lama lagi, mulai hari ini mari kita begadang dan fokus mengulang pelajaran di perpustakaan.\". Kalimat ini menggunakan pola \"V/A + -(으)니까 (karena - cocok untuk ajakan/perintah) / V/A + -(으)ㄹ 뿐만 아니라 (bukan hanya... tapi juga...)\" (Sebab & Alasan Lanjutan: -(으)니까 & -(으)ㄹ 뿐만 아니라) yang berfungsi untuk pola -(으)니까 digunakan untuk memberikan alasan subjektif yang diikuti ajakan, perintah, atau saran. Pola -(으)ㄹ 뿐만 아니라 menambahkan informasi berbobot setara ('tidak hanya A, tetapi juga B')."
       },
       {
         "id": "q-ko-gram-11-bb-2",
@@ -5260,7 +5260,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Dekat stasiun kereta bawah tanah sehingga transportasinya praktis, sebaliknya kebisingan sekitar parah sehingga di malam hari sangat berisik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"지하철역과 가까워서 교통이 편리한 반면에, 주변 소음이 심해서 밤에 시끄럽습니다.\" berarti \"Dekat stasiun kereta bawah tanah sehingga transportasinya praktis, sebaliknya kebisingan sekitar parah sehingga di malam hari sangat berisik.\"."
+        "explanation": "Kalimat \"지하철역과 가까워서 교통이 편리한 반면에, 주변 소음이 심해서 밤에 시끄럽습니다.\" (dibaca: Jihacheol-yeok-gwa gakkaweoseo gyotong-i pyeonrihan banmyeon-e, jubyeon soeum-i simhaeseo bam-e sikkeureopseumnida.) berarti \"Dekat stasiun kereta bawah tanah sehingga transportasinya praktis, sebaliknya kebisingan sekitar parah sehingga di malam hari sangat berisik.\". Kalimat ini menggunakan pola \"V + 는 반면에, A + -(으)ㄴ 반면에 (di sisi lain / sebaliknya) / V/A + -는데도 (meskipun / padahal)\" (Kontras & Keadaan Tak Terduga: -(으)ㄴ/는 반면에 & -는데도) yang berfungsi untuk pola -(으)ㄴ/는 반면에 menyoroti dua aspek kontras yang saling mengimbangi. Pola -는데도 mengekspresikan rasa heran atau kecewa atas hasil tak terduga yang bertolak belakang dari ekspektasi normal ('padahal... tapi nyatanya...')."
       },
       {
         "id": "q-ko-gram-12-pg-2",
@@ -5276,7 +5276,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Bagi Bapak/Ibu pasien, demi kesehatan pastikanlah untuk konsisten melakukan olahraga aerobik ringan setiap pagi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"어젯밤에 8시간 이상 충분히 푹 잤는데도 하루 종일 피곤하고 졸음이 쏟아집니다.\" berarti \"Padahal tadi malam sudah tidur nyenyak cukup lebih dari 8 jam, tapi sepanjang hari tetap terasa lelah dan mengantuk berat.\"."
+        "explanation": "Kalimat \"어젯밤에 8시간 이상 충분히 푹 잤는데도 하루 종일 피곤하고 졸음이 쏟아집니다.\" (dibaca: Eojetbam-e yeodeol-sigan isang chungbunhi puk janneundedo haru jong-il pigonhago joreum-i ssodajimnida.) berarti \"Padahal tadi malam sudah tidur nyenyak cukup lebih dari 8 jam, tapi sepanjang hari tetap terasa lelah dan mengantuk berat.\". Kalimat ini menggunakan pola \"V + 는 반면에, A + -(으)ㄴ 반면에 (di sisi lain / sebaliknya) / V/A + -는데도 (meskipun / padahal)\" (Kontras & Keadaan Tak Terduga: -(으)ㄴ/는 반면에 & -는데도) yang berfungsi untuk pola -(으)ㄴ/는 반면에 menyoroti dua aspek kontras yang saling mengimbangi. Pola -는데도 mengekspresikan rasa heran atau kecewa atas hasil tak terduga yang bertolak belakang dari ekspektasi normal ('padahal... tapi nyatanya...')."
       },
       {
         "id": "q-ko-gram-12-pg-3",
@@ -5292,7 +5292,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sebelum rapat minggu depan, saya akan mengambil tindakan untuk memastikan penulisan draf seluruh proposal proyek selesai."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"언니는 외향적이고 말이 많은 반면에, 동생은 차분하고 혼자 책 읽는 것을 좋아합니다.\" berarti \"Sang kakak ekstrover dan banyak bicara, sebaliknya sang adik tenang dan gemar membaca buku sendirian.\"."
+        "explanation": "Kalimat \"언니는 외향적이고 말이 많은 반면에, 동생은 차분하고 혼자 책 읽는 것을 좋아합니다.\" (dibaca: Eonni-neun oehyangjeog-igo mal-i maneun banmyeon-e, dongsaeng-eun chabunhago honja chaek ilkneun geos-eul joahamnida.) berarti \"Sang kakak ekstrover dan banyak bicara, sebaliknya sang adik tenang dan gemar membaca buku sendirian.\". Kalimat ini menggunakan pola \"V + 는 반면에, A + -(으)ㄴ 반면에 (di sisi lain / sebaliknya) / V/A + -는데도 (meskipun / padahal)\" (Kontras & Keadaan Tak Terduga: -(으)ㄴ/는 반면에 & -는데도) yang berfungsi untuk pola -(으)ㄴ/는 반면에 menyoroti dua aspek kontras yang saling mengimbangi. Pola -는데도 mengekspresikan rasa heran atau kecewa atas hasil tak terduga yang bertolak belakang dari ekspektasi normal ('padahal... tapi nyatanya...')."
       },
       {
         "id": "q-ko-gram-12-pg-4",
@@ -5593,7 +5593,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kaki Anda pasti sangat sakit karena seharian berdiri bekerja, silakan duduk di sini dan beristirahat sejenak."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"지하철역과 가까워서 교통이 편리한 반면에, 주변 소음이 심해서 밤에 시끄럽습니다.\" berarti \"Dekat stasiun kereta bawah tanah sehingga transportasinya praktis, sebaliknya kebisingan sekitar parah sehingga di malam hari sangat berisik.\"."
+        "explanation": "Kalimat \"지하철역과 가까워서 교통이 편리한 반면에, 주변 소음이 심해서 밤에 시끄럽습니다.\" (dibaca: Jihacheol-yeok-gwa gakkaweoseo gyotong-i pyeonrihan banmyeon-e, jubyeon soeum-i simhaeseo bam-e sikkeureopseumnida.) berarti \"Dekat stasiun kereta bawah tanah sehingga transportasinya praktis, sebaliknya kebisingan sekitar parah sehingga di malam hari sangat berisik.\". Kalimat ini menggunakan pola \"V + 는 반면에, A + -(으)ㄴ 반면에 (di sisi lain / sebaliknya) / V/A + -는데도 (meskipun / padahal)\" (Kontras & Keadaan Tak Terduga: -(으)ㄴ/는 반면에 & -는데도) yang berfungsi untuk pola -(으)ㄴ/는 반면에 menyoroti dua aspek kontras yang saling mengimbangi. Pola -는데도 mengekspresikan rasa heran atau kecewa atas hasil tak terduga yang bertolak belakang dari ekspektasi normal ('padahal... tapi nyatanya...')."
       },
       {
         "id": "q-ko-gram-12-bb-2",
@@ -5741,7 +5741,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Saya kurang bisa makan makanan pedas, sebaliknya hidangan penutup yang manis tergolong cukup sering saya nikmati."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"한국의 정보통신(IT) 기업에 취업하려고 주말마다 코딩과 한국어를 공부합니다.\" berarti \"Demi bekerja di perusahaan teknologi informasi Korea, setiap akhir pekan saya belajar coding dan bahasa Korea.\"."
+        "explanation": "Kalimat \"한국의 정보통신(IT) 기업에 취업하려고 주말마다 코딩과 한국어를 공부합니다.\" (dibaca: Hanguk-ui jeongbotongsin(IT) gieop-e chwieopharyeogo jumalmada koding-gwa hangugeo-reul gongbumnida.) berarti \"Demi bekerja di perusahaan teknologi informasi Korea, setiap akhir pekan saya belajar coding dan bahasa Korea.\". Kalimat ini menggunakan pola \"V + -(으)려고 (berniat demi...) / V + -(으)려던 참이다 (kebetulan baru saja hendak...)\" (Maksud & Rencana Sesaat: -(으)려고 & -(으)려던 참이다) yang berfungsi untuk pola -(으)려고 menandai tujuan atau niat yang mendasari suatu perbuatan. Pola -(으)려던 참이다 dipakai ketika perbuatan yang hendak kita lakukan kebetulan bertepatan dengan ajakan lawan bicara ('Pas banget, aku baru mau...')."
       },
       {
         "id": "q-ko-gram-13-pg-2",
@@ -5757,7 +5757,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah 10 tahun berlalu, saya kembali mengunjungi desa tepi pantai tempat saya dahulu sering berwisata bersama orang tua saat masa kanak-kanak."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"마침 목이 말라서 시원한 냉수를 마시려던 참이었는데, 마실 것을 줘서 고마워요.\" berarti \"Kebetulan tenggorokan saya haus dan baru saja hendak minum air dingin, terima kasih banyak sudah memberiku minuman.\"."
+        "explanation": "Kalimat \"마침 목이 말라서 시원한 냉수를 마시려던 참이었는데, 마실 것을 줘서 고마워요.\" (dibaca: Machim mok-i mallaseo siwonhan naengsu-reul masiryeodeon cham-ieonneunde, masil geos-eul jwoseo gomaweoyo.) berarti \"Kebetulan tenggorokan saya haus dan baru saja hendak minum air dingin, terima kasih banyak sudah memberiku minuman.\". Kalimat ini menggunakan pola \"V + -(으)려고 (berniat demi...) / V + -(으)려던 참이다 (kebetulan baru saja hendak...)\" (Maksud & Rencana Sesaat: -(으)려고 & -(으)려던 참이다) yang berfungsi untuk pola -(으)려고 menandai tujuan atau niat yang mendasari suatu perbuatan. Pola -(으)려던 참이다 dipakai ketika perbuatan yang hendak kita lakukan kebetulan bertepatan dengan ajakan lawan bicara ('Pas banget, aku baru mau...')."
       },
       {
         "id": "q-ko-gram-13-pg-3",
@@ -5773,7 +5773,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Gang sempit yang hingga tahun lalu masih sepi jarang dilewati orang, kini telah bermutasi seutuhnya menjadi jalanan kafe yang tersohor."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"부모님 결혼기념일을 축하해 드리려고 작은 꽃다발과 선물을 미리 준비했습니다.\" berarti \"Demi merayakan ulang tahun pernikahan orang tua, saya telah menyiapkan buket bunga kecil dan hadiah terlebih dahulu.\"."
+        "explanation": "Kalimat \"부모님 결혼기념일을 축하해 드리려고 작은 꽃다발과 선물을 미리 준비했습니다.\" (dibaca: Bumonim gyeolhonginyeom-il-eul chukhahae deuriryeogo jageun kkotdabal-gwa seonmul-eul miri junbihaesseumnida.) berarti \"Demi merayakan ulang tahun pernikahan orang tua, saya telah menyiapkan buket bunga kecil dan hadiah terlebih dahulu.\". Kalimat ini menggunakan pola \"V + -(으)려고 (berniat demi...) / V + -(으)려던 참이다 (kebetulan baru saja hendak...)\" (Maksud & Rencana Sesaat: -(으)려고 & -(으)려던 참이다) yang berfungsi untuk pola -(으)려고 menandai tujuan atau niat yang mendasari suatu perbuatan. Pola -(으)려던 참이다 dipakai ketika perbuatan yang hendak kita lakukan kebetulan bertepatan dengan ajakan lawan bicara ('Pas banget, aku baru mau...')."
       },
       {
         "id": "q-ko-gram-13-pg-4",
@@ -6072,7 +6072,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Bagi Bapak/Ibu pasien, demi kesehatan pastikanlah untuk konsisten melakukan olahraga aerobik ringan setiap pagi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"한국의 정보통신(IT) 기업에 취업하려고 주말마다 코딩과 한국어를 공부합니다.\" berarti \"Demi bekerja di perusahaan teknologi informasi Korea, setiap akhir pekan saya belajar coding dan bahasa Korea.\"."
+        "explanation": "Kalimat \"한국의 정보통신(IT) 기업에 취업하려고 주말마다 코딩과 한국어를 공부합니다.\" (dibaca: Hanguk-ui jeongbotongsin(IT) gieop-e chwieopharyeogo jumalmada koding-gwa hangugeo-reul gongbumnida.) berarti \"Demi bekerja di perusahaan teknologi informasi Korea, setiap akhir pekan saya belajar coding dan bahasa Korea.\". Kalimat ini menggunakan pola \"V + -(으)려고 (berniat demi...) / V + -(으)려던 참이다 (kebetulan baru saja hendak...)\" (Maksud & Rencana Sesaat: -(으)려고 & -(으)려던 참이다) yang berfungsi untuk pola -(으)려고 menandai tujuan atau niat yang mendasari suatu perbuatan. Pola -(으)려던 참이다 dipakai ketika perbuatan yang hendak kita lakukan kebetulan bertepatan dengan ajakan lawan bicara ('Pas banget, aku baru mau...')."
       },
       {
         "id": "q-ko-gram-13-bb-2",
@@ -6218,7 +6218,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Semasa menjadi mahasiswa baru, setiap hari ujian berakhir saya kerap kali berkumpul di ruang klub bersama teman seangkatan dan mengobrol semalam suntuk."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"하루 종일 서서 일하느라 다리가 많이 아프실 텐데 여기 앉아서 잠깐 쉬십시오.\" berarti \"Kaki Anda pasti sangat sakit karena seharian berdiri bekerja, silakan duduk di sini dan beristirahat sejenak.\"."
+        "explanation": "Kalimat \"하루 종일 서서 일하느라 다리가 많이 아프실 텐데 여기 앉아서 잠깐 쉬십시오.\" (dibaca: Haru jong-il seoseo ilhaneura dari-ga mani apeusil tende yeogi anjaseo jamkkan swisipsio.) berarti \"Kaki Anda pasti sangat sakit karena seharian berdiri bekerja, silakan duduk di sini dan beristirahat sejenak.\". Kalimat ini menggunakan pola \"V/A + -(으)면 (jika/bila) / V/A + -(으)ㄹ 텐데 (pasti akan... padahal / andai saja...)\" (Pengandaian & Hipotesis Latar Belakang: -(으)면 & -(으)ㄹ 텐데) yang berfungsi untuk pola -(으)면 adalah syarat pengandaian dasar. Pola -(으)ㄹ 텐데 menggabungkan dugaan kuat di klausa pertama sebagai latar belakang untuk penyesalan, kekhawatiran, atau tawaran bantuan di klausa kedua."
       },
       {
         "id": "q-ko-gram-14-pg-2",
@@ -6234,7 +6234,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Gara-gara menonton siaran langsung sepak bola sampai larut malam tadi, saya akhirnya terlambat menghadiri rapat pagi hari ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"주말에 미리 숙제를 끝내 놓으면 평일에 훨씬 여유롭게 쉴 수 있습니다.\" berarti \"Jika sudah menyelesaikan pekerjaan rumah terlebih dahulu saat akhir pekan, pada hari kerja kita bisa beristirahat dengan jauh lebih leluasa.\"."
+        "explanation": "Kalimat \"주말에 미리 숙제를 끝내 놓으면 평일에 훨씬 여유롭게 쉴 수 있습니다.\" (dibaca: Jumal-e miri sukje-reul kkeutnae noeumyeon pyeong-il-e hwolssin yeoyurobge swil su isseumnida.) berarti \"Jika sudah menyelesaikan pekerjaan rumah terlebih dahulu saat akhir pekan, pada hari kerja kita bisa beristirahat dengan jauh lebih leluasa.\". Kalimat ini menggunakan pola \"V/A + -(으)면 (jika/bila) / V/A + -(으)ㄹ 텐데 (pasti akan... padahal / andai saja...)\" (Pengandaian & Hipotesis Latar Belakang: -(으)면 & -(으)ㄹ 텐데) yang berfungsi untuk pola -(으)면 adalah syarat pengandaian dasar. Pola -(으)ㄹ 텐데 menggabungkan dugaan kuat di klausa pertama sebagai latar belakang untuk penyesalan, kekhawatiran, atau tawaran bantuan di klausa kedua."
       },
       {
         "id": "q-ko-gram-14-pg-3",
@@ -6250,7 +6250,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya kemampuan bahasa Korea saya lebih fasih, saya pasti bisa berpidato dengan memukau sebagai perwakilan mahasiswa asing, sungguh disayangkan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"제가 한국어 실력이 더 유창하다면 유학생 대표로 멋지게 발표할 수 있었을 텐데 아쉽습니다.\" berarti \"Seandainya kemampuan bahasa Korea saya lebih fasih, saya pasti bisa berpidato dengan memukau sebagai perwakilan mahasiswa asing, sungguh disayangkan.\"."
+        "explanation": "Kalimat \"제가 한국어 실력이 더 유창하다면 유학생 대표로 멋지게 발표할 수 있었을 텐데 아쉽습니다.\" (dibaca: Je-ga hangugeo sillyeok-i deo yuchanghadamyeon yuhaksaeng daepyo-ro meotjige balpyohal su isseosseul tende aswipseumnida.) berarti \"Seandainya kemampuan bahasa Korea saya lebih fasih, saya pasti bisa berpidato dengan memukau sebagai perwakilan mahasiswa asing, sungguh disayangkan.\". Kalimat ini menggunakan pola \"V/A + -(으)면 (jika/bila) / V/A + -(으)ㄹ 텐데 (pasti akan... padahal / andai saja...)\" (Pengandaian & Hipotesis Latar Belakang: -(으)면 & -(으)ㄹ 텐데) yang berfungsi untuk pola -(으)면 adalah syarat pengandaian dasar. Pola -(으)ㄹ 텐데 menggabungkan dugaan kuat di klausa pertama sebagai latar belakang untuk penyesalan, kekhawatiran, atau tawaran bantuan di klausa kedua."
       },
       {
         "id": "q-ko-gram-14-pg-4",
@@ -6555,7 +6555,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kaki Anda pasti sangat sakit karena seharian berdiri bekerja, silakan duduk di sini dan beristirahat sejenak."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"하루 종일 서서 일하느라 다리가 많이 아프실 텐데 여기 앉아서 잠깐 쉬십시오.\" berarti \"Kaki Anda pasti sangat sakit karena seharian berdiri bekerja, silakan duduk di sini dan beristirahat sejenak.\"."
+        "explanation": "Kalimat \"하루 종일 서서 일하느라 다리가 많이 아프실 텐데 여기 앉아서 잠깐 쉬십시오.\" (dibaca: Haru jong-il seoseo ilhaneura dari-ga mani apeusil tende yeogi anjaseo jamkkan swisipsio.) berarti \"Kaki Anda pasti sangat sakit karena seharian berdiri bekerja, silakan duduk di sini dan beristirahat sejenak.\". Kalimat ini menggunakan pola \"V/A + -(으)면 (jika/bila) / V/A + -(으)ㄹ 텐데 (pasti akan... padahal / andai saja...)\" (Pengandaian & Hipotesis Latar Belakang: -(으)면 & -(으)ㄹ 텐데) yang berfungsi untuk pola -(으)면 adalah syarat pengandaian dasar. Pola -(으)ㄹ 텐데 menggabungkan dugaan kuat di klausa pertama sebagai latar belakang untuk penyesalan, kekhawatiran, atau tawaran bantuan di klausa kedua."
       },
       {
         "id": "q-ko-gram-14-bb-2",
@@ -6702,7 +6702,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Gara-gara muatan dari truk di depan terjatuh ke atas jalan, terjadi kecelakaan tabrakan beruntun di jalan tol."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"환자분께서는 건강을 위해 매일 아침 가벼운 유산소 운동을 꾸준히 하도록 하십시오.\" berarti \"Bagi Bapak/Ibu pasien, demi kesehatan pastikanlah untuk konsisten melakukan olahraga aerobik ringan setiap pagi.\"."
+        "explanation": "Kalimat \"환자분께서는 건강을 위해 매일 아침 가벼운 유산소 운동을 꾸준히 하도록 하십시오.\" (dibaca: Hwanjabun-kkeseoneun geon-gang-eul wihae maeil achim gabyeoun yusanso undong-eul kkujunhi hadorok hasipsio.) berarti \"Bagi Bapak/Ibu pasien, demi kesehatan pastikanlah untuk konsisten melakukan olahraga aerobik ringan setiap pagi.\". Kalimat ini menggunakan pola \"V + -도록 하다 (memastikan untuk melakukan / instruksi sopan) / V + -는 편이다, A + -(으)ㄴ 편이다 (tergolong / cenderung)\" (Instruksi & Kecenderungan: -도록 하다 & -는 편이다) yang berfungsi untuk pola -도록 하다 digunakan untuk menasihati, menginstruksikan, atau berjanji dengan sungguh-sungguh agar suatu target tercapai. Pola -(으)ㄴ/는 편이다 digunakan untuk mengklasifikasikan sifat diri atau orang lain secara halus ('tergolong agak...')."
       },
       {
         "id": "q-ko-gram-15-pg-2",
@@ -6718,7 +6718,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Saya kurang bisa makan makanan pedas, sebaliknya hidangan penutup yang manis tergolong cukup sering saya nikmati."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"저는 매운 음식을 잘 못 먹는 반면에, 단 디저트는 꽤 자주 즐겨 먹는 편입니다.\" berarti \"Saya kurang bisa makan makanan pedas, sebaliknya hidangan penutup yang manis tergolong cukup sering saya nikmati.\"."
+        "explanation": "Kalimat \"저는 매운 음식을 잘 못 먹는 반면에, 단 디저트는 꽤 자주 즐겨 먹는 편입니다.\" (dibaca: Jeo-neun maeun eumsik-eul jal mot meokneun banmyeon-e, dan dijeoteu-neun kkwae jaju jeulgyeo meokneun pyeon-imnida.) berarti \"Saya kurang bisa makan makanan pedas, sebaliknya hidangan penutup yang manis tergolong cukup sering saya nikmati.\". Kalimat ini menggunakan pola \"V + -도록 하다 (memastikan untuk melakukan / instruksi sopan) / V + -는 편이다, A + -(으)ㄴ 편이다 (tergolong / cenderung)\" (Instruksi & Kecenderungan: -도록 하다 & -는 편이다) yang berfungsi untuk pola -도록 하다 digunakan untuk menasihati, menginstruksikan, atau berjanji dengan sungguh-sungguh agar suatu target tercapai. Pola -(으)ㄴ/는 편이다 digunakan untuk mengklasifikasikan sifat diri atau orang lain secara halus ('tergolong agak...')."
       },
       {
         "id": "q-ko-gram-15-pg-3",
@@ -6734,7 +6734,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika terus bekerja siang malam tanpa henti dengan jadwal seberat itu, sudah sangat jelas pada akhirnya akan merusak kesehatan akibat kelelahan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"다음 주 회의 전까지 모든 기획서의 초안 작성을 끝마치도록 조치하겠습니다.\" berarti \"Sebelum rapat minggu depan, saya akan mengambil tindakan untuk memastikan penulisan draf seluruh proposal proyek selesai.\"."
+        "explanation": "Kalimat \"다음 주 회의 전까지 모든 기획서의 초안 작성을 끝마치도록 조치하겠습니다.\" (dibaca: Daeum ju hoeui jeonkkaji modeun gihoekseo-ui choan jakseong-eul kkeutmachidorok jochihagess-eumnida.) berarti \"Sebelum rapat minggu depan, saya akan mengambil tindakan untuk memastikan penulisan draf seluruh proposal proyek selesai.\". Kalimat ini menggunakan pola \"V + -도록 하다 (memastikan untuk melakukan / instruksi sopan) / V + -는 편이다, A + -(으)ㄴ 편이다 (tergolong / cenderung)\" (Instruksi & Kecenderungan: -도록 하다 & -는 편이다) yang berfungsi untuk pola -도록 하다 digunakan untuk menasihati, menginstruksikan, atau berjanji dengan sungguh-sungguh agar suatu target tercapai. Pola -(으)ㄴ/는 편이다 digunakan untuk mengklasifikasikan sifat diri atau orang lain secara halus ('tergolong agak...')."
       },
       {
         "id": "q-ko-gram-15-pg-4",
@@ -7035,7 +7035,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Gara-gara menonton siaran langsung sepak bola sampai larut malam tadi, saya akhirnya terlambat menghadiri rapat pagi hari ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"환자분께서는 건강을 위해 매일 아침 가벼운 유산소 운동을 꾸준히 하도록 하십시오.\" berarti \"Bagi Bapak/Ibu pasien, demi kesehatan pastikanlah untuk konsisten melakukan olahraga aerobik ringan setiap pagi.\"."
+        "explanation": "Kalimat \"환자분께서는 건강을 위해 매일 아침 가벼운 유산소 운동을 꾸준히 하도록 하십시오.\" (dibaca: Hwanjabun-kkeseoneun geon-gang-eul wihae maeil achim gabyeoun yusanso undong-eul kkujunhi hadorok hasipsio.) berarti \"Bagi Bapak/Ibu pasien, demi kesehatan pastikanlah untuk konsisten melakukan olahraga aerobik ringan setiap pagi.\". Kalimat ini menggunakan pola \"V + -도록 하다 (memastikan untuk melakukan / instruksi sopan) / V + -는 편이다, A + -(으)ㄴ 편이다 (tergolong / cenderung)\" (Instruksi & Kecenderungan: -도록 하다 & -는 편이다) yang berfungsi untuk pola -도록 하다 digunakan untuk menasihati, menginstruksikan, atau berjanji dengan sungguh-sungguh agar suatu target tercapai. Pola -(으)ㄴ/는 편이다 digunakan untuk mengklasifikasikan sifat diri atau orang lain secara halus ('tergolong agak...')."
       },
       {
         "id": "q-ko-gram-15-bb-2",
@@ -7182,7 +7182,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah 10 tahun berlalu, saya kembali mengunjungi desa tepi pantai tempat saya dahulu sering berwisata bersama orang tua saat masa kanak-kanak."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"어린 시절 부모님과 함께 자주 여행을 떠났던 바닷가 마을을 10년 만에 다시 찾아갔습니다.\" berarti \"Setelah 10 tahun berlalu, saya kembali mengunjungi desa tepi pantai tempat saya dahulu sering berwisata bersama orang tua saat masa kanak-kanak.\"."
+        "explanation": "Kalimat \"어린 시절 부모님과 함께 자주 여행을 떠났던 바닷가 마을을 10년 만에 다시 찾아갔습니다.\" (dibaca: Eorin sijeol bumonim-gwa hamkke jaju yeohaeng-eul tteonatdeon badatga ma-eul-eul simnyeon man-e dasi chajagasseumnida.) berarti \"Setelah 10 tahun berlalu, saya kembali mengunjungi desa tepi pantai tempat saya dahulu sering berwisata bersama orang tua saat masa kanak-kanak.\". Kalimat ini menggunakan pola \"V/A + -았/었던 (hal di masa lampau yang sudah usai) / V + -곤 하다 (kerap kali / biasa melakukan)\" (Pengalaman Masa Lalu Berulang: -았/었던 & -곤 하다) yang berfungsi untuk pola -았/었던 mengenang kembali peristiwa atau kondisi masa lampau yang sudah berakhir dan kontras dengan keadaan masa kini. Pola -곤 하다 menyatakan rutinitas kebiasaan yang kerap berulang di masa lampau atau masa sekarang."
       },
       {
         "id": "q-ko-gram-16-pg-2",
@@ -7198,7 +7198,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika kekurangan waktu, jangan berkunjung langsung melainkan kirimkan berkas lewat email atau daftarlah secara online."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"대학교 신입생 시절에는 시험이 끝나는 날마다 동기들과 동아리방에 모여 밤새 이야기를 나누곤 했습니다.\" berarti \"Semasa menjadi mahasiswa baru, setiap hari ujian berakhir saya kerap kali berkumpul di ruang klub bersama teman seangkatan dan mengobrol semalam suntuk.\"."
+        "explanation": "Kalimat \"대학교 신입생 시절에는 시험이 끝나는 날마다 동기들과 동아리방에 모여 밤새 이야기를 나누곤 했습니다.\" (dibaca: Daehakgyo sinipsaeng sijeol-eneun siheom-i kkeutnaneun nalmada donggideul-gwa dong-aribang-e moyeo bamsae iyagi-reul nanugon haesseumnida.) berarti \"Semasa menjadi mahasiswa baru, setiap hari ujian berakhir saya kerap kali berkumpul di ruang klub bersama teman seangkatan dan mengobrol semalam suntuk.\". Kalimat ini menggunakan pola \"V/A + -았/었던 (hal di masa lampau yang sudah usai) / V + -곤 하다 (kerap kali / biasa melakukan)\" (Pengalaman Masa Lalu Berulang: -았/었던 & -곤 하다) yang berfungsi untuk pola -았/었던 mengenang kembali peristiwa atau kondisi masa lampau yang sudah berakhir dan kontras dengan keadaan masa kini. Pola -곤 하다 menyatakan rutinitas kebiasaan yang kerap berulang di masa lampau atau masa sekarang."
       },
       {
         "id": "q-ko-gram-16-pg-3",
@@ -7214,7 +7214,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sebagai gantinya karena senior mentraktir makan siang, saya yang mentraktir kopi dan makanan penutup di kafe yang bernuansa nyaman."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"작년까지만 해도 인적이 드물고 조용했던 골목길이 지금은 유명한 카페 거리로 완전히 탈바꿈했습니다.\" berarti \"Gang sempit yang hingga tahun lalu masih sepi jarang dilewati orang, kini telah bermutasi seutuhnya menjadi jalanan kafe yang tersohor.\"."
+        "explanation": "Kalimat \"작년까지만 해도 인적이 드물고 조용했던 골목길이 지금은 유명한 카페 거리로 완전히 탈바꿈했습니다.\" (dibaca: Jaknyeonkkajiman haedo injeok-i deumulgo joyonghaetdeon golmokgil-i jigeum-eun yumeonghan kape geori-ro wanjeonhi talbakkumhaesseumnida.) berarti \"Gang sempit yang hingga tahun lalu masih sepi jarang dilewati orang, kini telah bermutasi seutuhnya menjadi jalanan kafe yang tersohor.\". Kalimat ini menggunakan pola \"V/A + -았/었던 (hal di masa lampau yang sudah usai) / V + -곤 하다 (kerap kali / biasa melakukan)\" (Pengalaman Masa Lalu Berulang: -았/었던 & -곤 하다) yang berfungsi untuk pola -았/었던 mengenang kembali peristiwa atau kondisi masa lampau yang sudah berakhir dan kontras dengan keadaan masa kini. Pola -곤 하다 menyatakan rutinitas kebiasaan yang kerap berulang di masa lampau atau masa sekarang."
       },
       {
         "id": "q-ko-gram-16-pg-4",
@@ -7521,7 +7521,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pada jam sibuk jika lewat jalan sempit itu sudah pasti kita bakal terjebak macet total tak bisa bergerak, mari kita lewat jalan memutar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"어린 시절 부모님과 함께 자주 여행을 떠났던 바닷가 마을을 10년 만에 다시 찾아갔습니다.\" berarti \"Setelah 10 tahun berlalu, saya kembali mengunjungi desa tepi pantai tempat saya dahulu sering berwisata bersama orang tua saat masa kanak-kanak.\"."
+        "explanation": "Kalimat \"어린 시절 부모님과 함께 자주 여행을 떠났던 바닷가 마을을 10년 만에 다시 찾아갔습니다.\" (dibaca: Eorin sijeol bumonim-gwa hamkke jaju yeohaeng-eul tteonatdeon badatga ma-eul-eul simnyeon man-e dasi chajagasseumnida.) berarti \"Setelah 10 tahun berlalu, saya kembali mengunjungi desa tepi pantai tempat saya dahulu sering berwisata bersama orang tua saat masa kanak-kanak.\". Kalimat ini menggunakan pola \"V/A + -았/었던 (hal di masa lampau yang sudah usai) / V + -곤 하다 (kerap kali / biasa melakukan)\" (Pengalaman Masa Lalu Berulang: -았/었던 & -곤 하다) yang berfungsi untuk pola -았/었던 mengenang kembali peristiwa atau kondisi masa lampau yang sudah berakhir dan kontras dengan keadaan masa kini. Pola -곤 하다 menyatakan rutinitas kebiasaan yang kerap berulang di masa lampau atau masa sekarang."
       },
       {
         "id": "q-ko-gram-16-bb-2",
@@ -7669,7 +7669,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Entah hari kerja maupun akhir pekan tidak masalah sama sekali, kami harap Anda berkenan menghubungi kami kapan pun pada jam yang nyaman bagi Anda."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"어젯밤 늦게까지 축구 중계방송을 보느라고 오늘 아침 회의에 그만 지각하고 말았습니다.\" berarti \"Gara-gara menonton siaran langsung sepak bola sampai larut malam tadi, saya akhirnya terlambat menghadiri rapat pagi hari ini.\"."
+        "explanation": "Kalimat \"어젯밤 늦게까지 축구 중계방송을 보느라고 오늘 아침 회의에 그만 지각하고 말았습니다.\" (dibaca: Eojetbam neutgekkaji chukgu junggyebangsong-eul boneurago oneul achim hoeui-e geuman jigakhago marasseumnida.) berarti \"Gara-gara menonton siaran langsung sepak bola sampai larut malam tadi, saya akhirnya terlambat menghadiri rapat pagi hari ini.\". Kalimat ini menggunakan pola \"V + -느라고 (karena sibuk melakukan aksi sengaja sehingga...) / V + -는 바람에 (gara-gara kejadian luar tak terduga)\" (Alasan Negatif / Tak Terduga: -느라고 & -는 바람에) yang berfungsi untuk dua pola kausalitas khusus yang selalu berujung pada akibat negatif atau kerugian. -느라고 dipakai jika subjek sibuk melakukan tindakan yang membutuhkan waktu dan tenaga, sedangkan -는 바람에 dipakai ketika faktor luar mendadak terjadi di luar kendali."
       },
       {
         "id": "q-ko-gram-17-pg-2",
@@ -7685,7 +7685,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di samping cuaca buruk sudah sangat jelas lalu lintas pasti akan macet total, sebagai gantinya berkunjung langsung mari kita ganti dengan rapat virtual."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"앞서가던 트럭에서 짐이 도로 위로 떨어지는 바람에 고속도로에서 연쇄 추돌 사고가 발생했습니다.\" berarti \"Gara-gara muatan dari truk di depan terjatuh ke atas jalan, terjadi kecelakaan tabrakan beruntun di jalan tol.\"."
+        "explanation": "Kalimat \"앞서가던 트럭에서 짐이 도로 위로 떨어지는 바람에 고속도로에서 연쇄 추돌 사고가 발생했습니다.\" (dibaca: Apseogadeon teureok-eseo jim-i doro wiro tteoreojineun baram-e gosokdoro-eseo yeonswae chudol sago-ga balsaenghaesseumnida.) berarti \"Gara-gara muatan dari truk di depan terjatuh ke atas jalan, terjadi kecelakaan tabrakan beruntun di jalan tol.\". Kalimat ini menggunakan pola \"V + -느라고 (karena sibuk melakukan aksi sengaja sehingga...) / V + -는 바람에 (gara-gara kejadian luar tak terduga)\" (Alasan Negatif / Tak Terduga: -느라고 & -는 바람에) yang berfungsi untuk dua pola kausalitas khusus yang selalu berujung pada akibat negatif atau kerugian. -느라고 dipakai jika subjek sibuk melakukan tindakan yang membutuhkan waktu dan tenaga, sedangkan -는 바람에 dipakai ketika faktor luar mendadak terjadi di luar kendali."
       },
       {
         "id": "q-ko-gram-17-pg-3",
@@ -7701,7 +7701,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pengalaman masa sekolah dulu yang penuh perjuangan keras gara-gara mempersiapkan ujian bahasa Korea hingga larut malam telah menjadi pupuk fondasi berharga hingga hari ini dapat membuahkan hasil yang gilang-gemilang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"졸업 논문을 작성하느라고 최근 몇 달 동안 친구들도 거의 만나지 못했습니다.\" berarti \"Gara-gara sibuk menyusun skripsi kelulusan, selama beberapa bulan terakhir ini saya hampir tidak bisa bertemu dengan teman-teman.\"."
+        "explanation": "Kalimat \"졸업 논문을 작성하느라고 최근 몇 달 동안 친구들도 거의 만나지 못했습니다.\" (dibaca: Joreop nonmun-eul jakseonghaneurago choegeun myeot dal dong-an chin-gudeul-do geoui mannaji mothaesseumnida.) berarti \"Gara-gara sibuk menyusun skripsi kelulusan, selama beberapa bulan terakhir ini saya hampir tidak bisa bertemu dengan teman-teman.\". Kalimat ini menggunakan pola \"V + -느라고 (karena sibuk melakukan aksi sengaja sehingga...) / V + -는 바람에 (gara-gara kejadian luar tak terduga)\" (Alasan Negatif / Tak Terduga: -느라고 & -는 바람에) yang berfungsi untuk dua pola kausalitas khusus yang selalu berujung pada akibat negatif atau kerugian. -느라고 dipakai jika subjek sibuk melakukan tindakan yang membutuhkan waktu dan tenaga, sedangkan -는 바람에 dipakai ketika faktor luar mendadak terjadi di luar kendali."
       },
       {
         "id": "q-ko-gram-17-pg-4",
@@ -8000,7 +8000,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika kekurangan waktu, jangan berkunjung langsung melainkan kirimkan berkas lewat email atau daftarlah secara online."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"어젯밤 늦게까지 축구 중계방송을 보느라고 오늘 아침 회의에 그만 지각하고 말았습니다.\" berarti \"Gara-gara menonton siaran langsung sepak bola sampai larut malam tadi, saya akhirnya terlambat menghadiri rapat pagi hari ini.\"."
+        "explanation": "Kalimat \"어젯밤 늦게까지 축구 중계방송을 보느라고 오늘 아침 회의에 그만 지각하고 말았습니다.\" (dibaca: Eojetbam neutgekkaji chukgu junggyebangsong-eul boneurago oneul achim hoeui-e geuman jigakhago marasseumnida.) berarti \"Gara-gara menonton siaran langsung sepak bola sampai larut malam tadi, saya akhirnya terlambat menghadiri rapat pagi hari ini.\". Kalimat ini menggunakan pola \"V + -느라고 (karena sibuk melakukan aksi sengaja sehingga...) / V + -는 바람에 (gara-gara kejadian luar tak terduga)\" (Alasan Negatif / Tak Terduga: -느라고 & -는 바람에) yang berfungsi untuk dua pola kausalitas khusus yang selalu berujung pada akibat negatif atau kerugian. -느라고 dipakai jika subjek sibuk melakukan tindakan yang membutuhkan waktu dan tenaga, sedangkan -는 바람에 dipakai ketika faktor luar mendadak terjadi di luar kendali."
       },
       {
         "id": "q-ko-gram-17-bb-2",
@@ -8148,7 +8148,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun ukuran kamar studio tergolong agak sempit, karena berada di zona dekat stasiun transportasinya bukan hanya sangat praktis, namun fasilitas penunjang di sekitarnya pun lengkap tersedia."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"출퇴근 시간에 그 좁은 도로로 가면 교통체증으로 꼼짝도 못 할 게 뻔하니 우회 도로로 갑시다.\" berarti \"Pada jam sibuk jika lewat jalan sempit itu sudah pasti kita bakal terjebak macet total tak bisa bergerak, mari kita lewat jalan memutar.\"."
+        "explanation": "Kalimat \"출퇴근 시간에 그 좁은 도로로 가면 교통체증으로 꼼짝도 못 할 게 뻔하니 우회 도로로 갑시다.\" (dibaca: Chultoegeun sigan-e geu job-eun doro-ro gamyeon gyotongchejeung-euro kkomjjak-do mot hal ge ppeonhani uhoe doro-ro gapsida.) berarti \"Pada jam sibuk jika lewat jalan sempit itu sudah pasti kita bakal terjebak macet total tak bisa bergerak, mari kita lewat jalan memutar.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 게 뻔하다 (sudah sangat jelas pasti akan begitu - bernuansa negatif) / V + -는 모양이다, A + -(으)ㄴ 모양이다 (tampaknya... melihat tandanya)\" (Kepastian & Dugaan Berdasar Gejala: -(으)ㄹ 게 뻔하다 & -는 모양이다) yang berfungsi untuk pola -(으)ㄹ 게 뻔하다 menyatakan kepastian ramalan yang sudah terang benderang bagi akal sehat (biasanya berujung buruk). Pola -(으)ㄴ/는 모양이다 menarik kesimpulan dugaan logis setelah mengamati bukti penampakan luar secara kasat mata."
       },
       {
         "id": "q-ko-gram-18-pg-2",
@@ -8164,7 +8164,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena waktu ujian tidak lama lagi, mulai hari ini mari kita begadang dan fokus mengulang pelajaran di perpustakaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"사람들이 모두 두꺼운 패딩을 입고 옷깃을 여미는 것을 보니 오늘 바깥 날씨가 무척 추운 모양입니다.\" berarti \"Melihat orang-orang semuanya mengenakan jaket tebal dan merapatkan kerah baju, tampaknya cuaca di luar hari ini amat sangat dingin.\"."
+        "explanation": "Kalimat \"사람들이 모두 두꺼운 패딩을 입고 옷깃을 여미는 것을 보니 오늘 바깥 날씨가 무척 추운 모양입니다.\" (dibaca: Saramdeul-i modu dukkeoun paeding-eul ipgo otgit-eul yeomineun geos-eul boni oneul bakkat nalssi-ga mucheok chuun moyang-imnida.) berarti \"Melihat orang-orang semuanya mengenakan jaket tebal dan merapatkan kerah baju, tampaknya cuaca di luar hari ini amat sangat dingin.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 게 뻔하다 (sudah sangat jelas pasti akan begitu - bernuansa negatif) / V + -는 모양이다, A + -(으)ㄴ 모양이다 (tampaknya... melihat tandanya)\" (Kepastian & Dugaan Berdasar Gejala: -(으)ㄹ 게 뻔하다 & -는 모양이다) yang berfungsi untuk pola -(으)ㄹ 게 뻔하다 menyatakan kepastian ramalan yang sudah terang benderang bagi akal sehat (biasanya berujung buruk). Pola -(으)ㄴ/는 모양이다 menarik kesimpulan dugaan logis setelah mengamati bukti penampakan luar secara kasat mata."
       },
       {
         "id": "q-ko-gram-18-pg-3",
@@ -8180,7 +8180,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika terus bekerja siang malam tanpa henti dengan jadwal seberat itu, sudah sangat jelas pada akhirnya akan merusak kesehatan akibat kelelahan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"저렇게 무리한 일정으로 밤낮없이 일하다가는 결국 과로로 건강을 해칠 게 뻔합니다.\" berarti \"Jika terus bekerja siang malam tanpa henti dengan jadwal seberat itu, sudah sangat jelas pada akhirnya akan merusak kesehatan akibat kelelahan.\"."
+        "explanation": "Kalimat \"저렇게 무리한 일정으로 밤낮없이 일하다가는 결국 과로로 건강을 해칠 게 뻔합니다.\" (dibaca: Jeoreohge murihan iljeong-euro bamnat-eopsi ilhadaganeun gyeolguk gwaro-ro geon-gang-eul haechil ge ppeonhamnida.) berarti \"Jika terus bekerja siang malam tanpa henti dengan jadwal seberat itu, sudah sangat jelas pada akhirnya akan merusak kesehatan akibat kelelahan.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 게 뻔하다 (sudah sangat jelas pasti akan begitu - bernuansa negatif) / V + -는 모양이다, A + -(으)ㄴ 모양이다 (tampaknya... melihat tandanya)\" (Kepastian & Dugaan Berdasar Gejala: -(으)ㄹ 게 뻔하다 & -는 모양이다) yang berfungsi untuk pola -(으)ㄹ 게 뻔하다 menyatakan kepastian ramalan yang sudah terang benderang bagi akal sehat (biasanya berujung buruk). Pola -(으)ㄴ/는 모양이다 menarik kesimpulan dugaan logis setelah mengamati bukti penampakan luar secara kasat mata."
       },
       {
         "id": "q-ko-gram-18-pg-4",
@@ -8485,7 +8485,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pada jam sibuk jika lewat jalan sempit itu sudah pasti kita bakal terjebak macet total tak bisa bergerak, mari kita lewat jalan memutar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"출퇴근 시간에 그 좁은 도로로 가면 교통체증으로 꼼짝도 못 할 게 뻔하니 우회 도로로 갑시다.\" berarti \"Pada jam sibuk jika lewat jalan sempit itu sudah pasti kita bakal terjebak macet total tak bisa bergerak, mari kita lewat jalan memutar.\"."
+        "explanation": "Kalimat \"출퇴근 시간에 그 좁은 도로로 가면 교통체증으로 꼼짝도 못 할 게 뻔하니 우회 도로로 갑시다.\" (dibaca: Chultoegeun sigan-e geu job-eun doro-ro gamyeon gyotongchejeung-euro kkomjjak-do mot hal ge ppeonhani uhoe doro-ro gapsida.) berarti \"Pada jam sibuk jika lewat jalan sempit itu sudah pasti kita bakal terjebak macet total tak bisa bergerak, mari kita lewat jalan memutar.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 게 뻔하다 (sudah sangat jelas pasti akan begitu - bernuansa negatif) / V + -는 모양이다, A + -(으)ㄴ 모양이다 (tampaknya... melihat tandanya)\" (Kepastian & Dugaan Berdasar Gejala: -(으)ㄹ 게 뻔하다 & -는 모양이다) yang berfungsi untuk pola -(으)ㄹ 게 뻔하다 menyatakan kepastian ramalan yang sudah terang benderang bagi akal sehat (biasanya berujung buruk). Pola -(으)ㄴ/는 모양이다 menarik kesimpulan dugaan logis setelah mengamati bukti penampakan luar secara kasat mata."
       },
       {
         "id": "q-ko-gram-18-bb-2",
@@ -8632,7 +8632,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Restoran ini bukan hanya cita rasa makanannya yang sangat luar biasa, namun pelayanan para stafnya pun amat ramah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"시간이 부족하면 직접 방문하지 말고 이메일로 서류를 보내거나 온라인으로 신청하십시오.\" berarti \"Jika kekurangan waktu, jangan berkunjung langsung melainkan kirimkan berkas lewat email atau daftarlah secara online.\"."
+        "explanation": "Kalimat \"시간이 부족하면 직접 방문하지 말고 이메일로 서류를 보내거나 온라인으로 신청하십시오.\" (dibaca: Sigan-i bujokhadeun jikjeop bangmunhaji malgo ime-il-ro seoryu-reul bonaegeona onrain-euro sincheonghasipsio.) berarti \"Jika kekurangan waktu, jangan berkunjung langsung melainkan kirimkan berkas lewat email atau daftarlah secara online.\". Kalimat ini menggunakan pola \"V/A + -거나 (atau - pilihan aksi) / V/A + -든지 (apa pun pilihannya tak masalah) / V + -는 대신에 (sebagai gantinya / sebagai kompensasi)\" (Pilihan & Kompensasi Penggantian: -거나, -든지, -대신에) yang berfungsi untuk mengekspresikan pilihan alternatif dan kompensasi timbal balik. -거나 menghubungkan opsi 'atau', -든지 menyatakan keterbukaan 'entah A atau B', dan -(으)ㄴ/는 대신에 menyatakan penukaran peran atau kompensasi antara dua hal."
       },
       {
         "id": "q-ko-gram-19-pg-2",
@@ -8648,7 +8648,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Entah hari kerja maupun akhir pekan tidak masalah sama sekali, kami harap Anda berkenan menghubungi kami kapan pun pada jam yang nyaman bagi Anda."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"평일이든지 주말이든지 상관없으니까 편하신 시간대에 언제라도 연락해 주시기 바랍니다.\" berarti \"Entah hari kerja maupun akhir pekan tidak masalah sama sekali, kami harap Anda berkenan menghubungi kami kapan pun pada jam yang nyaman bagi Anda.\"."
+        "explanation": "Kalimat \"평일이든지 주말이든지 상관없으니까 편하신 시간대에 언제라도 연락해 주시기 바랍니다.\" (dibaca: Pyeong-irideunji jumal-ideunji sang-gwaneopseunikka pyeonhasin sigandae-e eonjerado yeollakhae jusigi baramnida.) berarti \"Entah hari kerja maupun akhir pekan tidak masalah sama sekali, kami harap Anda berkenan menghubungi kami kapan pun pada jam yang nyaman bagi Anda.\". Kalimat ini menggunakan pola \"V/A + -거나 (atau - pilihan aksi) / V/A + -든지 (apa pun pilihannya tak masalah) / V + -는 대신에 (sebagai gantinya / sebagai kompensasi)\" (Pilihan & Kompensasi Penggantian: -거나, -든지, -대신에) yang berfungsi untuk mengekspresikan pilihan alternatif dan kompensasi timbal balik. -거나 menghubungkan opsi 'atau', -든지 menyatakan keterbukaan 'entah A atau B', dan -(으)ㄴ/는 대신에 menyatakan penukaran peran atau kompensasi antara dua hal."
       },
       {
         "id": "q-ko-gram-19-pg-3",
@@ -8664,7 +8664,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sang kakak ekstrover dan banyak bicara, sebaliknya sang adik tenang dan gemar membaca buku sendirian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"선배가 점심 식사를 사 주는 대신에, 제가 분위기 좋은 카페에서 커피와 디저트를 대접했습니다.\" berarti \"Sebagai gantinya karena senior mentraktir makan siang, saya yang mentraktir kopi dan makanan penutup di kafe yang bernuansa nyaman.\"."
+        "explanation": "Kalimat \"선배가 점심 식사를 사 주는 대신에, 제가 분위기 좋은 카페에서 커피와 디저트를 대접했습니다.\" (dibaca: Seonbae-ga jeomsim siksa-reul sa juneun daesin-e, je-ga bunwigi jo-eun kape-eseo keopi-wa dijeoteu-reul daejeophaesseumnida.) berarti \"Sebagai gantinya karena senior mentraktir makan siang, saya yang mentraktir kopi dan makanan penutup di kafe yang bernuansa nyaman.\". Kalimat ini menggunakan pola \"V/A + -거나 (atau - pilihan aksi) / V/A + -든지 (apa pun pilihannya tak masalah) / V + -는 대신에 (sebagai gantinya / sebagai kompensasi)\" (Pilihan & Kompensasi Penggantian: -거나, -든지, -대신에) yang berfungsi untuk mengekspresikan pilihan alternatif dan kompensasi timbal balik. -거나 menghubungkan opsi 'atau', -든지 menyatakan keterbukaan 'entah A atau B', dan -(으)ㄴ/는 대신에 menyatakan penukaran peran atau kompensasi antara dua hal."
       },
       {
         "id": "q-ko-gram-19-pg-4",
@@ -8965,7 +8965,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena waktu ujian tidak lama lagi, mulai hari ini mari kita begadang dan fokus mengulang pelajaran di perpustakaan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"시간이 부족하면 직접 방문하지 말고 이메일로 서류를 보내거나 온라인으로 신청하십시오.\" berarti \"Jika kekurangan waktu, jangan berkunjung langsung melainkan kirimkan berkas lewat email atau daftarlah secara online.\"."
+        "explanation": "Kalimat \"시간이 부족하면 직접 방문하지 말고 이메일로 서류를 보내거나 온라인으로 신청하십시오.\" (dibaca: Sigan-i bujokhadeun jikjeop bangmunhaji malgo ime-il-ro seoryu-reul bonaegeona onrain-euro sincheonghasipsio.) berarti \"Jika kekurangan waktu, jangan berkunjung langsung melainkan kirimkan berkas lewat email atau daftarlah secara online.\". Kalimat ini menggunakan pola \"V/A + -거나 (atau - pilihan aksi) / V/A + -든지 (apa pun pilihannya tak masalah) / V + -는 대신에 (sebagai gantinya / sebagai kompensasi)\" (Pilihan & Kompensasi Penggantian: -거나, -든지, -대신에) yang berfungsi untuk mengekspresikan pilihan alternatif dan kompensasi timbal balik. -거나 menghubungkan opsi 'atau', -든지 menyatakan keterbukaan 'entah A atau B', dan -(으)ㄴ/는 대신에 menyatakan penukaran peran atau kompensasi antara dua hal."
       },
       {
         "id": "q-ko-gram-19-bb-2",
@@ -9113,7 +9113,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di samping cuaca buruk sudah sangat jelas lalu lintas pasti akan macet total, sebagai gantinya berkunjung langsung mari kita ganti dengan rapat virtual."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"날씨가 궂은 데다가 교통이 혼잡할 게 뻔하니까, 직접 방문하는 대신에 화상 회의로 대체하도록 합시다.\" berarti \"Di samping cuaca buruk sudah sangat jelas lalu lintas pasti akan macet total, sebagai gantinya berkunjung langsung mari kita ganti dengan rapat virtual.\"."
+        "explanation": "Kalimat \"날씨가 궂은 데다가 교통이 혼잡할 게 뻔하니까, 직접 방문하는 대신에 화상 회의로 대체하도록 합시다.\" (dibaca: Nalssi-ga gujeun dedaga gyotong-i honjaphal ge ppeonhanikka, jikjeop bangmunhaneun daesin-e hwasang hoeui-ro daechehadorok hapsida.) berarti \"Di samping cuaca buruk sudah sangat jelas lalu lintas pasti akan macet total, sebagai gantinya berkunjung langsung mari kita ganti dengan rapat virtual.\". Kalimat ini menggunakan pola \"중급 도약 복합 구문 (기초 논술 및 실전 듣기·읽기 연계)\" (Rangkuman & Strategi Penguasaan TOPIK 2 Level 3 (Mastery Unit)) yang berfungsi untuk pemantapan komprehensif seluruh 10 unit level TOPIK 3: mengintegrasikan relasi kausal, pengandaian bersyarat, kompensasi, dan evaluasi dalam pemecahan soal ujian membaca dan menulis esai pendek."
       },
       {
         "id": "q-ko-gram-20-pg-2",
@@ -9129,7 +9129,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Demi bekerja di perusahaan teknologi informasi Korea, setiap akhir pekan saya belajar coding dan bahasa Korea."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"비록 원룸 방 크기는 다소 좁은 편이지만, 역세권이라 교통이 매우 편리할 뿐만 아니라 주변 편의시설도 잘 갖추어져 있습니다.\" berarti \"Meskipun ukuran kamar studio tergolong agak sempit, karena berada di zona dekat stasiun transportasinya bukan hanya sangat praktis, namun fasilitas penunjang di sekitarnya pun lengkap tersedia.\"."
+        "explanation": "Kalimat \"비록 원룸 방 크기는 다소 좁은 편이지만, 역세권이라 교통이 매우 편리할 뿐만 아니라 주변 편의시설도 잘 갖추어져 있습니다.\" (dibaca: Birok wonrum bang keugi-neun daso job-eun pyeon-ijiman, yeoksegwon-ira gyotong-i maeu pyeonrihal ppunman anira jubyeon pyeon-uisiseol-do jal gatchueojyeo isseumnida.) berarti \"Meskipun ukuran kamar studio tergolong agak sempit, karena berada di zona dekat stasiun transportasinya bukan hanya sangat praktis, namun fasilitas penunjang di sekitarnya pun lengkap tersedia.\". Kalimat ini menggunakan pola \"중급 도약 복합 구문 (기초 논술 및 실전 듣기·읽기 연계)\" (Rangkuman & Strategi Penguasaan TOPIK 2 Level 3 (Mastery Unit)) yang berfungsi untuk pemantapan komprehensif seluruh 10 unit level TOPIK 3: mengintegrasikan relasi kausal, pengandaian bersyarat, kompensasi, dan evaluasi dalam pemecahan soal ujian membaca dan menulis esai pendek."
       },
       {
         "id": "q-ko-gram-20-pg-3",
@@ -9145,7 +9145,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Demi merayakan ulang tahun pernikahan orang tua, saya telah menyiapkan buket bunga kecil dan hadiah terlebih dahulu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"학창 시절 밤늦게까지 한국어 시험을 준비하느라고 고생했던 경험이 밑거름이 되어 오늘날 멋진 결실을 맺을 수 있었습니다.\" berarti \"Pengalaman masa sekolah dulu yang penuh perjuangan keras gara-gara mempersiapkan ujian bahasa Korea hingga larut malam telah menjadi pupuk fondasi berharga hingga hari ini dapat membuahkan hasil yang gilang-gemilang.\"."
+        "explanation": "Kalimat \"학창 시절 밤늦게까지 한국어 시험을 준비하느라고 고생했던 경험이 밑거름이 되어 오늘날 멋진 결실을 맺을 수 있었습니다.\" (dibaca: Hakchang sijeol bamneutgekkaji hangugeo siheom-eul junbihaneurago gosaenghaetdeon gyeongheom-i mitgeoreum-i doe-eo oneulnal meotjin gyeolsil-eul maej-eul su isseosseumnida.) berarti \"Pengalaman masa sekolah dulu yang penuh perjuangan keras gara-gara mempersiapkan ujian bahasa Korea hingga larut malam telah menjadi pupuk fondasi berharga hingga hari ini dapat membuahkan hasil yang gilang-gemilang.\". Kalimat ini menggunakan pola \"중급 도약 복합 구문 (기초 논술 및 실전 듣기·읽기 연계)\" (Rangkuman & Strategi Penguasaan TOPIK 2 Level 3 (Mastery Unit)) yang berfungsi untuk pemantapan komprehensif seluruh 10 unit level TOPIK 3: mengintegrasikan relasi kausal, pengandaian bersyarat, kompensasi, dan evaluasi dalam pemecahan soal ujian membaca dan menulis esai pendek."
       },
       {
         "id": "q-ko-gram-20-pg-4",
@@ -9448,7 +9448,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Dekat stasiun kereta bawah tanah sehingga transportasinya praktis, sebaliknya kebisingan sekitar parah sehingga di malam hari sangat berisik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"날씨가 궂은 데다가 교통이 혼잡할 게 뻔하니까, 직접 방문하는 대신에 화상 회의로 대체하도록 합시다.\" berarti \"Di samping cuaca buruk sudah sangat jelas lalu lintas pasti akan macet total, sebagai gantinya berkunjung langsung mari kita ganti dengan rapat virtual.\"."
+        "explanation": "Kalimat \"날씨가 궂은 데다가 교통이 혼잡할 게 뻔하니까, 직접 방문하는 대신에 화상 회의로 대체하도록 합시다.\" (dibaca: Nalssi-ga gujeun dedaga gyotong-i honjaphal ge ppeonhanikka, jikjeop bangmunhaneun daesin-e hwasang hoeui-ro daechehadorok hapsida.) berarti \"Di samping cuaca buruk sudah sangat jelas lalu lintas pasti akan macet total, sebagai gantinya berkunjung langsung mari kita ganti dengan rapat virtual.\". Kalimat ini menggunakan pola \"중급 도약 복합 구문 (기초 논술 및 실전 듣기·읽기 연계)\" (Rangkuman & Strategi Penguasaan TOPIK 2 Level 3 (Mastery Unit)) yang berfungsi untuk pemantapan komprehensif seluruh 10 unit level TOPIK 3: mengintegrasikan relasi kausal, pengandaian bersyarat, kompensasi, dan evaluasi dalam pemecahan soal ujian membaca dan menulis esai pendek."
       },
       {
         "id": "q-ko-gram-20-bb-2",
@@ -9598,7 +9598,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Fenomena jurang demografi akibat penurunan tajam angka kelahiran menjadi ancaman serius bagi daya saing kompetitif bangsa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"날씨가 맑게 개자 멀리 있는 북한산의 웅장한 봉우리가 창문 너머로 선명하게 보입니다.\" berarti \"Begitu cuaca cerah benderang, puncak megah Gunung Bukhansan yang berada di kejauhan tampak dengan amat jelas dari balik jendela.\"."
+        "explanation": "Kalimat \"날씨가 맑게 개자 멀리 있는 북한산의 웅장한 봉우리가 창문 너머로 선명하게 보입니다.\" (dibaca: Nalssi-ga malgge gaeja meolli inneun Bukhansan-ui ungjanghan bong-uri-ga changmun neomeo-ro seonmyeonghage boimnida.) berarti \"Begitu cuaca cerah benderang, puncak megah Gunung Bukhansan yang berada di kejauhan tampak dengan amat jelas dari balik jendela.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기 (Pasif Singkat) / Verba + -아/어지다 (Pasif Panjang/Perubahan Alami)\" (Kalimat Pasif Morfologis & Sintaksis: -이/히/리/기- & -아/어지다) yang berfungsi untuk kalimat pasif dalam bahasa Korea mengubah subjek menjadi pihak yang menerima perbuatan. Pasif pendek dibentuk dengan menyisipkan imbuhan (접미사) -이/히/리/기-, sedangkan pasif panjang menggunakan akhiran -아/어지다."
       },
       {
         "id": "q-ko-gram-21-pg-2",
@@ -9614,7 +9614,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena Pulau Jeju membanggakan panorama alam yang indah sepanjang 4 musim, tempat ini adalah destinasi wisata yang sangat layak direkomendasikan dengan penuh percaya diri kepada sahabat warga asing."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"스마트폰의 보급으로 인해 언제 어디서나 전 세계의 최신 뉴스가 실시간으로 전해집니다.\" berarti \"Berkat meluasnya ponsel pintar, berita terkini dari seluruh penjuru dunia tersampaikan secara waktu nyata kapan pun dan di mana pun.\"."
+        "explanation": "Kalimat \"스마트폰의 보급으로 인해 언제 어디서나 전 세계의 최신 뉴스가 실시간으로 전해집니다.\" (dibaca: Seumateupon-ui bogeup-euro inhae eonje eodiseona jeon segye-ui choesin nyuseu-ga silsigan-euro jeonhaejimnida.) berarti \"Berkat meluasnya ponsel pintar, berita terkini dari seluruh penjuru dunia tersampaikan secara waktu nyata kapan pun dan di mana pun.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기 (Pasif Singkat) / Verba + -아/어지다 (Pasif Panjang/Perubahan Alami)\" (Kalimat Pasif Morfologis & Sintaksis: -이/히/리/기- & -아/어지다) yang berfungsi untuk kalimat pasif dalam bahasa Korea mengubah subjek menjadi pihak yang menerima perbuatan. Pasif pendek dibentuk dengan menyisipkan imbuhan (접미사) -이/히/리/기-, sedangkan pasif panjang menggunakan akhiran -아/어지다."
       },
       {
         "id": "q-ko-gram-21-pg-3",
@@ -9630,7 +9630,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena jurnalis tersebut menulis artikel melalui verifikasi fakta yang ketat, dia adalah insan pers yang layak dipercaya dan diandalkan oleh masyarakat luas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"골목길에서 도망치던 소매치기 범인이 용감한 시민들과 출동한 경찰관에게 현장에서 붙잡혔습니다.\" berarti \"Pencopet yang melarikan diri di dalam gang sempit telah diringkus di tempat kejadian oleh warga pemberani dan polisi yang berpatroli.\"."
+        "explanation": "Kalimat \"골목길에서 도망치던 소매치기 범인이 용감한 시민들과 출동한 경찰관에게 현장에서 붙잡혔습니다.\" (dibaca: Golmokgil-eseo domangchideon somaechigi beomin-i yonggamhan simindeul-gwa chuldonghan gyeongchalgwan-ege hyeonjang-eseo butjapyeosseumnida.) berarti \"Pencopet yang melarikan diri di dalam gang sempit telah diringkus di tempat kejadian oleh warga pemberani dan polisi yang berpatroli.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기 (Pasif Singkat) / Verba + -아/어지다 (Pasif Panjang/Perubahan Alami)\" (Kalimat Pasif Morfologis & Sintaksis: -이/히/리/기- & -아/어지다) yang berfungsi untuk kalimat pasif dalam bahasa Korea mengubah subjek menjadi pihak yang menerima perbuatan. Pasif pendek dibentuk dengan menyisipkan imbuhan (접미사) -이/히/리/기-, sedangkan pasif panjang menggunakan akhiran -아/어지다."
       },
       {
         "id": "q-ko-gram-21-pg-4",
@@ -9931,7 +9931,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Akibat hujan lebat terpusat yang memecahkan rekor, kawasan perumahan dataran rendah terendam banjir dan berbagai ruas jalan ditutup."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"날씨가 맑게 개자 멀리 있는 북한산의 웅장한 봉우리가 창문 너머로 선명하게 보입니다.\" berarti \"Begitu cuaca cerah benderang, puncak megah Gunung Bukhansan yang berada di kejauhan tampak dengan amat jelas dari balik jendela.\"."
+        "explanation": "Kalimat \"날씨가 맑게 개자 멀리 있는 북한산의 웅장한 봉우리가 창문 너머로 선명하게 보입니다.\" (dibaca: Nalssi-ga malgge gaeja meolli inneun Bukhansan-ui ungjanghan bong-uri-ga changmun neomeo-ro seonmyeonghage boimnida.) berarti \"Begitu cuaca cerah benderang, puncak megah Gunung Bukhansan yang berada di kejauhan tampak dengan amat jelas dari balik jendela.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기 (Pasif Singkat) / Verba + -아/어지다 (Pasif Panjang/Perubahan Alami)\" (Kalimat Pasif Morfologis & Sintaksis: -이/히/리/기- & -아/어지다) yang berfungsi untuk kalimat pasif dalam bahasa Korea mengubah subjek menjadi pihak yang menerima perbuatan. Pasif pendek dibentuk dengan menyisipkan imbuhan (접미사) -이/히/리/기-, sedangkan pasif panjang menggunakan akhiran -아/어지다."
       },
       {
         "id": "q-ko-gram-21-bb-2",
@@ -10082,7 +10082,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun merupakan operasi yang berat, beruntung proses pemulihannya bagus sehingga sekarang rasa sakitnya hampir tiada dan masih sangat sanggup ditahan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"어머니는 갓난아기에게 따뜻한 우유를 먹이고 포근한 침대에 눕혀서 조용히 잠을 재웠습니다.\" berarti \"Sang ibu memberi minum susu hangat kepada bayi yang baru lahir, membaringkannya di tempat tidur yang hangat, dan menidurkannya dengan tenang.\"."
+        "explanation": "Kalimat \"어머니는 갓난아기에게 따뜻한 우유를 먹이고 포근한 침대에 눕혀서 조용히 잠을 재웠습니다.\" (dibaca: Eomeoni-neun gannan-agi-ege ttatteukhan uyu-reul meogigo pogeunhan chimdae-e nupheoseo joyonghi jam-eul jaewosseumnida.) berarti \"Sang ibu memberi minum susu hangat kepada bayi yang baru lahir, membaringkannya di tempat tidur yang hangat, dan menidurkannya dengan tenang.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기/우/추 (Kausatif Singkat) / Verba + -게 하다 (Kausatif Panjang)\" (Kalimat Kausatif (Menyuruh / Membuat): -이/히/리/기/우/추- & -게 하다) yang berfungsi untuk kalimat kausatif menyatakan subjek menyuruh, memaksa, atau membuat pihak lain melakukan suatu perbuatan. Kausatif pendek mencerminkan aksi langsung, sedangkan -게 하다 mencerminkan instruksi tidak langsung."
       },
       {
         "id": "q-ko-gram-22-pg-2",
@@ -10098,7 +10098,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah krisis yang kita hadapi dapat diubah menjadi peluang atau tidak, sepenuhnya bergantung pada sikap mental kita."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"정부는 과열된 부동산 시장을 안정시키기 위해 대출 규제를 강화하고 금리를 높이도록 유도했습니다.\" berarti \"Demi menstabilkan pasar properti yang memanas, pemerintah memperketat regulasi pinjaman dan mendorong kenaikan suku bunga.\"."
+        "explanation": "Kalimat \"정부는 과열된 부동산 시장을 안정시키기 위해 대출 규제를 강화하고 금리를 높이도록 유도했습니다.\" (dibaca: Jeongbu-neun gwayeol-doen budongsan sijang-eul anjeongsikigi wihae daechul gyuje-reul ganghwahago geumri-reul nopidorok yudohaesseumnida.) berarti \"Demi menstabilkan pasar properti yang memanas, pemerintah memperketat regulasi pinjaman dan mendorong kenaikan suku bunga.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기/우/추 (Kausatif Singkat) / Verba + -게 하다 (Kausatif Panjang)\" (Kalimat Kausatif (Menyuruh / Membuat): -이/히/리/기/우/추- & -게 하다) yang berfungsi untuk kalimat kausatif menyatakan subjek menyuruh, memaksa, atau membuat pihak lain melakukan suatu perbuatan. Kausatif pendek mencerminkan aksi langsung, sedangkan -게 하다 mencerminkan instruksi tidak langsung."
       },
       {
         "id": "q-ko-gram-22-pg-3",
@@ -10114,7 +10114,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Lelucon cerdas dan akting jenaka komedian tersebut telah membuat para penonton tertawa terbahak-bahak sambil memegangi perut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"그 코미디언의 재치 있는 입담과 능청스러운 연기는 관객들을 배꼽 잡고 포복절도하며 웃게 만들었습니다.\" berarti \"Lelucon cerdas dan akting jenaka komedian tersebut telah membuat para penonton tertawa terbahak-bahak sambil memegangi perut.\"."
+        "explanation": "Kalimat \"그 코미디언의 재치 있는 입담과 능청스러운 연기는 관객들을 배꼽 잡고 포복절도하며 웃게 만들었습니다.\" (dibaca: Geu komidieon-ui jaechi inneun ipdam-gwa neungcheongseureoun yeon-gi-neun gwan-gaekdeul-eul baekkop japgo pobokjeoldohamyeo utge mandeureosseumnida.) berarti \"Lelucon cerdas dan akting jenaka komedian tersebut telah membuat para penonton tertawa terbahak-bahak sambil memegangi perut.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기/우/추 (Kausatif Singkat) / Verba + -게 하다 (Kausatif Panjang)\" (Kalimat Kausatif (Menyuruh / Membuat): -이/히/리/기/우/추- & -게 하다) yang berfungsi untuk kalimat kausatif menyatakan subjek menyuruh, memaksa, atau membuat pihak lain melakukan suatu perbuatan. Kausatif pendek mencerminkan aksi langsung, sedangkan -게 하다 mencerminkan instruksi tidak langsung."
       },
       {
         "id": "q-ko-gram-22-pg-4",
@@ -10419,7 +10419,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sang ibu memberi minum susu hangat kepada bayi yang baru lahir, membaringkannya di tempat tidur yang hangat, dan menidurkannya dengan tenang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"어머니는 갓난아기에게 따뜻한 우유를 먹이고 포근한 침대에 눕혀서 조용히 잠을 재웠습니다.\" berarti \"Sang ibu memberi minum susu hangat kepada bayi yang baru lahir, membaringkannya di tempat tidur yang hangat, dan menidurkannya dengan tenang.\"."
+        "explanation": "Kalimat \"어머니는 갓난아기에게 따뜻한 우유를 먹이고 포근한 침대에 눕혀서 조용히 잠을 재웠습니다.\" (dibaca: Eomeoni-neun gannan-agi-ege ttatteukhan uyu-reul meogigo pogeunhan chimdae-e nupheoseo joyonghi jam-eul jaewosseumnida.) berarti \"Sang ibu memberi minum susu hangat kepada bayi yang baru lahir, membaringkannya di tempat tidur yang hangat, dan menidurkannya dengan tenang.\". Kalimat ini menggunakan pola \"Akar Verba + 이/히/리/기/우/추 (Kausatif Singkat) / Verba + -게 하다 (Kausatif Panjang)\" (Kalimat Kausatif (Menyuruh / Membuat): -이/히/리/기/우/추- & -게 하다) yang berfungsi untuk kalimat kausatif menyatakan subjek menyuruh, memaksa, atau membuat pihak lain melakukan suatu perbuatan. Kausatif pendek mencerminkan aksi langsung, sedangkan -게 하다 mencerminkan instruksi tidak langsung."
       },
       {
         "id": "q-ko-gram-22-bb-2",
@@ -10565,7 +10565,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimanapun sulit dan rumitnya suatu pekerjaan, semuanya tergantung pada dengan hati seperti apa kita menghadapinya dan bagaimana cara kita menanganinya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"눈길에서 자동차 바퀴가 미끄러지는 바람에 하마터면 가드레일을 들이받고 큰 사고가 날 뻔했습니다.\" berarti \"Gara-gara roda mobil tergelincir di jalan bersalju, nyaris saja kami menabrak pagar pembatas jalan dan terjadi kecelakaan fatal.\"."
+        "explanation": "Kalimat \"눈길에서 자동차 바퀴가 미끄러지는 바람에 하마터면 가드레일을 들이받고 큰 사고가 날 뻔했습니다.\" (dibaca: Nungil-eseo jadongcha bakwi-ga mikkeureojineun baram-e hamateomyeon gadeureil-eul deuribatgo keun sago-ga nal ppeonhaesseumnida.) berarti \"Gara-gara roda mobil tergelincir di jalan bersalju, nyaris saja kami menabrak pagar pembatas jalan dan terjadi kecelakaan fatal.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 뻔하다 (nyaris saja... untung tidak) / 마치 + V + -는 것처럼 (bagaikan / seolah-olah)\" (Hampir Terjadi & Kemiripan Kiasan: -(으)ㄹ 뻔하다 & 마치 -(으)ㄴ/는 것처럼) yang berfungsi untuk pola -(으)ㄹ 뻔하다 digunakan saat suatu kejadian bahaya hampir saja terjadi tetapi beruntung berhasil dihindari pada detik-detik terakhir. Pola 마치 -(으)ㄴ/는 것처럼 membuat perumpamaan puitis atau metafora yang membandingkan dua kemiripan."
       },
       {
         "id": "q-ko-gram-23-pg-2",
@@ -10581,7 +10581,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Aktor asing tersebut menuturkan bahasa baku Korea dengan sempurna, seolah-olah dia adalah orang yang lahir dan besar di Korea."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"그 외국인 배우는 마치 한국에서 태어나고 자란 사람인 것처럼 표준어를 완벽하게 구사합니다.\" berarti \"Aktor asing tersebut menuturkan bahasa baku Korea dengan sempurna, seolah-olah dia adalah orang yang lahir dan besar di Korea.\"."
+        "explanation": "Kalimat \"그 외국인 배우는 마치 한국에서 태어나고 자란 사람인 것처럼 표준어를 완벽하게 구사합니다.\" (dibaca: Geu oeguk-in bae-u-neun machi Hanguk-eseo taeeonago jaran saram-in geoscheoreom pyojuneo-reul wanbyeokhage gusahamnida.) berarti \"Aktor asing tersebut menuturkan bahasa baku Korea dengan sempurna, seolah-olah dia adalah orang yang lahir dan besar di Korea.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 뻔하다 (nyaris saja... untung tidak) / 마치 + V + -는 것처럼 (bagaikan / seolah-olah)\" (Hampir Terjadi & Kemiripan Kiasan: -(으)ㄹ 뻔하다 & 마치 -(으)ㄴ/는 것처럼) yang berfungsi untuk pola -(으)ㄹ 뻔하다 digunakan saat suatu kejadian bahaya hampir saja terjadi tetapi beruntung berhasil dihindari pada detik-detik terakhir. Pola 마치 -(으)ㄴ/는 것처럼 membuat perumpamaan puitis atau metafora yang membandingkan dua kemiripan."
       },
       {
         "id": "q-ko-gram-23-pg-3",
@@ -10597,7 +10597,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Seiring berlanjutnya gelombang panas yang mendekati 40 derajat berhari-hari, napas terasa tercekat sampai-sampai berada di ambang sesak luar biasa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"알람 소리를 듣지 못하고 늦잠을 자서 중요한 입사 면접시험에 하마터면 불참할 뻔했습니다.\" berarti \"Karena tidak mendengar suara alarm dan bangun kesiangan, nyaris saja saya tidak bisa menghadiri ujian wawancara kerja yang sangat penting.\"."
+        "explanation": "Kalimat \"알람 소리를 듣지 못하고 늦잠을 자서 중요한 입사 면접시험에 하마터면 불참할 뻔했습니다.\" (dibaca: Allam sori-reul deutji mothago neutjam-eul jaseo jung-yohan ipsa myeonjeopsiheom-e hamateomyeon bulchamhal ppeonhaesseumnida.) berarti \"Karena tidak mendengar suara alarm dan bangun kesiangan, nyaris saja saya tidak bisa menghadiri ujian wawancara kerja yang sangat penting.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 뻔하다 (nyaris saja... untung tidak) / 마치 + V + -는 것처럼 (bagaikan / seolah-olah)\" (Hampir Terjadi & Kemiripan Kiasan: -(으)ㄹ 뻔하다 & 마치 -(으)ㄴ/는 것처럼) yang berfungsi untuk pola -(으)ㄹ 뻔하다 digunakan saat suatu kejadian bahaya hampir saja terjadi tetapi beruntung berhasil dihindari pada detik-detik terakhir. Pola 마치 -(으)ㄴ/는 것처럼 membuat perumpamaan puitis atau metafora yang membandingkan dua kemiripan."
       },
       {
         "id": "q-ko-gram-23-pg-4",
@@ -10902,7 +10902,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah krisis yang kita hadapi dapat diubah menjadi peluang atau tidak, sepenuhnya bergantung pada sikap mental kita."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"눈길에서 자동차 바퀴가 미끄러지는 바람에 하마터면 가드레일을 들이받고 큰 사고가 날 뻔했습니다.\" berarti \"Gara-gara roda mobil tergelincir di jalan bersalju, nyaris saja kami menabrak pagar pembatas jalan dan terjadi kecelakaan fatal.\"."
+        "explanation": "Kalimat \"눈길에서 자동차 바퀴가 미끄러지는 바람에 하마터면 가드레일을 들이받고 큰 사고가 날 뻔했습니다.\" (dibaca: Nungil-eseo jadongcha bakwi-ga mikkeureojineun baram-e hamateomyeon gadeureil-eul deuribatgo keun sago-ga nal ppeonhaesseumnida.) berarti \"Gara-gara roda mobil tergelincir di jalan bersalju, nyaris saja kami menabrak pagar pembatas jalan dan terjadi kecelakaan fatal.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 뻔하다 (nyaris saja... untung tidak) / 마치 + V + -는 것처럼 (bagaikan / seolah-olah)\" (Hampir Terjadi & Kemiripan Kiasan: -(으)ㄹ 뻔하다 & 마치 -(으)ㄴ/는 것처럼) yang berfungsi untuk pola -(으)ㄹ 뻔하다 digunakan saat suatu kejadian bahaya hampir saja terjadi tetapi beruntung berhasil dihindari pada detik-detik terakhir. Pola 마치 -(으)ㄴ/는 것처럼 membuat perumpamaan puitis atau metafora yang membandingkan dua kemiripan."
       },
       {
         "id": "q-ko-gram-23-bb-2",
@@ -11048,7 +11048,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Akibat hujan lebat terpusat yang memecahkan rekor, kawasan perumahan dataran rendah terendam banjir dan berbagai ruas jalan ditutup."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"기록적인 집중호우로 인해 저지대 주택가가 침수되고 도로 곳곳이 통제되었습니다.\" berarti \"Akibat hujan lebat terpusat yang memecahkan rekor, kawasan perumahan dataran rendah terendam banjir dan berbagai ruas jalan ditutup.\"."
+        "explanation": "Kalimat \"기록적인 집중호우로 인해 저지대 주택가가 침수되고 도로 곳곳이 통제되었습니다.\" (dibaca: Girokjeok-in jipjungho-u-ro inhae jeojidae jutaekga-ga chim sudoego doro gotgot-i tongjedoeeosseumnida.) berarti \"Akibat hujan lebat terpusat yang memecahkan rekor, kawasan perumahan dataran rendah terendam banjir dan berbagai ruas jalan ditutup.\". Kalimat ini menggunakan pola \"Kata Benda + -(으)로 인해(서) (disebabkan oleh / akibat dari) / -(으)로 인한 + Kata Benda\" (Kausalitas Formal Berita & Bencana: -(으)로 인해(서) & -(으)로 인한) yang berfungsi untuk pola register tulis formal (격식체) untuk menerangkan sebab musabab suatu musibah, perubahan sosial, atau fenomena berskala luas dalam laporan koran dan esai akademis."
       },
       {
         "id": "q-ko-gram-24-pg-2",
@@ -11064,7 +11064,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sejak bersentuhan dengan drama Korea melalui sebuah kesempatan tak sengaja, akhirnya saya menjadi tertarik mendalam pada kebudayaan dan sejarah Korea."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"출산율의 급격한 저하로 인한 인구 절벽 현상은 국가 경쟁력에 심각한 위협이 되고 있습니다.\" berarti \"Fenomena jurang demografi akibat penurunan tajam angka kelahiran menjadi ancaman serius bagi daya saing kompetitif bangsa.\"."
+        "explanation": "Kalimat \"출산율의 급격한 저하로 인한 인구 절벽 현상은 국가 경쟁력에 심각한 위협이 되고 있습니다.\" (dibaca: Chulsan-yul-ui geupgyeokhan jeoha-ro inan in-gu jeolbyeok hyeonsang-eun gukka gyeongjaengryeok-e sim-gakhan wiheop-i doego isseumnida.) berarti \"Fenomena jurang demografi akibat penurunan tajam angka kelahiran menjadi ancaman serius bagi daya saing kompetitif bangsa.\". Kalimat ini menggunakan pola \"Kata Benda + -(으)로 인해(서) (disebabkan oleh / akibat dari) / -(으)로 인한 + Kata Benda\" (Kausalitas Formal Berita & Bencana: -(으)로 인해(서) & -(으)로 인한) yang berfungsi untuk pola register tulis formal (격식체) untuk menerangkan sebab musabab suatu musibah, perubahan sosial, atau fenomena berskala luas dalam laporan koran dan esai akademis."
       },
       {
         "id": "q-ko-gram-24-pg-3",
@@ -11080,7 +11080,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah sekian lama merantau di negeri orang, akhirnya saya bisa kembali ke tanah kelahiran yang sebegitu saya rindukan, hati ini diliputi rasa haru meluap-luap."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"환경오염으로 인한 생태계 파괴를 막기 위해 전 세계적인 탄소 배출 저감 노력이 절실합니다.\" berarti \"Demi mencegah kehancuran ekosistem akibat pencemaran lingkungan, ikhtiar pengurangan emisi karbon berskala global amat sangat mendesak.\"."
+        "explanation": "Kalimat \"환경오염으로 인한 생태계 파괴를 막기 위해 전 세계적인 탄소 배출 저감 노력이 절실합니다.\" (dibaca: Hwan-gyeong-o-yeom-euro inan saengtaegye pagwoe-reul makgi wihae jeon segye-jeok-in tanso baechul jeogam noryeok-i jeolsilhamnida.) berarti \"Demi mencegah kehancuran ekosistem akibat pencemaran lingkungan, ikhtiar pengurangan emisi karbon berskala global amat sangat mendesak.\". Kalimat ini menggunakan pola \"Kata Benda + -(으)로 인해(서) (disebabkan oleh / akibat dari) / -(으)로 인한 + Kata Benda\" (Kausalitas Formal Berita & Bencana: -(으)로 인해(서) & -(으)로 인한) yang berfungsi untuk pola register tulis formal (격식체) untuk menerangkan sebab musabab suatu musibah, perubahan sosial, atau fenomena berskala luas dalam laporan koran dan esai akademis."
       },
       {
         "id": "q-ko-gram-24-pg-4",
@@ -11383,7 +11383,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena terus melakukan kerja fisik berat 14 jam sehari, pinggang saya berdenyut nyeri sampai-sampai serasa mau patah ambang batasnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"기록적인 집중호우로 인해 저지대 주택가가 침수되고 도로 곳곳이 통제되었습니다.\" berarti \"Akibat hujan lebat terpusat yang memecahkan rekor, kawasan perumahan dataran rendah terendam banjir dan berbagai ruas jalan ditutup.\"."
+        "explanation": "Kalimat \"기록적인 집중호우로 인해 저지대 주택가가 침수되고 도로 곳곳이 통제되었습니다.\" (dibaca: Girokjeok-in jipjungho-u-ro inhae jeojidae jutaekga-ga chim sudoego doro gotgot-i tongjedoeeosseumnida.) berarti \"Akibat hujan lebat terpusat yang memecahkan rekor, kawasan perumahan dataran rendah terendam banjir dan berbagai ruas jalan ditutup.\". Kalimat ini menggunakan pola \"Kata Benda + -(으)로 인해(서) (disebabkan oleh / akibat dari) / -(으)로 인한 + Kata Benda\" (Kausalitas Formal Berita & Bencana: -(으)로 인해(서) & -(으)로 인한) yang berfungsi untuk pola register tulis formal (격식체) untuk menerangkan sebab musabab suatu musibah, perubahan sosial, atau fenomena berskala luas dalam laporan koran dan esai akademis."
       },
       {
         "id": "q-ko-gram-24-bb-2",
@@ -11530,7 +11530,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pemerintah menciptakan sistem bantuan finansial terarah agar para pemuda terdorong untuk berani menantang diri berwirausaha secara mandiri."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"제주도는 사계절 내내 아름다운 자연경관을 자랑하므로 외국인 친구에게 자신 있게 추천할 만한 관광지입니다.\" berarti \"Karena Pulau Jeju membanggakan panorama alam yang indah sepanjang 4 musim, tempat ini adalah destinasi wisata yang sangat layak direkomendasikan dengan penuh percaya diri kepada sahabat warga asing.\"."
+        "explanation": "Kalimat \"제주도는 사계절 내내 아름다운 자연경관을 자랑하므로 외국인 친구에게 자신 있게 추천할 만한 관광지입니다.\" (dibaca: Jejudo-neun sagyejeol naenae areumdaun jayeongyeong-gwan-eul jaranghameuro oeguk-in chin-gu-ege jasin itge chucheonhal manhan gwangwangji-imnida.) berarti \"Karena Pulau Jeju membanggakan panorama alam yang indah sepanjang 4 musim, tempat ini adalah destinasi wisata yang sangat layak direkomendasikan dengan penuh percaya diri kepada sahabat warga asing.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 만하다 (layak untuk dicoba / berharga untuk dilakukan)\" (Kelayakan & Rekomendasi Nilai: -(으)ㄹ 만하다) yang berfungsi untuk menyatakan bahwa suatu objek, pengalaman, atau karya memiliki nilai kepantasan yang cukup tinggi sehingga layak dan patut untuk direkomendasikan kepada orang lain ('layak/patut untuk...')."
       },
       {
         "id": "q-ko-gram-25-pg-2",
@@ -11546,7 +11546,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Soal ujian ternyata lebih sulit dari yang saya bayangkan, seharusnya saya mencoba mengerjakan soal-soal latihan tahun lalu yang ditekankan oleh guru terlebih dahulu, sungguh menyesal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"비록 힘든 수술이었지만 다행히 경과가 좋아서 지금은 통증도 거의 없고 참을 만합니다.\" berarti \"Meskipun merupakan operasi yang berat, beruntung proses pemulihannya bagus sehingga sekarang rasa sakitnya hampir tiada dan masih sangat sanggup ditahan.\"."
+        "explanation": "Kalimat \"비록 힘든 수술이었지만 다행히 경과가 좋아서 지금은 통증도 거의 없고 참을 만합니다.\" (dibaca: Birok himdeun susul-ieotjiman dahaeanghi gyeong-gwa-ga joaseo jigeum-eun tongjeung-do geoui eopgo chameul manhamnida.) berarti \"Meskipun merupakan operasi yang berat, beruntung proses pemulihannya bagus sehingga sekarang rasa sakitnya hampir tiada dan masih sangat sanggup ditahan.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 만하다 (layak untuk dicoba / berharga untuk dilakukan)\" (Kelayakan & Rekomendasi Nilai: -(으)ㄹ 만하다) yang berfungsi untuk menyatakan bahwa suatu objek, pengalaman, atau karya memiliki nilai kepantasan yang cukup tinggi sehingga layak dan patut untuk direkomendasikan kepada orang lain ('layak/patut untuk...')."
       },
       {
         "id": "q-ko-gram-25-pg-3",
@@ -11562,7 +11562,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Semestinya saya tidak gegabah memutuskan investasi tanpa kehati-hatian seperti itu, saya telah melakukan kesalahan yang tak dapat diputar kembali."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"그 기자는 철저한 사실 확인을 거쳐 기사를 작성하므로 대중이 신뢰하고 믿을 만한 언론인입니다.\" berarti \"Karena jurnalis tersebut menulis artikel melalui verifikasi fakta yang ketat, dia adalah insan pers yang layak dipercaya dan diandalkan oleh masyarakat luas.\"."
+        "explanation": "Kalimat \"그 기자는 철저한 사실 확인을 거쳐 기사를 작성하므로 대중이 신뢰하고 믿을 만한 언론인입니다.\" (dibaca: Geu gija-neun cheoljeohan sasil hwag-in-eul geocheo gisa-reul jakseonghameuro daejung-i sinroe-hago mideul manhan eonron-in-imnida.) berarti \"Karena jurnalis tersebut menulis artikel melalui verifikasi fakta yang ketat, dia adalah insan pers yang layak dipercaya dan diandalkan oleh masyarakat luas.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 만하다 (layak untuk dicoba / berharga untuk dilakukan)\" (Kelayakan & Rekomendasi Nilai: -(으)ㄹ 만하다) yang berfungsi untuk menyatakan bahwa suatu objek, pengalaman, atau karya memiliki nilai kepantasan yang cukup tinggi sehingga layak dan patut untuk direkomendasikan kepada orang lain ('layak/patut untuk...')."
       },
       {
         "id": "q-ko-gram-25-pg-4",
@@ -11869,7 +11869,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sejak bersentuhan dengan drama Korea melalui sebuah kesempatan tak sengaja, akhirnya saya menjadi tertarik mendalam pada kebudayaan dan sejarah Korea."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"제주도는 사계절 내내 아름다운 자연경관을 자랑하므로 외국인 친구에게 자신 있게 추천할 만한 관광지입니다.\" berarti \"Karena Pulau Jeju membanggakan panorama alam yang indah sepanjang 4 musim, tempat ini adalah destinasi wisata yang sangat layak direkomendasikan dengan penuh percaya diri kepada sahabat warga asing.\"."
+        "explanation": "Kalimat \"제주도는 사계절 내내 아름다운 자연경관을 자랑하므로 외국인 친구에게 자신 있게 추천할 만한 관광지입니다.\" (dibaca: Jejudo-neun sagyejeol naenae areumdaun jayeongyeong-gwan-eul jaranghameuro oeguk-in chin-gu-ege jasin itge chucheonhal manhan gwangwangji-imnida.) berarti \"Karena Pulau Jeju membanggakan panorama alam yang indah sepanjang 4 musim, tempat ini adalah destinasi wisata yang sangat layak direkomendasikan dengan penuh percaya diri kepada sahabat warga asing.\". Kalimat ini menggunakan pola \"V + -(으)ㄹ 만하다 (layak untuk dicoba / berharga untuk dilakukan)\" (Kelayakan & Rekomendasi Nilai: -(으)ㄹ 만하다) yang berfungsi untuk menyatakan bahwa suatu objek, pengalaman, atau karya memiliki nilai kepantasan yang cukup tinggi sehingga layak dan patut untuk direkomendasikan kepada orang lain ('layak/patut untuk...')."
       },
       {
         "id": "q-ko-gram-25-bb-2",
@@ -12015,7 +12015,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Semestinya saat orang tua masih sehat dan hidup saya berbakti sepenuh hati dan sering menjenguk mereka, kini hati ini terasa sesak teriris penyesalan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"우리가 직면한 위기를 기회로 바꿀 수 있을지 여부는 전적으로 우리의 마음가짐에 달려 있습니다.\" berarti \"Apakah krisis yang kita hadapi dapat diubah menjadi peluang atau tidak, sepenuhnya bergantung pada sikap mental kita.\"."
+        "explanation": "Kalimat \"우리가 직면한 위기를 기회로 바꿀 수 있을지 여부는 전적으로 우리의 마음가짐에 달려 있습니다.\" (dibaca: Uri-ga jikmyeonhan wigi-reul gihoe-ro bakkul su isseulji yeobu-neun jeonjeok-euro uri-ui ma-eumgajim-e dallyeo isseumnida.) berarti \"Apakah krisis yang kita hadapi dapat diubah menjadi peluang atau tidak, sepenuhnya bergantung pada sikap mental kita.\". Kalimat ini menggunakan pola \"N + -에 달려 있다 (tergantung pada faktor X) / V + -기 나름이다 (tergantung bagaimana cara melakukannya)\" (Faktor Penentu: -에 달려 있다 & -기 나름이다) yang berfungsi untuk pola untuk menyatakan bahwa hasil akhir atau kesuksesan suatu perkara sepenuhnya ditentukan oleh faktor tertentu atau usaha pelaku ('semua tergantung pada...')."
       },
       {
         "id": "q-ko-gram-26-pg-2",
@@ -12031,7 +12031,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Masalah perubahan iklim akibat pencemaran lingkungan adalah persoalan genting yang di atasnya bergantung kelangsungan hidup seluruh umat manusia, sehingga kerja sama berskala global amat sangat dituntut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"아무리 어렵고 까다로운 일이라도 어떤 마음으로 대하고 어떻게 대처하기 나름입니다.\" berarti \"Sebagaimanapun sulit dan rumitnya suatu pekerjaan, semuanya tergantung pada dengan hati seperti apa kita menghadapinya dan bagaimana cara kita menanganinya.\"."
+        "explanation": "Kalimat \"아무리 어렵고 까다로운 일이라도 어떤 마음으로 대하고 어떻게 대처하기 나름입니다.\" (dibaca: Amuri eoryeopgo kkadaraoun il-irado eotteon ma-eum-euro daehago eotteohge daecheohagi nareum-imnida.) berarti \"Sebagaimanapun sulit dan rumitnya suatu pekerjaan, semuanya tergantung pada dengan hati seperti apa kita menghadapinya dan bagaimana cara kita menanganinya.\". Kalimat ini menggunakan pola \"N + -에 달려 있다 (tergantung pada faktor X) / V + -기 나름이다 (tergantung bagaimana cara melakukannya)\" (Faktor Penentu: -에 달려 있다 & -기 나름이다) yang berfungsi untuk pola untuk menyatakan bahwa hasil akhir atau kesuksesan suatu perkara sepenuhnya ditentukan oleh faktor tertentu atau usaha pelaku ('semua tergantung pada...')."
       },
       {
         "id": "q-ko-gram-26-pg-3",
@@ -12047,7 +12047,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah tim sepak bola nasional kali ini lolos ke babak utama atau tidak, bergantung pada hasil pertandingan kualifikasi pamungkas terakhir."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"이번 국가 대표 축구팀의 본선 진출 여부는 마지막 최종 예선 경기 결과에 달려 있습니다.\" berarti \"Apakah tim sepak bola nasional kali ini lolos ke babak utama atau tidak, bergantung pada hasil pertandingan kualifikasi pamungkas terakhir.\"."
+        "explanation": "Kalimat \"이번 국가 대표 축구팀의 본선 진출 여부는 마지막 최종 예선 경기 결과에 달려 있습니다.\" (dibaca: Ibeon gukka daepyo chukgutim-ui bonseon jinchul yeobu-neun majimak choejong yeseon gyeong-gi gyeolgwa-e dallyeo isseumnida.) berarti \"Apakah tim sepak bola nasional kali ini lolos ke babak utama atau tidak, bergantung pada hasil pertandingan kualifikasi pamungkas terakhir.\". Kalimat ini menggunakan pola \"N + -에 달려 있다 (tergantung pada faktor X) / V + -기 나름이다 (tergantung bagaimana cara melakukannya)\" (Faktor Penentu: -에 달려 있다 & -기 나름이다) yang berfungsi untuk pola untuk menyatakan bahwa hasil akhir atau kesuksesan suatu perkara sepenuhnya ditentukan oleh faktor tertentu atau usaha pelaku ('semua tergantung pada...')."
       },
       {
         "id": "q-ko-gram-26-pg-4",
@@ -12352,7 +12352,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah krisis yang kita hadapi dapat diubah menjadi peluang atau tidak, sepenuhnya bergantung pada sikap mental kita."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"우리가 직면한 위기를 기회로 바꿀 수 있을지 여부는 전적으로 우리의 마음가짐에 달려 있습니다.\" berarti \"Apakah krisis yang kita hadapi dapat diubah menjadi peluang atau tidak, sepenuhnya bergantung pada sikap mental kita.\"."
+        "explanation": "Kalimat \"우리가 직면한 위기를 기회로 바꿀 수 있을지 여부는 전적으로 우리의 마음가짐에 달려 있습니다.\" (dibaca: Uri-ga jikmyeonhan wigi-reul gihoe-ro bakkul su isseulji yeobu-neun jeonjeok-euro uri-ui ma-eumgajim-e dallyeo isseumnida.) berarti \"Apakah krisis yang kita hadapi dapat diubah menjadi peluang atau tidak, sepenuhnya bergantung pada sikap mental kita.\". Kalimat ini menggunakan pola \"N + -에 달려 있다 (tergantung pada faktor X) / V + -기 나름이다 (tergantung bagaimana cara melakukannya)\" (Faktor Penentu: -에 달려 있다 & -기 나름이다) yang berfungsi untuk pola untuk menyatakan bahwa hasil akhir atau kesuksesan suatu perkara sepenuhnya ditentukan oleh faktor tertentu atau usaha pelaku ('semua tergantung pada...')."
       },
       {
         "id": "q-ko-gram-26-bb-2",
@@ -12499,7 +12499,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Semestinya sejak awal kita melalui evaluasi bahaya yang ketat, akibat hilangnya kepekaan keselamatan nyaris saja berujung pada kecelakaan maut berskala besar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"하루에 14시간씩 고된 육체노동을 계속했더니 허리가 끊어질 지경으로 욱신거립니다.\" berarti \"Karena terus melakukan kerja fisik berat 14 jam sehari, pinggang saya berdenyut nyeri sampai-sampai serasa mau patah ambang batasnya.\"."
+        "explanation": "Kalimat \"하루에 14시간씩 고된 육체노동을 계속했더니 허리가 끊어질 지경으로 욱신거립니다.\" (dibaca: Haru-e yeol-nesiganssik go-doen yukchenodong-eul gyesokhaetdeoni heori-ga kkeunheojil jigyeong-euro uksingeorimnida.) berarti \"Karena terus melakukan kerja fisik berat 14 jam sehari, pinggang saya berdenyut nyeri sampai-sampai serasa mau patah ambang batasnya.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 지경이다 (sampai-sampai berada di ambang...) / Kata Benda + -조차 (bahkan hal mendasar pun)\" (Kondisi di Ambang Batas: -(으)ㄹ 지경이다 & Penekanan -조차) yang berfungsi untuk pola hiperbolis untuk melukiskan kepenatan fisik atau penderitaan mental yang mencapai ambang batas batas ketahanan ('sampai-sampai mau pingsan/mati rasanya'). Pola -조차 menekankan bahwa contoh yang paling dasar sekalipun tidak terpenuhi."
       },
       {
         "id": "q-ko-gram-27-pg-2",
@@ -12515,7 +12515,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Korban yang mengalami guncangan psikologis dahsyat saat kecelakaan bahkan namanya sendiri saja pun tak mampu mengingatnya dengan benar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"사고 당시 너무나 큰 충격을 받은 피해자는 자신의 이름조차 제대로 기억해 내지 못했습니다.\" berarti \"Korban yang mengalami guncangan psikologis dahsyat saat kecelakaan bahkan namanya sendiri saja pun tak mampu mengingatnya dengan benar.\"."
+        "explanation": "Kalimat \"사고 당시 너무나 큰 충격을 받은 피해자는 자신의 이름조차 제대로 기억해 내지 못했습니다.\" (dibaca: Sago dangsi neomuna keun chunggyeok-eul badeun pihaeja-neun jasin-ui ireum-jocha jedaero gieokhae naeji mothaesseumnida.) berarti \"Korban yang mengalami guncangan psikologis dahsyat saat kecelakaan bahkan namanya sendiri saja pun tak mampu mengingatnya dengan benar.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 지경이다 (sampai-sampai berada di ambang...) / Kata Benda + -조차 (bahkan hal mendasar pun)\" (Kondisi di Ambang Batas: -(으)ㄹ 지경이다 & Penekanan -조차) yang berfungsi untuk pola hiperbolis untuk melukiskan kepenatan fisik atau penderitaan mental yang mencapai ambang batas batas ketahanan ('sampai-sampai mau pingsan/mati rasanya'). Pola -조차 menekankan bahwa contoh yang paling dasar sekalipun tidak terpenuhi."
       },
       {
         "id": "q-ko-gram-27-pg-3",
@@ -12531,7 +12531,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Pencopet yang melarikan diri di dalam gang sempit telah diringkus di tempat kejadian oleh warga pemberani dan polisi yang berpatroli."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"날씨가 연일 40도에 육박하는 기록적인 폭염이 이어지자 숨이 턱턱 막힐 지경입니다.\" berarti \"Seiring berlanjutnya gelombang panas yang mendekati 40 derajat berhari-hari, napas terasa tercekat sampai-sampai berada di ambang sesak luar biasa.\"."
+        "explanation": "Kalimat \"날씨가 연일 40도에 육박하는 기록적인 폭염이 이어지자 숨이 턱턱 막힐 지경입니다.\" (dibaca: Nalssi-ga yeon-il sasipdo-e yukbak-haneun girokjeok-in pogyeom-i ieojija sum-i teokteok mak-hil jigyeong-imnida.) berarti \"Seiring berlanjutnya gelombang panas yang mendekati 40 derajat berhari-hari, napas terasa tercekat sampai-sampai berada di ambang sesak luar biasa.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 지경이다 (sampai-sampai berada di ambang...) / Kata Benda + -조차 (bahkan hal mendasar pun)\" (Kondisi di Ambang Batas: -(으)ㄹ 지경이다 & Penekanan -조차) yang berfungsi untuk pola hiperbolis untuk melukiskan kepenatan fisik atau penderitaan mental yang mencapai ambang batas batas ketahanan ('sampai-sampai mau pingsan/mati rasanya'). Pola -조차 menekankan bahwa contoh yang paling dasar sekalipun tidak terpenuhi."
       },
       {
         "id": "q-ko-gram-27-pg-4",
@@ -12834,7 +12834,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Masalah perubahan iklim akibat pencemaran lingkungan adalah persoalan genting yang di atasnya bergantung kelangsungan hidup seluruh umat manusia, sehingga kerja sama berskala global amat sangat dituntut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"하루에 14시간씩 고된 육체노동을 계속했더니 허리가 끊어질 지경으로 욱신거립니다.\" berarti \"Karena terus melakukan kerja fisik berat 14 jam sehari, pinggang saya berdenyut nyeri sampai-sampai serasa mau patah ambang batasnya.\"."
+        "explanation": "Kalimat \"하루에 14시간씩 고된 육체노동을 계속했더니 허리가 끊어질 지경으로 욱신거립니다.\" (dibaca: Haru-e yeol-nesiganssik go-doen yukchenodong-eul gyesokhaetdeoni heori-ga kkeunheojil jigyeong-euro uksingeorimnida.) berarti \"Karena terus melakukan kerja fisik berat 14 jam sehari, pinggang saya berdenyut nyeri sampai-sampai serasa mau patah ambang batasnya.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 지경이다 (sampai-sampai berada di ambang...) / Kata Benda + -조차 (bahkan hal mendasar pun)\" (Kondisi di Ambang Batas: -(으)ㄹ 지경이다 & Penekanan -조차) yang berfungsi untuk pola hiperbolis untuk melukiskan kepenatan fisik atau penderitaan mental yang mencapai ambang batas batas ketahanan ('sampai-sampai mau pingsan/mati rasanya'). Pola -조차 menekankan bahwa contoh yang paling dasar sekalipun tidak terpenuhi."
       },
       {
         "id": "q-ko-gram-27-bb-2",
@@ -12981,7 +12981,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sejak bersentuhan dengan drama Korea melalui sebuah kesempatan tak sengaja, akhirnya saya menjadi tertarik mendalam pada kebudayaan dan sejarah Korea."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"우연한 기회에 한국 드라마를 접한 이후로 한국 문화와 역사에 깊은 관심을 갖게 되었습니다.\" berarti \"Sejak bersentuhan dengan drama Korea melalui sebuah kesempatan tak sengaja, akhirnya saya menjadi tertarik mendalam pada kebudayaan dan sejarah Korea.\"."
+        "explanation": "Kalimat \"우연한 기회에 한국 드라마를 접한 이후로 한국 문화와 역사에 깊은 관심을 갖게 되었습니다.\" (dibaca: Uyeonhan gihoe-e Hanguk deorama-reul jeobhan ihu-ro Hanguk munhwa-wa yeoksa-e gipeun gwansim-eul gatge doe-eosseumnida.) berarti \"Sejak bersentuhan dengan drama Korea melalui sebuah kesempatan tak sengaja, akhirnya saya menjadi tertarik mendalam pada kebudayaan dan sejarah Korea.\". Kalimat ini menggunakan pola \"V + -게 되다 (secara alami / diputuskan situasi menjadi...) vs V + -도록 만들다 (sengaja direkayasa/dibuat agar...)\" (Perubahan Alami vs Rekayasa Luar: -게 되다 vs -도록 만들다) yang berfungsi untuk membedakan perubahan status yang terjadi secara wajar/alami akibat perkembangan situasi (-게 되다) dengan perubahan yang dipaksakan atau sengaja direkayasa melalui intervensi pihak luar (-도록 만들다)."
       },
       {
         "id": "q-ko-gram-28-pg-2",
@@ -12997,7 +12997,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sang ibu memberi minum susu hangat kepada bayi yang baru lahir, membaringkannya di tempat tidur yang hangat, dan menidurkannya dengan tenang."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"정부는 청년들이 스스로 창업에 과감히 도전할 수 있도록 맞춤형 금융 지원 제도를 만들었습니다.\" berarti \"Pemerintah menciptakan sistem bantuan finansial terarah agar para pemuda terdorong untuk berani menantang diri berwirausaha secara mandiri.\"."
+        "explanation": "Kalimat \"정부는 청년들이 스스로 창업에 과감히 도전할 수 있도록 맞춤형 금융 지원 제도를 만들었습니다.\" (dibaca: Jeongbu-neun cheongnyeondeul-i seuseuro changeop-e gwagamhi dojeonhal su itdorok matchumhyeong geumyung jiwon jedo-reul mandeureosseumnida.) berarti \"Pemerintah menciptakan sistem bantuan finansial terarah agar para pemuda terdorong untuk berani menantang diri berwirausaha secara mandiri.\". Kalimat ini menggunakan pola \"V + -게 되다 (secara alami / diputuskan situasi menjadi...) vs V + -도록 만들다 (sengaja direkayasa/dibuat agar...)\" (Perubahan Alami vs Rekayasa Luar: -게 되다 vs -도록 만들다) yang berfungsi untuk membedakan perubahan status yang terjadi secara wajar/alami akibat perkembangan situasi (-게 되다) dengan perubahan yang dipaksakan atau sengaja direkayasa melalui intervensi pihak luar (-도록 만들다)."
       },
       {
         "id": "q-ko-gram-28-pg-3",
@@ -13013,7 +13013,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Lelucon cerdas dan akting jenaka komedian tersebut telah membuat para penonton tertawa terbahak-bahak sambil memegangi perut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"오랜 타향살이 끝에 마침내 그토록 그리워하던 고향 땅으로 돌아오게 되어 가슴이 벅찹니다.\" berarti \"Setelah sekian lama merantau di negeri orang, akhirnya saya bisa kembali ke tanah kelahiran yang sebegitu saya rindukan, hati ini diliputi rasa haru meluap-luap.\"."
+        "explanation": "Kalimat \"오랜 타향살이 끝에 마침내 그토록 그리워하던 고향 땅으로 돌아오게 되어 가슴이 벅찹니다.\" (dibaca: Oren tahyangsari kkeut-e machimnae geutorok geuriwohadeon gohyang ttang-euro doraoge doe-eo gaseum-i beokchapnida.) berarti \"Setelah sekian lama merantau di negeri orang, akhirnya saya bisa kembali ke tanah kelahiran yang sebegitu saya rindukan, hati ini diliputi rasa haru meluap-luap.\". Kalimat ini menggunakan pola \"V + -게 되다 (secara alami / diputuskan situasi menjadi...) vs V + -도록 만들다 (sengaja direkayasa/dibuat agar...)\" (Perubahan Alami vs Rekayasa Luar: -게 되다 vs -도록 만들다) yang berfungsi untuk membedakan perubahan status yang terjadi secara wajar/alami akibat perkembangan situasi (-게 되다) dengan perubahan yang dipaksakan atau sengaja direkayasa melalui intervensi pihak luar (-도록 만들다)."
       },
       {
         "id": "q-ko-gram-28-pg-4",
@@ -13318,7 +13318,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Begitu cuaca cerah benderang, puncak megah Gunung Bukhansan yang berada di kejauhan tampak dengan amat jelas dari balik jendela."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"우연한 기회에 한국 드라마를 접한 이후로 한국 문화와 역사에 깊은 관심을 갖게 되었습니다.\" berarti \"Sejak bersentuhan dengan drama Korea melalui sebuah kesempatan tak sengaja, akhirnya saya menjadi tertarik mendalam pada kebudayaan dan sejarah Korea.\"."
+        "explanation": "Kalimat \"우연한 기회에 한국 드라마를 접한 이후로 한국 문화와 역사에 깊은 관심을 갖게 되었습니다.\" (dibaca: Uyeonhan gihoe-e Hanguk deorama-reul jeobhan ihu-ro Hanguk munhwa-wa yeoksa-e gipeun gwansim-eul gatge doe-eosseumnida.) berarti \"Sejak bersentuhan dengan drama Korea melalui sebuah kesempatan tak sengaja, akhirnya saya menjadi tertarik mendalam pada kebudayaan dan sejarah Korea.\". Kalimat ini menggunakan pola \"V + -게 되다 (secara alami / diputuskan situasi menjadi...) vs V + -도록 만들다 (sengaja direkayasa/dibuat agar...)\" (Perubahan Alami vs Rekayasa Luar: -게 되다 vs -도록 만들다) yang berfungsi untuk membedakan perubahan status yang terjadi secara wajar/alami akibat perkembangan situasi (-게 되다) dengan perubahan yang dipaksakan atau sengaja direkayasa melalui intervensi pihak luar (-도록 만들다)."
       },
       {
         "id": "q-ko-gram-28-bb-2",
@@ -13464,7 +13464,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Demi menstabilkan pasar properti yang memanas, pemerintah memperketat regulasi pinjaman dan mendorong kenaikan suku bunga."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"시험 문제가 생각보다 어려웠는데, 선생님께서 강조하셨던 기출문제를 미리 풀어 봤어야 했는데 후회스럽습니다.\" berarti \"Soal ujian ternyata lebih sulit dari yang saya bayangkan, seharusnya saya mencoba mengerjakan soal-soal latihan tahun lalu yang ditekankan oleh guru terlebih dahulu, sungguh menyesal.\"."
+        "explanation": "Kalimat \"시험 문제가 생각보다 어려웠는데, 선생님께서 강조하셨던 기출문제를 미리 풀어 봤어야 했는데 후회스럽습니다.\" (dibaca: Siheom munje-ga saeng-gakboda eoryeowonneunde, seonsaengnim-kkeseo gangjohasyeotdeon gichulmunje-reul miri pureo bwasseoya haenneunde huhoeseureopseumnida.) berarti \"Soal ujian ternyata lebih sulit dari yang saya bayangkan, seharusnya saya mencoba mengerjakan soal-soal latihan tahun lalu yang ditekankan oleh guru terlebih dahulu, sungguh menyesal.\". Kalimat ini menggunakan pola \"V/A + -았/었어야 했는데 (seharusnya waktu itu saya... tapi tidak terlaksana)\" (Penyesalan atas Kewajiban Lampau: -았/었어야 했는데) yang berfungsi untuk mengekspresikan penyesalan mendalam atau rasa getir atas kewajiban atau tindakan di masa lampau yang semestinya dilakukan namun kenyataannya terlewatkan dan tidak terlaksana."
       },
       {
         "id": "q-ko-gram-29-pg-2",
@@ -13480,7 +13480,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Gara-gara roda mobil tergelincir di jalan bersalju, nyaris saja kami menabrak pagar pembatas jalan dan terjadi kecelakaan fatal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"부모님께서 건강하게 살아 계실 때 효도를 다하고 자주 찾아뵈었어야 했는데 이제는 가슴이 미어집니다.\" berarti \"Semestinya saat orang tua masih sehat dan hidup saya berbakti sepenuh hati dan sering menjenguk mereka, kini hati ini terasa sesak teriris penyesalan.\"."
+        "explanation": "Kalimat \"부모님께서 건강하게 살아 계실 때 효도를 다하고 자주 찾아뵈었어야 했는데 이제는 가슴이 미어집니다.\" (dibaca: Bumonim-kkeseo geon-ganghage sara gyesil ttae hyodo-reul dahago jaju chajaboewosseoya haenneunde ije-neun gaseum-i mieojimnida.) berarti \"Semestinya saat orang tua masih sehat dan hidup saya berbakti sepenuh hati dan sering menjenguk mereka, kini hati ini terasa sesak teriris penyesalan.\". Kalimat ini menggunakan pola \"V/A + -았/었어야 했는데 (seharusnya waktu itu saya... tapi tidak terlaksana)\" (Penyesalan atas Kewajiban Lampau: -았/었어야 했는데) yang berfungsi untuk mengekspresikan penyesalan mendalam atau rasa getir atas kewajiban atau tindakan di masa lampau yang semestinya dilakukan namun kenyataannya terlewatkan dan tidak terlaksana."
       },
       {
         "id": "q-ko-gram-29-pg-3",
@@ -13496,7 +13496,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena tidak mendengar suara alarm dan bangun kesiangan, nyaris saja saya tidak bisa menghadiri ujian wawancara kerja yang sangat penting."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"그렇게 신중하지 못하게 섣부른 투자를 결정하지 말았어야 했는데 돌이킬 수 없는 실수를 저질렀습니다.\" berarti \"Semestinya saya tidak gegabah memutuskan investasi tanpa kehati-hatian seperti itu, saya telah melakukan kesalahan yang tak dapat diputar kembali.\"."
+        "explanation": "Kalimat \"그렇게 신중하지 못하게 섣부른 투자를 결정하지 말았어야 했는데 돌이킬 수 없는 실수를 저질렀습니다.\" (dibaca: Geureohge sinjunghaji mothage seotbureun tuja-reul gyeoljeonghaji marasseoya haenneunde dorikil su eomneun silsu-reul jeojilleosseumnida.) berarti \"Semestinya saya tidak gegabah memutuskan investasi tanpa kehati-hatian seperti itu, saya telah melakukan kesalahan yang tak dapat diputar kembali.\". Kalimat ini menggunakan pola \"V/A + -았/었어야 했는데 (seharusnya waktu itu saya... tapi tidak terlaksana)\" (Penyesalan atas Kewajiban Lampau: -았/었어야 했는데) yang berfungsi untuk mengekspresikan penyesalan mendalam atau rasa getir atas kewajiban atau tindakan di masa lampau yang semestinya dilakukan namun kenyataannya terlewatkan dan tidak terlaksana."
       },
       {
         "id": "q-ko-gram-29-pg-4",
@@ -13801,7 +13801,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sang ibu memberi minum susu hangat kepada bayi yang baru lahir, membaringkannya di tempat tidur yang hangat, dan menidurkannya dengan tenang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"시험 문제가 생각보다 어려웠는데, 선생님께서 강조하셨던 기출문제를 미리 풀어 봤어야 했는데 후회스럽습니다.\" berarti \"Soal ujian ternyata lebih sulit dari yang saya bayangkan, seharusnya saya mencoba mengerjakan soal-soal latihan tahun lalu yang ditekankan oleh guru terlebih dahulu, sungguh menyesal.\"."
+        "explanation": "Kalimat \"시험 문제가 생각보다 어려웠는데, 선생님께서 강조하셨던 기출문제를 미리 풀어 봤어야 했는데 후회스럽습니다.\" (dibaca: Siheom munje-ga saeng-gakboda eoryeowonneunde, seonsaengnim-kkeseo gangjohasyeotdeon gichulmunje-reul miri pureo bwasseoya haenneunde huhoeseureopseumnida.) berarti \"Soal ujian ternyata lebih sulit dari yang saya bayangkan, seharusnya saya mencoba mengerjakan soal-soal latihan tahun lalu yang ditekankan oleh guru terlebih dahulu, sungguh menyesal.\". Kalimat ini menggunakan pola \"V/A + -았/었어야 했는데 (seharusnya waktu itu saya... tapi tidak terlaksana)\" (Penyesalan atas Kewajiban Lampau: -았/었어야 했는데) yang berfungsi untuk mengekspresikan penyesalan mendalam atau rasa getir atas kewajiban atau tindakan di masa lampau yang semestinya dilakukan namun kenyataannya terlewatkan dan tidak terlaksana."
       },
       {
         "id": "q-ko-gram-29-bb-2",
@@ -13948,7 +13948,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Aktor asing tersebut menuturkan bahasa baku Korea dengan sempurna, seolah-olah dia adalah orang yang lahir dan besar di Korea."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"환경오염으로 인한 기후 변화 문제는 인류 전체의 생존이 달려 있는 중대한 사안이므로 전 지구적인 협력이 절실히 요구된다.\" berarti \"Masalah perubahan iklim akibat pencemaran lingkungan adalah persoalan genting yang di atasnya bergantung kelangsungan hidup seluruh umat manusia, sehingga kerja sama berskala global amat sangat dituntut.\"."
+        "explanation": "Kalimat \"환경오염으로 인한 기후 변화 문제는 인류 전체의 생존이 달려 있는 중대한 사안이므로 전 지구적인 협력이 절실히 요구된다.\" (dibaca: Hwan-gyeong-o-yeom-euro inan gihu byeonhwa munje-neun inryu jeonche-ui saengjon-i dallyeo inneun jungdaehan saan-imeuro jeon jigujeok-in hyeopryeok-i jeolsilhi yogudoenda.) berarti \"Masalah perubahan iklim akibat pencemaran lingkungan adalah persoalan genting yang di atasnya bergantung kelangsungan hidup seluruh umat manusia, sehingga kerja sama berskala global amat sangat dituntut.\". Kalimat ini menggunakan pola \"4급 실전 논리 완성 및 쓰기 51~52번 유형 완벽 대비\" (Rangkuman Strategis Pemantapan Menuju TOPIK 2 Level 4 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf menengah-atas (중고급): menyatukan tata bahasa pasif, kausatif, kausalitas formal, faktor determinan, dan strategi penuntasan soal Menulis (쓰기 51~52번) dan Membaca panjang."
       },
       {
         "id": "q-ko-gram-30-pg-2",
@@ -13964,7 +13964,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Akibat hujan lebat terpusat yang memecahkan rekor, kawasan perumahan dataran rendah terendam banjir dan berbagai ruas jalan ditutup."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"사전에 철저한 위험성 평가를 거쳤어야 했는데 안전 불감증으로 인해 하마터면 대형 인명 사고로 이어질 뻔했다.\" berarti \"Semestinya sejak awal kita melalui evaluasi bahaya yang ketat, akibat hilangnya kepekaan keselamatan nyaris saja berujung pada kecelakaan maut berskala besar.\"."
+        "explanation": "Kalimat \"사전에 철저한 위험성 평가를 거쳤어야 했는데 안전 불감증으로 인해 하마터면 대형 인명 사고로 이어질 뻔했다.\" (dibaca: Sajeon-e cheoljeohan wiheomseong pyeong-ga-reul geocheosseoya haenneunde anjeon bulgamjeung-euro inhae hamateomyeon daehyeong inmyeong sago-ro ieojil ppeonhaetda.) berarti \"Semestinya sejak awal kita melalui evaluasi bahaya yang ketat, akibat hilangnya kepekaan keselamatan nyaris saja berujung pada kecelakaan maut berskala besar.\". Kalimat ini menggunakan pola \"4급 실전 논리 완성 및 쓰기 51~52번 유형 완벽 대비\" (Rangkuman Strategis Pemantapan Menuju TOPIK 2 Level 4 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf menengah-atas (중고급): menyatukan tata bahasa pasif, kausatif, kausalitas formal, faktor determinan, dan strategi penuntasan soal Menulis (쓰기 51~52번) dan Membaca panjang."
       },
       {
         "id": "q-ko-gram-30-pg-3",
@@ -13980,7 +13980,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Gyeongju dan Andong, tempat sejarah dan budaya tradisional Korea terpelihara secara utuh, memiliki nilai yang sangat layak untuk direkomendasikan kepada para wisatawan mancanegara."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"한국의 역사와 전통문화가 고스란히 보존되어 있는 경주와 안동은 외국인 관광객들에게 충분히 추천할 만한 가치가 있다.\" berarti \"Gyeongju dan Andong, tempat sejarah dan budaya tradisional Korea terpelihara secara utuh, memiliki nilai yang sangat layak untuk direkomendasikan kepada para wisatawan mancanegara.\"."
+        "explanation": "Kalimat \"한국의 역사와 전통문화가 고스란히 보존되어 있는 경주와 안동은 외국인 관광객들에게 충분히 추천할 만한 가치가 있다.\" (dibaca: Hanguk-ui yeoksa-wa jeontongmunhwa-ga goseurani bojondoeeo inneun Gyeongju-wa Andong-eun oeguk-in gwan-gwanggaekdeul-ege chungbunhi chucheonhal manhan gachi-ga itda.) berarti \"Gyeongju dan Andong, tempat sejarah dan budaya tradisional Korea terpelihara secara utuh, memiliki nilai yang sangat layak untuk direkomendasikan kepada para wisatawan mancanegara.\". Kalimat ini menggunakan pola \"4급 실전 논리 완성 및 쓰기 51~52번 유형 완벽 대비\" (Rangkuman Strategis Pemantapan Menuju TOPIK 2 Level 4 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf menengah-atas (중고급): menyatukan tata bahasa pasif, kausatif, kausalitas formal, faktor determinan, dan strategi penuntasan soal Menulis (쓰기 51~52번) dan Membaca panjang."
       },
       {
         "id": "q-ko-gram-30-pg-4",
@@ -14287,7 +14287,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Masalah perubahan iklim akibat pencemaran lingkungan adalah persoalan genting yang di atasnya bergantung kelangsungan hidup seluruh umat manusia, sehingga kerja sama berskala global amat sangat dituntut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"환경오염으로 인한 기후 변화 문제는 인류 전체의 생존이 달려 있는 중대한 사안이므로 전 지구적인 협력이 절실히 요구된다.\" berarti \"Masalah perubahan iklim akibat pencemaran lingkungan adalah persoalan genting yang di atasnya bergantung kelangsungan hidup seluruh umat manusia, sehingga kerja sama berskala global amat sangat dituntut.\"."
+        "explanation": "Kalimat \"환경오염으로 인한 기후 변화 문제는 인류 전체의 생존이 달려 있는 중대한 사안이므로 전 지구적인 협력이 절실히 요구된다.\" (dibaca: Hwan-gyeong-o-yeom-euro inan gihu byeonhwa munje-neun inryu jeonche-ui saengjon-i dallyeo inneun jungdaehan saan-imeuro jeon jigujeok-in hyeopryeok-i jeolsilhi yogudoenda.) berarti \"Masalah perubahan iklim akibat pencemaran lingkungan adalah persoalan genting yang di atasnya bergantung kelangsungan hidup seluruh umat manusia, sehingga kerja sama berskala global amat sangat dituntut.\". Kalimat ini menggunakan pola \"4급 실전 논리 완성 및 쓰기 51~52번 유형 완벽 대비\" (Rangkuman Strategis Pemantapan Menuju TOPIK 2 Level 4 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf menengah-atas (중고급): menyatukan tata bahasa pasif, kausatif, kausalitas formal, faktor determinan, dan strategi penuntasan soal Menulis (쓰기 51~52번) dan Membaca panjang."
       },
       {
         "id": "q-ko-gram-30-bb-2",
@@ -14437,7 +14437,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun terdapat langkah-langkah pengetatan regulasi properti yang beraneka ragam dari pemerintah, tren kenaikan harga hunian di pusat kota metropolis tidak kunjung terbendung."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"현대 정보화 사회에서 인공지능 기술의 급격한 발전은 인간의 노동 구조에 근본적인 변혁을 가져오고 있다.\" berarti \"Dalam masyarakat informasi modern, perkembangan pesat teknologi kecerdasan buatan sedang membawa transformasi mendasar pada struktur ketenagakerjaan manusia.\"."
+        "explanation": "Kalimat \"현대 정보화 사회에서 인공지능 기술의 급격한 발전은 인간의 노동 구조에 근본적인 변혁을 가져오고 있다.\" (dibaca: Hyeondae jeongbohwa sahoe-eseo in-gongjinheung gisul-ui geupgyeokhan baljeon-eun in-gan-ui nodong gujo-e geunbonjeok-in byeonhyeok-eul gajieo-ogo itda.) berarti \"Dalam masyarakat informasi modern, perkembangan pesat teknologi kecerdasan buatan sedang membawa transformasi mendasar pada struktur ketenagakerjaan manusia.\". Kalimat ini menggunakan pola \"Verba + -ㄴ/는다, Ajektiva + -다, Kata Benda + -(이)다 (Gaya Tulisan Objektif Polos)\" (Gaya Bahasa Esai Akademis Netral (Penulisan Esai No. 54): -ㄴ/는다, -다) yang berfungsi untuk gaya penulisan netral objektif (해라체 / 평서문) adalah aturan mutlak dalam menulis artikel koran, buku teks, skripsi, dan soal Menulis TOPIK No. 54. Menghilangkan ego kesantunan pribadi dan menyajikan fakta dengan tegas."
       },
       {
         "id": "q-ko-gram-31-pg-2",
@@ -14453,7 +14453,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Perlu diperhatikan bahwa kelimpahan materi tidak serta-merta berbanding lurus dengan indeks kebahagiaan individu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"물질적 풍요가 반드시 개인의 행복 지수와 정비례하는 것은 아니라는 점에 주목할 필요가 있다.\" berarti \"Perlu diperhatikan bahwa kelimpahan materi tidak serta-merta berbanding lurus dengan indeks kebahagiaan individu.\"."
+        "explanation": "Kalimat \"물질적 풍요가 반드시 개인의 행복 지수와 정비례하는 것은 아니라는 점에 주목할 필요가 있다.\" (dibaca: Muljiljeok pung-yo-ga bandeusi gaein-ui haengbok jisu-wa jeongbirehaneun geos-eun aniraneun jeom-e jumokhal piryo-ga itda.) berarti \"Perlu diperhatikan bahwa kelimpahan materi tidak serta-merta berbanding lurus dengan indeks kebahagiaan individu.\". Kalimat ini menggunakan pola \"Verba + -ㄴ/는다, Ajektiva + -다, Kata Benda + -(이)다 (Gaya Tulisan Objektif Polos)\" (Gaya Bahasa Esai Akademis Netral (Penulisan Esai No. 54): -ㄴ/는다, -다) yang berfungsi untuk gaya penulisan netral objektif (해라체 / 평서문) adalah aturan mutlak dalam menulis artikel koran, buku teks, skripsi, dan soal Menulis TOPIK No. 54. Menghilangkan ego kesantunan pribadi dan menyajikan fakta dengan tegas."
       },
       {
         "id": "q-ko-gram-31-pg-3",
@@ -14469,7 +14469,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sikap pejabat publik yang hanya mementingkan keselamatan dirinya sendiri di tengah situasi bencana nasional dikritik sebagai perbuatan yang tidak bertanggung jawab tiada taranya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"따라서 정부와 시민사회가 긴밀히 연대하여 지속 가능한 복지 제도를 체계적으로 구축해 나가야 한다.\" berarti \"Oleh karena itu, pemerintah dan masyarakat sipil harus berpadu erat untuk membangun sistem kesejahteraan yang berkelanjutan secara terstruktur.\"."
+        "explanation": "Kalimat \"따라서 정부와 시민사회가 긴밀히 연대하여 지속 가능한 복지 제도를 체계적으로 구축해 나가야 한다.\" (dibaca: Ttaraseo jeongbu-wa siminsahoe-ga ginmilhi yeondaehayeo jisok ganeunghan bokji jedo-reul chegyejeok-euro guchukhae nagaya handa.) berarti \"Oleh karena itu, pemerintah dan masyarakat sipil harus berpadu erat untuk membangun sistem kesejahteraan yang berkelanjutan secara terstruktur.\". Kalimat ini menggunakan pola \"Verba + -ㄴ/는다, Ajektiva + -다, Kata Benda + -(이)다 (Gaya Tulisan Objektif Polos)\" (Gaya Bahasa Esai Akademis Netral (Penulisan Esai No. 54): -ㄴ/는다, -다) yang berfungsi untuk gaya penulisan netral objektif (해라체 / 평서문) adalah aturan mutlak dalam menulis artikel koran, buku teks, skripsi, dan soal Menulis TOPIK No. 54. Menghilangkan ego kesantunan pribadi dan menyajikan fakta dengan tegas."
       },
       {
         "id": "q-ko-gram-31-pg-4",
@@ -14776,7 +14776,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Biarpun harus menderita kerugian finansial yang masif dalam bisnis, kepercayaan dengan pelanggan dan keselamatan produk mutlak tidak akan pernah kami kompromikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"현대 정보화 사회에서 인공지능 기술의 급격한 발전은 인간의 노동 구조에 근본적인 변혁을 가져오고 있다.\" berarti \"Dalam masyarakat informasi modern, perkembangan pesat teknologi kecerdasan buatan sedang membawa transformasi mendasar pada struktur ketenagakerjaan manusia.\"."
+        "explanation": "Kalimat \"현대 정보화 사회에서 인공지능 기술의 급격한 발전은 인간의 노동 구조에 근본적인 변혁을 가져오고 있다.\" (dibaca: Hyeondae jeongbohwa sahoe-eseo in-gongjinheung gisul-ui geupgyeokhan baljeon-eun in-gan-ui nodong gujo-e geunbonjeok-in byeonhyeok-eul gajieo-ogo itda.) berarti \"Dalam masyarakat informasi modern, perkembangan pesat teknologi kecerdasan buatan sedang membawa transformasi mendasar pada struktur ketenagakerjaan manusia.\". Kalimat ini menggunakan pola \"Verba + -ㄴ/는다, Ajektiva + -다, Kata Benda + -(이)다 (Gaya Tulisan Objektif Polos)\" (Gaya Bahasa Esai Akademis Netral (Penulisan Esai No. 54): -ㄴ/는다, -다) yang berfungsi untuk gaya penulisan netral objektif (해라체 / 평서문) adalah aturan mutlak dalam menulis artikel koran, buku teks, skripsi, dan soal Menulis TOPIK No. 54. Menghilangkan ego kesantunan pribadi dan menyajikan fakta dengan tegas."
       },
       {
         "id": "q-ko-gram-31-bb-2",
@@ -14926,7 +14926,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Penyusutan populasi usia produktif seiring masuknya masyarakat ke era super-aging bekerja sebagai beban luar biasa terhadap kesehatan fiskal keuangan negara."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"초고령 사회로의 진입에 따른 생산 가능 인구의 감소는 국가 재정의 건전성에 막대한 부담으로 작용한다.\" berarti \"Penyusutan populasi usia produktif seiring masuknya masyarakat ke era super-aging bekerja sebagai beban luar biasa terhadap kesehatan fiskal keuangan negara.\"."
+        "explanation": "Kalimat \"초고령 사회로의 진입에 따른 생산 가능 인구의 감소는 국가 재정의 건전성에 막대한 부담으로 작용한다.\" (dibaca: Chogoryeong sahoe-ro-ui jin-ip-e ttareun saengsan ganeung in-gu-ui gamso-neun gukka jaejeong-ui geonjeonseong-e makdaehan budam-euro jagyonghanda.) berarti \"Penyusutan populasi usia produktif seiring masuknya masyarakat ke era super-aging bekerja sebagai beban luar biasa terhadap kesehatan fiskal keuangan negara.\". Kalimat ini menggunakan pola \"Akar Morfem Hanja (學, 敎, 論, 率, 諸, 化) + Pembentukan Kosakata Konseptual\" (Diksi Hanja-eo (Aksara Sino-Korea) Tingkat Tinggi dalam Analisis Sosial) yang berfungsi untuk membedah struktur pembentukan kosakata Sino-Korea (한자어 - Hanja-eo) tingkat tinggi yang menyusun lebih dari 70% perbendaharaan kata ilmiah dalam esai 54 dan wacana opini editorial TOPIK 5."
       },
       {
         "id": "q-ko-gram-32-pg-2",
@@ -14942,7 +14942,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Semakin teknologi sains modern berkembang canggih, kecemasan sosial terhadap fenomena keterasingan manusia dan kebocoran data pribadi justru semakin teramplifikasi meluas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"현행 입시 제도의 구조적 모순을 해결하기 위해서는 공정성과 형평성을 담보할 수 있는 다각적인 개혁이 선행되어야 한다.\" berarti \"Demi menyelesaikan kontradiksi struktural sistem seleksi masuk perguruan tinggi saat ini, reformasi dari berbagai sudut pandang yang mampu menjamin keadilan dan kesetaraan harus didahulukan.\"."
+        "explanation": "Kalimat \"현행 입시 제도의 구조적 모순을 해결하기 위해서는 공정성과 형평성을 담보할 수 있는 다각적인 개혁이 선행되어야 한다.\" (dibaca: Hyeonhaeng ipsi jedo-ui gujojeok mosun-eul haegyeolhagi wihaeseo-neun gongjeongseong-gwa hyeongpyeongseong-eul dambohal su inneun dagakjeok-in gaehyeok-i seonhaengdoe-eoya handa.) berarti \"Demi menyelesaikan kontradiksi struktural sistem seleksi masuk perguruan tinggi saat ini, reformasi dari berbagai sudut pandang yang mampu menjamin keadilan dan kesetaraan harus didahulukan.\". Kalimat ini menggunakan pola \"Akar Morfem Hanja (學, 敎, 論, 率, 諸, 化) + Pembentukan Kosakata Konseptual\" (Diksi Hanja-eo (Aksara Sino-Korea) Tingkat Tinggi dalam Analisis Sosial) yang berfungsi untuk membedah struktur pembentukan kosakata Sino-Korea (한자어 - Hanja-eo) tingkat tinggi yang menyusun lebih dari 70% perbendaharaan kata ilmiah dalam esai 54 dan wacana opini editorial TOPIK 5."
       },
       {
         "id": "q-ko-gram-32-pg-3",
@@ -14958,7 +14958,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jalan ilmu pengetahuan semakin digali mendalam, justru semakin menyadarkan diri secara rendah hati betapa masih dangkalnya pengetahuan yang kita miliki."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"신재생 에너지 개발의 경제적 타당성과 친환경성을 면밀히 검토한 후 장기적인 정책을 수립해야 한다.\" berarti \"Kita harus menyusun kebijakan jangka panjang setelah menelaah secara seksama kelayakan ekonomis dan keramahan lingkungan dari pengembangan energi baru terbarukan.\"."
+        "explanation": "Kalimat \"신재생 에너지 개발의 경제적 타당성과 친환경성을 면밀히 검토한 후 장기적인 정책을 수립해야 한다.\" (dibaca: Sinjaesaeng enerji gaebal-ui gyeongjejeok tadangseong-gwa chinhwan-gyeongseong-eul myeonmilhi geomtohan hu jang-gijeok-in jeongchaek-eul suriphaeya handa.) berarti \"Kita harus menyusun kebijakan jangka panjang setelah menelaah secara seksama kelayakan ekonomis dan keramahan lingkungan dari pengembangan energi baru terbarukan.\". Kalimat ini menggunakan pola \"Akar Morfem Hanja (學, 敎, 論, 率, 諸, 化) + Pembentukan Kosakata Konseptual\" (Diksi Hanja-eo (Aksara Sino-Korea) Tingkat Tinggi dalam Analisis Sosial) yang berfungsi untuk membedah struktur pembentukan kosakata Sino-Korea (한자어 - Hanja-eo) tingkat tinggi yang menyusun lebih dari 70% perbendaharaan kata ilmiah dalam esai 54 dan wacana opini editorial TOPIK 5."
       },
       {
         "id": "q-ko-gram-32-pg-4",
@@ -15265,7 +15265,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Para pakar yang sehari-harinya terbiasa melakukan inspeksi keselamatan secara teliti tanpa celah mustahil sekali melewatkan cacat mendasar seperti itu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"초고령 사회로의 진입에 따른 생산 가능 인구의 감소는 국가 재정의 건전성에 막대한 부담으로 작용한다.\" berarti \"Penyusutan populasi usia produktif seiring masuknya masyarakat ke era super-aging bekerja sebagai beban luar biasa terhadap kesehatan fiskal keuangan negara.\"."
+        "explanation": "Kalimat \"초고령 사회로의 진입에 따른 생산 가능 인구의 감소는 국가 재정의 건전성에 막대한 부담으로 작용한다.\" (dibaca: Chogoryeong sahoe-ro-ui jin-ip-e ttareun saengsan ganeung in-gu-ui gamso-neun gukka jaejeong-ui geonjeonseong-e makdaehan budam-euro jagyonghanda.) berarti \"Penyusutan populasi usia produktif seiring masuknya masyarakat ke era super-aging bekerja sebagai beban luar biasa terhadap kesehatan fiskal keuangan negara.\". Kalimat ini menggunakan pola \"Akar Morfem Hanja (學, 敎, 論, 率, 諸, 化) + Pembentukan Kosakata Konseptual\" (Diksi Hanja-eo (Aksara Sino-Korea) Tingkat Tinggi dalam Analisis Sosial) yang berfungsi untuk membedah struktur pembentukan kosakata Sino-Korea (한자어 - Hanja-eo) tingkat tinggi yang menyusun lebih dari 70% perbendaharaan kata ilmiah dalam esai 54 dan wacana opini editorial TOPIK 5."
       },
       {
         "id": "q-ko-gram-32-bb-2",
@@ -15412,7 +15412,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kementerian Lingkungan Hidup memperluas infrastruktur energi baru terbarukan secara masif, sementara itu secara simultan memperketat inspeksi terhadap perusahaan pemboros dengan emisi karbon tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"민주주의의 기본 원리와 헌법 가치에 비추어 볼 때, 국민의 알 권리를 부당하게 제한하는 행위는 결코 정당화될 수 없다.\" berarti \"Ditinjau bercermin pada nilai konstitusi dan prinsip dasar demokrasi, tindakan membatasi hak masyarakat untuk mengetahui secara tidak adil sama sekali tidak dapat dibenarkan.\"."
+        "explanation": "Kalimat \"민주주의의 기본 원리와 헌법 가치에 비추어 볼 때, 국민의 알 권리를 부당하게 제한하는 행위는 결코 정당화될 수 없다.\" (dibaca: Minjujuui-ui gibon wonri-wa heonbeop gachi-e bichueo bol ttae, gungmin-ui al gwonri-reul budanghage jehanhaneun haengwi-neun gyeolko jeongdanghwadoel su eopda.) berarti \"Ditinjau bercermin pada nilai konstitusi dan prinsip dasar demokrasi, tindakan membatasi hak masyarakat untuk mengetahui secara tidak adil sama sekali tidak dapat dibenarkan.\". Kalimat ini menggunakan pola \"Kata Benda + -에 비추어 볼 때 / -에 비추어 보면 (ditinjau dari cermin landasan...)\" (Landasan Evaluasi Objektif: -에 비추어 볼 때) yang berfungsi untuk pola retorika ilmiah tingkat tinggi yang berarti 'bercermin pada standar kaidah, preseden sejarah, atau norma hukum tersebut'. Digunakan untuk menarik vonis evaluasi yang berlandaskan tolok ukur objektif yang kuat."
       },
       {
         "id": "q-ko-gram-33-pg-2",
@@ -15428,7 +15428,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Hanya setelah menjadi orang tua dan melahirkan serta membesarkan anak sendiri sembari kurang tidur di malam hari, barulah seseorang mampu memahami dengan sanubari betapa luhurnya budi jasa orang tua."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"과거 외환위기 당시의 뼈아픈 교훈에 비추어 보면, 외환보유액의 안정적 관리와 금융 건전성 확보가 무엇보다 시급하다.\" berarti \"Bercermin pada pelajaran pahit getir saat krisis moneter masa lalu, pengelolaan cadangan devisa yang stabil dan jaminan kesehatan perbankan adalah hal yang paling mendesak di atas segalanya.\"."
+        "explanation": "Kalimat \"과거 외환위기 당시의 뼈아픈 교훈에 비추어 보면, 외환보유액의 안정적 관리와 금융 건전성 확보가 무엇보다 시급하다.\" (dibaca: Gwageo oe-hwanwigi dangsi-ui ppyeo-apeun gyohun-e bichueo bomyeon, oe-hwanboyuaek-ui anjeongjeok gwanri-wa geumyung geonjeonseong hwakbo-ga mueotboda sigeuphada.) berarti \"Bercermin pada pelajaran pahit getir saat krisis moneter masa lalu, pengelolaan cadangan devisa yang stabil dan jaminan kesehatan perbankan adalah hal yang paling mendesak di atas segalanya.\". Kalimat ini menggunakan pola \"Kata Benda + -에 비추어 볼 때 / -에 비추어 보면 (ditinjau dari cermin landasan...)\" (Landasan Evaluasi Objektif: -에 비추어 볼 때) yang berfungsi untuk pola retorika ilmiah tingkat tinggi yang berarti 'bercermin pada standar kaidah, preseden sejarah, atau norma hukum tersebut'. Digunakan untuk menarik vonis evaluasi yang berlandaskan tolok ukur objektif yang kuat."
       },
       {
         "id": "q-ko-gram-33-pg-3",
@@ -15444,7 +15444,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Hanya jika investasi riset dan pengembangan yang berani dan berkesinambungan di bidang sains dasar ditopang secara kokoh, barulah bangsa ini dapat melompat menjadi negara adidaya teknologi mutakhir."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"사회 통념과 윤리적 기준에 비추어 볼 때, 기업의 이윤 추구는 사회적 책임의 이행과 반드시 병행되어야 마땅하다.\" berarti \"Ditinjau berlandaskan standar etika dan norma umum masyarakat, upaya meraih laba korporasi sudah sepatutnya mutlak berjalan seiring dengan pemenuhan tanggung jawab sosial.\"."
+        "explanation": "Kalimat \"사회 통념과 윤리적 기준에 비추어 볼 때, 기업의 이윤 추구는 사회적 책임의 이행과 반드시 병행되어야 마땅하다.\" (dibaca: Sahoe tongnyeom-gwa yunrijeok gijun-e bichueo bol ttae, gieop-ui i-yun chugu-neun sahoejeok chaegim-ui ihaeng-gwa bandeusi byeonghaengdoe-eoya mattanghada.) berarti \"Ditinjau berlandaskan standar etika dan norma umum masyarakat, upaya meraih laba korporasi sudah sepatutnya mutlak berjalan seiring dengan pemenuhan tanggung jawab sosial.\". Kalimat ini menggunakan pola \"Kata Benda + -에 비추어 볼 때 / -에 비추어 보면 (ditinjau dari cermin landasan...)\" (Landasan Evaluasi Objektif: -에 비추어 볼 때) yang berfungsi untuk pola retorika ilmiah tingkat tinggi yang berarti 'bercermin pada standar kaidah, preseden sejarah, atau norma hukum tersebut'. Digunakan untuk menarik vonis evaluasi yang berlandaskan tolok ukur objektif yang kuat."
       },
       {
         "id": "q-ko-gram-33-pg-4",
@@ -15751,7 +15751,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Semakin teknologi sains modern berkembang canggih, kecemasan sosial terhadap fenomena keterasingan manusia dan kebocoran data pribadi justru semakin teramplifikasi meluas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"민주주의의 기본 원리와 헌법 가치에 비추어 볼 때, 국민의 알 권리를 부당하게 제한하는 행위는 결코 정당화될 수 없다.\" berarti \"Ditinjau bercermin pada nilai konstitusi dan prinsip dasar demokrasi, tindakan membatasi hak masyarakat untuk mengetahui secara tidak adil sama sekali tidak dapat dibenarkan.\"."
+        "explanation": "Kalimat \"민주주의의 기본 원리와 헌법 가치에 비추어 볼 때, 국민의 알 권리를 부당하게 제한하는 행위는 결코 정당화될 수 없다.\" (dibaca: Minjujuui-ui gibon wonri-wa heonbeop gachi-e bichueo bol ttae, gungmin-ui al gwonri-reul budanghage jehanhaneun haengwi-neun gyeolko jeongdanghwadoel su eopda.) berarti \"Ditinjau bercermin pada nilai konstitusi dan prinsip dasar demokrasi, tindakan membatasi hak masyarakat untuk mengetahui secara tidak adil sama sekali tidak dapat dibenarkan.\". Kalimat ini menggunakan pola \"Kata Benda + -에 비추어 볼 때 / -에 비추어 보면 (ditinjau dari cermin landasan...)\" (Landasan Evaluasi Objektif: -에 비추어 볼 때) yang berfungsi untuk pola retorika ilmiah tingkat tinggi yang berarti 'bercermin pada standar kaidah, preseden sejarah, atau norma hukum tersebut'. Digunakan untuk menarik vonis evaluasi yang berlandaskan tolok ukur objektif yang kuat."
       },
       {
         "id": "q-ko-gram-33-bb-2",
@@ -15898,7 +15898,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Hanya bilamana kita berdiri di posisi orang lain dan menaruh sikap berempati serta peduli secara tulus, barulah komunikasi sejati dan keharmonisan sosial dapat dimungkinkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"환경 보호를 명분으로 내세우면서 실상은 기업의 이익만을 챙기는 행태는 위선에 다름 아닙니다.\" berarti \"Perilaku yang mengatasnamakan pelestarian lingkungan padahal kenyataannya semata-mata meraup laba korporasi tiada lain dan tak bukan adalah kemunafikan.\"."
+        "explanation": "Kalimat \"환경 보호를 명분으로 내세우면서 실상은 기업의 이익만을 챙기는 행태는 위선에 다름 아닙니다.\" (dibaca: Hwan-gyeong boho-reul myeongbun-euro naese-umyeonseo silsang-eun gieop-ui i-ikman-eul chaenggineun haengtae-neun wiseon-e dareum animnida.) berarti \"Perilaku yang mengatasnamakan pelestarian lingkungan padahal kenyataannya semata-mata meraup laba korporasi tiada lain dan tak bukan adalah kemunafikan.\". Kalimat ini menggunakan pola \"Kata Benda + -에 다름 아니다 (tiada lain dan tak bukan adalah) / -에 불과하다 (hanya sekadar / tak lebih dari)\" (Penegasan Esensi Mutlak vs Pembatasan Rendah: -에 다름 아니다 vs -에 불과하다) yang berfungsi untuk pola -에 다름 아니다 digunakan untuk menegaskan hakikat inti suatu perkara ('hal itu tak lain adalah...'). Pola -에 불과하다 membatasi status suatu perkara sebagai hal sepele atau tidak istimewa ('hanyalah sebatas... belaka')."
       },
       {
         "id": "q-ko-gram-34-pg-2",
@@ -15914,7 +15914,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Menimbang fakta bahwa perusahaan rintisan dan UKM sedang mengalami kesulitan manajemen serius akibat suku bunga tinggi dan lonjakan biaya bahan baku, insentif pajak dan bantuan likuiditas darurat dari pemerintah amat sangat mendesak."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"일각에서 제기되는 장밋빛 경제 전망은 근거 없는 막연한 낙관론에 불과하므로 경각심을 늦춰서는 안 됩니다.\" berarti \"Prospek ekonomi cerah yang disuarakan sebagian pihak hanyalah sekadar optimisme hampa tanpa dasar belaka, sehingga kita tidak boleh mengendurkan kewaspadaan.\"."
+        "explanation": "Kalimat \"일각에서 제기되는 장밋빛 경제 전망은 근거 없는 막연한 낙관론에 불과하므로 경각심을 늦춰서는 안 됩니다.\" (dibaca: Ilgak-eseo jegidoeneun jangmitbit gyeongje jeonmang-eun geon-geo eomneun magyeonhan nakgwanron-e bulgwahameuro gyeong-gaksim-eul neutchwoseoneun an doemnida.) berarti \"Prospek ekonomi cerah yang disuarakan sebagian pihak hanyalah sekadar optimisme hampa tanpa dasar belaka, sehingga kita tidak boleh mengendurkan kewaspadaan.\". Kalimat ini menggunakan pola \"Kata Benda + -에 다름 아니다 (tiada lain dan tak bukan adalah) / -에 불과하다 (hanya sekadar / tak lebih dari)\" (Penegasan Esensi Mutlak vs Pembatasan Rendah: -에 다름 아니다 vs -에 불과하다) yang berfungsi untuk pola -에 다름 아니다 digunakan untuk menegaskan hakikat inti suatu perkara ('hal itu tak lain adalah...'). Pola -에 불과하다 membatasi status suatu perkara sebagai hal sepele atau tidak istimewa ('hanyalah sebatas... belaka')."
       },
       {
         "id": "q-ko-gram-34-pg-3",
@@ -15930,7 +15930,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Peradaban sains dan teknologi yang dibangun manusia pun di hadapan hukum keagungan alam raya hanyalah sekadar makhluk ciptaan yang lemah semata."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"인류가 이룩한 과학기술 문명도 대자연의 거대한 섭리 앞에서는 한낱 나약한 피조물에 불과하다.\" berarti \"Peradaban sains dan teknologi yang dibangun manusia pun di hadapan hukum keagungan alam raya hanyalah sekadar makhluk ciptaan yang lemah semata.\"."
+        "explanation": "Kalimat \"인류가 이룩한 과학기술 문명도 대자연의 거대한 섭리 앞에서는 한낱 나약한 피조물에 불과하다.\" (dibaca: Inryu-ga irukhan gwahakgisul munmyeong-do daejayeon-ui geodaehan seobri ap-eseoneun hannat nayakhan pijomul-e bulgwahada.) berarti \"Peradaban sains dan teknologi yang dibangun manusia pun di hadapan hukum keagungan alam raya hanyalah sekadar makhluk ciptaan yang lemah semata.\". Kalimat ini menggunakan pola \"Kata Benda + -에 다름 아니다 (tiada lain dan tak bukan adalah) / -에 불과하다 (hanya sekadar / tak lebih dari)\" (Penegasan Esensi Mutlak vs Pembatasan Rendah: -에 다름 아니다 vs -에 불과하다) yang berfungsi untuk pola -에 다름 아니다 digunakan untuk menegaskan hakikat inti suatu perkara ('hal itu tak lain adalah...'). Pola -에 불과하다 membatasi status suatu perkara sebagai hal sepele atau tidak istimewa ('hanyalah sebatas... belaka')."
       },
       {
         "id": "q-ko-gram-34-pg-4",
@@ -16237,7 +16237,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Perilaku yang mengatasnamakan pelestarian lingkungan padahal kenyataannya semata-mata meraup laba korporasi tiada lain dan tak bukan adalah kemunafikan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"환경 보호를 명분으로 내세우면서 실상은 기업의 이익만을 챙기는 행태는 위선에 다름 아닙니다.\" berarti \"Perilaku yang mengatasnamakan pelestarian lingkungan padahal kenyataannya semata-mata meraup laba korporasi tiada lain dan tak bukan adalah kemunafikan.\"."
+        "explanation": "Kalimat \"환경 보호를 명분으로 내세우면서 실상은 기업의 이익만을 챙기는 행태는 위선에 다름 아닙니다.\" (dibaca: Hwan-gyeong boho-reul myeongbun-euro naese-umyeonseo silsang-eun gieop-ui i-ikman-eul chaenggineun haengtae-neun wiseon-e dareum animnida.) berarti \"Perilaku yang mengatasnamakan pelestarian lingkungan padahal kenyataannya semata-mata meraup laba korporasi tiada lain dan tak bukan adalah kemunafikan.\". Kalimat ini menggunakan pola \"Kata Benda + -에 다름 아니다 (tiada lain dan tak bukan adalah) / -에 불과하다 (hanya sekadar / tak lebih dari)\" (Penegasan Esensi Mutlak vs Pembatasan Rendah: -에 다름 아니다 vs -에 불과하다) yang berfungsi untuk pola -에 다름 아니다 digunakan untuk menegaskan hakikat inti suatu perkara ('hal itu tak lain adalah...'). Pola -에 불과하다 membatasi status suatu perkara sebagai hal sepele atau tidak istimewa ('hanyalah sebatas... belaka')."
       },
       {
         "id": "q-ko-gram-34-bb-2",
@@ -16385,7 +16385,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan menimbang fakta bahwa terdakwa menyesali kesalahannya secara mendalam dan berusaha aktif memulihkan kerugian korban, pengadilan menjatuhkan vonis hukuman percobaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"사업에서 막대한 금전적 손해를 입을망정 고객과의 신뢰와 제품의 안전성만큼은 결코 양보할 수 없습니다.\" berarti \"Biarpun harus menderita kerugian finansial yang masif dalam bisnis, kepercayaan dengan pelanggan dan keselamatan produk mutlak tidak akan pernah kami kompromikan.\"."
+        "explanation": "Kalimat \"사업에서 막대한 금전적 손해를 입을망정 고객과의 신뢰와 제품의 안전성만큼은 결코 양보할 수 없습니다.\" (dibaca: Sa-eop-eseo makdaehan geumjeonjeok sonhae-reul ibeulmangjeong gogaek-gwa-ui sinroe-wa jepum-ui anjeonseongmankeum-eun gyeolko yangbohal su eopseumnida.) berarti \"Biarpun harus menderita kerugian finansial yang masif dalam bisnis, kepercayaan dengan pelanggan dan keselamatan produk mutlak tidak akan pernah kami kompromikan.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ망정 (biarpun harus menderita kondisi ekstrem A, tak akan pernah B) / V/A + -(으)ㅁ에도 불구하고 (meskipun kondisi A ada)\" (Konsesi Berbobot & Penolakan Halus: -(으)ㄹ망정 vs -(으)ㅁ에도 불구하고) yang berfungsi untuk dua formula konsesi (양보) tingkat master: -(으)ㄹ망정 menyatakan tekad baja rela menelan kepahitan ekstrem demi mempertahankan prinsip moral. Pola -(으)ㅁ에도 불구하고 adalah bahasa resmi esai ilmiah untuk 'terlepas dari kenyataan bahwa... / meskipun demikian'."
       },
       {
         "id": "q-ko-gram-35-pg-2",
@@ -16401,7 +16401,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun terdapat langkah-langkah pengetatan regulasi properti yang beraneka ragam dari pemerintah, tren kenaikan harga hunian di pusat kota metropolis tidak kunjung terbendung."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"정부의 다각적인 부동산 규제 강화 조치에도 불구하고 대도시 중심가의 집값 상승세는 꺾이지 않고 있습니다.\" berarti \"Meskipun terdapat langkah-langkah pengetatan regulasi properti yang beraneka ragam dari pemerintah, tren kenaikan harga hunian di pusat kota metropolis tidak kunjung terbendung.\"."
+        "explanation": "Kalimat \"정부의 다각적인 부동산 규제 강화 조치에도 불구하고 대도시 중심가의 집값 상승세는 꺾이지 않고 있습니다.\" (dibaca: Jeongbu-ui dagakjeok-in budongsan gyuje ganghwa jochi-edo bulguhago daedosi jungsimga-ui jipgap sangseungse-neun kkeokk-iji ankgo isseumnida.) berarti \"Meskipun terdapat langkah-langkah pengetatan regulasi properti yang beraneka ragam dari pemerintah, tren kenaikan harga hunian di pusat kota metropolis tidak kunjung terbendung.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ망정 (biarpun harus menderita kondisi ekstrem A, tak akan pernah B) / V/A + -(으)ㅁ에도 불구하고 (meskipun kondisi A ada)\" (Konsesi Berbobot & Penolakan Halus: -(으)ㄹ망정 vs -(으)ㅁ에도 불구하고) yang berfungsi untuk dua formula konsesi (양보) tingkat master: -(으)ㄹ망정 menyatakan tekad baja rela menelan kepahitan ekstrem demi mempertahankan prinsip moral. Pola -(으)ㅁ에도 불구하고 adalah bahasa resmi esai ilmiah untuk 'terlepas dari kenyataan bahwa... / meskipun demikian'."
       },
       {
         "id": "q-ko-gram-35-pg-3",
@@ -16417,7 +16417,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Hanya bilamana rasa saling percaya dan kepedulian antaranggotanya telah kokoh terpatri, barulah kita dapat melangkah menjadi negara maju yang sejahtera dalam arti sesungguhnya, dan hal ini tiada lain adalah panggilan suci bagi generasi masa depan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"신체적 장애가 있음에도 불구하고 불굴의 의지로 역경을 딛고 세계적인 과학자로 우뚝 선 인물이 있다.\" berarti \"Meskipun memiliki keterbatasan disabilitas fisik, dengan tekad membaja melampaui rintangan nestapa terdapat tokoh yang tegak menjulang sebagai ilmuwan kelas dunia.\"."
+        "explanation": "Kalimat \"신체적 장애가 있음에도 불구하고 불굴의 의지로 역경을 딛고 세계적인 과학자로 우뚝 선 인물이 있다.\" (dibaca: Sinchejeok jang-ae-ga isseum-edo bulguhago bulgul-ui uiji-ro yeokgyeong-eul ditgo segyejeok-in gwahakja-ro uttuk seon inmul-i itda.) berarti \"Meskipun memiliki keterbatasan disabilitas fisik, dengan tekad membaja melampaui rintangan nestapa terdapat tokoh yang tegak menjulang sebagai ilmuwan kelas dunia.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ망정 (biarpun harus menderita kondisi ekstrem A, tak akan pernah B) / V/A + -(으)ㅁ에도 불구하고 (meskipun kondisi A ada)\" (Konsesi Berbobot & Penolakan Halus: -(으)ㄹ망정 vs -(으)ㅁ에도 불구하고) yang berfungsi untuk dua formula konsesi (양보) tingkat master: -(으)ㄹ망정 menyatakan tekad baja rela menelan kepahitan ekstrem demi mempertahankan prinsip moral. Pola -(으)ㅁ에도 불구하고 adalah bahasa resmi esai ilmiah untuk 'terlepas dari kenyataan bahwa... / meskipun demikian'."
       },
       {
         "id": "q-ko-gram-35-pg-4",
@@ -16724,7 +16724,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Menimbang fakta bahwa perusahaan rintisan dan UKM sedang mengalami kesulitan manajemen serius akibat suku bunga tinggi dan lonjakan biaya bahan baku, insentif pajak dan bantuan likuiditas darurat dari pemerintah amat sangat mendesak."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"사업에서 막대한 금전적 손해를 입을망정 고객과의 신뢰와 제품의 안전성만큼은 결코 양보할 수 없습니다.\" berarti \"Biarpun harus menderita kerugian finansial yang masif dalam bisnis, kepercayaan dengan pelanggan dan keselamatan produk mutlak tidak akan pernah kami kompromikan.\"."
+        "explanation": "Kalimat \"사업에서 막대한 금전적 손해를 입을망정 고객과의 신뢰와 제품의 안전성만큼은 결코 양보할 수 없습니다.\" (dibaca: Sa-eop-eseo makdaehan geumjeonjeok sonhae-reul ibeulmangjeong gogaek-gwa-ui sinroe-wa jepum-ui anjeonseongmankeum-eun gyeolko yangbohal su eopseumnida.) berarti \"Biarpun harus menderita kerugian finansial yang masif dalam bisnis, kepercayaan dengan pelanggan dan keselamatan produk mutlak tidak akan pernah kami kompromikan.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ망정 (biarpun harus menderita kondisi ekstrem A, tak akan pernah B) / V/A + -(으)ㅁ에도 불구하고 (meskipun kondisi A ada)\" (Konsesi Berbobot & Penolakan Halus: -(으)ㄹ망정 vs -(으)ㅁ에도 불구하고) yang berfungsi untuk dua formula konsesi (양보) tingkat master: -(으)ㄹ망정 menyatakan tekad baja rela menelan kepahitan ekstrem demi mempertahankan prinsip moral. Pola -(으)ㅁ에도 불구하고 adalah bahasa resmi esai ilmiah untuk 'terlepas dari kenyataan bahwa... / meskipun demikian'."
       },
       {
         "id": "q-ko-gram-35-bb-2",
@@ -16872,7 +16872,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Para pakar yang sehari-harinya terbiasa melakukan inspeksi keselamatan secara teliti tanpa celah mustahil sekali melewatkan cacat mendasar seperti itu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"평소 철두철미하게 안전 점검을 생활화해 온 전문가들이 그런 기초적인 결함을 간과했을 리가 만무하다.\" berarti \"Para pakar yang sehari-harinya terbiasa melakukan inspeksi keselamatan secara teliti tanpa celah mustahil sekali melewatkan cacat mendasar seperti itu.\"."
+        "explanation": "Kalimat \"평소 철두철미하게 안전 점검을 생활화해 온 전문가들이 그런 기초적인 결함을 간과했을 리가 만무하다.\" (dibaca: Pyeongso cheolducheolmihage anjeon jeomgeom-eul saenghwalhwahae on jeonmun-gadeul-i geureon gichojeok-in gyeolham-eul gan-gwahaesseul ri-ga manmuhada.) berarti \"Para pakar yang sehari-harinya terbiasa melakukan inspeksi keselamatan secara teliti tanpa celah mustahil sekali melewatkan cacat mendasar seperti itu.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 리가 없다 (mustahil sekali / tidak ada alasan bisa begitu) / A + -기 짝이 없다 (tiada taranya rasa...)\" (Kemustahilan Logis & Emosi Puncak: -(으)ㄹ 리가 없다 & -기 짝이 없다) yang berfungsi untuk pola -(으)ㄹ 리가 없다 menolak suatu kemungkinan secara 100% mutlak berdasarkan akal sehat. Pola -기 짝이 없다 melukiskan perasaan emosional terdalam yang tiada tandingannya di dunia (sangat bersyukur, sangat menyesal, sangat malu)."
       },
       {
         "id": "q-ko-gram-36-pg-2",
@@ -16888,7 +16888,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam masyarakat informasi modern, perkembangan pesat teknologi kecerdasan buatan sedang membawa transformasi mendasar pada struktur ketenagakerjaan manusia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"머나먼 이국땅에서 뜻밖의 사고로 촉망받던 젊은 인재를 잃게 되어 슬프고 비통하기 짝이 없습니다.\" berarti \"Kehilangan talenta muda berbakat masa depan akibat kecelakaan tak terduga di negeri asing nun jauh di sana, duka dan kepedihan ini sungguh tiada taranya.\"."
+        "explanation": "Kalimat \"머나먼 이국땅에서 뜻밖의 사고로 촉망받던 젊은 인재를 잃게 되어 슬프고 비통하기 짝이 없습니다.\" (dibaca: Meonameon igukttang-eseo tteutbakk-ui sago-ro chokmangbatdeon jeolmeun injae-reul ilhge doe-eo seulpeugo bitonghagi jjak-i eopseumnida.) berarti \"Kehilangan talenta muda berbakat masa depan akibat kecelakaan tak terduga di negeri asing nun jauh di sana, duka dan kepedihan ini sungguh tiada taranya.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 리가 없다 (mustahil sekali / tidak ada alasan bisa begitu) / A + -기 짝이 없다 (tiada taranya rasa...)\" (Kemustahilan Logis & Emosi Puncak: -(으)ㄹ 리가 없다 & -기 짝이 없다) yang berfungsi untuk pola -(으)ㄹ 리가 없다 menolak suatu kemungkinan secara 100% mutlak berdasarkan akal sehat. Pola -기 짝이 없다 melukiskan perasaan emosional terdalam yang tiada tandingannya di dunia (sangat bersyukur, sangat menyesal, sangat malu)."
       },
       {
         "id": "q-ko-gram-36-pg-3",
@@ -16904,7 +16904,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Oleh karena itu, pemerintah dan masyarakat sipil harus berpadu erat untuk membangun sistem kesejahteraan yang berkelanjutan secara terstruktur."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"국가적 재난 상황에서 자신의 안위만을 챙기려 한 공직자의 태도는 무책임하기 짝이 없다고 비판받았다.\" berarti \"Sikap pejabat publik yang hanya mementingkan keselamatan dirinya sendiri di tengah situasi bencana nasional dikritik sebagai perbuatan yang tidak bertanggung jawab tiada taranya.\"."
+        "explanation": "Kalimat \"국가적 재난 상황에서 자신의 안위만을 챙기려 한 공직자의 태도는 무책임하기 짝이 없다고 비판받았다.\" (dibaca: Gukkajeok jaenan sanghwang-eseo jasin-ui anwiman-eul chaenggiryeo han gongjikja-ui taedo-neun muchaegimhagi jjak-i eopdago bipanbatatda.) berarti \"Sikap pejabat publik yang hanya mementingkan keselamatan dirinya sendiri di tengah situasi bencana nasional dikritik sebagai perbuatan yang tidak bertanggung jawab tiada taranya.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 리가 없다 (mustahil sekali / tidak ada alasan bisa begitu) / A + -기 짝이 없다 (tiada taranya rasa...)\" (Kemustahilan Logis & Emosi Puncak: -(으)ㄹ 리가 없다 & -기 짝이 없다) yang berfungsi untuk pola -(으)ㄹ 리가 없다 menolak suatu kemungkinan secara 100% mutlak berdasarkan akal sehat. Pola -기 짝이 없다 melukiskan perasaan emosional terdalam yang tiada tandingannya di dunia (sangat bersyukur, sangat menyesal, sangat malu)."
       },
       {
         "id": "q-ko-gram-36-pg-4",
@@ -17211,7 +17211,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun menikmati kemakmuran materi dalam masyarakat modern, bila menimbang fakta bahwa kemiskinan batin individu justru semakin parah, perenungan sosial terhadap nilai kehidupan sejati amat sangat dituntut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"평소 철두철미하게 안전 점검을 생활화해 온 전문가들이 그런 기초적인 결함을 간과했을 리가 만무하다.\" berarti \"Para pakar yang sehari-harinya terbiasa melakukan inspeksi keselamatan secara teliti tanpa celah mustahil sekali melewatkan cacat mendasar seperti itu.\"."
+        "explanation": "Kalimat \"평소 철두철미하게 안전 점검을 생활화해 온 전문가들이 그런 기초적인 결함을 간과했을 리가 만무하다.\" (dibaca: Pyeongso cheolducheolmihage anjeon jeomgeom-eul saenghwalhwahae on jeonmun-gadeul-i geureon gichojeok-in gyeolham-eul gan-gwahaesseul ri-ga manmuhada.) berarti \"Para pakar yang sehari-harinya terbiasa melakukan inspeksi keselamatan secara teliti tanpa celah mustahil sekali melewatkan cacat mendasar seperti itu.\". Kalimat ini menggunakan pola \"V/A + -(으)ㄹ 리가 없다 (mustahil sekali / tidak ada alasan bisa begitu) / A + -기 짝이 없다 (tiada taranya rasa...)\" (Kemustahilan Logis & Emosi Puncak: -(으)ㄹ 리가 없다 & -기 짝이 없다) yang berfungsi untuk pola -(으)ㄹ 리가 없다 menolak suatu kemungkinan secara 100% mutlak berdasarkan akal sehat. Pola -기 짝이 없다 melukiskan perasaan emosional terdalam yang tiada tandingannya di dunia (sangat bersyukur, sangat menyesal, sangat malu)."
       },
       {
         "id": "q-ko-gram-36-bb-2",
@@ -17357,7 +17357,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Perlu diperhatikan bahwa kelimpahan materi tidak serta-merta berbanding lurus dengan indeks kebahagiaan individu."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"현대 과학기술이 고도화되면 될수록 인간 소외 현상과 개인정보 유출에 대한 사회적 불안감은 더욱 증폭된다.\" berarti \"Semakin teknologi sains modern berkembang canggih, kecemasan sosial terhadap fenomena keterasingan manusia dan kebocoran data pribadi justru semakin teramplifikasi meluas.\"."
+        "explanation": "Kalimat \"현대 과학기술이 고도화되면 될수록 인간 소외 현상과 개인정보 유출에 대한 사회적 불안감은 더욱 증폭된다.\" (dibaca: Hyeondae gwahakgisul-i godohwadoemyeon doel-surok in-gan soe-oe hyeonsang-gwa gaeinjeongbo yuchul-e daehan sahoejeok buran-gam-eun deouk jeungpokdoenda.) berarti \"Semakin teknologi sains modern berkembang canggih, kecemasan sosial terhadap fenomena keterasingan manusia dan kebocoran data pribadi justru semakin teramplifikasi meluas.\". Kalimat ini menggunakan pola \"V/A + -(으)면 -(으)ㄹ수록 (semakin... semakin...) / V + -는 한편(으로) (di samping itu / sementara itu)\" (Korelasi Seiring Berjalan & Dua Aspek Simultan: -(으)면 -(으)ㄹ수록 & -는 한편) yang berfungsi untuk pola -(으)면 -(으)ㄹ수록 melukiskan korelasi proporsional di mana kenaikan derajat faktor A menyebabkan kenaikan derajat faktor B. Pola -는 한편 menyajikan dua fakta atau kebijakan yang dijalankan secara simultan berdampingan."
       },
       {
         "id": "q-ko-gram-37-pg-2",
@@ -17373,7 +17373,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Penyusutan populasi usia produktif seiring masuknya masyarakat ke era super-aging bekerja sebagai beban luar biasa terhadap kesehatan fiskal keuangan negara."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"환경부는 신재생에너지 인프라를 대폭 확충하는 한편, 탄소 배출량이 많은 다소비 기업에 대한 단속을 강화하고 있다.\" berarti \"Kementerian Lingkungan Hidup memperluas infrastruktur energi baru terbarukan secara masif, sementara itu secara simultan memperketat inspeksi terhadap perusahaan pemboros dengan emisi karbon tinggi.\"."
+        "explanation": "Kalimat \"환경부는 신재생에너지 인프라를 대폭 확충하는 한편, 탄소 배출량이 많은 다소비 기업에 대한 단속을 강화하고 있다.\" (dibaca: Hwan-gyeongbu-neun sinjaesaeng-enerji inpeura-reul daepok hwakchunghaneun hanpyeon, tanso baechullyang-i maneun dasobi gieop-e daehan dansok-eul ganghwahago itda.) berarti \"Kementerian Lingkungan Hidup memperluas infrastruktur energi baru terbarukan secara masif, sementara itu secara simultan memperketat inspeksi terhadap perusahaan pemboros dengan emisi karbon tinggi.\". Kalimat ini menggunakan pola \"V/A + -(으)면 -(으)ㄹ수록 (semakin... semakin...) / V + -는 한편(으로) (di samping itu / sementara itu)\" (Korelasi Seiring Berjalan & Dua Aspek Simultan: -(으)면 -(으)ㄹ수록 & -는 한편) yang berfungsi untuk pola -(으)면 -(으)ㄹ수록 melukiskan korelasi proporsional di mana kenaikan derajat faktor A menyebabkan kenaikan derajat faktor B. Pola -는 한편 menyajikan dua fakta atau kebijakan yang dijalankan secara simultan berdampingan."
       },
       {
         "id": "q-ko-gram-37-pg-3",
@@ -17389,7 +17389,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kita harus menyusun kebijakan jangka panjang setelah menelaah secara seksama kelayakan ekonomis dan keramahan lingkungan dari pengembangan energi baru terbarukan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"학문의 길은 깊이 파고들면 파고들수록 자신의 지식이 얼마나 미천한가를 겸허하게 깨닫게 만든다.\" berarti \"Jalan ilmu pengetahuan semakin digali mendalam, justru semakin menyadarkan diri secara rendah hati betapa masih dangkalnya pengetahuan yang kita miliki.\"."
+        "explanation": "Kalimat \"학문의 길은 깊이 파고들면 파고들수록 자신의 지식이 얼마나 미천한가를 겸허하게 깨닫게 만든다.\" (dibaca: Hangmun-ui gil-eun gipi pagodeulmyeon pagodeul-surok jasin-ui jisik-i eolmana micheonhan-ga-reul gyeomheohage kkaedatge mandeunda.) berarti \"Jalan ilmu pengetahuan semakin digali mendalam, justru semakin menyadarkan diri secara rendah hati betapa masih dangkalnya pengetahuan yang kita miliki.\". Kalimat ini menggunakan pola \"V/A + -(으)면 -(으)ㄹ수록 (semakin... semakin...) / V + -는 한편(으로) (di samping itu / sementara itu)\" (Korelasi Seiring Berjalan & Dua Aspek Simultan: -(으)면 -(으)ㄹ수록 & -는 한편) yang berfungsi untuk pola -(으)면 -(으)ㄹ수록 melukiskan korelasi proporsional di mana kenaikan derajat faktor A menyebabkan kenaikan derajat faktor B. Pola -는 한편 menyajikan dua fakta atau kebijakan yang dijalankan secara simultan berdampingan."
       },
       {
         "id": "q-ko-gram-37-pg-4",
@@ -17696,7 +17696,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam masyarakat informasi modern, perkembangan pesat teknologi kecerdasan buatan sedang membawa transformasi mendasar pada struktur ketenagakerjaan manusia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"현대 과학기술이 고도화되면 될수록 인간 소외 현상과 개인정보 유출에 대한 사회적 불안감은 더욱 증폭된다.\" berarti \"Semakin teknologi sains modern berkembang canggih, kecemasan sosial terhadap fenomena keterasingan manusia dan kebocoran data pribadi justru semakin teramplifikasi meluas.\"."
+        "explanation": "Kalimat \"현대 과학기술이 고도화되면 될수록 인간 소외 현상과 개인정보 유출에 대한 사회적 불안감은 더욱 증폭된다.\" (dibaca: Hyeondae gwahakgisul-i godohwadoemyeon doel-surok in-gan soe-oe hyeonsang-gwa gaeinjeongbo yuchul-e daehan sahoejeok buran-gam-eun deouk jeungpokdoenda.) berarti \"Semakin teknologi sains modern berkembang canggih, kecemasan sosial terhadap fenomena keterasingan manusia dan kebocoran data pribadi justru semakin teramplifikasi meluas.\". Kalimat ini menggunakan pola \"V/A + -(으)면 -(으)ㄹ수록 (semakin... semakin...) / V + -는 한편(으로) (di samping itu / sementara itu)\" (Korelasi Seiring Berjalan & Dua Aspek Simultan: -(으)면 -(으)ㄹ수록 & -는 한편) yang berfungsi untuk pola -(으)면 -(으)ㄹ수록 melukiskan korelasi proporsional di mana kenaikan derajat faktor A menyebabkan kenaikan derajat faktor B. Pola -는 한편 menyajikan dua fakta atau kebijakan yang dijalankan secara simultan berdampingan."
       },
       {
         "id": "q-ko-gram-37-bb-2",
@@ -17843,7 +17843,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Demi menyelesaikan kontradiksi struktural sistem seleksi masuk perguruan tinggi saat ini, reformasi dari berbagai sudut pandang yang mampu menjamin keadilan dan kesetaraan harus didahulukan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"부모가 되어 직접 자식을 낳아 기르고 밤잠을 설쳐 보아야 비로소 부모님의 깊은 은혜를 가슴으로 이해할 수 있다.\" berarti \"Hanya setelah menjadi orang tua dan melahirkan serta membesarkan anak sendiri sembari kurang tidur di malam hari, barulah seseorang mampu memahami dengan sanubari betapa luhurnya budi jasa orang tua.\"."
+        "explanation": "Kalimat \"부모가 되어 직접 자식을 낳아 기르고 밤잠을 설쳐 보아야 비로소 부모님의 깊은 은혜를 가슴으로 이해할 수 있다.\" (dibaca: Bumo-ga doe-eo jikjeop jasik-eul na-a gireugo bamjam-eul seolchyeo bo-aya biroso bumonim-ui gipeun eunhye-reul gaseum-euro i-haehal su itda.) berarti \"Hanya setelah menjadi orang tua dan melahirkan serta membesarkan anak sendiri sembari kurang tidur di malam hari, barulah seseorang mampu memahami dengan sanubari betapa luhurnya budi jasa orang tua.\". Kalimat ini menggunakan pola \"V/A + -아/어야 + 비로소 (Hanya setelah kondisi A terpenuhi, BARULAH terwujud B)\" (Syarat Mutlak Baru Tercapai: -아/어야 비로소) yang berfungsi untuk pola penegasan syarat mutlak prasyarat. Menegaskan bahwa tanpa memenuhi kondisi di klausa pertama, hal di klausa kedua mustahil terwujud; dan baru pada titik itulah kita menyadari atau meraih nilai sejati ('hanya bilamana... barulah...')."
       },
       {
         "id": "q-ko-gram-38-pg-2",
@@ -17859,7 +17859,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Ditinjau bercermin pada nilai konstitusi dan prinsip dasar demokrasi, tindakan membatasi hak masyarakat untuk mengetahui secara tidak adil sama sekali tidak dapat dibenarkan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"타인의 입장에 서서 진심으로 공감하고 배려하는 자세를 가져야 비로소 진정한 소통과 사회적 화합이 가능하다.\" berarti \"Hanya bilamana kita berdiri di posisi orang lain dan menaruh sikap berempati serta peduli secara tulus, barulah komunikasi sejati dan keharmonisan sosial dapat dimungkinkan.\"."
+        "explanation": "Kalimat \"타인의 입장에 서서 진심으로 공감하고 배려하는 자세를 가져야 비로소 진정한 소통과 사회적 화합이 가능하다.\" (dibaca: Ta-in-ui ipjang-e seoseo jinsim-euro gong-gamhago baeryeohaneun jase-reul gajyeoya biroso jinjeonghan sotong-gwa sahoejeok hwahap-i ganeunghada.) berarti \"Hanya bilamana kita berdiri di posisi orang lain dan menaruh sikap berempati serta peduli secara tulus, barulah komunikasi sejati dan keharmonisan sosial dapat dimungkinkan.\". Kalimat ini menggunakan pola \"V/A + -아/어야 + 비로소 (Hanya setelah kondisi A terpenuhi, BARULAH terwujud B)\" (Syarat Mutlak Baru Tercapai: -아/어야 비로소) yang berfungsi untuk pola penegasan syarat mutlak prasyarat. Menegaskan bahwa tanpa memenuhi kondisi di klausa pertama, hal di klausa kedua mustahil terwujud; dan baru pada titik itulah kita menyadari atau meraih nilai sejati ('hanya bilamana... barulah...')."
       },
       {
         "id": "q-ko-gram-38-pg-3",
@@ -17875,7 +17875,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Hanya jika investasi riset dan pengembangan yang berani dan berkesinambungan di bidang sains dasar ditopang secara kokoh, barulah bangsa ini dapat melompat menjadi negara adidaya teknologi mutakhir."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"기초과학 분야에 대한 과감하고 지속적인 연구개발 투자가 뒷받침되어야 비로소 첨단 기술 강국으로 도약할 수 있다.\" berarti \"Hanya jika investasi riset dan pengembangan yang berani dan berkesinambungan di bidang sains dasar ditopang secara kokoh, barulah bangsa ini dapat melompat menjadi negara adidaya teknologi mutakhir.\"."
+        "explanation": "Kalimat \"기초과학 분야에 대한 과감하고 지속적인 연구개발 투자가 뒷받침되어야 비로소 첨단 기술 강국으로 도약할 수 있다.\" (dibaca: Gichogwahak bunya-e daehan gwagamhago jisokjeok-in yeon-gugaebal tuja-ga dwitbatchimdoe-eoya biroso cheomdan gisul gangguk-euro doyakhal su itda.) berarti \"Hanya jika investasi riset dan pengembangan yang berani dan berkesinambungan di bidang sains dasar ditopang secara kokoh, barulah bangsa ini dapat melompat menjadi negara adidaya teknologi mutakhir.\". Kalimat ini menggunakan pola \"V/A + -아/어야 + 비로소 (Hanya setelah kondisi A terpenuhi, BARULAH terwujud B)\" (Syarat Mutlak Baru Tercapai: -아/어야 비로소) yang berfungsi untuk pola penegasan syarat mutlak prasyarat. Menegaskan bahwa tanpa memenuhi kondisi di klausa pertama, hal di klausa kedua mustahil terwujud; dan baru pada titik itulah kita menyadari atau meraih nilai sejati ('hanya bilamana... barulah...')."
       },
       {
         "id": "q-ko-gram-38-pg-4",
@@ -18182,7 +18182,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Hanya setelah menjadi orang tua dan melahirkan serta membesarkan anak sendiri sembari kurang tidur di malam hari, barulah seseorang mampu memahami dengan sanubari betapa luhurnya budi jasa orang tua."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"부모가 되어 직접 자식을 낳아 기르고 밤잠을 설쳐 보아야 비로소 부모님의 깊은 은혜를 가슴으로 이해할 수 있다.\" berarti \"Hanya setelah menjadi orang tua dan melahirkan serta membesarkan anak sendiri sembari kurang tidur di malam hari, barulah seseorang mampu memahami dengan sanubari betapa luhurnya budi jasa orang tua.\"."
+        "explanation": "Kalimat \"부모가 되어 직접 자식을 낳아 기르고 밤잠을 설쳐 보아야 비로소 부모님의 깊은 은혜를 가슴으로 이해할 수 있다.\" (dibaca: Bumo-ga doe-eo jikjeop jasik-eul na-a gireugo bamjam-eul seolchyeo bo-aya biroso bumonim-ui gipeun eunhye-reul gaseum-euro i-haehal su itda.) berarti \"Hanya setelah menjadi orang tua dan melahirkan serta membesarkan anak sendiri sembari kurang tidur di malam hari, barulah seseorang mampu memahami dengan sanubari betapa luhurnya budi jasa orang tua.\". Kalimat ini menggunakan pola \"V/A + -아/어야 + 비로소 (Hanya setelah kondisi A terpenuhi, BARULAH terwujud B)\" (Syarat Mutlak Baru Tercapai: -아/어야 비로소) yang berfungsi untuk pola penegasan syarat mutlak prasyarat. Menegaskan bahwa tanpa memenuhi kondisi di klausa pertama, hal di klausa kedua mustahil terwujud; dan baru pada titik itulah kita menyadari atau meraih nilai sejati ('hanya bilamana... barulah...')."
       },
       {
         "id": "q-ko-gram-38-bb-2",
@@ -18327,7 +18327,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Bercermin pada pelajaran pahit getir saat krisis moneter masa lalu, pengelolaan cadangan devisa yang stabil dan jaminan kesehatan perbankan adalah hal yang paling mendesak di atas segalanya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"중소기업들이 고금리와 원자재 가격 상승으로 심각한 경영난을 겪고 있는 점을 감안할 때, 정부 차원의 세제 혜택과 긴급 금융 지원이 시급하다.\" berarti \"Menimbang fakta bahwa perusahaan rintisan dan UKM sedang mengalami kesulitan manajemen serius akibat suku bunga tinggi dan lonjakan biaya bahan baku, insentif pajak dan bantuan likuiditas darurat dari pemerintah amat sangat mendesak.\"."
+        "explanation": "Kalimat \"중소기업들이 고금리와 원자재 가격 상승으로 심각한 경영난을 겪고 있는 점을 감안할 때, 정부 차원의 세제 혜택과 긴급 금융 지원이 시급하다.\" (dibaca: Jungsogieopdeul-i gogeumri-wa wonjajae gagyeok sangseung-euro sim-gakhan gyeong-yeongnan-eul gyeokgo inneun jeom-eul gamanhal ttae, jeongbu chaweon-ui seje hye-taek-gwa gin-geup geumyung jiwon-i sigeuphada.) berarti \"Menimbang fakta bahwa perusahaan rintisan dan UKM sedang mengalami kesulitan manajemen serius akibat suku bunga tinggi dan lonjakan biaya bahan baku, insentif pajak dan bantuan likuiditas darurat dari pemerintah amat sangat mendesak.\". Kalimat ini menggunakan pola \"V + -는 점을 감안할 때 / A + -(으)ㄴ 점을 감안할 때 (menimbang fakta bahwa...)\" (Menimbang Berbagai Sudut Pertimbangan: -(으)ㄴ/는 점을 감안할 때) yang berfungsi untuk pola bahasa diplomatik resmi dan perumusan kebijakan publik yang berarti 'dengan memperhitungkan dan menimbang fakta khusus tersebut (斟酌/勘案)'. Digunakan untuk mengambil keputusan bijak yang mempertimbangkan situasi riil yang kompleks."
       },
       {
         "id": "q-ko-gram-39-pg-2",
@@ -18343,7 +18343,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan menimbang fakta bahwa terdakwa menyesali kesalahannya secara mendalam dan berusaha aktif memulihkan kerugian korban, pengadilan menjatuhkan vonis hukuman percobaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"피고인이 자신의 잘못을 깊이 뉘우치고 피해 복구를 위해 적극 노력한 점을 감안하여 법원은 집행유예를 선고했습니다.\" berarti \"Dengan menimbang fakta bahwa terdakwa menyesali kesalahannya secara mendalam dan berusaha aktif memulihkan kerugian korban, pengadilan menjatuhkan vonis hukuman percobaan.\"."
+        "explanation": "Kalimat \"피고인이 자신의 잘못을 깊이 뉘우치고 피해 복구를 위해 적극 노력한 점을 감안하여 법원은 집행유예를 선고했습니다.\" (dibaca: Pigoin-i jasin-ui jalmot-eul gipi nyu-uichigo pihae bokgu-reul wihae jeokgeuk noryeokhan jeom-eul gamanhayeo beobwon-eun jiphaeng-yuye-reul seongohaesseumnida.) berarti \"Dengan menimbang fakta bahwa terdakwa menyesali kesalahannya secara mendalam dan berusaha aktif memulihkan kerugian korban, pengadilan menjatuhkan vonis hukuman percobaan.\". Kalimat ini menggunakan pola \"V + -는 점을 감안할 때 / A + -(으)ㄴ 점을 감안할 때 (menimbang fakta bahwa...)\" (Menimbang Berbagai Sudut Pertimbangan: -(으)ㄴ/는 점을 감안할 때) yang berfungsi untuk pola bahasa diplomatik resmi dan perumusan kebijakan publik yang berarti 'dengan memperhitungkan dan menimbang fakta khusus tersebut (斟酌/勘案)'. Digunakan untuk mengambil keputusan bijak yang mempertimbangkan situasi riil yang kompleks."
       },
       {
         "id": "q-ko-gram-39-pg-3",
@@ -18359,7 +18359,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Peradaban sains dan teknologi yang dibangun manusia pun di hadapan hukum keagungan alam raya hanyalah sekadar makhluk ciptaan yang lemah semata."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"신기술 개발에 막대한 초기 비용과 시간이 소요되는 점을 감안하면 장기적인 안목에서의 정책적 인내가 필수적이다.\" berarti \"Bila menimbang fakta bahwa pengembangan teknologi baru menyita waktu dan biaya awal yang masif, kesabaran kebijakan dari visi jangka panjang adalah hal yang mutlak.\"."
+        "explanation": "Kalimat \"신기술 개발에 막대한 초기 비용과 시간이 소요되는 점을 감안하면 장기적인 안목에서의 정책적 인내가 필수적이다.\" (dibaca: Singisul gaebal-e makdaehan chogi biyong-gwa sigan-i soyodoeneun jeom-eul gamanhamyeon jang-gijeok-in anmok-eseo-ui jeongchaekjeok innae-ga pilsujeok-ida.) berarti \"Bila menimbang fakta bahwa pengembangan teknologi baru menyita waktu dan biaya awal yang masif, kesabaran kebijakan dari visi jangka panjang adalah hal yang mutlak.\". Kalimat ini menggunakan pola \"V + -는 점을 감안할 때 / A + -(으)ㄴ 점을 감안할 때 (menimbang fakta bahwa...)\" (Menimbang Berbagai Sudut Pertimbangan: -(으)ㄴ/는 점을 감안할 때) yang berfungsi untuk pola bahasa diplomatik resmi dan perumusan kebijakan publik yang berarti 'dengan memperhitungkan dan menimbang fakta khusus tersebut (斟酌/勘案)'. Digunakan untuk mengambil keputusan bijak yang mempertimbangkan situasi riil yang kompleks."
       },
       {
         "id": "q-ko-gram-39-pg-4",
@@ -18666,7 +18666,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Ditinjau bercermin pada nilai konstitusi dan prinsip dasar demokrasi, tindakan membatasi hak masyarakat untuk mengetahui secara tidak adil sama sekali tidak dapat dibenarkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"중소기업들이 고금리와 원자재 가격 상승으로 심각한 경영난을 겪고 있는 점을 감안할 때, 정부 차원의 세제 혜택과 긴급 금융 지원이 시급하다.\" berarti \"Menimbang fakta bahwa perusahaan rintisan dan UKM sedang mengalami kesulitan manajemen serius akibat suku bunga tinggi dan lonjakan biaya bahan baku, insentif pajak dan bantuan likuiditas darurat dari pemerintah amat sangat mendesak.\"."
+        "explanation": "Kalimat \"중소기업들이 고금리와 원자재 가격 상승으로 심각한 경영난을 겪고 있는 점을 감안할 때, 정부 차원의 세제 혜택과 긴급 금융 지원이 시급하다.\" (dibaca: Jungsogieopdeul-i gogeumri-wa wonjajae gagyeok sangseung-euro sim-gakhan gyeong-yeongnan-eul gyeokgo inneun jeom-eul gamanhal ttae, jeongbu chaweon-ui seje hye-taek-gwa gin-geup geumyung jiwon-i sigeuphada.) berarti \"Menimbang fakta bahwa perusahaan rintisan dan UKM sedang mengalami kesulitan manajemen serius akibat suku bunga tinggi dan lonjakan biaya bahan baku, insentif pajak dan bantuan likuiditas darurat dari pemerintah amat sangat mendesak.\". Kalimat ini menggunakan pola \"V + -는 점을 감안할 때 / A + -(으)ㄴ 점을 감안할 때 (menimbang fakta bahwa...)\" (Menimbang Berbagai Sudut Pertimbangan: -(으)ㄴ/는 점을 감안할 때) yang berfungsi untuk pola bahasa diplomatik resmi dan perumusan kebijakan publik yang berarti 'dengan memperhitungkan dan menimbang fakta khusus tersebut (斟酌/勘案)'. Digunakan untuk mengambil keputusan bijak yang mempertimbangkan situasi riil yang kompleks."
       },
       {
         "id": "q-ko-gram-39-bb-2",
@@ -18814,7 +18814,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun menikmati kemakmuran materi dalam masyarakat modern, bila menimbang fakta bahwa kemiskinan batin individu justru semakin parah, perenungan sosial terhadap nilai kehidupan sejati amat sangat dituntut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"현대 사회에서 물질적 번영을 누리고 있음에도 불구하고 개인의 정신적 빈곤이 심화되고 있는 점을 감안할 때, 진정한 삶의 가치에 대한 사회적 성찰이 절실히 요구된다.\" berarti \"Meskipun menikmati kemakmuran materi dalam masyarakat modern, bila menimbang fakta bahwa kemiskinan batin individu justru semakin parah, perenungan sosial terhadap nilai kehidupan sejati amat sangat dituntut.\"."
+        "explanation": "Kalimat \"현대 사회에서 물질적 번영을 누리고 있음에도 불구하고 개인의 정신적 빈곤이 심화되고 있는 점을 감안할 때, 진정한 삶의 가치에 대한 사회적 성찰이 절실히 요구된다.\" (dibaca: Hyeondae sahoe-eseo muljiljeok beon-yeong-eul nurigo isseum-edo bulguhago gaein-ui jeongsinjeok bingon-i simhwadoego inneun jeom-eul gamanhal ttae, jinjeonghan salm-ui gachi-e daehan sahoejeok seongchal-i jeolsilhi yogudoenda.) berarti \"Meskipun menikmati kemakmuran materi dalam masyarakat modern, bila menimbang fakta bahwa kemiskinan batin individu justru semakin parah, perenungan sosial terhadap nilai kehidupan sejati amat sangat dituntut.\". Kalimat ini menggunakan pola \"서론-본론-결론 3단 구성 고급 담화 표지 통합 (Mastery Esai 54번)\" (Simulasi Akademik & Esai Argumentatif Level 5 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf mahir TOPIK Level 5 (skor minimal 190): menguasai teknik penulisan esai 600-700 karakter soal No. 54 dengan struktur pembuka (서론), isi analisis dialektika (본론), dan solusi rekomendasi penutup (결론)."
       },
       {
         "id": "q-ko-gram-40-pg-2",
@@ -18830,7 +18830,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Biarpun harus menderita kerugian finansial yang masif dalam bisnis, kepercayaan dengan pelanggan dan keselamatan produk mutlak tidak akan pernah kami kompromikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"과학기술의 무분별한 발전이 인간성 상실을 초래할 수도 있다는 우려가 제기되는 한편, 이를 인류 복지 증진의 도구로 슬기롭게 통제하려는 제도적 장치 마련이 선행되어야 한다.\" berarti \"Di saat muncul kekhawatiran bahwa perkembangan sains teknologi yang membabi buta dapat memicu hilangnya rasa kemanusiaan, di samping itu secara simultan penyiapan instrumen regulasi untuk mengendalikannya secara bijak demi kesejahteraan umat manusia harus didahulukan.\"."
+        "explanation": "Kalimat \"과학기술의 무분별한 발전이 인간성 상실을 초래할 수도 있다는 우려가 제기되는 한편, 이를 인류 복지 증진의 도구로 슬기롭게 통제하려는 제도적 장치 마련이 선행되어야 한다.\" (dibaca: Gwahakgisul-ui mubunbyeolhan baljeon-i in-ganseong sangsil-eul choraehal su-do itdaneun uryeo-ga jegidoeneun hanpyeon, i-reul inryu bokji jeungjin-ui dogu-ro seulgirobge tongjeharyeoneun jedojeok jangchi maryeon-i seonhaengdoe-eoya handa.) berarti \"Di saat muncul kekhawatiran bahwa perkembangan sains teknologi yang membabi buta dapat memicu hilangnya rasa kemanusiaan, di samping itu secara simultan penyiapan instrumen regulasi untuk mengendalikannya secara bijak demi kesejahteraan umat manusia harus didahulukan.\". Kalimat ini menggunakan pola \"서론-본론-결론 3단 구성 고급 담화 표지 통합 (Mastery Esai 54번)\" (Simulasi Akademik & Esai Argumentatif Level 5 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf mahir TOPIK Level 5 (skor minimal 190): menguasai teknik penulisan esai 600-700 karakter soal No. 54 dengan struktur pembuka (서론), isi analisis dialektika (본론), dan solusi rekomendasi penutup (결론)."
       },
       {
         "id": "q-ko-gram-40-pg-3",
@@ -18846,7 +18846,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun memiliki keterbatasan disabilitas fisik, dengan tekad membaja melampaui rintangan nestapa terdapat tokoh yang tegak menjulang sebagai ilmuwan kelas dunia."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"사회 구성원 간의 신뢰와 배려가 확립되어야 비로소 진정한 의미의 선진 복지 국가로 발돋움할 수 있으며, 이는 미래 세대를 위한 소명에 다름 아니다.\" berarti \"Hanya bilamana rasa saling percaya dan kepedulian antaranggotanya telah kokoh terpatri, barulah kita dapat melangkah menjadi negara maju yang sejahtera dalam arti sesungguhnya, dan hal ini tiada lain adalah panggilan suci bagi generasi masa depan.\"."
+        "explanation": "Kalimat \"사회 구성원 간의 신뢰와 배려가 확립되어야 비로소 진정한 의미의 선진 복지 국가로 발돋움할 수 있으며, 이는 미래 세대를 위한 소명에 다름 아니다.\" (dibaca: Sahoe guseong-won gan-ui sinroe-wa baeryeo-ga hwakripdoe-eoya biroso jinjeonghan uimi-ui seonjin bokji gukka-ro baldot-umhal su isseumyeo, i-neun mirae sede-reul wihan somyeong-e dareum animnida.) berarti \"Hanya bilamana rasa saling percaya dan kepedulian antaranggotanya telah kokoh terpatri, barulah kita dapat melangkah menjadi negara maju yang sejahtera dalam arti sesungguhnya, dan hal ini tiada lain adalah panggilan suci bagi generasi masa depan.\". Kalimat ini menggunakan pola \"서론-본론-결론 3단 구성 고급 담화 표지 통합 (Mastery Esai 54번)\" (Simulasi Akademik & Esai Argumentatif Level 5 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf mahir TOPIK Level 5 (skor minimal 190): menguasai teknik penulisan esai 600-700 karakter soal No. 54 dengan struktur pembuka (서론), isi analisis dialektika (본론), dan solusi rekomendasi penutup (결론)."
       },
       {
         "id": "q-ko-gram-40-pg-4",
@@ -19153,7 +19153,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Perilaku yang mengatasnamakan pelestarian lingkungan padahal kenyataannya semata-mata meraup laba korporasi tiada lain dan tak bukan adalah kemunafikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"현대 사회에서 물질적 번영을 누리고 있음에도 불구하고 개인의 정신적 빈곤이 심화되고 있는 점을 감안할 때, 진정한 삶의 가치에 대한 사회적 성찰이 절실히 요구된다.\" berarti \"Meskipun menikmati kemakmuran materi dalam masyarakat modern, bila menimbang fakta bahwa kemiskinan batin individu justru semakin parah, perenungan sosial terhadap nilai kehidupan sejati amat sangat dituntut.\"."
+        "explanation": "Kalimat \"현대 사회에서 물질적 번영을 누리고 있음에도 불구하고 개인의 정신적 빈곤이 심화되고 있는 점을 감안할 때, 진정한 삶의 가치에 대한 사회적 성찰이 절실히 요구된다.\" (dibaca: Hyeondae sahoe-eseo muljiljeok beon-yeong-eul nurigo isseum-edo bulguhago gaein-ui jeongsinjeok bingon-i simhwadoego inneun jeom-eul gamanhal ttae, jinjeonghan salm-ui gachi-e daehan sahoejeok seongchal-i jeolsilhi yogudoenda.) berarti \"Meskipun menikmati kemakmuran materi dalam masyarakat modern, bila menimbang fakta bahwa kemiskinan batin individu justru semakin parah, perenungan sosial terhadap nilai kehidupan sejati amat sangat dituntut.\". Kalimat ini menggunakan pola \"서론-본론-결론 3단 구성 고급 담화 표지 통합 (Mastery Esai 54번)\" (Simulasi Akademik & Esai Argumentatif Level 5 (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf mahir TOPIK Level 5 (skor minimal 190): menguasai teknik penulisan esai 600-700 karakter soal No. 54 dengan struktur pembuka (서론), isi analisis dialektika (본론), dan solusi rekomendasi penutup (결론)."
       },
       {
         "id": "q-ko-gram-40-bb-2",
@@ -19301,7 +19301,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Hasil penyelidikan seksama untuk mengungkap penyebab kecelakaan mengonfirmasi secara final bahwa indikasi cacat badan pesawat maupun buruknya pemeliharaan sama sekali nihil."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다.\" berarti \"Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).\"."
+        "explanation": "Kalimat \"수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다.\" (dibaca: Sunyeon-gan-ui pinaneun noryeok-gwa yeokgyeong kkeut-e segyejeok-in ba-io bencheogieop-eul ilgwonaen daepyo-ui seong-gong seutori-neun gojingamrae-ui jinjeonghan pyosang-ida.) berarti \"Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).\". Kalimat ini menggunakan pola \"四字成語 (Saja-seong-eo Klasik) + 문맥 담화 수사학\" (Saja-seong-eo Filosofis 1 (사자성어): 고진감래, 일석이조, 작심삼일) yang berfungsi untuk menguasai peribahasa 4 karakter Hanja klasik (사자성어 - Saja-seong-eo) yang menjadi pilar literasi tinggi dalam teks opini koran dan percakapan formal para cendekiawan Korea."
       },
       {
         "id": "q-ko-gram-41-pg-2",
@@ -19317,7 +19317,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"친환경 대중교통을 이용하는 것은 교통비도 절약하고 도시의 탄소 배출도 줄일 수 있어 그야말로 일석이조의 효과가 있다.\" berarti \"Memanfaatkan transportasi umum ramah lingkungan dapat menghemat ongkos bepergian sekaligus memangkas emisi karbon perkotaan, sungguh merupakan hasil nyata yang memetik dua burung dengan sebutir batu.\"."
+        "explanation": "Kalimat \"친환경 대중교통을 이용하는 것은 교통비도 절약하고 도시의 탄소 배출도 줄일 수 있어 그야말로 일석이조의 효과가 있다.\" (dibaca: Chinhwan-gyeong daejunggyotong-eul iyonghaneun geos-eun gyotongbi-do jeoryakhago dosi-ui tanso baechul-do juril su isseo geuyamallo ilseog-ijo-ui hyogwa-ga itda.) berarti \"Memanfaatkan transportasi umum ramah lingkungan dapat menghemat ongkos bepergian sekaligus memangkas emisi karbon perkotaan, sungguh merupakan hasil nyata yang memetik dua burung dengan sebutir batu.\". Kalimat ini menggunakan pola \"四字成語 (Saja-seong-eo Klasik) + 문맥 담화 수사학\" (Saja-seong-eo Filosofis 1 (사자성어): 고진감래, 일석이조, 작심삼일) yang berfungsi untuk menguasai peribahasa 4 karakter Hanja klasik (사자성어 - Saja-seong-eo) yang menjadi pilar literasi tinggi dalam teks opini koran dan percakapan formal para cendekiawan Korea."
       },
       {
         "id": "q-ko-gram-41-pg-3",
@@ -19333,7 +19333,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan laporan hasil audit objektif komite pengawas, prosedur penjatuhan sanksi disiplin terhadap para penanggung jawab terkait segera dilancarkan seketika."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"새해 첫날 세웠던 금연과 운동 계획이 작심삼일로 끝나지 않도록 주변 사람들에게 널리 알리고 매일 실천 일지를 작성하자.\" berarti \"Agar resolusi berhenti merokok dan olahraga yang dibuat pada hari pertama tahun baru tidak layu berakhir dalam tiga hari (jaksimsam-il), mari umumkan ke orang sekitar dan tulis catatan disiplin harian.\"."
+        "explanation": "Kalimat \"새해 첫날 세웠던 금연과 운동 계획이 작심삼일로 끝나지 않도록 주변 사람들에게 널리 알리고 매일 실천 일지를 작성하자.\" (dibaca: Saehae cheotnal sewotdeon geum-yeon-gwa undong gyehoek-i jaksimsam-il-ro kkeutnaji antorok jubyeon saramdeul-ege neolli alligo maeil silcheon ilji-reul jakseonghaja.) berarti \"Agar resolusi berhenti merokok dan olahraga yang dibuat pada hari pertama tahun baru tidak layu berakhir dalam tiga hari (jaksimsam-il), mari umumkan ke orang sekitar dan tulis catatan disiplin harian.\". Kalimat ini menggunakan pola \"四字成語 (Saja-seong-eo Klasik) + 문맥 담화 수사학\" (Saja-seong-eo Filosofis 1 (사자성어): 고진감래, 일석이조, 작심삼일) yang berfungsi untuk menguasai peribahasa 4 karakter Hanja klasik (사자성어 - Saja-seong-eo) yang menjadi pilar literasi tinggi dalam teks opini koran dan percakapan formal para cendekiawan Korea."
       },
       {
         "id": "q-ko-gram-41-pg-4",
@@ -19640,7 +19640,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다.\" berarti \"Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).\"."
+        "explanation": "Kalimat \"수년간의 피나는 노력과 역경 끝에 세계적인 바이오 벤처기업을 일궈낸 대표의 성공 스토리는 고진감래의 진정한 표상이다.\" (dibaca: Sunyeon-gan-ui pinaneun noryeok-gwa yeokgyeong kkeut-e segyejeok-in ba-io bencheogieop-eul ilgwonaen daepyo-ui seong-gong seutori-neun gojingamrae-ui jinjeonghan pyosang-ida.) berarti \"Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis).\". Kalimat ini menggunakan pola \"四字成語 (Saja-seong-eo Klasik) + 문맥 담화 수사학\" (Saja-seong-eo Filosofis 1 (사자성어): 고진감래, 일석이조, 작심삼일) yang berfungsi untuk menguasai peribahasa 4 karakter Hanja klasik (사자성어 - Saja-seong-eo) yang menjadi pilar literasi tinggi dalam teks opini koran dan percakapan formal para cendekiawan Korea."
       },
       {
         "id": "q-ko-gram-41-bb-2",
@@ -19789,7 +19789,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tantangan etika kecerdasan buatan tidak dibatasi hanya pada bidang rekayasa teknologi semata, melainkan menuntut telaah interdisipliner terpadu yang merangkum filsafat, ilmu hukum, dan sosiologi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다.\" berarti \"Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.\"."
+        "explanation": "Kalimat \"상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다.\" (dibaca: Sangdaebang-ui cheoji-reul yeokjisaji-ui jase-ro he-ariji ankgo ilbangjeok-in jujangman-eul doepurihandamyeon daehwa-ui mulkko-reul teul su eopda.) berarti \"Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.\". Kalimat ini menggunakan pola \"四字成語 (설상가상, 역지사지, 유비무환, 전화위복) + 고차원 문맥 적용\" (Saja-seong-eo Filosofis 2 (사자성어): 설상가상, 역지사지, 유비무환) yang berfungsi untuk melanjutkan pendalaman idiom 4 karakter tingkat tertinggi yang merefleksikan empati interpersonal (역지사지), kesiapsiagaan menghadapi bencana (유비무환), dan ketangguhan membalik kemalangan (전화위복)."
       },
       {
         "id": "q-ko-gram-42-pg-2",
@@ -19805,7 +19805,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"극심한 가뭄으로 농작물이 타들어 가는 가운데 설상가상으로 대형 산불까지 겹쳐 농민들의 시름이 깊어지고 있다.\" berarti \"Di tengah tanaman pertanian mengering akibat kekeringan parah, sudah jatuh tertimpa tangga (seolsanggasang) ditambah lagi kebakaran hutan berskala besar, duka lara para petani semakin mendalam.\"."
+        "explanation": "Kalimat \"극심한 가뭄으로 농작물이 타들어 가는 가운데 설상가상으로 대형 산불까지 겹쳐 농민들의 시름이 깊어지고 있다.\" (dibaca: Geuksimhan gamum-euro nongjakmul-i tadeureo ganeun gaunde seolsanggasang-euro daehyeong sanbulkkaji gyeopchyeo nongmindeul-ui sireum-i gipeojigo itda.) berarti \"Di tengah tanaman pertanian mengering akibat kekeringan parah, sudah jatuh tertimpa tangga (seolsanggasang) ditambah lagi kebakaran hutan berskala besar, duka lara para petani semakin mendalam.\". Kalimat ini menggunakan pola \"四字成語 (설상가상, 역지사지, 유비무환, 전화위복) + 고차원 문맥 적용\" (Saja-seong-eo Filosofis 2 (사자성어): 설상가상, 역지사지, 유비무환) yang berfungsi untuk melanjutkan pendalaman idiom 4 karakter tingkat tertinggi yang merefleksikan empati interpersonal (역지사지), kesiapsiagaan menghadapi bencana (유비무환), dan ketangguhan membalik kemalangan (전화위복)."
       },
       {
         "id": "q-ko-gram-42-pg-3",
@@ -19821,7 +19821,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Karena bencana alam datang tanpa pemberitahuan, kita harus mengukuhkan kesiapsiagaan sedia payung sebelum hujan (yubimuhwan) melalui simulasi mitigasi bencana dan inspeksi fasilitas yang ketat sehari-hari."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"자연재해는 예고 없이 찾아오므로 평소 철저한 방재 훈련과 시설 점검을 통해 유비무환의 태세를 확립해야 한다.\" berarti \"Karena bencana alam datang tanpa pemberitahuan, kita harus mengukuhkan kesiapsiagaan sedia payung sebelum hujan (yubimuhwan) melalui simulasi mitigasi bencana dan inspeksi fasilitas yang ketat sehari-hari.\"."
+        "explanation": "Kalimat \"자연재해는 예고 없이 찾아오므로 평소 철저한 방재 훈련과 시설 점검을 통해 유비무환의 태세를 확립해야 한다.\" (dibaca: Jayeonjaehae-neun yego eopsi chaja-o-meuro pyeongso cheoljeohan bangjae hunryeon-gwa siseol jeomgeom-eul tonghae yubimuhwan-ui taese-reul hwakriphaeya handa.) berarti \"Karena bencana alam datang tanpa pemberitahuan, kita harus mengukuhkan kesiapsiagaan sedia payung sebelum hujan (yubimuhwan) melalui simulasi mitigasi bencana dan inspeksi fasilitas yang ketat sehari-hari.\". Kalimat ini menggunakan pola \"四字成語 (설상가상, 역지사지, 유비무환, 전화위복) + 고차원 문맥 적용\" (Saja-seong-eo Filosofis 2 (사자성어): 설상가상, 역지사지, 유비무환) yang berfungsi untuk melanjutkan pendalaman idiom 4 karakter tingkat tertinggi yang merefleksikan empati interpersonal (역지사지), kesiapsiagaan menghadapi bencana (유비무환), dan ketangguhan membalik kemalangan (전화위복)."
       },
       {
         "id": "q-ko-gram-42-pg-4",
@@ -20128,7 +20128,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다.\" berarti \"Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.\"."
+        "explanation": "Kalimat \"상대방의 처지를 역지사지의 자세로 헤아리지 않고 일방적인 주장만을 되풀이한다면 대화의 물꼬를 틀 수 없다.\" (dibaca: Sangdaebang-ui cheoji-reul yeokjisaji-ui jase-ro he-ariji ankgo ilbangjeok-in jujangman-eul doepurihandamyeon daehwa-ui mulkko-reul teul su eopda.) berarti \"Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka.\". Kalimat ini menggunakan pola \"四字成語 (설상가상, 역지사지, 유비무환, 전화위복) + 고차원 문맥 적용\" (Saja-seong-eo Filosofis 2 (사자성어): 설상가상, 역지사지, 유비무환) yang berfungsi untuk melanjutkan pendalaman idiom 4 karakter tingkat tertinggi yang merefleksikan empati interpersonal (역지사지), kesiapsiagaan menghadapi bencana (유비무환), dan ketangguhan membalik kemalangan (전화위복)."
       },
       {
         "id": "q-ko-gram-42-bb-2",
@@ -20275,7 +20275,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Sebagai penyebab utama dari lonjakan rumah tangga 1 orang ini, dapat dikemukakan antara lain meluasnya tren penundaan pernikahan dan lajang di kalangan pemuda, serta pertambahan rumah tangga lansia yang tinggal sendiri akibat penuaan populasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다.\" berarti \"Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.\"."
+        "explanation": "Kalimat \"그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다.\" (dibaca: Geu yeon-guso-neun choecheomdan yeon-gu jangbi-reul wanbihago itgeoniwa segye jeongsanggeup seokhaktdeul-i daegeo pojinhae isseo hakgye-ui gidae-reul han mom-e batgo itda.) berarti \"Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.\". Kalimat ini menggunakan pola \"V/A + -거니와 (di samping kenyataan bahwa A tentu saja demikian, B pun demikian) / N + -(이)라손 치더라도 (bahkan andaikata benar demikian statusnya)\" (Penambahan Bertingkat & Pengandaian Ekstrem: -거니와 & -라손 치더라도) yang berfungsi untuk formula sintaksis wacana tingkat tinggi: -거니와 menegaskan fakta pertama yang sudah jelas tak terbantahkan lalu menambahkan fakta kedua yang lebih berbobot di atasnya. -(이)라손 치더라도 adalah bentuk konsesi ekstrem klasik ('kendatipun demikian halnya')."
       },
       {
         "id": "q-ko-gram-43-pg-2",
@@ -20291,7 +20291,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kendatipun dianggap sebagai keputusan yang tak terhindarkan demi kepentingan nasional sekali pun, eksekusi sepihak yang mengabaikan persetujuan rakyat dan prosedur hukum sulit diakui keabsahannya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"아무리 국익을 위한 불가피한 결정이라손 치더라도 국민적 동의와 법적 절차를 무시한 독단적 집행은 정당성을 인정받기 어렵다.\" berarti \"Kendatipun dianggap sebagai keputusan yang tak terhindarkan demi kepentingan nasional sekali pun, eksekusi sepihak yang mengabaikan persetujuan rakyat dan prosedur hukum sulit diakui keabsahannya.\"."
+        "explanation": "Kalimat \"아무리 국익을 위한 불가피한 결정이라손 치더라도 국민적 동의와 법적 절차를 무시한 독단적 집행은 정당성을 인정받기 어렵다.\" (dibaca: Amuri gugik-eul wihan bulgapihan gyeoljeong-irason chideorado gungminjeok dong-ui-wa beopjeok jeolcha-reul musihan dokdanjeok jiphaeng-eun jeongdangseong-eul injeongbatgi eoryeopda.) berarti \"Kendatipun dianggap sebagai keputusan yang tak terhindarkan demi kepentingan nasional sekali pun, eksekusi sepihak yang mengabaikan persetujuan rakyat dan prosedur hukum sulit diakui keabsahannya.\". Kalimat ini menggunakan pola \"V/A + -거니와 (di samping kenyataan bahwa A tentu saja demikian, B pun demikian) / N + -(이)라손 치더라도 (bahkan andaikata benar demikian statusnya)\" (Penambahan Bertingkat & Pengandaian Ekstrem: -거니와 & -라손 치더라도) yang berfungsi untuk formula sintaksis wacana tingkat tinggi: -거니와 menegaskan fakta pertama yang sudah jelas tak terbantahkan lalu menambahkan fakta kedua yang lebih berbobot di atasnya. -(이)라손 치더라도 adalah bentuk konsesi ekstrem klasik ('kendatipun demikian halnya')."
       },
       {
         "id": "q-ko-gram-43-pg-3",
@@ -20307,7 +20307,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Atlet tersebut alih-alih pulih dari cedera, akibat memaksakan diri turun bertanding kondisinya justru semakin memburuk hingga menghadapi krisis kelangsungan kariernya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"이번 신제품은 디자인이 세련되었거니와 내구성과 배터리 수명 측면에서도 전작을 압도하는 성능을 보여준다.\" berarti \"Produk baru kali ini di samping desainnya yang modis tentu saja demikian, dari aspek daya tahan dan usia baterai pun memperlihatkan performa yang melibas karya pendahulunya.\"."
+        "explanation": "Kalimat \"이번 신제품은 디자인이 세련되었거니와 내구성과 배터리 수명 측면에서도 전작을 압도하는 성능을 보여준다.\" (dibaca: Ibeon sinjepum-eun dezain-i seryeondoeeotgeoniwa naeguseong-gwa baeteori sumyeong cheukmyeon-eseodo jeonjak-eul apdohaneun seongneung-eul boyeojunda.) berarti \"Produk baru kali ini di samping desainnya yang modis tentu saja demikian, dari aspek daya tahan dan usia baterai pun memperlihatkan performa yang melibas karya pendahulunya.\". Kalimat ini menggunakan pola \"V/A + -거니와 (di samping kenyataan bahwa A tentu saja demikian, B pun demikian) / N + -(이)라손 치더라도 (bahkan andaikata benar demikian statusnya)\" (Penambahan Bertingkat & Pengandaian Ekstrem: -거니와 & -라손 치더라도) yang berfungsi untuk formula sintaksis wacana tingkat tinggi: -거니와 menegaskan fakta pertama yang sudah jelas tak terbantahkan lalu menambahkan fakta kedua yang lebih berbobot di atasnya. -(이)라손 치더라도 adalah bentuk konsesi ekstrem klasik ('kendatipun demikian halnya')."
       },
       {
         "id": "q-ko-gram-43-pg-4",
@@ -20614,7 +20614,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다.\" berarti \"Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.\"."
+        "explanation": "Kalimat \"그 연구소는 최첨단 연구 장비를 완비하고 있거니와 세계 정상급 석학들이 대거 포진해 있어 학계의 기대를 한 몸에 받고 있다.\" (dibaca: Geu yeon-guso-neun choecheomdan yeon-gu jangbi-reul wanbihago itgeoniwa segye jeongsanggeup seokhaktdeul-i daegeo pojinhae isseo hakgye-ui gidae-reul han mom-e batgo itda.) berarti \"Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik.\". Kalimat ini menggunakan pola \"V/A + -거니와 (di samping kenyataan bahwa A tentu saja demikian, B pun demikian) / N + -(이)라손 치더라도 (bahkan andaikata benar demikian statusnya)\" (Penambahan Bertingkat & Pengandaian Ekstrem: -거니와 & -라손 치더라도) yang berfungsi untuk formula sintaksis wacana tingkat tinggi: -거니와 menegaskan fakta pertama yang sudah jelas tak terbantahkan lalu menambahkan fakta kedua yang lebih berbobot di atasnya. -(이)라손 치더라도 adalah bentuk konsesi ekstrem klasik ('kendatipun demikian halnya')."
       },
       {
         "id": "q-ko-gram-43-bb-2",
@@ -20760,7 +20760,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다.\" berarti \"Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.\"."
+        "explanation": "Kalimat \"평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다.\" (dibaca: Pyeongso pinaneun yeonseup-gwa cheoljeohan jagigwanri-reul geochiji ankoseoya jeotorok wanbyeokhago gyeong-iroun mudae-reul seonbo-il su-neun eopda.) berarti \"Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.\". Kalimat ini menggunakan pola \"V + -지 않고서야 (tanpa melakukan X, mustahil Y bisa terjadi) / V/A + -(으)ㄹ 턱이 없다 (tiada alasan masuk akal sama sekali)\" (Prasyarat Kritis & Kemustahilan Absolut: -지 않고서야 & -(으)ㄹ 턱이 없다) yang berfungsi untuk formula retorika bantahan tajam: -지 않고서야 menegaskan bahwa mustahil seseorang bertindak demikian kecuali berada dalam kondisi abnormal. -(으)ㄹ 턱이 없다 menolak mentah-mentah suatu kemungkinan berdasarkan nalar akal sehat ('mana mungkin ada alasan begini!')."
       },
       {
         "id": "q-ko-gram-44-pg-2",
@@ -20776,7 +20776,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"비밀번호를 본인 외에는 아무에게도 알려주지 않았는데 제3자가 계좌에서 무단으로 돈을 인출해 갔을 턱이 없다.\" berarti \"Kata sandi tidak pernah saya beritahukan kepada siapapun selain diri saya sendiri, mana mungkin ada alasan orang ketiga bisa menarik uang tanpa izin dari rekening!\"."
+        "explanation": "Kalimat \"비밀번호를 본인 외에는 아무에게도 알려주지 않았는데 제3자가 계좌에서 무단으로 돈을 인출해 갔을 턱이 없다.\" (dibaca: Bimilbeonho-reul bon-in oe-eneun amuegedo allyeojuji anatneunde jesamja-ga gyejwa-eseo mudan-euro don-eul inchulhae gasseul teok-i eopda.) berarti \"Kata sandi tidak pernah saya beritahukan kepada siapapun selain diri saya sendiri, mana mungkin ada alasan orang ketiga bisa menarik uang tanpa izin dari rekening!\". Kalimat ini menggunakan pola \"V + -지 않고서야 (tanpa melakukan X, mustahil Y bisa terjadi) / V/A + -(으)ㄹ 턱이 없다 (tiada alasan masuk akal sama sekali)\" (Prasyarat Kritis & Kemustahilan Absolut: -지 않고서야 & -(으)ㄹ 턱이 없다) yang berfungsi untuk formula retorika bantahan tajam: -지 않고서야 menegaskan bahwa mustahil seseorang bertindak demikian kecuali berada dalam kondisi abnormal. -(으)ㄹ 턱이 없다 menolak mentah-mentah suatu kemungkinan berdasarkan nalar akal sehat ('mana mungkin ada alasan begini!')."
       },
       {
         "id": "q-ko-gram-44-pg-3",
@@ -20792,7 +20792,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah melalui masa tempaan kesabaran yang panjang dan akhirnya merengkuh kehormatan puncak tertinggi bahasa Korea TOPIK Level 6, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga kejayaan dan keberkahan abadi senantiasa menyertai masa depan para pembelajar sekalian."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"두 눈으로 현장의 비극적인 참상을 직접 목격하지 않고서야 그 슬픔의 깊이를 어찌 헤아릴 수 있겠는가.\" berarti \"Tanpa menyaksikan langsung tragedi memilukan di tempat kejadian dengan kedua mata kepala sendiri, bagaimana mungkin seseorang dapat menduga dalamnya kepedihan duka tersebut?\"."
+        "explanation": "Kalimat \"두 눈으로 현장의 비극적인 참상을 직접 목격하지 않고서야 그 슬픔의 깊이를 어찌 헤아릴 수 있겠는가.\" (dibaca: Du nun-euro hyeonjang-ui bigeukjeok-in chamsang-eul jikjeop mokgyeokhaji ankoseoya geu seulpeum-ui gipi-reul eojji he-aril su itgenneun-ga.) berarti \"Tanpa menyaksikan langsung tragedi memilukan di tempat kejadian dengan kedua mata kepala sendiri, bagaimana mungkin seseorang dapat menduga dalamnya kepedihan duka tersebut?\". Kalimat ini menggunakan pola \"V + -지 않고서야 (tanpa melakukan X, mustahil Y bisa terjadi) / V/A + -(으)ㄹ 턱이 없다 (tiada alasan masuk akal sama sekali)\" (Prasyarat Kritis & Kemustahilan Absolut: -지 않고서야 & -(으)ㄹ 턱이 없다) yang berfungsi untuk formula retorika bantahan tajam: -지 않고서야 menegaskan bahwa mustahil seseorang bertindak demikian kecuali berada dalam kondisi abnormal. -(으)ㄹ 턱이 없다 menolak mentah-mentah suatu kemungkinan berdasarkan nalar akal sehat ('mana mungkin ada alasan begini!')."
       },
       {
         "id": "q-ko-gram-44-pg-4",
@@ -21099,7 +21099,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다.\" berarti \"Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.\"."
+        "explanation": "Kalimat \"평소 피나는 연습과 철저한 자기관리를 거치지 않고서야 저토록 완벽하고 경이로운 무대를 선보일 수는 없다.\" (dibaca: Pyeongso pinaneun yeonseup-gwa cheoljeohan jagigwanri-reul geochiji ankoseoya jeotorok wanbyeokhago gyeong-iroun mudae-reul seonbo-il su-neun eopda.) berarti \"Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan.\". Kalimat ini menggunakan pola \"V + -지 않고서야 (tanpa melakukan X, mustahil Y bisa terjadi) / V/A + -(으)ㄹ 턱이 없다 (tiada alasan masuk akal sama sekali)\" (Prasyarat Kritis & Kemustahilan Absolut: -지 않고서야 & -(으)ㄹ 턱이 없다) yang berfungsi untuk formula retorika bantahan tajam: -지 않고서야 menegaskan bahwa mustahil seseorang bertindak demikian kecuali berada dalam kondisi abnormal. -(으)ㄹ 턱이 없다 menolak mentah-mentah suatu kemungkinan berdasarkan nalar akal sehat ('mana mungkin ada alasan begini!')."
       },
       {
         "id": "q-ko-gram-44-bb-2",
@@ -21246,7 +21246,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tanpa mengerahkan ikhtiar berdarah-darah dengan menjadikan kegagalan masa lalu sebagai momentum titik balik pemetik pelajaran berharga, mustahil sekali seseorang dapat mencapai puncak gunung ilmu yang menjulang tinggi, dan buah hasil yang tegak melampaui rintangan nestapa tiada lain dan tak bukan adalah kemenangan gilang-gemilang dari habis pahit terbitlah manis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다.\" berarti \"Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.\"."
+        "explanation": "Kalimat \"두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다.\" (dibaca: Du gieop-eun sangho woncheon gisul-eul dongdeunghage gong-yuhandaneun jeonjeha-e chasedae chinhwan-gyeong jeon-gicha gongdong gaebal hyeobyak-eul chegyeolhaesseumnida.) berarti \"Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.\". Kalimat ini menggunakan pola \"V + -ㄴ/는다는 전제하에 (dengan premis asumsi bahwa...) / N + -을/를 계기로 (삼아) (menjadikan momentum peristiwa X sebagai titik balik)\" (Premis Prasyarat & Momen Titik Balik: -ㄴ/는다는 전제하에 & -를 계기로) yang berfungsi untuk pola pembuatan kebijakan formal: -ㄴ/는다는 전제하에 menetapkan premis atau kesepakatan dasar yang mendasari suatu perundingan. Pola -을/를 계기로 menandai momentum bersejarah atau peristiwa pemicu yang mengubah arah haluan hidup atau sejarah."
       },
       {
         "id": "q-ko-gram-45-pg-2",
@@ -21262,7 +21262,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kisah sukses sang CEO yang membangun perusahaan rintisan bioteknologi kelas dunia setelah melewati perjuangan berdarah-darah dan rintangan nestapa bertahun-tahun adalah lambang sejati dari pepatah gojingamrae (habis pahit terbitlah manis)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"학창 시절 우연히 읽었던 한 권의 과학 서적을 계기로 삼아 평생을 우주 탐사 연구에 바치는 천문학자가 되었습니다.\" berarti \"Menjadikan sebuah buku sains yang tak sengaja saya baca semasa sekolah dulu sebagai momentum titik balik, saya menjadi seorang astronom yang membaktikan seumur hidup demi riset penjelajahan antariksa.\"."
+        "explanation": "Kalimat \"학창 시절 우연히 읽었던 한 권의 과학 서적을 계기로 삼아 평생을 우주 탐사 연구에 바치는 천문학자가 되었습니다.\" (dibaca: Hakchang sijeol uyeonhi ilgeotdeon han gwon-ui gwahak seojeok-eul gyegi-ro sama pyeongsaeng-eul uju tamsa yeon-gu-e bachineun cheonmunhakja-ga doe-eosseumnida.) berarti \"Menjadikan sebuah buku sains yang tak sengaja saya baca semasa sekolah dulu sebagai momentum titik balik, saya menjadi seorang astronom yang membaktikan seumur hidup demi riset penjelajahan antariksa.\". Kalimat ini menggunakan pola \"V + -ㄴ/는다는 전제하에 (dengan premis asumsi bahwa...) / N + -을/를 계기로 (삼아) (menjadikan momentum peristiwa X sebagai titik balik)\" (Premis Prasyarat & Momen Titik Balik: -ㄴ/는다는 전제하에 & -를 계기로) yang berfungsi untuk pola pembuatan kebijakan formal: -ㄴ/는다는 전제하에 menetapkan premis atau kesepakatan dasar yang mendasari suatu perundingan. Pola -을/를 계기로 menandai momentum bersejarah atau peristiwa pemicu yang mengubah arah haluan hidup atau sejarah."
       },
       {
         "id": "q-ko-gram-45-pg-3",
@@ -21278,7 +21278,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Agar resolusi berhenti merokok dan olahraga yang dibuat pada hari pertama tahun baru tidak layu berakhir dalam tiga hari (jaksimsam-il), mari umumkan ke orang sekitar dan tulis catatan disiplin harian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"이번 참사를 뼈아픈 교훈으로 삼는 계기로 삼아 국가 재난 안전 관리 시스템을 전면적으로 뜯어고쳐야 한다.\" berarti \"Menjadikan musibah kali ini sebagai momentum titik balik untuk memetik pelajaran pahit, kita harus merombak total sistem tata kelola keselamatan bencana nasional.\"."
+        "explanation": "Kalimat \"이번 참사를 뼈아픈 교훈으로 삼는 계기로 삼아 국가 재난 안전 관리 시스템을 전면적으로 뜯어고쳐야 한다.\" (dibaca: Ibeon chamsa-reul ppyeo-apeun gyohun-euro samneun gyegi-ro sama gukka jaenan anjeon gwanri siseutem-eul jeonmyeonjeok-euro tteudeogocheoya handa.) berarti \"Menjadikan musibah kali ini sebagai momentum titik balik untuk memetik pelajaran pahit, kita harus merombak total sistem tata kelola keselamatan bencana nasional.\". Kalimat ini menggunakan pola \"V + -ㄴ/는다는 전제하에 (dengan premis asumsi bahwa...) / N + -을/를 계기로 (삼아) (menjadikan momentum peristiwa X sebagai titik balik)\" (Premis Prasyarat & Momen Titik Balik: -ㄴ/는다는 전제하에 & -를 계기로) yang berfungsi untuk pola pembuatan kebijakan formal: -ㄴ/는다는 전제하에 menetapkan premis atau kesepakatan dasar yang mendasari suatu perundingan. Pola -을/를 계기로 menandai momentum bersejarah atau peristiwa pemicu yang mengubah arah haluan hidup atau sejarah."
       },
       {
         "id": "q-ko-gram-45-pg-4",
@@ -21585,7 +21585,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다.\" berarti \"Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.\"."
+        "explanation": "Kalimat \"두 기업은 상호 원천 기술을 동등하게 공유한다는 전제하에 차세대 친환경 전기차 공동 개발 협약을 체결했습니다.\" (dibaca: Du gieop-eun sangho woncheon gisul-eul dongdeunghage gong-yuhandaneun jeonjeha-e chasedae chinhwan-gyeong jeon-gicha gongdong gaebal hyeobyak-eul chegyeolhaesseumnida.) berarti \"Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara.\". Kalimat ini menggunakan pola \"V + -ㄴ/는다는 전제하에 (dengan premis asumsi bahwa...) / N + -을/를 계기로 (삼아) (menjadikan momentum peristiwa X sebagai titik balik)\" (Premis Prasyarat & Momen Titik Balik: -ㄴ/는다는 전제하에 & -를 계기로) yang berfungsi untuk pola pembuatan kebijakan formal: -ㄴ/는다는 전제하에 menetapkan premis atau kesepakatan dasar yang mendasari suatu perundingan. Pola -을/를 계기로 menandai momentum bersejarah atau peristiwa pemicu yang mengubah arah haluan hidup atau sejarah."
       },
       {
         "id": "q-ko-gram-45-bb-2",
@@ -21732,7 +21732,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Memanfaatkan transportasi umum ramah lingkungan dapat menghemat ongkos bepergian sekaligus memangkas emisi karbon perkotaan, sungguh merupakan hasil nyata yang memetik dua burung dengan sebutir batu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다.\" berarti \"Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.\"."
+        "explanation": "Kalimat \"어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다.\" (dibaca: Eotteohan oe-ap-ina budanghan hoeyu-ga itdeorado sabeopbu-ui dongnipseong-gwa beopchijuui-ui wonchik-eun gyeolko heundeullyeoseoneun an doemnida.) berarti \"Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.\". Kalimat ini menggunakan pola \"결코 + V/A + -지 않다 (sama sekali tak akan pernah / mustahil mutlak) / N + -(이/가) 전무하다 (sama sekali nihil tiada)\" (Penyangkalan Paling Mutlak: 결코 -지 않다 & 전무하다) yang berfungsi untuk pola penyangkalan paling tegas dan mutlak dalam khazanah bahasa Korea resmi. Digunakan dalam pernyataan pers kenegaraan, dokumen sumpah hukum, dan bantahan tanpa kompromi ('sama sekali tidak akan pernah / sama sekali nihil tiada')."
       },
       {
         "id": "q-ko-gram-46-pg-2",
@@ -21748,7 +21748,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"사고 원인을 규명하기 위한 정밀 조사 결과, 기체 결함이나 정비 불량의 징후는 전무한 것으로 최종 확인되었습니다.\" berarti \"Hasil penyelidikan seksama untuk mengungkap penyebab kecelakaan mengonfirmasi secara final bahwa indikasi cacat badan pesawat maupun buruknya pemeliharaan sama sekali nihil.\"."
+        "explanation": "Kalimat \"사고 원인을 규명하기 위한 정밀 조사 결과, 기체 결함이나 정비 불량의 징후는 전무한 것으로 최종 확인되었습니다.\" (dibaca: Sago wonin-eul gyumyeonghagi wihan jeongmil josa gyeolgwa, giche gyeolham-ina jeongbi bulryang-ui jinghu-neun jeonmuhan geos-euro choejong hwag-indoeeosseumnida.) berarti \"Hasil penyelidikan seksama untuk mengungkap penyebab kecelakaan mengonfirmasi secara final bahwa indikasi cacat badan pesawat maupun buruknya pemeliharaan sama sekali nihil.\". Kalimat ini menggunakan pola \"결코 + V/A + -지 않다 (sama sekali tak akan pernah / mustahil mutlak) / N + -(이/가) 전무하다 (sama sekali nihil tiada)\" (Penyangkalan Paling Mutlak: 결코 -지 않다 & 전무하다) yang berfungsi untuk pola penyangkalan paling tegas dan mutlak dalam khazanah bahasa Korea resmi. Digunakan dalam pernyataan pers kenegaraan, dokumen sumpah hukum, dan bantahan tanpa kompromi ('sama sekali tidak akan pernah / sama sekali nihil tiada')."
       },
       {
         "id": "q-ko-gram-46-pg-3",
@@ -21764,7 +21764,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kemerdekaan dan perdamaian bukanlah hal yang diberikan cuma-cuma, dan kehendak perlawanan rakyat demi mencegah kemunduran sejarah sama sekali tak akan pernah terpatahkan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"자유와 평화는 거저 주어지는 것이 아니며, 역사의 후퇴를 막기 위한 시민들의 저항 의지는 결코 꺾이지 않을 것이다.\" berarti \"Kemerdekaan dan perdamaian bukanlah hal yang diberikan cuma-cuma, dan kehendak perlawanan rakyat demi mencegah kemunduran sejarah sama sekali tak akan pernah terpatahkan.\"."
+        "explanation": "Kalimat \"자유와 평화는 거저 주어지는 것이 아니며, 역사의 후퇴를 막기 위한 시민들의 저항 의지는 결코 꺾이지 않을 것이다.\" (dibaca: Jayu-wa pyeonghwa-neun geojeo jueojineun geos-i animyeo, yeoksa-ui hutoe-reul makgi wihan simindeul-ui jeohang uiji-neun gyeolko kkeokk-iji aneul geos-ida.) berarti \"Kemerdekaan dan perdamaian bukanlah hal yang diberikan cuma-cuma, dan kehendak perlawanan rakyat demi mencegah kemunduran sejarah sama sekali tak akan pernah terpatahkan.\". Kalimat ini menggunakan pola \"결코 + V/A + -지 않다 (sama sekali tak akan pernah / mustahil mutlak) / N + -(이/가) 전무하다 (sama sekali nihil tiada)\" (Penyangkalan Paling Mutlak: 결코 -지 않다 & 전무하다) yang berfungsi untuk pola penyangkalan paling tegas dan mutlak dalam khazanah bahasa Korea resmi. Digunakan dalam pernyataan pers kenegaraan, dokumen sumpah hukum, dan bantahan tanpa kompromi ('sama sekali tidak akan pernah / sama sekali nihil tiada')."
       },
       {
         "id": "q-ko-gram-46-pg-4",
@@ -22071,7 +22071,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다.\" berarti \"Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.\"."
+        "explanation": "Kalimat \"어떠한 외압이나 부당한 회유가 있더라도 사법부의 독립성과 법치주의의 원칙은 결코 흔들려서는 안 됩니다.\" (dibaca: Eotteohan oe-ap-ina budanghan hoeyu-ga itdeorado sabeopbu-ui dongnipseong-gwa beopchijuui-ui wonchik-eun gyeolko heundeullyeoseoneun an doemnida.) berarti \"Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah.\". Kalimat ini menggunakan pola \"결코 + V/A + -지 않다 (sama sekali tak akan pernah / mustahil mutlak) / N + -(이/가) 전무하다 (sama sekali nihil tiada)\" (Penyangkalan Paling Mutlak: 결코 -지 않다 & 전무하다) yang berfungsi untuk pola penyangkalan paling tegas dan mutlak dalam khazanah bahasa Korea resmi. Digunakan dalam pernyataan pers kenegaraan, dokumen sumpah hukum, dan bantahan tanpa kompromi ('sama sekali tidak akan pernah / sama sekali nihil tiada')."
       },
       {
         "id": "q-ko-gram-46-bb-2",
@@ -22218,7 +22218,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di tengah tanaman pertanian mengering akibat kekeringan parah, sudah jatuh tertimpa tangga (seolsanggasang) ditambah lagi kebakaran hutan berskala besar, duka lara para petani semakin mendalam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다.\" berarti \"Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.\"."
+        "explanation": "Kalimat \"헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다.\" (dibaca: Heonbeop-gwa hyeongsasosongbeop-i gyujeonghan jeokbeop jeolcha-ui wonchik-e uigeohayeo susa-reul jinhaenghago jeung-geo-reul eomgyeokhi chaetaekhaeya handa.) berarti \"Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.\". Kalimat ini menggunakan pola \"Kata Benda + -에 의거하여 (berdasarkan landasan kaidah hukum) / -에 국한되지 않다 (tidak dibatasi hanya pada...)\" (Berdasarkan Kaidah Hukum & Tanpa Dibatasi: -에 의거하여 & -에 국한되지 않다) yang berfungsi untuk pola register yudisial dan wacana makro: -에 의거하여 menyatakan tindakan yang berpedoman ketat pada pasal perundang-undangan formal. Pola -에 국한되지 않다 memperluas cakupan wacana agar tidak terkurung pada satu sektor sempit ('tidak terbatas hanya pada X, melainkan meluas ke Y')."
       },
       {
         "id": "q-ko-gram-47-pg-2",
@@ -22234,7 +22234,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tantangan etika kecerdasan buatan tidak dibatasi hanya pada bidang rekayasa teknologi semata, melainkan menuntut telaah interdisipliner terpadu yang merangkum filsafat, ilmu hukum, dan sosiologi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"인공지능의 윤리적 문제는 단순히 기술 공학 분야에 국한되지 않고 철학, 법학, 사회학을 아우르는 융합적 고찰을 요한다.\" berarti \"Tantangan etika kecerdasan buatan tidak dibatasi hanya pada bidang rekayasa teknologi semata, melainkan menuntut telaah interdisipliner terpadu yang merangkum filsafat, ilmu hukum, dan sosiologi.\"."
+        "explanation": "Kalimat \"인공지능의 윤리적 문제는 단순히 기술 공학 분야에 국한되지 않고 철학, 법학, 사회학을 아우르는 융합적 고찰을 요한다.\" (dibaca: In-gongjinheung-ui yunrijeok munje-neun dansunhi gisul gonghak bunya-e guk-handoeji ankgo cheolhak, beobhak, sahoehab-eul a-ureuneun yunghapjeok gochal-eul yohanda.) berarti \"Tantangan etika kecerdasan buatan tidak dibatasi hanya pada bidang rekayasa teknologi semata, melainkan menuntut telaah interdisipliner terpadu yang merangkum filsafat, ilmu hukum, dan sosiologi.\". Kalimat ini menggunakan pola \"Kata Benda + -에 의거하여 (berdasarkan landasan kaidah hukum) / -에 국한되지 않다 (tidak dibatasi hanya pada...)\" (Berdasarkan Kaidah Hukum & Tanpa Dibatasi: -에 의거하여 & -에 국한되지 않다) yang berfungsi untuk pola register yudisial dan wacana makro: -에 의거하여 menyatakan tindakan yang berpedoman ketat pada pasal perundang-undangan formal. Pola -에 국한되지 않다 memperluas cakupan wacana agar tidak terkurung pada satu sektor sempit ('tidak terbatas hanya pada X, melainkan meluas ke Y')."
       },
       {
         "id": "q-ko-gram-47-pg-3",
@@ -22250,7 +22250,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Produk baru kali ini di samping desainnya yang modis tentu saja demikian, dari aspek daya tahan dan usia baterai pun memperlihatkan performa yang melibas karya pendahulunya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"감사위원회의 객관적인 감사 결과 보고서에 의거하여 관련 책임자들에 대한 징계 절차가 즉각 착수되었다.\" berarti \"Berdasarkan laporan hasil audit objektif komite pengawas, prosedur penjatuhan sanksi disiplin terhadap para penanggung jawab terkait segera dilancarkan seketika.\"."
+        "explanation": "Kalimat \"감사위원회의 객관적인 감사 결과 보고서에 의거하여 관련 책임자들에 대한 징계 절차가 즉각 착수되었다.\" (dibaca: Gamsawiweonhoe-ui gakkwanjeok-in gamsa gyeolgwa bogoseo-e uigeohayeo gwanryeon chaegimjadeul-e daehan jinggye jeolcha-ga jeukgak chaksuboe-eotda.) berarti \"Berdasarkan laporan hasil audit objektif komite pengawas, prosedur penjatuhan sanksi disiplin terhadap para penanggung jawab terkait segera dilancarkan seketika.\". Kalimat ini menggunakan pola \"Kata Benda + -에 의거하여 (berdasarkan landasan kaidah hukum) / -에 국한되지 않다 (tidak dibatasi hanya pada...)\" (Berdasarkan Kaidah Hukum & Tanpa Dibatasi: -에 의거하여 & -에 국한되지 않다) yang berfungsi untuk pola register yudisial dan wacana makro: -에 의거하여 menyatakan tindakan yang berpedoman ketat pada pasal perundang-undangan formal. Pola -에 국한되지 않다 memperluas cakupan wacana agar tidak terkurung pada satu sektor sempit ('tidak terbatas hanya pada X, melainkan meluas ke Y')."
       },
       {
         "id": "q-ko-gram-47-pg-4",
@@ -22557,7 +22557,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Jika kita tidak menimbang kondisi mitra bicara dengan sikap empati menempatkan diri pada posisinya (yeokjisaji) dan hanya mengulang-ulang klaim sepihak, keran dialog mustahil dapat dibuka."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다.\" berarti \"Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.\"."
+        "explanation": "Kalimat \"헌법과 형사소송법이 규정한 적법 절차의 원칙에 의거하여 수사를 진행하고 증거를 엄격히 채택해야 한다.\" (dibaca: Heonbeop-gwa hyeongsasosongbeop-i gyujeonghan jeokbeop jeolcha-ui wonchik-e uigeohayeo susa-reul jinhaenghago jeung-geo-reul eomgyeokhi chaetaekhaeya handa.) berarti \"Penyelidikan harus dilangsungkan dan barang bukti harus diadopsi secara ketat berdasarkan landasan prinsip proses hukum yang adil yang diatur oleh konstitusi dan hukum acara pidana.\". Kalimat ini menggunakan pola \"Kata Benda + -에 의거하여 (berdasarkan landasan kaidah hukum) / -에 국한되지 않다 (tidak dibatasi hanya pada...)\" (Berdasarkan Kaidah Hukum & Tanpa Dibatasi: -에 의거하여 & -에 국한되지 않다) yang berfungsi untuk pola register yudisial dan wacana makro: -에 의거하여 menyatakan tindakan yang berpedoman ketat pada pasal perundang-undangan formal. Pola -에 국한되지 않다 memperluas cakupan wacana agar tidak terkurung pada satu sektor sempit ('tidak terbatas hanya pada X, melainkan meluas ke Y')."
       },
       {
         "id": "q-ko-gram-47-bb-2",
@@ -22708,7 +22708,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다.\" berarti \"Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.\"."
+        "explanation": "Kalimat \"통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다.\" (dibaca: Tonggyecheong-i balpyohan jaryo-e ttareumyeon gungnae il-in gagu su-neun icheonsimnyeon sabaeksipsaman gagu-eseo icheoni-simnyeon-eneun yukbaekyuksipsaman gagu-ro simnyeon sa-i-e muryeo yuksip peosenteu geupjeonghan geos-euro natanatda.) berarti \"Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.\". Kalimat ini menggunakan pola \"도표 서술 공식 (-에 달하다, 급증세를 보이다, -에 그치다, -을 원인으로 꼽다)\" (Retorika Analisis Grafik & Statistik Penulisan Soal No. 53) yang berfungsi untuk menguasai seluruh formula retorika analisis grafik (200~300자) pada soal Menulis No. 53 TOPIK II. Menjelaskan subjek survei, perubahan angka persentase naik-turun, perbandingan data, analisis penyebab, dan proyeksi tren masa depan secara presisi."
       },
       {
         "id": "q-ko-gram-48-pg-2",
@@ -22724,7 +22724,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"이러한 1인 가구 급증의 주요 원인으로는 청년층의 만혼 및 비혼 풍조의 확산과 고령화에 따른 노인 독거 가구의 증가 등을 꼽을 수 있다.\" berarti \"Sebagai penyebab utama dari lonjakan rumah tangga 1 orang ini, dapat dikemukakan antara lain meluasnya tren penundaan pernikahan dan lajang di kalangan pemuda, serta pertambahan rumah tangga lansia yang tinggal sendiri akibat penuaan populasi.\"."
+        "explanation": "Kalimat \"이러한 1인 가구 급증의 주요 원인으로는 청년층의 만혼 및 비혼 풍조의 확산과 고령화에 따른 노인 독거 가구의 증가 등을 꼽을 수 있다.\" (dibaca: Ireohan il-in gagu geupjeung-ui juyo wonin-euro-neun cheongnyeoncheung-ui manhon mit bihon pungjo-ui hwaksan-gwa goryeonghwa-e ttareun no-in dokgeo gagu-ui jeung-ga deung-eul kkobeul su itda.) berarti \"Sebagai penyebab utama dari lonjakan rumah tangga 1 orang ini, dapat dikemukakan antara lain meluasnya tren penundaan pernikahan dan lajang di kalangan pemuda, serta pertambahan rumah tangga lansia yang tinggal sendiri akibat penuaan populasi.\". Kalimat ini menggunakan pola \"도표 서술 공식 (-에 달하다, 급증세를 보이다, -에 그치다, -을 원인으로 꼽다)\" (Retorika Analisis Grafik & Statistik Penulisan Soal No. 53) yang berfungsi untuk menguasai seluruh formula retorika analisis grafik (200~300자) pada soal Menulis No. 53 TOPIK II. Menjelaskan subjek survei, perubahan angka persentase naik-turun, perbandingan data, analisis penyebab, dan proyeksi tren masa depan secara presisi."
       },
       {
         "id": "q-ko-gram-48-pg-3",
@@ -22740,7 +22740,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tanpa menyaksikan langsung tragedi memilukan di tempat kejadian dengan kedua mata kepala sendiri, bagaimana mungkin seseorang dapat menduga dalamnya kepedihan duka tersebut?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"전문가들은 이와 같은 인구 구조의 다변화 추세가 향후 소형 주택 및 1인 맞춤형 소비 시장의 폭발적 성장을 견인할 것으로 전망하고 있다.\" berarti \"Para pakar memproyeksikan bahwa tren diversifikasi struktur kependudukan seperti ini di masa depan akan menarik pertumbuhan meledak pada pasar konsumsi terarah untuk 1 orang dan hunian tipe kompak.\"."
+        "explanation": "Kalimat \"전문가들은 이와 같은 인구 구조의 다변화 추세가 향후 소형 주택 및 1인 맞춤형 소비 시장의 폭발적 성장을 견인할 것으로 전망하고 있다.\" (dibaca: Jeonmun-gadeul-eun i-wa gateun in-gu gujo-ui dabyeonhwa chuse-ga hyanghu sohyeong jutaek mit il-in matchumhyeong sobi sijang-ui pokbaljeok seongjang-eul gyeon-inhal geos-euro jeonmanghago itda.) berarti \"Para pakar memproyeksikan bahwa tren diversifikasi struktur kependudukan seperti ini di masa depan akan menarik pertumbuhan meledak pada pasar konsumsi terarah untuk 1 orang dan hunian tipe kompak.\". Kalimat ini menggunakan pola \"도표 서술 공식 (-에 달하다, 급증세를 보이다, -에 그치다, -을 원인으로 꼽다)\" (Retorika Analisis Grafik & Statistik Penulisan Soal No. 53) yang berfungsi untuk menguasai seluruh formula retorika analisis grafik (200~300자) pada soal Menulis No. 53 TOPIK II. Menjelaskan subjek survei, perubahan angka persentase naik-turun, perbandingan data, analisis penyebab, dan proyeksi tren masa depan secara presisi."
       },
       {
         "id": "q-ko-gram-48-pg-4",
@@ -23047,7 +23047,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Di samping laboratorium tersebut telah melengkapi fasilitas peralatan riset mutakhir tentu saja demikian, para cendekiawan terkemuka kelas dunia pun bersiaga dalam jumlah besar di sana, sehingga menyerap tumpuan harapan komunitas akademik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다.\" berarti \"Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.\"."
+        "explanation": "Kalimat \"통계청이 발표한 자료에 따르면 국내 1인 가구 수는 2010년 414만 가구에서 2020년에는 664만 가구로 10년 사이에 무려 60% 급증한 것으로 나타났다.\" (dibaca: Tonggyecheong-i balpyohan jaryo-e ttareumyeon gungnae il-in gagu su-neun icheonsimnyeon sabaeksipsaman gagu-eseo icheoni-simnyeon-eneun yukbaekyuksipsaman gagu-ro simnyeon sa-i-e muryeo yuksip peosenteu geupjeonghan geos-euro natanatda.) berarti \"Menurut data yang dirilis Badan Pusat Statistik Korea, jumlah rumah tangga berpenghuni tunggal (1 orang) di dalam negeri melonjak drastis sebesar 60% dalam kurun waktu 10 tahun, dari 4,14 juta rumah tangga pada tahun 2010 menjadi 6,64 juta rumah tangga pada tahun 2020.\". Kalimat ini menggunakan pola \"도표 서술 공식 (-에 달하다, 급증세를 보이다, -에 그치다, -을 원인으로 꼽다)\" (Retorika Analisis Grafik & Statistik Penulisan Soal No. 53) yang berfungsi untuk menguasai seluruh formula retorika analisis grafik (200~300자) pada soal Menulis No. 53 TOPIK II. Menjelaskan subjek survei, perubahan angka persentase naik-turun, perbandingan data, analisis penyebab, dan proyeksi tren masa depan secara presisi."
       },
       {
         "id": "q-ko-gram-48-bb-2",
@@ -23194,7 +23194,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kata sandi tidak pernah saya beritahukan kepada siapapun selain diri saya sendiri, mana mungkin ada alasan orang ketiga bisa menarik uang tanpa izin dari rekening!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다.\" berarti \"Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.\"."
+        "explanation": "Kalimat \"폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다.\" (dibaca: Pokseol-ro doro-ga jeonmyeon mabidoeneun baram-e jesigan-e dochakhagineunkeonyeong gosokdoro han-gaunde-e gachyeo kkobak bam-eul jisaewosseumnida.) berarti \"Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.\". Kalimat ini menggunakan pola \"V/A + -기는커녕 / N + -은/는커녕 (jangankan A, B yang lebih sepele saja pun tidak) / V + -(으)ㄹ 새도 없이 (tanpa sempat ada jeda waktu sekedip mata pun)\" (Penyangkalan Total & Ketiadaan Jeda: -기는커녕 & -새도 없이) yang berfungsi untuk pola -기는커녕 menyangkal hal ideal yang diharapkan dan menegaskan bahwa kenyataan yang terjadi justru jauh lebih buruk atau bertolak belakang. Pola -(으)ㄹ 새도 없이 melukiskan situasi darurat yang bergerak begitu secepat kilat hingga tidak menyisakan jeda waktu sesaat pun."
       },
       {
         "id": "q-ko-gram-49-pg-2",
@@ -23210,7 +23210,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kedua korporasi menandatangani perjanjian pengembangan bersama mobil listrik ramah lingkungan generasi berikutnya dengan premis asumsi bahwa kedua pihak saling berbagi teknologi sumber secara setara."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"화재경보기가 울리자마자 불길이 순식간에 번져서 귀중품을 챙길 새도 없이 황급히 건물 밖으로 탈출해야 했습니다.\" berarti \"Begitu alarm kebakaran berbunyi kobaran api merembet dalam sekejap mata, sehingga bahkan tanpa sempat mengemas barang berharga sedikit pun kami harus segera melarikan diri keluar gedung.\"."
+        "explanation": "Kalimat \"화재경보기가 울리자마자 불길이 순식간에 번져서 귀중품을 챙길 새도 없이 황급히 건물 밖으로 탈출해야 했습니다.\" (dibaca: Hwajaegyeongbogi-ga ullijamaja bulgil-i sunsikgan-e beonjyeoseo gwijungpum-eul chaenggil sae-do eopsi hwang-geuphi geonmul bakk-euro talchulhaeya haesseumnida.) berarti \"Begitu alarm kebakaran berbunyi kobaran api merembet dalam sekejap mata, sehingga bahkan tanpa sempat mengemas barang berharga sedikit pun kami harus segera melarikan diri keluar gedung.\". Kalimat ini menggunakan pola \"V/A + -기는커녕 / N + -은/는커녕 (jangankan A, B yang lebih sepele saja pun tidak) / V + -(으)ㄹ 새도 없이 (tanpa sempat ada jeda waktu sekedip mata pun)\" (Penyangkalan Total & Ketiadaan Jeda: -기는커녕 & -새도 없이) yang berfungsi untuk pola -기는커녕 menyangkal hal ideal yang diharapkan dan menegaskan bahwa kenyataan yang terjadi justru jauh lebih buruk atau bertolak belakang. Pola -(으)ㄹ 새도 없이 melukiskan situasi darurat yang bergerak begitu secepat kilat hingga tidak menyisakan jeda waktu sesaat pun."
       },
       {
         "id": "q-ko-gram-49-pg-3",
@@ -23226,7 +23226,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Menjadikan musibah kali ini sebagai momentum titik balik untuk memetik pelajaran pahit, kita harus merombak total sistem tata kelola keselamatan bencana nasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"그 선수는 부상에서 회복되기는커녕 무리하게 경기에 출전했다가 상태가 더욱 악화되어 선수 생명의 위기를 맞았습니다.\" berarti \"Atlet tersebut alih-alih pulih dari cedera, akibat memaksakan diri turun bertanding kondisinya justru semakin memburuk hingga menghadapi krisis kelangsungan kariernya.\"."
+        "explanation": "Kalimat \"그 선수는 부상에서 회복되기는커녕 무리하게 경기에 출전했다가 상태가 더욱 악화되어 선수 생명의 위기를 맞았습니다.\" (dibaca: Geu seonsu-neun busang-eseo hoebokdoegineunkeonyeong murihage gyeong-gi-e chuljeonhaetdaga sangtae-ga deouk akhwadoe-eo seonsu saengmyeong-ui wigi-reul majatda.) berarti \"Atlet tersebut alih-alih pulih dari cedera, akibat memaksakan diri turun bertanding kondisinya justru semakin memburuk hingga menghadapi krisis kelangsungan kariernya.\". Kalimat ini menggunakan pola \"V/A + -기는커녕 / N + -은/는커녕 (jangankan A, B yang lebih sepele saja pun tidak) / V + -(으)ㄹ 새도 없이 (tanpa sempat ada jeda waktu sekedip mata pun)\" (Penyangkalan Total & Ketiadaan Jeda: -기는커녕 & -새도 없이) yang berfungsi untuk pola -기는커녕 menyangkal hal ideal yang diharapkan dan menegaskan bahwa kenyataan yang terjadi justru jauh lebih buruk atau bertolak belakang. Pola -(으)ㄹ 새도 없이 melukiskan situasi darurat yang bergerak begitu secepat kilat hingga tidak menyisakan jeda waktu sesaat pun."
       },
       {
         "id": "q-ko-gram-49-pg-4",
@@ -23533,7 +23533,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Tanpa melalui latihan berdarah-darah dan disiplin diri yang ketat sehari-harinya, mustahil seseorang mampu mempersembahkan panggung pertunjukan yang sebegitu sempurna dan mengagumkan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다.\" berarti \"Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.\"."
+        "explanation": "Kalimat \"폭설로 도로가 전면 마비되는 바람에 제시간에 도착하기는커녕 고속도로 한가운데에 갇혀 꼬박 밤을 지새웠습니다.\" (dibaca: Pokseol-ro doro-ga jeonmyeon mabidoeneun baram-e jesigan-e dochakhagineunkeonyeong gosokdoro han-gaunde-e gachyeo kkobak bam-eul jisaewosseumnida.) berarti \"Gara-gara salju lebat melumpuhkan jalanan total, alih-alih tiba tepat waktu, jangankan itu, kami justru terjebak di tengah jalan tol dan begadang semalaman suntuk.\". Kalimat ini menggunakan pola \"V/A + -기는커녕 / N + -은/는커녕 (jangankan A, B yang lebih sepele saja pun tidak) / V + -(으)ㄹ 새도 없이 (tanpa sempat ada jeda waktu sekedip mata pun)\" (Penyangkalan Total & Ketiadaan Jeda: -기는커녕 & -새도 없이) yang berfungsi untuk pola -기는커녕 menyangkal hal ideal yang diharapkan dan menegaskan bahwa kenyataan yang terjadi justru jauh lebih buruk atau bertolak belakang. Pola -(으)ㄹ 새도 없이 melukiskan situasi darurat yang bergerak begitu secepat kilat hingga tidak menyisakan jeda waktu sesaat pun."
       },
       {
         "id": "q-ko-gram-49-bb-2",
@@ -23686,7 +23686,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Menjadikan sebuah buku sains yang tak sengaja saya baca semasa sekolah dulu sebagai momentum titik balik, saya menjadi seorang astronom yang membaktikan seumur hidup demi riset penjelajahan antariksa."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다.\" berarti \"Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.\"."
+        "explanation": "Kalimat \"본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다.\" (dibaca: Bon yeon-gu-neun hyeondae damunhwa sahoe-eseo balsaenghaneun galdeung-ui gujojeok wonin-eul beobcheolhakjeok jun-geo-e uigeohayeo gyumyeonghaneun hanpyeon, teukjeong jipdan-e guk-handoeji anneun bopyeonjeok gongjon moder-eul dochulhandaneun jeonjeha-e gihoekdoe-eotda.) berarti \"Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.\". Kalimat ini menggunakan pola \"최고급 논증문 종합 구축 및 대학원 연구계획서 완벽 서술\" (Mahakarya Kelulusan TOPIK 2 Level 6 & Bahasa Korea Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak mahakarya kelulusan TOPIK 2 Level 6 (skor 230~300 poin): menyatukan retorika Saja-seong-eo, kausalitas yudisial, dialektika esai, dan penyusunan Proposal Riset Pascasarjana (대학원 연구계획서) untuk studi magister dan doktoral di universitas terbaik Korea Selatan."
       },
       {
         "id": "q-ko-gram-50-pg-2",
@@ -23702,7 +23702,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Kendatipun terdapat tekanan eksternal atau bujukan tak adil dalam bentuk apa pun, independensi kekuasaan kehakiman dan prinsip negara hukum sama sekali tak boleh goyah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"과거의 실패를 타산지석의 계기로 삼아 피나는 노력을 경주하지 않고서야 학문의 높은 봉우리에 도달할 리가 만무하며, 역경을 딛고 일어선 결실은 고진감래의 찬연한 승리에 다름 아니다.\" berarti \"Tanpa mengerahkan ikhtiar berdarah-darah dengan menjadikan kegagalan masa lalu sebagai momentum titik balik pemetik pelajaran berharga, mustahil sekali seseorang dapat mencapai puncak gunung ilmu yang menjulang tinggi, dan buah hasil yang tegak melampaui rintangan nestapa tiada lain dan tak bukan adalah kemenangan gilang-gemilang dari habis pahit terbitlah manis.\"."
+        "explanation": "Kalimat \"과거의 실패를 타산지석의 계기로 삼아 피나는 노력을 경주하지 않고서야 학문의 높은 봉우리에 도달할 리가 만무하며, 역경을 딛고 일어선 결실은 고진감래의 찬연한 승리에 다름 아니다.\" (dibaca: Gwageo-ui silpae-reul tasanjiseok-ui gyegi-ro sama pinaneun noryeok-eul gyeongjuhaji ankoseoya hangmun-ui nopeun bong-uri-e dodalhal ri-ga manmuhamyeo, yeokgyeong-eul ditgo ireoseon gyeolsil-eun gojingamrae-ui chanyeonhan seungri-e dareum animnida.) berarti \"Tanpa mengerahkan ikhtiar berdarah-darah dengan menjadikan kegagalan masa lalu sebagai momentum titik balik pemetik pelajaran berharga, mustahil sekali seseorang dapat mencapai puncak gunung ilmu yang menjulang tinggi, dan buah hasil yang tegak melampaui rintangan nestapa tiada lain dan tak bukan adalah kemenangan gilang-gemilang dari habis pahit terbitlah manis.\". Kalimat ini menggunakan pola \"최고급 논증문 종합 구축 및 대학원 연구계획서 완벽 서술\" (Mahakarya Kelulusan TOPIK 2 Level 6 & Bahasa Korea Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak mahakarya kelulusan TOPIK 2 Level 6 (skor 230~300 poin): menyatukan retorika Saja-seong-eo, kausalitas yudisial, dialektika esai, dan penyusunan Proposal Riset Pascasarjana (대학원 연구계획서) untuk studi magister dan doktoral di universitas terbaik Korea Selatan."
       },
       {
         "id": "q-ko-gram-50-pg-3",
@@ -23718,7 +23718,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah melalui masa tempaan kesabaran yang panjang dan akhirnya merengkuh kehormatan puncak tertinggi bahasa Korea TOPIK Level 6, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga kejayaan dan keberkahan abadi senantiasa menyertai masa depan para pembelajar sekalian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"오랜 인고의 시간을 거쳐 마침내 한국어의 최고 정점인 TOPIK 6급의 영예를 안은 학도 여러분의 앞날에 무궁한 영광과 축복이 함께하기를 진심으로 기원하여 마지않는다.\" berarti \"Setelah melalui masa tempaan kesabaran yang panjang dan akhirnya merengkuh kehormatan puncak tertinggi bahasa Korea TOPIK Level 6, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga kejayaan dan keberkahan abadi senantiasa menyertai masa depan para pembelajar sekalian.\"."
+        "explanation": "Kalimat \"오랜 인고의 시간을 거쳐 마침내 한국어의 최고 정점인 TOPIK 6급의 영예를 안은 학도 여러분의 앞날에 무궁한 영광과 축복이 함께하기를 진심으로 기원하여 마지않는다.\" (dibaca: Oren ingo-ui sigan-eul geocheo machimnae hangugeo-ui choego jeongjeom-in Topik yukgeup-ui yeong-ye-reul aneun hakdo yeoreobun-ui apnal-e mugunghan yeong-gwang-gwa chukbok-i hamkkehagireul jinsim-euro giwonhayeo majianneunda.) berarti \"Setelah melalui masa tempaan kesabaran yang panjang dan akhirnya merengkuh kehormatan puncak tertinggi bahasa Korea TOPIK Level 6, dari lubuk sanubari terdalam saya tiada henti-hentinya mendoakan semoga kejayaan dan keberkahan abadi senantiasa menyertai masa depan para pembelajar sekalian.\". Kalimat ini menggunakan pola \"최고급 논증문 종합 구축 및 대학원 연구계획서 완벽 서술\" (Mahakarya Kelulusan TOPIK 2 Level 6 & Bahasa Korea Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak mahakarya kelulusan TOPIK 2 Level 6 (skor 230~300 poin): menyatukan retorika Saja-seong-eo, kausalitas yudisial, dialektika esai, dan penyusunan Proposal Riset Pascasarjana (대학원 연구계획서) untuk studi magister dan doktoral di universitas terbaik Korea Selatan."
       },
       {
         "id": "q-ko-gram-50-pg-4",
@@ -24025,7 +24025,7 @@ export const KOREAN_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다.\" berarti \"Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.\"."
+        "explanation": "Kalimat \"본 연구는 현대 다문화 사회에서 발생하는 갈등의 구조적 원인을 법철학적 준거에 의거하여 규명하는 한편, 특정 집단에 국한되지 않는 보편적 공존 모델을 도출한다는 전제하에 기획되었다.\" (dibaca: Bon yeon-gu-neun hyeondae damunhwa sahoe-eseo balsaenghaneun galdeung-ui gujojeok wonin-eul beobcheolhakjeok jun-geo-e uigeohayeo gyumyeonghaneun hanpyeon, teukjeong jipdan-e guk-handoeji anneun bopyeonjeok gongjon moder-eul dochulhandaneun jeonjeha-e gihoekdoe-eotda.) berarti \"Penelitian ini direncanakan dengan premis asumsi bahwa di samping mengungkap akar struktural konflik yang timbul dalam masyarakat multikultural modern berlandaskan kaidah filsafat hukum, kami secara simultan menarik model koeksistensi universal yang tidak dibatasi hanya pada kelompok tertentu saja.\". Kalimat ini menggunakan pola \"최고급 논증문 종합 구축 및 대학원 연구계획서 완벽 서술\" (Mahakarya Kelulusan TOPIK 2 Level 6 & Bahasa Korea Akademik Perguruan Tinggi (Capstone Unit)) yang berfungsi untuk puncak mahakarya kelulusan TOPIK 2 Level 6 (skor 230~300 poin): menyatukan retorika Saja-seong-eo, kausalitas yudisial, dialektika esai, dan penyusunan Proposal Riset Pascasarjana (대학원 연구계획서) untuk studi magister dan doktoral di universitas terbaik Korea Selatan."
       },
       {
         "id": "q-ko-gram-50-bb-2",

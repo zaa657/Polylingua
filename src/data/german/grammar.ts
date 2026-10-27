@@ -12,24 +12,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pronomina persona dan konjugasi kata kerja dasar sein (ada/adalah) dan haben (memiliki) waktu kini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Personalpronomen & Konjugation im Präsens (Sein & Haben)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Personalpronomen & Konjugation im Präsens (Sein & Haben)\" (Personalpronomen und die unregelmäßigen Verben 'sein' und 'haben') berfungsi untuk: pronomina persona dan konjugasi kata kerja dasar sein (ada/adalah) dan haben (memiliki) waktu kini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ich bin Student an der Ludwig-Maximilians-Universität München. — Saya adalah mahasiswa di Universitas Ludwig-Maximilian München."
+          "Rumus utama: Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben",
+          "Contoh 1: Ich bin Student an der Ludwig-Maximilians-Universität München. (Ikh bin student an der ludwig-maximilians-universität münkhen.) — Saya adalah mahasiswa di Universitas Ludwig-Maximilian München."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk konjugasi untuk subjek 'ich' pada kata kerja sein adalah 'bin'.",
         "ruleList": [
-          "Wir haben heute eine wichtige Vorlesung im großen Hörsaal. — Kami memiliki kuliah penting hari ini di ruang auditorium besar."
+          "Polanya: Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben",
+          "Contoh 2: Wir haben heute eine wichtige Vorlesung im großen Hörsaal. (Wir haben hoyte ayne wikhtige vorlesung im grossen hörsaal.) — Kami memiliki kuliah penting hari ini di ruang auditorium besar."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Personalpronomen & Konjugation im Präsens (Sein & Haben)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Er ist sehr motiviert und lernt fleißig Deutsch. — Dia sangat termotivasi dan rajin belajar bahasa Jerman."
+          "Contoh 3: Er ist sehr motiviert und lernt fleißig Deutsch. (Er ist sehr motivi:rt und lernt flayssig doytsy.) — Dia sangat termotivasi dan rajin belajar bahasa Jerman.",
+          "Hindari kesalahan: \"ich bist\" → gunakan bentuk yang benar: \"ich bin\"."
         ]
       }
     ],
@@ -37,19 +40,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-1-ex-1",
         "native": "Ich bin Student an der Ludwig-Maximilians-Universität München.",
-        "phonetic": "",
+        "phonetic": "Ikh bin student an der ludwig-maximilians-universität münkhen.",
         "translationId": "Saya adalah mahasiswa di Universitas Ludwig-Maximilian München."
       },
       {
         "id": "de-gram-1-ex-2",
         "native": "Wir haben heute eine wichtige Vorlesung im großen Hörsaal.",
-        "phonetic": "",
+        "phonetic": "Wir haben hoyte ayne wikhtige vorlesung im grossen hörsaal.",
         "translationId": "Kami memiliki kuliah penting hari ini di ruang auditorium besar."
       },
       {
         "id": "de-gram-1-ex-3",
         "native": "Er ist sehr motiviert und lernt fleißig Deutsch.",
-        "phonetic": "",
+        "phonetic": "Er ist sehr motivi:rt und lernt flayssig doytsy.",
         "translationId": "Dia sangat termotivasi dan rajin belajar bahasa Jerman."
       }
     ],
@@ -65,7 +68,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Personalpronomen & Konjugation im Präsens (Sein & Haben)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Personalpronomen & Konjugation im Präsens (Sein & Haben)\" (Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-1-pg-1",
@@ -81,7 +84,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ich bin Student an der Ludwig-Maximilians-Universität München.\" berarti \"Saya adalah mahasiswa di Universitas Ludwig-Maximilian München.\"."
+        "explanation": "Kalimat \"Ich bin Student an der Ludwig-Maximilians-Universität München.\" (dibaca: Ikh bin student an der ludwig-maximilians-universität münkhen.) berarti \"Saya adalah mahasiswa di Universitas Ludwig-Maximilian München.\". Kalimat ini menggunakan pola \"Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben\" (Personalpronomen & Konjugation im Präsens (Sein & Haben)) yang berfungsi untuk pronomina persona dan konjugasi kata kerja dasar sein (ada/adalah) dan haben (memiliki) waktu kini."
       },
       {
         "id": "q-de-gram-1-pg-2",
@@ -97,7 +100,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Buku itu terletak di atas meja tulis dosen."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wir haben heute eine wichtige Vorlesung im großen Hörsaal.\" berarti \"Kami memiliki kuliah penting hari ini di ruang auditorium besar.\"."
+        "explanation": "Kalimat \"Wir haben heute eine wichtige Vorlesung im großen Hörsaal.\" (dibaca: Wir haben hoyte ayne wikhtige vorlesung im grossen hörsaal.) berarti \"Kami memiliki kuliah penting hari ini di ruang auditorium besar.\". Kalimat ini menggunakan pola \"Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben\" (Personalpronomen & Konjugation im Präsens (Sein & Haben)) yang berfungsi untuk pronomina persona dan konjugasi kata kerja dasar sein (ada/adalah) dan haben (memiliki) waktu kini."
       },
       {
         "id": "q-de-gram-1-pg-3",
@@ -113,7 +116,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seorang mahasiswa baru sedang mencari gedung seminar yang tepat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Er ist sehr motiviert und lernt fleißig Deutsch.\" berarti \"Dia sangat termotivasi dan rajin belajar bahasa Jerman.\"."
+        "explanation": "Kalimat \"Er ist sehr motiviert und lernt fleißig Deutsch.\" (dibaca: Er ist sehr motivi:rt und lernt flayssig doytsy.) berarti \"Dia sangat termotivasi dan rajin belajar bahasa Jerman.\". Kalimat ini menggunakan pola \"Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben\" (Personalpronomen & Konjugation im Präsens (Sein & Haben)) yang berfungsi untuk pronomina persona dan konjugasi kata kerja dasar sein (ada/adalah) dan haben (memiliki) waktu kini."
       },
       {
         "id": "q-de-gram-1-pg-4",
@@ -133,7 +136,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-1-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Personalpronomen & Konjugation im Präsens (Sein & Haben)\"?",
         "options": [
           "Wir haben heute eine wichtige Vorlesung im großen Hörsaal. — Kami memiliki kuliah penting hari ini di ruang auditorium besar.",
           "Fährst du morgen mit der U-Bahn zum Universitätscampus? — Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?",
@@ -147,7 +150,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-1-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Personalpronomen & Konjugation im Präsens (Sein & Haben)\"?",
         "options": [
           "Der Professor spricht fließend drei europäische Sprachen. — Profesor itu berbicara tiga bahasa Eropa dengan lancar.",
           "Er ist sehr motiviert und lernt fleißig Deutsch. — Dia sangat termotivasi dan rajin belajar bahasa Jerman.",
@@ -161,7 +164,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-1-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Personalpronomen & Konjugation im Präsens (Sein & Haben)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -408,7 +411,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu berbicara tiga bahasa Eropa dengan lancar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ich bin Student an der Ludwig-Maximilians-Universität München.\" berarti \"Saya adalah mahasiswa di Universitas Ludwig-Maximilian München.\"."
+        "explanation": "Kalimat \"Ich bin Student an der Ludwig-Maximilians-Universität München.\" (dibaca: Ikh bin student an der ludwig-maximilians-universität münkhen.) berarti \"Saya adalah mahasiswa di Universitas Ludwig-Maximilian München.\". Kalimat ini menggunakan pola \"Ich bin / Du bist / Wir sind & Ich habe / Du hast / Wir haben\" (Personalpronomen & Konjugation im Präsens (Sein & Haben)) yang berfungsi untuk pronomina persona dan konjugasi kata kerja dasar sein (ada/adalah) dan haben (memiliki) waktu kini."
       },
       {
         "id": "q-de-gram-1-bb-2",
@@ -483,24 +486,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konjugasi teratur verba bahasa Jerman dan perubahan vokal akar pada kata kerja kuat (sprechen -> spricht, fahren -> fährt).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Regelmäßige Verben & Vokalwechsel im Präsens' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Regelmäßige Verben & Vokalwechsel im Präsens\" (Schwache Verben und starke Verben mit Vokalwechsel (e->i/ie, a->ä)) berfungsi untuk: konjugasi teratur verba bahasa Jerman dan perubahan vokal akar pada kata kerja kuat (sprechen -> spricht, fahren -> fährt). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Professor spricht fließend drei europäische Sprachen. — Profesor itu berbicara tiga bahasa Eropa dengan lancar."
+          "Rumus utama: Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)",
+          "Contoh 1: Der Professor spricht fließend drei europäische Sprachen. (Der professor sprikht fli:ssend dray oyropäisye sprakhen.) — Profesor itu berbicara tiga bahasa Eropa dengan lancar."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pada kata kerja kuat seperti sprechen, vokal 'e' berubah menjadi 'i' untuk subjek du dan er/sie/es.",
         "ruleList": [
-          "Fährst du morgen mit der U-Bahn zum Universitätscampus? — Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?"
+          "Polanya: Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)",
+          "Contoh 2: Fährst du morgen mit der U-Bahn zum Universitätscampus? (Fährst du morgen mit der u-bahn tsum universitätscampus?) — Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?"
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Regelmäßige Verben & Vokalwechsel im Präsens\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir studieren Physik und Mathematik an der Technischen Universität. — Kami berkuliah fisika dan matematika di Universitas Teknik."
+          "Contoh 3: Wir studieren Physik und Mathematik an der Technischen Universität. (Wir studi:ren physik und mathematik an der tekhnisyen universität.) — Kami berkuliah fisika dan matematika di Universitas Teknik.",
+          "Hindari kesalahan: \"er spreche\" → gunakan bentuk yang benar: \"er spricht\"."
         ]
       }
     ],
@@ -508,19 +514,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-2-ex-1",
         "native": "Der Professor spricht fließend drei europäische Sprachen.",
-        "phonetic": "",
+        "phonetic": "Der professor sprikht fli:ssend dray oyropäisye sprakhen.",
         "translationId": "Profesor itu berbicara tiga bahasa Eropa dengan lancar."
       },
       {
         "id": "de-gram-2-ex-2",
         "native": "Fährst du morgen mit der U-Bahn zum Universitätscampus?",
-        "phonetic": "",
+        "phonetic": "Fährst du morgen mit der u-bahn tsum universitätscampus?",
         "translationId": "Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?"
       },
       {
         "id": "de-gram-2-ex-3",
         "native": "Wir studieren Physik und Mathematik an der Technischen Universität.",
-        "phonetic": "",
+        "phonetic": "Wir studi:ren physik und mathematik an der tekhnisyen universität.",
         "translationId": "Kami berkuliah fisika dan matematika di Universitas Teknik."
       }
     ],
@@ -536,7 +542,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Regelmäßige Verben & Vokalwechsel im Präsens' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Regelmäßige Verben & Vokalwechsel im Präsens\" (Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-2-pg-1",
@@ -552,7 +558,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Universitas Heidelberg adalah salah satu universitas tertua di Eropa."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der Professor spricht fließend drei europäische Sprachen.\" berarti \"Profesor itu berbicara tiga bahasa Eropa dengan lancar.\"."
+        "explanation": "Kalimat \"Der Professor spricht fließend drei europäische Sprachen.\" (dibaca: Der professor sprikht fli:ssend dray oyropäisye sprakhen.) berarti \"Profesor itu berbicara tiga bahasa Eropa dengan lancar.\". Kalimat ini menggunakan pola \"Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)\" (Regelmäßige Verben & Vokalwechsel im Präsens) yang berfungsi untuk konjugasi teratur verba bahasa Jerman dan perubahan vokal akar pada kata kerja kuat (sprechen -> spricht, fahren -> fährt)."
       },
       {
         "id": "q-de-gram-2-pg-2",
@@ -568,7 +574,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Fährst du morgen mit der U-Bahn zum Universitätscampus?\" berarti \"Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?\"."
+        "explanation": "Kalimat \"Fährst du morgen mit der U-Bahn zum Universitätscampus?\" (dibaca: Fährst du morgen mit der u-bahn tsum universitätscampus?) berarti \"Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?\". Kalimat ini menggunakan pola \"Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)\" (Regelmäßige Verben & Vokalwechsel im Präsens) yang berfungsi untuk konjugasi teratur verba bahasa Jerman dan perubahan vokal akar pada kata kerja kuat (sprechen -> spricht, fahren -> fährt)."
       },
       {
         "id": "q-de-gram-2-pg-3",
@@ -584,7 +590,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami berkuliah fisika dan matematika di Universitas Teknik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wir studieren Physik und Mathematik an der Technischen Universität.\" berarti \"Kami berkuliah fisika dan matematika di Universitas Teknik.\"."
+        "explanation": "Kalimat \"Wir studieren Physik und Mathematik an der Technischen Universität.\" (dibaca: Wir studi:ren physik und mathematik an der tekhnisyen universität.) berarti \"Kami berkuliah fisika dan matematika di Universitas Teknik.\". Kalimat ini menggunakan pola \"Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)\" (Regelmäßige Verben & Vokalwechsel im Präsens) yang berfungsi untuk konjugasi teratur verba bahasa Jerman dan perubahan vokal akar pada kata kerja kuat (sprechen -> spricht, fahren -> fährt)."
       },
       {
         "id": "q-de-gram-2-pg-4",
@@ -604,7 +610,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-2-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Regelmäßige Verben & Vokalwechsel im Präsens\"?",
         "options": [
           "Die Universität Heidelberg ist eine der ältesten Universitäten Europas. — Universitas Heidelberg adalah salah satu universitas tertua di Eropa.",
           "Fährst du morgen mit der U-Bahn zum Universitätscampus? — Apakah kamu besok naik kereta bawah tanah menuju kampus universitas?",
@@ -618,7 +624,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-2-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Regelmäßige Verben & Vokalwechsel im Präsens\"?",
         "options": [
           "Das Buch liegt auf dem Schreibtisch des Dozenten. — Buku itu terletak di atas meja tulis dosen.",
           "Ein neuer Student sucht das richtige Seminargebäude. — Seorang mahasiswa baru sedang mencari gedung seminar yang tepat.",
@@ -632,7 +638,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-2-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Regelmäßige Verben & Vokalwechsel im Präsens\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -879,7 +885,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu berbicara tiga bahasa Eropa dengan lancar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der Professor spricht fließend drei europäische Sprachen.\" berarti \"Profesor itu berbicara tiga bahasa Eropa dengan lancar.\"."
+        "explanation": "Kalimat \"Der Professor spricht fließend drei europäische Sprachen.\" (dibaca: Der professor sprikht fli:ssend dray oyropäisye sprakhen.) berarti \"Profesor itu berbicara tiga bahasa Eropa dengan lancar.\". Kalimat ini menggunakan pola \"Stamm + -e, -st, -t, -en, -t, -en (Vokalwechsel bei du/er/sie/es)\" (Regelmäßige Verben & Vokalwechsel im Präsens) yang berfungsi untuk konjugasi teratur verba bahasa Jerman dan perubahan vokal akar pada kata kerja kuat (sprechen -> spricht, fahren -> fährt)."
       },
       {
         "id": "q-de-gram-2-bb-2",
@@ -954,24 +960,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Artikel penentu gender maskulin, feminin, dan netral pada kasus nominatif sebagai subjek kalimat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Bestimmte, Unbestimmte Artikel & der Nominativ' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Bestimmte, Unbestimmte Artikel & der Nominativ\" (Die vier Fälle im Deutschen: Der Nominativ als Subjektfall) berfungsi untuk: artikel penentu gender maskulin, feminin, dan netral pada kasus nominatif sebagai subjek kalimat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Das Buch liegt auf dem Schreibtisch des Dozenten. — Buku itu terletak di atas meja tulis dosen."
+          "Rumus utama: Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein",
+          "Contoh 1: Das Buch liegt auf dem Schreibtisch des Dozenten. (Das bukh li:gt auf dem syraybtisy des dotsenten.) — Buku itu terletak di atas meja tulis dosen."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata benda Buch bergender netral (das Buch), bukan maskulin.",
         "ruleList": [
-          "Die Universität Heidelberg ist eine der ältesten Universitäten Europas. — Universitas Heidelberg adalah salah satu universitas tertua di Eropa."
+          "Polanya: Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein",
+          "Contoh 2: Die Universität Heidelberg ist eine der ältesten Universitäten Europas. (Di: universität haydelberg ist ayne der ältesten universitäten oyropas.) — Universitas Heidelberg adalah salah satu universitas tertua di Eropa."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Bestimmte, Unbestimmte Artikel & der Nominativ\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Ein neuer Student sucht das richtige Seminargebäude. — Seorang mahasiswa baru sedang mencari gedung seminar yang tepat."
+          "Contoh 3: Ein neuer Student sucht das richtige Seminargebäude. (Ayn noyer student sukht das rikhtige seminargeboyde.) — Seorang mahasiswa baru sedang mencari gedung seminar yang tepat.",
+          "Hindari kesalahan: \"der Buch\" → gunakan bentuk yang benar: \"das Buch\"."
         ]
       }
     ],
@@ -979,19 +988,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-3-ex-1",
         "native": "Das Buch liegt auf dem Schreibtisch des Dozenten.",
-        "phonetic": "",
+        "phonetic": "Das bukh li:gt auf dem syraybtisy des dotsenten.",
         "translationId": "Buku itu terletak di atas meja tulis dosen."
       },
       {
         "id": "de-gram-3-ex-2",
         "native": "Die Universität Heidelberg ist eine der ältesten Universitäten Europas.",
-        "phonetic": "",
+        "phonetic": "Di: universität haydelberg ist ayne der ältesten universitäten oyropas.",
         "translationId": "Universitas Heidelberg adalah salah satu universitas tertua di Eropa."
       },
       {
         "id": "de-gram-3-ex-3",
         "native": "Ein neuer Student sucht das richtige Seminargebäude.",
-        "phonetic": "",
+        "phonetic": "Ayn noyer student sukht das rikhtige seminargeboyde.",
         "translationId": "Seorang mahasiswa baru sedang mencari gedung seminar yang tepat."
       }
     ],
@@ -1007,7 +1016,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Bestimmte, Unbestimmte Artikel & der Nominativ' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Bestimmte, Unbestimmte Artikel & der Nominativ\" (Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-3-pg-1",
@@ -1023,7 +1032,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Saya membaca artikel ilmiah tersebut setiap pagi di perpustakaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Das Buch liegt auf dem Schreibtisch des Dozenten.\" berarti \"Buku itu terletak di atas meja tulis dosen.\"."
+        "explanation": "Kalimat \"Das Buch liegt auf dem Schreibtisch des Dozenten.\" (dibaca: Das bukh li:gt auf dem syraybtisy des dotsenten.) berarti \"Buku itu terletak di atas meja tulis dosen.\". Kalimat ini menggunakan pola \"Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein\" (Bestimmte, Unbestimmte Artikel & der Nominativ) yang berfungsi untuk artikel penentu gender maskulin, feminin, dan netral pada kasus nominatif sebagai subjek kalimat."
       },
       {
         "id": "q-de-gram-3-pg-2",
@@ -1039,7 +1048,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Universitas Heidelberg adalah salah satu universitas tertua di Eropa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Universität Heidelberg ist eine der ältesten Universitäten Europas.\" berarti \"Universitas Heidelberg adalah salah satu universitas tertua di Eropa.\"."
+        "explanation": "Kalimat \"Die Universität Heidelberg ist eine der ältesten Universitäten Europas.\" (dibaca: Di: universität haydelberg ist ayne der ältesten universitäten oyropas.) berarti \"Universitas Heidelberg adalah salah satu universitas tertua di Eropa.\". Kalimat ini menggunakan pola \"Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein\" (Bestimmte, Unbestimmte Artikel & der Nominativ) yang berfungsi untuk artikel penentu gender maskulin, feminin, dan netral pada kasus nominatif sebagai subjek kalimat."
       },
       {
         "id": "q-de-gram-3-pg-3",
@@ -1055,7 +1064,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mereka tidak tinggal di Berlin, melainkan di Hamburg."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ein neuer Student sucht das richtige Seminargebäude.\" berarti \"Seorang mahasiswa baru sedang mencari gedung seminar yang tepat.\"."
+        "explanation": "Kalimat \"Ein neuer Student sucht das richtige Seminargebäude.\" (dibaca: Ayn noyer student sukht das rikhtige seminargeboyde.) berarti \"Seorang mahasiswa baru sedang mencari gedung seminar yang tepat.\". Kalimat ini menggunakan pola \"Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein\" (Bestimmte, Unbestimmte Artikel & der Nominativ) yang berfungsi untuk artikel penentu gender maskulin, feminin, dan netral pada kasus nominatif sebagai subjek kalimat."
       },
       {
         "id": "q-de-gram-3-pg-4",
@@ -1075,7 +1084,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-3-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Bestimmte, Unbestimmte Artikel & der Nominativ\"?",
         "options": [
           "Ich lese jeden Morgen den wissenschaftlichen Artikel in der Bibliothek. — Saya membaca artikel ilmiah tersebut setiap pagi di perpustakaan.",
           "Wir haben heute keine Vorlesung in theoretischer Physik. — Kami tidak memiliki kuliah fisika teoretis pada hari ini.",
@@ -1089,7 +1098,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-3-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Bestimmte, Unbestimmte Artikel & der Nominativ\"?",
         "options": [
           "Der Student kauft einen neuen Laptop für sein Masterstudium. — Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya.",
           "Wir haben das interessante Lehrbuch für den Kurs bestellt. — Kami telah memesan buku ajar menarik tersebut untuk mata kuliah ini.",
@@ -1103,7 +1112,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-3-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Bestimmte, Unbestimmte Artikel & der Nominativ\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -1350,7 +1359,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Das Buch liegt auf dem Schreibtisch des Dozenten.\" berarti \"Buku itu terletak di atas meja tulis dosen.\"."
+        "explanation": "Kalimat \"Das Buch liegt auf dem Schreibtisch des Dozenten.\" (dibaca: Das bukh li:gt auf dem syraybtisy des dotsenten.) berarti \"Buku itu terletak di atas meja tulis dosen.\". Kalimat ini menggunakan pola \"Der (m) / Die (f) / Das (n) / Die (pl) & Ein / Eine / Ein\" (Bestimmte, Unbestimmte Artikel & der Nominativ) yang berfungsi untuk artikel penentu gender maskulin, feminin, dan netral pada kasus nominatif sebagai subjek kalimat."
       },
       {
         "id": "q-de-gram-3-bb-2",
@@ -1425,24 +1434,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kasus akusatif untuk objek penderita langsung: hanya nomina maskulin yang berubah bentuk (der -> den, ein -> einen).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Der Akkusativ: Den / Einen für Maskuline Nomen' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Der Akkusativ: Den / Einen für Maskuline Nomen\" (Der Akkusativ als Fall des direkten Objekts (Wen oder Was?)) berfungsi untuk: kasus akusatif untuk objek penderita langsung: hanya nomina maskulin yang berubah bentuk (der -> den, ein -> einen). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Student kauft einen neuen Laptop für sein Masterstudium. — Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya."
+          "Rumus utama: Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)",
+          "Contoh 1: Der Student kauft einen neuen Laptop für sein Masterstudium. (Der student kauft aynen noyen laptop für sayn masterstudium.) — Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Objek langsung bergender maskulin wajib menggunakan kasus akusatif: einen neuen Laptop.",
         "ruleList": [
-          "Ich lese jeden Morgen den wissenschaftlichen Artikel in der Bibliothek. — Saya membaca artikel ilmiah tersebut setiap pagi di perpustakaan."
+          "Polanya: Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)",
+          "Contoh 2: Ich lese jeden Morgen den wissenschaftlichen Artikel in der Bibliothek. (Ikh lese jeden morgen den wissensyaftlikhen artikel in der bibliothek.) — Saya membaca artikel ilmiah tersebut setiap pagi di perpustakaan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Der Akkusativ: Den / Einen für Maskuline Nomen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir haben das interessante Lehrbuch für den Kurs bestellt. — Kami telah memesan buku ajar menarik tersebut untuk mata kuliah ini."
+          "Contoh 3: Wir haben das interessante Lehrbuch für den Kurs bestellt. (Wir haben das interessante lehrbukh für den kurs bestellt.) — Kami telah memesan buku ajar menarik tersebut untuk mata kuliah ini.",
+          "Hindari kesalahan: \"ich kaufe ein neuer Laptop\" → gunakan bentuk yang benar: \"ich kaufe einen neuen Laptop\"."
         ]
       }
     ],
@@ -1450,19 +1462,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-4-ex-1",
         "native": "Der Student kauft einen neuen Laptop für sein Masterstudium.",
-        "phonetic": "",
+        "phonetic": "Der student kauft aynen noyen laptop für sayn masterstudium.",
         "translationId": "Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya."
       },
       {
         "id": "de-gram-4-ex-2",
         "native": "Ich lese jeden Morgen den wissenschaftlichen Artikel in der Bibliothek.",
-        "phonetic": "",
+        "phonetic": "Ikh lese jeden morgen den wissensyaftlikhen artikel in der bibliothek.",
         "translationId": "Saya membaca artikel ilmiah tersebut setiap pagi di perpustakaan."
       },
       {
         "id": "de-gram-4-ex-3",
         "native": "Wir haben das interessante Lehrbuch für den Kurs bestellt.",
-        "phonetic": "",
+        "phonetic": "Wir haben das interessante lehrbukh für den kurs bestellt.",
         "translationId": "Kami telah memesan buku ajar menarik tersebut untuk mata kuliah ini."
       }
     ],
@@ -1478,7 +1490,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Der Akkusativ: Den / Einen für Maskuline Nomen' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Der Akkusativ: Den / Einen für Maskuline Nomen\" (Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-4-pg-1",
@@ -1494,7 +1506,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der Student kauft einen neuen Laptop für sein Masterstudium.\" berarti \"Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya.\"."
+        "explanation": "Kalimat \"Der Student kauft einen neuen Laptop für sein Masterstudium.\" (dibaca: Der student kauft aynen noyen laptop für sayn masterstudium.) berarti \"Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya.\". Kalimat ini menggunakan pola \"Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)\" (Der Akkusativ: Den / Einen für Maskuline Nomen) yang berfungsi untuk kasus akusatif untuk objek penderita langsung: hanya nomina maskulin yang berubah bentuk (der -> den, ein -> einen)."
       },
       {
         "id": "q-de-gram-4-pg-2",
@@ -1510,7 +1522,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hari ini para mahasiswa internasional mengunjungi Institut Max Planck."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ich lese jeden Morgen den wissenschaftlichen Artikel in der Bibliothek.\" berarti \"Saya membaca artikel ilmiah tersebut setiap pagi di perpustakaan.\"."
+        "explanation": "Kalimat \"Ich lese jeden Morgen den wissenschaftlichen Artikel in der Bibliothek.\" (dibaca: Ikh lese jeden morgen den wissensyaftlikhen artikel in der bibliothek.) berarti \"Saya membaca artikel ilmiah tersebut setiap pagi di perpustakaan.\". Kalimat ini menggunakan pola \"Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)\" (Der Akkusativ: Den / Einen für Maskuline Nomen) yang berfungsi untuk kasus akusatif untuk objek penderita langsung: hanya nomina maskulin yang berubah bentuk (der -> den, ein -> einen)."
       },
       {
         "id": "q-de-gram-4-pg-3",
@@ -1526,7 +1538,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Besok saya mempresentasikan proyek penelitian saya di kolokium."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wir haben das interessante Lehrbuch für den Kurs bestellt.\" berarti \"Kami telah memesan buku ajar menarik tersebut untuk mata kuliah ini.\"."
+        "explanation": "Kalimat \"Wir haben das interessante Lehrbuch für den Kurs bestellt.\" (dibaca: Wir haben das interessante lehrbukh für den kurs bestellt.) berarti \"Kami telah memesan buku ajar menarik tersebut untuk mata kuliah ini.\". Kalimat ini menggunakan pola \"Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)\" (Der Akkusativ: Den / Einen für Maskuline Nomen) yang berfungsi untuk kasus akusatif untuk objek penderita langsung: hanya nomina maskulin yang berubah bentuk (der -> den, ein -> einen)."
       },
       {
         "id": "q-de-gram-4-pg-4",
@@ -1546,7 +1558,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-4-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Der Akkusativ: Den / Einen für Maskuline Nomen\"?",
         "options": [
           "Der Student versteht die komplizierte Formel noch nicht. — Mahasiswa itu belum memahami rumus yang rumit tersebut.",
           "Heute besuchen die internationalen Studenten das Max-Planck-Institut. — Hari ini para mahasiswa internasional mengunjungi Institut Max Planck.",
@@ -1560,7 +1572,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-4-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Der Akkusativ: Den / Einen für Maskuline Nomen\"?",
         "options": [
           "Wir haben das interessante Lehrbuch für den Kurs bestellt. — Kami telah memesan buku ajar menarik tersebut untuk mata kuliah ini.",
           "Wir haben heute keine Vorlesung in theoretischer Physik. — Kami tidak memiliki kuliah fisika teoretis pada hari ini.",
@@ -1574,7 +1586,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-4-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Der Akkusativ: Den / Einen für Maskuline Nomen\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -1821,7 +1833,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami tidak memiliki kuliah fisika teoretis pada hari ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der Student kauft einen neuen Laptop für sein Masterstudium.\" berarti \"Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya.\"."
+        "explanation": "Kalimat \"Der Student kauft einen neuen Laptop für sein Masterstudium.\" (dibaca: Der student kauft aynen noyen laptop für sayn masterstudium.) berarti \"Mahasiswa itu membeli sebuah laptop baru untuk studi magisternya.\". Kalimat ini menggunakan pola \"Maskulinum wechselt: Der -> Den / Ein -> Einen (Feminin, Neutrum, Plural unverändert)\" (Der Akkusativ: Den / Einen für Maskuline Nomen) yang berfungsi untuk kasus akusatif untuk objek penderita langsung: hanya nomina maskulin yang berubah bentuk (der -> den, ein -> einen)."
       },
       {
         "id": "q-de-gram-4-bb-2",
@@ -1896,24 +1908,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Penyangkalan kata benda tanpa artikel dengan kein (keine, keinen), dan penyangkalan predikat/sifat dengan nicht.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Negation: Nicht vs Kein' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Negation: Nicht vs Kein\" (Die Verneinung mit 'nicht' und dem Negationsartikel 'kein') berfungsi untuk: penyangkalan kata benda tanpa artikel dengan kein (keine, keinen), dan penyangkalan predikat/sifat dengan nicht. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Wir haben heute keine Vorlesung in theoretischer Physik. — Kami tidak memiliki kuliah fisika teoretis pada hari ini."
+          "Rumus utama: Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)",
+          "Contoh 1: Wir haben heute keine Vorlesung in theoretischer Physik. (Wir haben hoyte kayne vorlesung in theoretisyer physik.) — Kami tidak memiliki kuliah fisika teoretis pada hari ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Di depan kata benda tanpa artikel atau berartikel tak tentu, gunakan 'kein/keine'.",
         "ruleList": [
-          "Der Student versteht die komplizierte Formel noch nicht. — Mahasiswa itu belum memahami rumus yang rumit tersebut."
+          "Polanya: Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)",
+          "Contoh 2: Der Student versteht die komplizierte Formel noch nicht. (Der student versteht di: komplitsi:rte formel nokh nikht.) — Mahasiswa itu belum memahami rumus yang rumit tersebut."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Negation: Nicht vs Kein\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Sie wohnen nicht in Berlin, sondern in Hamburg. — Mereka tidak tinggal di Berlin, melainkan di Hamburg."
+          "Contoh 3: Sie wohnen nicht in Berlin, sondern in Hamburg. (Si: wohnen nikht in berlin, sondern in hamburg.) — Mereka tidak tinggal di Berlin, melainkan di Hamburg.",
+          "Hindari kesalahan: \"ich habe nicht Zeit\" → gunakan bentuk yang benar: \"ich habe keine Zeit\"."
         ]
       }
     ],
@@ -1921,19 +1936,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-5-ex-1",
         "native": "Wir haben heute keine Vorlesung in theoretischer Physik.",
-        "phonetic": "",
+        "phonetic": "Wir haben hoyte kayne vorlesung in theoretisyer physik.",
         "translationId": "Kami tidak memiliki kuliah fisika teoretis pada hari ini."
       },
       {
         "id": "de-gram-5-ex-2",
         "native": "Der Student versteht die komplizierte Formel noch nicht.",
-        "phonetic": "",
+        "phonetic": "Der student versteht di: komplitsi:rte formel nokh nikht.",
         "translationId": "Mahasiswa itu belum memahami rumus yang rumit tersebut."
       },
       {
         "id": "de-gram-5-ex-3",
         "native": "Sie wohnen nicht in Berlin, sondern in Hamburg.",
-        "phonetic": "",
+        "phonetic": "Si: wohnen nikht in berlin, sondern in hamburg.",
         "translationId": "Mereka tidak tinggal di Berlin, melainkan di Hamburg."
       }
     ],
@@ -1949,7 +1964,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Negation: Nicht vs Kein' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Negation: Nicht vs Kein\" (Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-5-pg-1",
@@ -1965,7 +1980,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Di Jerman banyak profesor bersepeda menuju tempat kerja."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Wir haben heute keine Vorlesung in theoretischer Physik.\" berarti \"Kami tidak memiliki kuliah fisika teoretis pada hari ini.\"."
+        "explanation": "Kalimat \"Wir haben heute keine Vorlesung in theoretischer Physik.\" (dibaca: Wir haben hoyte kayne vorlesung in theoretisyer physik.) berarti \"Kami tidak memiliki kuliah fisika teoretis pada hari ini.\". Kalimat ini menggunakan pola \"Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)\" (Negation: Nicht vs Kein) yang berfungsi untuk penyangkalan kata benda tanpa artikel dengan kein (keine, keinen), dan penyangkalan predikat/sifat dengan nicht."
       },
       {
         "id": "q-de-gram-5-pg-2",
@@ -1981,7 +1996,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der Student versteht die komplizierte Formel noch nicht.\" berarti \"Mahasiswa itu belum memahami rumus yang rumit tersebut.\"."
+        "explanation": "Kalimat \"Der Student versteht die komplizierte Formel noch nicht.\" (dibaca: Der student versteht di: komplitsi:rte formel nokh nikht.) berarti \"Mahasiswa itu belum memahami rumus yang rumit tersebut.\". Kalimat ini menggunakan pola \"Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)\" (Negation: Nicht vs Kein) yang berfungsi untuk penyangkalan kata benda tanpa artikel dengan kein (keine, keinen), dan penyangkalan predikat/sifat dengan nicht."
       },
       {
         "id": "q-de-gram-5-pg-3",
@@ -1997,7 +2012,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Di manakah letak kantor pusat administrasi ujian fakultas?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Sie wohnen nicht in Berlin, sondern in Hamburg.\" berarti \"Mereka tidak tinggal di Berlin, melainkan di Hamburg.\"."
+        "explanation": "Kalimat \"Sie wohnen nicht in Berlin, sondern in Hamburg.\" (dibaca: Si: wohnen nikht in berlin, sondern in hamburg.) berarti \"Mereka tidak tinggal di Berlin, melainkan di Hamburg.\". Kalimat ini menggunakan pola \"Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)\" (Negation: Nicht vs Kein) yang berfungsi untuk penyangkalan kata benda tanpa artikel dengan kein (keine, keinen), dan penyangkalan predikat/sifat dengan nicht."
       },
       {
         "id": "q-de-gram-5-pg-4",
@@ -2017,7 +2032,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-5-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Negation: Nicht vs Kein\"?",
         "options": [
           "Der Student versteht die komplizierte Formel noch nicht. — Mahasiswa itu belum memahami rumus yang rumit tersebut.",
           "In Deutschland fahren viele Professoren mit dem Fahrrad zur Arbeit. — Di Jerman banyak profesor bersepeda menuju tempat kerja.",
@@ -2031,7 +2046,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-5-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Negation: Nicht vs Kein\"?",
         "options": [
           "Heute besuchen die internationalen Studenten das Max-Planck-Institut. — Hari ini para mahasiswa internasional mengunjungi Institut Max Planck.",
           "Sie wohnen nicht in Berlin, sondern in Hamburg. — Mereka tidak tinggal di Berlin, melainkan di Hamburg.",
@@ -2045,7 +2060,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-5-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Negation: Nicht vs Kein\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2292,7 +2307,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hari ini para mahasiswa internasional mengunjungi Institut Max Planck."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wir haben heute keine Vorlesung in theoretischer Physik.\" berarti \"Kami tidak memiliki kuliah fisika teoretis pada hari ini.\"."
+        "explanation": "Kalimat \"Wir haben heute keine Vorlesung in theoretischer Physik.\" (dibaca: Wir haben hoyte kayne vorlesung in theoretisyer physik.) berarti \"Kami tidak memiliki kuliah fisika teoretis pada hari ini.\". Kalimat ini menggunakan pola \"Kein (Substantiv ohne Artikel / Unbestimmter Artikel) vs Nicht (Verben/Adjektive/Spezifisch)\" (Negation: Nicht vs Kein) yang berfungsi untuk penyangkalan kata benda tanpa artikel dengan kein (keine, keinen), dan penyangkalan predikat/sifat dengan nicht."
       },
       {
         "id": "q-de-gram-5-bb-2",
@@ -2367,24 +2382,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan emas sintaksis Jerman: kata kerja berkonjugasi selalu berada di posisi ke-2 pada kalimat utama berita.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Satzstellung im Hauptsatz (Verb an zweiter Position - V2)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Satzstellung im Hauptsatz (Verb an zweiter Position - V2)\" (Die V2-Stellung des finiten Verbs im deutschen Hauptsatz) berfungsi untuk: aturan emas sintaksis Jerman: kata kerja berkonjugasi selalu berada di posisi ke-2 pada kalimat utama berita. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Heute besuchen die internationalen Studenten das Max-Planck-Institut. — Hari ini para mahasiswa internasional mengunjungi Institut Max Planck."
+          "Rumus utama: Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest",
+          "Contoh 1: Heute besuchen die internationalen Studenten das Max-Planck-Institut. (Hoyte besukhen di: internationalen studenten das max-planck-institut.) — Hari ini para mahasiswa internasional mengunjungi Institut Max Planck."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam kalimat utama bahasa Jerman, kata kerja berkonjugasi wajib berada di posisi ke-2.",
         "ruleList": [
-          "In Deutschland fahren viele Professoren mit dem Fahrrad zur Arbeit. — Di Jerman banyak profesor bersepeda menuju tempat kerja."
+          "Polanya: Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest",
+          "Contoh 2: In Deutschland fahren viele Professoren mit dem Fahrrad zur Arbeit. (In doytsyland fahren vi:le professoren mit dem fahrrad tsur arbayt.) — Di Jerman banyak profesor bersepeda menuju tempat kerja."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Satzstellung im Hauptsatz (Verb an zweiter Position - V2)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Morgen präsentiere ich mein Forschungsprojekt im Kolloquium. — Besok saya mempresentasikan proyek penelitian saya di kolokium."
+          "Contoh 3: Morgen präsentiere ich mein Forschungsprojekt im Kolloquium. (Morgen präsenti:re ikh mayn forsyungsprojekt im kolloquium.) — Besok saya mempresentasikan proyek penelitian saya di kolokium.",
+          "Hindari kesalahan: \"heute die Studenten besuchen\" → gunakan bentuk yang benar: \"heute besuchen die Studenten\"."
         ]
       }
     ],
@@ -2392,19 +2410,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-6-ex-1",
         "native": "Heute besuchen die internationalen Studenten das Max-Planck-Institut.",
-        "phonetic": "",
+        "phonetic": "Hoyte besukhen di: internationalen studenten das max-planck-institut.",
         "translationId": "Hari ini para mahasiswa internasional mengunjungi Institut Max Planck."
       },
       {
         "id": "de-gram-6-ex-2",
         "native": "In Deutschland fahren viele Professoren mit dem Fahrrad zur Arbeit.",
-        "phonetic": "",
+        "phonetic": "In doytsyland fahren vi:le professoren mit dem fahrrad tsur arbayt.",
         "translationId": "Di Jerman banyak profesor bersepeda menuju tempat kerja."
       },
       {
         "id": "de-gram-6-ex-3",
         "native": "Morgen präsentiere ich mein Forschungsprojekt im Kolloquium.",
-        "phonetic": "",
+        "phonetic": "Morgen präsenti:re ikh mayn forsyungsprojekt im kolloquium.",
         "translationId": "Besok saya mempresentasikan proyek penelitian saya di kolokium."
       }
     ],
@@ -2420,7 +2438,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Satzstellung im Hauptsatz (Verb an zweiter Position - V2)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Satzstellung im Hauptsatz (Verb an zweiter Position - V2)\" (Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-6-pg-1",
@@ -2436,7 +2454,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Heute besuchen die internationalen Studenten das Max-Planck-Institut.\" berarti \"Hari ini para mahasiswa internasional mengunjungi Institut Max Planck.\"."
+        "explanation": "Kalimat \"Heute besuchen die internationalen Studenten das Max-Planck-Institut.\" (dibaca: Hoyte besukhen di: internationalen studenten das max-planck-institut.) berarti \"Hari ini para mahasiswa internasional mengunjungi Institut Max Planck.\". Kalimat ini menggunakan pola \"Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest\" (Satzstellung im Hauptsatz (Verb an zweiter Position - V2)) yang berfungsi untuk aturan emas sintaksis Jerman: kata kerja berkonjugasi selalu berada di posisi ke-2 pada kalimat utama berita."
       },
       {
         "id": "q-de-gram-6-pg-2",
@@ -2452,7 +2470,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"In Deutschland fahren viele Professoren mit dem Fahrrad zur Arbeit.\" berarti \"Di Jerman banyak profesor bersepeda menuju tempat kerja.\"."
+        "explanation": "Kalimat \"In Deutschland fahren viele Professoren mit dem Fahrrad zur Arbeit.\" (dibaca: In doytsyland fahren vi:le professoren mit dem fahrrad tsur arbayt.) berarti \"Di Jerman banyak profesor bersepeda menuju tempat kerja.\". Kalimat ini menggunakan pola \"Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest\" (Satzstellung im Hauptsatz (Verb an zweiter Position - V2)) yang berfungsi untuk aturan emas sintaksis Jerman: kata kerja berkonjugasi selalu berada di posisi ke-2 pada kalimat utama berita."
       },
       {
         "id": "q-de-gram-6-pg-3",
@@ -2468,7 +2486,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Besok saya mempresentasikan proyek penelitian saya di kolokium."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Morgen präsentiere ich mein Forschungsprojekt im Kolloquium.\" berarti \"Besok saya mempresentasikan proyek penelitian saya di kolokium.\"."
+        "explanation": "Kalimat \"Morgen präsentiere ich mein Forschungsprojekt im Kolloquium.\" (dibaca: Morgen präsenti:re ikh mayn forsyungsprojekt im kolloquium.) berarti \"Besok saya mempresentasikan proyek penelitian saya di kolokium.\". Kalimat ini menggunakan pola \"Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest\" (Satzstellung im Hauptsatz (Verb an zweiter Position - V2)) yang berfungsi untuk aturan emas sintaksis Jerman: kata kerja berkonjugasi selalu berada di posisi ke-2 pada kalimat utama berita."
       },
       {
         "id": "q-de-gram-6-pg-4",
@@ -2488,7 +2506,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-6-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Satzstellung im Hauptsatz (Verb an zweiter Position - V2)\"?",
         "options": [
           "Haben Sie alle Unterlagen für das Stipendium fristgerecht eingereicht? — Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?",
           "In Deutschland fahren viele Professoren mit dem Fahrrad zur Arbeit. — Di Jerman banyak profesor bersepeda menuju tempat kerja.",
@@ -2502,7 +2520,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-6-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Satzstellung im Hauptsatz (Verb an zweiter Position - V2)\"?",
         "options": [
           "Warum studieren Sie Germanistik an dieser renommierten Universität? — Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?",
           "Wo befindet sich das zentrale Prüfungsamt der Fakultät? — Di manakah letak kantor pusat administrasi ujian fakultas?",
@@ -2516,7 +2534,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-6-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Satzstellung im Hauptsatz (Verb an zweiter Position - V2)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2763,7 +2781,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hari ini para mahasiswa internasional mengunjungi Institut Max Planck."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Heute besuchen die internationalen Studenten das Max-Planck-Institut.\" berarti \"Hari ini para mahasiswa internasional mengunjungi Institut Max Planck.\"."
+        "explanation": "Kalimat \"Heute besuchen die internationalen Studenten das Max-Planck-Institut.\" (dibaca: Hoyte besukhen di: internationalen studenten das max-planck-institut.) berarti \"Hari ini para mahasiswa internasional mengunjungi Institut Max Planck.\". Kalimat ini menggunakan pola \"Position 1 + Finites Verb (Pos. 2) + Subjekt + Rest\" (Satzstellung im Hauptsatz (Verb an zweiter Position - V2)) yang berfungsi untuk aturan emas sintaksis Jerman: kata kerja berkonjugasi selalu berada di posisi ke-2 pada kalimat utama berita."
       },
       {
         "id": "q-de-gram-6-bb-2",
@@ -2838,24 +2856,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk pertanyaan terbuka dengan kata tanya (wer, was, wo, warum) dan pertanyaan ya/tidak diawali kata kerja.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'W-Fragen und Ja/Nein-Fragen (Inversion)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"W-Fragen und Ja/Nein-Fragen (Inversion)\" (Fragesätze mit Fragewörtern (W-Fragen) und Entscheidungsfragen) berfungsi untuk: membentuk pertanyaan terbuka dengan kata tanya (wer, was, wo, warum) dan pertanyaan ya/tidak diawali kata kerja. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Warum studieren Sie Germanistik an dieser renommierten Universität? — Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?"
+          "Rumus utama: Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?",
+          "Contoh 1: Warum studieren Sie Germanistik an dieser renommierten Universität? (Warum studi:ren si: germanistik an di:ser renommi:rten universität?) — Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt? memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah kata tanya W-Frage, langsung diikuti oleh kata kerja terkonjugasi baru kemudian subjek.",
         "ruleList": [
-          "Haben Sie alle Unterlagen für das Stipendium fristgerecht eingereicht? — Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?"
+          "Polanya: Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?",
+          "Contoh 2: Haben Sie alle Unterlagen für das Stipendium fristgerecht eingereicht? (Haben si: alle unterlagen für das stipendium fristgerekht ayngeraykht?) — Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?"
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"W-Fragen und Ja/Nein-Fragen (Inversion)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wo befindet sich das zentrale Prüfungsamt der Fakultät? — Di manakah letak kantor pusat administrasi ujian fakultas?"
+          "Contoh 3: Wo befindet sich das zentrale Prüfungsamt der Fakultät? (Wo befindet sikh das tsentrale prüfungsamt der fakultät?) — Di manakah letak kantor pusat administrasi ujian fakultas?",
+          "Hindari kesalahan: \"warum Sie studieren?\" → gunakan bentuk yang benar: \"warum studieren Sie?\"."
         ]
       }
     ],
@@ -2863,19 +2884,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-7-ex-1",
         "native": "Warum studieren Sie Germanistik an dieser renommierten Universität?",
-        "phonetic": "",
+        "phonetic": "Warum studi:ren si: germanistik an di:ser renommi:rten universität?",
         "translationId": "Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?"
       },
       {
         "id": "de-gram-7-ex-2",
         "native": "Haben Sie alle Unterlagen für das Stipendium fristgerecht eingereicht?",
-        "phonetic": "",
+        "phonetic": "Haben si: alle unterlagen für das stipendium fristgerekht ayngeraykht?",
         "translationId": "Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?"
       },
       {
         "id": "de-gram-7-ex-3",
         "native": "Wo befindet sich das zentrale Prüfungsamt der Fakultät?",
-        "phonetic": "",
+        "phonetic": "Wo befindet sikh das tsentrale prüfungsamt der fakultät?",
         "translationId": "Di manakah letak kantor pusat administrasi ujian fakultas?"
       }
     ],
@@ -2891,7 +2912,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'W-Fragen und Ja/Nein-Fragen (Inversion)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"W-Fragen und Ja/Nein-Fragen (Inversion)\" (Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-7-pg-1",
@@ -2907,7 +2928,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Bolehkah saya mengajukan pertanyaan singkat mengenai peraturan ujian?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Warum studieren Sie Germanistik an dieser renommierten Universität?\" berarti \"Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?\"."
+        "explanation": "Kalimat \"Warum studieren Sie Germanistik an dieser renommierten Universität?\" (dibaca: Warum studi:ren si: germanistik an di:ser renommi:rten universität?) berarti \"Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?\". Kalimat ini menggunakan pola \"Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?\" (W-Fragen und Ja/Nein-Fragen (Inversion)) yang berfungsi untuk membentuk pertanyaan terbuka dengan kata tanya (wer, was, wo, warum) dan pertanyaan ya/tidak diawali kata kerja."
       },
       {
         "id": "q-de-gram-7-pg-2",
@@ -2923,7 +2944,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Haben Sie alle Unterlagen für das Stipendium fristgerecht eingereicht?\" berarti \"Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?\"."
+        "explanation": "Kalimat \"Haben Sie alle Unterlagen für das Stipendium fristgerecht eingereicht?\" (dibaca: Haben si: alle unterlagen für das stipendium fristgerekht ayngeraykht?) berarti \"Apakah Anda telah mengumpulkan seluruh berkas beasiswa tepat waktu?\". Kalimat ini menggunakan pola \"Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?\" (W-Fragen und Ja/Nein-Fragen (Inversion)) yang berfungsi untuk membentuk pertanyaan terbuka dengan kata tanya (wer, was, wo, warum) dan pertanyaan ya/tidak diawali kata kerja."
       },
       {
         "id": "q-de-gram-7-pg-3",
@@ -2939,7 +2960,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu sudah mendapatkan jadwal kuliah barumu untuk semester musim dingin?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Wo befindet sich das zentrale Prüfungsamt der Fakultät?\" berarti \"Di manakah letak kantor pusat administrasi ujian fakultas?\"."
+        "explanation": "Kalimat \"Wo befindet sich das zentrale Prüfungsamt der Fakultät?\" (dibaca: Wo befindet sikh das tsentrale prüfungsamt der fakultät?) berarti \"Di manakah letak kantor pusat administrasi ujian fakultas?\". Kalimat ini menggunakan pola \"Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?\" (W-Fragen und Ja/Nein-Fragen (Inversion)) yang berfungsi untuk membentuk pertanyaan terbuka dengan kata tanya (wer, was, wo, warum) dan pertanyaan ya/tidak diawali kata kerja."
       },
       {
         "id": "q-de-gram-7-pg-4",
@@ -2959,7 +2980,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-7-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"W-Fragen und Ja/Nein-Fragen (Inversion)\"?",
         "options": [
           "Darf ich eine kurze Frage zur Prüfungsordnung stellen? — Bolehkah saya mengajukan pertanyaan singkat mengenai peraturan ujian?",
           "Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden. — Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor.",
@@ -2973,7 +2994,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-7-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"W-Fragen und Ja/Nein-Fragen (Inversion)\"?",
         "options": [
           "Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben. — Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat.",
           "Wir möchten uns für das internationale Austauschprogramm bewerben. — Kami ingin melamar untuk program pertukaran internasional tersebut.",
@@ -2987,7 +3008,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-7-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"W-Fragen und Ja/Nein-Fragen (Inversion)\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -3234,7 +3255,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Warum studieren Sie Germanistik an dieser renommierten Universität?\" berarti \"Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?\"."
+        "explanation": "Kalimat \"Warum studieren Sie Germanistik an dieser renommierten Universität?\" (dibaca: Warum studi:ren si: germanistik an di:ser renommi:rten universität?) berarti \"Mengapa Anda berkuliah Sastra Jerman di universitas ternama ini?\". Kalimat ini menggunakan pola \"Fragewort + Verb + Subjekt? vs Verb (Pos. 1) + Subjekt?\" (W-Fragen und Ja/Nein-Fragen (Inversion)) yang berfungsi untuk membentuk pertanyaan terbuka dengan kata tanya (wer, was, wo, warum) dan pertanyaan ya/tidak diawali kata kerja."
       },
       {
         "id": "q-de-gram-7-bb-2",
@@ -3309,24 +3330,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Enam kata kerja modalitas bahasa Jerman yang membentuk bingkai kalimat (Satzklammer) dengan infinitif di akhir.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten\" (Modalverben im Präsens und der Infinitiv am Satzende (Satzklammer)) berfungsi untuk: enam kata kerja modalitas bahasa Jerman yang membentuk bingkai kalimat (Satzklammer) dengan infinitif di akhir. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben. — Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat."
+          "Rumus utama: Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)",
+          "Contoh 1: Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben. (Di: studi:renden müssen ihre seminararbayten bis fraytag abgeben.) — Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja utama dalam bentuk infinitif wajib diletakkan di bagian paling akhir kalimat.",
         "ruleList": [
-          "Darf ich eine kurze Frage zur Prüfungsordnung stellen? — Bolehkah saya mengajukan pertanyaan singkat mengenai peraturan ujian?"
+          "Polanya: Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)",
+          "Contoh 2: Darf ich eine kurze Frage zur Prüfungsordnung stellen? (Darf ikh ayne kurtse frage tsur prüfungsordnung stellen?) — Bolehkah saya mengajukan pertanyaan singkat mengenai peraturan ujian?"
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir möchten uns für das internationale Austauschprogramm bewerben. — Kami ingin melamar untuk program pertukaran internasional tersebut."
+          "Contoh 3: Wir möchten uns für das internationale Austauschprogramm bewerben. (Wir mökhten uns für das internationale austausyprogramm bewerben.) — Kami ingin melamar untuk program pertukaran internasional tersebut.",
+          "Hindari kesalahan: \"wir müssen abgeben die Arbeit\" → gunakan bentuk yang benar: \"wir müssen die Arbeit abgeben\"."
         ]
       }
     ],
@@ -3334,19 +3358,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-8-ex-1",
         "native": "Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben.",
-        "phonetic": "",
+        "phonetic": "Di: studi:renden müssen ihre seminararbayten bis fraytag abgeben.",
         "translationId": "Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat."
       },
       {
         "id": "de-gram-8-ex-2",
         "native": "Darf ich eine kurze Frage zur Prüfungsordnung stellen?",
-        "phonetic": "",
+        "phonetic": "Darf ikh ayne kurtse frage tsur prüfungsordnung stellen?",
         "translationId": "Bolehkah saya mengajukan pertanyaan singkat mengenai peraturan ujian?"
       },
       {
         "id": "de-gram-8-ex-3",
         "native": "Wir möchten uns für das internationale Austauschprogramm bewerben.",
-        "phonetic": "",
+        "phonetic": "Wir mökhten uns für das internationale austausyprogramm bewerben.",
         "translationId": "Kami ingin melamar untuk program pertukaran internasional tersebut."
       }
     ],
@@ -3362,7 +3386,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten\" (Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-8-pg-1",
@@ -3378,7 +3402,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben.\" berarti \"Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat.\"."
+        "explanation": "Kalimat \"Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben.\" (dibaca: Di: studi:renden müssen ihre seminararbayten bis fraytag abgeben.) berarti \"Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat.\". Kalimat ini menggunakan pola \"Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)\" (Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten) yang berfungsi untuk enam kata kerja modalitas bahasa Jerman yang membentuk bingkai kalimat (Satzklammer) dengan infinitif di akhir."
       },
       {
         "id": "q-de-gram-8-pg-2",
@@ -3394,7 +3418,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Darf ich eine kurze Frage zur Prüfungsordnung stellen?\" berarti \"Bolehkah saya mengajukan pertanyaan singkat mengenai peraturan ujian?\"."
+        "explanation": "Kalimat \"Darf ich eine kurze Frage zur Prüfungsordnung stellen?\" (dibaca: Darf ikh ayne kurtse frage tsur prüfungsordnung stellen?) berarti \"Bolehkah saya mengajukan pertanyaan singkat mengenai peraturan ujian?\". Kalimat ini menggunakan pola \"Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)\" (Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten) yang berfungsi untuk enam kata kerja modalitas bahasa Jerman yang membentuk bingkai kalimat (Satzklammer) dengan infinitif di akhir."
       },
       {
         "id": "q-de-gram-8-pg-3",
@@ -3410,7 +3434,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen itu memulai seminar tepat waktu pada pukul sepuluh."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wir möchten uns für das internationale Austauschprogramm bewerben.\" berarti \"Kami ingin melamar untuk program pertukaran internasional tersebut.\"."
+        "explanation": "Kalimat \"Wir möchten uns für das internationale Austauschprogramm bewerben.\" (dibaca: Wir mökhten uns für das internationale austausyprogramm bewerben.) berarti \"Kami ingin melamar untuk program pertukaran internasional tersebut.\". Kalimat ini menggunakan pola \"Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)\" (Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten) yang berfungsi untuk enam kata kerja modalitas bahasa Jerman yang membentuk bingkai kalimat (Satzklammer) dengan infinitif di akhir."
       },
       {
         "id": "q-de-gram-8-pg-4",
@@ -3430,7 +3454,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-8-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten\"?",
         "options": [
           "Der Professor schätzt seine engagierten Studierenden sehr. — Sang profesor sangat menghargai para mahasiswanya yang berdedikasi.",
           "Die Studierenden bereiten das wissenschaftliche Referat gründlich vor. — Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam.",
@@ -3444,7 +3468,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-8-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten\"?",
         "options": [
           "Wir möchten uns für das internationale Austauschprogramm bewerben. — Kami ingin melamar untuk program pertukaran internasional tersebut.",
           "Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden. — Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor.",
@@ -3458,7 +3482,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-8-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -3705,7 +3729,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben.\" berarti \"Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat.\"."
+        "explanation": "Kalimat \"Die Studierenden müssen ihre Seminararbeiten bis Freitag abgeben.\" (dibaca: Di: studi:renden müssen ihre seminararbayten bis fraytag abgeben.) berarti \"Para mahasiswa harus mengumpulkan makalah seminar mereka paling lambat hari Jumat.\". Kalimat ini menggunakan pola \"Subjekt + Modalverb (Pos. 2) + Satzklammer + Infinitiv (Ende)\" (Die Modalverben: Können, Müssen, Wollen, Dürfen, Sollen, Möchten) yang berfungsi untuk enam kata kerja modalitas bahasa Jerman yang membentuk bingkai kalimat (Satzklammer) dengan infinitif di akhir."
       },
       {
         "id": "q-de-gram-8-bb-2",
@@ -3780,24 +3804,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata sandang kepemilikan bahasa Jerman yang mengikuti pola deklinasi artikel indefinit ein.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)\" (Die Deklination der Possessivartikel im Nominativ und Akkusativ) berfungsi untuk: kata sandang kepemilikan bahasa Jerman yang mengikuti pola deklinasi artikel indefinit ein. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden. — Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor."
+          "Rumus utama: Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)",
+          "Contoh 1: Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden. (Unsere universität bi:tet hervorragende forsyungsbedingungen für doktoranden.) — Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata benda Institut bergender netral (das Institut), sehingga menggunakan 'unser Institut'.",
         "ruleList": [
-          "Der Professor schätzt seine engagierten Studierenden sehr. — Sang profesor sangat menghargai para mahasiswanya yang berdedikasi."
+          "Polanya: Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)",
+          "Contoh 2: Der Professor schätzt seine engagierten Studierenden sehr. (Der professor syättst sayne engagi:rten studi:renden sehr.) — Sang profesor sangat menghargai para mahasiswanya yang berdedikasi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Hast du deinen neuen Stundenplan für das Wintersemester schon bekommen? — Apakah kamu sudah mendapatkan jadwal kuliah barumu untuk semester musim dingin?"
+          "Contoh 3: Hast du deinen neuen Stundenplan für das Wintersemester schon bekommen? (Hast du daynen noyen stundenplan für das wintersemester syon bekommen?) — Apakah kamu sudah mendapatkan jadwal kuliah barumu untuk semester musim dingin?",
+          "Hindari kesalahan: \"unsere Institut\" → gunakan bentuk yang benar: \"unser Institut\"."
         ]
       }
     ],
@@ -3805,19 +3832,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-9-ex-1",
         "native": "Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden.",
-        "phonetic": "",
+        "phonetic": "Unsere universität bi:tet hervorragende forsyungsbedingungen für doktoranden.",
         "translationId": "Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor."
       },
       {
         "id": "de-gram-9-ex-2",
         "native": "Der Professor schätzt seine engagierten Studierenden sehr.",
-        "phonetic": "",
+        "phonetic": "Der professor syättst sayne engagi:rten studi:renden sehr.",
         "translationId": "Sang profesor sangat menghargai para mahasiswanya yang berdedikasi."
       },
       {
         "id": "de-gram-9-ex-3",
         "native": "Hast du deinen neuen Stundenplan für das Wintersemester schon bekommen?",
-        "phonetic": "",
+        "phonetic": "Hast du daynen noyen stundenplan für das wintersemester syon bekommen?",
         "translationId": "Apakah kamu sudah mendapatkan jadwal kuliah barumu untuk semester musim dingin?"
       }
     ],
@@ -3833,7 +3860,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)\" (Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-9-pg-1",
@@ -3849,7 +3876,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Silakan buka buku tersebut pada halaman 45!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden.\" berarti \"Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor.\"."
+        "explanation": "Kalimat \"Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden.\" (dibaca: Unsere universität bi:tet hervorragende forsyungsbedingungen für doktoranden.) berarti \"Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor.\". Kalimat ini menggunakan pola \"Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)\" (Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)) yang berfungsi untuk kata sandang kepemilikan bahasa Jerman yang mengikuti pola deklinasi artikel indefinit ein."
       },
       {
         "id": "q-de-gram-9-pg-2",
@@ -3865,7 +3892,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah mahasiswa di Universitas Ludwig-Maximilian München."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der Professor schätzt seine engagierten Studierenden sehr.\" berarti \"Sang profesor sangat menghargai para mahasiswanya yang berdedikasi.\"."
+        "explanation": "Kalimat \"Der Professor schätzt seine engagierten Studierenden sehr.\" (dibaca: Der professor syättst sayne engagi:rten studi:renden sehr.) berarti \"Sang profesor sangat menghargai para mahasiswanya yang berdedikasi.\". Kalimat ini menggunakan pola \"Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)\" (Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)) yang berfungsi untuk kata sandang kepemilikan bahasa Jerman yang mengikuti pola deklinasi artikel indefinit ein."
       },
       {
         "id": "q-de-gram-9-pg-3",
@@ -3881,7 +3908,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dia sangat termotivasi dan rajin belajar bahasa Jerman."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Hast du deinen neuen Stundenplan für das Wintersemester schon bekommen?\" berarti \"Apakah kamu sudah mendapatkan jadwal kuliah barumu untuk semester musim dingin?\"."
+        "explanation": "Kalimat \"Hast du deinen neuen Stundenplan für das Wintersemester schon bekommen?\" (dibaca: Hast du daynen noyen stundenplan für das wintersemester syon bekommen?) berarti \"Apakah kamu sudah mendapatkan jadwal kuliah barumu untuk semester musim dingin?\". Kalimat ini menggunakan pola \"Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)\" (Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)) yang berfungsi untuk kata sandang kepemilikan bahasa Jerman yang mengikuti pola deklinasi artikel indefinit ein."
       },
       {
         "id": "q-de-gram-9-pg-4",
@@ -3901,7 +3928,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-9-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)\"?",
         "options": [
           "Der Professor schätzt seine engagierten Studierenden sehr. — Sang profesor sangat menghargai para mahasiswanya yang berdedikasi.",
           "Bitte schlagen Sie das Buch auf Seite 45 auf! — Silakan buka buku tersebut pada halaman 45!",
@@ -3915,7 +3942,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-9-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)\"?",
         "options": [
           "Die Studierenden bereiten das wissenschaftliche Referat gründlich vor. — Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam.",
           "Hast du deinen neuen Stundenplan für das Wintersemester schon bekommen? — Apakah kamu sudah mendapatkan jadwal kuliah barumu untuk semester musim dingin?",
@@ -3929,7 +3956,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-9-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4176,7 +4203,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden.\" berarti \"Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor.\"."
+        "explanation": "Kalimat \"Unsere Universität bietet hervorragende Forschungsbedingungen für Doktoranden.\" (dibaca: Unsere universität bi:tet hervorragende forsyungsbedingungen für doktoranden.) berarti \"Universitas kami menawarkan kondisi penelitian yang sangat unggul bagi para kandidat doktor.\". Kalimat ini menggunakan pola \"Mein / Dein / Sein / Ihr / Unser / Euer / Ihr / Sie (Endungen wie ein)\" (Possessivartikel (Mein, Dein, Sein, Ihr, Unser, Euer)) yang berfungsi untuk kata sandang kepemilikan bahasa Jerman yang mengikuti pola deklinasi artikel indefinit ein."
       },
       {
         "id": "q-de-gram-9-bb-2",
@@ -4251,24 +4278,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata kerja dengan awalan terpisah yang berpindah ke paling ujung kalimat pada kalimat utama waktu kini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Trennbare und Untrennbare Verben im Präsens' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Trennbare und Untrennbare Verben im Präsens\" (Trennbare Verben mit trennbaren Präfixen (ab-, an-, auf-, aus-, mit-, vor-)) berfungsi untuk: kata kerja dengan awalan terpisah yang berpindah ke paling ujung kalimat pada kalimat utama waktu kini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Studierenden bereiten das wissenschaftliche Referat gründlich vor. — Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam."
+          "Rumus utama: Präfix wandert ans Satzende (Ich bereite den Vortrag vor)",
+          "Contoh 1: Die Studierenden bereiten das wissenschaftliche Referat gründlich vor. (Di: studi:renden berayten das wissensyaftlikhe referat gründlikh vor.) — Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Präfix wandert ans Satzende (Ich bereite den Vortrag vor) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Präfix wandert ans Satzende (Ich bereite den Vortrag vor)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pada kata kerja terpisah (trennbares Verb), awalan prefiks berpindah ke ujung akhir kalimat utama.",
         "ruleList": [
-          "Bitte schlagen Sie das Buch auf Seite 45 auf! — Silakan buka buku tersebut pada halaman 45!"
+          "Polanya: Präfix wandert ans Satzende (Ich bereite den Vortrag vor)",
+          "Contoh 2: Bitte schlagen Sie das Buch auf Seite 45 auf! (Bitte sylagen si: das bukh auf sayte 45 auf!) — Silakan buka buku tersebut pada halaman 45!"
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Trennbare und Untrennbare Verben im Präsens\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Der Dozent fängt pünktlich um zehn Uhr mit dem Seminar an. — Dosen itu memulai seminar tepat waktu pada pukul sepuluh."
+          "Contoh 3: Der Dozent fängt pünktlich um zehn Uhr mit dem Seminar an. (Der dotsent fängt pünktlikh um tsehn uhr mit dem seminar an.) — Dosen itu memulai seminar tepat waktu pada pukul sepuluh.",
+          "Hindari kesalahan: \"er vorbereitet das Referat\" → gunakan bentuk yang benar: \"er bereitet das Referat vor\"."
         ]
       }
     ],
@@ -4276,19 +4306,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-10-ex-1",
         "native": "Die Studierenden bereiten das wissenschaftliche Referat gründlich vor.",
-        "phonetic": "",
+        "phonetic": "Di: studi:renden berayten das wissensyaftlikhe referat gründlikh vor.",
         "translationId": "Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam."
       },
       {
         "id": "de-gram-10-ex-2",
         "native": "Bitte schlagen Sie das Buch auf Seite 45 auf!",
-        "phonetic": "",
+        "phonetic": "Bitte sylagen si: das bukh auf sayte 45 auf!",
         "translationId": "Silakan buka buku tersebut pada halaman 45!"
       },
       {
         "id": "de-gram-10-ex-3",
         "native": "Der Dozent fängt pünktlich um zehn Uhr mit dem Seminar an.",
-        "phonetic": "",
+        "phonetic": "Der dotsent fängt pünktlikh um tsehn uhr mit dem seminar an.",
         "translationId": "Dosen itu memulai seminar tepat waktu pada pukul sepuluh."
       }
     ],
@@ -4304,7 +4334,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Trennbare und Untrennbare Verben im Präsens' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Trennbare und Untrennbare Verben im Präsens\" (Präfix wandert ans Satzende (Ich bereite den Vortrag vor)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-10-pg-1",
@@ -4320,7 +4350,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami memiliki kuliah penting hari ini di ruang auditorium besar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Studierenden bereiten das wissenschaftliche Referat gründlich vor.\" berarti \"Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam.\"."
+        "explanation": "Kalimat \"Die Studierenden bereiten das wissenschaftliche Referat gründlich vor.\" (dibaca: Di: studi:renden berayten das wissensyaftlikhe referat gründlikh vor.) berarti \"Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam.\". Kalimat ini menggunakan pola \"Präfix wandert ans Satzende (Ich bereite den Vortrag vor)\" (Trennbare und Untrennbare Verben im Präsens) yang berfungsi untuk kata kerja dengan awalan terpisah yang berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-de-gram-10-pg-2",
@@ -4336,7 +4366,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu berbicara tiga bahasa Eropa dengan lancar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Bitte schlagen Sie das Buch auf Seite 45 auf!\" berarti \"Silakan buka buku tersebut pada halaman 45!\"."
+        "explanation": "Kalimat \"Bitte schlagen Sie das Buch auf Seite 45 auf!\" (dibaca: Bitte sylagen si: das bukh auf sayte 45 auf!) berarti \"Silakan buka buku tersebut pada halaman 45!\". Kalimat ini menggunakan pola \"Präfix wandert ans Satzende (Ich bereite den Vortrag vor)\" (Trennbare und Untrennbare Verben im Präsens) yang berfungsi untuk kata kerja dengan awalan terpisah yang berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-de-gram-10-pg-3",
@@ -4352,7 +4382,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen itu memulai seminar tepat waktu pada pukul sepuluh."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der Dozent fängt pünktlich um zehn Uhr mit dem Seminar an.\" berarti \"Dosen itu memulai seminar tepat waktu pada pukul sepuluh.\"."
+        "explanation": "Kalimat \"Der Dozent fängt pünktlich um zehn Uhr mit dem Seminar an.\" (dibaca: Der dotsent fängt pünktlikh um tsehn uhr mit dem seminar an.) berarti \"Dosen itu memulai seminar tepat waktu pada pukul sepuluh.\". Kalimat ini menggunakan pola \"Präfix wandert ans Satzende (Ich bereite den Vortrag vor)\" (Trennbare und Untrennbare Verben im Präsens) yang berfungsi untuk kata kerja dengan awalan terpisah yang berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-de-gram-10-pg-4",
@@ -4372,7 +4402,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-10-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Trennbare und Untrennbare Verben im Präsens\"?",
         "options": [
           "Wir haben heute eine wichtige Vorlesung im großen Hörsaal. — Kami memiliki kuliah penting hari ini di ruang auditorium besar.",
           "Bitte schlagen Sie das Buch auf Seite 45 auf! — Silakan buka buku tersebut pada halaman 45!",
@@ -4386,7 +4416,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-10-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Trennbare und Untrennbare Verben im Präsens\"?",
         "options": [
           "Ich bin Student an der Ludwig-Maximilians-Universität München. — Saya adalah mahasiswa di Universitas Ludwig-Maximilian München.",
           "Er ist sehr motiviert und lernt fleißig Deutsch. — Dia sangat termotivasi dan rajin belajar bahasa Jerman.",
@@ -4400,7 +4430,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-10-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Trennbare und Untrennbare Verben im Präsens\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4647,7 +4677,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Studierenden bereiten das wissenschaftliche Referat gründlich vor.\" berarti \"Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam.\"."
+        "explanation": "Kalimat \"Die Studierenden bereiten das wissenschaftliche Referat gründlich vor.\" (dibaca: Di: studi:renden berayten das wissensyaftlikhe referat gründlikh vor.) berarti \"Para mahasiswa mempersiapkan presentasi makalah ilmiah tersebut secara mendalam.\". Kalimat ini menggunakan pola \"Präfix wandert ans Satzende (Ich bereite den Vortrag vor)\" (Trennbare und Untrennbare Verben im Präsens) yang berfungsi untuk kata kerja dengan awalan terpisah yang berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-de-gram-10-bb-2",
@@ -4722,24 +4752,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kasus datif untuk objek penyerta penerima dan verba khusus datif (helfen, danken, gefallen, gehören).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Der Dativ: Artikel, Pronomen und Dativ-Verben' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Der Dativ: Artikel, Pronomen und Dativ-Verben\" (Der Dativ als Fall des indirekten Objekts (Wem?)) berfungsi untuk: kasus datif untuk objek penyerta penerima dan verba khusus datif (helfen, danken, gefallen, gehören). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Professor hilft dem neuen Studenten bei der Literaturrecherche. — Profesor membantu mahasiswa baru itu dalam penelusuran literatur."
+          "Rumus utama: Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen",
+          "Contoh 1: Der Professor hilft dem neuen Studenten bei der Literaturrecherche. (Der professor hilft dem noyen studenten bay der literaturrekherkhe.) — Profesor membantu mahasiswa baru itu dalam penelusuran literatur."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja helfen mewajibkan objek dalam kasus Dativ (dem Studenten).",
         "ruleList": [
-          "Das interessante Thema gefällt den Seminarteilnehmern außerordentlich gut. — Topik yang menarik itu sangat disukai oleh para peserta seminar."
+          "Polanya: Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen",
+          "Contoh 2: Das interessante Thema gefällt den Seminarteilnehmern außerordentlich gut. (Das interessante thema gefällt den seminartaylnehmern ausserordentlikh gut.) — Topik yang menarik itu sangat disukai oleh para peserta seminar."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Der Dativ: Artikel, Pronomen und Dativ-Verben\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir danken Ihnen herzlich für Ihre wertvolle Unterstützung. — Kami mengucapkan terima kasih yang tulus kepada Anda atas dukungan berharga Anda."
+          "Contoh 3: Wir danken Ihnen herzlich für Ihre wertvolle Unterstützung. (Wir danken ihnen hertslikh für ihre wertvolle unterstüttsung.) — Kami mengucapkan terima kasih yang tulus kepada Anda atas dukungan berharga Anda.",
+          "Hindari kesalahan: \"der Professor hilft der Student (m)\" → gunakan bentuk yang benar: \"der Professor hilft dem Studenten\"."
         ]
       }
     ],
@@ -4747,19 +4780,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-11-ex-1",
         "native": "Der Professor hilft dem neuen Studenten bei der Literaturrecherche.",
-        "phonetic": "",
+        "phonetic": "Der professor hilft dem noyen studenten bay der literaturrekherkhe.",
         "translationId": "Profesor membantu mahasiswa baru itu dalam penelusuran literatur."
       },
       {
         "id": "de-gram-11-ex-2",
         "native": "Das interessante Thema gefällt den Seminarteilnehmern außerordentlich gut.",
-        "phonetic": "",
+        "phonetic": "Das interessante thema gefällt den seminartaylnehmern ausserordentlikh gut.",
         "translationId": "Topik yang menarik itu sangat disukai oleh para peserta seminar."
       },
       {
         "id": "de-gram-11-ex-3",
         "native": "Wir danken Ihnen herzlich für Ihre wertvolle Unterstützung.",
-        "phonetic": "",
+        "phonetic": "Wir danken ihnen hertslikh für ihre wertvolle unterstüttsung.",
         "translationId": "Kami mengucapkan terima kasih yang tulus kepada Anda atas dukungan berharga Anda."
       }
     ],
@@ -4775,7 +4808,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Der Dativ: Artikel, Pronomen und Dativ-Verben' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Der Dativ: Artikel, Pronomen und Dativ-Verben\" (Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-11-pg-1",
@@ -4791,7 +4824,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Der Professor hilft dem neuen Studenten bei der Literaturrecherche.\" berarti \"Profesor membantu mahasiswa baru itu dalam penelusuran literatur.\"."
+        "explanation": "Kalimat \"Der Professor hilft dem neuen Studenten bei der Literaturrecherche.\" (dibaca: Der professor hilft dem noyen studenten bay der literaturrekherkhe.) berarti \"Profesor membantu mahasiswa baru itu dalam penelusuran literatur.\". Kalimat ini menggunakan pola \"Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen\" (Der Dativ: Artikel, Pronomen und Dativ-Verben) yang berfungsi untuk kasus datif untuk objek penyerta penerima dan verba khusus datif (helfen, danken, gefallen, gehören)."
       },
       {
         "id": "q-de-gram-11-pg-2",
@@ -4807,7 +4840,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Topik yang menarik itu sangat disukai oleh para peserta seminar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das interessante Thema gefällt den Seminarteilnehmern außerordentlich gut.\" berarti \"Topik yang menarik itu sangat disukai oleh para peserta seminar.\"."
+        "explanation": "Kalimat \"Das interessante Thema gefällt den Seminarteilnehmern außerordentlich gut.\" (dibaca: Das interessante thema gefällt den seminartaylnehmern ausserordentlikh gut.) berarti \"Topik yang menarik itu sangat disukai oleh para peserta seminar.\". Kalimat ini menggunakan pola \"Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen\" (Der Dativ: Artikel, Pronomen und Dativ-Verben) yang berfungsi untuk kasus datif untuk objek penyerta penerima dan verba khusus datif (helfen, danken, gefallen, gehören)."
       },
       {
         "id": "q-de-gram-11-pg-3",
@@ -4823,7 +4856,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Pada bulan lalu telah terjadi banyak hal baru di fakultas kami."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Wir danken Ihnen herzlich für Ihre wertvolle Unterstützung.\" berarti \"Kami mengucapkan terima kasih yang tulus kepada Anda atas dukungan berharga Anda.\"."
+        "explanation": "Kalimat \"Wir danken Ihnen herzlich für Ihre wertvolle Unterstützung.\" (dibaca: Wir danken ihnen hertslikh für ihre wertvolle unterstüttsung.) berarti \"Kami mengucapkan terima kasih yang tulus kepada Anda atas dukungan berharga Anda.\". Kalimat ini menggunakan pola \"Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen\" (Der Dativ: Artikel, Pronomen und Dativ-Verben) yang berfungsi untuk kasus datif untuk objek penyerta penerima dan verba khusus datif (helfen, danken, gefallen, gehören)."
       },
       {
         "id": "q-de-gram-11-pg-4",
@@ -4843,7 +4876,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-11-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Der Dativ: Artikel, Pronomen und Dativ-Verben\"?",
         "options": [
           "Wir haben den ganzen Vormittag in der Universitätsbibliothek gearbeitet. — Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas.",
           "Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen. — Para ilmuwan tamu telah tiba di Frankfurt kemarin malam.",
@@ -4857,7 +4890,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-11-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Der Dativ: Artikel, Pronomen und Dativ-Verben\"?",
         "options": [
           "Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden. — Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses.",
           "Die Forschergruppe hat wichtige Daten zur Klimaerwärmung gesammelt. — Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim.",
@@ -4871,7 +4904,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-11-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Der Dativ: Artikel, Pronomen und Dativ-Verben\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -5118,7 +5151,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Professor hilft dem neuen Studenten bei der Literaturrecherche.\" berarti \"Profesor membantu mahasiswa baru itu dalam penelusuran literatur.\"."
+        "explanation": "Kalimat \"Der Professor hilft dem neuen Studenten bei der Literaturrecherche.\" (dibaca: Der professor hilft dem noyen studenten bay der literaturrekherkhe.) berarti \"Profesor membantu mahasiswa baru itu dalam penelusuran literatur.\". Kalimat ini menggunakan pola \"Dem (m/n) / Der (f) / Den...-n (pl) & Mir / Dir / Ihm / Ihr / Uns / Ihnen\" (Der Dativ: Artikel, Pronomen und Dativ-Verben) yang berfungsi untuk kasus datif untuk objek penyerta penerima dan verba khusus datif (helfen, danken, gefallen, gehören)."
       },
       {
         "id": "q-de-gram-11-bb-2",
@@ -5193,24 +5226,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Sembilan preposisi dwifungsi: memakai akusatif jika ada perpindahan arah gerak (wohin), dan datif untuk lokasi tetap (wo).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)\" (Die neun Wechselpräpositionen (an, auf, hinter, in, neben, über, unter, vor, zwischen)) berfungsi untuk: sembilan preposisi dwifungsi: memakai akusatif jika ada perpindahan arah gerak (wohin), dan datif untuk lokasi tetap (wo). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Das Buch liegt auf dem Tisch (Wo? -> Dativ). — Buku itu terletak di atas meja (Di mana? -> Kasus Dativ)."
+          "Rumus utama: Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)",
+          "Contoh 1: Das Buch liegt auf dem Tisch (Wo? -> Dativ). (Das bukh li:gt auf dem tisy (wo? -> dativ).) — Buku itu terletak di atas meja (Di mana? -> Kasus Dativ)."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Karena menunjukkan gerakan perpindahan tempat (wohin), gunakan kasus Akkusativ (auf den Tisch).",
         "ruleList": [
-          "Der Student legt das Buch auf den Tisch (Wohin? -> Akkusativ). — Mahasiswa itu meletakkan buku tersebut ke atas meja (Ke mana? -> Kasus Akkusativ)."
+          "Polanya: Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)",
+          "Contoh 2: Der Student legt das Buch auf den Tisch (Wohin? -> Akkusativ). (Der student legt das bukh auf den tisy (wohin? -> akkusativ).) — Mahasiswa itu meletakkan buku tersebut ke atas meja (Ke mana? -> Kasus Akkusativ)."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir treffen uns vor dem Universitätshauptgebäude. — Kita bertemu di depan gedung utama universitas."
+          "Contoh 3: Wir treffen uns vor dem Universitätshauptgebäude. (Wir treffen uns vor dem universitätshauptgeboyde.) — Kita bertemu di depan gedung utama universitas.",
+          "Hindari kesalahan: \"ich lege das Buch auf dem Tisch\" → gunakan bentuk yang benar: \"ich lege das Buch auf den Tisch\"."
         ]
       }
     ],
@@ -5218,19 +5254,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-12-ex-1",
         "native": "Das Buch liegt auf dem Tisch (Wo? -> Dativ).",
-        "phonetic": "",
+        "phonetic": "Das bukh li:gt auf dem tisy (wo? -> dativ).",
         "translationId": "Buku itu terletak di atas meja (Di mana? -> Kasus Dativ)."
       },
       {
         "id": "de-gram-12-ex-2",
         "native": "Der Student legt das Buch auf den Tisch (Wohin? -> Akkusativ).",
-        "phonetic": "",
+        "phonetic": "Der student legt das bukh auf den tisy (wohin? -> akkusativ).",
         "translationId": "Mahasiswa itu meletakkan buku tersebut ke atas meja (Ke mana? -> Kasus Akkusativ)."
       },
       {
         "id": "de-gram-12-ex-3",
         "native": "Wir treffen uns vor dem Universitätshauptgebäude.",
-        "phonetic": "",
+        "phonetic": "Wir treffen uns vor dem universitätshauptgeboyde.",
         "translationId": "Kita bertemu di depan gedung utama universitas."
       }
     ],
@@ -5246,7 +5282,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)\" (Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-12-pg-1",
@@ -5262,7 +5298,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Buku itu terletak di atas meja (Di mana? -> Kasus Dativ)."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das Buch liegt auf dem Tisch (Wo? -> Dativ).\" berarti \"Buku itu terletak di atas meja (Di mana? -> Kasus Dativ).\"."
+        "explanation": "Kalimat \"Das Buch liegt auf dem Tisch (Wo? -> Dativ).\" (dibaca: Das bukh li:gt auf dem tisy (wo? -> dativ).) berarti \"Buku itu terletak di atas meja (Di mana? -> Kasus Dativ).\". Kalimat ini menggunakan pola \"Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)\" (Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)) yang berfungsi untuk sembilan preposisi dwifungsi: memakai akusatif jika ada perpindahan arah gerak (wohin), dan datif untuk lokasi tetap (wo)."
       },
       {
         "id": "q-de-gram-12-pg-2",
@@ -5278,7 +5314,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kemarin ruang baca perpustakaan universitas terisi penuh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Student legt das Buch auf den Tisch (Wohin? -> Akkusativ).\" berarti \"Mahasiswa itu meletakkan buku tersebut ke atas meja (Ke mana? -> Kasus Akkusativ).\"."
+        "explanation": "Kalimat \"Der Student legt das Buch auf den Tisch (Wohin? -> Akkusativ).\" (dibaca: Der student legt das bukh auf den tisy (wohin? -> akkusativ).) berarti \"Mahasiswa itu meletakkan buku tersebut ke atas meja (Ke mana? -> Kasus Akkusativ).\". Kalimat ini menggunakan pola \"Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)\" (Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)) yang berfungsi untuk sembilan preposisi dwifungsi: memakai akusatif jika ada perpindahan arah gerak (wohin), dan datif untuk lokasi tetap (wo)."
       },
       {
         "id": "q-de-gram-12-pg-3",
@@ -5294,7 +5330,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu sudah pernah menghadiri upacara promosi doktor akademik?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wir treffen uns vor dem Universitätshauptgebäude.\" berarti \"Kita bertemu di depan gedung utama universitas.\"."
+        "explanation": "Kalimat \"Wir treffen uns vor dem Universitätshauptgebäude.\" (dibaca: Wir treffen uns vor dem universitätshauptgeboyde.) berarti \"Kita bertemu di depan gedung utama universitas.\". Kalimat ini menggunakan pola \"Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)\" (Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)) yang berfungsi untuk sembilan preposisi dwifungsi: memakai akusatif jika ada perpindahan arah gerak (wohin), dan datif untuk lokasi tetap (wo)."
       },
       {
         "id": "q-de-gram-12-pg-4",
@@ -5314,7 +5350,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-12-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)\"?",
         "options": [
           "Wann bist du zum ersten Mal nach Heidelberg gefahren? — Kapan kamu pertama kali pergi ke kota Heidelberg?",
           "Gestern war der Lesesaal der Universitätsbibliothek voll besetzt. — Kemarin ruang baca perpustakaan universitas terisi penuh.",
@@ -5328,7 +5364,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-12-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)\"?",
         "options": [
           "Wir treffen uns vor dem Universitätshauptgebäude. — Kita bertemu di depan gedung utama universitas.",
           "Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen. — Para ilmuwan tamu telah tiba di Frankfurt kemarin malam.",
@@ -5342,7 +5378,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-12-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -5593,7 +5629,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para ilmuwan tamu telah tiba di Frankfurt kemarin malam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Das Buch liegt auf dem Tisch (Wo? -> Dativ).\" berarti \"Buku itu terletak di atas meja (Di mana? -> Kasus Dativ).\"."
+        "explanation": "Kalimat \"Das Buch liegt auf dem Tisch (Wo? -> Dativ).\" (dibaca: Das bukh li:gt auf dem tisy (wo? -> dativ).) berarti \"Buku itu terletak di atas meja (Di mana? -> Kasus Dativ).\". Kalimat ini menggunakan pola \"Akkusativ (Richtung/Bewegung: Wohin?) vs Dativ (Ort/Stillstand: Wo?)\" (Wechselpräpositionen (Akkusativ Wohin? vs Dativ Wo?)) yang berfungsi untuk sembilan preposisi dwifungsi: memakai akusatif jika ada perpindahan arah gerak (wohin), dan datif untuk lokasi tetap (wo)."
       },
       {
         "id": "q-de-gram-12-bb-2",
@@ -5668,24 +5704,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Bentuk waktu lampau percakapan sehari-hari dan penulisan standar untuk verba transitif dan statis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)\" (Die Bildung des Perfekts mit haben und ge- ... -t / -en) berfungsi untuk: bentuk waktu lampau percakapan sehari-hari dan penulisan standar untuk verba transitif dan statis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden. — Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses."
+          "Rumus utama: Haben (Präsens) + Satzklammer + Partizip II (Satzende)",
+          "Contoh 1: Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden. (Der student hat di: ansprukhsvolle prüfung erfolgraykh bestanden.) — Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Haben (Präsens) + Satzklammer + Partizip II (Satzende) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Haben (Präsens) + Satzklammer + Partizip II (Satzende)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk Partizip II (bestanden) diletakkan di bagian paling akhir kalimat Perfekt.",
         "ruleList": [
-          "Wir haben den ganzen Vormittag in der Universitätsbibliothek gearbeitet. — Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas."
+          "Polanya: Haben (Präsens) + Satzklammer + Partizip II (Satzende)",
+          "Contoh 2: Wir haben den ganzen Vormittag in der Universitätsbibliothek gearbeitet. (Wir haben den gantsen vormittag in der universitätsbibliothek gearbaytet.) — Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die Forschergruppe hat wichtige Daten zur Klimaerwärmung gesammelt. — Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim."
+          "Contoh 3: Die Forschergruppe hat wichtige Daten zur Klimaerwärmung gesammelt. (Di: forsyergruppe hat wikhtige daten tsur klimaerwärmung gesammelt.) — Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim.",
+          "Hindari kesalahan: \"er hat die Prüfung bestehen\" → gunakan bentuk yang benar: \"er hat die Prüfung bestanden\"."
         ]
       }
     ],
@@ -5693,19 +5732,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-13-ex-1",
         "native": "Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden.",
-        "phonetic": "",
+        "phonetic": "Der student hat di: ansprukhsvolle prüfung erfolgraykh bestanden.",
         "translationId": "Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses."
       },
       {
         "id": "de-gram-13-ex-2",
         "native": "Wir haben den ganzen Vormittag in der Universitätsbibliothek gearbeitet.",
-        "phonetic": "",
+        "phonetic": "Wir haben den gantsen vormittag in der universitätsbibliothek gearbaytet.",
         "translationId": "Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas."
       },
       {
         "id": "de-gram-13-ex-3",
         "native": "Die Forschergruppe hat wichtige Daten zur Klimaerwärmung gesammelt.",
-        "phonetic": "",
+        "phonetic": "Di: forsyergruppe hat wikhtige daten tsur klimaerwärmung gesammelt.",
         "translationId": "Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim."
       }
     ],
@@ -5721,7 +5760,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)\" (Haben (Präsens) + Satzklammer + Partizip II (Satzende)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-13-pg-1",
@@ -5737,7 +5776,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden.\" berarti \"Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses.\"."
+        "explanation": "Kalimat \"Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden.\" (dibaca: Der student hat di: ansprukhsvolle prüfung erfolgraykh bestanden.) berarti \"Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses.\". Kalimat ini menggunakan pola \"Haben (Präsens) + Satzklammer + Partizip II (Satzende)\" (Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)) yang berfungsi untuk bentuk waktu lampau percakapan sehari-hari dan penulisan standar untuk verba transitif dan statis."
       },
       {
         "id": "q-de-gram-13-pg-2",
@@ -5753,7 +5792,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wir haben den ganzen Vormittag in der Universitätsbibliothek gearbeitet.\" berarti \"Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas.\"."
+        "explanation": "Kalimat \"Wir haben den ganzen Vormittag in der Universitätsbibliothek gearbeitet.\" (dibaca: Wir haben den gantsen vormittag in der universitätsbibliothek gearbaytet.) berarti \"Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas.\". Kalimat ini menggunakan pola \"Haben (Präsens) + Satzklammer + Partizip II (Satzende)\" (Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)) yang berfungsi untuk bentuk waktu lampau percakapan sehari-hari dan penulisan standar untuk verba transitif dan statis."
       },
       {
         "id": "q-de-gram-13-pg-3",
@@ -5769,7 +5808,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Forschergruppe hat wichtige Daten zur Klimaerwärmung gesammelt.\" berarti \"Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim.\"."
+        "explanation": "Kalimat \"Die Forschergruppe hat wichtige Daten zur Klimaerwärmung gesammelt.\" (dibaca: Di: forsyergruppe hat wikhtige daten tsur klimaerwärmung gesammelt.) berarti \"Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim.\". Kalimat ini menggunakan pola \"Haben (Präsens) + Satzklammer + Partizip II (Satzende)\" (Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)) yang berfungsi untuk bentuk waktu lampau percakapan sehari-hari dan penulisan standar untuk verba transitif dan statis."
       },
       {
         "id": "q-de-gram-13-pg-4",
@@ -5789,7 +5828,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-13-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)\"?",
         "options": [
           "Wir haben den ganzen Vormittag in der Universitätsbibliothek gearbeitet. — Kami telah bekerja sepanjang pagi menjelang siang di perpustakaan universitas.",
           "Wir hatten während des gesamten Semesters hervorragende Dozenten. — Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut.",
@@ -5803,7 +5842,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-13-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)\"?",
         "options": [
           "Gestern war der Lesesaal der Universitätsbibliothek voll besetzt. — Kemarin ruang baca perpustakaan universitas terisi penuh.",
           "Die Forschergruppe hat wichtige Daten zur Klimaerwärmung gesammelt. — Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim.",
@@ -5817,7 +5856,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-13-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6064,7 +6103,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kemarin ruang baca perpustakaan universitas terisi penuh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden.\" berarti \"Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses.\"."
+        "explanation": "Kalimat \"Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden.\" (dibaca: Der student hat di: ansprukhsvolle prüfung erfolgraykh bestanden.) berarti \"Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses.\". Kalimat ini menggunakan pola \"Haben (Präsens) + Satzklammer + Partizip II (Satzende)\" (Das Perfekt mit Haben (Reguläre & Irreguläre Partizip II)) yang berfungsi untuk bentuk waktu lampau percakapan sehari-hari dan penulisan standar untuk verba transitif dan statis."
       },
       {
         "id": "q-de-gram-13-bb-2",
@@ -6139,24 +6178,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pemilihan kata kerja bantu sein pada perfektum untuk verba pergerakan arah, perubahan wujud, dan sein/bleiben.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Das Perfekt mit Sein (Bewegung und Zustandsänderung)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Das Perfekt mit Sein (Bewegung und Zustandsänderung)\" (Die Wahl des Hilfsverbs 'sein' im Perfekt) berfungsi untuk: pemilihan kata kerja bantu sein pada perfektum untuk verba pergerakan arah, perubahan wujud, dan sein/bleiben. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen. — Para ilmuwan tamu telah tiba di Frankfurt kemarin malam."
+          "Rumus utama: Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II",
+          "Contoh 1: Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen. (Di: gastwissensyaftler sind gestern abend in frankfurt angekommen.) — Para ilmuwan tamu telah tiba di Frankfurt kemarin malam."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja perpindahan tempat seperti ankommen membentuk Perfekt dengan kata kerja bantu 'sein'.",
         "ruleList": [
-          "Wann bist du zum ersten Mal nach Heidelberg gefahren? — Kapan kamu pertama kali pergi ke kota Heidelberg?"
+          "Polanya: Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II",
+          "Contoh 2: Wann bist du zum ersten Mal nach Heidelberg gefahren? (Wann bist du tsum ersten mal nakh haydelberg gefahren?) — Kapan kamu pertama kali pergi ke kota Heidelberg?"
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Das Perfekt mit Sein (Bewegung und Zustandsänderung)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Im letzten Monat ist an unserer Fakultät viel Neues geschehen. — Pada bulan lalu telah terjadi banyak hal baru di fakultas kami."
+          "Contoh 3: Im letzten Monat ist an unserer Fakultät viel Neues geschehen. (Im lettsten monat ist an unserer fakultät vi:l noyes gesyehen.) — Pada bulan lalu telah terjadi banyak hal baru di fakultas kami.",
+          "Hindari kesalahan: \"er hat angekommen\" → gunakan bentuk yang benar: \"er ist angekommen\"."
         ]
       }
     ],
@@ -6164,19 +6206,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-14-ex-1",
         "native": "Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen.",
-        "phonetic": "",
+        "phonetic": "Di: gastwissensyaftler sind gestern abend in frankfurt angekommen.",
         "translationId": "Para ilmuwan tamu telah tiba di Frankfurt kemarin malam."
       },
       {
         "id": "de-gram-14-ex-2",
         "native": "Wann bist du zum ersten Mal nach Heidelberg gefahren?",
-        "phonetic": "",
+        "phonetic": "Wann bist du tsum ersten mal nakh haydelberg gefahren?",
         "translationId": "Kapan kamu pertama kali pergi ke kota Heidelberg?"
       },
       {
         "id": "de-gram-14-ex-3",
         "native": "Im letzten Monat ist an unserer Fakultät viel Neues geschehen.",
-        "phonetic": "",
+        "phonetic": "Im lettsten monat ist an unserer fakultät vi:l noyes gesyehen.",
         "translationId": "Pada bulan lalu telah terjadi banyak hal baru di fakultas kami."
       }
     ],
@@ -6192,7 +6234,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Das Perfekt mit Sein (Bewegung und Zustandsänderung)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Das Perfekt mit Sein (Bewegung und Zustandsänderung)\" (Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-14-pg-1",
@@ -6208,7 +6250,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor mengonfirmasi bahwa perkuliahan berlangsung sesuai jadwal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen.\" berarti \"Para ilmuwan tamu telah tiba di Frankfurt kemarin malam.\"."
+        "explanation": "Kalimat \"Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen.\" (dibaca: Di: gastwissensyaftler sind gestern abend in frankfurt angekommen.) berarti \"Para ilmuwan tamu telah tiba di Frankfurt kemarin malam.\". Kalimat ini menggunakan pola \"Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II\" (Das Perfekt mit Sein (Bewegung und Zustandsänderung)) yang berfungsi untuk pemilihan kata kerja bantu sein pada perfektum untuk verba pergerakan arah, perubahan wujud, dan sein/bleiben."
       },
       {
         "id": "q-de-gram-14-pg-2",
@@ -6224,7 +6266,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wann bist du zum ersten Mal nach Heidelberg gefahren?\" berarti \"Kapan kamu pertama kali pergi ke kota Heidelberg?\"."
+        "explanation": "Kalimat \"Wann bist du zum ersten Mal nach Heidelberg gefahren?\" (dibaca: Wann bist du tsum ersten mal nakh haydelberg gefahren?) berarti \"Kapan kamu pertama kali pergi ke kota Heidelberg?\". Kalimat ini menggunakan pola \"Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II\" (Das Perfekt mit Sein (Bewegung und Zustandsänderung)) yang berfungsi untuk pemilihan kata kerja bantu sein pada perfektum untuk verba pergerakan arah, perubahan wujud, dan sein/bleiben."
       },
       {
         "id": "q-de-gram-14-pg-3",
@@ -6240,7 +6282,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Pada bulan lalu telah terjadi banyak hal baru di fakultas kami."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Im letzten Monat ist an unserer Fakultät viel Neues geschehen.\" berarti \"Pada bulan lalu telah terjadi banyak hal baru di fakultas kami.\"."
+        "explanation": "Kalimat \"Im letzten Monat ist an unserer Fakultät viel Neues geschehen.\" (dibaca: Im lettsten monat ist an unserer fakultät vi:l noyes gesyehen.) berarti \"Pada bulan lalu telah terjadi banyak hal baru di fakultas kami.\". Kalimat ini menggunakan pola \"Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II\" (Das Perfekt mit Sein (Bewegung und Zustandsänderung)) yang berfungsi untuk pemilihan kata kerja bantu sein pada perfektum untuk verba pergerakan arah, perubahan wujud, dan sein/bleiben."
       },
       {
         "id": "q-de-gram-14-pg-4",
@@ -6260,7 +6302,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-14-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Perfekt mit Sein (Bewegung und Zustandsänderung)\"?",
         "options": [
           "Der Professor bestätigte, dass die Vorlesung planmäßig stattfindet. — Profesor mengonfirmasi bahwa perkuliahan berlangsung sesuai jadwal.",
           "Wann bist du zum ersten Mal nach Heidelberg gefahren? — Kapan kamu pertama kali pergi ke kota Heidelberg?",
@@ -6274,7 +6316,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-14-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Perfekt mit Sein (Bewegung und Zustandsänderung)\"?",
         "options": [
           "Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss. — Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir.",
           "Es ist bekannt, dass diese Universität zu den besten der Welt gehört. — Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia.",
@@ -6288,7 +6330,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-14-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Perfekt mit Sein (Bewegung und Zustandsänderung)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6537,7 +6579,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para ilmuwan tamu telah tiba di Frankfurt kemarin malam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen.\" berarti \"Para ilmuwan tamu telah tiba di Frankfurt kemarin malam.\"."
+        "explanation": "Kalimat \"Die Gastwissenschaftler sind gestern Abend in Frankfurt angekommen.\" (dibaca: Di: gastwissensyaftler sind gestern abend in frankfurt angekommen.) berarti \"Para ilmuwan tamu telah tiba di Frankfurt kemarin malam.\". Kalimat ini menggunakan pola \"Sein (Präsens) + Bewegungsverben (gehen, fahren, fliegen, ankommen) + Partizip II\" (Das Perfekt mit Sein (Bewegung und Zustandsänderung)) yang berfungsi untuk pemilihan kata kerja bantu sein pada perfektum untuk verba pergerakan arah, perubahan wujud, dan sein/bleiben."
       },
       {
         "id": "q-de-gram-14-bb-2",
@@ -6612,24 +6654,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Bentuk lampau sederhana präteritum untuk sein (war) dan haben (hatte) yang lazim dipakai baik lisan maupun tulisan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Das Präteritum von Sein und Haben (War & Hatte)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Das Präteritum von Sein und Haben (War & Hatte)\" (Das einfache Präteritum der Hilfsverben im schriftlichen und mündlichen Gebrauch) berfungsi untuk: bentuk lampau sederhana präteritum untuk sein (war) dan haben (hatte) yang lazim dipakai baik lisan maupun tulisan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Gestern war der Lesesaal der Universitätsbibliothek voll besetzt. — Kemarin ruang baca perpustakaan universitas terisi penuh."
+          "Rumus utama: Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten",
+          "Contoh 1: Gestern war der Lesesaal der Universitätsbibliothek voll besetzt. (Gestern war der lesesaal der universitätsbibliothek voll besettst.) — Kemarin ruang baca perpustakaan universitas terisi penuh."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa Jerman formal dan akademik, bentuk Präteritum 'war' dan 'hatte' lebih diutamakan.",
         "ruleList": [
-          "Wir hatten während des gesamten Semesters hervorragende Dozenten. — Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut."
+          "Polanya: Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten",
+          "Contoh 2: Wir hatten während des gesamten Semesters hervorragende Dozenten. (Wir hatten während des gesamten semesters hervorragende dotsenten.) — Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Das Präteritum von Sein und Haben (War & Hatte)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Warst du schon einmal bei einer akademischen Promotionsfeier? — Apakah kamu sudah pernah menghadiri upacara promosi doktor akademik?"
+          "Contoh 3: Warst du schon einmal bei einer akademischen Promotionsfeier? (Warst du syon aynmal bay ayner akademisyen promotionsfayer?) — Apakah kamu sudah pernah menghadiri upacara promosi doktor akademik?",
+          "Hindari kesalahan: \"ich bin gewesen (im formellen Text)\" → gunakan bentuk yang benar: \"ich war\"."
         ]
       }
     ],
@@ -6637,19 +6682,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-15-ex-1",
         "native": "Gestern war der Lesesaal der Universitätsbibliothek voll besetzt.",
-        "phonetic": "",
+        "phonetic": "Gestern war der lesesaal der universitätsbibliothek voll besettst.",
         "translationId": "Kemarin ruang baca perpustakaan universitas terisi penuh."
       },
       {
         "id": "de-gram-15-ex-2",
         "native": "Wir hatten während des gesamten Semesters hervorragende Dozenten.",
-        "phonetic": "",
+        "phonetic": "Wir hatten während des gesamten semesters hervorragende dotsenten.",
         "translationId": "Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut."
       },
       {
         "id": "de-gram-15-ex-3",
         "native": "Warst du schon einmal bei einer akademischen Promotionsfeier?",
-        "phonetic": "",
+        "phonetic": "Warst du syon aynmal bay ayner akademisyen promotionsfayer?",
         "translationId": "Apakah kamu sudah pernah menghadiri upacara promosi doktor akademik?"
       }
     ],
@@ -6665,7 +6710,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Das Präteritum von Sein und Haben (War & Hatte)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Das Präteritum von Sein und Haben (War & Hatte)\" (Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-15-pg-1",
@@ -6681,7 +6726,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Gestern war der Lesesaal der Universitätsbibliothek voll besetzt.\" berarti \"Kemarin ruang baca perpustakaan universitas terisi penuh.\"."
+        "explanation": "Kalimat \"Gestern war der Lesesaal der Universitätsbibliothek voll besetzt.\" (dibaca: Gestern war der lesesaal der universitätsbibliothek voll besettst.) berarti \"Kemarin ruang baca perpustakaan universitas terisi penuh.\". Kalimat ini menggunakan pola \"Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten\" (Das Präteritum von Sein und Haben (War & Hatte)) yang berfungsi untuk bentuk lampau sederhana präteritum untuk sein (war) dan haben (hatte) yang lazim dipakai baik lisan maupun tulisan."
       },
       {
         "id": "q-de-gram-15-pg-2",
@@ -6697,7 +6742,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wir hatten während des gesamten Semesters hervorragende Dozenten.\" berarti \"Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut.\"."
+        "explanation": "Kalimat \"Wir hatten während des gesamten Semesters hervorragende Dozenten.\" (dibaca: Wir hatten während des gesamten semesters hervorragende dotsenten.) berarti \"Kami memiliki dosen-dosen yang sangat unggul sepanjang semester tersebut.\". Kalimat ini menggunakan pola \"Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten\" (Das Präteritum von Sein und Haben (War & Hatte)) yang berfungsi untuk bentuk lampau sederhana präteritum untuk sein (war) dan haben (hatte) yang lazim dipakai baik lisan maupun tulisan."
       },
       {
         "id": "q-de-gram-15-pg-3",
@@ -6713,7 +6758,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami minum kopi yang nikmat di kantin universitas yang bersejarah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Warst du schon einmal bei einer akademischen Promotionsfeier?\" berarti \"Apakah kamu sudah pernah menghadiri upacara promosi doktor akademik?\"."
+        "explanation": "Kalimat \"Warst du schon einmal bei einer akademischen Promotionsfeier?\" (dibaca: Warst du syon aynmal bay ayner akademisyen promotionsfayer?) berarti \"Apakah kamu sudah pernah menghadiri upacara promosi doktor akademik?\". Kalimat ini menggunakan pola \"Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten\" (Das Präteritum von Sein und Haben (War & Hatte)) yang berfungsi untuk bentuk lampau sederhana präteritum untuk sein (war) dan haben (hatte) yang lazim dipakai baik lisan maupun tulisan."
       },
       {
         "id": "q-de-gram-15-pg-4",
@@ -6733,7 +6778,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-15-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Präteritum von Sein und Haben (War & Hatte)\"?",
         "options": [
           "Der Dekan fragte die Studierenden, ob sie mit dem Curriculum zufrieden sind. — Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut.",
           "Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch. — Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot.",
@@ -6747,7 +6792,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-15-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Präteritum von Sein und Haben (War & Hatte)\"?",
         "options": [
           "Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet? — Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?",
           "Wir möchten wissen, wo das Sprachlabor für Deutsch als Fremdsprache liegt. — Kami ingin mengetahui di mana letak laboratorium bahasa Jerman sebagai bahasa asing.",
@@ -6761,7 +6806,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-15-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Präteritum von Sein und Haben (War & Hatte)\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -7010,7 +7055,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Gestern war der Lesesaal der Universitätsbibliothek voll besetzt.\" berarti \"Kemarin ruang baca perpustakaan universitas terisi penuh.\"."
+        "explanation": "Kalimat \"Gestern war der Lesesaal der Universitätsbibliothek voll besetzt.\" (dibaca: Gestern war der lesesaal der universitätsbibliothek voll besettst.) berarti \"Kemarin ruang baca perpustakaan universitas terisi penuh.\". Kalimat ini menggunakan pola \"Ich war / Du warst / Wir waren & Ich hatte / Du hattest / Wir hatten\" (Das Präteritum von Sein und Haben (War & Hatte)) yang berfungsi untuk bentuk lampau sederhana präteritum untuk sein (war) dan haben (hatte) yang lazim dipakai baik lisan maupun tulisan."
       },
       {
         "id": "q-de-gram-15-bb-2",
@@ -7085,24 +7130,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Klausa subordinatif kausal (weil) dan isi (dass) yang menempatkan kata kerja berkonjugasi di paling ujung kalimat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)\" (Die Satzstellung im Nebensatz mit subordinierenden Konjunktionen) berfungsi untuk: klausa subordinatif kausal (weil) dan isi (dass) yang menempatkan kata kerja berkonjugasi di paling ujung kalimat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss. — Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir."
+          "Rumus utama: Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende",
+          "Contoh 1: Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss. (Ikh kann nikht kommen, wayl ikh mikh auf di: absylussprüfung vorberayten muss.) — Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam anak kalimat (Nebensatz) setelah weil/dass, kata kerja berkonjugasi berpindah ke posisi paling akhir.",
         "ruleList": [
-          "Der Professor bestätigte, dass die Vorlesung planmäßig stattfindet. — Profesor mengonfirmasi bahwa perkuliahan berlangsung sesuai jadwal."
+          "Polanya: Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende",
+          "Contoh 2: Der Professor bestätigte, dass die Vorlesung planmäßig stattfindet. (Der professor bestätigte, dass di: vorlesung planmässig stattfindet.) — Profesor mengonfirmasi bahwa perkuliahan berlangsung sesuai jadwal."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Es ist bekannt, dass diese Universität zu den besten der Welt gehört. — Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia."
+          "Contoh 3: Es ist bekannt, dass diese Universität zu den besten der Welt gehört. (Es ist bekannt, dass di:se universität tsu den besten der welt gehört.) — Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia.",
+          "Hindari kesalahan: \"weil ich muss lernen\" → gunakan bentuk yang benar: \"weil ich lernen muss\"."
         ]
       }
     ],
@@ -7110,19 +7158,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-16-ex-1",
         "native": "Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss.",
-        "phonetic": "",
+        "phonetic": "Ikh kann nikht kommen, wayl ikh mikh auf di: absylussprüfung vorberayten muss.",
         "translationId": "Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir."
       },
       {
         "id": "de-gram-16-ex-2",
         "native": "Der Professor bestätigte, dass die Vorlesung planmäßig stattfindet.",
-        "phonetic": "",
+        "phonetic": "Der professor bestätigte, dass di: vorlesung planmässig stattfindet.",
         "translationId": "Profesor mengonfirmasi bahwa perkuliahan berlangsung sesuai jadwal."
       },
       {
         "id": "de-gram-16-ex-3",
         "native": "Es ist bekannt, dass diese Universität zu den besten der Welt gehört.",
-        "phonetic": "",
+        "phonetic": "Es ist bekannt, dass di:se universität tsu den besten der welt gehört.",
         "translationId": "Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia."
       }
     ],
@@ -7138,7 +7186,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)\" (Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-16-pg-1",
@@ -7154,7 +7202,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss.\" berarti \"Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir.\"."
+        "explanation": "Kalimat \"Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss.\" (dibaca: Ikh kann nikht kommen, wayl ikh mikh auf di: absylussprüfung vorberayten muss.) berarti \"Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir.\". Kalimat ini menggunakan pola \"Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende\" (Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)) yang berfungsi untuk klausa subordinatif kausal (weil) dan isi (dass) yang menempatkan kata kerja berkonjugasi di paling ujung kalimat."
       },
       {
         "id": "q-de-gram-16-pg-2",
@@ -7170,7 +7218,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Professor bestätigte, dass die Vorlesung planmäßig stattfindet.\" berarti \"Profesor mengonfirmasi bahwa perkuliahan berlangsung sesuai jadwal.\"."
+        "explanation": "Kalimat \"Der Professor bestätigte, dass die Vorlesung planmäßig stattfindet.\" (dibaca: Der professor bestätigte, dass di: vorlesung planmässig stattfindet.) berarti \"Profesor mengonfirmasi bahwa perkuliahan berlangsung sesuai jadwal.\". Kalimat ini menggunakan pola \"Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende\" (Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)) yang berfungsi untuk klausa subordinatif kausal (weil) dan isi (dass) yang menempatkan kata kerja berkonjugasi di paling ujung kalimat."
       },
       {
         "id": "q-de-gram-16-pg-3",
@@ -7186,7 +7234,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan metode-metode penelitian yang baru, orang memperoleh hasil yang dapat diandalkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Es ist bekannt, dass diese Universität zu den besten der Welt gehört.\" berarti \"Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia.\"."
+        "explanation": "Kalimat \"Es ist bekannt, dass diese Universität zu den besten der Welt gehört.\" (dibaca: Es ist bekannt, dass di:se universität tsu den besten der welt gehört.) berarti \"Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia.\". Kalimat ini menggunakan pola \"Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende\" (Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)) yang berfungsi untuk klausa subordinatif kausal (weil) dan isi (dass) yang menempatkan kata kerja berkonjugasi di paling ujung kalimat."
       },
       {
         "id": "q-de-gram-16-pg-4",
@@ -7206,7 +7254,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-16-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)\"?",
         "options": [
           "Eine neue Dozentin leitet das Seminar über moderne Linguistik. — Seorang dosen perempuan baru memimpin seminar tentang linguistik modern.",
           "Der Dozent antwortet dem interessierten Studenten mit großer Geduld. — Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran.",
@@ -7220,7 +7268,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-16-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)\"?",
         "options": [
           "Es ist bekannt, dass diese Universität zu den besten der Welt gehört. — Telah diketahui umum bahwa universitas ini termasuk salah satu yang terbaik di dunia.",
           "Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch. — Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot.",
@@ -7234,7 +7282,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-16-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -7485,7 +7533,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss.\" berarti \"Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir.\"."
+        "explanation": "Kalimat \"Ich kann nicht kommen, weil ich mich auf die Abschlussprüfung vorbereiten muss.\" (dibaca: Ikh kann nikht kommen, wayl ikh mikh auf di: absylussprüfung vorberayten muss.) berarti \"Saya tidak dapat datang karena saya harus mempersiapkan diri untuk ujian akhir.\". Kalimat ini menggunakan pola \"Weil / Dass + Subjekt + Rest + Finites Verb ganz am Ende\" (Nebensätze mit Kausal- & Inhaltssätzen (Weil & Dass)) yang berfungsi untuk klausa subordinatif kausal (weil) dan isi (dass) yang menempatkan kata kerja berkonjugasi di paling ujung kalimat."
       },
       {
         "id": "q-de-gram-16-bb-2",
@@ -7560,24 +7608,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengubah pertanyaan langsung menjadi pertanyaan tidak langsung yang santun menggunakan ob atau kata tanya W.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Indirekte Fragesätze mit Ob und W-Wörtern' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Indirekte Fragesätze mit Ob und W-Wörtern\" (Indirekte Fragen als abhängige Nebensätze) berfungsi untuk: mengubah pertanyaan langsung menjadi pertanyaan tidak langsung yang santun menggunakan ob atau kata tanya W. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet? — Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?"
+          "Rumus utama: W-Wort / Ob + Subjekt + Rest + Verb am Satzende",
+          "Contoh 1: Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet? (Können si: mir sagen, wann di: anmeldefrist für den masterstudi:ngang endet?) — Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur W-Wort / Ob + Subjekt + Rest + Verb am Satzende memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"W-Wort / Ob + Subjekt + Rest + Verb am Satzende\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kalimat tanya tidak langsung merupakan anak kalimat (Nebensatz) sehingga verba berada di akhir.",
         "ruleList": [
-          "Der Dekan fragte die Studierenden, ob sie mit dem Curriculum zufrieden sind. — Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut."
+          "Polanya: W-Wort / Ob + Subjekt + Rest + Verb am Satzende",
+          "Contoh 2: Der Dekan fragte die Studierenden, ob sie mit dem Curriculum zufrieden sind. (Der dekan fragte di: studi:renden, ob si: mit dem curriculum tsufri:den sind.) — Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Indirekte Fragesätze mit Ob und W-Wörtern\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir möchten wissen, wo das Sprachlabor für Deutsch als Fremdsprache liegt. — Kami ingin mengetahui di mana letak laboratorium bahasa Jerman sebagai bahasa asing."
+          "Contoh 3: Wir möchten wissen, wo das Sprachlabor für Deutsch als Fremdsprache liegt. (Wir mökhten wissen, wo das sprakhlabor für doytsy als fremdsprakhe li:gt.) — Kami ingin mengetahui di mana letak laboratorium bahasa Jerman sebagai bahasa asing.",
+          "Hindari kesalahan: \"wissen Sie, wann endet die Frist?\" → gunakan bentuk yang benar: \"wissen Sie, wann die Frist endet?\"."
         ]
       }
     ],
@@ -7585,19 +7636,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-17-ex-1",
         "native": "Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet?",
-        "phonetic": "",
+        "phonetic": "Können si: mir sagen, wann di: anmeldefrist für den masterstudi:ngang endet?",
         "translationId": "Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?"
       },
       {
         "id": "de-gram-17-ex-2",
         "native": "Der Dekan fragte die Studierenden, ob sie mit dem Curriculum zufrieden sind.",
-        "phonetic": "",
+        "phonetic": "Der dekan fragte di: studi:renden, ob si: mit dem curriculum tsufri:den sind.",
         "translationId": "Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut."
       },
       {
         "id": "de-gram-17-ex-3",
         "native": "Wir möchten wissen, wo das Sprachlabor für Deutsch als Fremdsprache liegt.",
-        "phonetic": "",
+        "phonetic": "Wir mökhten wissen, wo das sprakhlabor für doytsy als fremdsprakhe li:gt.",
         "translationId": "Kami ingin mengetahui di mana letak laboratorium bahasa Jerman sebagai bahasa asing."
       }
     ],
@@ -7613,7 +7664,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Indirekte Fragesätze mit Ob und W-Wörtern' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Indirekte Fragesätze mit Ob und W-Wörtern\" (W-Wort / Ob + Subjekt + Rest + Verb am Satzende) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-17-pg-1",
@@ -7629,7 +7680,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet?\" berarti \"Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?\"."
+        "explanation": "Kalimat \"Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet?\" (dibaca: Können si: mir sagen, wann di: anmeldefrist für den masterstudi:ngang endet?) berarti \"Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?\". Kalimat ini menggunakan pola \"W-Wort / Ob + Subjekt + Rest + Verb am Satzende\" (Indirekte Fragesätze mit Ob und W-Wörtern) yang berfungsi untuk mengubah pertanyaan langsung menjadi pertanyaan tidak langsung yang santun menggunakan ob atau kata tanya W."
       },
       {
         "id": "q-de-gram-17-pg-2",
@@ -7645,7 +7696,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Studi magister di München lebih menantang daripada studi sarjana."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der Dekan fragte die Studierenden, ob sie mit dem Curriculum zufrieden sind.\" berarti \"Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut.\"."
+        "explanation": "Kalimat \"Der Dekan fragte die Studierenden, ob sie mit dem Curriculum zufrieden sind.\" (dibaca: Der dekan fragte di: studi:renden, ob si: mit dem curriculum tsufri:den sind.) berarti \"Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut.\". Kalimat ini menggunakan pola \"W-Wort / Ob + Subjekt + Rest + Verb am Satzende\" (Indirekte Fragesätze mit Ob und W-Wörtern) yang berfungsi untuk mengubah pertanyaan langsung menjadi pertanyaan tidak langsung yang santun menggunakan ob atau kata tanya W."
       },
       {
         "id": "q-de-gram-17-pg-3",
@@ -7661,7 +7712,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wir möchten wissen, wo das Sprachlabor für Deutsch als Fremdsprache liegt.\" berarti \"Kami ingin mengetahui di mana letak laboratorium bahasa Jerman sebagai bahasa asing.\"."
+        "explanation": "Kalimat \"Wir möchten wissen, wo das Sprachlabor für Deutsch als Fremdsprache liegt.\" (dibaca: Wir mökhten wissen, wo das sprakhlabor für doytsy als fremdsprakhe li:gt.) berarti \"Kami ingin mengetahui di mana letak laboratorium bahasa Jerman sebagai bahasa asing.\". Kalimat ini menggunakan pola \"W-Wort / Ob + Subjekt + Rest + Verb am Satzende\" (Indirekte Fragesätze mit Ob und W-Wörtern) yang berfungsi untuk mengubah pertanyaan langsung menjadi pertanyaan tidak langsung yang santun menggunakan ob atau kata tanya W."
       },
       {
         "id": "q-de-gram-17-pg-4",
@@ -7681,7 +7732,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-17-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Indirekte Fragesätze mit Ob und W-Wörtern\"?",
         "options": [
           "Der Dekan fragte die Studierenden, ob sie mit dem Curriculum zufrieden sind. — Dekan bertanya kepada para mahasiswa apakah mereka puas dengan kurikulum tersebut.",
           "In einer modernen Universitätsbibliothek findet man digitale Ressourcen. — Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital.",
@@ -7695,7 +7746,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-17-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Indirekte Fragesätze mit Ob und W-Wörtern\"?",
         "options": [
           "Der Dozent antwortet dem interessierten Studenten mit großer Geduld. — Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran.",
           "Wir möchten wissen, wo das Sprachlabor für Deutsch als Fremdsprache liegt. — Kami ingin mengetahui di mana letak laboratorium bahasa Jerman sebagai bahasa asing.",
@@ -7709,7 +7760,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-17-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Indirekte Fragesätze mit Ob und W-Wörtern\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -7958,7 +8009,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet?\" berarti \"Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?\"."
+        "explanation": "Kalimat \"Können Sie mir sagen, wann die Anmeldefrist für den Masterstudiengang endet?\" (dibaca: Können si: mir sagen, wann di: anmeldefrist für den masterstudi:ngang endet?) berarti \"Dapatkah Anda memberi tahu saya kapan batas waktu pendaftaran program magister berakhir?\". Kalimat ini menggunakan pola \"W-Wort / Ob + Subjekt + Rest + Verb am Satzende\" (Indirekte Fragesätze mit Ob und W-Wörtern) yang berfungsi untuk mengubah pertanyaan langsung menjadi pertanyaan tidak langsung yang santun menggunakan ob atau kata tanya W."
       },
       {
         "id": "q-de-gram-17-bb-2",
@@ -8033,24 +8084,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan deklinasi kata sifat setelah artikel definit (lemah -e/-en), artikel indefinit (campuran), atau tanpa artikel (kuat).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Adjektivdeklination im Nominativ und Akkusativ' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Adjektivdeklination im Nominativ und Akkusativ\" (Die schwache, starke und gemischte Adjektivdeklination) berfungsi untuk: aturan deklinasi kata sifat setelah artikel definit (lemah -e/-en), artikel indefinit (campuran), atau tanpa artikel (kuat). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch. — Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot."
+          "Rumus utama: Der gute Student / Ein guter Student / Guter Wein",
+          "Contoh 1: Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch. (Der flayssige student li:st ayn ansprukhsvolles wissensyaftlikhes bukh.) — Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Der gute Student / Ein guter Student / Guter Wein memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Der gute Student / Ein guter Student / Guter Wein\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata benda maskulin nominatif setelah artikel 'ein' memerlukan akhiran kata sifat kuat -er (ein guter Student).",
         "ruleList": [
-          "Eine neue Dozentin leitet das Seminar über moderne Linguistik. — Seorang dosen perempuan baru memimpin seminar tentang linguistik modern."
+          "Polanya: Der gute Student / Ein guter Student / Guter Wein",
+          "Contoh 2: Eine neue Dozentin leitet das Seminar über moderne Linguistik. (Ayne noye dotsentin laytet das seminar über moderne linguistik.) — Seorang dosen perempuan baru memimpin seminar tentang linguistik modern."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Adjektivdeklination im Nominativ und Akkusativ\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir trinken guten Kaffee in der historischen Universitätsmensa. — Kami minum kopi yang nikmat di kantin universitas yang bersejarah."
+          "Contoh 3: Wir trinken guten Kaffee in der historischen Universitätsmensa. (Wir trinken guten kaffee in der historisyen universitätsmensa.) — Kami minum kopi yang nikmat di kantin universitas yang bersejarah.",
+          "Hindari kesalahan: \"ein gutes Student\" → gunakan bentuk yang benar: \"ein guter Student\"."
         ]
       }
     ],
@@ -8058,19 +8112,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-18-ex-1",
         "native": "Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch.",
-        "phonetic": "",
+        "phonetic": "Der flayssige student li:st ayn ansprukhsvolles wissensyaftlikhes bukh.",
         "translationId": "Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot."
       },
       {
         "id": "de-gram-18-ex-2",
         "native": "Eine neue Dozentin leitet das Seminar über moderne Linguistik.",
-        "phonetic": "",
+        "phonetic": "Ayne noye dotsentin laytet das seminar über moderne linguistik.",
         "translationId": "Seorang dosen perempuan baru memimpin seminar tentang linguistik modern."
       },
       {
         "id": "de-gram-18-ex-3",
         "native": "Wir trinken guten Kaffee in der historischen Universitätsmensa.",
-        "phonetic": "",
+        "phonetic": "Wir trinken guten kaffee in der historisyen universitätsmensa.",
         "translationId": "Kami minum kopi yang nikmat di kantin universitas yang bersejarah."
       }
     ],
@@ -8086,7 +8140,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Adjektivdeklination im Nominativ und Akkusativ' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Adjektivdeklination im Nominativ und Akkusativ\" (Der gute Student / Ein guter Student / Guter Wein) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-18-pg-1",
@@ -8102,7 +8156,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Ceramah ilmiah ini adalah yang paling menarik dari keseluruhan simposium."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch.\" berarti \"Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot.\"."
+        "explanation": "Kalimat \"Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch.\" (dibaca: Der flayssige student li:st ayn ansprukhsvolles wissensyaftlikhes bukh.) berarti \"Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot.\". Kalimat ini menggunakan pola \"Der gute Student / Ein guter Student / Guter Wein\" (Adjektivdeklination im Nominativ und Akkusativ) yang berfungsi untuk aturan deklinasi kata sifat setelah artikel definit (lemah -e/-en), artikel indefinit (campuran), atau tanpa artikel (kuat)."
       },
       {
         "id": "q-de-gram-18-pg-2",
@@ -8118,7 +8172,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor membantu mahasiswa baru itu dalam penelusuran literatur."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Eine neue Dozentin leitet das Seminar über moderne Linguistik.\" berarti \"Seorang dosen perempuan baru memimpin seminar tentang linguistik modern.\"."
+        "explanation": "Kalimat \"Eine neue Dozentin leitet das Seminar über moderne Linguistik.\" (dibaca: Ayne noye dotsentin laytet das seminar über moderne linguistik.) berarti \"Seorang dosen perempuan baru memimpin seminar tentang linguistik modern.\". Kalimat ini menggunakan pola \"Der gute Student / Ein guter Student / Guter Wein\" (Adjektivdeklination im Nominativ und Akkusativ) yang berfungsi untuk aturan deklinasi kata sifat setelah artikel definit (lemah -e/-en), artikel indefinit (campuran), atau tanpa artikel (kuat)."
       },
       {
         "id": "q-de-gram-18-pg-3",
@@ -8134,7 +8188,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kami minum kopi yang nikmat di kantin universitas yang bersejarah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wir trinken guten Kaffee in der historischen Universitätsmensa.\" berarti \"Kami minum kopi yang nikmat di kantin universitas yang bersejarah.\"."
+        "explanation": "Kalimat \"Wir trinken guten Kaffee in der historischen Universitätsmensa.\" (dibaca: Wir trinken guten kaffee in der historisyen universitätsmensa.) berarti \"Kami minum kopi yang nikmat di kantin universitas yang bersejarah.\". Kalimat ini menggunakan pola \"Der gute Student / Ein guter Student / Guter Wein\" (Adjektivdeklination im Nominativ und Akkusativ) yang berfungsi untuk aturan deklinasi kata sifat setelah artikel definit (lemah -e/-en), artikel indefinit (campuran), atau tanpa artikel (kuat)."
       },
       {
         "id": "q-de-gram-18-pg-4",
@@ -8154,7 +8208,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-18-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Adjektivdeklination im Nominativ und Akkusativ\"?",
         "options": [
           "Dieser Vortrag war der interessanteste des gesamten Symposiums. — Ceramah ilmiah ini adalah yang paling menarik dari keseluruhan simposium.",
           "Eine neue Dozentin leitet das Seminar über moderne Linguistik. — Seorang dosen perempuan baru memimpin seminar tentang linguistik modern.",
@@ -8168,7 +8222,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-18-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Adjektivdeklination im Nominativ und Akkusativ\"?",
         "options": [
           "Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium. — Studi magister di München lebih menantang daripada studi sarjana.",
           "Wir arbeiten am liebsten in den ruhigen Arbeitsräumen des Campus. — Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang.",
@@ -8182,7 +8236,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-18-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Adjektivdeklination im Nominativ und Akkusativ\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -8429,7 +8483,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch.\" berarti \"Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot.\"."
+        "explanation": "Kalimat \"Der fleißige Student liest ein anspruchsvolles wissenschaftliches Buch.\" (dibaca: Der flayssige student li:st ayn ansprukhsvolles wissensyaftlikhes bukh.) berarti \"Mahasiswa yang rajin itu sedang membaca sebuah buku ilmiah yang berbobot.\". Kalimat ini menggunakan pola \"Der gute Student / Ein guter Student / Guter Wein\" (Adjektivdeklination im Nominativ und Akkusativ) yang berfungsi untuk aturan deklinasi kata sifat setelah artikel definit (lemah -e/-en), artikel indefinit (campuran), atau tanpa artikel (kuat)."
       },
       {
         "id": "q-de-gram-18-bb-2",
@@ -8504,24 +8558,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Deklinasi kata sifat pada kasus datif yang sangat konsisten: hampir selalu berakhiran -en setelah artikel penentu apa pun.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Adjektivdeklination im Dativ' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Adjektivdeklination im Dativ\" (Die Adjektivendungen im Dativ nach bestimmten und unbestimmten Artikeln) berfungsi untuk: deklinasi kata sifat pada kasus datif yang sangat konsisten: hampir selalu berakhiran -en setelah artikel penentu apa pun. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Dozent antwortet dem interessierten Studenten mit großer Geduld. — Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran."
+          "Rumus utama: Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)",
+          "Contoh 1: Der Dozent antwortet dem interessierten Studenten mit großer Geduld. (Der dotsent antwortet dem interessi:rten studenten mit grosser geduld.) — Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah artikel Dativ (dem/einem/einer), kata sifat selalu berakhiran -en.",
         "ruleList": [
-          "In einer modernen Universitätsbibliothek findet man digitale Ressourcen. — Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital."
+          "Polanya: Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)",
+          "Contoh 2: In einer modernen Universitätsbibliothek findet man digitale Ressourcen. (In ayner modernen universitätsbibliothek findet man digitale ressourcen.) — Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Adjektivdeklination im Dativ\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Mit den neuen Forschungsmethoden erzielt man verlässliche Ergebnisse. — Dengan metode-metode penelitian yang baru, orang memperoleh hasil yang dapat diandalkan."
+          "Contoh 3: Mit den neuen Forschungsmethoden erzielt man verlässliche Ergebnisse. (Mit den noyen forsyungsmethoden ertsi:lt man verlässlikhe ergebnisse.) — Dengan metode-metode penelitian yang baru, orang memperoleh hasil yang dapat diandalkan.",
+          "Hindari kesalahan: \"mit dem neuem Buch\" → gunakan bentuk yang benar: \"mit dem neuen Buch\"."
         ]
       }
     ],
@@ -8529,19 +8586,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-19-ex-1",
         "native": "Der Dozent antwortet dem interessierten Studenten mit großer Geduld.",
-        "phonetic": "",
+        "phonetic": "Der dotsent antwortet dem interessi:rten studenten mit grosser geduld.",
         "translationId": "Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran."
       },
       {
         "id": "de-gram-19-ex-2",
         "native": "In einer modernen Universitätsbibliothek findet man digitale Ressourcen.",
-        "phonetic": "",
+        "phonetic": "In ayner modernen universitätsbibliothek findet man digitale ressourcen.",
         "translationId": "Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital."
       },
       {
         "id": "de-gram-19-ex-3",
         "native": "Mit den neuen Forschungsmethoden erzielt man verlässliche Ergebnisse.",
-        "phonetic": "",
+        "phonetic": "Mit den noyen forsyungsmethoden ertsi:lt man verlässlikhe ergebnisse.",
         "translationId": "Dengan metode-metode penelitian yang baru, orang memperoleh hasil yang dapat diandalkan."
       }
     ],
@@ -8557,7 +8614,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Adjektivdeklination im Dativ' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Adjektivdeklination im Dativ\" (Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-19-pg-1",
@@ -8573,7 +8630,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Topik yang menarik itu sangat disukai oleh para peserta seminar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Der Dozent antwortet dem interessierten Studenten mit großer Geduld.\" berarti \"Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran.\"."
+        "explanation": "Kalimat \"Der Dozent antwortet dem interessierten Studenten mit großer Geduld.\" (dibaca: Der dotsent antwortet dem interessi:rten studenten mit grosser geduld.) berarti \"Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran.\". Kalimat ini menggunakan pola \"Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)\" (Adjektivdeklination im Dativ) yang berfungsi untuk deklinasi kata sifat pada kasus datif yang sangat konsisten: hampir selalu berakhiran -en setelah artikel penentu apa pun."
       },
       {
         "id": "q-de-gram-19-pg-2",
@@ -8589,7 +8646,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"In einer modernen Universitätsbibliothek findet man digitale Ressourcen.\" berarti \"Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital.\"."
+        "explanation": "Kalimat \"In einer modernen Universitätsbibliothek findet man digitale Ressourcen.\" (dibaca: In ayner modernen universitätsbibliothek findet man digitale ressourcen.) berarti \"Di sebuah perpustakaan universitas modern, orang dapat menemukan berbagai sumber daya digital.\". Kalimat ini menggunakan pola \"Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)\" (Adjektivdeklination im Dativ) yang berfungsi untuk deklinasi kata sifat pada kasus datif yang sangat konsisten: hampir selalu berakhiran -en setelah artikel penentu apa pun."
       },
       {
         "id": "q-de-gram-19-pg-3",
@@ -8605,7 +8662,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kita bertemu di depan gedung utama universitas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Mit den neuen Forschungsmethoden erzielt man verlässliche Ergebnisse.\" berarti \"Dengan metode-metode penelitian yang baru, orang memperoleh hasil yang dapat diandalkan.\"."
+        "explanation": "Kalimat \"Mit den neuen Forschungsmethoden erzielt man verlässliche Ergebnisse.\" (dibaca: Mit den noyen forsyungsmethoden ertsi:lt man verlässlikhe ergebnisse.) berarti \"Dengan metode-metode penelitian yang baru, orang memperoleh hasil yang dapat diandalkan.\". Kalimat ini menggunakan pola \"Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)\" (Adjektivdeklination im Dativ) yang berfungsi untuk deklinasi kata sifat pada kasus datif yang sangat konsisten: hampir selalu berakhiran -en setelah artikel penentu apa pun."
       },
       {
         "id": "q-de-gram-19-pg-4",
@@ -8625,7 +8682,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-19-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Adjektivdeklination im Dativ\"?",
         "options": [
           "Das interessante Thema gefällt den Seminarteilnehmern außerordentlich gut. — Topik yang menarik itu sangat disukai oleh para peserta seminar.",
           "Das Buch liegt auf dem Tisch (Wo? -> Dativ). — Buku itu terletak di atas meja (Di mana? -> Kasus Dativ).",
@@ -8639,7 +8696,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-19-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Adjektivdeklination im Dativ\"?",
         "options": [
           "Der Professor hilft dem neuen Studenten bei der Literaturrecherche. — Profesor membantu mahasiswa baru itu dalam penelusuran literatur.",
           "Wir danken Ihnen herzlich für Ihre wertvolle Unterstützung. — Kami mengucapkan terima kasih yang tulus kepada Anda atas dukungan berharga Anda.",
@@ -8653,7 +8710,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-19-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Adjektivdeklination im Dativ\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -8900,7 +8957,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor membantu mahasiswa baru itu dalam penelusuran literatur."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Dozent antwortet dem interessierten Studenten mit großer Geduld.\" berarti \"Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran.\"."
+        "explanation": "Kalimat \"Der Dozent antwortet dem interessierten Studenten mit großer Geduld.\" (dibaca: Der dotsent antwortet dem interessi:rten studenten mit grosser geduld.) berarti \"Dosen itu menjawab mahasiswa yang antusias tersebut dengan penuh kesabaran.\". Kalimat ini menggunakan pola \"Im Dativ enden fast alle Adjektive auf -en (dem guten, einer neuen)\" (Adjektivdeklination im Dativ) yang berfungsi untuk deklinasi kata sifat pada kasus datif yang sangat konsisten: hampir selalu berakhiran -en setelah artikel penentu apa pun."
       },
       {
         "id": "q-de-gram-19-bb-2",
@@ -8975,24 +9032,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Tingkat komparatif (lebih... daripada memakai als) dan bentuk superlatif paling unggul dengan bentuk am ...-sten.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Komparativ und Superlativ der Adjektive (Besser als / Am besten)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Komparativ und Superlativ der Adjektive (Besser als / Am besten)\" (Die Steigerung der Adjektive und unregelmäßige Formen (gut, viel, gern)) berfungsi untuk: tingkat komparatif (lebih... daripada memakai als) dan bentuk superlatif paling unggul dengan bentuk am ...-sten. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium. — Studi magister di München lebih menantang daripada studi sarjana."
+          "Rumus utama: Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)",
+          "Contoh 1: Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium. (Das masterstudium in münkhen ist ansprukhsvoller als das bakhelorstudium.) — Studi magister di München lebih menantang daripada studi sarjana."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk perbandingan tingkat lebih (Komparativ), gunakan kata penghubung 'als' dan bukan 'wie'.",
         "ruleList": [
-          "Dieser Vortrag war der interessanteste des gesamten Symposiums. — Ceramah ilmiah ini adalah yang paling menarik dari keseluruhan simposium."
+          "Polanya: Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)",
+          "Contoh 2: Dieser Vortrag war der interessanteste des gesamten Symposiums. (Di:ser vortrag war der interessanteste des gesamten symposiums.) — Ceramah ilmiah ini adalah yang paling menarik dari keseluruhan simposium."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Komparativ und Superlativ der Adjektive (Besser als / Am besten)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wir arbeiten am liebsten in den ruhigen Arbeitsräumen des Campus. — Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang."
+          "Contoh 3: Wir arbeiten am liebsten in den ruhigen Arbeitsräumen des Campus. (Wir arbayten am li:bsten in den ruhigen arbaytsroymen des campus.) — Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang.",
+          "Hindari kesalahan: \"besser wie\" → gunakan bentuk yang benar: \"besser als\"."
         ]
       }
     ],
@@ -9000,19 +9060,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-20-ex-1",
         "native": "Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium.",
-        "phonetic": "",
+        "phonetic": "Das masterstudium in münkhen ist ansprukhsvoller als das bakhelorstudium.",
         "translationId": "Studi magister di München lebih menantang daripada studi sarjana."
       },
       {
         "id": "de-gram-20-ex-2",
         "native": "Dieser Vortrag war der interessanteste des gesamten Symposiums.",
-        "phonetic": "",
+        "phonetic": "Di:ser vortrag war der interessanteste des gesamten symposiums.",
         "translationId": "Ceramah ilmiah ini adalah yang paling menarik dari keseluruhan simposium."
       },
       {
         "id": "de-gram-20-ex-3",
         "native": "Wir arbeiten am liebsten in den ruhigen Arbeitsräumen des Campus.",
-        "phonetic": "",
+        "phonetic": "Wir arbayten am li:bsten in den ruhigen arbaytsroymen des campus.",
         "translationId": "Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang."
       }
     ],
@@ -9028,7 +9088,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Komparativ und Superlativ der Adjektive (Besser als / Am besten)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Komparativ und Superlativ der Adjektive (Besser als / Am besten)\" (Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-20-pg-1",
@@ -9044,7 +9104,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Studi magister di München lebih menantang daripada studi sarjana."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium.\" berarti \"Studi magister di München lebih menantang daripada studi sarjana.\"."
+        "explanation": "Kalimat \"Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium.\" (dibaca: Das masterstudium in münkhen ist ansprukhsvoller als das bakhelorstudium.) berarti \"Studi magister di München lebih menantang daripada studi sarjana.\". Kalimat ini menggunakan pola \"Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)\" (Komparativ und Superlativ der Adjektive (Besser als / Am besten)) yang berfungsi untuk tingkat komparatif (lebih... daripada memakai als) dan bentuk superlatif paling unggul dengan bentuk am ...-sten."
       },
       {
         "id": "q-de-gram-20-pg-2",
@@ -9060,7 +9120,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Dieser Vortrag war der interessanteste des gesamten Symposiums.\" berarti \"Ceramah ilmiah ini adalah yang paling menarik dari keseluruhan simposium.\"."
+        "explanation": "Kalimat \"Dieser Vortrag war der interessanteste des gesamten Symposiums.\" (dibaca: Di:ser vortrag war der interessanteste des gesamten symposiums.) berarti \"Ceramah ilmiah ini adalah yang paling menarik dari keseluruhan simposium.\". Kalimat ini menggunakan pola \"Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)\" (Komparativ und Superlativ der Adjektive (Besser als / Am besten)) yang berfungsi untuk tingkat komparatif (lebih... daripada memakai als) dan bentuk superlatif paling unggul dengan bentuk am ...-sten."
       },
       {
         "id": "q-de-gram-20-pg-3",
@@ -9076,7 +9136,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kelompok peneliti itu telah mengumpulkan data-data penting mengenai pemanasan iklim."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wir arbeiten am liebsten in den ruhigen Arbeitsräumen des Campus.\" berarti \"Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang.\"."
+        "explanation": "Kalimat \"Wir arbeiten am liebsten in den ruhigen Arbeitsräumen des Campus.\" (dibaca: Wir arbayten am li:bsten in den ruhigen arbaytsroymen des campus.) berarti \"Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang.\". Kalimat ini menggunakan pola \"Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)\" (Komparativ und Superlativ der Adjektive (Besser als / Am besten)) yang berfungsi untuk tingkat komparatif (lebih... daripada memakai als) dan bentuk superlatif paling unggul dengan bentuk am ...-sten."
       },
       {
         "id": "q-de-gram-20-pg-4",
@@ -9096,7 +9156,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-20-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Komparativ und Superlativ der Adjektive (Besser als / Am besten)\"?",
         "options": [
           "Der Student legt das Buch auf den Tisch (Wohin? -> Akkusativ). — Mahasiswa itu meletakkan buku tersebut ke atas meja (Ke mana? -> Kasus Akkusativ).",
           "Der Student hat die anspruchsvolle Prüfung erfolgreich bestanden. — Mahasiswa itu telah lulus ujian yang menantang tersebut dengan sukses.",
@@ -9110,7 +9170,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-20-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Komparativ und Superlativ der Adjektive (Besser als / Am besten)\"?",
         "options": [
           "Wir arbeiten am liebsten in den ruhigen Arbeitsräumen des Campus. — Kami paling suka bekerja di ruang-ruang kerja kampus yang tenang.",
           "Das Buch liegt auf dem Tisch (Wo? -> Dativ). — Buku itu terletak di atas meja (Di mana? -> Kasus Dativ).",
@@ -9124,7 +9184,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-20-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Komparativ und Superlativ der Adjektive (Besser als / Am besten)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -9373,7 +9433,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Buku itu terletak di atas meja (Di mana? -> Kasus Dativ)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium.\" berarti \"Studi magister di München lebih menantang daripada studi sarjana.\"."
+        "explanation": "Kalimat \"Das Masterstudium in München ist anspruchsvoller als das Bachelorstudium.\" (dibaca: Das masterstudium in münkhen ist ansprukhsvoller als das bakhelorstudium.) berarti \"Studi magister di München lebih menantang daripada studi sarjana.\". Kalimat ini menggunakan pola \"Positiv -> Komparativ (-er als) -> Superlativ (am -sten / der -ste)\" (Komparativ und Superlativ der Adjektive (Besser als / Am besten)) yang berfungsi untuk tingkat komparatif (lebih... daripada memakai als) dan bentuk superlatif paling unggul dengan bentuk am ...-sten."
       },
       {
         "id": "q-de-gram-20-bb-2",
@@ -9448,24 +9508,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Modus konjungtif II untuk mengungkapkan permohonan santun akademik, anjuran ilmiah, dan harapan bersyarat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)\" (Der Konjunktiv II für höfliche Bitten, Ratschläge und irreale Wünsche) berfungsi untuk: modus konjungtif II untuk mengungkapkan permohonan santun akademik, anjuran ilmiah, dan harapan bersyarat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben. — Saya sangat ingin melamar program beasiswa riset DAAD ini."
+          "Rumus utama: Würde + Infinitiv / Wäre / Hätte",
+          "Contoh 1: Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben. (Ikh würde mikh sehr gern für di:ses daad-forsyungsstipendium bewerben.) — Saya sangat ingin melamar program beasiswa riset DAAD ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Würde + Infinitiv / Wäre / Hätte memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Würde + Infinitiv / Wäre / Hätte\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Konjunktiv II menghaluskan nada permintaan dan merupakan standar kesantunan di universitas Jerman.",
         "ruleList": [
-          "Könnten Sie mir bitte die formalen Richtlinien für das Exposé zusenden? — Sudikah kiranya Anda mengirimkan panduan formal penulisan proposal riset kepada saya?"
+          "Polanya: Würde + Infinitiv / Wäre / Hätte",
+          "Contoh 2: Könnten Sie mir bitte die formalen Richtlinien für das Exposé zusenden? (Könnten si: mir bitte di: formalen rikhtlini:n für das exposé tsusenden?) — Sudikah kiranya Anda mengirimkan panduan formal penulisan proposal riset kepada saya?"
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wenn ich mehr Zeit hätte, würde ich an der Sommerschule teilnehmen. — Seandainya saya memiliki lebih banyak waktu, saya akan mengikuti program sekolah musim panas tersebut."
+          "Contoh 3: Wenn ich mehr Zeit hätte, würde ich an der Sommerschule teilnehmen. (Wenn ikh mehr tsayt hätte, würde ikh an der sommersyule taylnehmen.) — Seandainya saya memiliki lebih banyak waktu, saya akan mengikuti program sekolah musim panas tersebut.",
+          "Hindari kesalahan: \"ich will eine Auskunft (unhöflich)\" → gunakan bentuk yang benar: \"ich hätte gern eine Auskunft / ich möchte\"."
         ]
       }
     ],
@@ -9473,19 +9536,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-21-ex-1",
         "native": "Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben.",
-        "phonetic": "",
+        "phonetic": "Ikh würde mikh sehr gern für di:ses daad-forsyungsstipendium bewerben.",
         "translationId": "Saya sangat ingin melamar program beasiswa riset DAAD ini."
       },
       {
         "id": "de-gram-21-ex-2",
         "native": "Könnten Sie mir bitte die formalen Richtlinien für das Exposé zusenden?",
-        "phonetic": "",
+        "phonetic": "Könnten si: mir bitte di: formalen rikhtlini:n für das exposé tsusenden?",
         "translationId": "Sudikah kiranya Anda mengirimkan panduan formal penulisan proposal riset kepada saya?"
       },
       {
         "id": "de-gram-21-ex-3",
         "native": "Wenn ich mehr Zeit hätte, würde ich an der Sommerschule teilnehmen.",
-        "phonetic": "",
+        "phonetic": "Wenn ikh mehr tsayt hätte, würde ikh an der sommersyule taylnehmen.",
         "translationId": "Seandainya saya memiliki lebih banyak waktu, saya akan mengikuti program sekolah musim panas tersebut."
       }
     ],
@@ -9501,7 +9564,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)\" (Würde + Infinitiv / Wäre / Hätte) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-21-pg-1",
@@ -9517,7 +9580,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Landasan-landasan teoretis yang menjadi tumpuan model ini sangat kokoh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben.\" berarti \"Saya sangat ingin melamar program beasiswa riset DAAD ini.\"."
+        "explanation": "Kalimat \"Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben.\" (dibaca: Ikh würde mikh sehr gern für di:ses daad-forsyungsstipendium bewerben.) berarti \"Saya sangat ingin melamar program beasiswa riset DAAD ini.\". Kalimat ini menggunakan pola \"Würde + Infinitiv / Wäre / Hätte\" (Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)) yang berfungsi untuk modus konjungtif II untuk mengungkapkan permohonan santun akademik, anjuran ilmiah, dan harapan bersyarat."
       },
       {
         "id": "q-de-gram-21-pg-2",
@@ -9533,7 +9596,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Könnten Sie mir bitte die formalen Richtlinien für das Exposé zusenden?\" berarti \"Sudikah kiranya Anda mengirimkan panduan formal penulisan proposal riset kepada saya?\"."
+        "explanation": "Kalimat \"Könnten Sie mir bitte die formalen Richtlinien für das Exposé zusenden?\" (dibaca: Könnten si: mir bitte di: formalen rikhtlini:n für das exposé tsusenden?) berarti \"Sudikah kiranya Anda mengirimkan panduan formal penulisan proposal riset kepada saya?\". Kalimat ini menggunakan pola \"Würde + Infinitiv / Wäre / Hätte\" (Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)) yang berfungsi untuk modus konjungtif II untuk mengungkapkan permohonan santun akademik, anjuran ilmiah, dan harapan bersyarat."
       },
       {
         "id": "q-de-gram-21-pg-3",
@@ -9549,7 +9612,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wenn ich mehr Zeit hätte, würde ich an der Sommerschule teilnehmen.\" berarti \"Seandainya saya memiliki lebih banyak waktu, saya akan mengikuti program sekolah musim panas tersebut.\"."
+        "explanation": "Kalimat \"Wenn ich mehr Zeit hätte, würde ich an der Sommerschule teilnehmen.\" (dibaca: Wenn ikh mehr tsayt hätte, würde ikh an der sommersyule taylnehmen.) berarti \"Seandainya saya memiliki lebih banyak waktu, saya akan mengikuti program sekolah musim panas tersebut.\". Kalimat ini menggunakan pola \"Würde + Infinitiv / Wäre / Hätte\" (Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)) yang berfungsi untuk modus konjungtif II untuk mengungkapkan permohonan santun akademik, anjuran ilmiah, dan harapan bersyarat."
       },
       {
         "id": "q-de-gram-21-pg-4",
@@ -9569,7 +9632,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-21-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)\"?",
         "options": [
           "Könnten Sie mir bitte die formalen Richtlinien für das Exposé zusenden? — Sudikah kiranya Anda mengirimkan panduan formal penulisan proposal riset kepada saya?",
           "Die theoretischen Grundlagen, auf denen dieses Modell beruht, sind solide. — Landasan-landasan teoretis yang menjadi tumpuan model ini sangat kokoh.",
@@ -9583,7 +9646,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-21-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)\"?",
         "options": [
           "Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern. — Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern.",
           "Wenn ich mehr Zeit hätte, würde ich an der Sommerschule teilnehmen. — Seandainya saya memiliki lebih banyak waktu, saya akan mengikuti program sekolah musim panas tersebut.",
@@ -9597,7 +9660,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-21-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -9844,7 +9907,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben.\" berarti \"Saya sangat ingin melamar program beasiswa riset DAAD ini.\"."
+        "explanation": "Kalimat \"Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben.\" (dibaca: Ikh würde mikh sehr gern für di:ses daad-forsyungsstipendium bewerben.) berarti \"Saya sangat ingin melamar program beasiswa riset DAAD ini.\". Kalimat ini menggunakan pola \"Würde + Infinitiv / Wäre / Hätte\" (Konjunktiv II der Höflichkeit und Wünsche (Würde, Wäre, Hätte)) yang berfungsi untuk modus konjungtif II untuk mengungkapkan permohonan santun akademik, anjuran ilmiah, dan harapan bersyarat."
       },
       {
         "id": "q-de-gram-21-bb-2",
@@ -9919,24 +9982,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Bentuk waktu lampau naratif wajib untuk teks ilmiah, biografi ilmuwan, dan laporan sejarah riset.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Das Präteritum im narrativen und akademischen Text' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Das Präteritum im narrativen und akademischen Text\" (Die regelmäßige und unregelmäßige Präteritumbildung) berfungsi untuk: bentuk waktu lampau naratif wajib untuk teks ilmiah, biografi ilmuwan, dan laporan sejarah riset. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905. — Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905."
+          "Rumus utama: Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)",
+          "Contoh 1: Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905. (Der nobelpraysträger formuli:rte di: grundlegende hypothese berayts im jahre 1905.) — Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam laporan ilmiah dan uraian sejarah akademik, gunakan bentuk waktu lampau Präteritum.",
         "ruleList": [
-          "Die Studierenden lasen die Fachliteratur und verfassten eine kritische Rezension. — Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis."
+          "Polanya: Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)",
+          "Contoh 2: Die Studierenden lasen die Fachliteratur und verfassten eine kritische Rezension. (Di: studi:renden lasen di: fakhliteratur und verfassten ayne kritisye retsension.) — Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Das Präteritum im narrativen und akademischen Text\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Das Forschungsinstitut entstand kurz nach der Jahrhundertwende. — Institut penelitian tersebut berdiri tak lama setelah pergantian abad."
+          "Contoh 3: Das Forschungsinstitut entstand kurz nach der Jahrhundertwende. (Das forsyungsinstitut entstand kurts nakh der jahrhundertwende.) — Institut penelitian tersebut berdiri tak lama setelah pergantian abad.",
+          "Hindari kesalahan: \"der Forscher hat formuliert (im historischen Bericht)\" → gunakan bentuk yang benar: \"der Forscher formulierte\"."
         ]
       }
     ],
@@ -9944,19 +10010,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-22-ex-1",
         "native": "Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905.",
-        "phonetic": "",
+        "phonetic": "Der nobelpraysträger formuli:rte di: grundlegende hypothese berayts im jahre 1905.",
         "translationId": "Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905."
       },
       {
         "id": "de-gram-22-ex-2",
         "native": "Die Studierenden lasen die Fachliteratur und verfassten eine kritische Rezension.",
-        "phonetic": "",
+        "phonetic": "Di: studi:renden lasen di: fakhliteratur und verfassten ayne kritisye retsension.",
         "translationId": "Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis."
       },
       {
         "id": "de-gram-22-ex-3",
         "native": "Das Forschungsinstitut entstand kurz nach der Jahrhundertwende.",
-        "phonetic": "",
+        "phonetic": "Das forsyungsinstitut entstand kurts nakh der jahrhundertwende.",
         "translationId": "Institut penelitian tersebut berdiri tak lama setelah pergantian abad."
       }
     ],
@@ -9972,7 +10038,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Das Präteritum im narrativen und akademischen Text' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Das Präteritum im narrativen und akademischen Text\" (Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-22-pg-1",
@@ -9988,7 +10054,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905.\" berarti \"Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905.\"."
+        "explanation": "Kalimat \"Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905.\" (dibaca: Der nobelpraysträger formuli:rte di: grundlegende hypothese berayts im jahre 1905.) berarti \"Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905.\". Kalimat ini menggunakan pola \"Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)\" (Das Präteritum im narrativen und akademischen Text) yang berfungsi untuk bentuk waktu lampau naratif wajib untuk teks ilmiah, biografi ilmuwan, dan laporan sejarah riset."
       },
       {
         "id": "q-de-gram-22-pg-2",
@@ -10004,7 +10070,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Studierenden lasen die Fachliteratur und verfassten eine kritische Rezension.\" berarti \"Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis.\"."
+        "explanation": "Kalimat \"Die Studierenden lasen die Fachliteratur und verfassten eine kritische Rezension.\" (dibaca: Di: studi:renden lasen di: fakhliteratur und verfassten ayne kritisye retsension.) berarti \"Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis.\". Kalimat ini menggunakan pola \"Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)\" (Das Präteritum im narrativen und akademischen Text) yang berfungsi untuk bentuk waktu lampau naratif wajib untuk teks ilmiah, biografi ilmuwan, dan laporan sejarah riset."
       },
       {
         "id": "q-de-gram-22-pg-3",
@@ -10020,7 +10086,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Institut penelitian tersebut berdiri tak lama setelah pergantian abad."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das Forschungsinstitut entstand kurz nach der Jahrhundertwende.\" berarti \"Institut penelitian tersebut berdiri tak lama setelah pergantian abad.\"."
+        "explanation": "Kalimat \"Das Forschungsinstitut entstand kurz nach der Jahrhundertwende.\" (dibaca: Das forsyungsinstitut entstand kurts nakh der jahrhundertwende.) berarti \"Institut penelitian tersebut berdiri tak lama setelah pergantian abad.\". Kalimat ini menggunakan pola \"Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)\" (Das Präteritum im narrativen und akademischen Text) yang berfungsi untuk bentuk waktu lampau naratif wajib untuk teks ilmiah, biografi ilmuwan, dan laporan sejarah riset."
       },
       {
         "id": "q-de-gram-22-pg-4",
@@ -10040,7 +10106,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-22-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Präteritum im narrativen und akademischen Text\"?",
         "options": [
           "Neue Richtlinien für wissenschaftliches Arbeiten werden an der Fakultät eingeführt. — Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas.",
           "Die Studierenden lasen die Fachliteratur und verfassten eine kritische Rezension. — Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis.",
@@ -10054,7 +10120,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-22-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Präteritum im narrativen und akademischen Text\"?",
         "options": [
           "Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert. — Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium.",
           "Die Daten werden mithilfe modernster statistischer Software ausgewertet. — Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir.",
@@ -10068,7 +10134,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-22-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Das Präteritum im narrativen und akademischen Text\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -10315,7 +10381,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905.\" berarti \"Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905.\"."
+        "explanation": "Kalimat \"Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905.\" (dibaca: Der nobelpraysträger formuli:rte di: grundlegende hypothese berayts im jahre 1905.) berarti \"Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905.\". Kalimat ini menggunakan pola \"Schwache Verben (-te) & Starke Verben (Vokalwechsel ohne Endung bei er)\" (Das Präteritum im narrativen und akademischen Text) yang berfungsi untuk bentuk waktu lampau naratif wajib untuk teks ilmiah, biografi ilmuwan, dan laporan sejarah riset."
       },
       {
         "id": "q-de-gram-22-bb-2",
@@ -10390,24 +10456,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Klausa relatif untuk memperluas informasi ilmiah secara elegan dengan kata ganti der, die, das sesuai fungsi kasus.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Relativsätze im Nominativ, Akkusativ und Dativ' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Relativsätze im Nominativ, Akkusativ und Dativ\" (Relativsätze mit den Relativpronomen der, die, das, die) berfungsi untuk: klausa relatif untuk memperluas informasi ilmiah secara elegan dengan kata ganti der, die, das sesuai fungsi kasus. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin. — Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin."
+          "Rumus utama: Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz",
+          "Contoh 1: Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin. (Der wissensyaftler, der di:sen bahnbrekhenden artikel verfasste, lehrt in berlin.) — Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata benda Projekt bergender netral (das Projekt), sehingga pronomina relatifnya adalah 'das'.",
         "ruleList": [
-          "Das Forschungsprojekt, das wir im Kolloquium präsentierten, fand großen Anklang. — Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat."
+          "Polanya: Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz",
+          "Contoh 2: Das Forschungsprojekt, das wir im Kolloquium präsentierten, fand großen Anklang. (Das forsyungsprojekt, das wir im kolloquium präsenti:rten, fand grossen anklang.) — Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Relativsätze im Nominativ, Akkusativ und Dativ\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die Dozentin, der die Studierenden dankten, leitet die Abteilung. — Dosen perempuan yang kepadanya para mahasiswa berterima kasih itu memimpin departemen tersebut."
+          "Contoh 3: Die Dozentin, der die Studierenden dankten, leitet die Abteilung. (Di: dotsentin, der di: studi:renden dankten, laytet di: abtaylung.) — Dosen perempuan yang kepadanya para mahasiswa berterima kasih itu memimpin departemen tersebut.",
+          "Hindari kesalahan: \"das Projekt der wir präsentierten\" → gunakan bentuk yang benar: \"das Projekt, das wir präsentierten\"."
         ]
       }
     ],
@@ -10415,19 +10484,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-23-ex-1",
         "native": "Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin.",
-        "phonetic": "",
+        "phonetic": "Der wissensyaftler, der di:sen bahnbrekhenden artikel verfasste, lehrt in berlin.",
         "translationId": "Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin."
       },
       {
         "id": "de-gram-23-ex-2",
         "native": "Das Forschungsprojekt, das wir im Kolloquium präsentierten, fand großen Anklang.",
-        "phonetic": "",
+        "phonetic": "Das forsyungsprojekt, das wir im kolloquium präsenti:rten, fand grossen anklang.",
         "translationId": "Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat."
       },
       {
         "id": "de-gram-23-ex-3",
         "native": "Die Dozentin, der die Studierenden dankten, leitet die Abteilung.",
-        "phonetic": "",
+        "phonetic": "Di: dotsentin, der di: studi:renden dankten, laytet di: abtaylung.",
         "translationId": "Dosen perempuan yang kepadanya para mahasiswa berterima kasih itu memimpin departemen tersebut."
       }
     ],
@@ -10443,7 +10512,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Relativsätze im Nominativ, Akkusativ und Dativ' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Relativsätze im Nominativ, Akkusativ und Dativ\" (Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-23-pg-1",
@@ -10459,7 +10528,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin.\" berarti \"Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin.\"."
+        "explanation": "Kalimat \"Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin.\" (dibaca: Der wissensyaftler, der di:sen bahnbrekhenden artikel verfasste, lehrt in berlin.) berarti \"Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin.\". Kalimat ini menggunakan pola \"Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz\" (Relativsätze im Nominativ, Akkusativ und Dativ) yang berfungsi untuk klausa relatif untuk memperluas informasi ilmiah secara elegan dengan kata ganti der, die, das sesuai fungsi kasus."
       },
       {
         "id": "q-de-gram-23-pg-2",
@@ -10475,7 +10544,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das Forschungsprojekt, das wir im Kolloquium präsentierten, fand großen Anklang.\" berarti \"Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat.\"."
+        "explanation": "Kalimat \"Das Forschungsprojekt, das wir im Kolloquium präsentierten, fand großen Anklang.\" (dibaca: Das forsyungsprojekt, das wir im kolloquium präsenti:rten, fand grossen anklang.) berarti \"Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat.\". Kalimat ini menggunakan pola \"Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz\" (Relativsätze im Nominativ, Akkusativ und Dativ) yang berfungsi untuk klausa relatif untuk memperluas informasi ilmiah secara elegan dengan kata ganti der, die, das sesuai fungsi kasus."
       },
       {
         "id": "q-de-gram-23-pg-3",
@@ -10491,7 +10560,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa tersebut berniat untuk memulai studi doktoralnya di Heidelberg."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die Dozentin, der die Studierenden dankten, leitet die Abteilung.\" berarti \"Dosen perempuan yang kepadanya para mahasiswa berterima kasih itu memimpin departemen tersebut.\"."
+        "explanation": "Kalimat \"Die Dozentin, der die Studierenden dankten, leitet die Abteilung.\" (dibaca: Di: dotsentin, der di: studi:renden dankten, laytet di: abtaylung.) berarti \"Dosen perempuan yang kepadanya para mahasiswa berterima kasih itu memimpin departemen tersebut.\". Kalimat ini menggunakan pola \"Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz\" (Relativsätze im Nominativ, Akkusativ und Dativ) yang berfungsi untuk klausa relatif untuk memperluas informasi ilmiah secara elegan dengan kata ganti der, die, das sesuai fungsi kasus."
       },
       {
         "id": "q-de-gram-23-pg-4",
@@ -10511,7 +10580,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-23-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Relativsätze im Nominativ, Akkusativ und Dativ\"?",
         "options": [
           "Diese Ergebnisse müssen vor der Veröffentlichung sorgfältig überprüft werden. — Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan.",
           "Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen. — Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya.",
@@ -10525,7 +10594,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-23-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Relativsätze im Nominativ, Akkusativ und Dativ\"?",
         "options": [
           "Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert. — Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif.",
           "Das Manuskript konnte trotz technischer Probleme rechtzeitig eingereicht werden. — Naskah tersebut berhasil diserahkan tepat waktu meskipun sempat terkendala masalah teknis.",
@@ -10539,7 +10608,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-23-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Relativsätze im Nominativ, Akkusativ und Dativ\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -10786,7 +10855,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin.\" berarti \"Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin.\"."
+        "explanation": "Kalimat \"Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin.\" (dibaca: Der wissensyaftler, der di:sen bahnbrekhenden artikel verfasste, lehrt in berlin.) berarti \"Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin.\". Kalimat ini menggunakan pola \"Relativpronomen richtet sich in Genus/Numerus nach dem Bezugswort, im Kasus nach der Funktion im Nebensatz\" (Relativsätze im Nominativ, Akkusativ und Dativ) yang berfungsi untuk klausa relatif untuk memperluas informasi ilmiah secara elegan dengan kata ganti der, die, das sesuai fungsi kasus."
       },
       {
         "id": "q-de-gram-23-bb-2",
@@ -10861,24 +10930,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Klausa relatif yang diawali kata depan: preposisi menentukan kasus pronomina relatif (in dem, mit denen, über das).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Relativsätze mit Präpositionen' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Relativsätze mit Präpositionen\" (Präpositionale Relativsätze in akademischen Texten) berfungsi untuk: klausa relatif yang diawali kata depan: preposisi menentukan kasus pronomina relatif (in dem, mit denen, über das). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern. — Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern."
+          "Rumus utama: Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende",
+          "Contoh 1: Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern. (Das labor, in dem di: experimente durkhgeführt werden, ist hokhmodern.) — Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa Jerman akademik, utamakan preposisi + pronomina relatif (in dem) dibanding 'wo'.",
         "ruleList": [
-          "Die theoretischen Grundlagen, auf denen dieses Modell beruht, sind solide. — Landasan-landasan teoretis yang menjadi tumpuan model ini sangat kokoh."
+          "Polanya: Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende",
+          "Contoh 2: Die theoretischen Grundlagen, auf denen dieses Modell beruht, sind solide. (Di: theoretisyen grundlagen, auf denen di:ses modell beruht, sind solide.) — Landasan-landasan teoretis yang menjadi tumpuan model ini sangat kokoh."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Relativsätze mit Präpositionen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Das Thema, über das wir diskutierten, berührt ethische Grundfragen. — Topik yang kami diskusikan tersebut menyentuh persoalan-persoalan etika mendasar."
+          "Contoh 3: Das Thema, über das wir diskutierten, berührt ethische Grundfragen. (Das thema, über das wir diskuti:rten, berührt ethisye grundfragen.) — Topik yang kami diskusikan tersebut menyentuh persoalan-persoalan etika mendasar.",
+          "Hindari kesalahan: \"das Labor wo die Experimente stattfinden (im formellen Deutsch)\" → gunakan bentuk yang benar: \"das Labor, in dem die Experimente stattfinden\"."
         ]
       }
     ],
@@ -10886,19 +10958,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-24-ex-1",
         "native": "Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern.",
-        "phonetic": "",
+        "phonetic": "Das labor, in dem di: experimente durkhgeführt werden, ist hokhmodern.",
         "translationId": "Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern."
       },
       {
         "id": "de-gram-24-ex-2",
         "native": "Die theoretischen Grundlagen, auf denen dieses Modell beruht, sind solide.",
-        "phonetic": "",
+        "phonetic": "Di: theoretisyen grundlagen, auf denen di:ses modell beruht, sind solide.",
         "translationId": "Landasan-landasan teoretis yang menjadi tumpuan model ini sangat kokoh."
       },
       {
         "id": "de-gram-24-ex-3",
         "native": "Das Thema, über das wir diskutierten, berührt ethische Grundfragen.",
-        "phonetic": "",
+        "phonetic": "Das thema, über das wir diskuti:rten, berührt ethisye grundfragen.",
         "translationId": "Topik yang kami diskusikan tersebut menyentuh persoalan-persoalan etika mendasar."
       }
     ],
@@ -10914,7 +10986,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Relativsätze mit Präpositionen' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Relativsätze mit Präpositionen\" (Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-24-pg-1",
@@ -10930,7 +11002,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern.\" berarti \"Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern.\"."
+        "explanation": "Kalimat \"Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern.\" (dibaca: Das labor, in dem di: experimente durkhgeführt werden, ist hokhmodern.) berarti \"Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern.\". Kalimat ini menggunakan pola \"Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende\" (Relativsätze mit Präpositionen) yang berfungsi untuk klausa relatif yang diawali kata depan: preposisi menentukan kasus pronomina relatif (in dem, mit denen, über das)."
       },
       {
         "id": "q-de-gram-24-pg-2",
@@ -10946,7 +11018,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die theoretischen Grundlagen, auf denen dieses Modell beruht, sind solide.\" berarti \"Landasan-landasan teoretis yang menjadi tumpuan model ini sangat kokoh.\"."
+        "explanation": "Kalimat \"Die theoretischen Grundlagen, auf denen dieses Modell beruht, sind solide.\" (dibaca: Di: theoretisyen grundlagen, auf denen di:ses modell beruht, sind solide.) berarti \"Landasan-landasan teoretis yang menjadi tumpuan model ini sangat kokoh.\". Kalimat ini menggunakan pola \"Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende\" (Relativsätze mit Präpositionen) yang berfungsi untuk klausa relatif yang diawali kata depan: preposisi menentukan kasus pronomina relatif (in dem, mit denen, über das)."
       },
       {
         "id": "q-de-gram-24-pg-3",
@@ -10962,7 +11034,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Baik hipotesis awal maupun hipotesis tandingan sama-sama tidak dapat dikonfirmasi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Das Thema, über das wir diskutierten, berührt ethische Grundfragen.\" berarti \"Topik yang kami diskusikan tersebut menyentuh persoalan-persoalan etika mendasar.\"."
+        "explanation": "Kalimat \"Das Thema, über das wir diskutierten, berührt ethische Grundfragen.\" (dibaca: Das thema, über das wir diskuti:rten, berührt ethisye grundfragen.) berarti \"Topik yang kami diskusikan tersebut menyentuh persoalan-persoalan etika mendasar.\". Kalimat ini menggunakan pola \"Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende\" (Relativsätze mit Präpositionen) yang berfungsi untuk klausa relatif yang diawali kata depan: preposisi menentukan kasus pronomina relatif (in dem, mit denen, über das)."
       },
       {
         "id": "q-de-gram-24-pg-4",
@@ -10982,7 +11054,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-24-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Relativsätze mit Präpositionen\"?",
         "options": [
           "Die Forscher führten Kontrolltests durch, um Fehlerquellen auszuschließen. — Para peneliti menjalankan uji kontrol guna mengeliminasi sumber-sumber kesalahan.",
           "Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten. — Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif.",
@@ -10996,7 +11068,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-24-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Relativsätze mit Präpositionen\"?",
         "options": [
           "Das Thema, über das wir diskutierten, berührt ethische Grundfragen. — Topik yang kami diskusikan tersebut menyentuh persoalan-persoalan etika mendasar.",
           "Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen. — Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya.",
@@ -11010,7 +11082,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-24-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Relativsätze mit Präpositionen\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -11257,7 +11329,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern.\" berarti \"Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern.\"."
+        "explanation": "Kalimat \"Das Labor, in dem die Experimente durchgeführt werden, ist hochmodern.\" (dibaca: Das labor, in dem di: experimente durkhgeführt werden, ist hokhmodern.) berarti \"Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern.\". Kalimat ini menggunakan pola \"Präposition + Relativpronomen (Dativ / Akkusativ) + Verb am Satzende\" (Relativsätze mit Präpositionen) yang berfungsi untuk klausa relatif yang diawali kata depan: preposisi menentukan kasus pronomina relatif (in dem, mit denen, über das)."
       },
       {
         "id": "q-de-gram-24-bb-2",
@@ -11332,24 +11404,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kalimat pasif proses waktu kini untuk mendeskripsikan metodologi penelitian objektif tanpa subjek pelaku persona.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Vorgangspassiv im Präsens (Werden + Partizip II)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Vorgangspassiv im Präsens (Werden + Partizip II)\" (Das Vorgangspassiv zur Betonung der Handlung im wissenschaftlichen Stil) berfungsi untuk: kalimat pasif proses waktu kini untuk mendeskripsikan metodologi penelitian objektif tanpa subjek pelaku persona. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert. — Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium."
+          "Rumus utama: Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)",
+          "Contoh 1: Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert. (Di: khemisyen proben werden unter sterilen bedingungen im labor analysi:rt.) — Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Vorgangspassiv (werden + Partizip II) adalah sarana utama untuk menyusun laporan riset yang objektif.",
         "ruleList": [
-          "Neue Richtlinien für wissenschaftliches Arbeiten werden an der Fakultät eingeführt. — Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas."
+          "Polanya: Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)",
+          "Contoh 2: Neue Richtlinien für wissenschaftliches Arbeiten werden an der Fakultät eingeführt. (Noye rikhtlini:n für wissensyaftlikhes arbayten werden an der fakultät ayngeführt.) — Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Vorgangspassiv im Präsens (Werden + Partizip II)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die Daten werden mithilfe modernster statistischer Software ausgewertet. — Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir."
+          "Contoh 3: Die Daten werden mithilfe modernster statistischer Software ausgewertet. (Di: daten werden mithilfe modernster statistisyer software ausgewertet.) — Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir.",
+          "Hindari kesalahan: \"man analysiert die Proben (zu informell)\" → gunakan bentuk yang benar: \"die Proben werden analysiert\"."
         ]
       }
     ],
@@ -11357,19 +11432,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-25-ex-1",
         "native": "Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert.",
-        "phonetic": "",
+        "phonetic": "Di: khemisyen proben werden unter sterilen bedingungen im labor analysi:rt.",
         "translationId": "Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium."
       },
       {
         "id": "de-gram-25-ex-2",
         "native": "Neue Richtlinien für wissenschaftliches Arbeiten werden an der Fakultät eingeführt.",
-        "phonetic": "",
+        "phonetic": "Noye rikhtlini:n für wissensyaftlikhes arbayten werden an der fakultät ayngeführt.",
         "translationId": "Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas."
       },
       {
         "id": "de-gram-25-ex-3",
         "native": "Die Daten werden mithilfe modernster statistischer Software ausgewertet.",
-        "phonetic": "",
+        "phonetic": "Di: daten werden mithilfe modernster statistisyer software ausgewertet.",
         "translationId": "Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir."
       }
     ],
@@ -11385,7 +11460,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Vorgangspassiv im Präsens (Werden + Partizip II)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Vorgangspassiv im Präsens (Werden + Partizip II)\" (Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-25-pg-1",
@@ -11401,7 +11476,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Model ini tidak hanya berlandaskan teori yang kuat, melainkan juga dapat diterapkan secara praktis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert.\" berarti \"Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium.\"."
+        "explanation": "Kalimat \"Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert.\" (dibaca: Di: khemisyen proben werden unter sterilen bedingungen im labor analysi:rt.) berarti \"Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium.\". Kalimat ini menggunakan pola \"Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)\" (Vorgangspassiv im Präsens (Werden + Partizip II)) yang berfungsi untuk kalimat pasif proses waktu kini untuk mendeskripsikan metodologi penelitian objektif tanpa subjek pelaku persona."
       },
       {
         "id": "q-de-gram-25-pg-2",
@@ -11417,7 +11492,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Neue Richtlinien für wissenschaftliches Arbeiten werden an der Fakultät eingeführt.\" berarti \"Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas.\"."
+        "explanation": "Kalimat \"Neue Richtlinien für wissenschaftliches Arbeiten werden an der Fakultät eingeführt.\" (dibaca: Noye rikhtlini:n für wissensyaftlikhes arbayten werden an der fakultät ayngeführt.) berarti \"Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas.\". Kalimat ini menggunakan pola \"Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)\" (Vorgangspassiv im Präsens (Werden + Partizip II)) yang berfungsi untuk kalimat pasif proses waktu kini untuk mendeskripsikan metodologi penelitian objektif tanpa subjek pelaku persona."
       },
       {
         "id": "q-de-gram-25-pg-3",
@@ -11433,7 +11508,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Daten werden mithilfe modernster statistischer Software ausgewertet.\" berarti \"Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir.\"."
+        "explanation": "Kalimat \"Die Daten werden mithilfe modernster statistischer Software ausgewertet.\" (dibaca: Di: daten werden mithilfe modernster statistisyer software ausgewertet.) berarti \"Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir.\". Kalimat ini menggunakan pola \"Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)\" (Vorgangspassiv im Präsens (Werden + Partizip II)) yang berfungsi untuk kalimat pasif proses waktu kini untuk mendeskripsikan metodologi penelitian objektif tanpa subjek pelaku persona."
       },
       {
         "id": "q-de-gram-25-pg-4",
@@ -11453,7 +11528,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-25-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Vorgangspassiv im Präsens (Werden + Partizip II)\"?",
         "options": [
           "Neue Richtlinien für wissenschaftliches Arbeiten werden an der Fakultät eingeführt. — Pedoman baru untuk penulisan karya ilmiah sedang diberlakukan di fakultas.",
           "Das Modell ist nicht nur theoretisch fundiert, sondern auch praktisch anwendbar. — Model ini tidak hanya berlandaskan teori yang kuat, melainkan juga dapat diterapkan secara praktis.",
@@ -11467,7 +11542,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-25-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Vorgangspassiv im Präsens (Werden + Partizip II)\"?",
         "options": [
           "Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten. — Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif.",
           "Die Daten werden mithilfe modernster statistischer Software ausgewertet. — Data-data tersebut dievaluasi menggunakan perangkat lunak statistik paling mutakhir.",
@@ -11481,7 +11556,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-25-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Vorgangspassiv im Präsens (Werden + Partizip II)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -11728,7 +11803,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert.\" berarti \"Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium.\"."
+        "explanation": "Kalimat \"Die chemischen Proben werden unter sterilen Bedingungen im Labor analysiert.\" (dibaca: Di: khemisyen proben werden unter sterilen bedingungen im labor analysi:rt.) berarti \"Sampel-sampel kimiawi tersebut dianalisis dalam kondisi steril di laboratorium.\". Kalimat ini menggunakan pola \"Subjekt + Werden (Präsens) + Satzklammer + Partizip II (Satzende)\" (Vorgangspassiv im Präsens (Werden + Partizip II)) yang berfungsi untuk kalimat pasif proses waktu kini untuk mendeskripsikan metodologi penelitian objektif tanpa subjek pelaku persona."
       },
       {
         "id": "q-de-gram-25-bb-2",
@@ -11803,24 +11878,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk pasif lampau dan pasif berpadu kata kerja modalitas untuk menegaskan keharusan prosedur eksperimen.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Vorgangspassiv im Präteritum und mit Modalverben' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Vorgangspassiv im Präteritum und mit Modalverben\" (Passivformen in der Vergangenheit und in Verbindung mit Modalverben) berfungsi untuk: membentuk pasif lampau dan pasif berpadu kata kerja modalitas untuk menegaskan keharusan prosedur eksperimen. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert. — Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif."
+          "Rumus utama: Wurden + Partizip II & Müssen/Können + Partizip II + Werden",
+          "Contoh 1: Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert. (Di: hypothese wurde durkh tsahlraykhe empirisye versukhsrayhen verifitsi:rt.) — Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Wurden + Partizip II & Müssen/Können + Partizip II + Werden memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Wurden + Partizip II & Müssen/Können + Partizip II + Werden\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk pasif lampau 'wurde + Partizip II' merupakan standar utama dalam publikasi ilmiah.",
         "ruleList": [
-          "Diese Ergebnisse müssen vor der Veröffentlichung sorgfältig überprüft werden. — Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan."
+          "Polanya: Wurden + Partizip II & Müssen/Können + Partizip II + Werden",
+          "Contoh 2: Diese Ergebnisse müssen vor der Veröffentlichung sorgfältig überprüft werden. (Di:se ergebnisse müssen vor der veröffentlikhung sorgfältig überprüft werden.) — Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Vorgangspassiv im Präteritum und mit Modalverben\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Das Manuskript konnte trotz technischer Probleme rechtzeitig eingereicht werden. — Naskah tersebut berhasil diserahkan tepat waktu meskipun sempat terkendala masalah teknis."
+          "Contoh 3: Das Manuskript konnte trotz technischer Probleme rechtzeitig eingereicht werden. (Das manuskript konnte trotts tekhnisyer probleme rekhttsaytig ayngeraykht werden.) — Naskah tersebut berhasil diserahkan tepat waktu meskipun sempat terkendala masalah teknis.",
+          "Hindari kesalahan: \"die Hypothese ist verifiziert worden (oft zu lang)\" → gunakan bentuk yang benar: \"die Hypothese wurde verifiziert\"."
         ]
       }
     ],
@@ -11828,19 +11906,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-26-ex-1",
         "native": "Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert.",
-        "phonetic": "",
+        "phonetic": "Di: hypothese wurde durkh tsahlraykhe empirisye versukhsrayhen verifitsi:rt.",
         "translationId": "Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif."
       },
       {
         "id": "de-gram-26-ex-2",
         "native": "Diese Ergebnisse müssen vor der Veröffentlichung sorgfältig überprüft werden.",
-        "phonetic": "",
+        "phonetic": "Di:se ergebnisse müssen vor der veröffentlikhung sorgfältig überprüft werden.",
         "translationId": "Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan."
       },
       {
         "id": "de-gram-26-ex-3",
         "native": "Das Manuskript konnte trotz technischer Probleme rechtzeitig eingereicht werden.",
-        "phonetic": "",
+        "phonetic": "Das manuskript konnte trotts tekhnisyer probleme rekhttsaytig ayngeraykht werden.",
         "translationId": "Naskah tersebut berhasil diserahkan tepat waktu meskipun sempat terkendala masalah teknis."
       }
     ],
@@ -11856,7 +11934,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Vorgangspassiv im Präteritum und mit Modalverben' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Vorgangspassiv im Präteritum und mit Modalverben\" (Wurden + Partizip II & Müssen/Können + Partizip II + Werden) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-26-pg-1",
@@ -11872,7 +11950,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert.\" berarti \"Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif.\"."
+        "explanation": "Kalimat \"Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert.\" (dibaca: Di: hypothese wurde durkh tsahlraykhe empirisye versukhsrayhen verifitsi:rt.) berarti \"Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif.\". Kalimat ini menggunakan pola \"Wurden + Partizip II & Müssen/Können + Partizip II + Werden\" (Vorgangspassiv im Präteritum und mit Modalverben) yang berfungsi untuk membentuk pasif lampau dan pasif berpadu kata kerja modalitas untuk menegaskan keharusan prosedur eksperimen."
       },
       {
         "id": "q-de-gram-26-pg-2",
@@ -11888,7 +11966,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kelompok riset itu berfokus pada analisis mutasi genetik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Diese Ergebnisse müssen vor der Veröffentlichung sorgfältig überprüft werden.\" berarti \"Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan.\"."
+        "explanation": "Kalimat \"Diese Ergebnisse müssen vor der Veröffentlichung sorgfältig überprüft werden.\" (dibaca: Di:se ergebnisse müssen vor der veröffentlikhung sorgfältig überprüft werden.) berarti \"Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan.\". Kalimat ini menggunakan pola \"Wurden + Partizip II & Müssen/Können + Partizip II + Werden\" (Vorgangspassiv im Präteritum und mit Modalverben) yang berfungsi untuk membentuk pasif lampau dan pasif berpadu kata kerja modalitas untuk menegaskan keharusan prosedur eksperimen."
       },
       {
         "id": "q-de-gram-26-pg-3",
@@ -11904,7 +11982,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Naskah tersebut berhasil diserahkan tepat waktu meskipun sempat terkendala masalah teknis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das Manuskript konnte trotz technischer Probleme rechtzeitig eingereicht werden.\" berarti \"Naskah tersebut berhasil diserahkan tepat waktu meskipun sempat terkendala masalah teknis.\"."
+        "explanation": "Kalimat \"Das Manuskript konnte trotz technischer Probleme rechtzeitig eingereicht werden.\" (dibaca: Das manuskript konnte trotts tekhnisyer probleme rekhttsaytig ayngeraykht werden.) berarti \"Naskah tersebut berhasil diserahkan tepat waktu meskipun sempat terkendala masalah teknis.\". Kalimat ini menggunakan pola \"Wurden + Partizip II & Müssen/Können + Partizip II + Werden\" (Vorgangspassiv im Präteritum und mit Modalverben) yang berfungsi untuk membentuk pasif lampau dan pasif berpadu kata kerja modalitas untuk menegaskan keharusan prosedur eksperimen."
       },
       {
         "id": "q-de-gram-26-pg-4",
@@ -11924,7 +12002,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-26-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Vorgangspassiv im Präteritum und mit Modalverben\"?",
         "options": [
           "Wenn man wissenschaftliche Thesen aufstellt, muss man sie empirisch belegen. — Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris.",
           "Diese Ergebnisse müssen vor der Veröffentlichung sorgfältig überprüft werden. — Hasil-hasil temuan ini harus diperiksa ulang dengan cermat sebelum dipublikasikan.",
@@ -11938,7 +12016,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-26-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Vorgangspassiv im Präteritum und mit Modalverben\"?",
         "options": [
           "Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne. — Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne.",
           "Während die Kontrollgruppe schlief, zeichneten die Monitore die Hirnströme auf. — Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak.",
@@ -11952,7 +12030,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-26-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Vorgangspassiv im Präteritum und mit Modalverben\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -12199,7 +12277,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert.\" berarti \"Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif.\"."
+        "explanation": "Kalimat \"Die Hypothese wurde durch zahlreiche empirische Versuchsreihen verifiziert.\" (dibaca: Di: hypothese wurde durkh tsahlraykhe empirisye versukhsrayhen verifitsi:rt.) berarti \"Hipotesis tersebut telah diverifikasi melalui serangkaian percobaan empiris yang ekstensif.\". Kalimat ini menggunakan pola \"Wurden + Partizip II & Müssen/Können + Partizip II + Werden\" (Vorgangspassiv im Präteritum und mit Modalverben) yang berfungsi untuk membentuk pasif lampau dan pasif berpadu kata kerja modalitas untuk menegaskan keharusan prosedur eksperimen."
       },
       {
         "id": "q-de-gram-26-bb-2",
@@ -12274,24 +12352,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konstruksi anak kalimat infinitif untuk melengkapi kata sifat/verba tertentu serta menyatakan tujuan aksi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Infinitivkonstruktionen mit Zu und Um ... Zu' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Infinitivkonstruktionen mit Zu und Um ... Zu\" (Infinitivsätze mit 'zu' und die finale Absicht mit 'um ... zu') berfungsi untuk: konstruksi anak kalimat infinitif untuk melengkapi kata sifat/verba tertentu serta menyatakan tujuan aksi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen. — Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya."
+          "Rumus utama: Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv",
+          "Contoh 1: Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen. (Es ist unabdingbar, alle primärquellen vor dem tsiti:ren kritisy tsu prüfen.) — Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pada konstruksi um ... zu, partikel 'zu' disisipkan atau diletakkan tepat sebelum infinitif di akhir klausa.",
         "ruleList": [
-          "Die Forscher führten Kontrolltests durch, um Fehlerquellen auszuschließen. — Para peneliti menjalankan uji kontrol guna mengeliminasi sumber-sumber kesalahan."
+          "Polanya: Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv",
+          "Contoh 2: Die Forscher führten Kontrolltests durch, um Fehlerquellen auszuschließen. (Di: forsyer führten kontrolltests durkh, um fehlerquellen austsusyli:ssen.) — Para peneliti menjalankan uji kontrol guna mengeliminasi sumber-sumber kesalahan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Infinitivkonstruktionen mit Zu und Um ... Zu\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Der Student hat die Absicht, seine Promotion in Heidelberg zu beginnen. — Mahasiswa tersebut berniat untuk memulai studi doktoralnya di Heidelberg."
+          "Contoh 3: Der Student hat die Absicht, seine Promotion in Heidelberg zu beginnen. (Der student hat di: absikht, sayne promotion in haydelberg tsu beginnen.) — Mahasiswa tersebut berniat untuk memulai studi doktoralnya di Heidelberg.",
+          "Hindari kesalahan: \"um ausschließen Fehlerquellen\" → gunakan bentuk yang benar: \"um Fehlerquellen auszuschließen\"."
         ]
       }
     ],
@@ -12299,19 +12380,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-27-ex-1",
         "native": "Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen.",
-        "phonetic": "",
+        "phonetic": "Es ist unabdingbar, alle primärquellen vor dem tsiti:ren kritisy tsu prüfen.",
         "translationId": "Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya."
       },
       {
         "id": "de-gram-27-ex-2",
         "native": "Die Forscher führten Kontrolltests durch, um Fehlerquellen auszuschließen.",
-        "phonetic": "",
+        "phonetic": "Di: forsyer führten kontrolltests durkh, um fehlerquellen austsusyli:ssen.",
         "translationId": "Para peneliti menjalankan uji kontrol guna mengeliminasi sumber-sumber kesalahan."
       },
       {
         "id": "de-gram-27-ex-3",
         "native": "Der Student hat die Absicht, seine Promotion in Heidelberg zu beginnen.",
-        "phonetic": "",
+        "phonetic": "Der student hat di: absikht, sayne promotion in haydelberg tsu beginnen.",
         "translationId": "Mahasiswa tersebut berniat untuk memulai studi doktoralnya di Heidelberg."
       }
     ],
@@ -12327,7 +12408,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Infinitivkonstruktionen mit Zu und Um ... Zu' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Infinitivkonstruktionen mit Zu und Um ... Zu\" (Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-27-pg-1",
@@ -12343,7 +12424,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen.\" berarti \"Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya.\"."
+        "explanation": "Kalimat \"Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen.\" (dibaca: Es ist unabdingbar, alle primärquellen vor dem tsiti:ren kritisy tsu prüfen.) berarti \"Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya.\". Kalimat ini menggunakan pola \"Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv\" (Infinitivkonstruktionen mit Zu und Um ... Zu) yang berfungsi untuk konstruksi anak kalimat infinitif untuk melengkapi kata sifat/verba tertentu serta menyatakan tujuan aksi."
       },
       {
         "id": "q-de-gram-27-pg-2",
@@ -12359,7 +12440,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para peneliti menjalankan uji kontrol guna mengeliminasi sumber-sumber kesalahan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Forscher führten Kontrolltests durch, um Fehlerquellen auszuschließen.\" berarti \"Para peneliti menjalankan uji kontrol guna mengeliminasi sumber-sumber kesalahan.\"."
+        "explanation": "Kalimat \"Die Forscher führten Kontrolltests durch, um Fehlerquellen auszuschließen.\" (dibaca: Di: forsyer führten kontrolltests durkh, um fehlerquellen austsusyli:ssen.) berarti \"Para peneliti menjalankan uji kontrol guna mengeliminasi sumber-sumber kesalahan.\". Kalimat ini menggunakan pola \"Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv\" (Infinitivkonstruktionen mit Zu und Um ... Zu) yang berfungsi untuk konstruksi anak kalimat infinitif untuk melengkapi kata sifat/verba tertentu serta menyatakan tujuan aksi."
       },
       {
         "id": "q-de-gram-27-pg-3",
@@ -12375,7 +12456,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saya memiliki lebih banyak waktu, saya akan mengikuti program sekolah musim panas tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Student hat die Absicht, seine Promotion in Heidelberg zu beginnen.\" berarti \"Mahasiswa tersebut berniat untuk memulai studi doktoralnya di Heidelberg.\"."
+        "explanation": "Kalimat \"Der Student hat die Absicht, seine Promotion in Heidelberg zu beginnen.\" (dibaca: Der student hat di: absikht, sayne promotion in haydelberg tsu beginnen.) berarti \"Mahasiswa tersebut berniat untuk memulai studi doktoralnya di Heidelberg.\". Kalimat ini menggunakan pola \"Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv\" (Infinitivkonstruktionen mit Zu und Um ... Zu) yang berfungsi untuk konstruksi anak kalimat infinitif untuk melengkapi kata sifat/verba tertentu serta menyatakan tujuan aksi."
       },
       {
         "id": "q-de-gram-27-pg-4",
@@ -12395,7 +12476,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-27-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Infinitivkonstruktionen mit Zu und Um ... Zu\"?",
         "options": [
           "Worüber haben Sie im Seminar diskutiert? Wir haben über die Methodik gesprochen. — Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian.",
           "Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben. — Saya sangat ingin melamar program beasiswa riset DAAD ini.",
@@ -12409,7 +12490,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-27-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Infinitivkonstruktionen mit Zu und Um ... Zu\"?",
         "options": [
           "Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen. — Kelompok riset itu berfokus pada analisis mutasi genetik.",
           "Der Erfolg der Promotion hängt von einer sorgfältigen Zeitplanung ab. — Keberhasilan studi doktoral bergantung pada perencanaan waktu yang matang.",
@@ -12423,7 +12504,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-27-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Infinitivkonstruktionen mit Zu und Um ... Zu\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -12672,7 +12753,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kelompok riset itu berfokus pada analisis mutasi genetik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen.\" berarti \"Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya.\"."
+        "explanation": "Kalimat \"Es ist unabdingbar, alle Primärquellen vor dem Zitieren kritisch zu prüfen.\" (dibaca: Es ist unabdingbar, alle primärquellen vor dem tsiti:ren kritisy tsu prüfen.) berarti \"Sangatlah mutlak untuk memeriksa seluruh sumber primer secara kritis sebelum mengutipnya.\". Kalimat ini menggunakan pola \"Es ist wichtig, zu + Infinitiv & Um + Rest + Zu + Infinitiv\" (Infinitivkonstruktionen mit Zu und Um ... Zu) yang berfungsi untuk konstruksi anak kalimat infinitif untuk melengkapi kata sifat/verba tertentu serta menyatakan tujuan aksi."
       },
       {
         "id": "q-de-gram-27-bb-2",
@@ -12747,24 +12828,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata penghubung ganda korelatif untuk menyusun perbandingan proposisi ilmiah berimbang dalam paragraf esai.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)\" (Doppelkonnektoren zur logischen Verknüpfung von Satzgliedern) berfungsi untuk: kata penghubung ganda korelatif untuk menyusun perbandingan proposisi ilmiah berimbang dalam paragraf esai. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten. — Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif."
+          "Rumus utama: Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits",
+          "Contoh 1: Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten. (Di: studi: berücksikhtigt sowohl qualitative intervi:ws als aukh quantitative umfragedaten.) — Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa Jerman tulis baku, pasangan konjungsi ganda yang tepat adalah 'sowohl ... als auch'.",
         "ruleList": [
-          "Das Modell ist nicht nur theoretisch fundiert, sondern auch praktisch anwendbar. — Model ini tidak hanya berlandaskan teori yang kuat, melainkan juga dapat diterapkan secara praktis."
+          "Polanya: Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits",
+          "Contoh 2: Das Modell ist nicht nur theoretisch fundiert, sondern auch praktisch anwendbar. (Das modell ist nikht nur theoretisy fundi:rt, sondern aukh praktisy anwendbar.) — Model ini tidak hanya berlandaskan teori yang kuat, melainkan juga dapat diterapkan secara praktis."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Weder die ursprüngliche Hypothese noch die Gegenthese konnte bestätigt werden. — Baik hipotesis awal maupun hipotesis tandingan sama-sama tidak dapat dikonfirmasi."
+          "Contoh 3: Weder die ursprüngliche Hypothese noch die Gegenthese konnte bestätigt werden. (Weder di: ursprünglikhe hypothese nokh di: gegenthese konnte bestätigt werden.) — Baik hipotesis awal maupun hipotesis tandingan sama-sama tidak dapat dikonfirmasi.",
+          "Hindari kesalahan: \"sowohl... wie auch (stilistisch schwächer)\" → gunakan bentuk yang benar: \"sowohl... als auch\"."
         ]
       }
     ],
@@ -12772,19 +12856,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-28-ex-1",
         "native": "Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten.",
-        "phonetic": "",
+        "phonetic": "Di: studi: berücksikhtigt sowohl qualitative intervi:ws als aukh quantitative umfragedaten.",
         "translationId": "Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif."
       },
       {
         "id": "de-gram-28-ex-2",
         "native": "Das Modell ist nicht nur theoretisch fundiert, sondern auch praktisch anwendbar.",
-        "phonetic": "",
+        "phonetic": "Das modell ist nikht nur theoretisy fundi:rt, sondern aukh praktisy anwendbar.",
         "translationId": "Model ini tidak hanya berlandaskan teori yang kuat, melainkan juga dapat diterapkan secara praktis."
       },
       {
         "id": "de-gram-28-ex-3",
         "native": "Weder die ursprüngliche Hypothese noch die Gegenthese konnte bestätigt werden.",
-        "phonetic": "",
+        "phonetic": "Weder di: ursprünglikhe hypothese nokh di: gegenthese konnte bestätigt werden.",
         "translationId": "Baik hipotesis awal maupun hipotesis tandingan sama-sama tidak dapat dikonfirmasi."
       }
     ],
@@ -12800,7 +12884,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)\" (Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-28-pg-1",
@@ -12816,7 +12900,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten.\" berarti \"Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif.\"."
+        "explanation": "Kalimat \"Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten.\" (dibaca: Di: studi: berücksikhtigt sowohl qualitative intervi:ws als aukh quantitative umfragedaten.) berarti \"Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif.\". Kalimat ini menggunakan pola \"Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits\" (Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)) yang berfungsi untuk kata penghubung ganda korelatif untuk menyusun perbandingan proposisi ilmiah berimbang dalam paragraf esai."
       },
       {
         "id": "q-de-gram-28-pg-2",
@@ -12832,7 +12916,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Das Modell ist nicht nur theoretisch fundiert, sondern auch praktisch anwendbar.\" berarti \"Model ini tidak hanya berlandaskan teori yang kuat, melainkan juga dapat diterapkan secara praktis.\"."
+        "explanation": "Kalimat \"Das Modell ist nicht nur theoretisch fundiert, sondern auch praktisch anwendbar.\" (dibaca: Das modell ist nikht nur theoretisy fundi:rt, sondern aukh praktisy anwendbar.) berarti \"Model ini tidak hanya berlandaskan teori yang kuat, melainkan juga dapat diterapkan secara praktis.\". Kalimat ini menggunakan pola \"Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits\" (Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)) yang berfungsi untuk kata penghubung ganda korelatif untuk menyusun perbandingan proposisi ilmiah berimbang dalam paragraf esai."
       },
       {
         "id": "q-de-gram-28-pg-3",
@@ -12848,7 +12932,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Institut penelitian tersebut berdiri tak lama setelah pergantian abad."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Weder die ursprüngliche Hypothese noch die Gegenthese konnte bestätigt werden.\" berarti \"Baik hipotesis awal maupun hipotesis tandingan sama-sama tidak dapat dikonfirmasi.\"."
+        "explanation": "Kalimat \"Weder die ursprüngliche Hypothese noch die Gegenthese konnte bestätigt werden.\" (dibaca: Weder di: ursprünglikhe hypothese nokh di: gegenthese konnte bestätigt werden.) berarti \"Baik hipotesis awal maupun hipotesis tandingan sama-sama tidak dapat dikonfirmasi.\". Kalimat ini menggunakan pola \"Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits\" (Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)) yang berfungsi untuk kata penghubung ganda korelatif untuk menyusun perbandingan proposisi ilmiah berimbang dalam paragraf esai."
       },
       {
         "id": "q-de-gram-28-pg-4",
@@ -12868,7 +12952,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-28-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)\"?",
         "options": [
           "Könnten Sie mir bitte die formalen Richtlinien für das Exposé zusenden? — Sudikah kiranya Anda mengirimkan panduan formal penulisan proposal riset kepada saya?",
           "Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905. — Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905.",
@@ -12882,7 +12966,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-28-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)\"?",
         "options": [
           "Weder die ursprüngliche Hypothese noch die Gegenthese konnte bestätigt werden. — Baik hipotesis awal maupun hipotesis tandingan sama-sama tidak dapat dikonfirmasi.",
           "Ich würde mich sehr gern für dieses DAAD-Forschungsstipendium bewerben. — Saya sangat ingin melamar program beasiswa riset DAAD ini.",
@@ -12896,7 +12980,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-28-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -13143,7 +13227,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Saya sangat ingin melamar program beasiswa riset DAAD ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten.\" berarti \"Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif.\"."
+        "explanation": "Kalimat \"Die Studie berücksichtigt sowohl qualitative Interviews als auch quantitative Umfragedaten.\" (dibaca: Di: studi: berücksikhtigt sowohl qualitative intervi:ws als aukh quantitative umfragedaten.) berarti \"Studi ini mempertimbangkan baik wawancara kualitatif maupun data survei kuantitatif.\". Kalimat ini menggunakan pola \"Sowohl ... als auch / Weder ... noch / Nicht nur ... sondern auch / Einerseits ... andererseits\" (Zweiteilige Konnektoren (Sowohl... als auch, Weder... noch)) yang berfungsi untuk kata penghubung ganda korelatif untuk menyusun perbandingan proposisi ilmiah berimbang dalam paragraf esai."
       },
       {
         "id": "q-de-gram-28-bb-2",
@@ -13218,24 +13302,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membedakan peristiwa lampau sekali terjadi (als) dengan kebiasaan/pengandaian umum (wenn) serta aksi simultan (während).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Temporale und Konditionale Nebensätze (Wenn, Als, Während)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Temporale und Konditionale Nebensätze (Wenn, Als, Während)\" (Subjunktionen der Zeit: Der Unterschied zwischen 'wenn' und 'als') berfungsi untuk: membedakan peristiwa lampau sekali terjadi (als) dengan kebiasaan/pengandaian umum (wenn) serta aksi simultan (während). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne. — Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne."
+          "Rumus utama: Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)",
+          "Contoh 1: Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne. (Als der wissensyaftler di: entdeckung makhte, arbaytete er an der sorbonne.) — Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk kejadian atau periode yang hanya terjadi satu kali di masa lampau, wajib gunakan konjungsi 'als'.",
         "ruleList": [
-          "Wenn man wissenschaftliche Thesen aufstellt, muss man sie empirisch belegen. — Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris."
+          "Polanya: Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)",
+          "Contoh 2: Wenn man wissenschaftliche Thesen aufstellt, muss man sie empirisch belegen. (Wenn man wissensyaftlikhe thesen aufstellt, muss man si: empirisy belegen.) — Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Temporale und Konditionale Nebensätze (Wenn, Als, Während)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Während die Kontrollgruppe schlief, zeichneten die Monitore die Hirnströme auf. — Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak."
+          "Contoh 3: Während die Kontrollgruppe schlief, zeichneten die Monitore die Hirnströme auf. (Während di: kontrollgruppe syli:f, tsaykhneten di: monitore di: hirnströme auf.) — Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak.",
+          "Hindari kesalahan: \"wenn ich klein war (einmalig vergangen)\" → gunakan bentuk yang benar: \"als ich klein war\"."
         ]
       }
     ],
@@ -13243,19 +13330,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-29-ex-1",
         "native": "Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne.",
-        "phonetic": "",
+        "phonetic": "Als der wissensyaftler di: entdeckung makhte, arbaytete er an der sorbonne.",
         "translationId": "Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne."
       },
       {
         "id": "de-gram-29-ex-2",
         "native": "Wenn man wissenschaftliche Thesen aufstellt, muss man sie empirisch belegen.",
-        "phonetic": "",
+        "phonetic": "Wenn man wissensyaftlikhe thesen aufstellt, muss man si: empirisy belegen.",
         "translationId": "Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris."
       },
       {
         "id": "de-gram-29-ex-3",
         "native": "Während die Kontrollgruppe schlief, zeichneten die Monitore die Hirnströme auf.",
-        "phonetic": "",
+        "phonetic": "Während di: kontrollgruppe syli:f, tsaykhneten di: monitore di: hirnströme auf.",
         "translationId": "Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak."
       }
     ],
@@ -13271,7 +13358,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Temporale und Konditionale Nebensätze (Wenn, Als, Während)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Temporale und Konditionale Nebensätze (Wenn, Als, Während)\" (Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-29-pg-1",
@@ -13287,7 +13374,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne.\" berarti \"Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne.\"."
+        "explanation": "Kalimat \"Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne.\" (dibaca: Als der wissensyaftler di: entdeckung makhte, arbaytete er an der sorbonne.) berarti \"Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne.\". Kalimat ini menggunakan pola \"Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)\" (Temporale und Konditionale Nebensätze (Wenn, Als, Während)) yang berfungsi untuk membedakan peristiwa lampau sekali terjadi (als) dengan kebiasaan/pengandaian umum (wenn) serta aksi simultan (während)."
       },
       {
         "id": "q-de-gram-29-pg-2",
@@ -13303,7 +13390,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wenn man wissenschaftliche Thesen aufstellt, muss man sie empirisch belegen.\" berarti \"Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris.\"."
+        "explanation": "Kalimat \"Wenn man wissenschaftliche Thesen aufstellt, muss man sie empirisch belegen.\" (dibaca: Wenn man wissensyaftlikhe thesen aufstellt, muss man si: empirisy belegen.) berarti \"Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris.\". Kalimat ini menggunakan pola \"Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)\" (Temporale und Konditionale Nebensätze (Wenn, Als, Während)) yang berfungsi untuk membedakan peristiwa lampau sekali terjadi (als) dengan kebiasaan/pengandaian umum (wenn) serta aksi simultan (während)."
       },
       {
         "id": "q-de-gram-29-pg-3",
@@ -13319,7 +13406,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen perempuan yang kepadanya para mahasiswa berterima kasih itu memimpin departemen tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Während die Kontrollgruppe schlief, zeichneten die Monitore die Hirnströme auf.\" berarti \"Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak.\"."
+        "explanation": "Kalimat \"Während die Kontrollgruppe schlief, zeichneten die Monitore die Hirnströme auf.\" (dibaca: Während di: kontrollgruppe syli:f, tsaykhneten di: monitore di: hirnströme auf.) berarti \"Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak.\". Kalimat ini menggunakan pola \"Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)\" (Temporale und Konditionale Nebensätze (Wenn, Als, Während)) yang berfungsi untuk membedakan peristiwa lampau sekali terjadi (als) dengan kebiasaan/pengandaian umum (wenn) serta aksi simultan (während)."
       },
       {
         "id": "q-de-gram-29-pg-4",
@@ -13339,7 +13426,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-29-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Temporale und Konditionale Nebensätze (Wenn, Als, Während)\"?",
         "options": [
           "Wenn man wissenschaftliche Thesen aufstellt, muss man sie empirisch belegen. — Apabila seseorang mengajukan tesis ilmiah, ia wajib membuktikannya secara empiris.",
           "Die Studierenden lasen die Fachliteratur und verfassten eine kritische Rezension. — Para mahasiswa membaca literatur keahlian tersebut dan menyusun sebuah ulasan kritis.",
@@ -13353,7 +13440,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-29-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Temporale und Konditionale Nebensätze (Wenn, Als, Während)\"?",
         "options": [
           "Der Nobelpreisträger formulierte die grundlegende Hypothese bereits im Jahre 1905. — Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905.",
           "Während die Kontrollgruppe schlief, zeichneten die Monitore die Hirnströme auf. — Sementara kelompok kontrol sedang tidur, layar monitor merekam gelombang aktivitas otak.",
@@ -13367,7 +13454,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-29-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Temporale und Konditionale Nebensätze (Wenn, Als, Während)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -13614,7 +13701,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Peraih Nobel itu telah merumuskan hipotesis mendasar tersebut sejak tahun 1905."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne.\" berarti \"Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne.\"."
+        "explanation": "Kalimat \"Als der Wissenschaftler die Entdeckung machte, arbeitete er an der Sorbonne.\" (dibaca: Als der wissensyaftler di: entdeckung makhte, arbaytete er an der sorbonne.) berarti \"Ketika ilmuwan itu membuat penemuan tersebut, beliau sedang bekerja di Sorbonne.\". Kalimat ini menggunakan pola \"Als (Einmaliges Ereignis in der Vergangenheit) vs Wenn (Gegenwart / Wiederholung)\" (Temporale und Konditionale Nebensätze (Wenn, Als, Während)) yang berfungsi untuk membedakan peristiwa lampau sekali terjadi (als) dengan kebiasaan/pengandaian umum (wenn) serta aksi simultan (während)."
       },
       {
         "id": "q-de-gram-29-bb-2",
@@ -13689,24 +13776,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata kerja dengan preposisi wajib yang mengikat kasus tertentu serta pembentukan kata ganti pronominal (darüber, worauf).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)\" (Rektion der Verben: Verben mit festen Präpositionen und Pronominaladverbien) berfungsi untuk: kata kerja dengan preposisi wajib yang mengikat kasus tertentu serta pembentukan kata ganti pronominal (darüber, worauf). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen. — Kelompok riset itu berfokus pada analisis mutasi genetik."
+          "Rumus utama: Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition",
+          "Contoh 1: Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen. (Di: forsyungsgruppe kontsentri:rt sikh auf di: analyse genetisyer mutationen.) — Kelompok riset itu berfokus pada analisis mutasi genetik."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja warten berpasangan tetap dengan preposisi 'auf' diikuti kasus Akkusativ.",
         "ruleList": [
-          "Worüber haben Sie im Seminar diskutiert? Wir haben über die Methodik gesprochen. — Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian."
+          "Polanya: Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition",
+          "Contoh 2: Worüber haben Sie im Seminar diskutiert? Wir haben über die Methodik gesprochen. (Worüber haben si: im seminar diskuti:rt? wir haben über di: methodik gesprokhen.) — Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Der Erfolg der Promotion hängt von einer sorgfältigen Zeitplanung ab. — Keberhasilan studi doktoral bergantung pada perencanaan waktu yang matang."
+          "Contoh 3: Der Erfolg der Promotion hängt von einer sorgfältigen Zeitplanung ab. (Der erfolg der promotion hängt von ayner sorgfältigen tsaytplanung ab.) — Keberhasilan studi doktoral bergantung pada perencanaan waktu yang matang.",
+          "Hindari kesalahan: \"warten für die Ergebnisse\" → gunakan bentuk yang benar: \"warten auf die Ergebnisse\"."
         ]
       }
     ],
@@ -13714,19 +13804,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-30-ex-1",
         "native": "Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen.",
-        "phonetic": "",
+        "phonetic": "Di: forsyungsgruppe kontsentri:rt sikh auf di: analyse genetisyer mutationen.",
         "translationId": "Kelompok riset itu berfokus pada analisis mutasi genetik."
       },
       {
         "id": "de-gram-30-ex-2",
         "native": "Worüber haben Sie im Seminar diskutiert? Wir haben über die Methodik gesprochen.",
-        "phonetic": "",
+        "phonetic": "Worüber haben si: im seminar diskuti:rt? wir haben über di: methodik gesprokhen.",
         "translationId": "Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian."
       },
       {
         "id": "de-gram-30-ex-3",
         "native": "Der Erfolg der Promotion hängt von einer sorgfältigen Zeitplanung ab.",
-        "phonetic": "",
+        "phonetic": "Der erfolg der promotion hängt von ayner sorgfältigen tsaytplanung ab.",
         "translationId": "Keberhasilan studi doktoral bergantung pada perencanaan waktu yang matang."
       }
     ],
@@ -13742,7 +13832,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)\" (Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-30-pg-1",
@@ -13758,7 +13848,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen.\" berarti \"Kelompok riset itu berfokus pada analisis mutasi genetik.\"."
+        "explanation": "Kalimat \"Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen.\" (dibaca: Di: forsyungsgruppe kontsentri:rt sikh auf di: analyse genetisyer mutationen.) berarti \"Kelompok riset itu berfokus pada analisis mutasi genetik.\". Kalimat ini menggunakan pola \"Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition\" (Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)) yang berfungsi untuk kata kerja dengan preposisi wajib yang mengikat kasus tertentu serta pembentukan kata ganti pronominal (darüber, worauf)."
       },
       {
         "id": "q-de-gram-30-pg-2",
@@ -13774,7 +13864,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Laboratorium tempat eksperimen-eksperimen tersebut dijalankan sangatlah modern."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Worüber haben Sie im Seminar diskutiert? Wir haben über die Methodik gesprochen.\" berarti \"Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian.\"."
+        "explanation": "Kalimat \"Worüber haben Sie im Seminar diskutiert? Wir haben über die Methodik gesprochen.\" (dibaca: Worüber haben si: im seminar diskuti:rt? wir haben über di: methodik gesprokhen.) berarti \"Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian.\". Kalimat ini menggunakan pola \"Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition\" (Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)) yang berfungsi untuk kata kerja dengan preposisi wajib yang mengikat kasus tertentu serta pembentukan kata ganti pronominal (darüber, worauf)."
       },
       {
         "id": "q-de-gram-30-pg-3",
@@ -13790,7 +13880,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Keberhasilan studi doktoral bergantung pada perencanaan waktu yang matang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der Erfolg der Promotion hängt von einer sorgfältigen Zeitplanung ab.\" berarti \"Keberhasilan studi doktoral bergantung pada perencanaan waktu yang matang.\"."
+        "explanation": "Kalimat \"Der Erfolg der Promotion hängt von einer sorgfältigen Zeitplanung ab.\" (dibaca: Der erfolg der promotion hängt von ayner sorgfältigen tsaytplanung ab.) berarti \"Keberhasilan studi doktoral bergantung pada perencanaan waktu yang matang.\". Kalimat ini menggunakan pola \"Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition\" (Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)) yang berfungsi untuk kata kerja dengan preposisi wajib yang mengikat kasus tertentu serta pembentukan kata ganti pronominal (darüber, worauf)."
       },
       {
         "id": "q-de-gram-30-pg-4",
@@ -13810,7 +13900,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-30-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)\"?",
         "options": [
           "Das Forschungsprojekt, das wir im Kolloquium präsentierten, fand großen Anklang. — Proyek penelitian yang kami presentasikan di kolokium itu mendapat sambutan hangat.",
           "Worüber haben Sie im Seminar diskutiert? Wir haben über die Methodik gesprochen. — Tentang apa Anda berdiskusi di seminar? Kami telah membahas mengenai metodologi penelitian.",
@@ -13824,7 +13914,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-30-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)\"?",
         "options": [
           "Der Wissenschaftler, der diesen bahnbrechenden Artikel verfasste, lehrt in Berlin. — Ilmuwan yang menulis artikel terobosan ini mengajar di Berlin.",
           "Die Dozentin, der die Studierenden dankten, leitet die Abteilung. — Dosen perempuan yang kepadanya para mahasiswa berterima kasih itu memimpin departemen tersebut.",
@@ -13838,7 +13928,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-30-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -14087,7 +14177,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Kelompok riset itu berfokus pada analisis mutasi genetik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen.\" berarti \"Kelompok riset itu berfokus pada analisis mutasi genetik.\"."
+        "explanation": "Kalimat \"Die Forschungsgruppe konzentriert sich auf die Analyse genetischer Mutationen.\" (dibaca: Di: forsyungsgruppe kontsentri:rt sikh auf di: analyse genetisyer mutationen.) berarti \"Kelompok riset itu berfokus pada analisis mutasi genetik.\". Kalimat ini menggunakan pola \"Verb + Präposition + Kasus & Da(r)- + Präposition / Wo(r)- + Präposition\" (Verben mit festen Präpositionen (Warten auf, Sich freuen über/auf)) yang berfungsi untuk kata kerja dengan preposisi wajib yang mengikat kasus tertentu serta pembentukan kata ganti pronominal (darüber, worauf)."
       },
       {
         "id": "q-de-gram-30-bb-2",
@@ -14162,24 +14252,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan pengandaian kontrafaktual ilmiah atas peristiwa sejarah riset yang tidak terwujud di masa lalu.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Konjunktiv II der Irrealität in Gegenwart und Vergangenheit' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Konjunktiv II der Irrealität in Gegenwart und Vergangenheit\" (Irreale Konditionalsätze und Vergangenheitsformen des Konjunktivs II) berfungsi untuk: menyatakan pengandaian kontrafaktual ilmiah atas peristiwa sejarah riset yang tidak terwujud di masa lalu. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben. — Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga."
+          "Rumus utama: Hätte / Wäre + Partizip II (Vergangenheit)",
+          "Contoh 1: Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben. (Hätte das institut rekhttsaytig investi:rt, wäre der tekhnologisye vorsprung erhalten gebli:ben.) — Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Hätte / Wäre + Partizip II (Vergangenheit) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hätte / Wäre + Partizip II (Vergangenheit)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam anak kalimat pengandaian masa lalu, kata kerja bantu hätte/wäre berada di posisi paling akhir.",
         "ruleList": [
-          "Wenn die Messdaten präziser gewesen wären, hätte die Theorie bestätigt werden können. — Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi."
+          "Polanya: Hätte / Wäre + Partizip II (Vergangenheit)",
+          "Contoh 2: Wenn die Messdaten präziser gewesen wären, hätte die Theorie bestätigt werden können. (Wenn di: messdaten prätsiser gewesen wären, hätte di: theori: bestätigt werden können.) — Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Konjunktiv II der Irrealität in Gegenwart und Vergangenheit\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Fast wäre das Experiment an einem gravierenden Programmierfehler gescheitert. — Eksperimen tersebut nyaris saja gagal akibat kesalahan pemrograman yang fatal."
+          "Contoh 3: Fast wäre das Experiment an einem gravierenden Programmierfehler gescheitert. (Fast wäre das experiment an aynem gravi:renden programmi:rfehler gesyaytert.) — Eksperimen tersebut nyaris saja gagal akibat kesalahan pemrograman yang fatal.",
+          "Hindari kesalahan: \"wenn er hätte gewusst\" → gunakan bentuk yang benar: \"hätte er gewusst / wenn er gewusst hätte\"."
         ]
       }
     ],
@@ -14187,19 +14280,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-31-ex-1",
         "native": "Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben.",
-        "phonetic": "",
+        "phonetic": "Hätte das institut rekhttsaytig investi:rt, wäre der tekhnologisye vorsprung erhalten gebli:ben.",
         "translationId": "Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga."
       },
       {
         "id": "de-gram-31-ex-2",
         "native": "Wenn die Messdaten präziser gewesen wären, hätte die Theorie bestätigt werden können.",
-        "phonetic": "",
+        "phonetic": "Wenn di: messdaten prätsiser gewesen wären, hätte di: theori: bestätigt werden können.",
         "translationId": "Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi."
       },
       {
         "id": "de-gram-31-ex-3",
         "native": "Fast wäre das Experiment an einem gravierenden Programmierfehler gescheitert.",
-        "phonetic": "",
+        "phonetic": "Fast wäre das experiment an aynem gravi:renden programmi:rfehler gesyaytert.",
         "translationId": "Eksperimen tersebut nyaris saja gagal akibat kesalahan pemrograman yang fatal."
       }
     ],
@@ -14215,7 +14308,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Konjunktiv II der Irrealität in Gegenwart und Vergangenheit' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Konjunktiv II der Irrealität in Gegenwart und Vergangenheit\" (Hätte / Wäre + Partizip II (Vergangenheit)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-31-pg-1",
@@ -14231,7 +14324,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben.\" berarti \"Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga.\"."
+        "explanation": "Kalimat \"Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben.\" (dibaca: Hätte das institut rekhttsaytig investi:rt, wäre der tekhnologisye vorsprung erhalten gebli:ben.) berarti \"Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga.\". Kalimat ini menggunakan pola \"Hätte / Wäre + Partizip II (Vergangenheit)\" (Konjunktiv II der Irrealität in Gegenwart und Vergangenheit) yang berfungsi untuk menyatakan pengandaian kontrafaktual ilmiah atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-de-gram-31-pg-2",
@@ -14247,7 +14340,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wenn die Messdaten präziser gewesen wären, hätte die Theorie bestätigt werden können.\" berarti \"Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi.\"."
+        "explanation": "Kalimat \"Wenn die Messdaten präziser gewesen wären, hätte die Theorie bestätigt werden können.\" (dibaca: Wenn di: messdaten prätsiser gewesen wären, hätte di: theori: bestätigt werden können.) berarti \"Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi.\". Kalimat ini menggunakan pola \"Hätte / Wäre + Partizip II (Vergangenheit)\" (Konjunktiv II der Irrealität in Gegenwart und Vergangenheit) yang berfungsi untuk menyatakan pengandaian kontrafaktual ilmiah atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-de-gram-31-pg-3",
@@ -14263,7 +14356,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Fenomena tersebut dapat direproduksi secara jelas di bawah kondisi laboratorium."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Fast wäre das Experiment an einem gravierenden Programmierfehler gescheitert.\" berarti \"Eksperimen tersebut nyaris saja gagal akibat kesalahan pemrograman yang fatal.\"."
+        "explanation": "Kalimat \"Fast wäre das Experiment an einem gravierenden Programmierfehler gescheitert.\" (dibaca: Fast wäre das experiment an aynem gravi:renden programmi:rfehler gesyaytert.) berarti \"Eksperimen tersebut nyaris saja gagal akibat kesalahan pemrograman yang fatal.\". Kalimat ini menggunakan pola \"Hätte / Wäre + Partizip II (Vergangenheit)\" (Konjunktiv II der Irrealität in Gegenwart und Vergangenheit) yang berfungsi untuk menyatakan pengandaian kontrafaktual ilmiah atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-de-gram-31-pg-4",
@@ -14283,7 +14376,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-31-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv II der Irrealität in Gegenwart und Vergangenheit\"?",
         "options": [
           "Der Gutachter zog in seinem Bericht mehrere alternative Erklärungsansätze in Betracht. — Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif.",
           "Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen. — Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana.",
@@ -14297,7 +14390,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-31-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv II der Irrealität in Gegenwart und Vergangenheit\"?",
         "options": [
           "Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen. — Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan.",
           "Die Messergebnisse stellen die bisherige theoretische Lehrmeinung infrage. — Hasil-hasil pengukuran tersebut mempertanyakan pandangan teoretis yang berlaku selama ini.",
@@ -14311,7 +14404,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-31-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv II der Irrealität in Gegenwart und Vergangenheit\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -14560,7 +14653,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben.\" berarti \"Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga.\"."
+        "explanation": "Kalimat \"Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben.\" (dibaca: Hätte das institut rekhttsaytig investi:rt, wäre der tekhnologisye vorsprung erhalten gebli:ben.) berarti \"Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga.\". Kalimat ini menggunakan pola \"Hätte / Wäre + Partizip II (Vergangenheit)\" (Konjunktiv II der Irrealität in Gegenwart und Vergangenheit) yang berfungsi untuk menyatakan pengandaian kontrafaktual ilmiah atas peristiwa sejarah riset yang tidak terwujud di masa lalu."
       },
       {
         "id": "q-de-gram-31-bb-2",
@@ -14635,24 +14728,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membedakan aksi dinamis yang sedang terjadi (werden) dengan kondisi hasil akhir yang sudah mapan (sein).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv\" (Die Unterscheidung zwischen Vorgangspassiv und Zustandspassiv) berfungsi untuk: membedakan aksi dinamis yang sedang terjadi (werden) dengan kondisi hasil akhir yang sudah mapan (sein). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang). — Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan)."
+          "Rumus utama: Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)",
+          "Contoh 1: Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang). (Di: universitätsbibliothek wird um akht uhr geöffnet (vorgang).) — Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan)."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Zustandspassiv dengan 'sein' melukiskan keadaan akhir yang telah dicapai dari suatu proses.",
         "ruleList": [
-          "Die Bibliothek ist bereits geöffnet, Sie können eintreten (Zustand). — Perpustakaan sudah dalam keadaan terbuka, Anda silakan masuk (kondisi hasil)."
+          "Polanya: Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)",
+          "Contoh 2: Die Bibliothek ist bereits geöffnet, Sie können eintreten (Zustand). (Di: bibliothek ist berayts geöffnet, si: können ayntreten (tsustand).) — Perpustakaan sudah dalam keadaan terbuka, Anda silakan masuk (kondisi hasil)."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Alle Dokumente sind ordnungsgemäß im Institutsarchiv hinterlegt. — Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut."
+          "Contoh 3: Alle Dokumente sind ordnungsgemäß im Institutsarchiv hinterlegt. (Alle dokumente sind ordnungsgemäss im institutsarkhiv hinterlegt.) — Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut.",
+          "Hindari kesalahan: \"das Fenster wird schon geschlossen (wenn es zu ist)\" → gunakan bentuk yang benar: \"das Fenster ist schon geschlossen\"."
         ]
       }
     ],
@@ -14660,19 +14756,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-32-ex-1",
         "native": "Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang).",
-        "phonetic": "",
+        "phonetic": "Di: universitätsbibliothek wird um akht uhr geöffnet (vorgang).",
         "translationId": "Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan)."
       },
       {
         "id": "de-gram-32-ex-2",
         "native": "Die Bibliothek ist bereits geöffnet, Sie können eintreten (Zustand).",
-        "phonetic": "",
+        "phonetic": "Di: bibliothek ist berayts geöffnet, si: können ayntreten (tsustand).",
         "translationId": "Perpustakaan sudah dalam keadaan terbuka, Anda silakan masuk (kondisi hasil)."
       },
       {
         "id": "de-gram-32-ex-3",
         "native": "Alle Dokumente sind ordnungsgemäß im Institutsarchiv hinterlegt.",
-        "phonetic": "",
+        "phonetic": "Alle dokumente sind ordnungsgemäss im institutsarkhiv hinterlegt.",
         "translationId": "Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut."
       }
     ],
@@ -14688,7 +14784,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv\" (Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-32-pg-1",
@@ -14704,7 +14800,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan)."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang).\" berarti \"Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan).\"."
+        "explanation": "Kalimat \"Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang).\" (dibaca: Di: universitätsbibliothek wird um akht uhr geöffnet (vorgang).) berarti \"Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan).\". Kalimat ini menggunakan pola \"Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)\" (Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv) yang berfungsi untuk membedakan aksi dinamis yang sedang terjadi (werden) dengan kondisi hasil akhir yang sudah mapan (sein)."
       },
       {
         "id": "q-de-gram-32-pg-2",
@@ -14720,7 +14816,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die Bibliothek ist bereits geöffnet, Sie können eintreten (Zustand).\" berarti \"Perpustakaan sudah dalam keadaan terbuka, Anda silakan masuk (kondisi hasil).\"."
+        "explanation": "Kalimat \"Die Bibliothek ist bereits geöffnet, Sie können eintreten (Zustand).\" (dibaca: Di: bibliothek ist berayts geöffnet, si: können ayntreten (tsustand).) berarti \"Perpustakaan sudah dalam keadaan terbuka, Anda silakan masuk (kondisi hasil).\". Kalimat ini menggunakan pola \"Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)\" (Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv) yang berfungsi untuk membedakan aksi dinamis yang sedang terjadi (werden) dengan kondisi hasil akhir yang sudah mapan (sein)."
       },
       {
         "id": "q-de-gram-32-pg-3",
@@ -14736,7 +14832,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Selama sepanjang tahun akademik tersebut telah berlangsung berbagai kuliah tamu bermutu tinggi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Alle Dokumente sind ordnungsgemäß im Institutsarchiv hinterlegt.\" berarti \"Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut.\"."
+        "explanation": "Kalimat \"Alle Dokumente sind ordnungsgemäß im Institutsarchiv hinterlegt.\" (dibaca: Alle dokumente sind ordnungsgemäss im institutsarkhiv hinterlegt.) berarti \"Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut.\". Kalimat ini menggunakan pola \"Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)\" (Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv) yang berfungsi untuk membedakan aksi dinamis yang sedang terjadi (werden) dengan kondisi hasil akhir yang sudah mapan (sein)."
       },
       {
         "id": "q-de-gram-32-pg-4",
@@ -14756,7 +14852,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-32-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv\"?",
         "options": [
           "Die vorliegenden Forschungsergebnisse sind vor der Publikation kritisch zu hinterfragen. — Hasil-hasil penelitian yang ada ini harus ditelaah secara kritis sebelum dipublikasikan.",
           "Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation. — Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan.",
@@ -14770,7 +14866,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-32-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv\"?",
         "options": [
           "Alle Dokumente sind ordnungsgemäß im Institutsarchiv hinterlegt. — Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut.",
           "Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen. — Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana.",
@@ -14784,7 +14880,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-32-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -15031,7 +15127,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang).\" berarti \"Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan).\"."
+        "explanation": "Kalimat \"Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang).\" (dibaca: Di: universitätsbibliothek wird um akht uhr geöffnet (vorgang).) berarti \"Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan).\". Kalimat ini menggunakan pola \"Werden + Partizip II (Prozess) vs Sein + Partizip II (Ergebnis/Zustand)\" (Zustandspassiv (Sein + Partizip II) vs Vorgangspassiv) yang berfungsi untuk membedakan aksi dinamis yang sedang terjadi (werden) dengan kondisi hasil akhir yang sudah mapan (sein)."
       },
       {
         "id": "q-de-gram-32-bb-2",
@@ -15106,24 +15202,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Partisip waktu kini aktif yang berfungsi sebagai atribut adjektiva untuk melukiskan proses yang sedang berlangsung.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Partizip I als Adjektiv (Das Partizipiales Attribut)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Partizip I als Adjektiv (Das Partizipiales Attribut)\" (Das Partizip Präsens mit aktiver und gleichzeitiger Bedeutung) berfungsi untuk: partisip waktu kini aktif yang berfungsi sebagai atribut adjektiva untuk melukiskan proses yang sedang berlangsung. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte. — Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru."
+          "Rumus utama: Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)",
+          "Contoh 1: Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte. (Di: ständig wakhsenden anforderungen an hokhsyulabsolventen erfordern noye lehrkontsepte.) — Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Partizip I (Infinitiv + -d) menyatakan tindakan aktif yang sedang berlangsung secara bersamaan.",
         "ruleList": [
-          "Der vortragende Dozent fesselte das gesamte Auditorium mit seinen Ausführungen. — Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya."
+          "Polanya: Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)",
+          "Contoh 2: Der vortragende Dozent fesselte das gesamte Auditorium mit seinen Ausführungen. (Der vortragende dotsent fesselte das gesamte auditorium mit saynen ausführungen.) — Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Partizip I als Adjektiv (Das Partizipiales Attribut)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die an der Konferenz teilnehmenden Wissenschaftler reisten aus zwanzig Ländern an. — Para ilmuwan yang berpartisipasi dalam konferensi tersebut datang dari dua puluh negara."
+          "Contoh 3: Die an der Konferenz teilnehmenden Wissenschaftler reisten aus zwanzig Ländern an. (Di: an der konferents taylnehmenden wissensyaftler raysten aus tswantsig ländern an.) — Para ilmuwan yang berpartisipasi dalam konferensi tersebut datang dari dua puluh negara.",
+          "Hindari kesalahan: \"die gewachsene Kosten (für aktuellen Anstieg)\" → gunakan bentuk yang benar: \"die wachsenden Kosten\"."
         ]
       }
     ],
@@ -15131,19 +15230,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-33-ex-1",
         "native": "Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte.",
-        "phonetic": "",
+        "phonetic": "Di: ständig wakhsenden anforderungen an hokhsyulabsolventen erfordern noye lehrkontsepte.",
         "translationId": "Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru."
       },
       {
         "id": "de-gram-33-ex-2",
         "native": "Der vortragende Dozent fesselte das gesamte Auditorium mit seinen Ausführungen.",
-        "phonetic": "",
+        "phonetic": "Der vortragende dotsent fesselte das gesamte auditorium mit saynen ausführungen.",
         "translationId": "Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya."
       },
       {
         "id": "de-gram-33-ex-3",
         "native": "Die an der Konferenz teilnehmenden Wissenschaftler reisten aus zwanzig Ländern an.",
-        "phonetic": "",
+        "phonetic": "Di: an der konferents taylnehmenden wissensyaftler raysten aus tswantsig ländern an.",
         "translationId": "Para ilmuwan yang berpartisipasi dalam konferensi tersebut datang dari dua puluh negara."
       }
     ],
@@ -15159,7 +15258,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Partizip I als Adjektiv (Das Partizipiales Attribut)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Partizip I als Adjektiv (Das Partizipiales Attribut)\" (Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-33-pg-1",
@@ -15175,7 +15274,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte.\" berarti \"Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru.\"."
+        "explanation": "Kalimat \"Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte.\" (dibaca: Di: ständig wakhsenden anforderungen an hokhsyulabsolventen erfordern noye lehrkontsepte.) berarti \"Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru.\". Kalimat ini menggunakan pola \"Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)\" (Partizip I als Adjektiv (Das Partizipiales Attribut)) yang berfungsi untuk partisip waktu kini aktif yang berfungsi sebagai atribut adjektiva untuk melukiskan proses yang sedang berlangsung."
       },
       {
         "id": "q-de-gram-33-pg-2",
@@ -15191,7 +15290,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der vortragende Dozent fesselte das gesamte Auditorium mit seinen Ausführungen.\" berarti \"Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya.\"."
+        "explanation": "Kalimat \"Der vortragende Dozent fesselte das gesamte Auditorium mit seinen Ausführungen.\" (dibaca: Der vortragende dotsent fesselte das gesamte auditorium mit saynen ausführungen.) berarti \"Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya.\". Kalimat ini menggunakan pola \"Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)\" (Partizip I als Adjektiv (Das Partizipiales Attribut)) yang berfungsi untuk partisip waktu kini aktif yang berfungsi sebagai atribut adjektiva untuk melukiskan proses yang sedang berlangsung."
       },
       {
         "id": "q-de-gram-33-pg-3",
@@ -15207,7 +15306,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die an der Konferenz teilnehmenden Wissenschaftler reisten aus zwanzig Ländern an.\" berarti \"Para ilmuwan yang berpartisipasi dalam konferensi tersebut datang dari dua puluh negara.\"."
+        "explanation": "Kalimat \"Die an der Konferenz teilnehmenden Wissenschaftler reisten aus zwanzig Ländern an.\" (dibaca: Di: an der konferents taylnehmenden wissensyaftler raysten aus tswantsig ländern an.) berarti \"Para ilmuwan yang berpartisipasi dalam konferensi tersebut datang dari dua puluh negara.\". Kalimat ini menggunakan pola \"Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)\" (Partizip I als Adjektiv (Das Partizipiales Attribut)) yang berfungsi untuk partisip waktu kini aktif yang berfungsi sebagai atribut adjektiva untuk melukiskan proses yang sedang berlangsung."
       },
       {
         "id": "q-de-gram-33-pg-4",
@@ -15227,7 +15326,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-33-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Partizip I als Adjektiv (Das Partizipiales Attribut)\"?",
         "options": [
           "Der vortragende Dozent fesselte das gesamte Auditorium mit seinen Ausführungen. — Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya.",
           "Trotz der rigorosen Sparmaßnahmen konnte die Exzellenz der Lehre gewahrt werden. — Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga.",
@@ -15241,7 +15340,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-33-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Partizip I als Adjektiv (Das Partizipiales Attribut)\"?",
         "options": [
           "Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation. — Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan.",
           "Die an der Konferenz teilnehmenden Wissenschaftler reisten aus zwanzig Ländern an. — Para ilmuwan yang berpartisipasi dalam konferensi tersebut datang dari dua puluh negara.",
@@ -15255,7 +15354,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-33-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Partizip I als Adjektiv (Das Partizipiales Attribut)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15502,7 +15601,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte.\" berarti \"Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru.\"."
+        "explanation": "Kalimat \"Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte.\" (dibaca: Di: ständig wakhsenden anforderungen an hokhsyulabsolventen erfordern noye lehrkontsepte.) berarti \"Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru.\". Kalimat ini menggunakan pola \"Verbstamm + -(e)nd + Adjektivendung (Die steigenden Kosten)\" (Partizip I als Adjektiv (Das Partizipiales Attribut)) yang berfungsi untuk partisip waktu kini aktif yang berfungsi sebagai atribut adjektiva untuk melukiskan proses yang sedang berlangsung."
       },
       {
         "id": "q-de-gram-33-bb-2",
@@ -15577,24 +15676,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Struktur khas bahasa ilmiah Jerman: atribut partisip panjang yang disisipkan di antara artikel dan nomina inti.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Erweiterte Partizipialattribute und deren Auflösung' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Erweiterte Partizipialattribute und deren Auflösung\" (Erweiterte Partizipialgruppen und deren Transformation in Relativsätze) berfungsi untuk: struktur khas bahasa ilmiah Jerman: atribut partisip panjang yang disisipkan di antara artikel dan nomina inti. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert. — Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi."
+          "Rumus utama: Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)",
+          "Contoh 1: Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert. (Di: von der doytsyen forsyungsgemaynsyaft geförderten projekte werden evalui:rt.) — Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam atribut partisip yang diperluas, keterangan tambahan diletakkan di antara artikel dan partisip.",
         "ruleList": [
-          "Transformation: Die Projekte, die von der DFG gefördert wurden, werden evaluiert. — Transformasi klausa relatif: Proyek-proyek yang telah didanai oleh DFG tersebut sedang dievaluasi."
+          "Polanya: Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)",
+          "Contoh 2: Transformation: Die Projekte, die von der DFG gefördert wurden, werden evaluiert. (Transformation: di: projekte, di: von der dfg gefördert wurden, werden evalui:rt.) — Transformasi klausa relatif: Proyek-proyek yang telah didanai oleh DFG tersebut sedang dievaluasi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Erweiterte Partizipialattribute und deren Auflösung\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Alle an der groß angelegten klinischen Studie beteiligten Probanden gaben ihr Einverständnis. — Seluruh responden yang terlibat dalam studi klinis berskala besar itu telah memberikan persetujuan mereka."
+          "Contoh 3: Alle an der groß angelegten klinischen Studie beteiligten Probanden gaben ihr Einverständnis. (Alle an der gross angelegten klinisyen studi: betayligten probanden gaben ihr aynverständnis.) — Seluruh responden yang terlibat dalam studi klinis berskala besar itu telah memberikan persetujuan mereka.",
+          "Hindari kesalahan: \"die geförderten von der DFG Projekte\" → gunakan bentuk yang benar: \"die von der DFG geförderten Projekte\"."
         ]
       }
     ],
@@ -15602,19 +15704,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-34-ex-1",
         "native": "Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert.",
-        "phonetic": "",
+        "phonetic": "Di: von der doytsyen forsyungsgemaynsyaft geförderten projekte werden evalui:rt.",
         "translationId": "Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi."
       },
       {
         "id": "de-gram-34-ex-2",
         "native": "Transformation: Die Projekte, die von der DFG gefördert wurden, werden evaluiert.",
-        "phonetic": "",
+        "phonetic": "Transformation: di: projekte, di: von der dfg gefördert wurden, werden evalui:rt.",
         "translationId": "Transformasi klausa relatif: Proyek-proyek yang telah didanai oleh DFG tersebut sedang dievaluasi."
       },
       {
         "id": "de-gram-34-ex-3",
         "native": "Alle an der groß angelegten klinischen Studie beteiligten Probanden gaben ihr Einverständnis.",
-        "phonetic": "",
+        "phonetic": "Alle an der gross angelegten klinisyen studi: betayligten probanden gaben ihr aynverständnis.",
         "translationId": "Seluruh responden yang terlibat dalam studi klinis berskala besar itu telah memberikan persetujuan mereka."
       }
     ],
@@ -15630,7 +15732,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Erweiterte Partizipialattribute und deren Auflösung' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Erweiterte Partizipialattribute und deren Auflösung\" (Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-34-pg-1",
@@ -15646,7 +15748,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert.\" berarti \"Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi.\"."
+        "explanation": "Kalimat \"Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert.\" (dibaca: Di: von der doytsyen forsyungsgemaynsyaft geförderten projekte werden evalui:rt.) berarti \"Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi.\". Kalimat ini menggunakan pola \"Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)\" (Erweiterte Partizipialattribute und deren Auflösung) yang berfungsi untuk struktur khas bahasa ilmiah Jerman: atribut partisip panjang yang disisipkan di antara artikel dan nomina inti."
       },
       {
         "id": "q-de-gram-34-pg-2",
@@ -15662,7 +15764,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Transformation: Die Projekte, die von der DFG gefördert wurden, werden evaluiert.\" berarti \"Transformasi klausa relatif: Proyek-proyek yang telah didanai oleh DFG tersebut sedang dievaluasi.\"."
+        "explanation": "Kalimat \"Transformation: Die Projekte, die von der DFG gefördert wurden, werden evaluiert.\" (dibaca: Transformation: di: projekte, di: von der dfg gefördert wurden, werden evalui:rt.) berarti \"Transformasi klausa relatif: Proyek-proyek yang telah didanai oleh DFG tersebut sedang dievaluasi.\". Kalimat ini menggunakan pola \"Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)\" (Erweiterte Partizipialattribute und deren Auflösung) yang berfungsi untuk struktur khas bahasa ilmiah Jerman: atribut partisip panjang yang disisipkan di antara artikel dan nomina inti."
       },
       {
         "id": "q-de-gram-34-pg-3",
@@ -15678,7 +15780,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seluruh responden yang terlibat dalam studi klinis berskala besar itu telah memberikan persetujuan mereka."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Alle an der groß angelegten klinischen Studie beteiligten Probanden gaben ihr Einverständnis.\" berarti \"Seluruh responden yang terlibat dalam studi klinis berskala besar itu telah memberikan persetujuan mereka.\"."
+        "explanation": "Kalimat \"Alle an der groß angelegten klinischen Studie beteiligten Probanden gaben ihr Einverständnis.\" (dibaca: Alle an der gross angelegten klinisyen studi: betayligten probanden gaben ihr aynverständnis.) berarti \"Seluruh responden yang terlibat dalam studi klinis berskala besar itu telah memberikan persetujuan mereka.\". Kalimat ini menggunakan pola \"Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)\" (Erweiterte Partizipialattribute und deren Auflösung) yang berfungsi untuk struktur khas bahasa ilmiah Jerman: atribut partisip panjang yang disisipkan di antara artikel dan nomina inti."
       },
       {
         "id": "q-de-gram-34-pg-4",
@@ -15698,7 +15800,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-34-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Erweiterte Partizipialattribute und deren Auflösung\"?",
         "options": [
           "Die Bundesministerin erklärte, die Grundlagenforschung habe oberste Priorität. — Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi.",
           "Transformation: Die Projekte, die von der DFG gefördert wurden, werden evaluiert. — Transformasi klausa relatif: Proyek-proyek yang telah didanai oleh DFG tersebut sedang dievaluasi.",
@@ -15712,7 +15814,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-34-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Erweiterte Partizipialattribute und deren Auflösung\"?",
         "options": [
           "Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden. — Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah.",
           "Kritiker wenden ein, das gewählte Modell entspreche nicht der Realität. — Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan.",
@@ -15726,7 +15828,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-34-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Erweiterte Partizipialattribute und deren Auflösung\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15975,7 +16077,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert.\" berarti \"Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi.\"."
+        "explanation": "Kalimat \"Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert.\" (dibaca: Di: von der doytsyen forsyungsgemaynsyaft geförderten projekte werden evalui:rt.) berarti \"Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi.\". Kalimat ini menggunakan pola \"Artikel + Erweiterung + Partizip II/I + Nomen (Die von der DFG geförderten Projekte)\" (Erweiterte Partizipialattribute und deren Auflösung) yang berfungsi untuk struktur khas bahasa ilmiah Jerman: atribut partisip panjang yang disisipkan di antara artikel dan nomina inti."
       },
       {
         "id": "q-de-gram-34-bb-2",
@@ -16050,24 +16152,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Frasa kata benda dan kata kerja fungsi yang menggantikan kata kerja tunggal untuk memberikan bobot formal.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Nomen-Verb-Verbindungen (Funktionsverbgefüge)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nomen-Verb-Verbindungen (Funktionsverbgefüge)\" (Feste Fügungen aus Substantiv und Funktionsverb im akademischen Stil) berfungsi untuk: frasa kata benda dan kata kerja fungsi yang menggantikan kata kerja tunggal untuk memberikan bobot formal. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen. — Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan."
+          "Rumus utama: Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen",
+          "Contoh 1: Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen. (Di: fakultätslaytung hat gestern ayne rikhtungswaysende entsyaydung getroffen.) — Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gabungan kata benda-verba (Funktionsverbgefüge) menjadi ciri khas gaya bahasa ilmiah Jerman.",
         "ruleList": [
-          "Der Gutachter zog in seinem Bericht mehrere alternative Erklärungsansätze in Betracht. — Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif."
+          "Polanya: Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen",
+          "Contoh 2: Der Gutachter zog in seinem Bericht mehrere alternative Erklärungsansätze in Betracht. (Der gutakhter tsog in saynem berikht mehrere alternative erklärungsansättse in betrakht.) — Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nomen-Verb-Verbindungen (Funktionsverbgefüge)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die Messergebnisse stellen die bisherige theoretische Lehrmeinung infrage. — Hasil-hasil pengukuran tersebut mempertanyakan pandangan teoretis yang berlaku selama ini."
+          "Contoh 3: Die Messergebnisse stellen die bisherige theoretische Lehrmeinung infrage. (Di: messergebnisse stellen di: bisherige theoretisye lehrmaynung infrage.) — Hasil-hasil pengukuran tersebut mempertanyakan pandangan teoretis yang berlaku selama ini.",
+          "Hindari kesalahan: \"die Fakultät hat entschieden (stilistisch einfacher)\" → gunakan bentuk yang benar: \"die Fakultät hat eine Entscheidung getroffen\"."
         ]
       }
     ],
@@ -16075,19 +16180,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-35-ex-1",
         "native": "Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen.",
-        "phonetic": "",
+        "phonetic": "Di: fakultätslaytung hat gestern ayne rikhtungswaysende entsyaydung getroffen.",
         "translationId": "Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan."
       },
       {
         "id": "de-gram-35-ex-2",
         "native": "Der Gutachter zog in seinem Bericht mehrere alternative Erklärungsansätze in Betracht.",
-        "phonetic": "",
+        "phonetic": "Der gutakhter tsog in saynem berikht mehrere alternative erklärungsansättse in betrakht.",
         "translationId": "Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif."
       },
       {
         "id": "de-gram-35-ex-3",
         "native": "Die Messergebnisse stellen die bisherige theoretische Lehrmeinung infrage.",
-        "phonetic": "",
+        "phonetic": "Di: messergebnisse stellen di: bisherige theoretisye lehrmaynung infrage.",
         "translationId": "Hasil-hasil pengukuran tersebut mempertanyakan pandangan teoretis yang berlaku selama ini."
       }
     ],
@@ -16103,7 +16208,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Nomen-Verb-Verbindungen (Funktionsverbgefüge)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Nomen-Verb-Verbindungen (Funktionsverbgefüge)\" (Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-35-pg-1",
@@ -16119,7 +16224,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen.\" berarti \"Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan.\"."
+        "explanation": "Kalimat \"Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen.\" (dibaca: Di: fakultätslaytung hat gestern ayne rikhtungswaysende entsyaydung getroffen.) berarti \"Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan.\". Kalimat ini menggunakan pola \"Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen\" (Nomen-Verb-Verbindungen (Funktionsverbgefüge)) yang berfungsi untuk frasa kata benda dan kata kerja fungsi yang menggantikan kata kerja tunggal untuk memberikan bobot formal."
       },
       {
         "id": "q-de-gram-35-pg-2",
@@ -16135,7 +16240,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der Gutachter zog in seinem Bericht mehrere alternative Erklärungsansätze in Betracht.\" berarti \"Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif.\"."
+        "explanation": "Kalimat \"Der Gutachter zog in seinem Bericht mehrere alternative Erklärungsansätze in Betracht.\" (dibaca: Der gutakhter tsog in saynem berikht mehrere alternative erklärungsansättse in betrakht.) berarti \"Penilai ahli tersebut dalam laporannya mempertimbangkan beberapa pendekatan penjelasan alternatif.\". Kalimat ini menggunakan pola \"Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen\" (Nomen-Verb-Verbindungen (Funktionsverbgefüge)) yang berfungsi untuk frasa kata benda dan kata kerja fungsi yang menggantikan kata kerja tunggal untuk memberikan bobot formal."
       },
       {
         "id": "q-de-gram-35-pg-3",
@@ -16151,7 +16256,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Salam hormat dari Heidelberg."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die Messergebnisse stellen die bisherige theoretische Lehrmeinung infrage.\" berarti \"Hasil-hasil pengukuran tersebut mempertanyakan pandangan teoretis yang berlaku selama ini.\"."
+        "explanation": "Kalimat \"Die Messergebnisse stellen die bisherige theoretische Lehrmeinung infrage.\" (dibaca: Di: messergebnisse stellen di: bisherige theoretisye lehrmaynung infrage.) berarti \"Hasil-hasil pengukuran tersebut mempertanyakan pandangan teoretis yang berlaku selama ini.\". Kalimat ini menggunakan pola \"Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen\" (Nomen-Verb-Verbindungen (Funktionsverbgefüge)) yang berfungsi untuk frasa kata benda dan kata kerja fungsi yang menggantikan kata kerja tunggal untuk memberikan bobot formal."
       },
       {
         "id": "q-de-gram-35-pg-4",
@@ -16171,7 +16276,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-35-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nomen-Verb-Verbindungen (Funktionsverbgefüge)\"?",
         "options": [
           "Zusammenfassend lässt sich konstatieren, dass die Ausgangshypothese modifiziert werden muss. — Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi.",
           "Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle. — Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini.",
@@ -16185,7 +16290,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-35-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nomen-Verb-Verbindungen (Funktionsverbgefüge)\"?",
         "options": [
           "Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise. — Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci.",
           "Im Folgenden soll der methodologische Ansatz detailliert exponiert werden. — Pada bagian berikut, pendekatan metodologis akan dipaparkan secara terperinci.",
@@ -16199,7 +16304,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-35-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nomen-Verb-Verbindungen (Funktionsverbgefüge)\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -16446,7 +16551,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen.\" berarti \"Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan.\"."
+        "explanation": "Kalimat \"Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen.\" (dibaca: Di: fakultätslaytung hat gestern ayne rikhtungswaysende entsyaydung getroffen.) berarti \"Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan.\". Kalimat ini menggunakan pola \"Eine Entscheidung treffen / Eine Frage stellen / Zur Verfügung stehen / In Betracht ziehen\" (Nomen-Verb-Verbindungen (Funktionsverbgefüge)) yang berfungsi untuk frasa kata benda dan kata kerja fungsi yang menggantikan kata kerja tunggal untuk memberikan bobot formal."
       },
       {
         "id": "q-de-gram-35-bb-2",
@@ -16521,24 +16626,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Variasi alternatif pengganti kalimat pasif untuk menghindari repetisi verba werden dalam naskah publikasi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)\" (Konstruktionen mit passivischer Bedeutung ohne das Verb werden) berfungsi untuk: variasi alternatif pengganti kalimat pasif untuk menghindari repetisi verba werden dalam naskah publikasi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen. — Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana."
+          "Rumus utama: Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich",
+          "Contoh 1: Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen. (Di:se mathematisye glaykhung lässt sikh nikht mit aynfakhen methoden lösen.) — Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Alternatif kalimat pasif seperti 'sich lassen + Infinitiv' memperkaya variasi gaya penulisan akademik.",
         "ruleList": [
-          "Die vorliegenden Forschungsergebnisse sind vor der Publikation kritisch zu hinterfragen. — Hasil-hasil penelitian yang ada ini harus ditelaah secara kritis sebelum dipublikasikan."
+          "Polanya: Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich",
+          "Contoh 2: Die vorliegenden Forschungsergebnisse sind vor der Publikation kritisch zu hinterfragen. (Di: vorli:genden forsyungsergebnisse sind vor der publikation kritisy tsu hinterfragen.) — Hasil-hasil penelitian yang ada ini harus ditelaah secara kritis sebelum dipublikasikan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Das Phänomen ist unter Laborbedingungen eindeutig reproduzierbar. — Fenomena tersebut dapat direproduksi secara jelas di bawah kondisi laboratorium."
+          "Contoh 3: Das Phänomen ist unter Laborbedingungen eindeutig reproduzierbar. (Das phänomen ist unter laborbedingungen ayndoytig reprodutsi:rbar.) — Fenomena tersebut dapat direproduksi secara jelas di bawah kondisi laboratorium.",
+          "Hindari kesalahan: \"das kann gelöst werden (einfacher)\" → gunakan bentuk yang benar: \"das lässt sich lösen / das ist zu lösen\"."
         ]
       }
     ],
@@ -16546,19 +16654,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-36-ex-1",
         "native": "Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen.",
-        "phonetic": "",
+        "phonetic": "Di:se mathematisye glaykhung lässt sikh nikht mit aynfakhen methoden lösen.",
         "translationId": "Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana."
       },
       {
         "id": "de-gram-36-ex-2",
         "native": "Die vorliegenden Forschungsergebnisse sind vor der Publikation kritisch zu hinterfragen.",
-        "phonetic": "",
+        "phonetic": "Di: vorli:genden forsyungsergebnisse sind vor der publikation kritisy tsu hinterfragen.",
         "translationId": "Hasil-hasil penelitian yang ada ini harus ditelaah secara kritis sebelum dipublikasikan."
       },
       {
         "id": "de-gram-36-ex-3",
         "native": "Das Phänomen ist unter Laborbedingungen eindeutig reproduzierbar.",
-        "phonetic": "",
+        "phonetic": "Das phänomen ist unter laborbedingungen ayndoytig reprodutsi:rbar.",
         "translationId": "Fenomena tersebut dapat direproduksi secara jelas di bawah kondisi laboratorium."
       }
     ],
@@ -16574,7 +16682,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)\" (Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-36-pg-1",
@@ -16590,7 +16698,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen.\" berarti \"Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana.\"."
+        "explanation": "Kalimat \"Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen.\" (dibaca: Di:se mathematisye glaykhung lässt sikh nikht mit aynfakhen methoden lösen.) berarti \"Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana.\". Kalimat ini menggunakan pola \"Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich\" (Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)) yang berfungsi untuk variasi alternatif pengganti kalimat pasif untuk menghindari repetisi verba werden dalam naskah publikasi."
       },
       {
         "id": "q-de-gram-36-pg-2",
@@ -16606,7 +16714,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die vorliegenden Forschungsergebnisse sind vor der Publikation kritisch zu hinterfragen.\" berarti \"Hasil-hasil penelitian yang ada ini harus ditelaah secara kritis sebelum dipublikasikan.\"."
+        "explanation": "Kalimat \"Die vorliegenden Forschungsergebnisse sind vor der Publikation kritisch zu hinterfragen.\" (dibaca: Di: vorli:genden forsyungsergebnisse sind vor der publikation kritisy tsu hinterfragen.) berarti \"Hasil-hasil penelitian yang ada ini harus ditelaah secara kritis sebelum dipublikasikan.\". Kalimat ini menggunakan pola \"Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich\" (Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)) yang berfungsi untuk variasi alternatif pengganti kalimat pasif untuk menghindari repetisi verba werden dalam naskah publikasi."
       },
       {
         "id": "q-de-gram-36-pg-3",
@@ -16622,7 +16730,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Eksperimen tersebut nyaris saja gagal akibat kesalahan pemrograman yang fatal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Das Phänomen ist unter Laborbedingungen eindeutig reproduzierbar.\" berarti \"Fenomena tersebut dapat direproduksi secara jelas di bawah kondisi laboratorium.\"."
+        "explanation": "Kalimat \"Das Phänomen ist unter Laborbedingungen eindeutig reproduzierbar.\" (dibaca: Das phänomen ist unter laborbedingungen ayndoytig reprodutsi:rbar.) berarti \"Fenomena tersebut dapat direproduksi secara jelas di bawah kondisi laboratorium.\". Kalimat ini menggunakan pola \"Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich\" (Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)) yang berfungsi untuk variasi alternatif pengganti kalimat pasif untuk menghindari repetisi verba werden dalam naskah publikasi."
       },
       {
         "id": "q-de-gram-36-pg-4",
@@ -16642,7 +16750,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-36-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)\"?",
         "options": [
           "Über eine Einladung zu einem persönlichen Vorstellungsgespräch würde ich mich sehr freuen. — Saya akan sangat gembira apabila menerima undangan wawancara tatap muka secara langsung.",
           "Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben. — Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga.",
@@ -16656,7 +16764,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-36-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)\"?",
         "options": [
           "Das Phänomen ist unter Laborbedingungen eindeutig reproduzierbar. — Fenomena tersebut dapat direproduksi secara jelas di bawah kondisi laboratorium.",
           "Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle. — Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini.",
@@ -16670,7 +16778,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-36-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -16921,7 +17029,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen.\" berarti \"Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana.\"."
+        "explanation": "Kalimat \"Diese mathematische Gleichung lässt sich nicht mit einfachen Methoden lösen.\" (dibaca: Di:se mathematisye glaykhung lässt sikh nikht mit aynfakhen methoden lösen.) berarti \"Persamaan matematika ini tidak dapat diselesaikan dengan metode-metode sederhana.\". Kalimat ini menggunakan pola \"Sich lassen + Infinitiv / Sein + zu + Infinitiv / Adjektive auf -bar, -lich\" (Passivalternativen (Sich lassen + Infinitiv, Sein + zu + Infinitiv)) yang berfungsi untuk variasi alternatif pengganti kalimat pasif untuk menghindari repetisi verba werden dalam naskah publikasi."
       },
       {
         "id": "q-de-gram-36-bb-2",
@@ -16996,24 +17104,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Preposisi tingkat formal yang mewajibkan kasus genitif dalam teks jurnalistik berbobot dan penulisan ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)\" (Kausal-, Konzessiv- und Temporalpräpositionen mit Genitivrektion) berfungsi untuk: preposisi tingkat formal yang mewajibkan kasus genitif dalam teks jurnalistik berbobot dan penulisan ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation. — Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan."
+          "Rumus utama: Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv",
+          "Contoh 1: Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation. (Aufgrund unvorhergesehener tekhnisyer sywi:rigkayten vertsögerte sikh di: publikation.) — Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam bahasa Jerman baku akademik, preposisi wegen, trotz, während, dan aufgrund wajib diikuti kasus Genitiv.",
         "ruleList": [
-          "Trotz der rigorosen Sparmaßnahmen konnte die Exzellenz der Lehre gewahrt werden. — Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga."
+          "Polanya: Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv",
+          "Contoh 2: Trotz der rigorosen Sparmaßnahmen konnte die Exzellenz der Lehre gewahrt werden. (Trotts der rigorosen sparmassnahmen konnte di: extsellents der lehre gewahrt werden.) — Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Während des gesamten akademischen Jahres fanden hochkarätige Gastvorträge statt. — Selama sepanjang tahun akademik tersebut telah berlangsung berbagai kuliah tamu bermutu tinggi."
+          "Contoh 3: Während des gesamten akademischen Jahres fanden hochkarätige Gastvorträge statt. (Während des gesamten akademisyen jahres fanden hokhkarätige gastvorträge statt.) — Selama sepanjang tahun akademik tersebut telah berlangsung berbagai kuliah tamu bermutu tinggi.",
+          "Hindari kesalahan: \"wegen dem Wetter (umgangssprachlich)\" → gunakan bentuk yang benar: \"wegen des Wetters\"."
         ]
       }
     ],
@@ -17021,19 +17132,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-37-ex-1",
         "native": "Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation.",
-        "phonetic": "",
+        "phonetic": "Aufgrund unvorhergesehener tekhnisyer sywi:rigkayten vertsögerte sikh di: publikation.",
         "translationId": "Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan."
       },
       {
         "id": "de-gram-37-ex-2",
         "native": "Trotz der rigorosen Sparmaßnahmen konnte die Exzellenz der Lehre gewahrt werden.",
-        "phonetic": "",
+        "phonetic": "Trotts der rigorosen sparmassnahmen konnte di: extsellents der lehre gewahrt werden.",
         "translationId": "Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga."
       },
       {
         "id": "de-gram-37-ex-3",
         "native": "Während des gesamten akademischen Jahres fanden hochkarätige Gastvorträge statt.",
-        "phonetic": "",
+        "phonetic": "Während des gesamten akademisyen jahres fanden hokhkarätige gastvorträge statt.",
         "translationId": "Selama sepanjang tahun akademik tersebut telah berlangsung berbagai kuliah tamu bermutu tinggi."
       }
     ],
@@ -17049,7 +17160,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)\" (Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-37-pg-1",
@@ -17065,7 +17176,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation.\" berarti \"Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan.\"."
+        "explanation": "Kalimat \"Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation.\" (dibaca: Aufgrund unvorhergesehener tekhnisyer sywi:rigkayten vertsögerte sikh di: publikation.) berarti \"Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan.\". Kalimat ini menggunakan pola \"Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv\" (Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)) yang berfungsi untuk preposisi tingkat formal yang mewajibkan kasus genitif dalam teks jurnalistik berbobot dan penulisan ilmiah."
       },
       {
         "id": "q-de-gram-37-pg-2",
@@ -17081,7 +17192,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Trotz der rigorosen Sparmaßnahmen konnte die Exzellenz der Lehre gewahrt werden.\" berarti \"Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga.\"."
+        "explanation": "Kalimat \"Trotz der rigorosen Sparmaßnahmen konnte die Exzellenz der Lehre gewahrt werden.\" (dibaca: Trotts der rigorosen sparmassnahmen konnte di: extsellents der lehre gewahrt werden.) berarti \"Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga.\". Kalimat ini menggunakan pola \"Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv\" (Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)) yang berfungsi untuk preposisi tingkat formal yang mewajibkan kasus genitif dalam teks jurnalistik berbobot dan penulisan ilmiah."
       },
       {
         "id": "q-de-gram-37-pg-3",
@@ -17097,7 +17208,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Während des gesamten akademischen Jahres fanden hochkarätige Gastvorträge statt.\" berarti \"Selama sepanjang tahun akademik tersebut telah berlangsung berbagai kuliah tamu bermutu tinggi.\"."
+        "explanation": "Kalimat \"Während des gesamten akademischen Jahres fanden hochkarätige Gastvorträge statt.\" (dibaca: Während des gesamten akademisyen jahres fanden hokhkarätige gastvorträge statt.) berarti \"Selama sepanjang tahun akademik tersebut telah berlangsung berbagai kuliah tamu bermutu tinggi.\". Kalimat ini menggunakan pola \"Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv\" (Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)) yang berfungsi untuk preposisi tingkat formal yang mewajibkan kasus genitif dalam teks jurnalistik berbobot dan penulisan ilmiah."
       },
       {
         "id": "q-de-gram-37-pg-4",
@@ -17117,7 +17228,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-37-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)\"?",
         "options": [
           "Trotz der rigorosen Sparmaßnahmen konnte die Exzellenz der Lehre gewahrt werden. — Meskipun terdapat langkah penghematan anggaran yang ketat, keunggulan mutu pengajaran tetap terjaga.",
           "Wenn die Messdaten präziser gewesen wären, hätte die Theorie bestätigt werden können. — Seandainya data pengukuran lebih presisi dulu, teori tersebut pasti telah dapat dikonfirmasi.",
@@ -17131,7 +17242,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-37-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)\"?",
         "options": [
           "Hätte das Institut rechtzeitig investiert, wäre der technologische Vorsprung erhalten geblieben. — Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga.",
           "Während des gesamten akademischen Jahres fanden hochkarätige Gastvorträge statt. — Selama sepanjang tahun akademik tersebut telah berlangsung berbagai kuliah tamu bermutu tinggi.",
@@ -17145,7 +17256,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-37-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17394,7 +17505,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya institut tersebut berinvestasi tepat waktu dulu, keunggulan teknologis pasti tetap terjaga."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation.\" berarti \"Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan.\"."
+        "explanation": "Kalimat \"Aufgrund unvorhergesehener technischer Schwierigkeiten verzögerte sich die Publikation.\" (dibaca: Aufgrund unvorhergesehener tekhnisyer sywi:rigkayten vertsögerte sikh di: publikation.) berarti \"Akibat kendala teknis yang tak terduga, publikasi tersebut mengalami penundaan.\". Kalimat ini menggunakan pola \"Wegen / Trotz / Während / Aufgrund / Anlässlich / Infolge + Genitiv\" (Feste Präpositionen mit dem Genitiv (Wegen, Trotz, Während)) yang berfungsi untuk preposisi tingkat formal yang mewajibkan kasus genitif dalam teks jurnalistik berbobot dan penulisan ilmiah."
       },
       {
         "id": "q-de-gram-37-bb-2",
@@ -17469,24 +17580,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Modus konjungtif I untuk melaporkan pernyataan pihak lain secara netral tanpa memihak dalam laporan ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Konjunktiv I für die Indirekte Rede in Berichten' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Konjunktiv I für die Indirekte Rede in Berichten\" (Die Formen des Konjunktivs I zur distanzierten Redewiedergabe) berfungsi untuk: modus konjungtif I untuk melaporkan pernyataan pihak lain secara netral tanpa memihak dalam laporan ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden. — Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah."
+          "Rumus utama: Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)",
+          "Contoh 1: Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden. (Der verfasser behauptet, di: statistisyen daten sayen lückenlos dokumenti:rt worden.) — Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Konjunktiv I menandakan jarak objektif ilmiah saat mengutip pernyataan atau klaim peneliti lain.",
         "ruleList": [
-          "Die Bundesministerin erklärte, die Grundlagenforschung habe oberste Priorität. — Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi."
+          "Polanya: Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)",
+          "Contoh 2: Die Bundesministerin erklärte, die Grundlagenforschung habe oberste Priorität. (Di: bundesministerin erklärte, di: grundlagenforsyung habe oberste priorität.) — Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Konjunktiv I für die Indirekte Rede in Berichten\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Kritiker wenden ein, das gewählte Modell entspreche nicht der Realität. — Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan."
+          "Contoh 3: Kritiker wenden ein, das gewählte Modell entspreche nicht der Realität. (Kritiker wenden ayn, das gewählte modell entsprekhe nikht der realität.) — Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan.",
+          "Hindari kesalahan: \"der Autor sagte, dass die Daten sind (Indikativ)\" → gunakan bentuk yang benar: \"der Autor sagte, die Daten seien lückenlos dokumentiert\"."
         ]
       }
     ],
@@ -17494,19 +17608,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-38-ex-1",
         "native": "Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden.",
-        "phonetic": "",
+        "phonetic": "Der verfasser behauptet, di: statistisyen daten sayen lückenlos dokumenti:rt worden.",
         "translationId": "Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah."
       },
       {
         "id": "de-gram-38-ex-2",
         "native": "Die Bundesministerin erklärte, die Grundlagenforschung habe oberste Priorität.",
-        "phonetic": "",
+        "phonetic": "Di: bundesministerin erklärte, di: grundlagenforsyung habe oberste priorität.",
         "translationId": "Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi."
       },
       {
         "id": "de-gram-38-ex-3",
         "native": "Kritiker wenden ein, das gewählte Modell entspreche nicht der Realität.",
-        "phonetic": "",
+        "phonetic": "Kritiker wenden ayn, das gewählte modell entsprekhe nikht der realität.",
         "translationId": "Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan."
       }
     ],
@@ -17522,7 +17636,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Konjunktiv I für die Indirekte Rede in Berichten' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Konjunktiv I für die Indirekte Rede in Berichten\" (Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-38-pg-1",
@@ -17538,7 +17652,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan sudah dalam keadaan terbuka, Anda silakan masuk (kondisi hasil)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden.\" berarti \"Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah.\"."
+        "explanation": "Kalimat \"Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden.\" (dibaca: Der verfasser behauptet, di: statistisyen daten sayen lückenlos dokumenti:rt worden.) berarti \"Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah.\". Kalimat ini menggunakan pola \"Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)\" (Konjunktiv I für die Indirekte Rede in Berichten) yang berfungsi untuk modus konjungtif I untuk melaporkan pernyataan pihak lain secara netral tanpa memihak dalam laporan ilmiah."
       },
       {
         "id": "q-de-gram-38-pg-2",
@@ -17554,7 +17668,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Bundesministerin erklärte, die Grundlagenforschung habe oberste Priorität.\" berarti \"Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi.\"."
+        "explanation": "Kalimat \"Die Bundesministerin erklärte, die Grundlagenforschung habe oberste Priorität.\" (dibaca: Di: bundesministerin erklärte, di: grundlagenforsyung habe oberste priorität.) berarti \"Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi.\". Kalimat ini menggunakan pola \"Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)\" (Konjunktiv I für die Indirekte Rede in Berichten) yang berfungsi untuk modus konjungtif I untuk melaporkan pernyataan pihak lain secara netral tanpa memihak dalam laporan ilmiah."
       },
       {
         "id": "q-de-gram-38-pg-3",
@@ -17570,7 +17684,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Kritiker wenden ein, das gewählte Modell entspreche nicht der Realität.\" berarti \"Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan.\"."
+        "explanation": "Kalimat \"Kritiker wenden ein, das gewählte Modell entspreche nicht der Realität.\" (dibaca: Kritiker wenden ayn, das gewählte modell entsprekhe nikht der realität.) berarti \"Para pengkritik menyanggah bahwa model yang dipilih tersebut tidak sesuai dengan kenyataan.\". Kalimat ini menggunakan pola \"Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)\" (Konjunktiv I für die Indirekte Rede in Berichten) yang berfungsi untuk modus konjungtif I untuk melaporkan pernyataan pihak lain secara netral tanpa memihak dalam laporan ilmiah."
       },
       {
         "id": "q-de-gram-38-pg-4",
@@ -17590,7 +17704,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-38-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv I für die Indirekte Rede in Berichten\"?",
         "options": [
           "Die Bibliothek ist bereits geöffnet, Sie können eintreten (Zustand). — Perpustakaan sudah dalam keadaan terbuka, Anda silakan masuk (kondisi hasil).",
           "Die Bundesministerin erklärte, die Grundlagenforschung habe oberste Priorität. — Menteri Federal menyatakan bahwa penelitian dasar memiliki prioritas tertinggi.",
@@ -17604,7 +17718,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-38-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv I für die Indirekte Rede in Berichten\"?",
         "options": [
           "Die Universitätsbibliothek wird um acht Uhr geöffnet (Vorgang). — Perpustakaan universitas dibuka pada pukul delapan (proses pembukaan).",
           "Alle Dokumente sind ordnungsgemäß im Institutsarchiv hinterlegt. — Seluruh dokumen telah tersimpan dengan rapi di dalam arsip institut.",
@@ -17618,7 +17732,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-38-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Konjunktiv I für die Indirekte Rede in Berichten\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17865,7 +17979,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden.\" berarti \"Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah.\"."
+        "explanation": "Kalimat \"Der Verfasser behauptet, die statistischen Daten seien lückenlos dokumentiert worden.\" (dibaca: Der verfasser behauptet, di: statistisyen daten sayen lückenlos dokumenti:rt worden.) berarti \"Penulis mengklaim bahwa data-data statistik tersebut telah didokumentasikan secara lengkap tanpa celah.\". Kalimat ini menggunakan pola \"Präsensstamm + -e, -est, -e, -en, -et, -en (Er sei, er habe, er behaupte)\" (Konjunktiv I für die Indirekte Rede in Berichten) yang berfungsi untuk modus konjungtif I untuk melaporkan pernyataan pihak lain secara netral tanpa memihak dalam laporan ilmiah."
       },
       {
         "id": "q-de-gram-38-bb-2",
@@ -17940,24 +18054,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membangun kepaduan wacana esai ilmiah dengan penanda transisi paragraf yang runut, presisi, dan koheren.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz\" (Textverflechtung und logische Gliederungssignale) berfungsi untuk: membangun kepaduan wacana esai ilmiah dengan penanda transisi paragraf yang runut, presisi, dan koheren. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise. — Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci."
+          "Rumus utama: Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren",
+          "Contoh 1: Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise. (Demgegenüber argumenti:ren noyere studi:n für ayne differentsi:rtere betrakhtungswayse.) — Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Ungkapan penstrukturan teks memberikan arsitektur argumentasi yang jernih pada makalah ilmiah.",
         "ruleList": [
-          "Zusammenfassend lässt sich konstatieren, dass die Ausgangshypothese modifiziert werden muss. — Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi."
+          "Polanya: Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren",
+          "Contoh 2: Zusammenfassend lässt sich konstatieren, dass die Ausgangshypothese modifiziert werden muss. (Tsusammenfassend lässt sikh konstati:ren, dass di: ausgangshypothese modifitsi:rt werden muss.) — Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Im Folgenden soll der methodologische Ansatz detailliert exponiert werden. — Pada bagian berikut, pendekatan metodologis akan dipaparkan secara terperinci."
+          "Contoh 3: Im Folgenden soll der methodologische Ansatz detailliert exponiert werden. (Im folgenden soll der methodologisye ansatts detailli:rt exponi:rt werden.) — Pada bagian berikut, pendekatan metodologis akan dipaparkan secara terperinci.",
+          "Hindari kesalahan: \"also ich finde (zu subjektiv/umgangssprachlich)\" → gunakan bentuk yang benar: \"zusammenfassend lässt sich konstatieren, dass...\"."
         ]
       }
     ],
@@ -17965,19 +18082,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-39-ex-1",
         "native": "Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise.",
-        "phonetic": "",
+        "phonetic": "Demgegenüber argumenti:ren noyere studi:n für ayne differentsi:rtere betrakhtungswayse.",
         "translationId": "Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci."
       },
       {
         "id": "de-gram-39-ex-2",
         "native": "Zusammenfassend lässt sich konstatieren, dass die Ausgangshypothese modifiziert werden muss.",
-        "phonetic": "",
+        "phonetic": "Tsusammenfassend lässt sikh konstati:ren, dass di: ausgangshypothese modifitsi:rt werden muss.",
         "translationId": "Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi."
       },
       {
         "id": "de-gram-39-ex-3",
         "native": "Im Folgenden soll der methodologische Ansatz detailliert exponiert werden.",
-        "phonetic": "",
+        "phonetic": "Im folgenden soll der methodologisye ansatts detailli:rt exponi:rt werden.",
         "translationId": "Pada bagian berikut, pendekatan metodologis akan dipaparkan secara terperinci."
       }
     ],
@@ -17993,7 +18110,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz\" (Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-39-pg-1",
@@ -18009,7 +18126,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise.\" berarti \"Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci.\"."
+        "explanation": "Kalimat \"Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise.\" (dibaca: Demgegenüber argumenti:ren noyere studi:n für ayne differentsi:rtere betrakhtungswayse.) berarti \"Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci.\". Kalimat ini menggunakan pola \"Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren\" (Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz) yang berfungsi untuk membangun kepaduan wacana esai ilmiah dengan penanda transisi paragraf yang runut, presisi, dan koheren."
       },
       {
         "id": "q-de-gram-39-pg-2",
@@ -18025,7 +18142,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Zusammenfassend lässt sich konstatieren, dass die Ausgangshypothese modifiziert werden muss.\" berarti \"Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi.\"."
+        "explanation": "Kalimat \"Zusammenfassend lässt sich konstatieren, dass die Ausgangshypothese modifiziert werden muss.\" (dibaca: Tsusammenfassend lässt sikh konstati:ren, dass di: ausgangshypothese modifitsi:rt werden muss.) berarti \"Secara ringkas dapat ditegaskan bahwa hipotesis awal harus dimodifikasi.\". Kalimat ini menggunakan pola \"Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren\" (Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz) yang berfungsi untuk membangun kepaduan wacana esai ilmiah dengan penanda transisi paragraf yang runut, presisi, dan koheren."
       },
       {
         "id": "q-de-gram-39-pg-3",
@@ -18041,7 +18158,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Seluruh responden yang terlibat dalam studi klinis berskala besar itu telah memberikan persetujuan mereka."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Im Folgenden soll der methodologische Ansatz detailliert exponiert werden.\" berarti \"Pada bagian berikut, pendekatan metodologis akan dipaparkan secara terperinci.\"."
+        "explanation": "Kalimat \"Im Folgenden soll der methodologische Ansatz detailliert exponiert werden.\" (dibaca: Im folgenden soll der methodologisye ansatts detailli:rt exponi:rt werden.) berarti \"Pada bagian berikut, pendekatan metodologis akan dipaparkan secara terperinci.\". Kalimat ini menggunakan pola \"Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren\" (Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz) yang berfungsi untuk membangun kepaduan wacana esai ilmiah dengan penanda transisi paragraf yang runut, presisi, dan koheren."
       },
       {
         "id": "q-de-gram-39-pg-4",
@@ -18061,7 +18178,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-39-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz\"?",
         "options": [
           "Der vortragende Dozent fesselte das gesamte Auditorium mit seinen Ausführungen. — Dosen yang sedang berceramah itu memikat seluruh hadirin auditorium dengan paparannya.",
           "Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert. — Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi.",
@@ -18075,7 +18192,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-39-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz\"?",
         "options": [
           "Die ständig wachsenden Anforderungen an Hochschulabsolventen erfordern neue Lehrkonzepte. — Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru.",
           "Die an der Konferenz teilnehmenden Wissenschaftler reisten aus zwanzig Ländern an. — Para ilmuwan yang berpartisipasi dalam konferensi tersebut datang dari dua puluh negara.",
@@ -18089,7 +18206,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-39-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -18336,7 +18453,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Tuntutan yang terus meningkat terhadap lulusan perguruan tinggi memerlukan konsep pengajaran baru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise.\" berarti \"Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci.\"."
+        "explanation": "Kalimat \"Demgegenüber argumentieren neuere Studien für eine differenziertere Betrachtungsweise.\" (dibaca: Demgegenüber argumenti:ren noyere studi:n für ayne differentsi:rtere betrakhtungswayse.) berarti \"Sebaliknya, studi-studi terbaru berargumen mendukung sudut pandang yang lebih terperinci.\". Kalimat ini menggunakan pola \"Einleitend / Demgegenüber / Zusammenfassend lässt sich konstatieren\" (Kohäsion und Textstrukturierung im wissenschaftlichen Aufsatz) yang berfungsi untuk membangun kepaduan wacana esai ilmiah dengan penanda transisi paragraf yang runut, presisi, dan koheren."
       },
       {
         "id": "q-de-gram-39-bb-2",
@@ -18411,24 +18528,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Tata cara penulisan surat motivasi beasiswa, korespondensi profesor, dan lamaran posisi asisten peneliti di Jerman.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Geschäftskorrespondenz und universitäre Bewerbungsschreiben' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Geschäftskorrespondenz und universitäre Bewerbungsschreiben\" (Formale Gepflogenheiten im akademischen Schriftverkehr) berfungsi untuk: tata cara penulisan surat motivasi beasiswa, korespondensi profesor, dan lamaran posisi asisten peneliti di Jerman. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle. — Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini."
+          "Rumus utama: Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen",
+          "Contoh 1: Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle. (Sehr geehrte frau professorin dr. müller, mit grossem interesse bewerbe ikh mikh um di: promotionsstelle.) — Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam korespondensi universitas di Jerman, gelar akademik dicantumkan secara lengkap dan hormat pada sapaan.",
         "ruleList": [
-          "Über eine Einladung zu einem persönlichen Vorstellungsgespräch würde ich mich sehr freuen. — Saya akan sangat gembira apabila menerima undangan wawancara tatap muka secara langsung."
+          "Polanya: Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen",
+          "Contoh 2: Über eine Einladung zu einem persönlichen Vorstellungsgespräch würde ich mich sehr freuen. (Über ayne aynladung tsu aynem persönlikhen vorstellungsgespräkh würde ikh mikh sehr froyen.) — Saya akan sangat gembira apabila menerima undangan wawancara tatap muka secara langsung."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Geschäftskorrespondenz und universitäre Bewerbungsschreiben\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Mit freundlichen Grüßen aus Heidelberg. — Salam hormat dari Heidelberg."
+          "Contoh 3: Mit freundlichen Grüßen aus Heidelberg. (Mit froyndlikhen grüssen aus haydelberg.) — Salam hormat dari Heidelberg.",
+          "Hindari kesalahan: \"Hallo Professor Müller (unpassend)\" → gunakan bentuk yang benar: \"Sehr geehrte Frau Professorin Dr. Müller\"."
         ]
       }
     ],
@@ -18436,19 +18556,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-40-ex-1",
         "native": "Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle.",
-        "phonetic": "",
+        "phonetic": "Sehr geehrte frau professorin dr. müller, mit grossem interesse bewerbe ikh mikh um di: promotionsstelle.",
         "translationId": "Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini."
       },
       {
         "id": "de-gram-40-ex-2",
         "native": "Über eine Einladung zu einem persönlichen Vorstellungsgespräch würde ich mich sehr freuen.",
-        "phonetic": "",
+        "phonetic": "Über ayne aynladung tsu aynem persönlikhen vorstellungsgespräkh würde ikh mikh sehr froyen.",
         "translationId": "Saya akan sangat gembira apabila menerima undangan wawancara tatap muka secara langsung."
       },
       {
         "id": "de-gram-40-ex-3",
         "native": "Mit freundlichen Grüßen aus Heidelberg.",
-        "phonetic": "",
+        "phonetic": "Mit froyndlikhen grüssen aus haydelberg.",
         "translationId": "Salam hormat dari Heidelberg."
       }
     ],
@@ -18464,7 +18584,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Geschäftskorrespondenz und universitäre Bewerbungsschreiben' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Geschäftskorrespondenz und universitäre Bewerbungsschreiben\" (Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-40-pg-1",
@@ -18480,7 +18600,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle.\" berarti \"Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini.\"."
+        "explanation": "Kalimat \"Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle.\" (dibaca: Sehr geehrte frau professorin dr. müller, mit grossem interesse bewerbe ikh mikh um di: promotionsstelle.) berarti \"Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini.\". Kalimat ini menggunakan pola \"Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen\" (Geschäftskorrespondenz und universitäre Bewerbungsschreiben) yang berfungsi untuk tata cara penulisan surat motivasi beasiswa, korespondensi profesor, dan lamaran posisi asisten peneliti di Jerman."
       },
       {
         "id": "q-de-gram-40-pg-2",
@@ -18496,7 +18616,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Über eine Einladung zu einem persönlichen Vorstellungsgespräch würde ich mich sehr freuen.\" berarti \"Saya akan sangat gembira apabila menerima undangan wawancara tatap muka secara langsung.\"."
+        "explanation": "Kalimat \"Über eine Einladung zu einem persönlichen Vorstellungsgespräch würde ich mich sehr freuen.\" (dibaca: Über ayne aynladung tsu aynem persönlikhen vorstellungsgespräkh würde ikh mikh sehr froyen.) berarti \"Saya akan sangat gembira apabila menerima undangan wawancara tatap muka secara langsung.\". Kalimat ini menggunakan pola \"Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen\" (Geschäftskorrespondenz und universitäre Bewerbungsschreiben) yang berfungsi untuk tata cara penulisan surat motivasi beasiswa, korespondensi profesor, dan lamaran posisi asisten peneliti di Jerman."
       },
       {
         "id": "q-de-gram-40-pg-3",
@@ -18512,7 +18632,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Hasil-hasil pengukuran tersebut mempertanyakan pandangan teoretis yang berlaku selama ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Mit freundlichen Grüßen aus Heidelberg.\" berarti \"Salam hormat dari Heidelberg.\"."
+        "explanation": "Kalimat \"Mit freundlichen Grüßen aus Heidelberg.\" (dibaca: Mit froyndlikhen grüssen aus haydelberg.) berarti \"Salam hormat dari Heidelberg.\". Kalimat ini menggunakan pola \"Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen\" (Geschäftskorrespondenz und universitäre Bewerbungsschreiben) yang berfungsi untuk tata cara penulisan surat motivasi beasiswa, korespondensi profesor, dan lamaran posisi asisten peneliti di Jerman."
       },
       {
         "id": "q-de-gram-40-pg-4",
@@ -18532,7 +18652,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-40-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Geschäftskorrespondenz und universitäre Bewerbungsschreiben\"?",
         "options": [
           "Transformation: Die Projekte, die von der DFG gefördert wurden, werden evaluiert. — Transformasi klausa relatif: Proyek-proyek yang telah didanai oleh DFG tersebut sedang dievaluasi.",
           "Die Fakultätsleitung hat gestern eine richtungsweisende Entscheidung getroffen. — Pimpinan fakultas kemarin telah mengambil sebuah keputusan penting yang menentukan arah kebijakan.",
@@ -18546,7 +18666,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-40-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Geschäftskorrespondenz und universitäre Bewerbungsschreiben\"?",
         "options": [
           "Mit freundlichen Grüßen aus Heidelberg. — Salam hormat dari Heidelberg.",
           "Die von der Deutschen Forschungsgemeinschaft geförderten Projekte werden evaluiert. — Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi.",
@@ -18560,7 +18680,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-40-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Geschäftskorrespondenz und universitäre Bewerbungsschreiben\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -18810,7 +18930,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Proyek-proyek yang didanai oleh Yayasan Riset Jerman (DFG) tersebut sedang dievaluasi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle.\" berarti \"Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini.\"."
+        "explanation": "Kalimat \"Sehr geehrte Frau Professorin Dr. Müller, mit großem Interesse bewerbe ich mich um die Promotionsstelle.\" (dibaca: Sehr geehrte frau professorin dr. müller, mit grossem interesse bewerbe ikh mikh um di: promotionsstelle.) berarti \"Yang terhormat Ibu Profesor Dr. Müller, dengan ketertarikan besar saya melamar posisi kandidat doktor ini.\". Kalimat ini menggunakan pola \"Sehr geehrte Damen und Herren / Sehr geehrte(r) Frau/Herr Professor(in) / Mit freundlichen Grüßen\" (Geschäftskorrespondenz und universitäre Bewerbungsschreiben) yang berfungsi untuk tata cara penulisan surat motivasi beasiswa, korespondensi profesor, dan lamaran posisi asisten peneliti di Jerman."
       },
       {
         "id": "q-de-gram-40-bb-2",
@@ -18885,24 +19005,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mentransformasikan klausa verbal menjadi gaya nominal padat khas TestDaF dan naskah ilmiah universitas riset.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Nominalstil und Verbalstil: Transformationstechniken' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nominalstil und Verbalstil: Transformationstechniken\" (Die Verdichtung von Informationen durch Nominalisierung) berfungsi untuk: mentransformasikan klausa verbal menjadi gaya nominal padat khas TestDaF dan naskah ilmiah universitas riset. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen. — Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur."
+          "Rumus utama: Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen",
+          "Contoh 1: Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen. (Di: implementi:rung des innovativen curriculums führte tsu ayner messbaren staygerung der studi:nlaystungen.) — Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gaya nominal (Nominalstil) memadatkan informasi dan meningkatkan ketajaman konseptual dalam teks ilmiah.",
         "ruleList": [
-          "Verbal: Als das innovative Curriculum implementiert wurde, stiegen die Studienleistungen messbar. — Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur."
+          "Polanya: Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen",
+          "Contoh 2: Verbal: Als das innovative Curriculum implementiert wurde, stiegen die Studienleistungen messbar. (Verbal: als das innovative curriculum implementi:rt wurde, sti:gen di: studi:nlaystungen messbar.) — Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nominalstil und Verbalstil: Transformationstechniken\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die Erforschung der Ursachen erfordert eine interdisziplinäre Kooperation. — Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu."
+          "Contoh 3: Die Erforschung der Ursachen erfordert eine interdisziplinäre Kooperation. (Di: erforsyung der ursakhen erfordert ayne interdistsiplinäre kooperation.) — Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu.",
+          "Hindari kesalahan: \"als man erforschte die Ursachen\" → gunakan bentuk yang benar: \"die Erforschung der Ursachen\"."
         ]
       }
     ],
@@ -18910,19 +19033,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-41-ex-1",
         "native": "Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen.",
-        "phonetic": "",
+        "phonetic": "Di: implementi:rung des innovativen curriculums führte tsu ayner messbaren staygerung der studi:nlaystungen.",
         "translationId": "Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur."
       },
       {
         "id": "de-gram-41-ex-2",
         "native": "Verbal: Als das innovative Curriculum implementiert wurde, stiegen die Studienleistungen messbar.",
-        "phonetic": "",
+        "phonetic": "Verbal: als das innovative curriculum implementi:rt wurde, sti:gen di: studi:nlaystungen messbar.",
         "translationId": "Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur."
       },
       {
         "id": "de-gram-41-ex-3",
         "native": "Die Erforschung der Ursachen erfordert eine interdisziplinäre Kooperation.",
-        "phonetic": "",
+        "phonetic": "Di: erforsyung der ursakhen erfordert ayne interdistsiplinäre kooperation.",
         "translationId": "Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu."
       }
     ],
@@ -18938,7 +19061,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Nominalstil und Verbalstil: Transformationstechniken' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Nominalstil und Verbalstil: Transformationstechniken\" (Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-41-pg-1",
@@ -18954,7 +19077,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen.\" berarti \"Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur.\"."
+        "explanation": "Kalimat \"Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen.\" (dibaca: Di: implementi:rung des innovativen curriculums führte tsu ayner messbaren staygerung der studi:nlaystungen.) berarti \"Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur.\". Kalimat ini menggunakan pola \"Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen\" (Nominalstil und Verbalstil: Transformationstechniken) yang berfungsi untuk mentransformasikan klausa verbal menjadi gaya nominal padat khas TestDaF dan naskah ilmiah universitas riset."
       },
       {
         "id": "q-de-gram-41-pg-2",
@@ -18970,7 +19093,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Verbal: Als das innovative Curriculum implementiert wurde, stiegen die Studienleistungen messbar.\" berarti \"Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur.\"."
+        "explanation": "Kalimat \"Verbal: Als das innovative Curriculum implementiert wurde, stiegen die Studienleistungen messbar.\" (dibaca: Verbal: als das innovative curriculum implementi:rt wurde, sti:gen di: studi:nlaystungen messbar.) berarti \"Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur.\". Kalimat ini menggunakan pola \"Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen\" (Nominalstil und Verbalstil: Transformationstechniken) yang berfungsi untuk mentransformasikan klausa verbal menjadi gaya nominal padat khas TestDaF dan naskah ilmiah universitas riset."
       },
       {
         "id": "q-de-gram-41-pg-3",
@@ -18986,7 +19109,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Operasionalisasi variabel-variabel tersebut dilakukan mengikuti standar psikometrik yang diakui."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Erforschung der Ursachen erfordert eine interdisziplinäre Kooperation.\" berarti \"Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu.\"."
+        "explanation": "Kalimat \"Die Erforschung der Ursachen erfordert eine interdisziplinäre Kooperation.\" (dibaca: Di: erforsyung der ursakhen erfordert ayne interdistsiplinäre kooperation.) berarti \"Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu.\". Kalimat ini menggunakan pola \"Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen\" (Nominalstil und Verbalstil: Transformationstechniken) yang berfungsi untuk mentransformasikan klausa verbal menjadi gaya nominal padat khas TestDaF dan naskah ilmiah universitas riset."
       },
       {
         "id": "q-de-gram-41-pg-4",
@@ -19006,7 +19129,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-41-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nominalstil und Verbalstil: Transformationstechniken\"?",
         "options": [
           "Verbal: Als das innovative Curriculum implementiert wurde, stiegen die Studienleistungen messbar. — Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur.",
           "Ungeachtet der prinzipiellen Validität der Gegenargumente wiegt der empirische Befund schwerer. — Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat.",
@@ -19020,7 +19143,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-41-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nominalstil und Verbalstil: Transformationstechniken\"?",
         "options": [
           "Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten. — Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas.",
           "Die Erforschung der Ursachen erfordert eine interdisziplinäre Kooperation. — Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu.",
@@ -19034,7 +19157,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-41-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Nominalstil und Verbalstil: Transformationstechniken\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19285,7 +19408,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen.\" berarti \"Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur.\"."
+        "explanation": "Kalimat \"Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen.\" (dibaca: Di: implementi:rung des innovativen curriculums führte tsu ayner messbaren staygerung der studi:nlaystungen.) berarti \"Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur.\". Kalimat ini menggunakan pola \"Verbalgefüge -> Komplexe Nominalgruppe mit Genitivattributen\" (Nominalstil und Verbalstil: Transformationstechniken) yang berfungsi untuk mentransformasikan klausa verbal menjadi gaya nominal padat khas TestDaF dan naskah ilmiah universitas riset."
       },
       {
         "id": "q-de-gram-41-bb-2",
@@ -19360,24 +19483,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengungkapkan derajat kepastian epistemologis hipotesis riset dan mengutip klaim yang belum terverifikasi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)\" (Modalverben zur Abstufung von Wahrscheinlichkeit und Distanzierung) berfungsi untuk: mengungkapkan derajat kepastian epistemologis hipotesis riset dan mengutip klaim yang belum terverifikasi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben. — Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi."
+          "Rumus utama: Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)",
+          "Contoh 1: Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben. (Di: astronomisye entdeckung dürfte waytraykhende konsequentsen für di: kosmologi: haben.) — Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht) memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja modal subjektif membantu peneliti menyatakan tingkat kepastian secara terukur dan bernuansa.",
         "ruleList": [
-          "Der antike Text soll von einem Schüler des Aristoteles verfasst worden sein. — Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles."
+          "Polanya: Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)",
+          "Contoh 2: Der antike Text soll von einem Schüler des Aristoteles verfasst worden sein. (Der antike text soll von aynem syüler des aristoteles verfasst worden sayn.) — Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die beobachteten Abweichungen müssen auf systematische Messfehler zurückzuführen sein. — Penyimpangan yang teramati tersebut pastilah disebabkan oleh kesalahan pengukuran sistematis."
+          "Contoh 3: Die beobachteten Abweichungen müssen auf systematische Messfehler zurückzuführen sein. (Di: beobakhteten abwaykhungen müssen auf systematisye messfehler tsurücktsuführen sayn.) — Penyimpangan yang teramati tersebut pastilah disebabkan oleh kesalahan pengukuran sistematis.",
+          "Hindari kesalahan: \"das ist vielleicht wahr (zu schlicht)\" → gunakan bentuk yang benar: \"dieser Befund dürfte zutreffen\"."
         ]
       }
     ],
@@ -19385,19 +19511,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-42-ex-1",
         "native": "Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben.",
-        "phonetic": "",
+        "phonetic": "Di: astronomisye entdeckung dürfte waytraykhende konsequentsen für di: kosmologi: haben.",
         "translationId": "Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi."
       },
       {
         "id": "de-gram-42-ex-2",
         "native": "Der antike Text soll von einem Schüler des Aristoteles verfasst worden sein.",
-        "phonetic": "",
+        "phonetic": "Der antike text soll von aynem syüler des aristoteles verfasst worden sayn.",
         "translationId": "Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles."
       },
       {
         "id": "de-gram-42-ex-3",
         "native": "Die beobachteten Abweichungen müssen auf systematische Messfehler zurückzuführen sein.",
-        "phonetic": "",
+        "phonetic": "Di: beobakhteten abwaykhungen müssen auf systematisye messfehler tsurücktsuführen sayn.",
         "translationId": "Penyimpangan yang teramati tersebut pastilah disebabkan oleh kesalahan pengukuran sistematis."
       }
     ],
@@ -19413,7 +19539,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)\" (Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-42-pg-1",
@@ -19429,7 +19555,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben.\" berarti \"Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi.\"."
+        "explanation": "Kalimat \"Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben.\" (dibaca: Di: astronomisye entdeckung dürfte waytraykhende konsequentsen für di: kosmologi: haben.) berarti \"Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi.\". Kalimat ini menggunakan pola \"Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)\" (Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)) yang berfungsi untuk mengungkapkan derajat kepastian epistemologis hipotesis riset dan mengutip klaim yang belum terverifikasi."
       },
       {
         "id": "q-de-gram-42-pg-2",
@@ -19445,7 +19571,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Der antike Text soll von einem Schüler des Aristoteles verfasst worden sein.\" berarti \"Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles.\"."
+        "explanation": "Kalimat \"Der antike Text soll von einem Schüler des Aristoteles verfasst worden sein.\" (dibaca: Der antike text soll von aynem syüler des aristoteles verfasst worden sayn.) berarti \"Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles.\". Kalimat ini menggunakan pola \"Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)\" (Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)) yang berfungsi untuk mengungkapkan derajat kepastian epistemologis hipotesis riset dan mengutip klaim yang belum terverifikasi."
       },
       {
         "id": "q-de-gram-42-pg-3",
@@ -19461,7 +19587,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penyimpangan yang teramati tersebut pastilah disebabkan oleh kesalahan pengukuran sistematis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die beobachteten Abweichungen müssen auf systematische Messfehler zurückzuführen sein.\" berarti \"Penyimpangan yang teramati tersebut pastilah disebabkan oleh kesalahan pengukuran sistematis.\"."
+        "explanation": "Kalimat \"Die beobachteten Abweichungen müssen auf systematische Messfehler zurückzuführen sein.\" (dibaca: Di: beobakhteten abwaykhungen müssen auf systematisye messfehler tsurücktsuführen sayn.) berarti \"Penyimpangan yang teramati tersebut pastilah disebabkan oleh kesalahan pengukuran sistematis.\". Kalimat ini menggunakan pola \"Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)\" (Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)) yang berfungsi untuk mengungkapkan derajat kepastian epistemologis hipotesis riset dan mengutip klaim yang belum terverifikasi."
       },
       {
         "id": "q-de-gram-42-pg-4",
@@ -19481,7 +19607,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-42-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)\"?",
         "options": [
           "Die quantitative Spektralanalyse bestätigte das Vorhandensein metastabiler Isotope. — Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil.",
           "Der antike Text soll von einem Schüler des Aristoteles verfasst worden sein. — Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles.",
@@ -19495,7 +19621,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-42-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)\"?",
         "options": [
           "Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes. — Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu.",
           "Die Operationalisierung der Variablen erfolgte nach anerkannten psychometrischen Standards. — Operasionalisasi variabel-variabel tersebut dilakukan mengikuti standar psikometrik yang diakui.",
@@ -19509,7 +19635,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-42-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19758,7 +19884,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben.\" berarti \"Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi.\"."
+        "explanation": "Kalimat \"Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben.\" (dibaca: Di: astronomisye entdeckung dürfte waytraykhende konsequentsen für di: kosmologi: haben.) berarti \"Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi.\". Kalimat ini menggunakan pola \"Müssen (Sicherheit 95%) / Dürfte (Wahrscheinlichkeit 75%) / Könnte (Möglichkeit 50%) / Sollen (Gerücht)\" (Subjektive Bedeutung der Modalverben (Vermutung & Fremdaussage)) yang berfungsi untuk mengungkapkan derajat kepastian epistemologis hipotesis riset dan mengutip klaim yang belum terverifikasi."
       },
       {
         "id": "q-de-gram-42-bb-2",
@@ -19833,24 +19959,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Merangkai kalimat majemuk bertingkat kompleks (hipotaksis) yang mengikat beberapa anak kalimat tanpa membingungkan alur logika.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen\" (Mehrfach subordinierte Hypotaxen im akademischen Diskurs) berfungsi untuk: merangkai kalimat majemuk bertingkat kompleks (hipotaksis) yang mengikat beberapa anak kalimat tanpa membingungkan alur logika. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln. — Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu."
+          "Rumus utama: Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe",
+          "Contoh 1: Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln. (Di: theori:, di: der forsyer entwickelte, als er am institut tätig war, trug datsu bay, das phänomen tsu entsylüsseln.) — Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Penalaran ilmiah tingkat C1 tercermin dari penguasaan struktur kalimat bertingkat (hipotaksis) yang teratur.",
         "ruleList": [
-          "Obgleich die Datenlage, welche die Kommission sichtete, unvollständig war, gelang es, Richtlinien zu formulieren. — Sekalipun ketersediaan data yang ditinjau oleh komisi tersebut belum lengkap, pedoman kebijakan tetap berhasil dirumuskan."
+          "Polanya: Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe",
+          "Contoh 2: Obgleich die Datenlage, welche die Kommission sichtete, unvollständig war, gelang es, Richtlinien zu formulieren. (Obglaykh di: datenlage, welkhe di: kommission sikhtete, unvollständig war, gelang es, rikhtlini:n tsu formuli:ren.) — Sekalipun ketersediaan data yang ditinjau oleh komisi tersebut belum lengkap, pedoman kebijakan tetap berhasil dirumuskan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Es erwies sich als notwendig, den Versuchsaufbau zu modifizieren. — Terbukti sangat diperlukan untuk memodifikasi susunan perangkat eksperimen tersebut."
+          "Contoh 3: Es erwies sich als notwendig, den Versuchsaufbau zu modifizieren. (Es erwi:s sikh als notwendig, den versukhsaufbau tsu modifitsi:ren.) — Terbukti sangat diperlukan untuk memodifikasi susunan perangkat eksperimen tersebut.",
+          "Hindari kesalahan: \"Aneinanderreihung kurzer Hauptsätze (Parataxe)\" → gunakan bentuk yang benar: \"differenzierte hypotaktische Satzarchitektur\"."
         ]
       }
     ],
@@ -19858,19 +19987,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-43-ex-1",
         "native": "Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln.",
-        "phonetic": "",
+        "phonetic": "Di: theori:, di: der forsyer entwickelte, als er am institut tätig war, trug datsu bay, das phänomen tsu entsylüsseln.",
         "translationId": "Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu."
       },
       {
         "id": "de-gram-43-ex-2",
         "native": "Obgleich die Datenlage, welche die Kommission sichtete, unvollständig war, gelang es, Richtlinien zu formulieren.",
-        "phonetic": "",
+        "phonetic": "Obglaykh di: datenlage, welkhe di: kommission sikhtete, unvollständig war, gelang es, rikhtlini:n tsu formuli:ren.",
         "translationId": "Sekalipun ketersediaan data yang ditinjau oleh komisi tersebut belum lengkap, pedoman kebijakan tetap berhasil dirumuskan."
       },
       {
         "id": "de-gram-43-ex-3",
         "native": "Es erwies sich als notwendig, den Versuchsaufbau zu modifizieren.",
-        "phonetic": "",
+        "phonetic": "Es erwi:s sikh als notwendig, den versukhsaufbau tsu modifitsi:ren.",
         "translationId": "Terbukti sangat diperlukan untuk memodifikasi susunan perangkat eksperimen tersebut."
       }
     ],
@@ -19886,7 +20015,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen\" (Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-43-pg-1",
@@ -19902,7 +20031,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa berhak mengajukan keberatan resmi dalam batas tenggat waktu yang telah ditetapkan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln.\" berarti \"Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu.\"."
+        "explanation": "Kalimat \"Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln.\" (dibaca: Di: theori:, di: der forsyer entwickelte, als er am institut tätig war, trug datsu bay, das phänomen tsu entsylüsseln.) berarti \"Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu.\". Kalimat ini menggunakan pola \"Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe\" (Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen) yang berfungsi untuk merangkai kalimat majemuk bertingkat kompleks (hipotaksis) yang mengikat beberapa anak kalimat tanpa membingungkan alur logika."
       },
       {
         "id": "q-de-gram-43-pg-2",
@@ -19918,7 +20047,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Sekalipun ketersediaan data yang ditinjau oleh komisi tersebut belum lengkap, pedoman kebijakan tetap berhasil dirumuskan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Obgleich die Datenlage, welche die Kommission sichtete, unvollständig war, gelang es, Richtlinien zu formulieren.\" berarti \"Sekalipun ketersediaan data yang ditinjau oleh komisi tersebut belum lengkap, pedoman kebijakan tetap berhasil dirumuskan.\"."
+        "explanation": "Kalimat \"Obgleich die Datenlage, welche die Kommission sichtete, unvollständig war, gelang es, Richtlinien zu formulieren.\" (dibaca: Obglaykh di: datenlage, welkhe di: kommission sikhtete, unvollständig war, gelang es, rikhtlini:n tsu formuli:ren.) berarti \"Sekalipun ketersediaan data yang ditinjau oleh komisi tersebut belum lengkap, pedoman kebijakan tetap berhasil dirumuskan.\". Kalimat ini menggunakan pola \"Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe\" (Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen) yang berfungsi untuk merangkai kalimat majemuk bertingkat kompleks (hipotaksis) yang mengikat beberapa anak kalimat tanpa membingungkan alur logika."
       },
       {
         "id": "q-de-gram-43-pg-3",
@@ -19934,7 +20063,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Alur pembahasan penelitian ini terbagi menjadi bagian utama teoretis dan bagian utama empiris."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Es erwies sich als notwendig, den Versuchsaufbau zu modifizieren.\" berarti \"Terbukti sangat diperlukan untuk memodifikasi susunan perangkat eksperimen tersebut.\"."
+        "explanation": "Kalimat \"Es erwies sich als notwendig, den Versuchsaufbau zu modifizieren.\" (dibaca: Es erwi:s sikh als notwendig, den versukhsaufbau tsu modifitsi:ren.) berarti \"Terbukti sangat diperlukan untuk memodifikasi susunan perangkat eksperimen tersebut.\". Kalimat ini menggunakan pola \"Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe\" (Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen) yang berfungsi untuk merangkai kalimat majemuk bertingkat kompleks (hipotaksis) yang mengikat beberapa anak kalimat tanpa membingungkan alur logika."
       },
       {
         "id": "q-de-gram-43-pg-4",
@@ -19954,7 +20083,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-43-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen\"?",
         "options": [
           "Studierende sind berechtigt, innerhalb der festgesetzten Fristen Widerspruch einzulegen. — Para mahasiswa berhak mengajukan keberatan resmi dalam batas tenggat waktu yang telah ditetapkan.",
           "Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats. — Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut.",
@@ -19968,7 +20097,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-43-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen\"?",
         "options": [
           "Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft. — Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika.",
           "Die Erfüllung der Zulassungsvoraussetzungen begründet keinen einklagbaren Rechtsanspruch. — Pemenuhan persyaratan pendaftaran tidak secara otomatis melahirkan tuntutan hak hukum yang dapat digugat.",
@@ -19982,7 +20111,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-43-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -20235,7 +20364,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln.\" berarti \"Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu.\"."
+        "explanation": "Kalimat \"Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln.\" (dibaca: Di: theori:, di: der forsyer entwickelte, als er am institut tätig war, trug datsu bay, das phänomen tsu entsylüsseln.) berarti \"Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu.\". Kalimat ini menggunakan pola \"Hauptsatz + Relativsatz + Kausalsatz + Infinitivgruppe\" (Komplexe Satzgefüge mit verschachtelten Relativ- und Nebensätzen) yang berfungsi untuk merangkai kalimat majemuk bertingkat kompleks (hipotaksis) yang mengikat beberapa anak kalimat tanpa membingungkan alur logika."
       },
       {
         "id": "q-de-gram-43-bb-2",
@@ -20310,24 +20439,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah penyusunan abstrak jurnal ilmiah, proposal disertasi doktoral (Exposé), dan lembar tesis diskusi seminar.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier\" (Textlinguistische Konventionen universitärer Genres) berfungsi untuk: kaidah penyusunan abstrak jurnal ilmiah, proposal disertasi doktoral (Exposé), dan lembar tesis diskusi seminar. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens. — Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi."
+          "Rumus utama: Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung",
+          "Contoh 1: Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens. (Das vorli:gende exposé umraysst di: theoretisyen prämissen und di: forsyungslaytenden fragen des dissertationsvorhabens.) — Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setiap genre naskah universitas Jerman memiliki konvensi pragmatis dan stilistika yang khas.",
         "ruleList": [
-          "Der Abstract fasst die wesentlichen Befunde der Untersuchung prägnant auf 250 Wörtern zusammen. — Abstrak tersebut merangkum temuan-temuan esensial penelitian secara padat dalam 250 kata."
+          "Polanya: Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung",
+          "Contoh 2: Der Abstract fasst die wesentlichen Befunde der Untersuchung prägnant auf 250 Wörtern zusammen. (Der abstract fasst di: wesentlikhen befunde der untersukhung prägnant auf 250 wörtern tsusammen.) — Abstrak tersebut merangkum temuan-temuan esensial penelitian secara padat dalam 250 kata."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Im Thesenpapier werden polarisierende Diskussionspunkte zur Debatte gestellt. — Di dalam lembar tesis (Thesenpapier), poin-poin diskusi yang menantang diajukan untuk diperdebatkan."
+          "Contoh 3: Im Thesenpapier werden polarisierende Diskussionspunkte zur Debatte gestellt. (Im thesenpapi:r werden polarisi:rende diskussionspunkte tsur debatte gestellt.) — Di dalam lembar tesis (Thesenpapier), poin-poin diskusi yang menantang diajukan untuk diperdebatkan.",
+          "Hindari kesalahan: \"meine Zusammenfassung erzählt von\" → gunakan bentuk yang benar: \"der Abstract skizziert die forschungsleitenden Fragen und Befunde\"."
         ]
       }
     ],
@@ -20335,19 +20467,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-44-ex-1",
         "native": "Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens.",
-        "phonetic": "",
+        "phonetic": "Das vorli:gende exposé umraysst di: theoretisyen prämissen und di: forsyungslaytenden fragen des dissertationsvorhabens.",
         "translationId": "Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi."
       },
       {
         "id": "de-gram-44-ex-2",
         "native": "Der Abstract fasst die wesentlichen Befunde der Untersuchung prägnant auf 250 Wörtern zusammen.",
-        "phonetic": "",
+        "phonetic": "Der abstract fasst di: wesentlikhen befunde der untersukhung prägnant auf 250 wörtern tsusammen.",
         "translationId": "Abstrak tersebut merangkum temuan-temuan esensial penelitian secara padat dalam 250 kata."
       },
       {
         "id": "de-gram-44-ex-3",
         "native": "Im Thesenpapier werden polarisierende Diskussionspunkte zur Debatte gestellt.",
-        "phonetic": "",
+        "phonetic": "Im thesenpapi:r werden polarisi:rende diskussionspunkte tsur debatte gestellt.",
         "translationId": "Di dalam lembar tesis (Thesenpapier), poin-poin diskusi yang menantang diajukan untuk diperdebatkan."
       }
     ],
@@ -20363,7 +20495,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier\" (Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-44-pg-1",
@@ -20379,7 +20511,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens.\" berarti \"Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi.\"."
+        "explanation": "Kalimat \"Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens.\" (dibaca: Das vorli:gende exposé umraysst di: theoretisyen prämissen und di: forsyungslaytenden fragen des dissertationsvorhabens.) berarti \"Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi.\". Kalimat ini menggunakan pola \"Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung\" (Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier) yang berfungsi untuk kaidah penyusunan abstrak jurnal ilmiah, proposal disertasi doktoral (Exposé), dan lembar tesis diskusi seminar."
       },
       {
         "id": "q-de-gram-44-pg-2",
@@ -20395,7 +20527,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Der Abstract fasst die wesentlichen Befunde der Untersuchung prägnant auf 250 Wörtern zusammen.\" berarti \"Abstrak tersebut merangkum temuan-temuan esensial penelitian secara padat dalam 250 kata.\"."
+        "explanation": "Kalimat \"Der Abstract fasst die wesentlichen Befunde der Untersuchung prägnant auf 250 Wörtern zusammen.\" (dibaca: Der abstract fasst di: wesentlikhen befunde der untersukhung prägnant auf 250 wörtern tsusammen.) berarti \"Abstrak tersebut merangkum temuan-temuan esensial penelitian secara padat dalam 250 kata.\". Kalimat ini menggunakan pola \"Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung\" (Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier) yang berfungsi untuk kaidah penyusunan abstrak jurnal ilmiah, proposal disertasi doktoral (Exposé), dan lembar tesis diskusi seminar."
       },
       {
         "id": "q-de-gram-44-pg-3",
@@ -20411,7 +20543,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan uraian ini saya menutup paparan saya dan menantikan pertanyaan-pertanyaan Anda dengan penuh perhatian."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Im Thesenpapier werden polarisierende Diskussionspunkte zur Debatte gestellt.\" berarti \"Di dalam lembar tesis (Thesenpapier), poin-poin diskusi yang menantang diajukan untuk diperdebatkan.\"."
+        "explanation": "Kalimat \"Im Thesenpapier werden polarisierende Diskussionspunkte zur Debatte gestellt.\" (dibaca: Im thesenpapi:r werden polarisi:rende diskussionspunkte tsur debatte gestellt.) berarti \"Di dalam lembar tesis (Thesenpapier), poin-poin diskusi yang menantang diajukan untuk diperdebatkan.\". Kalimat ini menggunakan pola \"Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung\" (Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier) yang berfungsi untuk kaidah penyusunan abstrak jurnal ilmiah, proposal disertasi doktoral (Exposé), dan lembar tesis diskusi seminar."
       },
       {
         "id": "q-de-gram-44-pg-4",
@@ -20431,7 +20563,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-44-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier\"?",
         "options": [
           "Ausgehend vom aktuellen Forschungsstand expliziert das einleitende Kapitel die methodische Vorgehensweise. — Berangkat dari status penelitian terkini, bab pendahuluan menguraikan langkah-langkah pendekatan metodologis.",
           "Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation. — Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya.",
@@ -20445,7 +20577,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-44-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier\"?",
         "options": [
           "Im Thesenpapier werden polarisierende Diskussionspunkte zur Debatte gestellt. — Di dalam lembar tesis (Thesenpapier), poin-poin diskusi yang menantang diajukan untuk diperdebatkan.",
           "Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats. — Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut.",
@@ -20459,7 +20591,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-44-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -20710,7 +20842,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens.\" berarti \"Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi.\"."
+        "explanation": "Kalimat \"Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens.\" (dibaca: Das vorli:gende exposé umraysst di: theoretisyen prämissen und di: forsyungslaytenden fragen des dissertationsvorhabens.) berarti \"Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi.\". Kalimat ini menggunakan pola \"Problemaufriss / Erkenntnisinteresse / Methodik / Thesen / Vorläufige Gliederung\" (Wissenschaftliche Textsorten: Abstract, Exposee und Thesenpapier) yang berfungsi untuk kaidah penyusunan abstrak jurnal ilmiah, proposal disertasi doktoral (Exposé), dan lembar tesis diskusi seminar."
       },
       {
         "id": "q-de-gram-44-bb-2",
@@ -20785,24 +20917,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengoperasikan metafora konseptual dan istilah epistemologis kontemporer dalam pembahasan bab kerangka teoretis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Metaphorik und diskursive Nuancen im akademischen Diskurs' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Metaphorik und diskursive Nuancen im akademischen Diskurs\" (Wissenschaftliche Metaphern und diskursive Feinabstimmung) berfungsi untuk: mengoperasikan metafora konseptual dan istilah epistemologis kontemporer dalam pembahasan bab kerangka teoretis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche. — Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan."
+          "Rumus utama: Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch",
+          "Contoh 1: Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche. (Thomas kuhns kontsept des paradigmenwekhsels revolutioni:rte das verständnis wissensyaftlikher umbrükhe.) — Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Metafora konseptual menata kerangka berpikir teoretis dalam ilmu humaniora maupun sains eksakta.",
         "ruleList": [
-          "In der Debatte kreuzen sich verschiedene ideengeschichtliche Diskursstränge. — Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran."
+          "Polanya: Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch",
+          "Contoh 2: In der Debatte kreuzen sich verschiedene ideengeschichtliche Diskursstränge. (In der debatte kroytsen sikh versyi:dene ideengesyikhtlikhe diskursstränge.) — Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Metaphorik und diskursive Nuancen im akademischen Diskurs\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Diese epistemische Verschiebung öffnete den Horizont für neuartige Forschungsansätze. — Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir."
+          "Contoh 3: Diese epistemische Verschiebung öffnete den Horizont für neuartige Forschungsansätze. (Di:se epistemisye versyi:bung öffnete den horitsont für noyartige forsyungsansättse.) — Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir.",
+          "Hindari kesalahan: \"ein neues Thema kam auf\" → gunakan bentuk yang benar: \"ein tiefgreifender Paradigmenwechsel vollzog sich\"."
         ]
       }
     ],
@@ -20810,19 +20945,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-45-ex-1",
         "native": "Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche.",
-        "phonetic": "",
+        "phonetic": "Thomas kuhns kontsept des paradigmenwekhsels revolutioni:rte das verständnis wissensyaftlikher umbrükhe.",
         "translationId": "Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan."
       },
       {
         "id": "de-gram-45-ex-2",
         "native": "In der Debatte kreuzen sich verschiedene ideengeschichtliche Diskursstränge.",
-        "phonetic": "",
+        "phonetic": "In der debatte kroytsen sikh versyi:dene ideengesyikhtlikhe diskursstränge.",
         "translationId": "Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran."
       },
       {
         "id": "de-gram-45-ex-3",
         "native": "Diese epistemische Verschiebung öffnete den Horizont für neuartige Forschungsansätze.",
-        "phonetic": "",
+        "phonetic": "Di:se epistemisye versyi:bung öffnete den horitsont für noyartige forsyungsansättse.",
         "translationId": "Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir."
       }
     ],
@@ -20838,7 +20973,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Metaphorik und diskursive Nuancen im akademischen Diskurs' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Metaphorik und diskursive Nuancen im akademischen Diskurs\" (Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-45-pg-1",
@@ -20854,7 +20989,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche.\" berarti \"Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan.\"."
+        "explanation": "Kalimat \"Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche.\" (dibaca: Thomas kuhns kontsept des paradigmenwekhsels revolutioni:rte das verständnis wissensyaftlikher umbrükhe.) berarti \"Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan.\". Kalimat ini menggunakan pola \"Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch\" (Metaphorik und diskursive Nuancen im akademischen Diskurs) yang berfungsi untuk mengoperasikan metafora konseptual dan istilah epistemologis kontemporer dalam pembahasan bab kerangka teoretis."
       },
       {
         "id": "q-de-gram-45-pg-2",
@@ -20870,7 +21005,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"In der Debatte kreuzen sich verschiedene ideengeschichtliche Diskursstränge.\" berarti \"Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran.\"."
+        "explanation": "Kalimat \"In der Debatte kreuzen sich verschiedene ideengeschichtliche Diskursstränge.\" (dibaca: In der debatte kroytsen sikh versyi:dene ideengesyikhtlikhe diskursstränge.) berarti \"Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran.\". Kalimat ini menggunakan pola \"Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch\" (Metaphorik und diskursive Nuancen im akademischen Diskurs) yang berfungsi untuk mengoperasikan metafora konseptual dan istilah epistemologis kontemporer dalam pembahasan bab kerangka teoretis."
       },
       {
         "id": "q-de-gram-45-pg-3",
@@ -20886,7 +21021,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Diese epistemische Verschiebung öffnete den Horizont für neuartige Forschungsansätze.\" berarti \"Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir.\"."
+        "explanation": "Kalimat \"Diese epistemische Verschiebung öffnete den Horizont für neuartige Forschungsansätze.\" (dibaca: Di:se epistemisye versyi:bung öffnete den horitsont für noyartige forsyungsansättse.) berarti \"Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir.\". Kalimat ini menggunakan pola \"Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch\" (Metaphorik und diskursive Nuancen im akademischen Diskurs) yang berfungsi untuk mengoperasikan metafora konseptual dan istilah epistemologis kontemporer dalam pembahasan bab kerangka teoretis."
       },
       {
         "id": "q-de-gram-45-pg-4",
@@ -20906,7 +21041,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-45-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Metaphorik und diskursive Nuancen im akademischen Diskurs\"?",
         "options": [
           "In der Debatte kreuzen sich verschiedene ideengeschichtliche Diskursstränge. — Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran.",
           "Ich greife die von Herrn Professor Weber aufgeworfene Frage zur Validität des Modells gern auf. — Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut.",
@@ -20920,7 +21055,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-45-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Metaphorik und diskursive Nuancen im akademischen Diskurs\"?",
         "options": [
           "Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation. — Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya.",
           "Diese epistemische Verschiebung öffnete den Horizont für neuartige Forschungsansätze. — Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir.",
@@ -20934,7 +21069,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-45-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Metaphorik und diskursive Nuancen im akademischen Diskurs\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21185,7 +21320,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche.\" berarti \"Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan.\"."
+        "explanation": "Kalimat \"Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche.\" (dibaca: Thomas kuhns kontsept des paradigmenwekhsels revolutioni:rte das verständnis wissensyaftlikher umbrükhe.) berarti \"Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan.\". Kalimat ini menggunakan pola \"Erkenntnishorizont / Paradigmenwechsel / Diskursstränge / Epistemischer Bruch\" (Metaphorik und diskursive Nuancen im akademischen Diskurs) yang berfungsi untuk mengoperasikan metafora konseptual dan istilah epistemologis kontemporer dalam pembahasan bab kerangka teoretis."
       },
       {
         "id": "q-de-gram-45-bb-2",
@@ -21260,24 +21395,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Etika orasi disputasi akademik: mengantisipasi sanggahan, memberikan konsesi parsial, dan meruntuhkan premis keliru lawan bicara.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Rhetorische Mittel der Argumentation und Gegenrede' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Rhetorische Mittel der Argumentation und Gegenrede\" (Dialektische Disputationstechniken im akademischen Streitgespräch) berfungsi untuk: etika orasi disputasi akademik: mengantisipasi sanggahan, memberikan konsesi parsial, dan meruntuhkan premis keliru lawan bicara. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten. — Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas."
+          "Rumus utama: Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren",
+          "Contoh 1: Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten. (Man mag aynwenden, dass der ansatts reduktionistisy say; di:sem vorwurf ist jedokh entsyi:den entgegentsutreten.) — Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam perdebatan akademik Jerman, sanggahan disampaikan dengan ketajaman bukti dan rasa hormat.",
         "ruleList": [
-          "Ungeachtet der prinzipiellen Validität der Gegenargumente wiegt der empirische Befund schwerer. — Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat."
+          "Polanya: Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren",
+          "Contoh 2: Ungeachtet der prinzipiellen Validität der Gegenargumente wiegt der empirische Befund schwerer. (Ungeakhtet der printsipi:llen validität der gegenargumente wi:gt der empirisye befund sywerer.) — Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Rhetorische Mittel der Argumentation und Gegenrede\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Hierin liegt die entscheidende methodische Schwachstelle der gegnerischen Position. — Di sinilah terletak kelemahan metodologis yang paling krusial dari posisi argumen lawan."
+          "Contoh 3: Hierin liegt die entscheidende methodische Schwachstelle der gegnerischen Position. (Hi:rin li:gt di: entsyaydende methodisye sywakhstelle der gegnerisyen position.) — Di sinilah terletak kelemahan metodologis yang paling krusial dari posisi argumen lawan.",
+          "Hindari kesalahan: \"das Gegenargument ist total dumm\" → gunakan bentuk yang benar: \"diesem Vorwurf ist jedoch mit stichhaltigen Argumenten entgegenzutreten\"."
         ]
       }
     ],
@@ -21285,19 +21423,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-46-ex-1",
         "native": "Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten.",
-        "phonetic": "",
+        "phonetic": "Man mag aynwenden, dass der ansatts reduktionistisy say; di:sem vorwurf ist jedokh entsyi:den entgegentsutreten.",
         "translationId": "Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas."
       },
       {
         "id": "de-gram-46-ex-2",
         "native": "Ungeachtet der prinzipiellen Validität der Gegenargumente wiegt der empirische Befund schwerer.",
-        "phonetic": "",
+        "phonetic": "Ungeakhtet der printsipi:llen validität der gegenargumente wi:gt der empirisye befund sywerer.",
         "translationId": "Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat."
       },
       {
         "id": "de-gram-46-ex-3",
         "native": "Hierin liegt die entscheidende methodische Schwachstelle der gegnerischen Position.",
-        "phonetic": "",
+        "phonetic": "Hi:rin li:gt di: entsyaydende methodisye sywakhstelle der gegnerisyen position.",
         "translationId": "Di sinilah terletak kelemahan metodologis yang paling krusial dari posisi argumen lawan."
       }
     ],
@@ -21313,7 +21451,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Rhetorische Mittel der Argumentation und Gegenrede' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Rhetorische Mittel der Argumentation und Gegenrede\" (Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-46-pg-1",
@@ -21329,7 +21467,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten.\" berarti \"Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas.\"."
+        "explanation": "Kalimat \"Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten.\" (dibaca: Man mag aynwenden, dass der ansatts reduktionistisy say; di:sem vorwurf ist jedokh entsyi:den entgegentsutreten.) berarti \"Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas.\". Kalimat ini menggunakan pola \"Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren\" (Rhetorische Mittel der Argumentation und Gegenrede) yang berfungsi untuk etika orasi disputasi akademik: mengantisipasi sanggahan, memberikan konsesi parsial, dan meruntuhkan premis keliru lawan bicara."
       },
       {
         "id": "q-de-gram-46-pg-2",
@@ -21345,7 +21483,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ungeachtet der prinzipiellen Validität der Gegenargumente wiegt der empirische Befund schwerer.\" berarti \"Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat.\"."
+        "explanation": "Kalimat \"Ungeachtet der prinzipiellen Validität der Gegenargumente wiegt der empirische Befund schwerer.\" (dibaca: Ungeakhtet der printsipi:llen validität der gegenargumente wi:gt der empirisye befund sywerer.) berarti \"Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat.\". Kalimat ini menggunakan pola \"Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren\" (Rhetorische Mittel der Argumentation und Gegenrede) yang berfungsi untuk etika orasi disputasi akademik: mengantisipasi sanggahan, memberikan konsesi parsial, dan meruntuhkan premis keliru lawan bicara."
       },
       {
         "id": "q-de-gram-46-pg-3",
@@ -21361,7 +21499,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Di sinilah terletak kelemahan metodologis yang paling krusial dari posisi argumen lawan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Hierin liegt die entscheidende methodische Schwachstelle der gegnerischen Position.\" berarti \"Di sinilah terletak kelemahan metodologis yang paling krusial dari posisi argumen lawan.\"."
+        "explanation": "Kalimat \"Hierin liegt die entscheidende methodische Schwachstelle der gegnerischen Position.\" (dibaca: Hi:rin li:gt di: entsyaydende methodisye sywakhstelle der gegnerisyen position.) berarti \"Di sinilah terletak kelemahan metodologis yang paling krusial dari posisi argumen lawan.\". Kalimat ini menggunakan pola \"Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren\" (Rhetorische Mittel der Argumentation und Gegenrede) yang berfungsi untuk etika orasi disputasi akademik: mengantisipasi sanggahan, memberikan konsesi parsial, dan meruntuhkan premis keliru lawan bicara."
       },
       {
         "id": "q-de-gram-46-pg-4",
@@ -21381,7 +21519,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-46-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Rhetorische Mittel der Argumentation und Gegenrede\"?",
         "options": [
           "Verbal: Als das innovative Curriculum implementiert wurde, stiegen die Studienleistungen messbar. — Bentuk verbal: Ketika kurikulum inovatif tersebut diimplementasikan, capaian studi meningkat secara terukur.",
           "Ungeachtet der prinzipiellen Validität der Gegenargumente wiegt der empirische Befund schwerer. — Terlepas dari validitas prinsipil argumen tandingan tersebut, temuan empiris yang ada memiliki bobot yang lebih kuat.",
@@ -21395,7 +21533,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-46-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Rhetorische Mittel der Argumentation und Gegenrede\"?",
         "options": [
           "Die Implementierung des innovativen Curriculums führte zu einer messbaren Steigerung der Studienleistungen. — Implementasi kurikulum inovatif tersebut menghasilkan peningkatan capaian prestasi studi yang terukur.",
           "Die Erforschung der Ursachen erfordert eine interdisziplinäre Kooperation. — Pengkajian terhadap faktor-faktor penyebabnya menuntut kerja sama lintas disiplin ilmu.",
@@ -21409,7 +21547,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-46-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Rhetorische Mittel der Argumentation und Gegenrede\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21660,7 +21798,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten.\" berarti \"Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas.\"."
+        "explanation": "Kalimat \"Man mag einwenden, dass der Ansatz reduktionistisch sei; diesem Vorwurf ist jedoch entschieden entgegenzutreten.\" (dibaca: Man mag aynwenden, dass der ansatts reduktionistisy say; di:sem vorwurf ist jedokh entsyi:den entgegentsutreten.) berarti \"Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas.\". Kalimat ini menggunakan pola \"Präventive Antizipation / Konzessionsformeln / Scharfes Elenchus-Verfahren\" (Rhetorische Mittel der Argumentation und Gegenrede) yang berfungsi untuk etika orasi disputasi akademik: mengantisipasi sanggahan, memberikan konsesi parsial, dan meruntuhkan premis keliru lawan bicara."
       },
       {
         "id": "q-de-gram-46-bb-2",
@@ -21735,24 +21873,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menguasai kosakata spesialisasi bidang ilmu eksakta dan humaniora dengan penggunaan afiks klasik secara akurat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Fachsprachliche Terminologie der Natur- und Geisteswissenschaften' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Fachsprachliche Terminologie der Natur- und Geisteswissenschaften\" (Spezifische Registermerkmale disziplinärer Wissenschaftssprachen) berfungsi untuk: menguasai kosakata spesialisasi bidang ilmu eksakta dan humaniora dengan penggunaan afiks klasik secara akurat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes. — Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu."
+          "Rumus utama: Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter",
+          "Contoh 1: Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes. (Di: hermenoytisye auslegung des primärtextes erhellt di: polyvalente semantik des werkes.) — Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bahasa keilmuan (Fachsprache) menuntut ketunggalan makna, pembakuan istilah, dan presisi terminologi.",
         "ruleList": [
-          "Die quantitative Spektralanalyse bestätigte das Vorhandensein metastabiler Isotope. — Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil."
+          "Polanya: Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter",
+          "Contoh 2: Die quantitative Spektralanalyse bestätigte das Vorhandensein metastabiler Isotope. (Di: quantitative spektralanalyse bestätigte das vorhandensayn metastabiler isotope.) — Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Fachsprachliche Terminologie der Natur- und Geisteswissenschaften\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die Operationalisierung der Variablen erfolgte nach anerkannten psychometrischen Standards. — Operasionalisasi variabel-variabel tersebut dilakukan mengikuti standar psikometrik yang diakui."
+          "Contoh 3: Die Operationalisierung der Variablen erfolgte nach anerkannten psychometrischen Standards. (Di: operationalisi:rung der variablen erfolgte nakh anerkannten psykhometrisyen standards.) — Operasionalisasi variabel-variabel tersebut dilakukan mengikuti standar psikometrik yang diakui.",
+          "Hindari kesalahan: \"einfache Alltagswörter für Fachbegriffe\" → gunakan bentuk yang benar: \"exakte fachsprachliche Nomenklatur\"."
         ]
       }
     ],
@@ -21760,19 +21901,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-47-ex-1",
         "native": "Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes.",
-        "phonetic": "",
+        "phonetic": "Di: hermenoytisye auslegung des primärtextes erhellt di: polyvalente semantik des werkes.",
         "translationId": "Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu."
       },
       {
         "id": "de-gram-47-ex-2",
         "native": "Die quantitative Spektralanalyse bestätigte das Vorhandensein metastabiler Isotope.",
-        "phonetic": "",
+        "phonetic": "Di: quantitative spektralanalyse bestätigte das vorhandensayn metastabiler isotope.",
         "translationId": "Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil."
       },
       {
         "id": "de-gram-47-ex-3",
         "native": "Die Operationalisierung der Variablen erfolgte nach anerkannten psychometrischen Standards.",
-        "phonetic": "",
+        "phonetic": "Di: operationalisi:rung der variablen erfolgte nakh anerkannten psykhometrisyen standards.",
         "translationId": "Operasionalisasi variabel-variabel tersebut dilakukan mengikuti standar psikometrik yang diakui."
       }
     ],
@@ -21788,7 +21929,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Fachsprachliche Terminologie der Natur- und Geisteswissenschaften' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Fachsprachliche Terminologie der Natur- und Geisteswissenschaften\" (Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-47-pg-1",
@@ -21804,7 +21945,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes.\" berarti \"Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu.\"."
+        "explanation": "Kalimat \"Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes.\" (dibaca: Di: hermenoytisye auslegung des primärtextes erhellt di: polyvalente semantik des werkes.) berarti \"Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu.\". Kalimat ini menggunakan pola \"Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter\" (Fachsprachliche Terminologie der Natur- und Geisteswissenschaften) yang berfungsi untuk menguasai kosakata spesialisasi bidang ilmu eksakta dan humaniora dengan penggunaan afiks klasik secara akurat."
       },
       {
         "id": "q-de-gram-47-pg-2",
@@ -21820,7 +21961,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die quantitative Spektralanalyse bestätigte das Vorhandensein metastabiler Isotope.\" berarti \"Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil.\"."
+        "explanation": "Kalimat \"Die quantitative Spektralanalyse bestätigte das Vorhandensein metastabiler Isotope.\" (dibaca: Di: quantitative spektralanalyse bestätigte das vorhandensayn metastabiler isotope.) berarti \"Analisis spektral kuantitatif mengonfirmasi keberadaan isotop-isotop metastabil.\". Kalimat ini menggunakan pola \"Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter\" (Fachsprachliche Terminologie der Natur- und Geisteswissenschaften) yang berfungsi untuk menguasai kosakata spesialisasi bidang ilmu eksakta dan humaniora dengan penggunaan afiks klasik secara akurat."
       },
       {
         "id": "q-de-gram-47-pg-3",
@@ -21836,7 +21977,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Terbukti sangat diperlukan untuk memodifikasi susunan perangkat eksperimen tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die Operationalisierung der Variablen erfolgte nach anerkannten psychometrischen Standards.\" berarti \"Operasionalisasi variabel-variabel tersebut dilakukan mengikuti standar psikometrik yang diakui.\"."
+        "explanation": "Kalimat \"Die Operationalisierung der Variablen erfolgte nach anerkannten psychometrischen Standards.\" (dibaca: Di: operationalisi:rung der variablen erfolgte nakh anerkannten psykhometrisyen standards.) berarti \"Operasionalisasi variabel-variabel tersebut dilakukan mengikuti standar psikometrik yang diakui.\". Kalimat ini menggunakan pola \"Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter\" (Fachsprachliche Terminologie der Natur- und Geisteswissenschaften) yang berfungsi untuk menguasai kosakata spesialisasi bidang ilmu eksakta dan humaniora dengan penggunaan afiks klasik secara akurat."
       },
       {
         "id": "q-de-gram-47-pg-4",
@@ -21856,7 +21997,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-47-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Fachsprachliche Terminologie der Natur- und Geisteswissenschaften\"?",
         "options": [
           "Der antike Text soll von einem Schüler des Aristoteles verfasst worden sein. — Naskah kuno tersebut konon ditulis oleh salah seorang murid Aristoteles.",
           "Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln. — Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu.",
@@ -21870,7 +22011,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-47-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Fachsprachliche Terminologie der Natur- und Geisteswissenschaften\"?",
         "options": [
           "Die astronomische Entdeckung dürfte weitreichende Konsequenzen für die Kosmologie haben. — Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi.",
           "Die beobachteten Abweichungen müssen auf systematische Messfehler zurückzuführen sein. — Penyimpangan yang teramati tersebut pastilah disebabkan oleh kesalahan pengukuran sistematis.",
@@ -21884,7 +22025,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-47-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Fachsprachliche Terminologie der Natur- und Geisteswissenschaften\"?",
         "options": [
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -22133,7 +22274,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Penemuan astronomis tersebut diperkirakan kuat akan membawa konsekuensi luas bagi ilmu kosmologi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes.\" berarti \"Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu.\"."
+        "explanation": "Kalimat \"Die hermeneutische Auslegung des Primärtextes erhellt die polyvalente Semantik des Werkes.\" (dibaca: Di: hermenoytisye auslegung des primärtextes erhellt di: polyvalente semantik des werkes.) berarti \"Penafsiran hermeneutis terhadap naskah primer tersebut menerangi semantik polivalen dari karya itu.\". Kalimat ini menggunakan pola \"Interdisziplinäre Terminologie / Semantische Präzisierung / Griechisch-lateinische Lehnwörter\" (Fachsprachliche Terminologie der Natur- und Geisteswissenschaften) yang berfungsi untuk menguasai kosakata spesialisasi bidang ilmu eksakta dan humaniora dengan penggunaan afiks klasik secara akurat."
       },
       {
         "id": "q-de-gram-47-bb-2",
@@ -22208,24 +22349,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis regulasi tata tertib ujian (Prüfungsordnung), undang-undang perguruan tinggi (Hochschulgesetz), dan statuta hukum.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Juristische und administrative Satzmuster in Deutschland' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Juristische und administrative Satzmuster in Deutschland\" (Der Amts- und Gesetzesstil in behördlichen und universitären Statuten) berfungsi untuk: menganalisis regulasi tata tertib ujian (Prüfungsordnung), undang-undang perguruan tinggi (Hochschulgesetz), dan statuta hukum. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft. — Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika."
+          "Rumus utama: Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich",
+          "Contoh 1: Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft. (Vorbehaltlikh anderslautender bestimmungen tritt di: novelli:rte promotionsordnung mit sofortiger wirkung in kraft.) — Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gaya bahasa hukum dan peraturan universitas menggunakan rumusan impersonal yang mengikat secara formal.",
         "ruleList": [
-          "Studierende sind berechtigt, innerhalb der festgesetzten Fristen Widerspruch einzulegen. — Para mahasiswa berhak mengajukan keberatan resmi dalam batas tenggat waktu yang telah ditetapkan."
+          "Polanya: Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich",
+          "Contoh 2: Studierende sind berechtigt, innerhalb der festgesetzten Fristen Widerspruch einzulegen. (Studi:rende sind berekhtigt, innerhalb der festgesettsten fristen widersprukh ayntsulegen.) — Para mahasiswa berhak mengajukan keberatan resmi dalam batas tenggat waktu yang telah ditetapkan."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Juristische und administrative Satzmuster in Deutschland\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die Erfüllung der Zulassungsvoraussetzungen begründet keinen einklagbaren Rechtsanspruch. — Pemenuhan persyaratan pendaftaran tidak secara otomatis melahirkan tuntutan hak hukum yang dapat digugat."
+          "Contoh 3: Die Erfüllung der Zulassungsvoraussetzungen begründet keinen einklagbaren Rechtsanspruch. (Di: erfüllung der tsulassungsvoraussettsungen begründet kaynen aynklagbaren rekhtsansprukh.) — Pemenuhan persyaratan pendaftaran tidak secara otomatis melahirkan tuntutan hak hukum yang dapat digugat.",
+          "Hindari kesalahan: \"jeder Student darf (in Statuten)\" → gunakan bentuk yang benar: \"Studierende sind berechtigt\"."
         ]
       }
     ],
@@ -22233,19 +22377,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-48-ex-1",
         "native": "Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft.",
-        "phonetic": "",
+        "phonetic": "Vorbehaltlikh anderslautender bestimmungen tritt di: novelli:rte promotionsordnung mit sofortiger wirkung in kraft.",
         "translationId": "Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika."
       },
       {
         "id": "de-gram-48-ex-2",
         "native": "Studierende sind berechtigt, innerhalb der festgesetzten Fristen Widerspruch einzulegen.",
-        "phonetic": "",
+        "phonetic": "Studi:rende sind berekhtigt, innerhalb der festgesettsten fristen widersprukh ayntsulegen.",
         "translationId": "Para mahasiswa berhak mengajukan keberatan resmi dalam batas tenggat waktu yang telah ditetapkan."
       },
       {
         "id": "de-gram-48-ex-3",
         "native": "Die Erfüllung der Zulassungsvoraussetzungen begründet keinen einklagbaren Rechtsanspruch.",
-        "phonetic": "",
+        "phonetic": "Di: erfüllung der tsulassungsvoraussettsungen begründet kaynen aynklagbaren rekhtsansprukh.",
         "translationId": "Pemenuhan persyaratan pendaftaran tidak secara otomatis melahirkan tuntutan hak hukum yang dapat digugat."
       }
     ],
@@ -22261,7 +22405,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Juristische und administrative Satzmuster in Deutschland' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Juristische und administrative Satzmuster in Deutschland\" (Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-48-pg-1",
@@ -22277,7 +22421,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft.\" berarti \"Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika.\"."
+        "explanation": "Kalimat \"Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft.\" (dibaca: Vorbehaltlikh anderslautender bestimmungen tritt di: novelli:rte promotionsordnung mit sofortiger wirkung in kraft.) berarti \"Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika.\". Kalimat ini menggunakan pola \"Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich\" (Juristische und administrative Satzmuster in Deutschland) yang berfungsi untuk menganalisis regulasi tata tertib ujian (Prüfungsordnung), undang-undang perguruan tinggi (Hochschulgesetz), dan statuta hukum."
       },
       {
         "id": "q-de-gram-48-pg-2",
@@ -22293,7 +22437,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Studierende sind berechtigt, innerhalb der festgesetzten Fristen Widerspruch einzulegen.\" berarti \"Para mahasiswa berhak mengajukan keberatan resmi dalam batas tenggat waktu yang telah ditetapkan.\"."
+        "explanation": "Kalimat \"Studierende sind berechtigt, innerhalb der festgesetzten Fristen Widerspruch einzulegen.\" (dibaca: Studi:rende sind berekhtigt, innerhalb der festgesettsten fristen widersprukh ayntsulegen.) berarti \"Para mahasiswa berhak mengajukan keberatan resmi dalam batas tenggat waktu yang telah ditetapkan.\". Kalimat ini menggunakan pola \"Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich\" (Juristische und administrative Satzmuster in Deutschland) yang berfungsi untuk menganalisis regulasi tata tertib ujian (Prüfungsordnung), undang-undang perguruan tinggi (Hochschulgesetz), dan statuta hukum."
       },
       {
         "id": "q-de-gram-48-pg-3",
@@ -22309,7 +22453,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Di dalam lembar tesis (Thesenpapier), poin-poin diskusi yang menantang diajukan untuk diperdebatkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Die Erfüllung der Zulassungsvoraussetzungen begründet keinen einklagbaren Rechtsanspruch.\" berarti \"Pemenuhan persyaratan pendaftaran tidak secara otomatis melahirkan tuntutan hak hukum yang dapat digugat.\"."
+        "explanation": "Kalimat \"Die Erfüllung der Zulassungsvoraussetzungen begründet keinen einklagbaren Rechtsanspruch.\" (dibaca: Di: erfüllung der tsulassungsvoraussettsungen begründet kaynen aynklagbaren rekhtsansprukh.) berarti \"Pemenuhan persyaratan pendaftaran tidak secara otomatis melahirkan tuntutan hak hukum yang dapat digugat.\". Kalimat ini menggunakan pola \"Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich\" (Juristische und administrative Satzmuster in Deutschland) yang berfungsi untuk menganalisis regulasi tata tertib ujian (Prüfungsordnung), undang-undang perguruan tinggi (Hochschulgesetz), dan statuta hukum."
       },
       {
         "id": "q-de-gram-48-pg-4",
@@ -22329,7 +22473,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-48-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Juristische und administrative Satzmuster in Deutschland\"?",
         "options": [
           "Obgleich die Datenlage, welche die Kommission sichtete, unvollständig war, gelang es, Richtlinien zu formulieren. — Sekalipun ketersediaan data yang ditinjau oleh komisi tersebut belum lengkap, pedoman kebijakan tetap berhasil dirumuskan.",
           "Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens. — Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi.",
@@ -22343,7 +22487,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-48-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Juristische und administrative Satzmuster in Deutschland\"?",
         "options": [
           "Die Erfüllung der Zulassungsvoraussetzungen begründet keinen einklagbaren Rechtsanspruch. — Pemenuhan persyaratan pendaftaran tidak secara otomatis melahirkan tuntutan hak hukum yang dapat digugat.",
           "Die Theorie, die der Forscher entwickelte, als er am Institut tätig war, trug dazu bei, das Phänomen zu entschlüsseln. — Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu.",
@@ -22357,7 +22501,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-48-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Juristische und administrative Satzmuster in Deutschland\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
@@ -22610,7 +22754,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Teori yang dikembangkan peneliti itu ketika beliau bertugas di institut tersebut turut berkontribusi memecahkan fenomena itu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft.\" berarti \"Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika.\"."
+        "explanation": "Kalimat \"Vorbehaltlich anderslautender Bestimmungen tritt die novellierte Promotionsordnung mit sofortiger Wirkung in Kraft.\" (dibaca: Vorbehaltlikh anderslautender bestimmungen tritt di: novelli:rte promotionsordnung mit sofortiger wirkung in kraft.) berarti \"Dengan tetap memperhatikan ketentuan lain yang berlaku, peraturan doktoral yang telah diperbarui ini mulai berlaku seketika.\". Kalimat ini menggunakan pola \"Präskriptive Formulierungen: Ist berechtigt / Hat Anspruch auf / Vorbehaltlich\" (Juristische und administrative Satzmuster in Deutschland) yang berfungsi untuk menganalisis regulasi tata tertib ujian (Prüfungsordnung), undang-undang perguruan tinggi (Hochschulgesetz), dan statuta hukum."
       },
       {
         "id": "q-de-gram-48-bb-2",
@@ -22685,24 +22829,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyusun bab pengantar tesis master yang memikat: memaparkan urgensi topik, tinjauan pustaka terkini, dan peta alur bab.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Gliederung und Einleitung einer wissenschaftlichen Masterarbeit' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Gliederung und Einleitung einer wissenschaftlichen Masterarbeit\" (Die Architektur der Einleitung: Von der Forschungsfrage zur Exposition) berfungsi untuk: menyusun bab pengantar tesis master yang memikat: memaparkan urgensi topik, tinjauan pustaka terkini, dan peta alur bab. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats. — Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut."
+          "Rumus utama: Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung",
+          "Contoh 1: Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats. (Di: vorli:gende masterarbayt widmet sikh der systematisyen rekonstruktion di:ses desiderats.) — Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bab pendahuluan tesis merupakan wajah utama yang memetakan urgensi ilmiah dari keseluruhan riset.",
         "ruleList": [
-          "Ausgehend vom aktuellen Forschungsstand expliziert das einleitende Kapitel die methodische Vorgehensweise. — Berangkat dari status penelitian terkini, bab pendahuluan menguraikan langkah-langkah pendekatan metodologis."
+          "Polanya: Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung",
+          "Contoh 2: Ausgehend vom aktuellen Forschungsstand expliziert das einleitende Kapitel die methodische Vorgehensweise. (Ausgehend vom aktuellen forsyungsstand explitsi:rt das aynlaytende kapitel di: methodisye vorgehenswayse.) — Berangkat dari status penelitian terkini, bab pendahuluan menguraikan langkah-langkah pendekatan metodologis."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Gliederung und Einleitung einer wissenschaftlichen Masterarbeit\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Der Gang der Untersuchung gliedert sich in einen theoretischen und einen empirischen Hauptteil. — Alur pembahasan penelitian ini terbagi menjadi bagian utama teoretis dan bagian utama empiris."
+          "Contoh 3: Der Gang der Untersuchung gliedert sich in einen theoretischen und einen empirischen Hauptteil. (Der gang der untersukhung gli:dert sikh in aynen theoretisyen und aynen empirisyen haupttayl.) — Alur pembahasan penelitian ini terbagi menjadi bagian utama teoretis dan bagian utama empiris.",
+          "Hindari kesalahan: \"ich schreibe diese Arbeit weil\" → gunakan bentuk yang benar: \"die vorliegende Untersuchung widmet sich der Erhellung dieses Desiderats\"."
         ]
       }
     ],
@@ -22710,19 +22857,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-49-ex-1",
         "native": "Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats.",
-        "phonetic": "",
+        "phonetic": "Di: vorli:gende masterarbayt widmet sikh der systematisyen rekonstruktion di:ses desiderats.",
         "translationId": "Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut."
       },
       {
         "id": "de-gram-49-ex-2",
         "native": "Ausgehend vom aktuellen Forschungsstand expliziert das einleitende Kapitel die methodische Vorgehensweise.",
-        "phonetic": "",
+        "phonetic": "Ausgehend vom aktuellen forsyungsstand explitsi:rt das aynlaytende kapitel di: methodisye vorgehenswayse.",
         "translationId": "Berangkat dari status penelitian terkini, bab pendahuluan menguraikan langkah-langkah pendekatan metodologis."
       },
       {
         "id": "de-gram-49-ex-3",
         "native": "Der Gang der Untersuchung gliedert sich in einen theoretischen und einen empirischen Hauptteil.",
-        "phonetic": "",
+        "phonetic": "Der gang der untersukhung gli:dert sikh in aynen theoretisyen und aynen empirisyen haupttayl.",
         "translationId": "Alur pembahasan penelitian ini terbagi menjadi bagian utama teoretis dan bagian utama empiris."
       }
     ],
@@ -22738,7 +22885,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Gliederung und Einleitung einer wissenschaftlichen Masterarbeit' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Gliederung und Einleitung einer wissenschaftlichen Masterarbeit\" (Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-49-pg-1",
@@ -22754,7 +22901,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Abstrak tersebut merangkum temuan-temuan esensial penelitian secara padat dalam 250 kata."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats.\" berarti \"Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut.\"."
+        "explanation": "Kalimat \"Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats.\" (dibaca: Di: vorli:gende masterarbayt widmet sikh der systematisyen rekonstruktion di:ses desiderats.) berarti \"Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut.\". Kalimat ini menggunakan pola \"Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung\" (Gliederung und Einleitung einer wissenschaftlichen Masterarbeit) yang berfungsi untuk menyusun bab pengantar tesis master yang memikat: memaparkan urgensi topik, tinjauan pustaka terkini, dan peta alur bab."
       },
       {
         "id": "q-de-gram-49-pg-2",
@@ -22770,7 +22917,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ausgehend vom aktuellen Forschungsstand expliziert das einleitende Kapitel die methodische Vorgehensweise.\" berarti \"Berangkat dari status penelitian terkini, bab pendahuluan menguraikan langkah-langkah pendekatan metodologis.\"."
+        "explanation": "Kalimat \"Ausgehend vom aktuellen Forschungsstand expliziert das einleitende Kapitel die methodische Vorgehensweise.\" (dibaca: Ausgehend vom aktuellen forsyungsstand explitsi:rt das aynlaytende kapitel di: methodisye vorgehenswayse.) berarti \"Berangkat dari status penelitian terkini, bab pendahuluan menguraikan langkah-langkah pendekatan metodologis.\". Kalimat ini menggunakan pola \"Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung\" (Gliederung und Einleitung einer wissenschaftlichen Masterarbeit) yang berfungsi untuk menyusun bab pengantar tesis master yang memikat: memaparkan urgensi topik, tinjauan pustaka terkini, dan peta alur bab."
       },
       {
         "id": "q-de-gram-49-pg-3",
@@ -22786,7 +22933,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Der Gang der Untersuchung gliedert sich in einen theoretischen und einen empirischen Hauptteil.\" berarti \"Alur pembahasan penelitian ini terbagi menjadi bagian utama teoretis dan bagian utama empiris.\"."
+        "explanation": "Kalimat \"Der Gang der Untersuchung gliedert sich in einen theoretischen und einen empirischen Hauptteil.\" (dibaca: Der gang der untersukhung gli:dert sikh in aynen theoretisyen und aynen empirisyen haupttayl.) berarti \"Alur pembahasan penelitian ini terbagi menjadi bagian utama teoretis dan bagian utama empiris.\". Kalimat ini menggunakan pola \"Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung\" (Gliederung und Einleitung einer wissenschaftlichen Masterarbeit) yang berfungsi untuk menyusun bab pengantar tesis master yang memikat: memaparkan urgensi topik, tinjauan pustaka terkini, dan peta alur bab."
       },
       {
         "id": "q-de-gram-49-pg-4",
@@ -22806,7 +22953,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-49-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Gliederung und Einleitung einer wissenschaftlichen Masterarbeit\"?",
         "options": [
           "Ausgehend vom aktuellen Forschungsstand expliziert das einleitende Kapitel die methodische Vorgehensweise. — Berangkat dari status penelitian terkini, bab pendahuluan menguraikan langkah-langkah pendekatan metodologis.",
           "Der Abstract fasst die wesentlichen Befunde der Untersuchung prägnant auf 250 Wörtern zusammen. — Abstrak tersebut merangkum temuan-temuan esensial penelitian secara padat dalam 250 kata.",
@@ -22820,7 +22967,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-49-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Gliederung und Einleitung einer wissenschaftlichen Masterarbeit\"?",
         "options": [
           "Das vorliegende Exposé umreißt die theoretischen Prämissen und die forschungsleitenden Fragen des Dissertationsvorhabens. — Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi.",
           "Der Gang der Untersuchung gliedert sich in einen theoretischen und einen empirischen Hauptteil. — Alur pembahasan penelitian ini terbagi menjadi bagian utama teoretis dan bagian utama empiris.",
@@ -22834,7 +22981,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-49-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Gliederung und Einleitung einer wissenschaftlichen Masterarbeit\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23087,7 +23234,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Proposal riset (Exposé) ini menguraikan premis-premis teoretis serta pertanyaan penuntun riset dari proyek disertasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats.\" berarti \"Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut.\"."
+        "explanation": "Kalimat \"Die vorliegende Masterarbeit widmet sich der systematischen Rekonstruktion dieses Desiderats.\" (dibaca: Di: vorli:gende masterarbayt widmet sikh der systematisyen rekonstruktion di:ses desiderats.) berarti \"Tesis magister ini didedikasikan untuk merekonstruksi secara sistematis celah penelitian tersebut.\". Kalimat ini menggunakan pola \"Hinführung zum Thema / Forschungsstand (State of the Art) / Relevanz / Gang der Untersuchung\" (Gliederung und Einleitung einer wissenschaftlichen Masterarbeit) yang berfungsi untuk menyusun bab pengantar tesis master yang memikat: memaparkan urgensi topik, tinjauan pustaka terkini, dan peta alur bab."
       },
       {
         "id": "q-de-gram-49-bb-2",
@@ -23162,24 +23309,27 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Tata krama ujian promosi doktor terbuka di Jerman: mempresentasikan kontribusi orisinal dan menanggapi evaluasi dewan penguji.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penguasaan kaidah 'Verteidigung der Dissertation und Disputation vor der Fakultät' merupakan fondasi tak terpisahkan untuk mengekspresikan gagasan secara akurat dan presisi dalam bahasa Jerman.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verteidigung der Dissertation und Disputation vor der Fakultät\" (Rhetorik und Protokoll der mündlichen Promotionsprüfung (Rigorosum/Disputation)) berfungsi untuk: tata krama ujian promosi doktor terbuka di Jerman: mempresentasikan kontribusi orisinal dan menanggapi evaluasi dewan penguji. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Jerman sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation. — Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya."
+          "Rumus utama: Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung",
+          "Contoh 1: Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation. (Sehr geehrte frau dekanin, verehrte mitgli:der der promotionskommission, ikh danke ihnen für di: würdigung mayner dissertation.) — Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Tata Kalimat (Satzbau)",
-        "content": "Pola struktur Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung memastikan gagasan tersusun secara logis dan memenuhi kaidah sintaksis bahasa Jerman baku.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sidang disputasi doktoral merupakan puncak pendidikan akademik yang menuntut kedaulatan berargumen.",
         "ruleList": [
-          "Ich greife die von Herrn Professor Weber aufgeworfene Frage zur Validität des Modells gern auf. — Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut."
+          "Polanya: Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung",
+          "Contoh 2: Ich greife die von Herrn Professor Weber aufgeworfene Frage zur Validität des Modells gern auf. (Ikh grayfe di: von herrn professor weber aufgeworfene frage tsur validität des modells gern auf.) — Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut."
         ]
       },
       {
-        "heading": "3. Konteks Akademik dan Ragam Tulis",
-        "content": "Dalam makalah universitas dan wacana ilmiah berbahasa Jerman (Wissenschaftssprache), pola ini menjamin kejelasan argumentasi.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verteidigung der Dissertation und Disputation vor der Fakultät\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Mit diesen Ausführungen schließe ich meine Darlegung und sehe Ihren Fragen mit Interesse entgegen. — Dengan uraian ini saya menutup paparan saya dan menantikan pertanyaan-pertanyaan Anda dengan penuh perhatian."
+          "Contoh 3: Mit diesen Ausführungen schließe ich meine Darlegung und sehe Ihren Fragen mit Interesse entgegen. (Mit di:sen ausführungen syli:sse ikh mayne darlegung und sehe ihren fragen mit interesse entgegen.) — Dengan uraian ini saya menutup paparan saya dan menantikan pertanyaan-pertanyaan Anda dengan penuh perhatian.",
+          "Hindari kesalahan: \"danke für den Doktorhut\" → gunakan bentuk yang benar: \"ich danke der Prüfungskommission für die eingehende Prüfung meiner Thesen\"."
         ]
       }
     ],
@@ -23187,19 +23337,19 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "de-gram-50-ex-1",
         "native": "Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation.",
-        "phonetic": "",
+        "phonetic": "Sehr geehrte frau dekanin, verehrte mitgli:der der promotionskommission, ikh danke ihnen für di: würdigung mayner dissertation.",
         "translationId": "Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya."
       },
       {
         "id": "de-gram-50-ex-2",
         "native": "Ich greife die von Herrn Professor Weber aufgeworfene Frage zur Validität des Modells gern auf.",
-        "phonetic": "",
+        "phonetic": "Ikh grayfe di: von herrn professor weber aufgeworfene frage tsur validität des modells gern auf.",
         "translationId": "Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut."
       },
       {
         "id": "de-gram-50-ex-3",
         "native": "Mit diesen Ausführungen schließe ich meine Darlegung und sehe Ihren Fragen mit Interesse entgegen.",
-        "phonetic": "",
+        "phonetic": "Mit di:sen ausführungen syli:sse ikh mayne darlegung und sehe ihren fragen mit interesse entgegen.",
         "translationId": "Dengan uraian ini saya menutup paparan saya dan menantikan pertanyaan-pertanyaan Anda dengan penuh perhatian."
       }
     ],
@@ -23215,7 +23365,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan secara cermat aturan kasus (Kasusrektion) dan posisi tetap kata kerja (V2 / Satzklammer) bahasa Jerman."
       }
     ],
-    "culturalContext": "Penguasaan matang terhadap struktur 'Verteidigung der Dissertation und Disputation vor der Fakultät' sangat dihargai di lingkungan perguruan tinggi Jerman sebagai bukti kesiapan akademik (TestDaF / DSH).",
+    "culturalContext": "Dalam bahasa Jerman sehari-hari, pola \"Verteidigung der Dissertation und Disputation vor der Fakultät\" (Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-de-gram-50-pg-1",
@@ -23231,7 +23381,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation.\" berarti \"Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya.\"."
+        "explanation": "Kalimat \"Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation.\" (dibaca: Sehr geehrte frau dekanin, verehrte mitgli:der der promotionskommission, ikh danke ihnen für di: würdigung mayner dissertation.) berarti \"Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya.\". Kalimat ini menggunakan pola \"Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung\" (Verteidigung der Dissertation und Disputation vor der Fakultät) yang berfungsi untuk tata krama ujian promosi doktor terbuka di Jerman: mempresentasikan kontribusi orisinal dan menanggapi evaluasi dewan penguji."
       },
       {
         "id": "q-de-gram-50-pg-2",
@@ -23247,7 +23397,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Orang mungkin menyanggah bahwa pendekatan ini bersifat reduksionis; namun tuduhan ini harus dibantah dengan tegas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ich greife die von Herrn Professor Weber aufgeworfene Frage zur Validität des Modells gern auf.\" berarti \"Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut.\"."
+        "explanation": "Kalimat \"Ich greife die von Herrn Professor Weber aufgeworfene Frage zur Validität des Modells gern auf.\" (dibaca: Ikh grayfe di: von herrn professor weber aufgeworfene frage tsur validität des modells gern auf.) berarti \"Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut.\". Kalimat ini menggunakan pola \"Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung\" (Verteidigung der Dissertation und Disputation vor der Fakultät) yang berfungsi untuk tata krama ujian promosi doktor terbuka di Jerman: mempresentasikan kontribusi orisinal dan menanggapi evaluasi dewan penguji."
       },
       {
         "id": "q-de-gram-50-pg-3",
@@ -23263,7 +23413,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan uraian ini saya menutup paparan saya dan menantikan pertanyaan-pertanyaan Anda dengan penuh perhatian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Mit diesen Ausführungen schließe ich meine Darlegung und sehe Ihren Fragen mit Interesse entgegen.\" berarti \"Dengan uraian ini saya menutup paparan saya dan menantikan pertanyaan-pertanyaan Anda dengan penuh perhatian.\"."
+        "explanation": "Kalimat \"Mit diesen Ausführungen schließe ich meine Darlegung und sehe Ihren Fragen mit Interesse entgegen.\" (dibaca: Mit di:sen ausführungen syli:sse ikh mayne darlegung und sehe ihren fragen mit interesse entgegen.) berarti \"Dengan uraian ini saya menutup paparan saya dan menantikan pertanyaan-pertanyaan Anda dengan penuh perhatian.\". Kalimat ini menggunakan pola \"Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung\" (Verteidigung der Dissertation und Disputation vor der Fakultät) yang berfungsi untuk tata krama ujian promosi doktor terbuka di Jerman: mempresentasikan kontribusi orisinal dan menanggapi evaluasi dewan penguji."
       },
       {
         "id": "q-de-gram-50-pg-4",
@@ -23283,7 +23433,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-50-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Verteidigung der Dissertation und Disputation vor der Fakultät\"?",
         "options": [
           "In der Debatte kreuzen sich verschiedene ideengeschichtliche Diskursstränge. — Di dalam perdebatan tersebut bersilangan berbagai alur wacana sejarah pemikiran.",
           "Ich greife die von Herrn Professor Weber aufgeworfene Frage zur Validität des Modells gern auf. — Saya dengan senang hati menanggapi pertanyaan yang diajukan oleh Bapak Profesor Weber mengenai validitas model tersebut.",
@@ -23297,7 +23447,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-50-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Tata Kalimat (Satzbau)\":",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Verteidigung der Dissertation und Disputation vor der Fakultät\"?",
         "options": [
           "Thomas Kuhns Konzept des Paradigmenwechsels revolutionierte das Verständnis wissenschaftlicher Umbrüche. — Konsep pergeseran paradigma dari Thomas Kuhn telah merevolusi pemahaman mengenai perubahan besar keilmuan.",
           "Diese epistemische Verschiebung öffnete den Horizont für neuartige Forschungsansätze. — Pergeseran epistemik ini membuka cakrawala baru bagi pendekatan-pendekatan penelitian mutakhir.",
@@ -23311,7 +23461,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-de-gram-50-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Konteks Akademik dan Ragam Tulis\"?",
+        "prompt": "Manakah kalimat bahasa Jerman berikut yang benar dan sesuai dengan materi \"Verteidigung der Dissertation und Disputation vor der Fakultät\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23564,7 +23714,7 @@ export const GERMAN_GRAMMAR: GrammarLesson[] =  [
           "Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation.\" berarti \"Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya.\"."
+        "explanation": "Kalimat \"Sehr geehrte Frau Dekanin, verehrte Mitglieder der Promotionskommission, ich danke Ihnen für die Würdigung meiner Dissertation.\" (dibaca: Sehr geehrte frau dekanin, verehrte mitgli:der der promotionskommission, ikh danke ihnen für di: würdigung mayner dissertation.) berarti \"Ibu Dekan yang terhormat, para anggota komisi promosi yang mulia, saya berterima kasih atas apresiasi terhadap disertasi saya.\". Kalimat ini menggunakan pola \"Eröffnungsvortrag / Replik auf die Gutachten / Wissenschaftliche Selbstbehauptung\" (Verteidigung der Dissertation und Disputation vor der Fakultät) yang berfungsi untuk tata krama ujian promosi doktor terbuka di Jerman: mempresentasikan kontribusi orisinal dan menanggapi evaluasi dewan penguji."
       },
       {
         "id": "q-de-gram-50-bb-2",

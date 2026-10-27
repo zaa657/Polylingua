@@ -353,7 +353,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The main library provides quiet study zones and round-the-clock computer access.",
     "examplePhonetic": "ðə meɪn ˈlaɪ.brər.i prəˈvaɪdz ˈkwaɪ.ət ˈstʌd.i zoʊnz ænd raʊnd-ðə-klɑːk kəmˈpjuː.tər ˈæk.sɛs.",
     "exampleTranslation": "Perpustakaan utama menyediakan area belajar yang hening serta akses komputer 24 jam nonstop.",
-    "notes": "Petugas perpustakaan: Librarian.",
+    "notes": "Petugas perpustakaan: Librarian. Kata \"Library\" (cara baca: ˈlaɪ.brər.i) digunakan dalam bahasa Inggris (tingkat A2 (Elementary), kategori Akademik & Kampus) untuk menyatakan \"Perpustakaan\".",
     "tags": [
       "fasilitas",
       "a2",
@@ -429,7 +429,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Attending the introductory physics lecture is mandatory for all engineering freshmen.",
     "examplePhonetic": "əˈtɛn.dɪŋ ðə ˌɪn.trəˈdʌk.tər.i ˈfɪz.ɪks ˈlɛk.tʃər ɪz ˈmæn.də.tɔːr.i fɔːr ɔːl ˌɛn.dʒɪˈnɪə.rɪŋ ˈfrɛʃ.mən.",
     "exampleTranslation": "Menghadiri kuliah pengantar fisika wajib bagi seluruh mahasiswa baru teknik.",
-    "notes": "Pengajar kuliah: Lecturer.",
+    "notes": "Pengajar kuliah: Lecturer. Kata \"Lecture\" (cara baca: ˈlɛk.tʃər) digunakan dalam bahasa Inggris (tingkat A2 (Elementary), kategori Akademik & Kampus) untuk menyatakan \"Kuliah mimbar\".",
     "tags": [
       "kuliah",
       "a2",
@@ -771,7 +771,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The department regularly updates its curriculum to meet evolving industry standards.",
     "examplePhonetic": "ðə dɪˈpɑːrt.mənt ˈrɛɡ.jə.lər.li ʌpˈdeɪts ɪts kəˈrɪk.jə.ləm tu miːt ɪˈvɑːl.vɪŋ ˈɪn.dəs.tri ˈstæn.dərdz.",
     "exampleTranslation": "Departemen memperbarui kurikulumnya secara berkala demi memenuhi standar industri yang terus berkembang.",
-    "notes": "Bentuk jamak: Curricula.",
+    "notes": "Bentuk jamak: Curricula. Kata \"Curriculum\" (cara baca: kəˈrɪk.jə.ləm) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Kurikulum program studi\".",
     "tags": [
       "kurikulum",
       "b1",
@@ -847,7 +847,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Students are actively encouraged to participate in seminar debates and workshops.",
     "examplePhonetic": "ˈstjuː.dənts ɑːr ˈæk.tɪv.li ɪnˈkɜːr.ɪdʒd tu pɑːrˈtɪs.ə.peɪt ɪn ˈsɛm.əˌnɑːr dɪˈbeɪts ænd ˈwɜːrkˌʃɑːps.",
     "exampleTranslation": "Para mahasiswa sangat didorong untuk berpartisipasi aktif dalam perdebatan seminar dan lokakarya.",
-    "notes": "Preposisi: Participate in [sesuatu].",
+    "notes": "Preposisi: Participate in [sesuatu]. Kata \"Participate\" (cara baca: pɑːrˈtɪs.ə.peɪt) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Aksi Harian) untuk menyatakan \"Berpartisipasi\".",
     "tags": [
       "tindakan",
       "b1",
@@ -999,7 +999,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Researchers use specialized software to analyze complex genomic sequencing data.",
     "examplePhonetic": "rɪˈsɜːr.tʃərz juːz ˈspɛʃ.ə.laɪzd ˈsɔːft.wɛər tu ˈæn.əl.aɪz ˈkɑːm.plɛks dʒəˈnoʊ.mɪk ˈsiː.kwən.sɪŋ ˈdeɪ.tə.",
     "exampleTranslation": "Para peneliti menggunakan perangkat lunak khusus untuk menganalisis data pengurutan genomik yang kompleks.",
-    "notes": "Ejaan British: Analyse.",
+    "notes": "Ejaan British: Analyse. Kata \"Analyze\" (cara baca: ˈæn.əl.aɪz) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Menganalisis\".",
     "tags": [
       "analisis",
       "b1",
@@ -1018,7 +1018,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The committee will evaluate every research proposal based on innovation, methodology, and feasibility.",
     "examplePhonetic": "ðə kəˈmɪt.i wɪl ɪˈvæl.ju.eɪt ˈɛv.ri rɪˈsɜːrtʃ prəˈpoʊ.zəl beɪst ɑːn ˌɪn.əˈveɪ.ʃən, ˌmɛθ.əˈdɑː.lə.dʒi, ænd ˌfiː.zəˈbɪl.ə.ti.",
     "exampleTranslation": "Komite penilai akan mengevaluasi setiap proposal penelitian berdasarkan inovasi, metodologi, dan kelayakannya.",
-    "notes": "Kata benda: Evaluation.",
+    "notes": "Kata benda: Evaluation. Kata \"Evaluate\" (cara baca: ɪˈvæl.ju.eɪt) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Mengevaluasi\".",
     "tags": [
       "evaluasi",
       "b1",
@@ -1037,7 +1037,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The experimental findings clearly demonstrate the superiority of the proposed algorithmic framework.",
     "examplePhonetic": "ði ɪkˌspɛr.əˈmɛn.təl ˈfaɪn.dɪŋz ˈklɪə.li ˈdɛm.ən.streɪt ðə suːˌpɪə.riˈɔːr.ə.ti əv ðə prəˈpoʊzd ˌæl.ɡəˈrɪð.mɪk ˈfreɪm.wɜːrk.",
     "exampleTranslation": "Temuan-temuan eksperimental secara gamblang membuktikan keunggulan kerangka algoritma yang diajukan.",
-    "notes": "Kata benda: Demonstration.",
+    "notes": "Kata benda: Demonstration. Kata \"Demonstrate\" (cara baca: ˈdɛm.ən.streɪt) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Mendemonstrasikan\".",
     "tags": [
       "pembuktian",
       "b1",
@@ -1075,7 +1075,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Adopting an effective spaced repetition strategy accelerates foreign language vocabulary acquisition.",
     "examplePhonetic": "əˈdɑːp.tɪŋ ən ɪˈfɛk.tɪv speɪst ˌrɛp.əˈtɪʃ.ən ˈstræt.ə.dʒi əkˈsɛl.ə.reɪts ˈfɔːr.ən ˈlæŋ.ɡwɪdʒ voʊˈkæb.jə.ˌlɛr.i ˌæk.wəˈzɪʃ.ən.",
     "exampleTranslation": "Mengadopsi strategi pengulangan berjarak (spaced repetition) yang efektif mempercepat pemerolehan kosakata bahasa asing.",
-    "notes": "Strategis: Strategic.",
+    "notes": "Strategis: Strategic. Kata \"Strategy\" (cara baca: ˈstræt.ə.dʒi) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Strategi terarah\".",
     "tags": [
       "strategi",
       "b1",
@@ -1132,7 +1132,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "If the primary hypothesis is disproven, researchers must formulate plausible alternative explanations.",
     "examplePhonetic": "ɪf ðə ˈpraɪ.mɛr.i haɪˈpɑː.θə.sɪs ɪz dɪsˈpruː.vən, rɪˈsɜːr.tʃərz mʌst ˈfɔːr.mjə.leɪt ˈplɔː.zə.bəl ɑːlˈtɜːr.nə.tɪv ˌɛk.spləˈneɪ.ʃənz.",
     "exampleTranslation": "Jika hipotesis primer terbukti keliru, para peneliti harus merumuskan penjelasan alternatif yang masuk akal.",
-    "notes": "Opsi alternatif: Alternative option.",
+    "notes": "Opsi alternatif: Alternative option. Kata \"Alternative\" (cara baca: ɑːlˈtɜːr.nə.tɪv) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Alternatif\".",
     "tags": [
       "alternatif",
       "b1",
@@ -1151,7 +1151,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The paper investigates the unintended consequences of automated decision-making in public services.",
     "examplePhonetic": "ðə ˈpeɪ.pər ɪnˈvɛs.tə.ɡeɪts ði ˌʌn.ɪnˈtɛn.dɪd ˈkɑːn.sə.kwən.sɪz əv ˈɔː.tə.meɪ.tɪd dɪˈsɪʒ.ən-ˈmeɪ.kɪŋ ɪn ˈpʌb.lɪk ˈsɜːr.və.sɪz.",
     "exampleTranslation": "Makalah tersebut menginvestigasi konsekuensi-konsekuensi tak terduga dari pengambilan keputusan terotomasi dalam layanan publik.",
-    "notes": "Sebagai akibatnya: As a consequence.",
+    "notes": "Sebagai akibatnya: As a consequence. Kata \"Consequence\" (cara baca: ˈkɑːn.sə.kwəns) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Kata Sifat & Keadaan) untuk menyatakan \"Konsekuensi\".",
     "tags": [
       "dampak",
       "b1",
@@ -1170,7 +1170,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Cite only peer-reviewed literature directly relevant to your primary research questions.",
     "examplePhonetic": "saɪt ˈoʊn.li pɪər-rɪˈvjuːd ˈlɪt.ər.ə.tʃʊər dəˈrɛkt.li ˈrɛl.ə.vənt tu jɔːr ˈpraɪ.mɛr.i rɪˈsɜːrtʃ ˈkwɛs.tʃənz.",
     "exampleTranslation": "Kutip hanya literatur peer-reviewed yang relevan secara langsung dengan pertanyaan riset primer Anda.",
-    "notes": "Preposisi: Relevant to [sesuatu].",
+    "notes": "Preposisi: Relevant to [sesuatu]. Kata \"Relevant\" (cara baca: ˈrɛl.ə.vənt) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Kata Sifat & Keadaan) untuk menyatakan \"Relevan\".",
     "tags": [
       "sifat",
       "b1",
@@ -1227,7 +1227,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Pure theoretical hypotheses require robust empirical testing before gaining scientific consensus.",
     "examplePhonetic": "pjʊər ˌθiː.əˈrɛt.ɪ.kəl haɪˈpɑː.θə.siːz rɪˈkwaɪər roʊˈbʌst ɪmˈpɪr.ɪ.kəl ˈtɛs.tɪŋ bɪˈfɔːr ˈɡeɪ.nɪŋ ˌsaɪ.ənˈtɪf.ɪk kənˈsɛn.səs.",
     "exampleTranslation": "Hipotesis teoretis murni membutuhkan pengujian empiris yang tangguh sebelum memperoleh konsensus saintifik.",
-    "notes": "Riset empiris: Empirical research.",
+    "notes": "Riset empiris: Empirical research. Kata \"Empirical\" (cara baca: ɪmˈpɪr.ɪ.kəl) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Empiris\".",
     "tags": [
       "empiris",
       "b2",
@@ -1265,7 +1265,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Our team conducted a quantitative analysis involving structural equation modeling on large survey cohorts.",
     "examplePhonetic": "ˈaʊ.ər tiːm kənˈdʌk.tɪd ə ˈkwɑːn.tə.teɪ.tɪv əˈnæl.ə.sɪs ɪnˈvɑːl.vɪŋ ˈstrʌk.tʃər.əl ɪˈkweɪ.ʒən ˈmɑː.dəl.ɪŋ ɑːn lɑːrdʒ ˈsɜːr.veɪ ˈkoʊ.hɔːrts.",
     "exampleTranslation": "Tim kami melakukan analisis kuantitatif yang melibatkan permodelan persamaan struktural pada kohor survei berskala besar.",
-    "notes": "Lawan kata: Qualitative (Kualitatif).",
+    "notes": "Lawan kata: Qualitative (Kualitatif). Kata \"Quantitative\" (cara baca: ˈkwɑːn.tə.teɪ.tɪv) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Kuantitatif\".",
     "tags": [
       "kuantitatif",
       "b2",
@@ -1360,7 +1360,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Technological innovation thrives in environments that foster cross-disciplinary risk-taking.",
     "examplePhonetic": "ˌtɛk.nəˈlɑː.dʒɪ.kəl ˌɪn.əˈveɪ.ʃən θraɪvz ɪn ɪnˈvaɪ.rən.mənts ðæt ˈfɔː.stər krɔːs-ˈdɪs.ə.plə.ˌnɛr.i rɪsk-ˈteɪ.kɪŋ.",
     "exampleTranslation": "Inovasi teknologi bertumbuh subur di lingkungan yang memupuk keberanian mengambil risiko lintas disiplin keilmuan.",
-    "notes": "Kata sifat: Innovative.",
+    "notes": "Kata sifat: Innovative. Kata \"Innovation\" (cara baca: ˌɪn.əˈveɪ.ʃən) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Teknologi & Digital) untuk menyatakan \"Inovasi\".",
     "tags": [
       "inovasi",
       "b2",
@@ -1436,7 +1436,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The grant recipient demonstrated a substantial increase in published research throughput.",
     "examplePhonetic": "ðə ɡrænt rɪˈsɪp.i.ənt ˈdɛm.ən.streɪ.tɪd ə səbˈstæn.ʃəl ˈɪn.kriːs ɪn ˈpʌb.lɪʃt rɪˈsɜːrtʃ ˈθruː.pʊt.",
     "exampleTranslation": "Penerima hibah riset menunjukkan peningkatan substansial dalam produktivitas publikasi ilmiah.",
-    "notes": "Secara substansial: Substantially.",
+    "notes": "Secara substansial: Substantially. Kata \"Substantial\" (cara baca: səbˈstæn.ʃəl) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Kata Sifat & Keadaan) untuk menyatakan \"Substansial\".",
     "tags": [
       "sifat",
       "b2",
@@ -1455,7 +1455,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The university decided to implement flexible remote laboratory simulations for engineering disciplines.",
     "examplePhonetic": "ðə ˌjuː.nɪˈvɜːr.sə.ti dɪˈsaɪ.dɪd tu ˈɪm.plə.mɛnt ˈflɛk.sə.bəl rɪˈmoʊt ˈlæb.rə.tɔːr.i ˌsɪm.jəˈleɪ.ʃənz fɔːr ˌɛn.dʒɪˈnɪə.rɪŋ ˈdɪs.ə.plɪnz.",
     "exampleTranslation": "Universitas memutuskan untuk menerapkan simulasi laboratorium jarak jauh yang fleksibel bagi rumpun ilmu rekayasa teknik.",
-    "notes": "Kata benda penerapan: Implementation.",
+    "notes": "Kata benda penerapan: Implementation. Kata \"Implement\" (cara baca: ˈɪm.plə.mɛnt) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Mengimplementasikan\".",
     "tags": [
       "penerapan",
       "b2",
@@ -1474,7 +1474,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The grant evaluation panel concluded that the pilot schedule is technically sound and fully feasible.",
     "examplePhonetic": "ðə ɡrænt ɪˌvæl.juˈeɪ.ʃən ˈpæn.əl kənˈkluː.dɪd ðæt ðə ˈpaɪ.lət ˈskɛdʒ.uːl ɪz ˈtɛk.nɪ.kli saʊnd ænd ˈfʊl.i ˈfiː.zə.bəl.",
     "exampleTranslation": "Panel evaluasi hibah menyimpulkan bahwa jadwal proyek percontohan tersebut solid secara teknis dan sangat layak untuk dijalankan.",
-    "notes": "Studi kelayakan: Feasibility study.",
+    "notes": "Studi kelayakan: Feasibility study. Kata \"Feasible\" (cara baca: ˈfiː.zə.bəl) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Layak dilaksanakan\".",
     "tags": [
       "kelayakan",
       "b2",
@@ -1493,7 +1493,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "A slight discrepancy between empirical measurements and theoretical simulations was detected.",
     "examplePhonetic": "ə slaɪt dɪˈskrɛp.ən.si bɪˈtwiːn ɪmˈpɪr.ɪ.kəl ˈmɛʒ.ər.mənts ænd ˌθiː.əˈrɛt.ɪ.kəl ˌsɪm.jəˈleɪ.ʃənz wəz dɪˈtɛk.tɪd.",
     "exampleTranslation": "Terdeteksi sedikit diskrepansi atau selisih ketidakcocokan antara pengukuran empiris dan hasil simulasi teoretis.",
-    "notes": "Bentuk jamak: Discrepancies.",
+    "notes": "Bentuk jamak: Discrepancies. Kata \"Discrepancy\" (cara baca: dɪˈskrɛp.ən.si) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Diskrepansi\".",
     "tags": [
       "selisih",
       "b2",
@@ -1512,7 +1512,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The author endeavors to rationalize anomalies in the behavioral economics dataset.",
     "examplePhonetic": "ði ˈɔː.θər ɪnˈdɛv.ərz tu ˈræʃ.ən.əl.aɪz əˈnɑː.mə.liːz ɪn ðə bɪˈheɪv.jər.əl ˌɛk.əˈnɑː.mɪks ˈdeɪ.tə.sɛt.",
     "exampleTranslation": "Penulis berikhtiar untuk merasionalisasi anomali-anomali dalam kumpulan data ekonomi perilaku.",
-    "notes": "Ejaan British: Rationalise.",
+    "notes": "Ejaan British: Rationalise. Kata \"Rationalize\" (cara baca: ˈræʃ.ən.əl.aɪz) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Merasionalisasi\".",
     "tags": [
       "logika",
       "b2",
@@ -1550,7 +1550,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Open-access data repositories facilitate rapid cross-border validation among international research consortia.",
     "examplePhonetic": "ˈoʊ.pən-ˈæk.sɛs ˈdeɪ.tə rɪˈpɑː.zə.tɔːr.iz fəˈsɪl.ə.teɪt ˈræp.ɪd krɔːs-ˈbɔːr.dər ˌvæl.əˈdeɪ.ʃən əˈmʌŋ ˌɪn.tərˈnæʃ.ən.əl rɪˈsɜːrtʃ kənˈsɔːr.ʃi.ə.",
     "exampleTranslation": "Repositori data berakses terbuka memfasilitasi verifikasi lintas batas secara cepat di antara konsorsium riset internasional.",
-    "notes": "Fasilitator: Facilitator.",
+    "notes": "Fasilitator: Facilitator. Kata \"Facilitate\" (cara baca: fəˈsɪl.ə.teɪt) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Memfasilitasi\".",
     "tags": [
       "kemudahan",
       "b2",
@@ -1569,7 +1569,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Occasional methodological setbacks are an inevitable element of cutting-edge scientific discovery.",
     "examplePhonetic": "əˈkeɪ.ʒən.əl ˌmɛθ.ə.dəˈlɑː.dʒɪ.kəl ˈsɛt.bæks ɑːr ən ɪˈnɛv.ə.tə.bəl ˈɛl.ə.mənt əv ˈkʌt.ɪŋ-ɛdʒ ˌsaɪ.ənˈtɪf.ɪk dɪˈskʌv.ər.i.",
     "exampleTranslation": "Kendala metodologis sewaktu-waktu merupakan elemen yang tak terelakkan dalam penemuan sains mutakhir.",
-    "notes": "Secara tak terelakkan: Inevitably.",
+    "notes": "Secara tak terelakkan: Inevitably. Kata \"Inevitable\" (cara baca: ɪˈnɛv.ə.tə.bəl) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Kata Sifat & Keadaan) untuk menyatakan \"Tak terelakkan\".",
     "tags": [
       "sifat",
       "b2",
@@ -1588,7 +1588,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Publishing in Nature requires rigorous peer review and reproducible laboratory protocols.",
     "examplePhonetic": "ˈpʌb.lɪʃ.ɪŋ ɪn ˈneɪ.tʃər rɪˈkwaɪərz ˈrɪɡ.ər.əs pɪər rɪˈvjuː ænd ˌriː.prəˈdjuː.sə.bəl ˈlæb.rə.tɔːr.i ˈproʊ.tə.kɑːlz.",
     "exampleTranslation": "Publikasi di jurnal Nature menuntut proses peer-review yang sangat ketat dan saksama serta protokol laboratorium yang dapat direproduksi.",
-    "notes": "Ketelitian ilmiah: Scientific rigor.",
+    "notes": "Ketelitian ilmiah: Scientific rigor. Kata \"Rigorous\" (cara baca: ˈrɪɡ.ər.əs) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Saksama\".",
     "tags": [
       "presisi",
       "b2",
@@ -1702,7 +1702,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The unexpected juxtaposition of classical sociological theory and algorithmic governance illuminates modern surveillance.",
     "examplePhonetic": "ði ˌʌn.ɪkˈspɛk.tɪd ˌdʒʌk.stə.pəˈzɪʃ.ən əv ˈklæs.ɪ.kəl ˌsoʊ.si.əˈlɑː.dʒɪ.kəl ˈθiː.ə.ri ænd ˌæl.ɡəˈrɪð.mɪk ˈɡʌv.ər.nəns ɪˈluː.mə.neɪts ˈmɑː.dərn sərˈveɪ.ləns.",
     "exampleTranslation": "Penjajaran tak terduga antara teori sosiologi klasik dan tata kelola algoritmik menerangi pemahaman pengawasan modern.",
-    "notes": "Kata kerja: To juxtapose.",
+    "notes": "Kata kerja: To juxtapose. Kata \"Juxtaposition\" (cara baca: ˌdʒʌk.stə.pəˈzɪʃ.ən) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Akademik & Kampus) untuk menyatakan \"Jukstaposisi\".",
     "tags": [
       "retorika",
       "c1",
@@ -1759,7 +1759,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Independent replication studies subsequently corroborated the original experimental findings.",
     "examplePhonetic": "ˌɪn.dɪˈpɛn.dənt ˌrɛp.ləˈkeɪ.ʃən ˈstʌd.iz ˈsʌb.sə.kwənt.li kəˈrɑː.bə.reɪ.tɪd ði əˈrɪdʒ.ən.əl ɪkˌspɛr.əˈmɛn.təl ˈfaɪn.dɪŋz.",
     "exampleTranslation": "Studi-studi replikasi independen selanjutnya meneguhkan dan menguatkan temuan eksperimental orisinal tersebut.",
-    "notes": "Kata benda: Corroboration.",
+    "notes": "Kata benda: Corroboration. Kata \"Corroborate\" (cara baca: kəˈrɑː.bə.reɪt) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Akademik & Kampus) untuk menyatakan \"Menguatkan kesahihan bukti\".",
     "tags": [
       "verifikasi",
       "c1",
@@ -1797,7 +1797,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "One cannot reliably extrapolate findings observed in rodent trials directly to clinical human populations.",
     "examplePhonetic": "wʌn ˈkæn.ɑːt rɪˈlaɪ.ə.bli ɪkˈstræp.ə.leɪt ˈfaɪn.dɪŋz əbˈzɜːrvd ɪn ˈroʊ.dənt ˈtraɪ.əlz dəˈrɛkt.li tu ˈklɪn.ɪ.kəl ˈhjuː.mən ˌpɑːp.jəˈleɪ.ʃənz.",
     "exampleTranslation": "Seseorang tidak dapat secara andal mengekstrapolasi temuan pada uji coba hewan pengerat secara langsung ke populasi klinis manusia.",
-    "notes": "Kata benda: Extrapolation.",
+    "notes": "Kata benda: Extrapolation. Kata \"Extrapolate\" (cara baca: ɪkˈstræp.ə.leɪt) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Akademik & Kampus) untuk menyatakan \"Mengekstrapolasi\".",
     "tags": [
       "ekstrapolasi",
       "c1",
@@ -1816,7 +1816,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ethicists emphasize the inherent trade-off between predictive algorithm precision and user privacy protection.",
     "examplePhonetic": "ˈɛθ.ə.sɪsts ˈɛm.fə.saɪz ði ɪnˈhɪə.rənt ˈtreɪd-ɔːf bɪˈtwiːn prɪˈdɪk.tɪv ˈæl.ɡə.ˌrɪð.əm prəˈsɪʒ.ən ænd ˈjuː.zər ˈpraɪ.və.si prəˈtɛk.ʃən.",
     "exampleTranslation": "Para pakar etika menekankan kompromi (trade-off) inheren yang melekat antara presisi algoritma prediktif dan perlindungan privasi pengguna.",
-    "notes": "Sifat mendasar: Inherent property.",
+    "notes": "Sifat mendasar: Inherent property. Kata \"Inherent\" (cara baca: ɪnˈhɪə.rənt) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Kata Sifat & Keadaan) untuk menyatakan \"Inheren\".",
     "tags": [
       "sifat",
       "c1",
@@ -1835,7 +1835,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The strict dichotomy between quantitative objectivity and qualitative subjectivity has been widely contested.",
     "examplePhonetic": "ðə strɪkt daɪˈkɑː.tə.mi bɪˈtwiːn ˈkwɑːn.tə.teɪ.tɪv ˌɑːb.dʒɛkˈtɪv.ə.ti ænd ˈkwɑː.lə.teɪ.tɪv ˌsʌb.dʒɛkˈtɪv.ə.ti hæz biːn ˈwaɪd.li kənˈtɛs.tɪd.",
     "exampleTranslation": "Dikotomi kaku antara objektivitas kuantitatif dan subjektivitas kualitatif telah banyak diperdebatkan.",
-    "notes": "Bentuk jamak: Dichotomies.",
+    "notes": "Bentuk jamak: Dichotomies. Kata \"Dichotomy\" (cara baca: daɪˈkɑː.tə.mi) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Akademik & Kampus) untuk menyatakan \"Dikotomi\".",
     "tags": [
       "dikotomi",
       "c1",
@@ -1854,7 +1854,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Subtle stylistic nuances in translation often alter the original pragmatic intent of political speeches.",
     "examplePhonetic": "ˈsʌt.əl staɪˈlɪs.tɪk ˈnuː.ɑːn.sɪz ɪn trænsˈleɪ.ʃən ˈɔː.fən ˈɔːl.tər ði əˈrɪdʒ.ən.əl præɡˈmæt.ɪk ɪnˈtɛnt əv pəˈlɪt.ɪ.kəl ˈspiː.tʃɪz.",
     "exampleTranslation": "Nuansa stilistika yang halus dalam penerjemahan sering kali mengubah maksud pragmatis orisinal dari pidato politik.",
-    "notes": "Kata sifat: Nuanced.",
+    "notes": "Kata sifat: Nuanced. Kata \"Nuance\" (cara baca: ˈnuː.ɑːns) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Akademik & Kampus) untuk menyatakan \"Nuansa\".",
     "tags": [
       "nuansa",
       "c1",
@@ -1873,7 +1873,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Policymakers must strike a pragmatic balance between environmental sustainability mandates and industrial competitiveness.",
     "examplePhonetic": "ˈpɑː.lə.siˌmeɪ.kərz mʌst straɪk ə præɡˈmæt.ɪk ˈbæl.əns bɪˈtwiːn ɪnˌvaɪ.rənˈmɛn.təl səˌsteɪ.nəˈbɪl.ə.ti ˈmæn.deɪts ænd ɪnˈdʌs.tri.əl kəmˈpɛt.ə.tɪv.nəs.",
     "exampleTranslation": "Para pembuat kebijakan harus mencapai keseimbangan pragmatis antara mandat kelestarian lingkungan dan daya saing industri.",
-    "notes": "Secara pragmatis: Pragmatically.",
+    "notes": "Secara pragmatis: Pragmatically. Kata \"Pragmatic\" (cara baca: præɡˈmæt.ɪk) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Kata Sifat & Keadaan) untuk menyatakan \"Pragmatis\".",
     "tags": [
       "pragmatis",
       "c1",
@@ -1911,7 +1911,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Competitive international scholarship awards often serve as a transformative catalyst for upward social mobility.",
     "examplePhonetic": "kəmˈpɛt.ə.tɪv ˌɪn.tərˈnæʃ.ən.əl ˈskɑː.lər.ʃɪp əˈwɔːrdz ˈɔː.fən sɜːrv æz ə trænsˈfɔːr.mə.tɪv ˈkæt.əl.ɪst fɔːr ˈʌp.wərd ˈsoʊ.ʃəl moʊˈbɪl.ə.ti.",
     "exampleTranslation": "Penganugerahan beasiswa internasional yang kompetitif kerap berfungsi sebagai katalisator transformatif bagi mobilitas sosial.",
-    "notes": "Kata kerja: To catalyze.",
+    "notes": "Kata kerja: To catalyze. Kata \"Catalyst\" (cara baca: ˈkæt.əl.ɪst) digunakan dalam bahasa Inggris (tingkat C1 (Advanced), kategori Akademik & Kampus) untuk menyatakan \"Katalisator\".",
     "tags": [
       "katalis",
       "c1",
@@ -2082,7 +2082,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Review the course syllabus carefully to note required readings and grading rubrics.",
     "examplePhonetic": "rɪˈvjuː ðə kɔːrs ˈsɪl.ə.bəs ˈkɛər.fəl.i tu noʊt rɪˈkwaɪərd ˈriː.dɪŋz ænd ˈɡreɪ.dɪŋ ˈruː.brɪks.",
     "exampleTranslation": "Tinjau silabus mata kuliah dengan saksama untuk mencatat bacaan wajib dan rubrik penilaian.",
-    "notes": "Bentuk jamak: Syllabi atau Syllabuses.",
+    "notes": "Bentuk jamak: Syllabi atau Syllabuses. Kata \"Syllabus\" (cara baca: ˈsɪl.ə.bəs) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Silabus rancangan perkuliahan\".",
     "tags": [
       "silabus",
       "b1",
@@ -2101,7 +2101,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Linear algebra and multivariate calculus are strict prerequisites for advanced machine learning.",
     "examplePhonetic": "ˈlɪn.i.ər ˈæl.dʒə.brə ænd ˌmʌl.tiˈvɛr.i.ət ˈkæl.kjə.ləs ɑːr strɪkt priːˈrɛk.wə.zɪts fɔːr ədˈvænst məˈʃiːn ˈlɜːr.nɪŋ.",
     "exampleTranslation": "Aljabar linier dan kalkulus multivariat adalah mata kuliah prasyarat mutlak untuk pembelajaran mesin tingkat lanjut.",
-    "notes": "Sering disingkat 'Prereq'.",
+    "notes": "Sering disingkat 'Prereq'. Kata \"Prerequisite\" (cara baca: priːˈrɛk.wə.zɪt) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Prasyarat\".",
     "tags": [
       "prasyarat",
       "b1",
@@ -2120,7 +2120,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The study adopted standardized quantitative metrics to evaluate energy efficiency gains.",
     "examplePhonetic": "ðə ˈstʌd.i əˈdɑːp.tɪd ˈstæn.dər.daɪzd ˈkwɑːn.tə.teɪ.tɪv ˈmɛt.rɪks tu ɪˈvæl.ju.eɪt ˈɛn.ər.dʒi ɪˈfɪʃ.ən.si ɡeɪnz.",
     "exampleTranslation": "Kajian tersebut mengadopsi metrik kuantitatif terstandardisasi untuk mengevaluasi peningkatan efisiensi energi.",
-    "notes": "Tolok ukur keberhasilan proyek riset.",
+    "notes": "Tolok ukur keberhasilan proyek riset. Kata \"Quantitative metrics\" (cara baca: ˈkwɑːn.tə.teɪ.tɪv ˈmɛt.rɪks) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Metrik kuantitatif\".",
     "tags": [
       "metrik",
       "b2",
@@ -2139,7 +2139,7 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Securing a first-author peer-reviewed publication significantly bolsters academic fellowship applications.",
     "examplePhonetic": "sɪˈkjʊər.ɪŋ ə fɜːrst-ˈɔː.θər pɪər-rɪˈvjuːd ˌpʌb.ləˈkeɪ.ʃən sɪɡˈnɪf.ə.kənt.li ˈboʊl.stərz ˌæk.əˈdɛm.ɪk ˈfɛl.oʊ.ʃɪp ˌæp.ləˈkeɪ.ʃənz.",
     "exampleTranslation": "Mengamankan publikasi jurnal berpenelaah sejawat sebagai penulis pertama secara signifikan memperkuat lamaran beasiswa riset akademik.",
-    "notes": "Standar emas reputasi akademik ilmiah.",
+    "notes": "Standar emas reputasi akademik ilmiah. Kata \"Peer-reviewed publication\" (cara baca: pɪər-rɪˈvjuːd ˌpʌb.ləˈkeɪ.ʃən) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Akademik & Kampus) untuk menyatakan \"Publikasi jurnal berpenelaah sejawat\".",
     "tags": [
       "jurnal",
       "b2",
@@ -2717,11 +2717,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Our faculty holds the weekly department briefing every Monday morning.",
     "examplePhonetic": "/aʊər ˈfæk.əl.ti hoʊldz ðə ˈwiː.kli dɪˈpɑːrt.mənt ˈbriː.fɪŋ ˈev.ri ˈmʌn.deɪ ˈmɔːr.nɪŋ/",
     "exampleTranslation": "Fakultas kami mengadakan pengarahan mingguan jurusan setiap Senin pagi.",
-    "notes": "Always capitalised in English.",
+    "notes": "Always capitalised in English. Kata \"Monday\" (cara baca: /ˈmʌn.deɪ/) digunakan dalam bahasa Inggris (tingkat A1 (Beginner), kategori Waktu & Hari Sekolah) untuk menyatakan \"Senin\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2738,9 +2738,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kami melakukan eksperimen kimia di laboratorium setiap Selasa sore.",
     "notes": "Second working day of the academic week.",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2757,9 +2757,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Seminar penulisan akademik pertengahan minggu dijadwalkan pada hari Rabu.",
     "notes": "Pronounced with a silent 'd': /ˈwenz.deɪ/.",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2776,9 +2776,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jam konsultasi bimbingan akademik diadakan pada Kamis pagi.",
     "notes": "Begins with the unvoiced dental fricative /θ/.",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2795,9 +2795,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Semua makalah akhir pascasarjana wajib dikumpulkan sebelum Jumat jam 5 sore.",
     "notes": "The concluding day of the standard academic teaching week.",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2812,11 +2812,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The main campus library remains open on Saturday for independent study.",
     "examplePhonetic": "/ðə meɪn ˈkæm.pəs ˈlaɪ.brer.i rɪˈmeɪnz ˈoʊ.pən ɒn ˈsæt.ər.deɪ fɔːr ˌɪn.dɪˈpen.dənt ˈstʌd.i/",
     "exampleTranslation": "Perpustakaan kampus utama tetap buka pada hari Sabtu untuk belajar mandiri.",
-    "notes": "Part of the weekend.",
+    "notes": "Part of the weekend. Kata \"Saturday\" (cara baca: /ˈsæt.ər.deɪ/) digunakan dalam bahasa Inggris (tingkat A1 (Beginner), kategori Waktu & Hari Sekolah) untuk menyatakan \"Sabtu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2833,9 +2833,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Hari Minggu dicadangkan untuk istirahat dan evaluasi mandiri sebelum minggu baru dimulai.",
     "notes": "Seventh day of the week in standard ISO calendar.",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2852,9 +2852,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Silakan unduh jadwal kuliah terbaru Anda dari portal mahasiswa.",
     "notes": "Commonly termed 'class schedule' in American English.",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -2869,11 +2869,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Campus shuttle buses run every fifteen minutes on weekdays.",
     "examplePhonetic": "/ˈkæm.pəs ˈʃʌt.əl ˈbʌs.ɪz rʌn ˈev.ri ˌfɪfˈtiːn ˈmɪn.ɪts ɒn ˈwiːk.deɪz/",
     "exampleTranslation": "Bus antar-jemput kampus beroperasi setiap lima belas menit pada hari kerja.",
-    "notes": "Encompasses Monday through Friday.",
+    "notes": "Encompasses Monday through Friday. Kata \"Weekday\" (cara baca: /ˈwiːk.deɪ/) digunakan dalam bahasa Inggris (tingkat A2 (Elementary), kategori Waktu & Hari Sekolah) untuk menyatakan \"Hari Kerja\".",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2888,11 +2888,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Many international scholars explore the city during the weekend.",
     "examplePhonetic": "/ˈmen.i ˌɪn.təˈnæʃ.ən.əl ˈskɒl.ərz ɪkˈsplɔːr ðə ˈsɪt.i ˈdjʊə.rɪŋ ðə ˈwiːk.end/",
     "exampleTranslation": "Banyak pelajar internasional menjelajahi kota selama akhir pekan.",
-    "notes": "Saturday and Sunday.",
+    "notes": "Saturday and Sunday. Kata \"Weekend\" (cara baca: /ˈwiːk.end/) digunakan dalam bahasa Inggris (tingkat A1 (Beginner), kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -2909,9 +2909,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Matematika tingkat lanjut membentuk landasan kuantitatif ilmu rekayasa modern.",
     "notes": "Abbreviated as 'maths' in British English and 'math' in American English.",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2928,9 +2928,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Fisika teoretis meneliti hukum-hukum fundamental yang mengatur alam semesta.",
     "notes": "Takes a singular verb despite ending in -s.",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2947,9 +2947,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kimia organik membutuhkan latihan laboratorium yang tekun dan ketelitian analitis.",
     "notes": "Pertains to chemical substances and reactions.",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2964,11 +2964,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Molecular biology has revolutionized modern pharmaceutical discovery.",
     "examplePhonetic": "/məˈlek.jə.lər baɪˈɒl.ə.dʒi hæz ˌrev.əˈluː.ʃə.naɪzd ˈmɒd.ərn ˌfɑːr.məˈsjuː.tɪ.kəl dɪˈskʌv.ər.i/",
     "exampleTranslation": "Biologi molekuler telah merevolusi penemuan obat-obatan modern.",
-    "notes": "Bio (life) + logy (study of).",
+    "notes": "Bio (life) + logy (study of). Kata \"Biology\" (cara baca: /baɪˈɒl.ə.dʒi/) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Biologi\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2985,9 +2985,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Seminar sejarah mengkaji traktat diplomatik primer abad kedua puluh.",
     "notes": "Includes ancient, medieval, and contemporary history.",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -3004,9 +3004,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Geografi fisik mengeksplorasi topografi spasial dan ekosistem hidrologi.",
     "notes": "Geo (earth) + graphy (writing/representation).",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -3023,9 +3023,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Sastra bandingan memupuk apresiasi kritis terhadap puisi dan prosa dunia.",
     "notes": "Encompasses literary theory and textual analysis.",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3040,11 +3040,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Computer science curricula emphasize algorithm design and cybersecurity.",
     "examplePhonetic": "/kəmˈpjuː.tər ˈsaɪ.əns kəˈrɪk.jə.lə ˈem.fə.saɪz ˈæl.ɡə.rɪ.ðəm dɪˈzaɪn ænd ˈsaɪ.bər.sɪˌkjʊə.rɪ.ti/",
     "exampleTranslation": "Kurikulum ilmu komputer menekankan perancangan algoritma dan keamanan siber.",
-    "notes": "Frequently abbreviated as 'CS'.",
+    "notes": "Frequently abbreviated as 'CS'. Kata \"Computer Science\" (cara baca: /kəmˈpjuː.tər ˈsaɪ.əns/) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3061,9 +3061,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ekonomi pembangunan menganalisis kebijakan fiskal yang mengentaskan kemiskinan global.",
     "notes": "Takes a singular verb in academic prose.",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3078,11 +3078,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Moral philosophy cultivates structured deliberation on ethical dilemmas.",
     "examplePhonetic": "/ˈmɒr.əl fɪˈlɒs.ə.fi ˈkʌl.tɪ.veɪts ˈstrʌk.tʃərd dɪˌlɪb.əˈreɪ.ʃən ɒn ˈeθ.ɪ.kəl daɪˈlem.əz/",
     "exampleTranslation": "Filsafat moral membina pertimbangan terstruktur dalam menghadapi dilema etis.",
-    "notes": "Philo (love) + sophia (wisdom).",
+    "notes": "Philo (love) + sophia (wisdom). Kata \"Philosophy\" (cara baca: /fɪˈlɒs.ə.fi/) digunakan dalam bahasa Inggris (tingkat B2 (Upper-Intermediate), kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Filsafat\".",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3099,9 +3099,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Departemen seni rupa mengkurasi pameran tahunan karya patung mahasiswa.",
     "notes": "Includes painting, sculpture, and visual media.",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3116,11 +3116,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Physical education encourages lifelong athletic fitness and team camaraderie.",
     "examplePhonetic": "/ˈfɪz.ɪ.kəl ˌed.jʊˈkeɪ.ʃən ɪnˈkʌr.ɪ.dʒɪz ˈlaɪf.lɒŋ æθˈlet.ɪk ˈfɪt.nəs ænd tiːm ˌkæm.əˈrɑː.dər.i/",
     "exampleTranslation": "Pendidikan jasmani mendorong kebugaran atletik seumur hidup dan kebersamaan tim.",
-    "notes": "Almost universally abbreviated as 'PE'.",
+    "notes": "Almost universally abbreviated as 'PE'. Kata \"Physical Education\" (cara baca: /ˈfɪz.ɪ.kəl ˌed.jʊˈkeɪ.ʃən/) digunakan dalam bahasa Inggris (tingkat A2 (Elementary), kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Pendidikan Jasmani & Olahraga\".",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3137,9 +3137,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Lulusan ilmu kedokteran menjalani pelatihan residensi ketat di rumah sakit klinis.",
     "notes": "Refers to both the medical science discipline and curative pharmaceuticals.",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3154,11 +3154,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Constitutional law requires meticulous interpretation of statutory jurisprudence.",
     "examplePhonetic": "/ˌkɒn.stɪˈtjuː.ʃən.əl lɔː rɪˈkwaɪərz məˈtɪk.jə.ləs ɪnˌtɜːr.prɪˈteɪ.ʃən ɒv ˈstætʃ.ə.tɔːr.i ˌdʒʊə.rɪsˈpruː.dəns/",
     "exampleTranslation": "Hukum tata negara membutuhkan penafsiran cermat atas yurisprudensi perundang-undangan.",
-    "notes": "Degrees include LLB, LLM, and JD.",
+    "notes": "Degrees include LLB, LLM, and JD. Kata \"Law\" (cara baca: /lɔː/) digunakan dalam bahasa Inggris (tingkat A2 (Elementary), kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3175,9 +3175,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Teknik mesin menerapkan termodinamika untuk merancang mesin propulsi ramah lingkungan.",
     "notes": "Sub-disciplines include civil, electrical, chemical, and software engineering.",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3194,9 +3194,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Para mahasiswa berkumpul dengan tertib di dalam ruang kelas menunggu seminar.",
     "notes": "Large university lecture halls are called 'lecture theatres' in the UK.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3213,9 +3213,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Perpustakaan universitas menyediakan akses ke jutaan jurnal digital yang tertelaah sejawat.",
     "notes": "A silent sanctuary for academic research.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3230,11 +3230,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Safety regulations must be strictly observed within the biomedical laboratory.",
     "examplePhonetic": "/ˈseɪf.ti ˌreɡ.jəˈleɪ.ʃənz mʌst biː ˈstrɪkt.li əbˈzɜːrvd wɪðˈɪn ðə ˌbaɪ.oʊˈmed.ɪ.kəl ləˈbɒr.ə.tɔːr.i/",
     "exampleTranslation": "Peraturan keselamatan kerja wajib dipatuhi secara ketat di dalam laboratorium biomedis.",
-    "notes": "Colloquially contracted to 'lab'.",
+    "notes": "Colloquially contracted to 'lab'. Kata \"Laboratory\" (cara baca: /ləˈbɒr.ə.tɔːr.i/) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Sains\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3249,11 +3249,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The keynote address was delivered before a packed audience in the auditorium.",
     "examplePhonetic": "/ðə ˈkiː.noʊt əˈdres wɒz dɪˈlɪv.ərd bɪˈfɔːr ə pækt ˈɔː.di.əns ɪn ðə ˌɔː.dɪˈtɔːr.i.əm/",
     "exampleTranslation": "Pidato utama disampaikan di hadapan hadirin yang memenuhi auditorium.",
-    "notes": "From Latin auditus (hearing/listening).",
+    "notes": "From Latin auditus (hearing/listening). Kata \"Auditorium\" (cara baca: /ˌɔː.dɪˈtɔːr.i.əm/) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Auditorium\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3270,9 +3270,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Peneliti sarjana menemui pembimbing skripsi mereka di ruang dosen fakultas.",
     "notes": "In primary/secondary schools usually called the 'staffroom'.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3289,9 +3289,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Delegasi mahasiswa diundang ke ruang rektorat untuk membahas reformasi uang kuliah.",
     "notes": "In British universities, often called the 'Vice-Chancellor's Office'.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3308,9 +3308,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ilmuwan dari berbagai disiplin ilmu berkumpul di kafetaria saat jeda makan siang.",
     "notes": "Often called 'the canteen' or 'dining hall'.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3325,11 +3325,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The campus gymnasium houses multi-lane swimming pools and basketball courts.",
     "examplePhonetic": "/ðə ˈkæm.pəs dʒɪmˈneɪ.zi.əm ˈhaʊ.zɪz ˈmʌl.ti.leɪn ˈswɪm.ɪŋ puːlz ænd ˈbɑː.skɪt.bɔːl kɔːrts/",
     "exampleTranslation": "Gedung olahraga kampus menaungi kolam renang multi-lintasan dan lapangan bola basket.",
-    "notes": "Informally shortened to 'gym'.",
+    "notes": "Informally shortened to 'gym'. Kata \"Gymnasium\" (cara baca: /dʒɪmˈneɪ.zi.əm/) digunakan dalam bahasa Inggris (tingkat B1 (Intermediate), kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Gimnasium\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3346,9 +3346,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mahasiswa sarjana internasional tahun pertama umumnya bertempat tinggal di asrama universitas.",
     "notes": "Referred to as 'halls of residence' in UK terminology and 'dorm' in US.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3365,9 +3365,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mahasiswa dapat memperoleh konsultasi medis gratis di klinik kampus.",
     "notes": "In secondary schools usually called the 'infirmary' or 'nurse's office'.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3384,9 +3384,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Laboratorium komputer dilengkapi dengan klaster komputasi berkinerja tinggi.",
     "notes": "Open for student project work and statistical simulations.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3403,9 +3403,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Transkrip nilai resmi dan verifikasi status mahasiswa diterbitkan oleh kantor registrasi akademik.",
     "notes": "Manages student records, degree audits, and course enrollments.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3422,9 +3422,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Harap rujuk bab empat dari buku teks yang ditugaskan untuk bacaan malam ini.",
     "notes": "Standard instructional manual for academic courses.",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3441,9 +3441,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Profesor menguraikan penurunan rumus matematika di sepanjang papan tulis putih.",
     "notes": "Traditional chalk boards are termed 'blackboards'.",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3460,9 +3460,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Penyelesaian PR mingguan secara konsisten memperkuat pemahaman konseptual.",
     "notes": "Uncountable noun in English (never 'homeworks').",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3477,11 +3477,11 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "The final examination covers all theoretical modules taught throughout the semester.",
     "examplePhonetic": "/ðə ˈfaɪ.nəl ɪɡˌzæm.ɪˈneɪ.ʃən ˈkʌv.ərz ɔːl ˌθɪəˈret.ɪ.kəl ˈmɒdʒ.uːlz tɔːt θruːˈaʊt ðə səˈmes.tər/",
     "exampleTranslation": "Ujian akhir semester mencakup semua modul teoretis yang diajarkan sepanjang semester.",
-    "notes": "Almost universally shortened to 'exam'.",
+    "notes": "Almost universally shortened to 'exam'. Kata \"Examination\" (cara baca: /ɪɡˌzæm.ɪˈneɪ.ʃən/) digunakan dalam bahasa Inggris (tingkat A2 (Elementary), kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Ujian Semester\".",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3498,9 +3498,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Sekolah menengah di Inggris menegakkan standar ketat mengenai seragam sekolah.",
     "notes": "At university level, collegiate blazers are worn for ceremonies.",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3517,9 +3517,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Pindai kartu mahasiswa Anda pada gerbang putar untuk mengakses fasilitas kampus.",
     "notes": "Serves as institutional photo identification.",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3536,9 +3536,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Beasiswa akademik membebaskan biaya kuliah penuh dan menanggung tunjangan biaya hidup.",
     "notes": "Awarded based on academic merit or financial need.",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3555,9 +3555,9 @@ export const ENGLISH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Keluarga yang berbahagia berkumpul di aula megah untuk upacara wisuda tahunan.",
     "notes": "Also referred to as 'commencement' in North America.",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];

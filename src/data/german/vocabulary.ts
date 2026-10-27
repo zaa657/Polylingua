@@ -13,7 +13,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Guten Tag Herr Professor, ich freue mich sehr über das Gespräch.",
     "examplePhonetic": "Goo-tuhn tahk hehr proh-fehs-sohr, ikh froy-uh meekh zehr oo-buhr dahs geh-shprehkh.",
     "exampleTranslation": "Selamat siang Profesor, saya sangat senang dengan kesempatan diskusi ini.",
-    "notes": "Ungkapan salam pembuka percakapan.",
+    "notes": "Ungkapan salam pembuka percakapan. Kata \"Guten Tag\" (cara baca: goo-tuhn tahk) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Halo\".",
     "tags": [
       "salam",
       "a1",
@@ -70,7 +70,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Auf Wiedersehen, bis zur nächsten Plenarvorlesung am kommenden Montag.",
     "examplePhonetic": "Owf vee-duhr-zay-uhn, bees tsoor naykh-stuhn play-nahr-fohr-lay-zoong.",
     "exampleTranslation": "Sampai jumpa lagi, sampai bertemu di kuliah pleno hari Senin mendatang.",
-    "notes": "Ucapan perpisahan santun.",
+    "notes": "Ucapan perpisahan santun. Kata \"Auf Wiedersehen\" (cara baca: owf vee-duhr-zay-uhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Sampai jumpa lagi\".",
     "tags": [
       "salam",
       "a1",
@@ -146,7 +146,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Könnten Sie mir bitte den Weg zum Hörsaal drei beschreiben?",
     "examplePhonetic": "Koen-tuhn zee meer beet-tuh dayn vayk tsoom hoer-zahl drey buh-shrei-buhn?",
     "exampleTranslation": "Bisakah Anda menunjukkan arah ke ruang kuliah tiga, tolong?",
-    "notes": "Kata santun untuk memohon bantuan.",
+    "notes": "Kata santun untuk memohon bantuan. Kata \"Bitte\" (cara baca: beet-tuh) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tolong\".",
     "tags": [
       "salam",
       "a1",
@@ -165,7 +165,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Guten Tag Frau Doktor, wie geht es Ihnen heute?",
     "examplePhonetic": "Goo-tuhn tahk frow dohk-tohr, vee gayt ehs ee-nuhn hoy-tuh?",
     "exampleTranslation": "Selamat siang Ibu Dokter, bagaimana kabar Anda hari ini?",
-    "notes": "Menanyakan kabar dan kondisi kesehatan.",
+    "notes": "Menanyakan kabar dan kondisi kesehatan. Kata \"Wie geht es Ihnen\" (cara baca: vee gayt ehs ee-nuhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Apa kabar?\".",
     "tags": [
       "salam",
       "a1",
@@ -184,7 +184,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Sehr erfreut, Ihre Bekanntschaft auf diesem Kongress zu machen.",
     "examplePhonetic": "Zehr ehr-froyt, ee-ruh buh-kahnt-shahft owf dee-zuhm kohn-grehs tsoo mah-khuhn.",
     "exampleTranslation": "Sangat senang berkenalan dengan Anda pada kongres ilmiah ini.",
-    "notes": "Diucapkan saat perkenalan pertama kali.",
+    "notes": "Diucapkan saat perkenalan pertama kali. Kata \"Sehr erfreut\" (cara baca: zehr ehr-froyt) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Senang berkenalan dengan Anda\".",
     "tags": [
       "salam",
       "a1",
@@ -203,7 +203,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ja, ich habe mich ordnungsgemäß für das Wintersemester immatrikuliert.",
     "examplePhonetic": "Yah, ikh hah-buh meekh ohrd-noongs-guh-mayss fuer dahs veen-tuhr-zuh-mehs-tuhr.",
     "exampleTranslation": "Ya, saya telah resmi mendaftarkan diri untuk semester musim dingin.",
-    "notes": "Jawaban afirmatif menyetujui.",
+    "notes": "Jawaban afirmatif menyetujui. Kata \"Ja\" (cara baca: yah) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Ya\".",
     "tags": [
       "salam",
       "a1",
@@ -222,7 +222,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nein, dieses Fachlexikon gehört zum Präsenzbestand der Bibliothek.",
     "examplePhonetic": "Nein, dee-zuhs fahkh-lehk-zee-kohn guh-hoert tsoom preh-zehnts-buh-stahnt.",
     "exampleTranslation": "Bukan / Tidak, kamus ensiklopedia ini termasuk koleksi referensi di tempat.",
-    "notes": "Jawaban penolakan atau negasi.",
+    "notes": "Jawaban penolakan atau negasi. Kata \"Nein\" (cara baca: nein) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tidak\".",
     "tags": [
       "salam",
       "a1",
@@ -260,7 +260,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ich heiße Michael und absolviere ein Masterstudium des Maschinenbaus.",
     "examplePhonetic": "Ikh heye-ssuh Mee-khah-ehl oont ahp-zohl-vee-ruh eyn mahs-tuhr-shtoo-dee-oom.",
     "exampleTranslation": "Nama saya Michael dan saya menempuh studi master teknik mesin.",
-    "notes": "Memperkenalkan nama diri sendiri.",
+    "notes": "Memperkenalkan nama diri sendiri. Kata \"Ich heiße\" (cara baca: ikh heye-ssuh) digunakan dalam bahasa Jerman (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Nama saya...\".",
     "tags": [
       "salam",
       "a1",
@@ -298,7 +298,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Universität Heidelberg ist die älteste Hochschule auf deutschem Boden.",
     "examplePhonetic": "Dee oo-nee-vehr-zee-tayt Heye-duhl-behrk is dee ehl-tuhs-tuh hohkh-shoo-luh.",
     "exampleTranslation": "Universitas Heidelberg adalah perguruan tinggi tertua di tanah Jerman.",
-    "notes": "Institusi pendidikan tinggi formal.",
+    "notes": "Institusi pendidikan tinggi formal. Kata \"Universität\" (cara baca: oo-nee-vehr-zee-tayt) digunakan dalam bahasa Jerman (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Universitas\".",
     "tags": [
       "kampus",
       "a1",
@@ -488,7 +488,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Für ihre hervorragende Seminarleistung erhielt sie die Bestnote eins Komma null.",
     "examplePhonetic": "Fuer ee-ruh hehr-fohr-rah-guhn-duh zay-mee-nahr-leye-stoong ehr-heelt zee dee behst-noh-tuh.",
     "exampleTranslation": "Atas prestasi seminarnya yang istimewa dia meraih nilai tertinggi 1,0.",
-    "notes": "Hasil evaluasi prestasi belajar.",
+    "notes": "Hasil evaluasi prestasi belajar. Kata \"Note\" (cara baca: noh-tuh) digunakan dalam bahasa Jerman (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Nilai akademik\".",
     "tags": [
       "kampus",
       "a1",
@@ -507,7 +507,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Das renommierte DAAD-Stipendium ermöglicht herausragenden Talenten das Studium.",
     "examplePhonetic": "Dahs ray-nohm-meer-tuh Dah-Ah-Ah-Day shtee-pehn-dee-oom ehr-moekh-leekht.",
     "exampleTranslation": "Beasiswa bergengsi DAAD memungkinkan talenta unggul menempuh studi di Jerman.",
-    "notes": "Bantuan dana pendidikan berprestasi.",
+    "notes": "Bantuan dana pendidikan berprestasi. Kata \"Stipendium\" (cara baca: shtee-pehn-dee-oom) digunakan dalam bahasa Jerman (tingkat A2, kategori Kampus & Pendidikan) untuk menyatakan \"Beasiswa\".",
     "tags": [
       "kampus",
       "a2",
@@ -640,7 +640,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die empirischen Messergebnisse verifizierten die zugrunde liegende Hypothese.",
     "examplePhonetic": "Dee ehm-pee-ree-shuhn mehs-ehr-gayp-nees-suh fay-ree-fee-tseer-tuhn dee.",
     "exampleTranslation": "Hasil pengukuran empiris memverifikasi kebenaran hipotesis yang diajukan.",
-    "notes": "Dugaan awal yang diuji kebenarannya.",
+    "notes": "Dugaan awal yang diuji kebenarannya. Kata \"Hypothese\" (cara baca: hoo-poh-tay-zuh) digunakan dalam bahasa Jerman (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Hipotesis penelitian\".",
     "tags": [
       "penelitian",
       "b2",
@@ -716,7 +716,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Im abschließenden Fazit werden die Kernbefunde der Dissertation prägnant zusammengefasst.",
     "examplePhonetic": "Eem ahp-shlee-ssuhn-duhn fah-tseet vehr-duhn dee kehrn-buh-foon-duh.",
     "exampleTranslation": "Pada kesimpulan akhir intisari temuan disertasi dirangkum secara padat lugas.",
-    "notes": "Ringkasan intisari hasil penelitian.",
+    "notes": "Ringkasan intisari hasil penelitian. Kata \"Fazit\" (cara baca: fah-tseet) digunakan dalam bahasa Jerman (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Kesimpulan\".",
     "tags": [
       "penelitian",
       "b2",
@@ -735,7 +735,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Das Literaturverzeichnis muss lückenlos alle herangezogenen Monografien aufführen.",
     "examplePhonetic": "Dahs lee-tuh-rah-toor-fehr-tseykh-nees moos luek-kuhn-lohs ahl-luh hay-rahn-guh-zoh-guh-nuhn.",
     "exampleTranslation": "Daftar pustaka wajib mencantumkan secara lengkap seluruh monograf yang disitir.",
-    "notes": "Daftar rujukan literatur yang disitir.",
+    "notes": "Daftar rujukan literatur yang disitir. Kata \"Literaturverzeichnis\" (cara baca: lee-tuh-rah-toor-fehr-tseykh-nees) digunakan dalam bahasa Jerman (tingkat B1, kategori Penelitian & Riset) untuk menyatakan \"Daftar pustaka\".",
     "tags": [
       "penelitian",
       "b1",
@@ -811,7 +811,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Der Intercity-Express ICE erreicht Geschwindigkeiten von über dreihundert Stundenkilometern.",
     "examplePhonetic": "Dehr Een-tehr-see-tee Ehks-prehs Ee-Tsay-Ay ehr-reykht guh-shveen-deekh-key-tuhn.",
     "exampleTranslation": "Kereta cepat ICE melaju dengan kecepatan melampaui 300 kilometer per jam.",
-    "notes": "Moda transportasi rel cepat perkotaan.",
+    "notes": "Moda transportasi rel cepat perkotaan. Kata \"Zug\" (cara baca: tsook) digunakan dalam bahasa Jerman (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Kereta api\".",
     "tags": [
       "transportasi",
       "a1",
@@ -849,7 +849,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Wir bestellten ein Taxi, um den frühen Zug zum Flughafen nicht zu verpassen.",
     "examplePhonetic": "Veer buh-shtehl-tuhn eyn tahk-zee, oom dayn froo-uhn tsook tsoom flook-hah-fuhn.",
     "exampleTranslation": "Kami memesan taksi agar tidak tertinggal kereta pagi menuju bandara.",
-    "notes": "Kendaraan sewa umum berbayar argo.",
+    "notes": "Kendaraan sewa umum berbayar argo. Kata \"Taxi\" (cara baca: tahk-zee) digunakan dalam bahasa Jerman (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Taksi\".",
     "tags": [
       "transportasi",
       "a1",
@@ -925,7 +925,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Bushaltestelle befindet sich unmittelbar vor dem Hauptportal des Audimax.",
     "examplePhonetic": "Dee boos-hahl-tuh-shtehl-luh buh-feen-duht meekh oon-meet-tuhl-bahr fohr daym.",
     "exampleTranslation": "Halte bus terletak tepat persis di depan gerbang utama gedung Audimax.",
-    "notes": "Tempat perhentian bus di tepi jalan.",
+    "notes": "Tempat perhentian bus di tepi jalan. Kata \"Bushaltestelle\" (cara baca: boos-hahl-tuh-shtehl-luh) digunakan dalam bahasa Jerman (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Halte bus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -944,7 +944,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Biegen Sie an der Kreuzung links ab, um zum Universitätsklinikum zu gelangen.",
     "examplePhonetic": "Bee-khuhn zee ahn dehr kroy-tsoong leengks ahp, oom tsoom oo-nee-vehr-zee-tayts.",
     "exampleTranslation": "Beloklah ke arah kiri pada persimpangan untuk tiba di rumah sakit kampus.",
-    "notes": "Petunjuk arah ke sisi kiri.",
+    "notes": "Petunjuk arah ke sisi kiri. Kata \"Links abbiegen\" (cara baca: leengks ahp-bee-khuhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kiri\".",
     "tags": [
       "transportasi",
       "a1",
@@ -963,7 +963,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Biegen Sie rechts ab und folgen Sie der Beschilderung zur naturwissenschaftlichen Fakultät.",
     "examplePhonetic": "Bee-khuhn zee rehkhts ahp oont fohl-khuhn zee dehr buh-sheel-duh-roong.",
     "exampleTranslation": "Beloklah ke kanan dan ikuti rambu penunjuk arah ke fakultas ilmu sains.",
-    "notes": "Petunjuk arah ke sisi kanan.",
+    "notes": "Petunjuk arah ke sisi kanan. Kata \"Rechts abbiegen\" (cara baca: rehkhts ahp-bee-khuhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kanan\".",
     "tags": [
       "transportasi",
       "a1",
@@ -982,7 +982,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Fahren Sie mit dem Fahrrad geradeaus auf dem Radweg bis zum Bibliotheksplatz.",
     "examplePhonetic": "Fah-ruhn zee meet daym fahr-raht guh-rah-duh-ows owf daym raht-vayk.",
     "exampleTranslation": "Bersepedalah lurus terus di lajur sepeda hingga tiba di pelataran perpustakaan.",
-    "notes": "Petunjuk arah tanpa berbelok.",
+    "notes": "Petunjuk arah tanpa berbelok. Kata \"Geradeaus\" (cara baca: guh-rah-duh-ows) digunakan dalam bahasa Jerman (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Lurus terus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -1001,7 +1001,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Heute findet die offizielle Begrüßung der internationalen Studienanfänger statt.",
     "examplePhonetic": "Hoy-tuh feen-duht dee ohf-fee-tsyohl-luh buh-grue-soong dehr in-tehr-nah-tsyo-nah-luhn.",
     "exampleTranslation": "Hari ini diselenggarakan sambutan resmi bagi mahasiswa baru internasional.",
-    "notes": "Hari saat ini berlangsung.",
+    "notes": "Hari saat ini berlangsung. Kata \"Heute\" (cara baca: hoy-tuh) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Hari ini\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1020,7 +1020,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Morgen beginnt die fristgerechte Belegphase für die Proseminare des Semesters.",
     "examplePhonetic": "Mohr-guhn buh-geent dee freest-guh-rehkh-tuh buh-layk-fah-zuh fuer dee.",
     "exampleTranslation": "Besok dimulai periode resmi pemilihan mata kuliah seminar semester ini.",
-    "notes": "Hari setelah hari ini.",
+    "notes": "Hari setelah hari ini. Kata \"Morgen\" (cara baca: mohr-guhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Besok\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1039,7 +1039,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Gestern haben wir die Versuchsreihe im thermodynamischen Labor erfolgreich beendet.",
     "examplePhonetic": "Gehs-tuhrn hah-buhn veer dee fehr-zoochs-reye-huh eem tehr-moh-doo-nah-mee-shuhn.",
     "exampleTranslation": "Kemarin kami telah menuntaskan rangkaian uji coba lab termodinamika.",
-    "notes": "Hari sebelum hari ini.",
+    "notes": "Hari sebelum hari ini. Kata \"Gestern\" (cara baca: gehs-tuhrn) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Kemarin\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1058,7 +1058,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Vorlesung dauert neunzig Minuten, was genau zwei akademischen Unterrichtsstunden entspricht.",
     "examplePhonetic": "Dee fohr-lay-zoong dow-uhrt noyn-tseekh mee-noo-tuhn, vahs guh-now tsvey.",
     "exampleTranslation": "Kuliah berlangsung selama 90 menit setara dengan 2 jam tatap muka akademik.",
-    "notes": "Satuan penunjuk waktu 60 menit.",
+    "notes": "Satuan penunjuk waktu 60 menit. Kata \"Stunde\" (cara baca: shtoon-duh) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Jam\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1077,7 +1077,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Es verbleiben noch fünfzehn Minuten Bearbeitungszeit bis zur Abgabe der Klausurbögen.",
     "examplePhonetic": "Ehs fehr-bley-buhn nohkh fuenf-tseyn mee-noo-tuhn buh-ahr-beye-toongs-tseyt.",
     "exampleTranslation": "Tersisa lima belas menit lagi sebelum lembar jawaban ujian wajib dikumpulkan.",
-    "notes": "Satuan penunjuk waktu 60 detik.",
+    "notes": "Satuan penunjuk waktu 60 detik. Kata \"Minute\" (cara baca: mee-noo-tuh) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Menit\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1096,7 +1096,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In der kommenden Woche finden keine Lehrveranstaltungen wegen der Feiertage statt.",
     "examplePhonetic": "In dehr kohm-muhn-duhn voh-khuh feen-duhn kleye-nuh lehr-fehr-ahn-shtahl-toong-uhn.",
     "exampleTranslation": "Pada pekan depan ditiadakan perkuliahan karena hari libur nasional.",
-    "notes": "Periode waktu tujuh hari.",
+    "notes": "Periode waktu tujuh hari. Kata \"Woche\" (cara baca: voh-khuh) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Pekan\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1115,7 +1115,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In einem Monat endet die offizielle Bewerbungsfrist für das Promotionsstipendium.",
     "examplePhonetic": "In eye-nuhm moh-naht ehn-duht dee ohf-fee-tsyel-luh buh-vehr-boongs-freest.",
     "exampleTranslation": "Satu bulan lagi batas akhir pendaftaran beasiswa doktoral akan ditutup.",
-    "notes": "Periode waktu sekitar 30 hari.",
+    "notes": "Periode waktu sekitar 30 hari. Kata \"Monat\" (cara baca: moh-naht) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Bulan kalender\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1134,7 +1134,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Regelstudienzeit für den konsekutiven Masterstudiengang beträgt zwei Jahre.",
     "examplePhonetic": "Dee ray-guhl-shtoo-dyuhn-tseyt fuer dayn kohn-zay-koo-tee-vuhn mahs-tuhr.",
     "exampleTranslation": "Masa studi standar perkuliahan program master reguler adalah dua tahun.",
-    "notes": "Periode waktu 12 bulan.",
+    "notes": "Periode waktu 12 bulan. Kata \"Jahr\" (cara baca: yahr) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Tahun\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1153,7 +1153,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Jetzt ist der ideale Zeitpunkt, um die Fachliteratur für das Referat auszuleihen.",
     "examplePhonetic": "Yehtst is dehr ee-day-ah-luh tseyt-poonkt, oom dee fahkh-lee-tuh-rah-toor.",
     "exampleTranslation": "Sekarang waktu yang paling ideal meminjam literatur acuan presentasi seminar.",
-    "notes": "Waktu yang sedang terjadi kini.",
+    "notes": "Waktu yang sedang terjadi kini. Kata \"Jetzt\" (cara baca: yehtst) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Sekarang\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1172,7 +1172,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Wir vertiefen die mathematische Beweisführung später in der Übungsgruppe.",
     "examplePhonetic": "Veer fehr-tee-fuhn dee mah-tuh-mah-tee-shuh buh-veys-fue-roong shpay-tuhr.",
     "exampleTranslation": "Kita akan memperdalam pembuktian rumus matematika nanti di kelas latihan.",
-    "notes": "Waktu yang akan datang tidak lama lagi.",
+    "notes": "Waktu yang akan datang tidak lama lagi. Kata \"Später\" (cara baca: shpay-tuhr) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Nanti\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1248,7 +1248,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Deutsches Vollkornbrot mit seiner knusprigen Kruste ist weltweit berühmt.",
     "examplePhonetic": "Doyt-shuhs fohl-kohrn-broht meet zey-nuhr knoos-pree-khuhn kroos-tuh.",
     "exampleTranslation": "Roti gandum hitam Jerman dengan kulit renyahnya terkenal di seantero dunia.",
-    "notes": "Makanan pokok sumber karbohidrat utama.",
+    "notes": "Makanan pokok sumber karbohidrat utama. Kata \"Brot\" (cara baca: broht) digunakan dalam bahasa Jerman (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Nasi\".",
     "tags": [
       "makanan",
       "a1",
@@ -1343,7 +1343,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Das frisch zubereitete vegetarische Mensagericht war heute außerordentlich lecker.",
     "examplePhonetic": "Dahs freesh tsoo-buh-reye-tuh-tuh vay-guh-tah-ree-shuh mehn-zah-guh-reekht.",
     "exampleTranslation": "Hidangan vegetarian kantin yang segar dimasak hari ini terasa sangat lezat.",
-    "notes": "Rasa makanan yang memuaskan lidah.",
+    "notes": "Rasa makanan yang memuaskan lidah. Kata \"Lecker\" (cara baca: lehk-kuhr) digunakan dalam bahasa Jerman (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Enak\".",
     "tags": [
       "makanan",
       "a1",
@@ -1419,7 +1419,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Das Schreibwarengeschäft auf dem Campus führt alle notwendigen Zeichenmaterialien.",
     "examplePhonetic": "Dahs shreyp-vah-ruhn-guh-shehft owf daym kahm-poos fuehrt ahl-luh noht-vehn-dee-khuhn.",
     "exampleTranslation": "Toko alat tulis di kampus menyediakan peralatan menggambar teknik lengkap.",
-    "notes": "Tempat menjual aneka barang kebutuhan.",
+    "notes": "Tempat menjual aneka barang kebutuhan. Kata \"Geschäft\" (cara baca: guh-shehft) digunakan dalam bahasa Jerman (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Toko\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1438,7 +1438,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Bei Vorlage des gültigen Studierendenausweises gewährt der Buchhandel zehn Prozent Rabatt.",
     "examplePhonetic": "Bei fohr-lah-guh dehs guel-tee-khuhn shtoo-deer-uhn-duhn-ows-vey-suhs guh-vehrt.",
     "exampleTranslation": "Dengan menunjukkan kartu mahasiswa toko buku memberikan potongan diskon 10%.",
-    "notes": "Pengurangan dari harga jual standar.",
+    "notes": "Pengurangan dari harga jual standar. Kata \"Rabatt\" (cara baca: rah-baht) digunakan dalam bahasa Jerman (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Diskon\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1457,7 +1457,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In fast allen Universitätsmensen bezahlt man bargeldlos mit der Girokarte oder Campus-Card.",
     "examplePhonetic": "In fahst ahl-luhn oo-nee-vehr-zee-tayts-mehn-zuhn buh-tsahlt mahn bahr-gehlt-lohs.",
     "exampleTranslation": "Di hampir semua Mensa pembayaran dilakukan nontunai dengan kartu Girokarte.",
-    "notes": "Alat transaksi perbankan nontunai.",
+    "notes": "Alat transaksi perbankan nontunai. Kata \"Girokarte\" (cara baca: gee-roh-kahr-tuh) digunakan dalam bahasa Jerman (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Kartu kredit\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1476,7 +1476,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Bewahren Sie den Kassenbon als Kaufnachweis sorgfältig für eventuelle Reklamationen auf.",
     "examplePhonetic": "Buh-vah-ruhn zee dayn kahs-suhn-bohn ahls kowf-nahkh-veys zohrk-fehl-teekh.",
     "exampleTranslation": "Simpanlah struk kasir sebagai tanda bukti beli yang sah demi klaim garansi.",
-    "notes": "Tanda bukti sah transaksi pembelian.",
+    "notes": "Tanda bukti sah transaksi pembelian. Kata \"Kassenbon\" (cara baca: kahs-suhn-bohn) digunakan dalam bahasa Jerman (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Struk bukti belanja\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1495,7 +1495,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Auf dem sonntäglichen Flohmarkt kann man günstig gebrauchte Fachliteratur und Fahrräder erwerben.",
     "examplePhonetic": "Owf daym zohn-tayk-lee-khuhn floh-mahrkt kahn mahn guen-steekh guh-browkh-tuh.",
     "exampleTranslation": "Di pasar loak Minggu dapat dibeli buku ilmiah dan sepeda bekas berkualitas hemat.",
-    "notes": "Tempat bertemunya penjual dan pembeli.",
+    "notes": "Tempat bertemunya penjual dan pembeli. Kata \"Markt\" (cara baca: mahrkt) digunakan dalam bahasa Jerman (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Pasar tradisional\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1514,7 +1514,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Preise für das Mensaessen sind dank staatlicher Subventionen ausgesprochen günstig.",
     "examplePhonetic": "Dee prey-zuh fuer dahs mehn-zah-ehs-suhn zeent dahnk shtaht-lee-khur.",
     "exampleTranslation": "Harga makanan Mensa berkat subsidi pemerintah sangatlah murah terjangkau.",
-    "notes": "Harga barang di bawah rata-rata umum.",
+    "notes": "Harga barang di bawah rata-rata umum. Kata \"Günstig\" (cara baca: guen-steekh) digunakan dalam bahasa Jerman (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Murah terjangkau\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1590,7 +1590,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In kleinen Übungsgruppen können individuelle Verständnisfragen intensiv erörtert werden.",
     "examplePhonetic": "In kley-nuhn oo-boongs-groop-puhn koen-nuhn een-dee-vee-doo-ehl-luh.",
     "exampleTranslation": "Dalam kelompok kecil pertanyaan pemahaman individu dapat dibahas tuntas.",
-    "notes": "Ukuran atau volume di bawah rata-rata.",
+    "notes": "Ukuran atau volume di bawah rata-rata. Kata \"Klein\" (cara baca: kleyn) digunakan dalam bahasa Jerman (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Kecil ukurannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1628,7 +1628,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ein langsamer und bedachter methodischer Ansatz verhindert fatale Rechenfehler.",
     "examplePhonetic": "Eyn lahng-zah-muhr oont buh-dahkh-tuhr may-toh-dee-shuhr ahn-zahts.",
     "exampleTranslation": "Pendekatan metodologi yang cermat teratur mencegah galat perhitungan fatal.",
-    "notes": "Membutuhkan waktu lama dalam bergerak.",
+    "notes": "Membutuhkan waktu lama dalam bergerak. Kata \"Langsam\" (cara baca: lahng-zahm) digunakan dalam bahasa Jerman (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Lambat pergerakannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1647,7 +1647,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Doktorandin fand eine kluge und methodisch brillante Synthese beider Theorien.",
     "examplePhonetic": "Dee dohk-toh-rahn-deen fahnt eye-nuh kloo-guh oont may-toh-deesh breel-lyahn-tuh.",
     "exampleTranslation": "Kandidat doktor menemukan sintesis cerdas dan brilian di antara kedua teori.",
-    "notes": "Mempunyai daya pikir cepat dan tajam.",
+    "notes": "Mempunyai daya pikir cepat dan tajam. Kata \"Klug\" (cara baca: klook) digunakan dalam bahasa Jerman (tingkat A2, kategori Kata Sifat & Keadaan) untuk menyatakan \"Cerdas\".",
     "tags": [
       "kata",
       "a2",
@@ -1723,7 +1723,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Eine gute Literaturrecherche bildet das unentbehrliche Fundament jeder wissenschaftlichen Arbeit.",
     "examplePhonetic": "Eye-nuh goo-tuh lee-tuh-rah-toor-ruh-shehr-shuh beel-duht dahs oon-ehnt-behr-lee-khuh.",
     "exampleTranslation": "Penelusuran literatur yang baik menjadi fondasi mutlak karya ilmiah bermutu.",
-    "notes": "Memiliki mutu tinggi dan bermanfaat.",
+    "notes": "Memiliki mutu tinggi dan bermanfaat. Kata \"Gut\" (cara baca: goot) digunakan dalam bahasa Jerman (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Bagus\".",
     "tags": [
       "kata",
       "a1",
@@ -1780,7 +1780,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Wissenschaftler müssen kontinuierlich internationale Fachliteratur und Monografien lesen.",
     "examplePhonetic": "Vees-suhn-shahft-luhr mues-suhn kohn-tee-noo-eer-leekh in-tehr-nah-tsyo-nah-luh.",
     "exampleTranslation": "Para ilmuwan harus terus-menerus membaca literatur ilmiah dan monograf riset.",
-    "notes": "Melihat dan memahami isi tulisan.",
+    "notes": "Melihat dan memahami isi tulisan. Kata \"Lesen\" (cara baca: lay-zuhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Membaca teks buku\".",
     "tags": [
       "aksi",
       "a1",
@@ -1818,7 +1818,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Im internationalen Kolloquium lernen die Doktoranden, fließend und präzise zu sprechen.",
     "examplePhonetic": "Eem in-tehr-nah-tsyo-nah-luhn kohl-loh-kvee-oom lehr-nuhn dee dohk-toh-rahn-duhn.",
     "exampleTranslation": "Di kolokium internasional para kandidat doktor berlatih berbicara fasih dan presisi.",
-    "notes": "Menyampaikan kata-kata melalui suara.",
+    "notes": "Menyampaikan kata-kata melalui suara. Kata \"Sprechen\" (cara baca: shpreh-khuhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Berbicara lisan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1856,7 +1856,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Forschungsgruppe geht nach dem Kolloquium gemeinsam in der Mensa zu Mittag essen.",
     "examplePhonetic": "Dee fohr-shoongs-groop-puh gayt nahkh daym kohl-loh-kvee-oom guh-meyn-zahm.",
     "exampleTranslation": "Kelompok riset pergi bersama makan siang di Mensa seusai seminar kolokium.",
-    "notes": "Mengonsumsi makanan ke dalam perut.",
+    "notes": "Mengonsumsi makanan ke dalam perut. Kata \"Essen\" (cara baca: ehs-suhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Makan makanan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1875,7 +1875,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Trinken Sie während anstrengender Lernphasen ausreichend kühles Mineralwasser.",
     "examplePhonetic": "Treeng-kuhn zee veh-ruhnt ahn-shtrehng-uhn-duhr lehrn-fah-zuhn ows-reye-khuhnt.",
     "exampleTranslation": "Minumlah air mineral dingin secukupnya selama sesi belajar yang melelahkan.",
-    "notes": "Meneguk zat cair penghilang dahaga.",
+    "notes": "Meneguk zat cair penghilang dahaga. Kata \"Trinken\" (cara baca: treeng-kuhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Minum air cairan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1913,7 +1913,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ich gehe jeden Morgen zu Fuß vom Wohnheim zum Institut für Informatik.",
     "examplePhonetic": "Ikh gay-huh yay-duhn mohr-guhn tsoo foos fohm vohn-heym tsoom een-stee-toot.",
     "exampleTranslation": "Saya berjalan kaki setiap pagi dari asrama menuju institut ilmu informatika.",
-    "notes": "Berangkat meninggalkan lokasi saat ini.",
+    "notes": "Berangkat meninggalkan lokasi saat ini. Kata \"Gehen\" (cara baca: gay-uhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Pergi ke suatu tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -1932,7 +1932,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hunderte hochqualifizierte Forscher kommen jährlich an die Max-Planck-Institute.",
     "examplePhonetic": "Hoon-duhr-tuh hohkh-kwah-lee-fee-tseer-tuh fohr-shuhr kohm-muhn yehr-leekh.",
     "exampleTranslation": "Ratusan peneliti bermutu tinggi datang setiap tahun ke Institut Max Planck.",
-    "notes": "Sampai di tempat yang dituju.",
+    "notes": "Sampai di tempat yang dituju. Kata \"Kommen\" (cara baca: kohm-muhn) digunakan dalam bahasa Jerman (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Datang tiba di tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -2141,7 +2141,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Apotheke mit Notdienst im Universitätsviertel hat rund um die Uhr geöffnet.",
     "examplePhonetic": "Dee ah-poh-tay-kuh meet noht-deenst eem oo-nee-vehr-zee-tayts-feer-tuhl.",
     "exampleTranslation": "Apotek siaga darurat di kawasan universitas buka melayani selama 24 jam.",
-    "notes": "Toko penyedia obat-obatan resmi.",
+    "notes": "Toko penyedia obat-obatan resmi. Kata \"Apotheke\" (cara baca: ah-poh-tay-kuh) digunakan dalam bahasa Jerman (tingkat A1, kategori Kesehatan & Tubuh) untuk menyatakan \"Apotek obat\".",
     "tags": [
       "kesehatan",
       "a1",
@@ -2217,7 +2217,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Das universitäre Hochgeschwindigkeits-Internet ermöglicht schnellen Zugriff auf Fachdatenbanken.",
     "examplePhonetic": "Dahs oo-nee-vehr-zee-teh-ruh hohkh-guh-shveen-deekh-keyts een-tehr-neht ehr-moekh-leekht.",
     "exampleTranslation": "Internet supercepat kampus memungkinkan akses instan ke basis data ilmiah.",
-    "notes": "Jaringan telekomunikasi digital global.",
+    "notes": "Jaringan telekomunikasi digital global. Kata \"Internet\" (cara baca: een-tehr-neht) digunakan dalam bahasa Jerman (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Jaringan internet\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2236,7 +2236,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Über das Smartphone können Studierende ihren aktuellen Notenspiegel direkt abrufen.",
     "examplePhonetic": "Oo-buhr dahs smaht-fohn koen-nuhn shtoo-deer-uhn-duh ee-ruhn ahk-too-ehl-luhn.",
     "exampleTranslation": "Melalui ponsel pintar mahasiswa dapat langsung mengecek transkrip nilai resmi.",
-    "notes": "Telepon genggam pintar serbaguna.",
+    "notes": "Telepon genggam pintar serbaguna. Kata \"Smartphone\" (cara baca: smaht-fohn) digunakan dalam bahasa Jerman (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Ponsel\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2388,7 +2388,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In den warmen Sommermonaten lernen viele Studierende gerne auf den grünen Campuswiesen.",
     "examplePhonetic": "In dayn vahr-muhn zohm-muhr-moh-nah-tuhn lehr-nuhn fee-luh shtoo-deer-uhn-duh.",
     "exampleTranslation": "Di bulan musim panas yang hangat banyak mahasiswa belajar di padang rumput kampus.",
-    "notes": "Suhu udara tinggi menghangatkan tubuh.",
+    "notes": "Suhu udara tinggi menghangatkan tubuh. Kata \"Warm\" (cara baca: vahrm) digunakan dalam bahasa Jerman (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Panas udaranya\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2426,7 +2426,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Der Sommer bietet die willkommene Gelegenheit für Auslandspraktika und Feldforschung.",
     "examplePhonetic": "Dehr zohm-muhr bee-tuht dee veel-kohm-muh-nuh guh-lay-guhn-heyt fuer ows-lahnts.",
     "exampleTranslation": "Musim panas menawarkan peluang berharga untuk magang dan riset lapangan.",
-    "notes": "Musim bersuhu tertinggi dalam kalender.",
+    "notes": "Musim bersuhu tertinggi dalam kalender. Kata \"Sommer\" (cara baca: zohm-muhr) digunakan dalam bahasa Jerman (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim panas\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2445,7 +2445,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Im Winter verwandelt der erste Pulverschnee die barocken Universitätsgebäude in eine Märchenkulisse.",
     "examplePhonetic": "Eem veen-tuhr fehr-vahn-duhlt dehr ehr-stuh pool-fehr-shnay dee bah-rohk-kuhn.",
     "exampleTranslation": "Di musim dingin salju pertama menyulap gedung kampus barok menjadi indah mempesona.",
-    "notes": "Musim bersuhu terendah berhawa beku.",
+    "notes": "Musim bersuhu terendah berhawa beku. Kata \"Winter\" (cara baca: veen-tuhr) digunakan dalam bahasa Jerman (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim dingin\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2464,7 +2464,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Der Englische Garten in München ist ein beliebter Erholungsort für Universitätsangehörige.",
     "examplePhonetic": "Dehr Ehng-lee-shuh Gahr-tuhn in Muen-khuhn is eyn buh-leep-tuhr ehr-hoh-loongs-ohrt.",
     "exampleTranslation": "Taman Englischer Garten di Munich adalah lokasi rekreasi favorit sivitas kampus.",
-    "notes": "Ruang terbuka hijau asri untuk santai.",
+    "notes": "Ruang terbuka hijau asri untuk santai. Kata \"Park\" (cara baca: pahrk) digunakan dalam bahasa Jerman (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Taman kampus hijau\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2578,7 +2578,7 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ein großer Gelehrter weiß: Wahre wissenschaftliche Größe zeigt sich in Bescheidenheit.",
     "examplePhonetic": "Eyn groh-ssuhr guh-lehr-tuhr veyss: vah-ruh vees-suhn-shahft-lee-khuh groes-suh.",
     "exampleTranslation": "Cendekiawan agung paham: kebesaran sejati seorang ilmuwan tercermin dalam kerendahan hati.",
-    "notes": "Makin berilmu makin santun dan tawadhu.",
+    "notes": "Makin berilmu makin santun dan tawadhu. Kata \"Wahre Größe zeigt sich in Bescheidenheit\" (cara baca: vah-ruh groes-suh tseykt meekh in buh-sheye-duhn-heyt) digunakan dalam bahasa Jerman (tingkat B2, kategori Idiom & Peribahasa) untuk menyatakan \"Padi makin berisi makin runduk\".",
     "tags": [
       "idiom",
       "b2",
@@ -2692,11 +2692,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Am Montagmorgen fängt die Schulwoche pünktlich um acht Uhr an.",
     "examplePhonetic": "Am Montagmorgen faengt die Schulwoche puenktlich um acht Uhr an.",
     "exampleTranslation": "Pada Senin pagi pekan sekolah dimulai tepat pada pukul delapan.",
-    "notes": "Hari Senin.",
+    "notes": "Hari Senin. Kata \"Montag\" (cara baca: ˈmoːntaːk) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Senin\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2711,11 +2711,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Dienstags haben die Studenten ein Physikseminar am Nachmittag.",
     "examplePhonetic": "Dienstags haben die Studenten ein Physikseminar am Nachmittag.",
     "exampleTranslation": "Setiap Selasa mahasiswa menghadiri seminar fisika di sore hari.",
-    "notes": "Hari Selasa.",
+    "notes": "Hari Selasa. Kata \"Dienstag\" (cara baca: ˈdiːnstaːk) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Selasa\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2730,11 +2730,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Am Mittwoch gibt es nach der vierten Stunde eine große Pause.",
     "examplePhonetic": "Am Mittwoch gibt es nach der vierten Stunde eine grosse Pause.",
     "exampleTranslation": "Pada hari Rabu ada jam istirahat besar setelah jam pelajaran keempat.",
-    "notes": "Hari Rabu.",
+    "notes": "Hari Rabu. Kata \"Mittwoch\" (cara baca: ˈmɪtvɔx) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Rabu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2749,11 +2749,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Diesen Donnerstag schreiben wir eine Klausur in deutscher Literatur.",
     "examplePhonetic": "Diesen Donnerstag schreiben wir eine Klausur in deutscher Literatur.",
     "exampleTranslation": "Kamis ini kami mengerjakan ujian tertulis sastra Jerman.",
-    "notes": "Hari Kamis.",
+    "notes": "Hari Kamis. Kata \"Donnerstag\" (cara baca: ˈdɔnɐstaːk) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Kamis\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2768,11 +2768,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Freitag ist der beliebteste Schultag vor dem freien Wochenende.",
     "examplePhonetic": "Freitag ist der beliebteste Schultag vor dem freien Wochenende.",
     "exampleTranslation": "Jumat adalah hari sekolah paling disukai sebelum akhir pekan bebas.",
-    "notes": "Hari Jumat.",
+    "notes": "Hari Jumat. Kata \"Freitag\" (cara baca: ˈfʁaɪ̯taːk) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jumat\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2787,11 +2787,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Am Samstag lernen viele Studierende gemeinsam in der Universitätsbibliothek.",
     "examplePhonetic": "Am Samstag lernen viele Studierende gemeinsam in der Universitaetsbibliothek.",
     "exampleTranslation": "Pada hari Sabtu banyak mahasiswa belajar bersama di perpustakaan universitas.",
-    "notes": "Hari Sabtu (auch: Sonnabend).",
+    "notes": "Hari Sabtu (auch: Sonnabend). Kata \"Samstag\" (cara baca: ˈzamstaːk) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Sabtu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2806,11 +2806,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Am Sonntag bleibt die gesamte Schule geschlossen.",
     "examplePhonetic": "Am Sonntag bleibt die gesamte Schule geschlossen.",
     "exampleTranslation": "Pada hari Minggu seluruh sekolah tetap tutup.",
-    "notes": "Hari Minggu.",
+    "notes": "Hari Minggu. Kata \"Sonntag\" (cara baca: ˈzɔntaːk) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Minggu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2827,9 +2827,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jadwal pelajaran baru kami memuat banyak mata pelajaran yang menarik.",
     "notes": "Jadwal pelajaran sekolah atau jadwal kuliah (Vorlesungsverzeichnis).",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -2844,11 +2844,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "An einem gewöhnlichen Schultag hat sie sechs Stunden Unterricht.",
     "examplePhonetic": "An einem gewoehnlichen Schultag hat sie sechs Stunden Unterricht.",
     "exampleTranslation": "Pada hari sekolah biasa dia mengikuti enam jam pelajaran.",
-    "notes": "Hari sekolah atau hari kerja (Werktag).",
+    "notes": "Hari sekolah atau hari kerja (Werktag). Kata \"Schultag\" (cara baca: ˈʃuːltaːk) digunakan dalam bahasa Jerman (tingkat A2, kategori Waktu & Hari Sekolah) untuk menyatakan \"Hari Kerja\".",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2863,11 +2863,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Am Wochenende erholen sich Schüler und bereiten Hausarbeiten vor.",
     "examplePhonetic": "Am Wochenende erholen sich Schueler und bereiten Hausarbeiten vor.",
     "exampleTranslation": "Di akhir pekan para siswa beristirahat dan menyiapkan tugas makalah.",
-    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "notes": "Akhir pekan (Sabtu & Minggu). Kata \"Wochenende\" (cara baca: ˈvɔxn̩ˌʔɛndə) digunakan dalam bahasa Jerman (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -2884,9 +2884,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Matematika adalah fondasi penting bagi semua ilmu alam.",
     "notes": "Mata pelajaran matematika (oft abgekürzt: Mathe).",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2901,11 +2901,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Im Physikunterricht behandeln wir die Wärmelehre und Thermodynamik.",
     "examplePhonetic": "Im Physikunterricht behandeln wir die Waermelehre und Thermodynamik.",
     "exampleTranslation": "Dalam pelajaran fisika kita membahas teori panas dan termodinamika.",
-    "notes": "Mata pelajaran fisika.",
+    "notes": "Mata pelajaran fisika. Kata \"Physik\" (cara baca: fyˈziːk) digunakan dalam bahasa Jerman (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Fisika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2920,11 +2920,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Schüler führen im Chemielabor chemische Reaktionen durch.",
     "examplePhonetic": "Die Schueler fuehren im Chemielabor chemische Reaktionen durch.",
     "exampleTranslation": "Para siswa melakukan reaksi kimia di laboratorium kimia.",
-    "notes": "Mata pelajaran kimia.",
+    "notes": "Mata pelajaran kimia. Kata \"Chemie\" (cara baca: çeˈmiː) digunakan dalam bahasa Jerman (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Kimia\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2939,11 +2939,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In Biologie erforschen wir die Genetik und Ökologie von Organismen.",
     "examplePhonetic": "In Biologie erforschen wir die Genetik und Oekologie von Organismen.",
     "exampleTranslation": "Dalam biologi kita meneliti genetika dan ekologi organisme.",
-    "notes": "Mata pelajaran biologi (oft: Bio).",
+    "notes": "Mata pelajaran biologi (oft: Bio). Kata \"Biologie\" (cara baca: bioloˈɡiː) digunakan dalam bahasa Jerman (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Biologi\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2958,11 +2958,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Das Fach Geschichte vermittelt ein tiefes Verständnis für die Vergangenheit.",
     "examplePhonetic": "Das Fach Geschichte vermittelt ein tiefes Verstaendnis fuer die Vergangenheit.",
     "exampleTranslation": "Mata pelajaran sejarah memberikan pemahaman mendalam tentang masa lalu.",
-    "notes": "Mata pelajaran sejarah.",
+    "notes": "Mata pelajaran sejarah. Kata \"Geschichte\" (cara baca: ɡəˈʃɪçtə) digunakan dalam bahasa Jerman (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sejarah\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2979,9 +2979,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Dalam geografi kita menganalisis peta wilayah dan zona iklim.",
     "notes": "Mata pelajaran geografi (auch: Erdkunde).",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2996,11 +2996,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Klassische Werke von Goethe und Schiller gehören zur deutschen Literatur.",
     "examplePhonetic": "Klassische Werke von Goethe und Schiller gehoeren zur deutschen Literatur.",
     "exampleTranslation": "Karya-karya klasik Goethe dan Schiller tergolong dalam sastra Jerman.",
-    "notes": "Sastra dan literatur bahasa.",
+    "notes": "Sastra dan literatur bahasa. Kata \"Literatur\" (cara baca: litəʁaˈtuːɐ̯) digunakan dalam bahasa Jerman (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sastra & Bahasa\".",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3015,11 +3015,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Das Studium der Informatik vermittelt Programmiersprachen und Softwarearchitektur.",
     "examplePhonetic": "Das Studium der Informatik vermittelt Programmiersprachen und Softwarearchitektur.",
     "exampleTranslation": "Studi informatika mengajarkan bahasa pemrograman dan arsitektur perangkat lunak.",
-    "notes": "Ilmu komputer / informatika.",
+    "notes": "Ilmu komputer / informatika. Kata \"Informatik\" (cara baca: ɪnfɔʁˈmaːtɪk) digunakan dalam bahasa Jerman (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3034,11 +3034,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Er hat sich an der Fakultät für Wirtschaftswissenschaften immatrikuliert.",
     "examplePhonetic": "Er hat sich an der Fakultaet fuer Wirtschaftswissenschaften immatrikuliert.",
     "exampleTranslation": "Dia mendaftarkan diri di fakultas ilmu ekonomi.",
-    "notes": "Ilmu ekonomi (VWL / BWL).",
+    "notes": "Ilmu ekonomi (VWL / BWL). Kata \"Wirtschaftswissenschaften\" (cara baca: ˈvɪʁtʃaftsˌvɪsn̩ʃaftn̩) digunakan dalam bahasa Jerman (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Ekonomi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3053,11 +3053,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Philosophie regt zum selbstständigen und erkenntnisreichen Denken an.",
     "examplePhonetic": "Philosophie regt zum selbstaendigen und erkenntnisreichen Denken an.",
     "exampleTranslation": "Filsafat merangsang pemikiran yang mandiri dan kaya wawasan.",
-    "notes": "Filsafat.",
+    "notes": "Filsafat. Kata \"Philosophie\" (cara baca: filozoˈfiː) digunakan dalam bahasa Jerman (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Filsafat\".",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3072,11 +3072,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Im Fach bildende Kunst erlernen Schüler Malerei und Skulptur.",
     "examplePhonetic": "Im Fach bildende Kunst erlernen Schueler Malerei und Skulptur.",
     "exampleTranslation": "Dalam mata pelajaran seni rupa siswa mempelajari seni lukis dan patung.",
-    "notes": "Seni rupa / kesenian (oft: Kunst).",
+    "notes": "Seni rupa / kesenian (oft: Kunst). Kata \"Bildende Kunst\" (cara baca: ˈbɪldndə kʊnst) digunakan dalam bahasa Jerman (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Seni Rupa & Kesenian\".",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3093,9 +3093,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Dalam pelajaran penjasorkes/olahraga siswa melatih daya tahan dan kerja sama tim.",
     "notes": "Pendidikan jasmani & olahraga (sering disingkat Sport).",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3110,11 +3110,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ein Medizinstudium erfordert ein sehr gutes Abitur und viel Fleiß.",
     "examplePhonetic": "Ein Medizinstudium erfordert ein sehr gutes Abitur und viel Fleiss.",
     "exampleTranslation": "Kuliah kedokteran membutuhkan nilai Abitur yang sangat baik dan ketekunan tinggi.",
-    "notes": "Ilmu kedokteran.",
+    "notes": "Ilmu kedokteran. Kata \"Medizin\" (cara baca: mediˈtsiːn) digunakan dalam bahasa Jerman (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Kedokteran\".",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3129,11 +3129,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Jurastudenten studieren Rechtswissenschaft und bereiten sich auf das Staatsexamen vor.",
     "examplePhonetic": "Jurastudenten studieren Rechtswissenschaft und bereiten sich auf das Staatsexamen vor.",
     "exampleTranslation": "Mahasiswa hukum mempelajari ilmu hukum dan mempersiapkan diri untuk ujian negara.",
-    "notes": "Ilmu hukum (sering disebut Jura).",
+    "notes": "Ilmu hukum (sering disebut Jura). Kata \"Rechtswissenschaft\" (cara baca: ˈʁɛçtsvɪsn̩ʃaft) digunakan dalam bahasa Jerman (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3148,11 +3148,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Deutschland genießt weltweites Ansehen in den Ingenieurwissenschaften.",
     "examplePhonetic": "Deutschland geniesst weltweites Ansehen in den Ingenieurwissenschaften.",
     "exampleTranslation": "Jerman menikmati reputasi kelas dunia di bidang ilmu teknik dan rekayasa.",
-    "notes": "Teknik dan rekayasa (engineering).",
+    "notes": "Teknik dan rekayasa (engineering). Kata \"Ingenieurwissenschaften\" (cara baca: ɪnʒeˈnjøːɐ̯vɪsn̩ʃaftn̩) digunakan dalam bahasa Jerman (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Teknik & Rekayasa\".",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3169,9 +3169,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ruang kelas dilengkapi dengan meja modern dan proyektor.",
     "notes": "Ruang kelas sekolah (Hörsaal untuk kampus).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3186,11 +3186,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "In der Universitätsbibliothek herrscht absolute Ruhe.",
     "examplePhonetic": "In der Universitaetsbibliothek herrscht absolute Ruhe.",
     "exampleTranslation": "Di perpustakaan universitas berlaku keheningan mutlak.",
-    "notes": "Perpustakaan (oft: UB).",
+    "notes": "Perpustakaan (oft: UB). Kata \"Bibliothek\" (cara baca: biblioˈteːk) digunakan dalam bahasa Jerman (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Perpustakaan\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3205,11 +3205,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Studenten dürfen das Labor nur mit Schutzkleidung betreten.",
     "examplePhonetic": "Die Studenten duerfen das Labor nur mit Schutzkleidung betreten.",
     "exampleTranslation": "Mahasiswa hanya boleh memasuki laboratorium dengan pakaian pelindung.",
-    "notes": "Laboratorium sains (Laboratorium).",
+    "notes": "Laboratorium sains (Laboratorium). Kata \"Labor\" (cara baca: laˈboːɐ̯) digunakan dalam bahasa Jerman (tingkat A2, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Sains\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3226,9 +3226,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kuliah pengantar berlangsung di auditorium / ruang kuliah terbesar di universitas.",
     "notes": "Auditorium kuliah / aula besar (auch: Aula).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3243,11 +3243,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Der Klassensprecher klopfte höflich an die Tür des Lehrerzimmers.",
     "examplePhonetic": "Der Klassensprecher klopfte hoeflich an die Tuer des Lehrerzimmers.",
     "exampleTranslation": "Ketua kelas mengetuk pintu ruang guru dengan sopan.",
-    "notes": "Ruang guru sekolah / ruang dosen.",
+    "notes": "Ruang guru sekolah / ruang dosen. Kata \"Lehrerzimmer\" (cara baca: ˈleːʁɐˌtsɪmɐ) digunakan dalam bahasa Jerman (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Ruang Guru\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3264,9 +3264,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Rektorat terletak di gedung utama universitas yang megah.",
     "notes": "Ruang rektor / biro rektorat atau ruang kepala sekolah (Schulleiterbüro).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3283,9 +3283,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Di kantin kampus (mensa) mahasiswa mendapatkan makan siang hangat dan terjangkau.",
     "notes": "Kantin universitas (Mensa) atau kantin sekolah (Kantine).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3302,9 +3302,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Turnamen bola basket berlangsung di gimnasium / aula olahraga yang baru dibangun.",
     "notes": "Gimnasium / aula gedung olahraga (Turnhalle).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3321,9 +3321,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Asrama mahasiswa menawarkan kamar terjangkau tepat di dalam kampus.",
     "notes": "Asrama mahasiswa / tempat tinggal siswa (Internat).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3340,9 +3340,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Barang siapa merasa tidak sehat di sekolah akan dibawa ke ruang UKS / klinik.",
     "notes": "Ruang UKS sekolah / klinik kampus (Sanitätsraum).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3357,11 +3357,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Der Programmierkurs trifft sich wöchentlich im Computerraum.",
     "examplePhonetic": "Der Programmierkurs trifft sich woechentlich im Computerraum.",
     "exampleTranslation": "Kelas pemrograman bertemu setiap minggu di laboratorium komputer.",
-    "notes": "Laboratorium komputer / ruang PC.",
+    "notes": "Laboratorium komputer / ruang PC. Kata \"Computerraum\" (cara baca: kɔmˈpjuːtɐˌʁaʊ̯m) digunakan dalam bahasa Jerman (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Komputer\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3378,9 +3378,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Surat keterangan nilai harus diambil di bagian tata usaha / kantor ujian.",
     "notes": "Bagian tata usaha akademik / kantor ujian dan administrasi (Sekretariat).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3397,9 +3397,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Tolong buka buku teks kalian di halaman empat puluh lima.",
     "notes": "Buku teks / buku paket pelajaran (Schulbuch).",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3414,11 +3414,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Die Lehrerin schreibt die Vokabeln mit weißer Kreide an die Schultafel.",
     "examplePhonetic": "Die Lehrerin schreibt die Vokabeln mit weisser Kreide an die Schultafel.",
     "exampleTranslation": "Ibu guru menulis kosakata dengan kapur putih di papan tulis sekolah.",
-    "notes": "Papan tulis (Tafel / Whiteboard).",
+    "notes": "Papan tulis (Tafel / Whiteboard). Kata \"Schultafel\" (cara baca: ˈʃuːlˌtaːfl̩) digunakan dalam bahasa Jerman (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Papan Tulis\".",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3433,11 +3433,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Vergesst nicht, eure Hausaufgabe bis morgen früh hochzuladen.",
     "examplePhonetic": "Vergesst nicht, eure Hausaufgabe bis morgen frueh hochzuladen.",
     "exampleTranslation": "Jangan lupa untuk mengunggah pekerjaan rumah (PR) Anda sebelum besok pagi.",
-    "notes": "Pekerjaan rumah / tugas rumah (PR).",
+    "notes": "Pekerjaan rumah / tugas rumah (PR). Kata \"Hausaufgabe\" (cara baca: ˈhaʊ̯sʔaʊ̯fˌɡaːbə) digunakan dalam bahasa Jerman (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Tugas Rumah\".",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3454,9 +3454,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Semua mahasiswa bersiap dengan tekun untuk ujian tertulis.",
     "notes": "Ujian tertulis / evaluasi semester (Prüfung).",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3471,11 +3471,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "An den meisten öffentlichen Schulen in Deutschland gibt es keine Schuluniform.",
     "examplePhonetic": "An den meisten oeffentlichen Schulen in Deutschland gibt es keine Schuluniform.",
     "exampleTranslation": "Di sebagian besar sekolah negeri di Jerman tidak ada seragam sekolah.",
-    "notes": "Seragam sekolah.",
+    "notes": "Seragam sekolah. Kata \"Schuluniform\" (cara baca: ˈʃuːlʔuniˌfɔʁm) digunakan dalam bahasa Jerman (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Seragam Sekolah\".",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3492,9 +3492,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Dengan kartu mahasiswa (KTM) seseorang dapat menggunakan tiket transportasi umum.",
     "notes": "Kartu mahasiswa (KTM) atau kartu pelajar (Schülerausweis).",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3509,11 +3509,11 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Sie erhielt ein renommiertes Stipendium für ihr Auslandssemester.",
     "examplePhonetic": "Sie erhielt ein renommiertes Stipendium fuer ihr Auslandssemester.",
     "exampleTranslation": "Dia menerima beasiswa bergengsi untuk satu semester belajar di luar negeri.",
-    "notes": "Beasiswa pendidikan.",
+    "notes": "Beasiswa pendidikan. Kata \"Stipendium\" (cara baca: ʃtiˈpɛndiʊm) digunakan dalam bahasa Jerman (tingkat A2, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Beasiswa Pendidikan\".",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3530,9 +3530,9 @@ export const GERMAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Pada upacara wisuda kelulusan yang khidmat, para lulusan menerima ijazah mereka.",
     "notes": "Upacara kelulusan / wisuda (Graduierungsfeier).",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];

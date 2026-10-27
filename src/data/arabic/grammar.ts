@@ -12,24 +12,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kalimat nominal dalam bahasa Arab yang diawali oleh kata benda definit (Mubtada') dan diterangkan oleh Khabar.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar\" (الجملة الاسمية (المبتدأ والخبر)) berfungsi untuk: kalimat nominal dalam bahasa Arab yang diawali oleh kata benda definit (Mubtada') dan diterangkan oleh Khabar. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ — Mahasiswa itu rajin dalam studinya."
+          "Rumus utama: Mubtada' (Marfu') + Khabar (Marfu')",
+          "Contoh 1: الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ (Al-thaālibu mujtahidun fiy diraāsatihi) — Mahasiswa itu rajin dalam studinya."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Mubtada' (Marfu') + Khabar (Marfu') diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mubtada' (Marfu') + Khabar (Marfu')\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Khabar berstatus marfu' dengan harakat dhammah tanwin.",
         "ruleList": [
-          "الْجَامِعَةُ كَبِيرَةٌ وَجَمِيلَةٌ — Universitas itu besar dan indah."
+          "Polanya: Mubtada' (Marfu') + Khabar (Marfu')",
+          "Contoh 2: الْجَامِعَةُ كَبِيرَةٌ وَجَمِيلَةٌ (Al-jaāmi'aahu kabiyraahun wajamiylaahun) — Universitas itu besar dan indah."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "الْعِلْمُ نُورٌ فِي قَلْبِ الْمُؤْمِنِ — Ilmu adalah cahaya di dalam hati seorang mukmin."
+          "Contoh 3: الْعِلْمُ نُورٌ فِي قَلْبِ الْمُؤْمِنِ (Al-'ilmu nuwrun fiy qalbi al-muu'mini) — Ilmu adalah cahaya di dalam hati seorang mukmin.",
+          "Hindari kesalahan: \"الطالبُ مجتهداً\" → gunakan bentuk yang benar: \"الطالبُ مجتهدٌ\"."
         ]
       }
     ],
@@ -37,19 +40,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-1-ex-1",
         "native": "الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ",
-        "phonetic": "",
+        "phonetic": "Al-thaālibu mujtahidun fiy diraāsatihi",
         "translationId": "Mahasiswa itu rajin dalam studinya."
       },
       {
         "id": "ar-gram-1-ex-2",
         "native": "الْجَامِعَةُ كَبِيرَةٌ وَجَمِيلَةٌ",
-        "phonetic": "",
+        "phonetic": "Al-jaāmi'aahu kabiyraahun wajamiylaahun",
         "translationId": "Universitas itu besar dan indah."
       },
       {
         "id": "ar-gram-1-ex-3",
         "native": "الْعِلْمُ نُورٌ فِي قَلْبِ الْمُؤْمِنِ",
-        "phonetic": "",
+        "phonetic": "Al-'ilmu nuwrun fiy qalbi al-muu'mini",
         "translationId": "Ilmu adalah cahaya di dalam hati seorang mukmin."
       }
     ],
@@ -65,7 +68,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar\" (Mubtada' (Marfu') + Khabar (Marfu')) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-1-pg-1",
@@ -81,7 +84,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah Universitas الملك Saud."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ\" berarti \"Mahasiswa itu rajin dalam studinya.\"."
+        "explanation": "Kalimat \"الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ\" (dibaca: Al-thaālibu mujtahidun fiy diraāsatihi) berarti \"Mahasiswa itu rajin dalam studinya.\". Kalimat ini menggunakan pola \"Mubtada' (Marfu') + Khabar (Marfu')\" (Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar) yang berfungsi untuk kalimat nominal dalam bahasa Arab yang diawali oleh kata benda definit (Mubtada') dan diterangkan oleh Khabar."
       },
       {
         "id": "q-ar-gram-1-pg-2",
@@ -97,7 +100,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"الْجَامِعَةُ كَبِيرَةٌ وَجَمِيلَةٌ\" berarti \"Universitas itu besar dan indah.\"."
+        "explanation": "Kalimat \"الْجَامِعَةُ كَبِيرَةٌ وَجَمِيلَةٌ\" (dibaca: Al-jaāmi'aahu kabiyraahun wajamiylaahun) berarti \"Universitas itu besar dan indah.\". Kalimat ini menggunakan pola \"Mubtada' (Marfu') + Khabar (Marfu')\" (Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar) yang berfungsi untuk kalimat nominal dalam bahasa Arab yang diawali oleh kata benda definit (Mubtada') dan diterangkan oleh Khabar."
       },
       {
         "id": "q-ar-gram-1-pg-3",
@@ -113,7 +116,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu telah hadir ke ruang kuliah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"الْعِلْمُ نُورٌ فِي قَلْبِ الْمُؤْمِنِ\" berarti \"Ilmu adalah cahaya di dalam hati seorang mukmin.\"."
+        "explanation": "Kalimat \"الْعِلْمُ نُورٌ فِي قَلْبِ الْمُؤْمِنِ\" (dibaca: Al-'ilmu nuwrun fiy qalbi al-muu'mini) berarti \"Ilmu adalah cahaya di dalam hati seorang mukmin.\". Kalimat ini menggunakan pola \"Mubtada' (Marfu') + Khabar (Marfu')\" (Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar) yang berfungsi untuk kalimat nominal dalam bahasa Arab yang diawali oleh kata benda definit (Mubtada') dan diterangkan oleh Khabar."
       },
       {
         "id": "q-ar-gram-1-pg-4",
@@ -133,7 +136,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-1-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar\"?",
         "options": [
           "الْجَامِعَةُ كَبِيرَةٌ وَجَمِيلَةٌ — Universitas itu besar dan indah.",
           "هَذِهِ جَامِعَةُ الْمَلِكِ سَعُودٍ — Ini adalah Universitas الملك Saud.",
@@ -147,7 +150,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-1-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar\"?",
         "options": [
           "هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ — Ini adalah buku yang bermanfaat bagi para mahasiswa.",
           "الْعِلْمُ نُورٌ فِي قَلْبِ الْمُؤْمِنِ — Ilmu adalah cahaya di dalam hati seorang mukmin.",
@@ -161,7 +164,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-1-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -396,7 +399,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah buku yang bermanfaat bagi para mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ\" berarti \"Mahasiswa itu rajin dalam studinya.\"."
+        "explanation": "Kalimat \"الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ\" (dibaca: Al-thaālibu mujtahidun fiy diraāsatihi) berarti \"Mahasiswa itu rajin dalam studinya.\". Kalimat ini menggunakan pola \"Mubtada' (Marfu') + Khabar (Marfu')\" (Kalimat Nominal (الجملة الاسمية): Mubtada' dan Khabar) yang berfungsi untuk kalimat nominal dalam bahasa Arab yang diawali oleh kata benda definit (Mubtada') dan diterangkan oleh Khabar."
       },
       {
         "id": "q-ar-gram-1-bb-2",
@@ -471,24 +474,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata penunjuk dekat (هذا untuk maskulin, هذه untuk feminin) dan penunjuk jauh (ذلك, تلك).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)\" (أسماء الإشارة للقريب والبعيد) berfungsi untuk: kata penunjuk dekat (هذا untuk maskulin, هذه untuk feminin) dan penunjuk jauh (ذلك, تلك). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ — Ini adalah buku yang bermanfaat bagi para mahasiswa."
+          "Rumus utama: Isim Isyarah + Kata Benda (Al-)",
+          "Contoh 1: هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ (Hadzaā kitaābun mufiydun lilthulaābi) — Ini adalah buku yang bermanfaat bagi para mahasiswa."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Isim Isyarah + Kata Benda (Al-) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Isim Isyarah + Kata Benda (Al-)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata جامعة bergender feminin (muannats) sehingga harus memakai هذه.",
         "ruleList": [
-          "هَذِهِ جَامِعَةُ الْمَلِكِ سَعُودٍ — Ini adalah Universitas الملك Saud."
+          "Polanya: Isim Isyarah + Kata Benda (Al-)",
+          "Contoh 2: هَذِهِ جَامِعَةُ الْمَلِكِ سَعُودٍ (Hadzihi jaāmi'aahu al-maliki sa'uwdin) — Ini adalah Universitas الملك Saud."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "ذَلِكَ الْأُسْتَاذُ يُدَرِّسُ اللُّغَةَ الْعَرَبِيَّةَ — Profesor itu mengajar bahasa Arab."
+          "Contoh 3: ذَلِكَ الْأُسْتَاذُ يُدَرِّسُ اللُّغَةَ الْعَرَبِيَّةَ (Dzalika al-austaādzu yudarisu al-lughaaha al-'arabiyaaha) — Profesor itu mengajar bahasa Arab.",
+          "Hindari kesalahan: \"هذا جامعة\" → gunakan bentuk yang benar: \"هذه جامعة\"."
         ]
       }
     ],
@@ -496,19 +502,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-2-ex-1",
         "native": "هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ",
-        "phonetic": "",
+        "phonetic": "Hadzaā kitaābun mufiydun lilthulaābi",
         "translationId": "Ini adalah buku yang bermanfaat bagi para mahasiswa."
       },
       {
         "id": "ar-gram-2-ex-2",
         "native": "هَذِهِ جَامِعَةُ الْمَلِكِ سَعُودٍ",
-        "phonetic": "",
+        "phonetic": "Hadzihi jaāmi'aahu al-maliki sa'uwdin",
         "translationId": "Ini adalah Universitas الملك Saud."
       },
       {
         "id": "ar-gram-2-ex-3",
         "native": "ذَلِكَ الْأُسْتَاذُ يُدَرِّسُ اللُّغَةَ الْعَرَبِيَّةَ",
-        "phonetic": "",
+        "phonetic": "Dzalika al-austaādzu yudarisu al-lughaaha al-'arabiyaaha",
         "translationId": "Profesor itu mengajar bahasa Arab."
       }
     ],
@@ -524,7 +530,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)\" (Isim Isyarah + Kata Benda (Al-)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-2-pg-1",
@@ -540,7 +546,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Fatimah telah membaca buku itu di perpustakaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ\" berarti \"Ini adalah buku yang bermanfaat bagi para mahasiswa.\"."
+        "explanation": "Kalimat \"هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ\" (dibaca: Hadzaā kitaābun mufiydun lilthulaābi) berarti \"Ini adalah buku yang bermanfaat bagi para mahasiswa.\". Kalimat ini menggunakan pola \"Isim Isyarah + Kata Benda (Al-)\" (Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)) yang berfungsi untuk kata penunjuk dekat (هذا untuk maskulin, هذه untuk feminin) dan penunjuk jauh (ذلك, تلك)."
       },
       {
         "id": "q-ar-gram-2-pg-2",
@@ -556,7 +562,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu sedang menulis tesis magister."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"هَذِهِ جَامِعَةُ الْمَلِكِ سَعُودٍ\" berarti \"Ini adalah Universitas الملك Saud.\"."
+        "explanation": "Kalimat \"هَذِهِ جَامِعَةُ الْمَلِكِ سَعُودٍ\" (dibaca: Hadzihi jaāmi'aahu al-maliki sa'uwdin) berarti \"Ini adalah Universitas الملك Saud.\". Kalimat ini menggunakan pola \"Isim Isyarah + Kata Benda (Al-)\" (Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)) yang berfungsi untuk kata penunjuk dekat (هذا untuk maskulin, هذه untuk feminin) dan penunjuk jauh (ذلك, تلك)."
       },
       {
         "id": "q-ar-gram-2-pg-3",
@@ -572,7 +578,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu mengajar bahasa Arab."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ذَلِكَ الْأُسْتَاذُ يُدَرِّسُ اللُّغَةَ الْعَرَبِيَّةَ\" berarti \"Profesor itu mengajar bahasa Arab.\"."
+        "explanation": "Kalimat \"ذَلِكَ الْأُسْتَاذُ يُدَرِّسُ اللُّغَةَ الْعَرَبِيَّةَ\" (dibaca: Dzalika al-austaādzu yudarisu al-lughaaha al-'arabiyaaha) berarti \"Profesor itu mengajar bahasa Arab.\". Kalimat ini menggunakan pola \"Isim Isyarah + Kata Benda (Al-)\" (Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)) yang berfungsi untuk kata penunjuk dekat (هذا untuk maskulin, هذه untuk feminin) dan penunjuk jauh (ذلك, تلك)."
       },
       {
         "id": "q-ar-gram-2-pg-4",
@@ -592,7 +598,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-2-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)\"?",
         "options": [
           "قَرَأَتْ فَاطِمَةُ الْكِتَابَ فِي الْمَكْتَبَةِ — Fatimah telah membaca buku itu di perpustakaan.",
           "هَذِهِ جَامِعَةُ الْمَلِكِ سَعُودٍ — Ini adalah Universitas الملك Saud.",
@@ -606,7 +612,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-2-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)\"?",
         "options": [
           "دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ — Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh.",
           "حَضَرَ الْأُسْتَاذُ إِلَى قَاعَةِ الْمُحَاضَرَةِ — Profesor itu telah hadir ke ruang kuliah.",
@@ -620,7 +626,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-2-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -861,7 +867,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah buku yang bermanfaat bagi para mahasiswa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ\" berarti \"Ini adalah buku yang bermanfaat bagi para mahasiswa.\"."
+        "explanation": "Kalimat \"هَذَا كِتَابٌ مُفِيدٌ لِلطُّلَّابِ\" (dibaca: Hadzaā kitaābun mufiydun lilthulaābi) berarti \"Ini adalah buku yang bermanfaat bagi para mahasiswa.\". Kalimat ini menggunakan pola \"Isim Isyarah + Kata Benda (Al-)\" (Kata Tunjuk Isim Isyarah (هذا, هذه, ذلك, تلك)) yang berfungsi untuk kata penunjuk dekat (هذا untuk maskulin, هذه untuk feminin) dan penunjuk jauh (ذلك, تلك)."
       },
       {
         "id": "q-ar-gram-2-bb-2",
@@ -936,24 +942,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kalimat verbal diawali oleh kata kerja masa lampau (Fi'il Madhi) dan pelakunya (Fa'il).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il\" (الجملة الفعلية (الفعل الماضي والفاعل)) berfungsi untuk: kalimat verbal diawali oleh kata kerja masa lampau (Fi'il Madhi) dan pelakunya (Fa'il). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ — Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh."
+          "Rumus utama: Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih",
+          "Contoh 1: دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ (Darasa al-thaālibu 'ilma al-lughaahi bijidin) — Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Fa'il (pelaku) wajib marfu' dengan dhammah.",
         "ruleList": [
-          "قَرَأَتْ فَاطِمَةُ الْكِتَابَ فِي الْمَكْتَبَةِ — Fatimah telah membaca buku itu di perpustakaan."
+          "Polanya: Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih",
+          "Contoh 2: قَرَأَتْ فَاطِمَةُ الْكِتَابَ فِي الْمَكْتَبَةِ (Qaraaat faāthimaahu al-kitaāba fiy al-maktabaahi) — Fatimah telah membaca buku itu di perpustakaan."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "حَضَرَ الْأُسْتَاذُ إِلَى قَاعَةِ الْمُحَاضَرَةِ — Profesor itu telah hadir ke ruang kuliah."
+          "Contoh 3: حَضَرَ الْأُسْتَاذُ إِلَى قَاعَةِ الْمُحَاضَرَةِ (Ḥadhara al-austaādzu iilaā qaā'aahi al-muḥaādharaahi) — Profesor itu telah hadir ke ruang kuliah.",
+          "Hindari kesalahan: \"درس الطالبَ\" → gunakan bentuk yang benar: \"درس الطالبُ\"."
         ]
       }
     ],
@@ -961,19 +970,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-3-ex-1",
         "native": "دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ",
-        "phonetic": "",
+        "phonetic": "Darasa al-thaālibu 'ilma al-lughaahi bijidin",
         "translationId": "Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh."
       },
       {
         "id": "ar-gram-3-ex-2",
         "native": "قَرَأَتْ فَاطِمَةُ الْكِتَابَ فِي الْمَكْتَبَةِ",
-        "phonetic": "",
+        "phonetic": "Qaraaat faāthimaahu al-kitaāba fiy al-maktabaahi",
         "translationId": "Fatimah telah membaca buku itu di perpustakaan."
       },
       {
         "id": "ar-gram-3-ex-3",
         "native": "حَضَرَ الْأُسْتَاذُ إِلَى قَاعَةِ الْمُحَاضَرَةِ",
-        "phonetic": "",
+        "phonetic": "Ḥadhara al-austaādzu iilaā qaā'aahi al-muḥaādharaahi",
         "translationId": "Profesor itu telah hadir ke ruang kuliah."
       }
     ],
@@ -989,7 +998,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il\" (Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-3-pg-1",
@@ -1005,7 +1014,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kami memahami kaidah-kaidah nahwu dengan baik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ\" berarti \"Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh.\"."
+        "explanation": "Kalimat \"دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ\" (dibaca: Darasa al-thaālibu 'ilma al-lughaahi bijidin) berarti \"Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh.\". Kalimat ini menggunakan pola \"Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih\" (Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il) yang berfungsi untuk kalimat verbal diawali oleh kata kerja masa lampau (Fi'il Madhi) dan pelakunya (Fa'il)."
       },
       {
         "id": "q-ar-gram-3-pg-2",
@@ -1021,7 +1030,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Fatimah telah membaca buku itu di perpustakaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"قَرَأَتْ فَاطِمَةُ الْكِتَابَ فِي الْمَكْتَبَةِ\" berarti \"Fatimah telah membaca buku itu di perpustakaan.\"."
+        "explanation": "Kalimat \"قَرَأَتْ فَاطِمَةُ الْكِتَابَ فِي الْمَكْتَبَةِ\" (dibaca: Qaraaat faāthimaahu al-kitaāba fiy al-maktabaahi) berarti \"Fatimah telah membaca buku itu di perpustakaan.\". Kalimat ini menggunakan pola \"Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih\" (Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il) yang berfungsi untuk kalimat verbal diawali oleh kata kerja masa lampau (Fi'il Madhi) dan pelakunya (Fa'il)."
       },
       {
         "id": "q-ar-gram-3-pg-3",
@@ -1037,7 +1046,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan universitas itu buka setiap hari."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"حَضَرَ الْأُسْتَاذُ إِلَى قَاعَةِ الْمُحَاضَرَةِ\" berarti \"Profesor itu telah hadir ke ruang kuliah.\"."
+        "explanation": "Kalimat \"حَضَرَ الْأُسْتَاذُ إِلَى قَاعَةِ الْمُحَاضَرَةِ\" (dibaca: Ḥadhara al-austaādzu iilaā qaā'aahi al-muḥaādharaahi) berarti \"Profesor itu telah hadir ke ruang kuliah.\". Kalimat ini menggunakan pola \"Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih\" (Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il) yang berfungsi untuk kalimat verbal diawali oleh kata kerja masa lampau (Fi'il Madhi) dan pelakunya (Fa'il)."
       },
       {
         "id": "q-ar-gram-3-pg-4",
@@ -1057,7 +1066,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-3-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il\"?",
         "options": [
           "نَحْنُ نَفْهَمُ قَوَاعِدَ النَّحْوِ جَيِّدًا — Kami memahami kaidah-kaidah nahwu dengan baik.",
           "كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ — Buku milik mahasiswa itu berada di atas meja.",
@@ -1071,7 +1080,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-3-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il\"?",
         "options": [
           "يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ — Peneliti itu sedang menulis tesis magister.",
           "تَدْرُسُ عَائِشَةُ فِي كُلِّيَّةِ الطِّبِّ — Aisyah sedang berkuliah di fakultas kedokteran.",
@@ -1085,7 +1094,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-3-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -1330,7 +1339,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu sedang menulis tesis magister."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ\" berarti \"Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh.\"."
+        "explanation": "Kalimat \"دَرَسَ الطَّالِبُ عِلْمَ اللُّغَةِ بِجِدٍّ\" (dibaca: Darasa al-thaālibu 'ilma al-lughaahi bijidin) berarti \"Mahasiswa itu telah mempelajari ilmu linguistik dengan sungguh-sungguh.\". Kalimat ini menggunakan pola \"Fi'il Madhi + Fa'il (Marfu') + Maf'ul Bih\" (Kalimat Verbal (الجملة الفعلية): Fi'il Madhi dan Fa'il) yang berfungsi untuk kalimat verbal diawali oleh kata kerja masa lampau (Fi'il Madhi) dan pelakunya (Fa'il)."
       },
       {
         "id": "q-ar-gram-3-bb-2",
@@ -1405,24 +1414,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan tindakan yang sedang berlangsung atau kebiasaan dengan awalan huruf anaitu (أ - ن - ي - ت).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)\" (تصريف الفعل المضارع وأحرفه (أ - ن - ي - ت)) berfungsi untuk: menyatakan tindakan yang sedang berlangsung atau kebiasaan dengan awalan huruf anaitu (أ - ن - ي - ت). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ — Peneliti itu sedang menulis tesis magister."
+          "Rumus utama: Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang",
+          "Contoh 1: يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ (Yaktubu al-baāḥitsu risaālaaha al-maājistiyri) — Peneliti itu sedang menulis tesis magister."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Fi'il mudhari' dasar diakhiri harakat dhammah (marfu').",
         "ruleList": [
-          "نَحْنُ نَفْهَمُ قَوَاعِدَ النَّحْوِ جَيِّدًا — Kami memahami kaidah-kaidah nahwu dengan baik."
+          "Polanya: Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang",
+          "Contoh 2: نَحْنُ نَفْهَمُ قَوَاعِدَ النَّحْوِ جَيِّدًا (Naḥnu nafhamu qawaā'ida al-naḥwi jayidanā) — Kami memahami kaidah-kaidah nahwu dengan baik."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "تَدْرُسُ عَائِشَةُ فِي كُلِّيَّةِ الطِّبِّ — Aisyah sedang berkuliah di fakultas kedokteran."
+          "Contoh 3: تَدْرُسُ عَائِشَةُ فِي كُلِّيَّةِ الطِّبِّ (Tadrusu 'aāi'isyaahu fiy kuliyaahi al-thibi) — Aisyah sedang berkuliah di fakultas kedokteran.",
+          "Hindari kesalahan: \"يكتبُ الطالبَ\" → gunakan bentuk yang benar: \"يكتبُ الطالبُ\"."
         ]
       }
     ],
@@ -1430,19 +1442,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-4-ex-1",
         "native": "يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ",
-        "phonetic": "",
+        "phonetic": "Yaktubu al-baāḥitsu risaālaaha al-maājistiyri",
         "translationId": "Peneliti itu sedang menulis tesis magister."
       },
       {
         "id": "ar-gram-4-ex-2",
         "native": "نَحْنُ نَفْهَمُ قَوَاعِدَ النَّحْوِ جَيِّدًا",
-        "phonetic": "",
+        "phonetic": "Naḥnu nafhamu qawaā'ida al-naḥwi jayidanā",
         "translationId": "Kami memahami kaidah-kaidah nahwu dengan baik."
       },
       {
         "id": "ar-gram-4-ex-3",
         "native": "تَدْرُسُ عَائِشَةُ فِي كُلِّيَّةِ الطِّبِّ",
-        "phonetic": "",
+        "phonetic": "Tadrusu 'aāi'isyaahu fiy kuliyaahi al-thibi",
         "translationId": "Aisyah sedang berkuliah di fakultas kedokteran."
       }
     ],
@@ -1458,7 +1470,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)\" (Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-4-pg-1",
@@ -1474,7 +1486,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu sedang menulis tesis magister."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ\" berarti \"Peneliti itu sedang menulis tesis magister.\"."
+        "explanation": "Kalimat \"يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ\" (dibaca: Yaktubu al-baāḥitsu risaālaaha al-maājistiyri) berarti \"Peneliti itu sedang menulis tesis magister.\". Kalimat ini menggunakan pola \"Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang\" (Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung atau kebiasaan dengan awalan huruf anaitu (أ - ن - ي - ت)."
       },
       {
         "id": "q-ar-gram-4-pg-2",
@@ -1490,7 +1502,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"نَحْنُ نَفْهَمُ قَوَاعِدَ النَّحْوِ جَيِّدًا\" berarti \"Kami memahami kaidah-kaidah nahwu dengan baik.\"."
+        "explanation": "Kalimat \"نَحْنُ نَفْهَمُ قَوَاعِدَ النَّحْوِ جَيِّدًا\" (dibaca: Naḥnu nafhamu qawaā'ida al-naḥwi jayidanā) berarti \"Kami memahami kaidah-kaidah nahwu dengan baik.\". Kalimat ini menggunakan pola \"Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang\" (Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung atau kebiasaan dengan awalan huruf anaitu (أ - ن - ي - ت)."
       },
       {
         "id": "q-ar-gram-4-pg-3",
@@ -1506,7 +1518,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kami mengambil banyak manfaat dari kuliah yang berharga itu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"تَدْرُسُ عَائِشَةُ فِي كُلِّيَّةِ الطِّبِّ\" berarti \"Aisyah sedang berkuliah di fakultas kedokteran.\"."
+        "explanation": "Kalimat \"تَدْرُسُ عَائِشَةُ فِي كُلِّيَّةِ الطِّبِّ\" (dibaca: Tadrusu 'aāi'isyaahu fiy kuliyaahi al-thibi) berarti \"Aisyah sedang berkuliah di fakultas kedokteran.\". Kalimat ini menggunakan pola \"Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang\" (Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung atau kebiasaan dengan awalan huruf anaitu (أ - ن - ي - ت)."
       },
       {
         "id": "q-ar-gram-4-pg-4",
@@ -1526,7 +1538,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-4-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)\"?",
         "options": [
           "قَاعَةُ الْمُحَاضَرَاتِ وَاسِعَةٌ جِدًّا — Aula perkuliahan itu sangat luas.",
           "سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ — Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi.",
@@ -1540,7 +1552,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-4-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)\"?",
         "options": [
           "تَدْرُسُ عَائِشَةُ فِي كُلِّيَّةِ الطِّبِّ — Aisyah sedang berkuliah di fakultas kedokteran.",
           "كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ — Buku milik mahasiswa itu berada di atas meja.",
@@ -1554,7 +1566,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-4-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -1795,7 +1807,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Buku milik mahasiswa itu berada di atas meja."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ\" berarti \"Peneliti itu sedang menulis tesis magister.\"."
+        "explanation": "Kalimat \"يَكْتُبُ الْبَاحِثُ رِسَالَةَ الْمَاجِسْتِيرِ\" (dibaca: Yaktubu al-baāḥitsu risaālaaha al-maājistiyri) berarti \"Peneliti itu sedang menulis tesis magister.\". Kalimat ini menggunakan pola \"Huruf Mudhara'ah + Batang Verba Waktu Kini/Akan Datang\" (Fi'il Mudhari' dan Huruf Mudhara'ah (الفعل المضارع)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung atau kebiasaan dengan awalan huruf anaitu (أ - ن - ي - ت)."
       },
       {
         "id": "q-ar-gram-4-bb-2",
@@ -1870,24 +1882,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Frasa kepemilikan atau penyandaran dua kata benda: kata pertama tidak boleh bertanwin/alif lam, kata kedua berharakat kasrah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)\" (الإضافة (المضاف والمضاف إليه)) berfungsi untuk: frasa kepemilikan atau penyandaran dua kata benda: kata pertama tidak boleh bertanwin/alif lam, kata kedua berharakat kasrah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ — Buku milik mahasiswa itu berada di atas meja."
+          "Rumus utama: Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)",
+          "Contoh 1: كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ (Kitaābu al-thaālibi 'alaā al-maktabi) — Buku milik mahasiswa itu berada di atas meja."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Mudhaf tidak boleh memakai alif lam (al-).",
         "ruleList": [
-          "قَاعَةُ الْمُحَاضَرَاتِ وَاسِعَةٌ جِدًّا — Aula perkuliahan itu sangat luas."
+          "Polanya: Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)",
+          "Contoh 2: قَاعَةُ الْمُحَاضَرَاتِ وَاسِعَةٌ جِدًّا (Qaā'aahu al-muḥaādharaāti waāsi'aahun jidanā) — Aula perkuliahan itu sangat luas."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "مَكْتَبَةُ الْجَامِعَةِ مَفْتُوحَةٌ كُلَّ يَوْمٍ — Perpustakaan universitas itu buka setiap hari."
+          "Contoh 3: مَكْتَبَةُ الْجَامِعَةِ مَفْتُوحَةٌ كُلَّ يَوْمٍ (Maktabaahu al-jaāmi'aahi maftuwḥaahun kula yawmin) — Perpustakaan universitas itu buka setiap hari.",
+          "Hindari kesalahan: \"الكتابُ الطالبِ\" → gunakan bentuk yang benar: \"كتابُ الطالبِ\"."
         ]
       }
     ],
@@ -1895,19 +1910,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-5-ex-1",
         "native": "كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ",
-        "phonetic": "",
+        "phonetic": "Kitaābu al-thaālibi 'alaā al-maktabi",
         "translationId": "Buku milik mahasiswa itu berada di atas meja."
       },
       {
         "id": "ar-gram-5-ex-2",
         "native": "قَاعَةُ الْمُحَاضَرَاتِ وَاسِعَةٌ جِدًّا",
-        "phonetic": "",
+        "phonetic": "Qaā'aahu al-muḥaādharaāti waāsi'aahun jidanā",
         "translationId": "Aula perkuliahan itu sangat luas."
       },
       {
         "id": "ar-gram-5-ex-3",
         "native": "مَكْتَبَةُ الْجَامِعَةِ مَفْتُوحَةٌ كُلَّ يَوْمٍ",
-        "phonetic": "",
+        "phonetic": "Maktabaahu al-jaāmi'aahi maftuwḥaahun kula yawmin",
         "translationId": "Perpustakaan universitas itu buka setiap hari."
       }
     ],
@@ -1923,7 +1938,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)\" (Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-5-pg-1",
@@ -1939,7 +1954,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Buku-buku itu tersedia di perpustakaan umum."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ\" berarti \"Buku milik mahasiswa itu berada di atas meja.\"."
+        "explanation": "Kalimat \"كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ\" (dibaca: Kitaābu al-thaālibi 'alaā al-maktabi) berarti \"Buku milik mahasiswa itu berada di atas meja.\". Kalimat ini menggunakan pola \"Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)\" (Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)) yang berfungsi untuk frasa kepemilikan atau penyandaran dua kata benda: kata pertama tidak boleh bertanwin/alif lam, kata kedua berharakat kasrah."
       },
       {
         "id": "q-ar-gram-5-pg-2",
@@ -1955,7 +1970,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca sebuah buku yang bermanfaat tentang bahasa."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"قَاعَةُ الْمُحَاضَرَاتِ وَاسِعَةٌ جِدًّا\" berarti \"Aula perkuliahan itu sangat luas.\"."
+        "explanation": "Kalimat \"قَاعَةُ الْمُحَاضَرَاتِ وَاسِعَةٌ جِدًّا\" (dibaca: Qaā'aahu al-muḥaādharaāti waāsi'aahun jidanā) berarti \"Aula perkuliahan itu sangat luas.\". Kalimat ini menggunakan pola \"Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)\" (Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)) yang berfungsi untuk frasa kepemilikan atau penyandaran dua kata benda: kata pertama tidak boleh bertanwin/alif lam, kata kedua berharakat kasrah."
       },
       {
         "id": "q-ar-gram-5-pg-3",
@@ -1971,7 +1986,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah universitas bersejarah yang terpandang di dunia Islam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"مَكْتَبَةُ الْجَامِعَةِ مَفْتُوحَةٌ كُلَّ يَوْمٍ\" berarti \"Perpustakaan universitas itu buka setiap hari.\"."
+        "explanation": "Kalimat \"مَكْتَبَةُ الْجَامِعَةِ مَفْتُوحَةٌ كُلَّ يَوْمٍ\" (dibaca: Maktabaahu al-jaāmi'aahi maftuwḥaahun kula yawmin) berarti \"Perpustakaan universitas itu buka setiap hari.\". Kalimat ini menggunakan pola \"Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)\" (Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)) yang berfungsi untuk frasa kepemilikan atau penyandaran dua kata benda: kata pertama tidak boleh bertanwin/alif lam, kata kedua berharakat kasrah."
       },
       {
         "id": "q-ar-gram-5-pg-4",
@@ -1991,7 +2006,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-5-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)\"?",
         "options": [
           "قَاعَةُ الْمُحَاضَرَاتِ وَاسِعَةٌ جِدًّا — Aula perkuliahan itu sangat luas.",
           "الْكُتُبُ مَوْجُودَةٌ فِي الْمَكْتَبَةِ الْعَامَّةِ — Buku-buku itu tersedia di perpustakaan umum.",
@@ -2005,7 +2020,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-5-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)\"?",
         "options": [
           "سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ — Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi.",
           "مَكْتَبَةُ الْجَامِعَةِ مَفْتُوحَةٌ كُلَّ يَوْمٍ — Perpustakaan universitas itu buka setiap hari.",
@@ -2019,7 +2034,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-5-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2263,7 +2278,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ\" berarti \"Buku milik mahasiswa itu berada di atas meja.\"."
+        "explanation": "Kalimat \"كِتَابُ الطَّالِبِ عَلَى الْمَكْتَبِ\" (dibaca: Kitaābu al-thaālibi 'alaā al-maktabi) berarti \"Buku milik mahasiswa itu berada di atas meja.\". Kalimat ini menggunakan pola \"Mudhaf (Tanpa Tanwin/Al-) + Mudhaf Ilaih (Majrur)\" (Mudhaf dan Mudhaf Ilaih (الإضافة - Frasa Kepemilikan)) yang berfungsi untuk frasa kepemilikan atau penyandaran dua kata benda: kata pertama tidak boleh bertanwin/alif lam, kata kedua berharakat kasrah."
       },
       {
         "id": "q-ar-gram-5-bb-2",
@@ -2338,24 +2353,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata depan yang menyebabkan kata benda setelahnya menjadi majrur dengan tanda harakat kasrah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Huruf Jar dan Isim Majrur (حروف الجر) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Huruf Jar dan Isim Majrur (حروف الجر)\" (حروف الجر والاسم المجرور (مِنْ، إِلَى، عَنْ، عَلَى، فِي، الْبَاء، اللَّام)) berfungsi untuk: kata depan yang menyebabkan kata benda setelahnya menjadi majrur dengan tanda harakat kasrah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ — Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi."
+          "Rumus utama: Huruf Jar + Isim Majrur (Kasrah)",
+          "Contoh 1: سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ (Saāfara al-thaālibu iilaā al-mamlakaahi al-'arabiyaahi al-su'uwdiyaahi) — Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Huruf Jar + Isim Majrur (Kasrah) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Huruf Jar + Isim Majrur (Kasrah)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Isim setelah huruf jar wajib majrur berharakat kasrah.",
         "ruleList": [
-          "الْكُتُبُ مَوْجُودَةٌ فِي الْمَكْتَبَةِ الْعَامَّةِ — Buku-buku itu tersedia di perpustakaan umum."
+          "Polanya: Huruf Jar + Isim Majrur (Kasrah)",
+          "Contoh 2: الْكُتُبُ مَوْجُودَةٌ فِي الْمَكْتَبَةِ الْعَامَّةِ (Al-kutubu mawjuwdaahun fiy al-maktabaahi al-'aāmaahi) — Buku-buku itu tersedia di perpustakaan umum."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Huruf Jar dan Isim Majrur (حروف الجر)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "نَسْتَفِيدُ كَثِيرًا مِنَ الْمُحَاضَرَةِ الْقَيِّمَةِ — Kami mengambil banyak manfaat dari kuliah yang berharga itu."
+          "Contoh 3: نَسْتَفِيدُ كَثِيرًا مِنَ الْمُحَاضَرَةِ الْقَيِّمَةِ (Nastafiydu katsiyranā mina al-muḥaādharaahi al-qayimaahi) — Kami mengambil banyak manfaat dari kuliah yang berharga itu.",
+          "Hindari kesalahan: \"إلى الجامعةُ\" → gunakan bentuk yang benar: \"إلى الجامعةِ\"."
         ]
       }
     ],
@@ -2363,19 +2381,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-6-ex-1",
         "native": "سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ",
-        "phonetic": "",
+        "phonetic": "Saāfara al-thaālibu iilaā al-mamlakaahi al-'arabiyaahi al-su'uwdiyaahi",
         "translationId": "Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi."
       },
       {
         "id": "ar-gram-6-ex-2",
         "native": "الْكُتُبُ مَوْجُودَةٌ فِي الْمَكْتَبَةِ الْعَامَّةِ",
-        "phonetic": "",
+        "phonetic": "Al-kutubu mawjuwdaahun fiy al-maktabaahi al-'aāmaahi",
         "translationId": "Buku-buku itu tersedia di perpustakaan umum."
       },
       {
         "id": "ar-gram-6-ex-3",
         "native": "نَسْتَفِيدُ كَثِيرًا مِنَ الْمُحَاضَرَةِ الْقَيِّمَةِ",
-        "phonetic": "",
+        "phonetic": "Nastafiydu katsiyranā mina al-muḥaādharaahi al-qayimaahi",
         "translationId": "Kami mengambil banyak manfaat dari kuliah yang berharga itu."
       }
     ],
@@ -2391,7 +2409,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Huruf Jar dan Isim Majrur (حروف الجر) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Huruf Jar dan Isim Majrur (حروف الجر)\" (Huruf Jar + Isim Majrur (Kasrah)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-6-pg-1",
@@ -2407,7 +2425,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Profesor yang mulia itu sedang menyampaikan kuliah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ\" berarti \"Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi.\"."
+        "explanation": "Kalimat \"سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ\" (dibaca: Saāfara al-thaālibu iilaā al-mamlakaahi al-'arabiyaahi al-su'uwdiyaahi) berarti \"Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi.\". Kalimat ini menggunakan pola \"Huruf Jar + Isim Majrur (Kasrah)\" (Huruf Jar dan Isim Majrur (حروف الجر)) yang berfungsi untuk kata depan yang menyebabkan kata benda setelahnya menjadi majrur dengan tanda harakat kasrah."
       },
       {
         "id": "q-ar-gram-6-pg-2",
@@ -2423,7 +2441,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah mahasiswa baru di fakultas ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"الْكُتُبُ مَوْجُودَةٌ فِي الْمَكْتَبَةِ الْعَامَّةِ\" berarti \"Buku-buku itu tersedia di perpustakaan umum.\"."
+        "explanation": "Kalimat \"الْكُتُبُ مَوْجُودَةٌ فِي الْمَكْتَبَةِ الْعَامَّةِ\" (dibaca: Al-kutubu mawjuwdaahun fiy al-maktabaahi al-'aāmaahi) berarti \"Buku-buku itu tersedia di perpustakaan umum.\". Kalimat ini menggunakan pola \"Huruf Jar + Isim Majrur (Kasrah)\" (Huruf Jar dan Isim Majrur (حروف الجر)) yang berfungsi untuk kata depan yang menyebabkan kata benda setelahnya menjadi majrur dengan tanda harakat kasrah."
       },
       {
         "id": "q-ar-gram-6-pg-3",
@@ -2439,7 +2457,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kami mengambil banyak manfaat dari kuliah yang berharga itu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"نَسْتَفِيدُ كَثِيرًا مِنَ الْمُحَاضَرَةِ الْقَيِّمَةِ\" berarti \"Kami mengambil banyak manfaat dari kuliah yang berharga itu.\"."
+        "explanation": "Kalimat \"نَسْتَفِيدُ كَثِيرًا مِنَ الْمُحَاضَرَةِ الْقَيِّمَةِ\" (dibaca: Nastafiydu katsiyranā mina al-muḥaādharaahi al-qayimaahi) berarti \"Kami mengambil banyak manfaat dari kuliah yang berharga itu.\". Kalimat ini menggunakan pola \"Huruf Jar + Isim Majrur (Kasrah)\" (Huruf Jar dan Isim Majrur (حروف الجر)) yang berfungsi untuk kata depan yang menyebabkan kata benda setelahnya menjadi majrur dengan tanda harakat kasrah."
       },
       {
         "id": "q-ar-gram-6-pg-4",
@@ -2459,7 +2477,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-6-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Jar dan Isim Majrur (حروف الجر)\"?",
         "options": [
           "الْأُسْتَاذُ الْفَاضِلُ يُلْقِي الْمُحَاضَرَةَ — Profesor yang mulia itu sedang menyampaikan kuliah.",
           "الْكُتُبُ مَوْجُودَةٌ فِي الْمَكْتَبَةِ الْعَامَّةِ — Buku-buku itu tersedia di perpustakaan umum.",
@@ -2473,7 +2491,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-6-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Jar dan Isim Majrur (حروف الجر)\"?",
         "options": [
           "قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ — Saya telah membaca sebuah buku yang bermanfaat tentang bahasa.",
           "هَذِهِ جَامِعَةٌ عَرِيقَةٌ فِي الْعَالَمِ الْإِسْلَامِيِّ — Ini adalah universitas bersejarah yang terpandang di dunia Islam.",
@@ -2487,7 +2505,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-6-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Jar dan Isim Majrur (حروف الجر)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2734,7 +2752,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ\" berarti \"Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi.\"."
+        "explanation": "Kalimat \"سَافَرَ الطَّالِبُ إِلَى الْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ\" (dibaca: Saāfara al-thaālibu iilaā al-mamlakaahi al-'arabiyaahi al-su'uwdiyaahi) berarti \"Mahasiswa itu melakukan perjalanan ke Kerajaan Arab Saudi.\". Kalimat ini menggunakan pola \"Huruf Jar + Isim Majrur (Kasrah)\" (Huruf Jar dan Isim Majrur (حروف الجر)) yang berfungsi untuk kata depan yang menyebabkan kata benda setelahnya menjadi majrur dengan tanda harakat kasrah."
       },
       {
         "id": "q-ar-gram-6-bb-2",
@@ -2809,24 +2827,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata sifat (Na'at) mengikuti kata bendanya dalam hal jenis (gender), jumlah, ketetapan (definit/indefinit), dan i'rab.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)\" (النعت الحقيقي وتطابقه مع المنعوت) berfungsi untuk: kata sifat (Na'at) mengikuti kata bendanya dalam hal jenis (gender), jumlah, ketetapan (definit/indefinit), dan i'rab. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ — Saya telah membaca sebuah buku yang bermanfaat tentang bahasa."
+          "Rumus utama: Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]",
+          "Contoh 1: قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ (Qaraatu kitaābanā mufiydanā fiy al-lughaahi) — Saya telah membaca sebuah buku yang bermanfaat tentang bahasa."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek] diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Na'at wajib menyamai i'rab man'ut (keduanya manshub fathah tanwin).",
         "ruleList": [
-          "الْأُسْتَاذُ الْفَاضِلُ يُلْقِي الْمُحَاضَرَةَ — Profesor yang mulia itu sedang menyampaikan kuliah."
+          "Polanya: Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]",
+          "Contoh 2: الْأُسْتَاذُ الْفَاضِلُ يُلْقِي الْمُحَاضَرَةَ (Al-austaādzu al-faādhilu yulqiy al-muḥaādharaaha) — Profesor yang mulia itu sedang menyampaikan kuliah."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "هَذِهِ جَامِعَةٌ عَرِيقَةٌ فِي الْعَالَمِ الْإِسْلَامِيِّ — Ini adalah universitas bersejarah yang terpandang di dunia Islam."
+          "Contoh 3: هَذِهِ جَامِعَةٌ عَرِيقَةٌ فِي الْعَالَمِ الْإِسْلَامِيِّ (Hadzihi jaāmi'aahun 'ariyqaahun fiy al-'aālami al-iislaāmiyi) — Ini adalah universitas bersejarah yang terpandang di dunia Islam.",
+          "Hindari kesalahan: \"كتاباً مفيدٌ\" → gunakan bentuk yang benar: \"كتاباً مفيداً\"."
         ]
       }
     ],
@@ -2834,19 +2855,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-7-ex-1",
         "native": "قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ",
-        "phonetic": "",
+        "phonetic": "Qaraatu kitaābanā mufiydanā fiy al-lughaahi",
         "translationId": "Saya telah membaca sebuah buku yang bermanfaat tentang bahasa."
       },
       {
         "id": "ar-gram-7-ex-2",
         "native": "الْأُسْتَاذُ الْفَاضِلُ يُلْقِي الْمُحَاضَرَةَ",
-        "phonetic": "",
+        "phonetic": "Al-austaādzu al-faādhilu yulqiy al-muḥaādharaaha",
         "translationId": "Profesor yang mulia itu sedang menyampaikan kuliah."
       },
       {
         "id": "ar-gram-7-ex-3",
         "native": "هَذِهِ جَامِعَةٌ عَرِيقَةٌ فِي الْعَالَمِ الْإِسْلَامِيِّ",
-        "phonetic": "",
+        "phonetic": "Hadzihi jaāmi'aahun 'ariyqaahun fiy al-'aālami al-iislaāmiyi",
         "translationId": "Ini adalah universitas bersejarah yang terpandang di dunia Islam."
       }
     ],
@@ -2862,7 +2883,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)\" (Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-7-pg-1",
@@ -2878,7 +2899,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing saya menyemangati saya dalam penelitian ilmiah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ\" berarti \"Saya telah membaca sebuah buku yang bermanfaat tentang bahasa.\"."
+        "explanation": "Kalimat \"قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ\" (dibaca: Qaraatu kitaābanā mufiydanā fiy al-lughaahi) berarti \"Saya telah membaca sebuah buku yang bermanfaat tentang bahasa.\". Kalimat ini menggunakan pola \"Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]\" (Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)) yang berfungsi untuk kata sifat (Na'at) mengikuti kata bendanya dalam hal jenis (gender), jumlah, ketetapan (definit/indefinit), dan i'rab."
       },
       {
         "id": "q-ar-gram-7-pg-2",
@@ -2894,7 +2915,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Profesor yang mulia itu sedang menyampaikan kuliah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"الْأُسْتَاذُ الْفَاضِلُ يُلْقِي الْمُحَاضَرَةَ\" berarti \"Profesor yang mulia itu sedang menyampaikan kuliah.\"."
+        "explanation": "Kalimat \"الْأُسْتَاذُ الْفَاضِلُ يُلْقِي الْمُحَاضَرَةَ\" (dibaca: Al-austaādzu al-faādhilu yulqiy al-muḥaādharaaha) berarti \"Profesor yang mulia itu sedang menyampaikan kuliah.\". Kalimat ini menggunakan pola \"Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]\" (Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)) yang berfungsi untuk kata sifat (Na'at) mengikuti kata bendanya dalam hal jenis (gender), jumlah, ketetapan (definit/indefinit), dan i'rab."
       },
       {
         "id": "q-ar-gram-7-pg-3",
@@ -2910,7 +2931,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Pelajarilah bahasa Arab karena ia menguatkan akal pikiran!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"هَذِهِ جَامِعَةٌ عَرِيقَةٌ فِي الْعَالَمِ الْإِسْلَامِيِّ\" berarti \"Ini adalah universitas bersejarah yang terpandang di dunia Islam.\"."
+        "explanation": "Kalimat \"هَذِهِ جَامِعَةٌ عَرِيقَةٌ فِي الْعَالَمِ الْإِسْلَامِيِّ\" (dibaca: Hadzihi jaāmi'aahun 'ariyqaahun fiy al-'aālami al-iislaāmiyi) berarti \"Ini adalah universitas bersejarah yang terpandang di dunia Islam.\". Kalimat ini menggunakan pola \"Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]\" (Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)) yang berfungsi untuk kata sifat (Na'at) mengikuti kata bendanya dalam hal jenis (gender), jumlah, ketetapan (definit/indefinit), dan i'rab."
       },
       {
         "id": "q-ar-gram-7-pg-4",
@@ -2930,7 +2951,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-7-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)\"?",
         "options": [
           "أُسْتَاذِي يُشَجِّعُنِي عَلَى الْبَحْثِ الْعِلْمِيِّ — Dosen pembimbing saya menyemangati saya dalam penelitian ilmiah.",
           "اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ — Bacalah makalah penelitian ini dengan saksama dan teliti!",
@@ -2944,7 +2965,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-7-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)\"?",
         "options": [
           "أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ — Saya adalah mahasiswa baru di fakultas ini.",
           "هُمْ يُحِبُّونَ دِرَاسَةَ اللُّغَةِ الْعَرَبِيَّةِ — Mereka menyukai studi bahasa Arab.",
@@ -2958,7 +2979,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-7-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -3207,7 +3228,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah mahasiswa baru di fakultas ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ\" berarti \"Saya telah membaca sebuah buku yang bermanfaat tentang bahasa.\"."
+        "explanation": "Kalimat \"قَرَأْتُ كِتَابًا مُفِيدًا فِي اللُّغَةِ\" (dibaca: Qaraatu kitaābanā mufiydanā fiy al-lughaahi) berarti \"Saya telah membaca sebuah buku yang bermanfaat tentang bahasa.\". Kalimat ini menggunakan pola \"Man'ut (Benda) + Na'at (Sifat) [Menyelaraskan 4 Aspek]\" (Na'at dan Man'ut (النعت والمنعوت - Kata Sifat Penjelas)) yang berfungsi untuk kata sifat (Na'at) mengikuti kata bendanya dalam hal jenis (gender), jumlah, ketetapan (definit/indefinit), dan i'rab."
       },
       {
         "id": "q-ar-gram-7-bb-2",
@@ -3282,24 +3303,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Sistem kata ganti orang dalam bahasa Arab, baik yang terpisah maupun yang bersambung dengan nomina/verba.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)\" (الضمائر المنفصلة والمتصلة) berfungsi untuk: sistem kata ganti orang dalam bahasa Arab, baik yang terpisah maupun yang bersambung dengan nomina/verba. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ — Saya adalah mahasiswa baru di fakultas ini."
+          "Rumus utama: Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)",
+          "Contoh 1: أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ (Aanaā thaālibun jadiydun fiy hadzihi al-kuliyaahi) — Saya adalah mahasiswa baru di fakultas ini."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kepemilikan orang ketiga tunggal menggunakan dhamir muttashil -hu (كتابه).",
         "ruleList": [
-          "أُسْتَاذِي يُشَجِّعُنِي عَلَى الْبَحْثِ الْعِلْمِيِّ — Dosen pembimbing saya menyemangati saya dalam penelitian ilmiah."
+          "Polanya: Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)",
+          "Contoh 2: أُسْتَاذِي يُشَجِّعُنِي عَلَى الْبَحْثِ الْعِلْمِيِّ (Austaādziy yusyaji'uniy 'alaā al-baḥtsi al-'ilmiyi) — Dosen pembimbing saya menyemangati saya dalam penelitian ilmiah."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "هُمْ يُحِبُّونَ دِرَاسَةَ اللُّغَةِ الْعَرَبِيَّةِ — Mereka menyukai studi bahasa Arab."
+          "Contoh 3: هُمْ يُحِبُّونَ دِرَاسَةَ اللُّغَةِ الْعَرَبِيَّةِ (Hum yuḥibuwna diraāsaaha al-lughaahi al-'arabiyaahi) — Mereka menyukai studi bahasa Arab.",
+          "Hindari kesalahan: \"كتاب هو\" → gunakan bentuk yang benar: \"كتابُهُ\"."
         ]
       }
     ],
@@ -3307,19 +3331,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-8-ex-1",
         "native": "أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ",
-        "phonetic": "",
+        "phonetic": "Aanaā thaālibun jadiydun fiy hadzihi al-kuliyaahi",
         "translationId": "Saya adalah mahasiswa baru di fakultas ini."
       },
       {
         "id": "ar-gram-8-ex-2",
         "native": "أُسْتَاذِي يُشَجِّعُنِي عَلَى الْبَحْثِ الْعِلْمِيِّ",
-        "phonetic": "",
+        "phonetic": "Austaādziy yusyaji'uniy 'alaā al-baḥtsi al-'ilmiyi",
         "translationId": "Dosen pembimbing saya menyemangati saya dalam penelitian ilmiah."
       },
       {
         "id": "ar-gram-8-ex-3",
         "native": "هُمْ يُحِبُّونَ دِرَاسَةَ اللُّغَةِ الْعَرَبِيَّةِ",
-        "phonetic": "",
+        "phonetic": "Hum yuḥibuwna diraāsaaha al-lughaahi al-'arabiyaahi",
         "translationId": "Mereka menyukai studi bahasa Arab."
       }
     ],
@@ -3335,7 +3359,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)\" (Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-8-pg-1",
@@ -3351,7 +3375,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah mahasiswa baru di fakultas ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ\" berarti \"Saya adalah mahasiswa baru di fakultas ini.\"."
+        "explanation": "Kalimat \"أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ\" (dibaca: Aanaā thaālibun jadiydun fiy hadzihi al-kuliyaahi) berarti \"Saya adalah mahasiswa baru di fakultas ini.\". Kalimat ini menggunakan pola \"Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)\" (Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)) yang berfungsi untuk sistem kata ganti orang dalam bahasa Arab, baik yang terpisah maupun yang bersambung dengan nomina/verba."
       },
       {
         "id": "q-ar-gram-8-pg-2",
@@ -3367,7 +3391,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Dua orang mahasiswa telah hadir ke ruang ujian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"أُسْتَاذِي يُشَجِّعُنِي عَلَى الْبَحْثِ الْعِلْمِيِّ\" berarti \"Dosen pembimbing saya menyemangati saya dalam penelitian ilmiah.\"."
+        "explanation": "Kalimat \"أُسْتَاذِي يُشَجِّعُنِي عَلَى الْبَحْثِ الْعِلْمِيِّ\" (dibaca: Austaādziy yusyaji'uniy 'alaā al-baḥtsi al-'ilmiyi) berarti \"Dosen pembimbing saya menyemangati saya dalam penelitian ilmiah.\". Kalimat ini menggunakan pola \"Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)\" (Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)) yang berfungsi untuk sistem kata ganti orang dalam bahasa Arab, baik yang terpisah maupun yang bersambung dengan nomina/verba."
       },
       {
         "id": "q-ar-gram-8-pg-3",
@@ -3383,7 +3407,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca banyak buku pada bulan ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"هُمْ يُحِبُّونَ دِرَاسَةَ اللُّغَةِ الْعَرَبِيَّةِ\" berarti \"Mereka menyukai studi bahasa Arab.\"."
+        "explanation": "Kalimat \"هُمْ يُحِبُّونَ دِرَاسَةَ اللُّغَةِ الْعَرَبِيَّةِ\" (dibaca: Hum yuḥibuwna diraāsaaha al-lughaahi al-'arabiyaahi) berarti \"Mereka menyukai studi bahasa Arab.\". Kalimat ini menggunakan pola \"Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)\" (Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)) yang berfungsi untuk sistem kata ganti orang dalam bahasa Arab, baik yang terpisah maupun yang bersambung dengan nomina/verba."
       },
       {
         "id": "q-ar-gram-8-pg-4",
@@ -3403,7 +3427,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-8-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)\"?",
         "options": [
           "يَا فَاطِمَةُ، اكْتُبِي وَاجِبَاتِكِ الْيَوْمِيَّةَ — Wahai Fatimah, tulislah tugas-tugas harianmu!",
           "حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ — Dua orang mahasiswa telah hadir ke ruang ujian.",
@@ -3417,7 +3441,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-8-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)\"?",
         "options": [
           "هُمْ يُحِبُّونَ دِرَاسَةَ اللُّغَةِ الْعَرَبِيَّةِ — Mereka menyukai studi bahasa Arab.",
           "اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ — Bacalah makalah penelitian ini dengan saksama dan teliti!",
@@ -3431,7 +3455,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-8-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -3680,7 +3704,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Bacalah makalah penelitian ini dengan saksama dan teliti!"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ\" berarti \"Saya adalah mahasiswa baru di fakultas ini.\"."
+        "explanation": "Kalimat \"أَنَا طَالِبٌ جَدِيدٌ فِي هَذِهِ الْكُلِّيَّةِ\" (dibaca: Aanaā thaālibun jadiydun fiy hadzihi al-kuliyaahi) berarti \"Saya adalah mahasiswa baru di fakultas ini.\". Kalimat ini menggunakan pola \"Dhamir Mandiri (أنا, أنت, هو) & Dhamir Melekat (-ي, -ك, -ه)\" (Kata Ganti Dhamir Munfashil dan Muttashil (الضمائر)) yang berfungsi untuk sistem kata ganti orang dalam bahasa Arab, baik yang terpisah maupun yang bersambung dengan nomina/verba."
       },
       {
         "id": "q-ar-gram-8-bb-2",
@@ -3755,24 +3779,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata kerja imperatif untuk memerintahkan atau memohon sesuatu kepada lawan bicara laki-laki atau perempuan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)\" (صياغة فعل الأمر وبناؤه على السكون) berfungsi untuk: kata kerja imperatif untuk memerintahkan atau memohon sesuatu kepada lawan bicara laki-laki atau perempuan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ — Bacalah makalah penelitian ini dengan saksama dan teliti!"
+          "Rumus utama: Fi'il Amar (Mabni Sukun) untuk Orang Kedua",
+          "Contoh 1: اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ (Āqraa hadzaā al-baḥtsa bitaaanin wadiqaahin) — Bacalah makalah penelitian ini dengan saksama dan teliti!"
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Fi'il Amar (Mabni Sukun) untuk Orang Kedua diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Fi'il Amar (Mabni Sukun) untuk Orang Kedua\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Fi'il amar dasar berakhiran sukun: اقْرَأْ.",
         "ruleList": [
-          "يَا فَاطِمَةُ، اكْتُبِي وَاجِبَاتِكِ الْيَوْمِيَّةَ — Wahai Fatimah, tulislah tugas-tugas harianmu!"
+          "Polanya: Fi'il Amar (Mabni Sukun) untuk Orang Kedua",
+          "Contoh 2: يَا فَاطِمَةُ، اكْتُبِي وَاجِبَاتِكِ الْيَوْمِيَّةَ (Yaā faāthimaahu, āktubiy waājibaātiki al-yawmiyaaha) — Wahai Fatimah, tulislah tugas-tugas harianmu!"
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا تُثَبِّتُ الْعَقْلَ — Pelajarilah bahasa Arab karena ia menguatkan akal pikiran!"
+          "Contoh 3: تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا تُثَبِّتُ الْعَقْلَ (Ta'alamuwā al-'arabiyaaha faiinahaā tutsabitu al-'aqla) — Pelajarilah bahasa Arab karena ia menguatkan akal pikiran!",
+          "Hindari kesalahan: \"اقرأُ الكتاب\" → gunakan bentuk yang benar: \"اقْرَأِ الكتاب\"."
         ]
       }
     ],
@@ -3780,19 +3807,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-9-ex-1",
         "native": "اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ",
-        "phonetic": "",
+        "phonetic": "Āqraa hadzaā al-baḥtsa bitaaanin wadiqaahin",
         "translationId": "Bacalah makalah penelitian ini dengan saksama dan teliti!"
       },
       {
         "id": "ar-gram-9-ex-2",
         "native": "يَا فَاطِمَةُ، اكْتُبِي وَاجِبَاتِكِ الْيَوْمِيَّةَ",
-        "phonetic": "",
+        "phonetic": "Yaā faāthimaahu, āktubiy waājibaātiki al-yawmiyaaha",
         "translationId": "Wahai Fatimah, tulislah tugas-tugas harianmu!"
       },
       {
         "id": "ar-gram-9-ex-3",
         "native": "تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا تُثَبِّتُ الْعَقْلَ",
-        "phonetic": "",
+        "phonetic": "Ta'alamuwā al-'arabiyaaha faiinahaā tutsabitu al-'aqla",
         "translationId": "Pelajarilah bahasa Arab karena ia menguatkan akal pikiran!"
       }
     ],
@@ -3808,7 +3835,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)\" (Fi'il Amar (Mabni Sukun) untuk Orang Kedua) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-9-pg-1",
@@ -3824,7 +3851,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ\" berarti \"Bacalah makalah penelitian ini dengan saksama dan teliti!\"."
+        "explanation": "Kalimat \"اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ\" (dibaca: Āqraa hadzaā al-baḥtsa bitaaanin wadiqaahin) berarti \"Bacalah makalah penelitian ini dengan saksama dan teliti!\". Kalimat ini menggunakan pola \"Fi'il Amar (Mabni Sukun) untuk Orang Kedua\" (Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)) yang berfungsi untuk kata kerja imperatif untuk memerintahkan atau memohon sesuatu kepada lawan bicara laki-laki atau perempuan."
       },
       {
         "id": "q-ar-gram-9-pg-2",
@@ -3840,7 +3867,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu rajin dalam studinya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"يَا فَاطِمَةُ، اكْتُبِي وَاجِبَاتِكِ الْيَوْمِيَّةَ\" berarti \"Wahai Fatimah, tulislah tugas-tugas harianmu!\"."
+        "explanation": "Kalimat \"يَا فَاطِمَةُ، اكْتُبِي وَاجِبَاتِكِ الْيَوْمِيَّةَ\" (dibaca: Yaā faāthimaahu, āktubiy waājibaātiki al-yawmiyaaha) berarti \"Wahai Fatimah, tulislah tugas-tugas harianmu!\". Kalimat ini menggunakan pola \"Fi'il Amar (Mabni Sukun) untuk Orang Kedua\" (Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)) yang berfungsi untuk kata kerja imperatif untuk memerintahkan atau memohon sesuatu kepada lawan bicara laki-laki atau perempuan."
       },
       {
         "id": "q-ar-gram-9-pg-3",
@@ -3856,7 +3883,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ilmu adalah cahaya di dalam hati seorang mukmin."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا تُثَبِّتُ الْعَقْلَ\" berarti \"Pelajarilah bahasa Arab karena ia menguatkan akal pikiran!\"."
+        "explanation": "Kalimat \"تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا تُثَبِّتُ الْعَقْلَ\" (dibaca: Ta'alamuwā al-'arabiyaaha faiinahaā tutsabitu al-'aqla) berarti \"Pelajarilah bahasa Arab karena ia menguatkan akal pikiran!\". Kalimat ini menggunakan pola \"Fi'il Amar (Mabni Sukun) untuk Orang Kedua\" (Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)) yang berfungsi untuk kata kerja imperatif untuk memerintahkan atau memohon sesuatu kepada lawan bicara laki-laki atau perempuan."
       },
       {
         "id": "q-ar-gram-9-pg-4",
@@ -3876,7 +3903,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-9-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)\"?",
         "options": [
           "يَا فَاطِمَةُ، اكْتُبِي وَاجِبَاتِكِ الْيَوْمِيَّةَ — Wahai Fatimah, tulislah tugas-tugas harianmu!",
           "الْمُعَلِّمُونَ مُخْلِصُونَ فِي أَدَاءِ وَاجِبِهِمْ — Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka.",
@@ -3890,7 +3917,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-9-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)\"?",
         "options": [
           "حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ — Dua orang mahasiswa telah hadir ke ruang ujian.",
           "تَعَلَّمُوا الْعَرَبِيَّةَ فَإِنَّهَا تُثَبِّتُ الْعَقْلَ — Pelajarilah bahasa Arab karena ia menguatkan akal pikiran!",
@@ -3904,7 +3931,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-9-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4153,7 +4180,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Dua orang mahasiswa telah hadir ke ruang ujian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ\" berarti \"Bacalah makalah penelitian ini dengan saksama dan teliti!\"."
+        "explanation": "Kalimat \"اقْرَأْ هَذَا الْبَحْثَ بِتَأَنٍّ وَدِقَّةٍ\" (dibaca: Āqraa hadzaā al-baḥtsa bitaaanin wadiqaahin) berarti \"Bacalah makalah penelitian ini dengan saksama dan teliti!\". Kalimat ini menggunakan pola \"Fi'il Amar (Mabni Sukun) untuk Orang Kedua\" (Fi'il Amar dan Kaidah Perintah Dasar (فعل الأمر)) yang berfungsi untuk kata kerja imperatif untuk memerintahkan atau memohon sesuatu kepada lawan bicara laki-laki atau perempuan."
       },
       {
         "id": "q-ar-gram-9-bb-2",
@@ -4228,24 +4255,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pembagian kata benda berdasarkan jumlah: tunggal (mufrad), ganda (mutsanna), dan jamak (salim/taksir).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)\" (أقسام الاسم من حيث العدد وعلامات إعرابها) berfungsi untuk: pembagian kata benda berdasarkan jumlah: tunggal (mufrad), ganda (mutsanna), dan jamak (salim/taksir). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ — Dua orang mahasiswa telah hadir ke ruang ujian."
+          "Rumus utama: Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim",
+          "Contoh 1: حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ (Ḥadhara thaālibaāni ātsnaāni iilaā qaā'aahi al-iāmtiḥaāni) — Dua orang mahasiswa telah hadir ke ruang ujian."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Jika verba mendahului subjek dua orang, verba tetap dalam bentuk tunggal (حضر).",
         "ruleList": [
-          "الْمُعَلِّمُونَ مُخْلِصُونَ فِي أَدَاءِ وَاجِبِهِمْ — Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka."
+          "Polanya: Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim",
+          "Contoh 2: الْمُعَلِّمُونَ مُخْلِصُونَ فِي أَدَاءِ وَاجِبِهِمْ (Al-mu'alimuwna mukhlishuwna fiy aadaā'i waājibihim) — Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "قَرَأْتُ كُتُبًا كَثِيرَةً فِي هَذَا الشَّهْرِ — Saya telah membaca banyak buku pada bulan ini."
+          "Contoh 3: قَرَأْتُ كُتُبًا كَثِيرَةً فِي هَذَا الشَّهْرِ (Qaraatu kutubanā katsiyraahan fiy hadzaā al-syahri) — Saya telah membaca banyak buku pada bulan ini.",
+          "Hindari kesalahan: \"طالبانِ حضروا\" → gunakan bentuk yang benar: \"حضر طالبانِ\"."
         ]
       }
     ],
@@ -4253,19 +4283,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-10-ex-1",
         "native": "حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ",
-        "phonetic": "",
+        "phonetic": "Ḥadhara thaālibaāni ātsnaāni iilaā qaā'aahi al-iāmtiḥaāni",
         "translationId": "Dua orang mahasiswa telah hadir ke ruang ujian."
       },
       {
         "id": "ar-gram-10-ex-2",
         "native": "الْمُعَلِّمُونَ مُخْلِصُونَ فِي أَدَاءِ وَاجِبِهِمْ",
-        "phonetic": "",
+        "phonetic": "Al-mu'alimuwna mukhlishuwna fiy aadaā'i waājibihim",
         "translationId": "Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka."
       },
       {
         "id": "ar-gram-10-ex-3",
         "native": "قَرَأْتُ كُتُبًا كَثِيرَةً فِي هَذَا الشَّهْرِ",
-        "phonetic": "",
+        "phonetic": "Qaraatu kutubanā katsiyraahan fiy hadzaā al-syahri",
         "translationId": "Saya telah membaca banyak buku pada bulan ini."
       }
     ],
@@ -4281,7 +4311,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)\" (Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-10-pg-1",
@@ -4297,7 +4327,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Universitas itu besar dan indah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ\" berarti \"Dua orang mahasiswa telah hadir ke ruang ujian.\"."
+        "explanation": "Kalimat \"حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ\" (dibaca: Ḥadhara thaālibaāni ātsnaāni iilaā qaā'aahi al-iāmtiḥaāni) berarti \"Dua orang mahasiswa telah hadir ke ruang ujian.\". Kalimat ini menggunakan pola \"Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim\" (Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)) yang berfungsi untuk pembagian kata benda berdasarkan jumlah: tunggal (mufrad), ganda (mutsanna), dan jamak (salim/taksir)."
       },
       {
         "id": "q-ar-gram-10-pg-2",
@@ -4313,7 +4343,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah buku yang bermanfaat bagi para mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"الْمُعَلِّمُونَ مُخْلِصُونَ فِي أَدَاءِ وَاجِبِهِمْ\" berarti \"Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka.\"."
+        "explanation": "Kalimat \"الْمُعَلِّمُونَ مُخْلِصُونَ فِي أَدَاءِ وَاجِبِهِمْ\" (dibaca: Al-mu'alimuwna mukhlishuwna fiy aadaā'i waājibihim) berarti \"Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka.\". Kalimat ini menggunakan pola \"Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim\" (Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)) yang berfungsi untuk pembagian kata benda berdasarkan jumlah: tunggal (mufrad), ganda (mutsanna), dan jamak (salim/taksir)."
       },
       {
         "id": "q-ar-gram-10-pg-3",
@@ -4329,7 +4359,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca banyak buku pada bulan ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"قَرَأْتُ كُتُبًا كَثِيرَةً فِي هَذَا الشَّهْرِ\" berarti \"Saya telah membaca banyak buku pada bulan ini.\"."
+        "explanation": "Kalimat \"قَرَأْتُ كُتُبًا كَثِيرَةً فِي هَذَا الشَّهْرِ\" (dibaca: Qaraatu kutubanā katsiyraahan fiy hadzaā al-syahri) berarti \"Saya telah membaca banyak buku pada bulan ini.\". Kalimat ini menggunakan pola \"Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim\" (Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)) yang berfungsi untuk pembagian kata benda berdasarkan jumlah: tunggal (mufrad), ganda (mutsanna), dan jamak (salim/taksir)."
       },
       {
         "id": "q-ar-gram-10-pg-4",
@@ -4349,7 +4379,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-10-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)\"?",
         "options": [
           "الْجَامِعَةُ كَبِيرَةٌ وَجَمِيلَةٌ — Universitas itu besar dan indah.",
           "الْمُعَلِّمُونَ مُخْلِصُونَ فِي أَدَاءِ وَاجِبِهِمْ — Para pengajar itu tulus ikhlas dalam menunaikan kewajiban mereka.",
@@ -4363,7 +4393,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-10-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)\"?",
         "options": [
           "الطَّالِبُ مُجْتَهِدٌ فِي دِرَاسَتِهِ — Mahasiswa itu rajin dalam studinya.",
           "الْعِلْمُ نُورٌ فِي قَلْبِ الْمُؤْمِنِ — Ilmu adalah cahaya di dalam hati seorang mukmin.",
@@ -4377,7 +4407,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-10-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4622,7 +4652,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Dua orang mahasiswa telah hadir ke ruang ujian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ\" berarti \"Dua orang mahasiswa telah hadir ke ruang ujian.\"."
+        "explanation": "Kalimat \"حَضَرَ طَالِبَانِ اثْنَانِ إِلَى قَاعَةِ الِامْتِحَانِ\" (dibaca: Ḥadhara thaālibaāni ātsnaāni iilaā qaā'aahi al-iāmtiḥaāni) berarti \"Dua orang mahasiswa telah hadir ke ruang ujian.\". Kalimat ini menggunakan pola \"Mufrad (1) / Mutsanna (+انِ/-يْنِ) / Jama' Taksir & Salim\" (Isim Mufrad, Mutsanna, dan Jama' (المفرد والمثنى والجمع)) yang berfungsi untuk pembagian kata benda berdasarkan jumlah: tunggal (mufrad), ganda (mutsanna), dan jamak (salim/taksir)."
       },
       {
         "id": "q-ar-gram-10-bb-2",
@@ -4697,24 +4727,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Ka'ana dan saudaranya masuk ke kalimat nominal: merafa'kan mubtada' (isimnya) dan menashabkan khabar.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)\" (الأفعال الناسخة (كان وأخواتها وعملها)) berfungsi untuk: ka'ana dan saudaranya masuk ke kalimat nominal: merafa'kan mubtada' (isimnya) dan menashabkan khabar. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ — Ujian itu tadinya mudah bagi para mahasiswa."
+          "Rumus utama: كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)",
+          "Contoh 1: كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ (Kaāna al-iāmtiḥaānu sahlanā 'alaā al-thulaābi) — Ujian itu tadinya mudah bagi para mahasiswa."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Khabar ka'ana wajib manshub (berharakat fathah/tanwin).",
         "ruleList": [
-          "أَصْبَحَ الْعِلْمُ مُتَاحًا لِلْجَمِيعِ بِفَضْلِ التِّقْنِيَّةِ — Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi."
+          "Polanya: كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)",
+          "Contoh 2: أَصْبَحَ الْعِلْمُ مُتَاحًا لِلْجَمِيعِ بِفَضْلِ التِّقْنِيَّةِ (Aashbaḥa al-'ilmu mutaāḥanā liljamiy'i bifadhli al-tiqniyaahi) — Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "ظَلَّ الْبَاحِثُ مُجْتَهِدًا فِي مَعْمَلِهِ — Peneliti itu senantiasa tekun bekerja di laboratoriumnya."
+          "Contoh 3: ظَلَّ الْبَاحِثُ مُجْتَهِدًا فِي مَعْمَلِهِ (Zhala al-baāḥitsu mujtahidanā fiy ma'malihi) — Peneliti itu senantiasa tekun bekerja di laboratoriumnya.",
+          "Hindari kesalahan: \"كان الامتحانُ سهلٌ\" → gunakan bentuk yang benar: \"كان الامتحانُ سهلاً\"."
         ]
       }
     ],
@@ -4722,19 +4755,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-11-ex-1",
         "native": "كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ",
-        "phonetic": "",
+        "phonetic": "Kaāna al-iāmtiḥaānu sahlanā 'alaā al-thulaābi",
         "translationId": "Ujian itu tadinya mudah bagi para mahasiswa."
       },
       {
         "id": "ar-gram-11-ex-2",
         "native": "أَصْبَحَ الْعِلْمُ مُتَاحًا لِلْجَمِيعِ بِفَضْلِ التِّقْنِيَّةِ",
-        "phonetic": "",
+        "phonetic": "Aashbaḥa al-'ilmu mutaāḥanā liljamiy'i bifadhli al-tiqniyaahi",
         "translationId": "Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi."
       },
       {
         "id": "ar-gram-11-ex-3",
         "native": "ظَلَّ الْبَاحِثُ مُجْتَهِدًا فِي مَعْمَلِهِ",
-        "phonetic": "",
+        "phonetic": "Zhala al-baāḥitsu mujtahidanā fiy ma'malihi",
         "translationId": "Peneliti itu senantiasa tekun bekerja di laboratoriumnya."
       }
     ],
@@ -4750,7 +4783,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)\" (كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-11-pg-1",
@@ -4766,7 +4799,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ\" berarti \"Ujian itu tadinya mudah bagi para mahasiswa.\"."
+        "explanation": "Kalimat \"كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ\" (dibaca: Kaāna al-iāmtiḥaānu sahlanā 'alaā al-thulaābi) berarti \"Ujian itu tadinya mudah bagi para mahasiswa.\". Kalimat ini menggunakan pola \"كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)\" (Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)) yang berfungsi untuk ka'ana dan saudaranya masuk ke kalimat nominal: merafa'kan mubtada' (isimnya) dan menashabkan khabar."
       },
       {
         "id": "q-ar-gram-11-pg-2",
@@ -4782,7 +4815,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"أَصْبَحَ الْعِلْمُ مُتَاحًا لِلْجَمِيعِ بِفَضْلِ التِّقْنِيَّةِ\" berarti \"Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi.\"."
+        "explanation": "Kalimat \"أَصْبَحَ الْعِلْمُ مُتَاحًا لِلْجَمِيعِ بِفَضْلِ التِّقْنِيَّةِ\" (dibaca: Aashbaḥa al-'ilmu mutaāḥanā liljamiy'i bifadhli al-tiqniyaahi) berarti \"Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi.\". Kalimat ini menggunakan pola \"كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)\" (Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)) yang berfungsi untuk ka'ana dan saudaranya masuk ke kalimat nominal: merafa'kan mubtada' (isimnya) dan menashabkan khabar."
       },
       {
         "id": "q-ar-gram-11-pg-3",
@@ -4798,7 +4831,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca makalah penelitian itu sebanyak dua kali bacaan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ظَلَّ الْبَاحِثُ مُجْتَهِدًا فِي مَعْمَلِهِ\" berarti \"Peneliti itu senantiasa tekun bekerja di laboratoriumnya.\"."
+        "explanation": "Kalimat \"ظَلَّ الْبَاحِثُ مُجْتَهِدًا فِي مَعْمَلِهِ\" (dibaca: Zhala al-baāḥitsu mujtahidanā fiy ma'malihi) berarti \"Peneliti itu senantiasa tekun bekerja di laboratoriumnya.\". Kalimat ini menggunakan pola \"كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)\" (Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)) yang berfungsi untuk ka'ana dan saudaranya masuk ke kalimat nominal: merafa'kan mubtada' (isimnya) dan menashabkan khabar."
       },
       {
         "id": "q-ar-gram-11-pg-4",
@@ -4818,7 +4851,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-11-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)\"?",
         "options": [
           "كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ — Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi.",
           "فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا — Saya telah memahami pelajaran itu dengan pemahaman yang mendalam.",
@@ -4832,7 +4865,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-11-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)\"?",
         "options": [
           "شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ — Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang.",
           "يُقَدِّرُ الْمُجْتَمَعُ الْعُلَمَاءَ الْمُخْلِصِينَ — Masyarakat menghormati para ilmuwan yang tulus mengabdi.",
@@ -4846,7 +4879,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-11-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -5093,7 +5126,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ\" berarti \"Ujian itu tadinya mudah bagi para mahasiswa.\"."
+        "explanation": "Kalimat \"كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ\" (dibaca: Kaāna al-iāmtiḥaānu sahlanā 'alaā al-thulaābi) berarti \"Ujian itu tadinya mudah bagi para mahasiswa.\". Kalimat ini menggunakan pola \"كان + Isim Ka'ana (Marfu') + Khabar Ka'ana (Manshub)\" (Ka'ana wa Akhawatuha (كان وأخواتها - Verba Perubah Status)) yang berfungsi untuk ka'ana dan saudaranya masuk ke kalimat nominal: merafa'kan mubtada' (isimnya) dan menashabkan khabar."
       },
       {
         "id": "q-ar-gram-11-bb-2",
@@ -5168,24 +5201,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Partikel penegas yang menashabkan isimnya dan merafa'kan khabarnya (kebalikan dari Ka'ana).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)\" (الحروف الناسخة (إنّ وأخواتها وتأكيد المعنى)) berfungsi untuk: partikel penegas yang menashabkan isimnya dan merafa'kan khabarnya (kebalikan dari Ka'ana). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ — Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia."
+          "Rumus utama: إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')",
+          "Contoh 1: إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ (Iina al-lughaaha al-'arabiyaaha lughaahu al-qurāni al-kariymi) — Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu') diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Isim inna wajib manshub berharakat fathah (العلمَ).",
         "ruleList": [
-          "لَعَلَّ النَّتِيجَةَ مُمْتَازَةٌ فِي هَذَا الْفَصْلِ — Semoga hasil ujian pada semester ini sangat memuaskan."
+          "Polanya: إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')",
+          "Contoh 2: لَعَلَّ النَّتِيجَةَ مُمْتَازَةٌ فِي هَذَا الْفَصْلِ (La'ala al-natiyjaaha mumtaāzaahun fiy hadzaā al-fashli) — Semoga hasil ujian pada semester ini sangat memuaskan."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ لِلْبَشَرِيَّةِ — Saya mengetahui bahwa ilmu pengetahuan itu bermanfaat bagi umat manusia."
+          "Contoh 3: عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ لِلْبَشَرِيَّةِ ('alimtu aana al-'ilma naāfi'un lilbasyariyaahi) — Saya mengetahui bahwa ilmu pengetahuan itu bermanfaat bagi umat manusia.",
+          "Hindari kesalahan: \"إنّ العلمُ نورٌ\" → gunakan bentuk yang benar: \"إنّ العلمَ نورٌ\"."
         ]
       }
     ],
@@ -5193,19 +5229,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-12-ex-1",
         "native": "إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ",
-        "phonetic": "",
+        "phonetic": "Iina al-lughaaha al-'arabiyaaha lughaahu al-qurāni al-kariymi",
         "translationId": "Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia."
       },
       {
         "id": "ar-gram-12-ex-2",
         "native": "لَعَلَّ النَّتِيجَةَ مُمْتَازَةٌ فِي هَذَا الْفَصْلِ",
-        "phonetic": "",
+        "phonetic": "La'ala al-natiyjaaha mumtaāzaahun fiy hadzaā al-fashli",
         "translationId": "Semoga hasil ujian pada semester ini sangat memuaskan."
       },
       {
         "id": "ar-gram-12-ex-3",
         "native": "عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ لِلْبَشَرِيَّةِ",
-        "phonetic": "",
+        "phonetic": "'alimtu aana al-'ilma naāfi'un lilbasyariyaahi",
         "translationId": "Saya mengetahui bahwa ilmu pengetahuan itu bermanfaat bagi umat manusia."
       }
     ],
@@ -5221,7 +5257,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)\" (إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-12-pg-1",
@@ -5237,7 +5273,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ\" berarti \"Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia.\"."
+        "explanation": "Kalimat \"إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ\" (dibaca: Iina al-lughaaha al-'arabiyaaha lughaahu al-qurāni al-kariymi) berarti \"Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia.\". Kalimat ini menggunakan pola \"إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')\" (Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)) yang berfungsi untuk partikel penegas yang menashabkan isimnya dan merafa'kan khabarnya (kebalikan dari Ka'ana)."
       },
       {
         "id": "q-ar-gram-12-pg-2",
@@ -5253,7 +5289,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"لَعَلَّ النَّتِيجَةَ مُمْتَازَةٌ فِي هَذَا الْفَصْلِ\" berarti \"Semoga hasil ujian pada semester ini sangat memuaskan.\"."
+        "explanation": "Kalimat \"لَعَلَّ النَّتِيجَةَ مُمْتَازَةٌ فِي هَذَا الْفَصْلِ\" (dibaca: La'ala al-natiyjaaha mumtaāzaahun fiy hadzaā al-fashli) berarti \"Semoga hasil ujian pada semester ini sangat memuaskan.\". Kalimat ini menggunakan pola \"إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')\" (Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)) yang berfungsi untuk partikel penegas yang menashabkan isimnya dan merafa'kan khabarnya (kebalikan dari Ka'ana)."
       },
       {
         "id": "q-ar-gram-12-pg-3",
@@ -5269,7 +5305,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya belajar keras dalam studi saya demi harapan meraih kesuksesan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ لِلْبَشَرِيَّةِ\" berarti \"Saya mengetahui bahwa ilmu pengetahuan itu bermanfaat bagi umat manusia.\"."
+        "explanation": "Kalimat \"عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ لِلْبَشَرِيَّةِ\" (dibaca: 'alimtu aana al-'ilma naāfi'un lilbasyariyaahi) berarti \"Saya mengetahui bahwa ilmu pengetahuan itu bermanfaat bagi umat manusia.\". Kalimat ini menggunakan pola \"إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')\" (Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)) yang berfungsi untuk partikel penegas yang menashabkan isimnya dan merafa'kan khabarnya (kebalikan dari Ka'ana)."
       },
       {
         "id": "q-ar-gram-12-pg-4",
@@ -5289,7 +5325,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-12-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)\"?",
         "options": [
           "اجْتَهَدَ الطَّالِبُ اجْتِهَادًا كَبِيرًا — Mahasiswa itu telah bersungguh-sungguh dengan kesungguhan yang luar biasa.",
           "سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ — Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu.",
@@ -5303,7 +5339,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-12-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)\"?",
         "options": [
           "عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ لِلْبَشَرِيَّةِ — Saya mengetahui bahwa ilmu pengetahuan itu bermanfaat bagi umat manusia.",
           "فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا — Saya telah memahami pelajaran itu dengan pemahaman yang mendalam.",
@@ -5317,7 +5353,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-12-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -5564,7 +5600,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah memahami pelajaran itu dengan pemahaman yang mendalam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ\" berarti \"Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia.\"."
+        "explanation": "Kalimat \"إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ\" (dibaca: Iina al-lughaaha al-'arabiyaaha lughaahu al-qurāni al-kariymi) berarti \"Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia.\". Kalimat ini menggunakan pola \"إنّ + Isim Inna (Manshub) + Khabar Inna (Marfu')\" (Inna wa Akhawatuha (إن وأخواتها - Partikel Penegas)) yang berfungsi untuk partikel penegas yang menashabkan isimnya dan merafa'kan khabarnya (kebalikan dari Ka'ana)."
       },
       {
         "id": "q-ar-gram-12-bb-2",
@@ -5639,24 +5675,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Objek penderita yang terkena tindakan pelaku, berstatus manshub dengan tanda fathah, ya', atau kasrah (jamak muannats).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Maf'ul Bih (المفعول به - Objek Langsung) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Maf'ul Bih (المفعول به - Objek Langsung)\" (المفعول به وعلامات نصبه (الفتحة، الياء، الكسرة)) berfungsi untuk: objek penderita yang terkena tindakan pelaku, berstatus manshub dengan tanda fathah, ya', atau kasrah (jamak muannats). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ — Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang."
+          "Rumus utama: Fi'il + Fa'il + Maf'ul Bih (Manshub)",
+          "Contoh 1: شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ (Syaraḥa al-austaādzu al-masaalaaha al-sha'baaha biwudhuwḥin) — Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Fi'il + Fa'il + Maf'ul Bih (Manshub) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Fi'il + Fa'il + Maf'ul Bih (Manshub)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Maf'ul bih berstatus manshub (المسألةَ).",
         "ruleList": [
-          "كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ — Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi."
+          "Polanya: Fi'il + Fa'il + Maf'ul Bih (Manshub)",
+          "Contoh 2: كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ (Karamati al-jaāmi'aahu al-thaālibaāti al-mutafawiqaāti) — Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Maf'ul Bih (المفعول به - Objek Langsung)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "يُقَدِّرُ الْمُجْتَمَعُ الْعُلَمَاءَ الْمُخْلِصِينَ — Masyarakat menghormati para ilmuwan yang tulus mengabdi."
+          "Contoh 3: يُقَدِّرُ الْمُجْتَمَعُ الْعُلَمَاءَ الْمُخْلِصِينَ (Yuqadiru al-mujtama'u al-'ulamaā'a al-mukhlishiyna) — Masyarakat menghormati para ilmuwan yang tulus mengabdi.",
+          "Hindari kesalahan: \"شرح الأستاذُ المسألةُ\" → gunakan bentuk yang benar: \"شرح الأستاذُ المسألةَ\"."
         ]
       }
     ],
@@ -5664,19 +5703,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-13-ex-1",
         "native": "شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ",
-        "phonetic": "",
+        "phonetic": "Syaraḥa al-austaādzu al-masaalaaha al-sha'baaha biwudhuwḥin",
         "translationId": "Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang."
       },
       {
         "id": "ar-gram-13-ex-2",
         "native": "كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ",
-        "phonetic": "",
+        "phonetic": "Karamati al-jaāmi'aahu al-thaālibaāti al-mutafawiqaāti",
         "translationId": "Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi."
       },
       {
         "id": "ar-gram-13-ex-3",
         "native": "يُقَدِّرُ الْمُجْتَمَعُ الْعُلَمَاءَ الْمُخْلِصِينَ",
-        "phonetic": "",
+        "phonetic": "Yuqadiru al-mujtama'u al-'ulamaā'a al-mukhlishiyna",
         "translationId": "Masyarakat menghormati para ilmuwan yang tulus mengabdi."
       }
     ],
@@ -5692,7 +5731,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Maf'ul Bih (المفعول به - Objek Langsung) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Maf'ul Bih (المفعول به - Objek Langsung)\" (Fi'il + Fa'il + Maf'ul Bih (Manshub)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-13-pg-1",
@@ -5708,7 +5747,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ\" berarti \"Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang.\"."
+        "explanation": "Kalimat \"شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ\" (dibaca: Syaraḥa al-austaādzu al-masaalaaha al-sha'baaha biwudhuwḥin) berarti \"Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Maf'ul Bih (Manshub)\" (Maf'ul Bih (المفعول به - Objek Langsung)) yang berfungsi untuk objek penderita yang terkena tindakan pelaku, berstatus manshub dengan tanda fathah, ya', atau kasrah (jamak muannats)."
       },
       {
         "id": "q-ar-gram-13-pg-2",
@@ -5724,7 +5763,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Delegasi akademik itu berangkat pada pagi hari menuju ibu kota."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ\" berarti \"Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi.\"."
+        "explanation": "Kalimat \"كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ\" (dibaca: Karamati al-jaāmi'aahu al-thaālibaāti al-mutafawiqaāti) berarti \"Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Maf'ul Bih (Manshub)\" (Maf'ul Bih (المفعول به - Objek Langsung)) yang berfungsi untuk objek penderita yang terkena tindakan pelaku, berstatus manshub dengan tanda fathah, ya', atau kasrah (jamak muannats)."
       },
       {
         "id": "q-ar-gram-13-pg-3",
@@ -5740,7 +5779,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Dewan senat fakultas berkumpul pada hari Kamis."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"يُقَدِّرُ الْمُجْتَمَعُ الْعُلَمَاءَ الْمُخْلِصِينَ\" berarti \"Masyarakat menghormati para ilmuwan yang tulus mengabdi.\"."
+        "explanation": "Kalimat \"يُقَدِّرُ الْمُجْتَمَعُ الْعُلَمَاءَ الْمُخْلِصِينَ\" (dibaca: Yuqadiru al-mujtama'u al-'ulamaā'a al-mukhlishiyna) berarti \"Masyarakat menghormati para ilmuwan yang tulus mengabdi.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Maf'ul Bih (Manshub)\" (Maf'ul Bih (المفعول به - Objek Langsung)) yang berfungsi untuk objek penderita yang terkena tindakan pelaku, berstatus manshub dengan tanda fathah, ya', atau kasrah (jamak muannats)."
       },
       {
         "id": "q-ar-gram-13-pg-4",
@@ -5760,7 +5799,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-13-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Bih (المفعول به - Objek Langsung)\"?",
         "options": [
           "كَرَّمَتِ الْجَامِعَةُ الطَّالِبَاتِ الْمُتَفَوِّقَاتِ — Pihak universitas memberikan penghargaan kepada para mahasiswi berprestasi.",
           "وَقَفَ الطُّلَّابُ احْتِرَامًا لِلْأُسْتَاذِ — Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor.",
@@ -5774,7 +5813,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-13-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Bih (المفعول به - Objek Langsung)\"?",
         "options": [
           "سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ — Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu.",
           "يُقَدِّرُ الْمُجْتَمَعُ الْعُلَمَاءَ الْمُخْلِصِينَ — Masyarakat menghormati para ilmuwan yang tulus mengabdi.",
@@ -5788,7 +5827,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-13-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Bih (المفعول به - Objek Langsung)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6029,7 +6068,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ\" berarti \"Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang.\"."
+        "explanation": "Kalimat \"شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ\" (dibaca: Syaraḥa al-austaādzu al-masaalaaha al-sha'baaha biwudhuwḥin) berarti \"Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Maf'ul Bih (Manshub)\" (Maf'ul Bih (المفعول به - Objek Langsung)) yang berfungsi untuk objek penderita yang terkena tindakan pelaku, berstatus manshub dengan tanda fathah, ya', atau kasrah (jamak muannats)."
       },
       {
         "id": "q-ar-gram-13-bb-2",
@@ -6104,24 +6143,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Isim mashdar manshub yang berfungsi menguatkan makna verba, menerangkan jenis tindakan, atau menghitung frekuensi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)\" (المفعول المطلق لتوكيد الفعل أو بيان نوعه أو عدده) berfungsi untuk: isim mashdar manshub yang berfungsi menguatkan makna verba, menerangkan jenis tindakan, atau menghitung frekuensi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا — Saya telah memahami pelajaran itu dengan pemahaman yang mendalam."
+          "Rumus utama: Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama",
+          "Contoh 1: فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا (Fahimtu al-darsa fahmanā 'amiyqanā) — Saya telah memahami pelajaran itu dengan pemahaman yang mendalam."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Maf'ul muthlaq berstatus manshub dengan fathah tanwin.",
         "ruleList": [
-          "اجْتَهَدَ الطَّالِبُ اجْتِهَادًا كَبِيرًا — Mahasiswa itu telah bersungguh-sungguh dengan kesungguhan yang luar biasa."
+          "Polanya: Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama",
+          "Contoh 2: اجْتَهَدَ الطَّالِبُ اجْتِهَادًا كَبِيرًا (Ājtahada al-thaālibu ājtihaādanā kabiyranā) — Mahasiswa itu telah bersungguh-sungguh dengan kesungguhan yang luar biasa."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "قَرَأْتُ الْبَحْثَ قِرَاءَتَيْنِ — Saya telah membaca makalah penelitian itu sebanyak dua kali bacaan."
+          "Contoh 3: قَرَأْتُ الْبَحْثَ قِرَاءَتَيْنِ (Qaraatu al-baḥtsa qiraā'atayni) — Saya telah membaca makalah penelitian itu sebanyak dua kali bacaan.",
+          "Hindari kesalahan: \"فهمتُ الدرسَ فهمٌ\" → gunakan bentuk yang benar: \"فهمتُ الدرسَ فهماً\"."
         ]
       }
     ],
@@ -6129,19 +6171,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-14-ex-1",
         "native": "فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا",
-        "phonetic": "",
+        "phonetic": "Fahimtu al-darsa fahmanā 'amiyqanā",
         "translationId": "Saya telah memahami pelajaran itu dengan pemahaman yang mendalam."
       },
       {
         "id": "ar-gram-14-ex-2",
         "native": "اجْتَهَدَ الطَّالِبُ اجْتِهَادًا كَبِيرًا",
-        "phonetic": "",
+        "phonetic": "Ājtahada al-thaālibu ājtihaādanā kabiyranā",
         "translationId": "Mahasiswa itu telah bersungguh-sungguh dengan kesungguhan yang luar biasa."
       },
       {
         "id": "ar-gram-14-ex-3",
         "native": "قَرَأْتُ الْبَحْثَ قِرَاءَتَيْنِ",
-        "phonetic": "",
+        "phonetic": "Qaraatu al-baḥtsa qiraā'atayni",
         "translationId": "Saya telah membaca makalah penelitian itu sebanyak dua kali bacaan."
       }
     ],
@@ -6157,7 +6199,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)\" (Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-14-pg-1",
@@ -6173,7 +6215,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Pembicara itu berdiri di hadapan para hadirin di dalam aula."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا\" berarti \"Saya telah memahami pelajaran itu dengan pemahaman yang mendalam.\"."
+        "explanation": "Kalimat \"فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا\" (dibaca: Fahimtu al-darsa fahmanā 'amiyqanā) berarti \"Saya telah memahami pelajaran itu dengan pemahaman yang mendalam.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama\" (Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)) yang berfungsi untuk isim mashdar manshub yang berfungsi menguatkan makna verba, menerangkan jenis tindakan, atau menghitung frekuensi."
       },
       {
         "id": "q-ar-gram-14-pg-2",
@@ -6189,7 +6231,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"اجْتَهَدَ الطَّالِبُ اجْتِهَادًا كَبِيرًا\" berarti \"Mahasiswa itu telah bersungguh-sungguh dengan kesungguhan yang luar biasa.\"."
+        "explanation": "Kalimat \"اجْتَهَدَ الطَّالِبُ اجْتِهَادًا كَبِيرًا\" (dibaca: Ājtahada al-thaālibu ājtihaādanā kabiyranā) berarti \"Mahasiswa itu telah bersungguh-sungguh dengan kesungguhan yang luar biasa.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama\" (Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)) yang berfungsi untuk isim mashdar manshub yang berfungsi menguatkan makna verba, menerangkan jenis tindakan, atau menghitung frekuensi."
       },
       {
         "id": "q-ar-gram-14-pg-3",
@@ -6205,7 +6247,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca makalah penelitian itu sebanyak dua kali bacaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"قَرَأْتُ الْبَحْثَ قِرَاءَتَيْنِ\" berarti \"Saya telah membaca makalah penelitian itu sebanyak dua kali bacaan.\"."
+        "explanation": "Kalimat \"قَرَأْتُ الْبَحْثَ قِرَاءَتَيْنِ\" (dibaca: Qaraatu al-baḥtsa qiraā'atayni) berarti \"Saya telah membaca makalah penelitian itu sebanyak dua kali bacaan.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama\" (Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)) yang berfungsi untuk isim mashdar manshub yang berfungsi menguatkan makna verba, menerangkan jenis tindakan, atau menghitung frekuensi."
       },
       {
         "id": "q-ar-gram-14-pg-4",
@@ -6225,7 +6267,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-14-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)\"?",
         "options": [
           "وَقَفَ الْخَطِيبُ أَمَامَ الْحَاضِرِينَ فِي الْقَاعَةِ — Pembicara itu berdiri di hadapan para hadirin di dalam aula.",
           "اجْتَهَدَ الطَّالِبُ اجْتِهَادًا كَبِيرًا — Mahasiswa itu telah bersungguh-sungguh dengan kesungguhan yang luar biasa.",
@@ -6239,7 +6281,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-14-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)\"?",
         "options": [
           "سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ — Delegasi akademik itu berangkat pada pagi hari menuju ibu kota.",
           "يَجْتَمِعُ مَجْلِسُ الْكُلِّيَّةِ يَوْمَ الْخَمِيسِ — Dewan senat fakultas berkumpul pada hari Kamis.",
@@ -6253,7 +6295,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-14-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6494,7 +6536,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah memahami pelajaran itu dengan pemahaman yang mendalam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا\" berarti \"Saya telah memahami pelajaran itu dengan pemahaman yang mendalam.\"."
+        "explanation": "Kalimat \"فَهِمْتُ الدَّرْسَ فَهْمًا عَمِيقًا\" (dibaca: Fahimtu al-darsa fahmanā 'amiyqanā) berarti \"Saya telah memahami pelajaran itu dengan pemahaman yang mendalam.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar (Manshub) dari Akar Kata yang Sama\" (Maf'ul Muthlaq (المفعول المطلق - Penguat Tindakan)) yang berfungsi untuk isim mashdar manshub yang berfungsi menguatkan makna verba, menerangkan jenis tindakan, atau menghitung frekuensi."
       },
       {
         "id": "q-ar-gram-14-bb-2",
@@ -6569,24 +6611,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Isim mashdar yang menjelaskan motif psikologis atau alasan mengapa suatu perbuatan dilakukan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)\" (المفعول لأجله وبيان علّة وقوع الفعل) berfungsi untuk: isim mashdar yang menjelaskan motif psikologis atau alasan mengapa suatu perbuatan dilakukan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ — Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu."
+          "Rumus utama: Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa'",
+          "Contoh 1: سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ (Saāfartu iilaā al-riyaādhi raghbaahan fiy thalabi al-'ilmi) — Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa' diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa'\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Maf'ul li-ajlih adalah mashdar langsung manshub (احتراماً).",
         "ruleList": [
-          "وَقَفَ الطُّلَّابُ احْتِرَامًا لِلْأُسْتَاذِ — Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor."
+          "Polanya: Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa'",
+          "Contoh 2: وَقَفَ الطُّلَّابُ احْتِرَامًا لِلْأُسْتَاذِ (Waqafa al-thulaābu āḥtiraāmanā lilaustaādzi) — Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "أَجْتَهِدُ فِي دِرَاسَتِي أَمَلًا فِي النَّجَاحِ — Saya belajar keras dalam studi saya demi harapan meraih kesuksesan."
+          "Contoh 3: أَجْتَهِدُ فِي دِرَاسَتِي أَمَلًا فِي النَّجَاحِ (Aajtahidu fiy diraāsatiy aamalanā fiy al-najaāḥi) — Saya belajar keras dalam studi saya demi harapan meraih kesuksesan.",
+          "Hindari kesalahan: \"وقفتُ لاحترام الأستاذ (sebagai maf'ul)\" → gunakan bentuk yang benar: \"وقفتُ احتراماً للأستاذ\"."
         ]
       }
     ],
@@ -6594,19 +6639,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-15-ex-1",
         "native": "سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ",
-        "phonetic": "",
+        "phonetic": "Saāfartu iilaā al-riyaādhi raghbaahan fiy thalabi al-'ilmi",
         "translationId": "Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu."
       },
       {
         "id": "ar-gram-15-ex-2",
         "native": "وَقَفَ الطُّلَّابُ احْتِرَامًا لِلْأُسْتَاذِ",
-        "phonetic": "",
+        "phonetic": "Waqafa al-thulaābu āḥtiraāmanā lilaustaādzi",
         "translationId": "Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor."
       },
       {
         "id": "ar-gram-15-ex-3",
         "native": "أَجْتَهِدُ فِي دِرَاسَتِي أَمَلًا فِي النَّجَاحِ",
-        "phonetic": "",
+        "phonetic": "Aajtahidu fiy diraāsatiy aamalanā fiy al-najaāḥi",
         "translationId": "Saya belajar keras dalam studi saya demi harapan meraih kesuksesan."
       }
     ],
@@ -6622,7 +6667,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)\" (Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa') sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-15-pg-1",
@@ -6638,7 +6683,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ\" berarti \"Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu.\"."
+        "explanation": "Kalimat \"سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ\" (dibaca: Saāfartu iilaā al-riyaādhi raghbaahan fiy thalabi al-'ilmi) berarti \"Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa'\" (Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)) yang berfungsi untuk isim mashdar yang menjelaskan motif psikologis atau alasan mengapa suatu perbuatan dilakukan."
       },
       {
         "id": "q-ar-gram-15-pg-2",
@@ -6654,7 +6699,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"وَقَفَ الطُّلَّابُ احْتِرَامًا لِلْأُسْتَاذِ\" berarti \"Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor.\"."
+        "explanation": "Kalimat \"وَقَفَ الطُّلَّابُ احْتِرَامًا لِلْأُسْتَاذِ\" (dibaca: Waqafa al-thulaābu āḥtiraāmanā lilaustaādzi) berarti \"Para mahasiswa berdiri sebagai bentuk penghormatan kepada sang profesor.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa'\" (Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)) yang berfungsi untuk isim mashdar yang menjelaskan motif psikologis atau alasan mengapa suatu perbuatan dilakukan."
       },
       {
         "id": "q-ar-gram-15-pg-3",
@@ -6670,7 +6715,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Hendaklah setiap peneliti menuliskan proposal penelitiannya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"أَجْتَهِدُ فِي دِرَاسَتِي أَمَلًا فِي النَّجَاحِ\" berarti \"Saya belajar keras dalam studi saya demi harapan meraih kesuksesan.\"."
+        "explanation": "Kalimat \"أَجْتَهِدُ فِي دِرَاسَتِي أَمَلًا فِي النَّجَاحِ\" (dibaca: Aajtahidu fiy diraāsatiy aamalanā fiy al-najaāḥi) berarti \"Saya belajar keras dalam studi saya demi harapan meraih kesuksesan.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa'\" (Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)) yang berfungsi untuk isim mashdar yang menjelaskan motif psikologis atau alasan mengapa suatu perbuatan dilakukan."
       },
       {
         "id": "q-ar-gram-15-pg-4",
@@ -6690,7 +6735,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-15-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)\"?",
         "options": [
           "لَنْ يَنْدَمَ مَنْ اسْتَشَارَ أَهْلَ الْخِبْرَةِ — Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar.",
           "لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ — Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan.",
@@ -6704,7 +6749,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-15-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)\"?",
         "options": [
           "يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ — Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat.",
           "أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي الِامْتِحَانِ — Saya belajar dengan giat supaya lulus dalam ujian.",
@@ -6718,7 +6763,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-15-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -6969,7 +7014,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ\" berarti \"Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu.\"."
+        "explanation": "Kalimat \"سَافَرْتُ إِلَى الرِّيَاضِ رَغْبَةً فِي طَلَبِ الْعِلْمِ\" (dibaca: Saāfartu iilaā al-riyaādhi raghbaahan fiy thalabi al-'ilmi) berarti \"Saya bepergian ke Riyadh karena keinginan kuat untuk menuntut ilmu.\". Kalimat ini menggunakan pola \"Fi'il + Isim Mashdar Batin (Manshub) untuk Menjawab 'Mengapa'\" (Maf'ul Li-Ajlih (المفعول لأجله - Keterangan Alasan)) yang berfungsi untuk isim mashdar yang menjelaskan motif psikologis atau alasan mengapa suatu perbuatan dilakukan."
       },
       {
         "id": "q-ar-gram-15-bb-2",
@@ -7044,24 +7089,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata keterangan waktu (zaman) dan tempat (makan) yang berstatus manshub.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)\" (المفعول فيه (ظرفا الزمان والمكان)) berfungsi untuk: kata keterangan waktu (zaman) dan tempat (makan) yang berstatus manshub. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ — Delegasi akademik itu berangkat pada pagi hari menuju ibu kota."
+          "Rumus utama: Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung",
+          "Contoh 1: سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ (Saāfara al-wafdu shabaāḥanā iilaā al-'aāshimaahi) — Delegasi akademik itu berangkat pada pagi hari menuju ibu kota."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Keterangan waktu berstatus zharaf manshub (صباحاً).",
         "ruleList": [
-          "وَقَفَ الْخَطِيبُ أَمَامَ الْحَاضِرِينَ فِي الْقَاعَةِ — Pembicara itu berdiri di hadapan para hadirin di dalam aula."
+          "Polanya: Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung",
+          "Contoh 2: وَقَفَ الْخَطِيبُ أَمَامَ الْحَاضِرِينَ فِي الْقَاعَةِ (Waqafa al-khathiybu aamaāma al-ḥaādhiriyna fiy al-qaā'aahi) — Pembicara itu berdiri di hadapan para hadirin di dalam aula."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "يَجْتَمِعُ مَجْلِسُ الْكُلِّيَّةِ يَوْمَ الْخَمِيسِ — Dewan senat fakultas berkumpul pada hari Kamis."
+          "Contoh 3: يَجْتَمِعُ مَجْلِسُ الْكُلِّيَّةِ يَوْمَ الْخَمِيسِ (Yajtami'u majlisu al-kuliyaahi yawma al-khamiysi) — Dewan senat fakultas berkumpul pada hari Kamis.",
+          "Hindari kesalahan: \"سافر الوفدُ صباحُ\" → gunakan bentuk yang benar: \"سافر الوفدُ صباحاً\"."
         ]
       }
     ],
@@ -7069,19 +7117,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-16-ex-1",
         "native": "سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ",
-        "phonetic": "",
+        "phonetic": "Saāfara al-wafdu shabaāḥanā iilaā al-'aāshimaahi",
         "translationId": "Delegasi akademik itu berangkat pada pagi hari menuju ibu kota."
       },
       {
         "id": "ar-gram-16-ex-2",
         "native": "وَقَفَ الْخَطِيبُ أَمَامَ الْحَاضِرِينَ فِي الْقَاعَةِ",
-        "phonetic": "",
+        "phonetic": "Waqafa al-khathiybu aamaāma al-ḥaādhiriyna fiy al-qaā'aahi",
         "translationId": "Pembicara itu berdiri di hadapan para hadirin di dalam aula."
       },
       {
         "id": "ar-gram-16-ex-3",
         "native": "يَجْتَمِعُ مَجْلِسُ الْكُلِّيَّةِ يَوْمَ الْخَمِيسِ",
-        "phonetic": "",
+        "phonetic": "Yajtami'u majlisu al-kuliyaahi yawma al-khamiysi",
         "translationId": "Dewan senat fakultas berkumpul pada hari Kamis."
       }
     ],
@@ -7097,7 +7145,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)\" (Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-16-pg-1",
@@ -7113,7 +7161,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Delegasi akademik itu berangkat pada pagi hari menuju ibu kota."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ\" berarti \"Delegasi akademik itu berangkat pada pagi hari menuju ibu kota.\"."
+        "explanation": "Kalimat \"سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ\" (dibaca: Saāfara al-wafdu shabaāḥanā iilaā al-'aāshimaahi) berarti \"Delegasi akademik itu berangkat pada pagi hari menuju ibu kota.\". Kalimat ini menggunakan pola \"Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung\" (Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)) yang berfungsi untuk kata keterangan waktu (zaman) dan tempat (makan) yang berstatus manshub."
       },
       {
         "id": "q-ar-gram-16-pg-2",
@@ -7129,7 +7177,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang meraih peringkat pertama itu sangat unggul."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"وَقَفَ الْخَطِيبُ أَمَامَ الْحَاضِرِينَ فِي الْقَاعَةِ\" berarti \"Pembicara itu berdiri di hadapan para hadirin di dalam aula.\"."
+        "explanation": "Kalimat \"وَقَفَ الْخَطِيبُ أَمَامَ الْحَاضِرِينَ فِي الْقَاعَةِ\" (dibaca: Waqafa al-khathiybu aamaāma al-ḥaādhiriyna fiy al-qaā'aahi) berarti \"Pembicara itu berdiri di hadapan para hadirin di dalam aula.\". Kalimat ini menggunakan pola \"Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung\" (Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)) yang berfungsi untuk kata keterangan waktu (zaman) dan tempat (makan) yang berstatus manshub."
       },
       {
         "id": "q-ar-gram-16-pg-3",
@@ -7145,7 +7193,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Para ulama dan ilmuwan yang telah berjasa melayani umat sangatlah banyak."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"يَجْتَمِعُ مَجْلِسُ الْكُلِّيَّةِ يَوْمَ الْخَمِيسِ\" berarti \"Dewan senat fakultas berkumpul pada hari Kamis.\"."
+        "explanation": "Kalimat \"يَجْتَمِعُ مَجْلِسُ الْكُلِّيَّةِ يَوْمَ الْخَمِيسِ\" (dibaca: Yajtami'u majlisu al-kuliyaahi yawma al-khamiysi) berarti \"Dewan senat fakultas berkumpul pada hari Kamis.\". Kalimat ini menggunakan pola \"Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung\" (Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)) yang berfungsi untuk kata keterangan waktu (zaman) dan tempat (makan) yang berstatus manshub."
       },
       {
         "id": "q-ar-gram-16-pg-4",
@@ -7165,7 +7213,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-16-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)\"?",
         "options": [
           "لَا تَيْأَسْ مِنْ تَحْقِيقِ أَهْدَافِكَ الْعِلْمِيَّةِ — Janganlah engkau berputus asa dalam meraih cita-cita ilmiahmu!",
           "الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ — Mahasiswa yang meraih peringkat pertama itu sangat unggul.",
@@ -7179,7 +7227,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-16-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)\"?",
         "options": [
           "يَجْتَمِعُ مَجْلِسُ الْكُلِّيَّةِ يَوْمَ الْخَمِيسِ — Dewan senat fakultas berkumpul pada hari Kamis.",
           "لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ — Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan.",
@@ -7193,7 +7241,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-16-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -7444,7 +7492,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ\" berarti \"Delegasi akademik itu berangkat pada pagi hari menuju ibu kota.\"."
+        "explanation": "Kalimat \"سَافَرَ الْوَفْدُ صَبَاحًا إِلَى الْعَاصِمَةِ\" (dibaca: Saāfara al-wafdu shabaāḥanā iilaā al-'aāshimaahi) berarti \"Delegasi akademik itu berangkat pada pagi hari menuju ibu kota.\". Kalimat ini menggunakan pola \"Zharaf (Manshub) Menunjukkan Kapan atau Di Mana Aksi Berlangsung\" (Zharaf Makan dan Zharaf Zaman (ظرف المكان والزمان)) yang berfungsi untuk kata keterangan waktu (zaman) dan tempat (makan) yang berstatus manshub."
       },
       {
         "id": "q-ar-gram-16-bb-2",
@@ -7519,24 +7567,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Partikel yang mengubah harakat akhir fi'il mudhari' dari dhammah menjadi fathah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)\" (نواصب الفعل المضارع (أن، لن، كي، إذن، لام التعليل)) berfungsi untuk: partikel yang mengubah harakat akhir fi'il mudhari' dari dhammah menjadi fathah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ — Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat."
+          "Rumus utama: Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)",
+          "Contoh 1: يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ (Yajibu aan najtahida fiy khidmaahi al-mujtama'i) — Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah أن fi'il mudhari' berharakat fathah (نجتهدَ).",
         "ruleList": [
-          "لَنْ يَنْدَمَ مَنْ اسْتَشَارَ أَهْلَ الْخِبْرَةِ — Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar."
+          "Polanya: Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)",
+          "Contoh 2: لَنْ يَنْدَمَ مَنْ اسْتَشَارَ أَهْلَ الْخِبْرَةِ (Lan yandama man āstasyaāra aahla al-khibraahi) — Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي الِامْتِحَانِ — Saya belajar dengan giat supaya lulus dalam ujian."
+          "Contoh 3: أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي الِامْتِحَانِ (Aadrusu bijidin likay aanjaḥa fiy al-iāmtiḥaāni) — Saya belajar dengan giat supaya lulus dalam ujian.",
+          "Hindari kesalahan: \"يجب أن نجتهدُ\" → gunakan bentuk yang benar: \"يجب أن نجتهدَ\"."
         ]
       }
     ],
@@ -7544,19 +7595,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-17-ex-1",
         "native": "يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ",
-        "phonetic": "",
+        "phonetic": "Yajibu aan najtahida fiy khidmaahi al-mujtama'i",
         "translationId": "Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat."
       },
       {
         "id": "ar-gram-17-ex-2",
         "native": "لَنْ يَنْدَمَ مَنْ اسْتَشَارَ أَهْلَ الْخِبْرَةِ",
-        "phonetic": "",
+        "phonetic": "Lan yandama man āstasyaāra aahla al-khibraahi",
         "translationId": "Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar."
       },
       {
         "id": "ar-gram-17-ex-3",
         "native": "أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي الِامْتِحَانِ",
-        "phonetic": "",
+        "phonetic": "Aadrusu bijidin likay aanjaḥa fiy al-iāmtiḥaāni",
         "translationId": "Saya belajar dengan giat supaya lulus dalam ujian."
       }
     ],
@@ -7572,7 +7623,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)\" (Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-17-pg-1",
@@ -7588,7 +7639,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Universitas tempat saya berkuliah menyediakan layanan yang luar biasa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ\" berarti \"Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat.\"."
+        "explanation": "Kalimat \"يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ\" (dibaca: Yajibu aan najtahida fiy khidmaahi al-mujtama'i) berarti \"Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat.\". Kalimat ini menggunakan pola \"Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)\" (Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)) yang berfungsi untuk partikel yang mengubah harakat akhir fi'il mudhari' dari dhammah menjadi fathah."
       },
       {
         "id": "q-ar-gram-17-pg-2",
@@ -7604,7 +7655,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca tiga buah buku berharga tentang linguistik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"لَنْ يَنْدَمَ مَنْ اسْتَشَارَ أَهْلَ الْخِبْرَةِ\" berarti \"Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar.\"."
+        "explanation": "Kalimat \"لَنْ يَنْدَمَ مَنْ اسْتَشَارَ أَهْلَ الْخِبْرَةِ\" (dibaca: Lan yandama man āstasyaāra aahla al-khibraahi) berarti \"Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar.\". Kalimat ini menggunakan pola \"Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)\" (Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)) yang berfungsi untuk partikel yang mengubah harakat akhir fi'il mudhari' dari dhammah menjadi fathah."
       },
       {
         "id": "q-ar-gram-17-pg-3",
@@ -7620,7 +7671,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membeli empat buah pena baru."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي الِامْتِحَانِ\" berarti \"Saya belajar dengan giat supaya lulus dalam ujian.\"."
+        "explanation": "Kalimat \"أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي الِامْتِحَانِ\" (dibaca: Aadrusu bijidin likay aanjaḥa fiy al-iāmtiḥaāni) berarti \"Saya belajar dengan giat supaya lulus dalam ujian.\". Kalimat ini menggunakan pola \"Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)\" (Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)) yang berfungsi untuk partikel yang mengubah harakat akhir fi'il mudhari' dari dhammah menjadi fathah."
       },
       {
         "id": "q-ar-gram-17-pg-4",
@@ -7640,7 +7691,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-17-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)\"?",
         "options": [
           "لَنْ يَنْدَمَ مَنْ اسْتَشَارَ أَهْلَ الْخِبْرَةِ — Tidak akan pernah menyesal orang yang bermusyawarah dengan para pakar.",
           "الْجَامِعَةُ الَّتِي أَدْرُسُ فِيهَا تُقَدِّمُ خِدْمَاتٍ رَائِعَةً — Universitas tempat saya berkuliah menyediakan layanan yang luar biasa.",
@@ -7654,7 +7705,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-17-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)\"?",
         "options": [
           "الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ — Mahasiswa yang meraih peringkat pertama itu sangat unggul.",
           "أَدْرُسُ بِجِدٍّ لِكَيْ أَنْجَحَ فِي الِامْتِحَانِ — Saya belajar dengan giat supaya lulus dalam ujian.",
@@ -7668,7 +7719,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-17-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -7921,7 +7972,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang meraih peringkat pertama itu sangat unggul."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ\" berarti \"Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat.\"."
+        "explanation": "Kalimat \"يَجِبُ أَنْ نَجْتَهِدَ فِي خِدْمَةِ الْمُجْتَمَعِ\" (dibaca: Yajibu aan najtahida fiy khidmaahi al-mujtama'i) berarti \"Kita wajib bersungguh-sungguh dalam mengabdi kepada masyarakat.\". Kalimat ini menggunakan pola \"Huruf Nashab + Fi'il Mudhari' (Manshub dengan Fathah)\" (Huruf Nashab Fi'il Mudhari' (أن، لن، كي، إذن)) yang berfungsi untuk partikel yang mengubah harakat akhir fi'il mudhari' dari dhammah menjadi fathah."
       },
       {
         "id": "q-ar-gram-17-bb-2",
@@ -7996,24 +8047,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Partikel yang menjazmkan fi'il mudhari' dengan tanda sukun atau penghilangan huruf nun / 'illat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)\" (جوازم الفعل المضارع وأدوات الجزم) berfungsi untuk: partikel yang menjazmkan fi'il mudhari' dengan tanda sukun atau penghilangan huruf nun / 'illat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ — Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan."
+          "Rumus utama: Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)",
+          "Contoh 1: لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ (Lam yataaakhar aayu thaālibin 'ani al-maw'idi al-muḥadadi) — Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah لم fi'il mudhari' berharakat sukun (يتأخرْ).",
         "ruleList": [
-          "لَا تَيْأَسْ مِنْ تَحْقِيقِ أَهْدَافِكَ الْعِلْمِيَّةِ — Janganlah engkau berputus asa dalam meraih cita-cita ilmiahmu!"
+          "Polanya: Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)",
+          "Contoh 2: لَا تَيْأَسْ مِنْ تَحْقِيقِ أَهْدَافِكَ الْعِلْمِيَّةِ (Laā tayaas min taḥqiyqi aahdaāfika al-'ilmiyaahi) — Janganlah engkau berputus asa dalam meraih cita-cita ilmiahmu!"
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "لِيَكْتُبْ كُلُّ بَاحِثٍ خُطَّةَ بَحْثِهِ — Hendaklah setiap peneliti menuliskan proposal penelitiannya."
+          "Contoh 3: لِيَكْتُبْ كُلُّ بَاحِثٍ خُطَّةَ بَحْثِهِ (Liyaktub kulu baāḥitsin khuthaaha baḥtsihi) — Hendaklah setiap peneliti menuliskan proposal penelitiannya.",
+          "Hindari kesalahan: \"لم يتأخرُ\" → gunakan bentuk yang benar: \"لم يتأخرْ\"."
         ]
       }
     ],
@@ -8021,19 +8075,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-18-ex-1",
         "native": "لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ",
-        "phonetic": "",
+        "phonetic": "Lam yataaakhar aayu thaālibin 'ani al-maw'idi al-muḥadadi",
         "translationId": "Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan."
       },
       {
         "id": "ar-gram-18-ex-2",
         "native": "لَا تَيْأَسْ مِنْ تَحْقِيقِ أَهْدَافِكَ الْعِلْمِيَّةِ",
-        "phonetic": "",
+        "phonetic": "Laā tayaas min taḥqiyqi aahdaāfika al-'ilmiyaahi",
         "translationId": "Janganlah engkau berputus asa dalam meraih cita-cita ilmiahmu!"
       },
       {
         "id": "ar-gram-18-ex-3",
         "native": "لِيَكْتُبْ كُلُّ بَاحِثٍ خُطَّةَ بَحْثِهِ",
-        "phonetic": "",
+        "phonetic": "Liyaktub kulu baāḥitsin khuthaaha baḥtsihi",
         "translationId": "Hendaklah setiap peneliti menuliskan proposal penelitiannya."
       }
     ],
@@ -8049,7 +8103,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)\" (Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-18-pg-1",
@@ -8065,7 +8119,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Di dalam aula terdapat lima orang mahasiswi berprestasi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ\" berarti \"Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan.\"."
+        "explanation": "Kalimat \"لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ\" (dibaca: Lam yataaakhar aayu thaālibin 'ani al-maw'idi al-muḥadadi) berarti \"Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan.\". Kalimat ini menggunakan pola \"Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)\" (Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)) yang berfungsi untuk partikel yang menjazmkan fi'il mudhari' dengan tanda sukun atau penghilangan huruf nun / 'illat."
       },
       {
         "id": "q-ar-gram-18-pg-2",
@@ -8081,7 +8135,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ujian itu tadinya mudah bagi para mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"لَا تَيْأَسْ مِنْ تَحْقِيقِ أَهْدَافِكَ الْعِلْمِيَّةِ\" berarti \"Janganlah engkau berputus asa dalam meraih cita-cita ilmiahmu!\"."
+        "explanation": "Kalimat \"لَا تَيْأَسْ مِنْ تَحْقِيقِ أَهْدَافِكَ الْعِلْمِيَّةِ\" (dibaca: Laā tayaas min taḥqiyqi aahdaāfika al-'ilmiyaahi) berarti \"Janganlah engkau berputus asa dalam meraih cita-cita ilmiahmu!\". Kalimat ini menggunakan pola \"Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)\" (Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)) yang berfungsi untuk partikel yang menjazmkan fi'il mudhari' dengan tanda sukun atau penghilangan huruf nun / 'illat."
       },
       {
         "id": "q-ar-gram-18-pg-3",
@@ -8097,7 +8151,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Hendaklah setiap peneliti menuliskan proposal penelitiannya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"لِيَكْتُبْ كُلُّ بَاحِثٍ خُطَّةَ بَحْثِهِ\" berarti \"Hendaklah setiap peneliti menuliskan proposal penelitiannya.\"."
+        "explanation": "Kalimat \"لِيَكْتُبْ كُلُّ بَاحِثٍ خُطَّةَ بَحْثِهِ\" (dibaca: Liyaktub kulu baāḥitsin khuthaaha baḥtsihi) berarti \"Hendaklah setiap peneliti menuliskan proposal penelitiannya.\". Kalimat ini menggunakan pola \"Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)\" (Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)) yang berfungsi untuk partikel yang menjazmkan fi'il mudhari' dengan tanda sukun atau penghilangan huruf nun / 'illat."
       },
       {
         "id": "q-ar-gram-18-pg-4",
@@ -8117,7 +8171,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-18-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)\"?",
         "options": [
           "فِي الْقَاعَةِ خَمْسُ طَالِبَاتٍ مُتَفَوِّقَاتٍ — Di dalam aula terdapat lima orang mahasiswi berprestasi.",
           "لَا تَيْأَسْ مِنْ تَحْقِيقِ أَهْدَافِكَ الْعِلْمِيَّةِ — Janganlah engkau berputus asa dalam meraih cita-cita ilmiahmu!",
@@ -8131,7 +8185,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-18-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)\"?",
         "options": [
           "قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ — Saya telah membaca tiga buah buku berharga tentang linguistik.",
           "اشْتَرَيْتُ أَرْبَعَةَ أَقْلَامٍ جَدِيدَةٍ — Saya telah membeli empat buah pena baru.",
@@ -8145,7 +8199,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-18-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -8396,7 +8450,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ\" berarti \"Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan.\"."
+        "explanation": "Kalimat \"لَمْ يَتَأَخَّرْ أَيُّ طَالِبٍ عَنِ الْمَوْعِدِ الْمُحَدَّدِ\" (dibaca: Lam yataaakhar aayu thaālibin 'ani al-maw'idi al-muḥadadi) berarti \"Tidak ada seorang pun mahasiswa yang terlambat dari jadwal yang ditentukan.\". Kalimat ini menggunakan pola \"Huruf Jazm + Fi'il Mudhari' (Majzum dengan Sukun / Hadzf)\" (Huruf Jazm Fi'il Mudhari' (لم، لمّا، لام الأمر، لا الناهية)) yang berfungsi untuk partikel yang menjazmkan fi'il mudhari' dengan tanda sukun atau penghilangan huruf nun / 'illat."
       },
       {
         "id": "q-ar-gram-18-bb-2",
@@ -8471,24 +8525,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata ganti penghubung setara 'yang' (الذي untuk tunggal maskulin, التي untuk tunggal feminin, الذين untuk jamak maskulin).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Isim Maushul (الأسماء الموصولة: الذي، التي، الذين) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)\" (الاسم الموصول وصلة الموصول وعائدها) berfungsi untuk: kata ganti penghubung setara 'yang' (الذي untuk tunggal maskulin, التي untuk tunggal feminin, الذين untuk jamak maskulin). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ — Mahasiswa yang meraih peringkat pertama itu sangat unggul."
+          "Rumus utama: Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)",
+          "Contoh 1: الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ (Al-thaālibu al-adziy ḥashala 'alaā al-markazi al-aawali mutafawiqun) — Mahasiswa yang meraih peringkat pertama itu sangat unggul."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Isim maushul harus menyamai gender kata bendanya (الذي untuk maskulin).",
         "ruleList": [
-          "الْجَامِعَةُ الَّتِي أَدْرُسُ فِيهَا تُقَدِّمُ خِدْمَاتٍ رَائِعَةً — Universitas tempat saya berkuliah menyediakan layanan yang luar biasa."
+          "Polanya: Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)",
+          "Contoh 2: الْجَامِعَةُ الَّتِي أَدْرُسُ فِيهَا تُقَدِّمُ خِدْمَاتٍ رَائِعَةً (Al-jaāmi'aahu al-atiy aadrusu fiyhaā tuqadimu khidmaātin raāi'i'aahan) — Universitas tempat saya berkuliah menyediakan layanan yang luar biasa."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "الْعُلَمَاءُ الَّذِينَ خَدَمُوا الْأُمَّةَ كَثِيرُونَ — Para ulama dan ilmuwan yang telah berjasa melayani umat sangatlah banyak."
+          "Contoh 3: الْعُلَمَاءُ الَّذِينَ خَدَمُوا الْأُمَّةَ كَثِيرُونَ (Al-'ulamaā'u al-adziyna khadamuwā al-aumaaha katsiyruwna) — Para ulama dan ilmuwan yang telah berjasa melayani umat sangatlah banyak.",
+          "Hindari kesalahan: \"الطالب التي حصل\" → gunakan bentuk yang benar: \"الطالب الذي حصل\"."
         ]
       }
     ],
@@ -8496,19 +8553,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-19-ex-1",
         "native": "الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ",
-        "phonetic": "",
+        "phonetic": "Al-thaālibu al-adziy ḥashala 'alaā al-markazi al-aawali mutafawiqun",
         "translationId": "Mahasiswa yang meraih peringkat pertama itu sangat unggul."
       },
       {
         "id": "ar-gram-19-ex-2",
         "native": "الْجَامِعَةُ الَّتِي أَدْرُسُ فِيهَا تُقَدِّمُ خِدْمَاتٍ رَائِعَةً",
-        "phonetic": "",
+        "phonetic": "Al-jaāmi'aahu al-atiy aadrusu fiyhaā tuqadimu khidmaātin raāi'i'aahan",
         "translationId": "Universitas tempat saya berkuliah menyediakan layanan yang luar biasa."
       },
       {
         "id": "ar-gram-19-ex-3",
         "native": "الْعُلَمَاءُ الَّذِينَ خَدَمُوا الْأُمَّةَ كَثِيرُونَ",
-        "phonetic": "",
+        "phonetic": "Al-'ulamaā'u al-adziyna khadamuwā al-aumaaha katsiyruwna",
         "translationId": "Para ulama dan ilmuwan yang telah berjasa melayani umat sangatlah banyak."
       }
     ],
@@ -8524,7 +8581,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Isim Maushul (الأسماء الموصولة: الذي، التي، الذين) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)\" (Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-19-pg-1",
@@ -8540,7 +8597,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ\" berarti \"Mahasiswa yang meraih peringkat pertama itu sangat unggul.\"."
+        "explanation": "Kalimat \"الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ\" (dibaca: Al-thaālibu al-adziy ḥashala 'alaā al-markazi al-aawali mutafawiqun) berarti \"Mahasiswa yang meraih peringkat pertama itu sangat unggul.\". Kalimat ini menggunakan pola \"Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)\" (Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)) yang berfungsi untuk kata ganti penghubung setara 'yang' (الذي untuk tunggal maskulin, التي untuk tunggal feminin, الذين untuk jamak maskulin)."
       },
       {
         "id": "q-ar-gram-19-pg-2",
@@ -8556,7 +8613,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Universitas tempat saya berkuliah menyediakan layanan yang luar biasa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"الْجَامِعَةُ الَّتِي أَدْرُسُ فِيهَا تُقَدِّمُ خِدْمَاتٍ رَائِعَةً\" berarti \"Universitas tempat saya berkuliah menyediakan layanan yang luar biasa.\"."
+        "explanation": "Kalimat \"الْجَامِعَةُ الَّتِي أَدْرُسُ فِيهَا تُقَدِّمُ خِدْمَاتٍ رَائِعَةً\" (dibaca: Al-jaāmi'aahu al-atiy aadrusu fiyhaā tuqadimu khidmaātin raāi'i'aahan) berarti \"Universitas tempat saya berkuliah menyediakan layanan yang luar biasa.\". Kalimat ini menggunakan pola \"Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)\" (Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)) yang berfungsi untuk kata ganti penghubung setara 'yang' (الذي untuk tunggal maskulin, التي untuk tunggal feminin, الذين untuk jamak maskulin)."
       },
       {
         "id": "q-ar-gram-19-pg-3",
@@ -8572,7 +8629,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya mengetahui bahwa ilmu pengetahuan itu bermanfaat bagi umat manusia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"الْعُلَمَاءُ الَّذِينَ خَدَمُوا الْأُمَّةَ كَثِيرُونَ\" berarti \"Para ulama dan ilmuwan yang telah berjasa melayani umat sangatlah banyak.\"."
+        "explanation": "Kalimat \"الْعُلَمَاءُ الَّذِينَ خَدَمُوا الْأُمَّةَ كَثِيرُونَ\" (dibaca: Al-'ulamaā'u al-adziyna khadamuwā al-aumaaha katsiyruwna) berarti \"Para ulama dan ilmuwan yang telah berjasa melayani umat sangatlah banyak.\". Kalimat ini menggunakan pola \"Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)\" (Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)) yang berfungsi untuk kata ganti penghubung setara 'yang' (الذي untuk tunggal maskulin, التي untuk tunggal feminin, الذين untuk jamak maskulin)."
       },
       {
         "id": "q-ar-gram-19-pg-4",
@@ -8592,7 +8649,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-19-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)\"?",
         "options": [
           "أَصْبَحَ الْعِلْمُ مُتَاحًا لِلْجَمِيعِ بِفَضْلِ التِّقْنِيَّةِ — Ilmu pengetahuan menjadi terbuka bagi semua orang berkat teknologi.",
           "إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ — Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia.",
@@ -8606,7 +8663,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-19-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)\"?",
         "options": [
           "كَانَ الِامْتِحَانُ سَهْلًا عَلَى الطُّلَّابِ — Ujian itu tadinya mudah bagi para mahasiswa.",
           "ظَلَّ الْبَاحِثُ مُجْتَهِدًا فِي مَعْمَلِهِ — Peneliti itu senantiasa tekun bekerja di laboratoriumnya.",
@@ -8620,7 +8677,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-19-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -8869,7 +8926,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ujian itu tadinya mudah bagi para mahasiswa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ\" berarti \"Mahasiswa yang meraih peringkat pertama itu sangat unggul.\"."
+        "explanation": "Kalimat \"الطَّالِبُ الَّذِي حَصَلَ عَلَى الْمَرْكَزِ الْأَوَّلِ مُتَفَوِّقٌ\" (dibaca: Al-thaālibu al-adziy ḥashala 'alaā al-markazi al-aawali mutafawiqun) berarti \"Mahasiswa yang meraih peringkat pertama itu sangat unggul.\". Kalimat ini menggunakan pola \"Isim Maushul + Silatul Maushul (Klausa Penjelas Relatif)\" (Isim Maushul (الأسماء الموصولة: الذي، التي، الذين)) yang berfungsi untuk kata ganti penghubung setara 'yang' (الذي untuk tunggal maskulin, التي untuk tunggal feminin, الذين untuk jamak maskulin)."
       },
       {
         "id": "q-ar-gram-19-bb-2",
@@ -8944,24 +9001,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan kebalikan gender (mukhalafah) antara bilangan dan benda yang dihitung dari angka 3 sampai 10.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)\" (قواعد تذكير العدد وتأنيثه وتمييزه) berfungsi untuk: aturan kebalikan gender (mukhalafah) antara bilangan dan benda yang dihitung dari angka 3 sampai 10. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ — Saya telah membaca tiga buah buku berharga tentang linguistik."
+          "Rumus utama: Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur",
+          "Contoh 1: قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ (Qaraatu tsalaātsaaha kutubin qayimaahin fiy al-lughaahi) — Saya telah membaca tiga buah buku berharga tentang linguistik."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Karena كتاب maskulin, maka angka tiga harus berbentuk feminin (ثلاثة).",
         "ruleList": [
-          "فِي الْقَاعَةِ خَمْسُ طَالِبَاتٍ مُتَفَوِّقَاتٍ — Di dalam aula terdapat lima orang mahasiswi berprestasi."
+          "Polanya: Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur",
+          "Contoh 2: فِي الْقَاعَةِ خَمْسُ طَالِبَاتٍ مُتَفَوِّقَاتٍ (Fiy al-qaā'aahi khamsu thaālibaātin mutafawiqaātin) — Di dalam aula terdapat lima orang mahasiswi berprestasi."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "اشْتَرَيْتُ أَرْبَعَةَ أَقْلَامٍ جَدِيدَةٍ — Saya telah membeli empat buah pena baru."
+          "Contoh 3: اشْتَرَيْتُ أَرْبَعَةَ أَقْلَامٍ جَدِيدَةٍ (Āsytaraytu aarba'aaha aaqlaāmin jadiydaahin) — Saya telah membeli empat buah pena baru.",
+          "Hindari kesalahan: \"ثلاث كتب\" → gunakan bentuk yang benar: \"ثلاثةُ كتبٍ\"."
         ]
       }
     ],
@@ -8969,19 +9029,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-20-ex-1",
         "native": "قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ",
-        "phonetic": "",
+        "phonetic": "Qaraatu tsalaātsaaha kutubin qayimaahin fiy al-lughaahi",
         "translationId": "Saya telah membaca tiga buah buku berharga tentang linguistik."
       },
       {
         "id": "ar-gram-20-ex-2",
         "native": "فِي الْقَاعَةِ خَمْسُ طَالِبَاتٍ مُتَفَوِّقَاتٍ",
-        "phonetic": "",
+        "phonetic": "Fiy al-qaā'aahi khamsu thaālibaātin mutafawiqaātin",
         "translationId": "Di dalam aula terdapat lima orang mahasiswi berprestasi."
       },
       {
         "id": "ar-gram-20-ex-3",
         "native": "اشْتَرَيْتُ أَرْبَعَةَ أَقْلَامٍ جَدِيدَةٍ",
-        "phonetic": "",
+        "phonetic": "Āsytaraytu aarba'aaha aaqlaāmin jadiydaahin",
         "translationId": "Saya telah membeli empat buah pena baru."
       }
     ],
@@ -8997,7 +9057,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)\" (Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-20-pg-1",
@@ -9013,7 +9073,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca tiga buah buku berharga tentang linguistik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ\" berarti \"Saya telah membaca tiga buah buku berharga tentang linguistik.\"."
+        "explanation": "Kalimat \"قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ\" (dibaca: Qaraatu tsalaātsaaha kutubin qayimaahin fiy al-lughaahi) berarti \"Saya telah membaca tiga buah buku berharga tentang linguistik.\". Kalimat ini menggunakan pola \"Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur\" (Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)) yang berfungsi untuk aturan kebalikan gender (mukhalafah) antara bilangan dan benda yang dihitung dari angka 3 sampai 10."
       },
       {
         "id": "q-ar-gram-20-pg-2",
@@ -9029,7 +9089,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"فِي الْقَاعَةِ خَمْسُ طَالِبَاتٍ مُتَفَوِّقَاتٍ\" berarti \"Di dalam aula terdapat lima orang mahasiswi berprestasi.\"."
+        "explanation": "Kalimat \"فِي الْقَاعَةِ خَمْسُ طَالِبَاتٍ مُتَفَوِّقَاتٍ\" (dibaca: Fiy al-qaā'aahi khamsu thaālibaātin mutafawiqaātin) berarti \"Di dalam aula terdapat lima orang mahasiswi berprestasi.\". Kalimat ini menggunakan pola \"Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur\" (Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)) yang berfungsi untuk aturan kebalikan gender (mukhalafah) antara bilangan dan benda yang dihitung dari angka 3 sampai 10."
       },
       {
         "id": "q-ar-gram-20-pg-3",
@@ -9045,7 +9105,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Masyarakat menghormati para ilmuwan yang tulus mengabdi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"اشْتَرَيْتُ أَرْبَعَةَ أَقْلَامٍ جَدِيدَةٍ\" berarti \"Saya telah membeli empat buah pena baru.\"."
+        "explanation": "Kalimat \"اشْتَرَيْتُ أَرْبَعَةَ أَقْلَامٍ جَدِيدَةٍ\" (dibaca: Āsytaraytu aarba'aaha aaqlaāmin jadiydaahin) berarti \"Saya telah membeli empat buah pena baru.\". Kalimat ini menggunakan pola \"Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur\" (Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)) yang berfungsi untuk aturan kebalikan gender (mukhalafah) antara bilangan dan benda yang dihitung dari angka 3 sampai 10."
       },
       {
         "id": "q-ar-gram-20-pg-4",
@@ -9065,7 +9125,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-20-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)\"?",
         "options": [
           "لَعَلَّ النَّتِيجَةَ مُمْتَازَةٌ فِي هَذَا الْفَصْلِ — Semoga hasil ujian pada semester ini sangat memuaskan.",
           "شَرَحَ الْأُسْتَاذُ الْمَسْأَلَةَ الصَّعْبَةَ بِوُضُوحٍ — Profesor itu menjelaskan persoalan yang sulit tersebut dengan terang.",
@@ -9079,7 +9139,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-20-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)\"?",
         "options": [
           "اشْتَرَيْتُ أَرْبَعَةَ أَقْلَامٍ جَدِيدَةٍ — Saya telah membeli empat buah pena baru.",
           "إِنَّ اللُّغَةَ الْعَرَبِيَّةَ لُغَةُ الْقُرْآنِ الْكَرِيمِ — Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia.",
@@ -9093,7 +9153,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-20-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -9344,7 +9404,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sesungguhnya bahasa Arab adalah bahasa Al-Qur'an yang mulia."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ\" berarti \"Saya telah membaca tiga buah buku berharga tentang linguistik.\"."
+        "explanation": "Kalimat \"قَرَأْتُ ثَلَاثَةَ كُتُبٍ قَيِّمَةٍ فِي اللُّغَةِ\" (dibaca: Qaraatu tsalaātsaaha kutubin qayimaahin fiy al-lughaahi) berarti \"Saya telah membaca tiga buah buku berharga tentang linguistik.\". Kalimat ini menggunakan pola \"Angka 3-10 Menentang Gender Ma'dud + Ma'dud Jamak Majrur\" (Kaidah Adad Ma'dud 1 sampai 10 (الأعداد من 1 إلى 10)) yang berfungsi untuk aturan kebalikan gender (mukhalafah) antara bilangan dan benda yang dihitung dari angka 3 sampai 10."
       },
       {
         "id": "q-ar-gram-20-bb-2",
@@ -9419,24 +9479,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Perubahan makna verba melalui penambahan huruf pada akar tiga konsonan (intensitas, kausatif, resiprokal, memohon).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)\" (أوزان الفعل الثلاثي المزيد بحرف وحرفين وثلاثة) berfungsi untuk: perubahan makna verba melalui penambahan huruf pada akar tiga konsonan (intensitas, kausatif, resiprokal, memohon). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ — Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada."
+          "Rumus utama: فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ",
+          "Contoh 1: اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ (Āstakhraja al-baāḥitsu al-nataāi'ija mina al-bayaānaāti) — Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Akar kata اسْتَفْعَلَ menunjukkan makna mencari atau menuntut hasil.",
         "ruleList": [
-          "عَلَّمَ الْأُسْتَاذُ طُلَّابَهُ مَنَاهِجَ الْبَحْثِ — Profesor itu mengajarkan metodologi penelitian kepada para mahasiswanya."
+          "Polanya: فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ",
+          "Contoh 2: عَلَّمَ الْأُسْتَاذُ طُلَّابَهُ مَنَاهِجَ الْبَحْثِ ('alama al-austaādzu thulaābahu manaāhija al-baḥtsi) — Profesor itu mengajarkan metodologi penelitian kepada para mahasiswanya."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "تَعَاوَنَ الْجَمِيعُ فِي إِنْجَازِ الْمَشْرُوعِ — Semua pihak saling bekerja sama dalam menuntaskan proyek tersebut."
+          "Contoh 3: تَعَاوَنَ الْجَمِيعُ فِي إِنْجَازِ الْمَشْرُوعِ (Ta'aāwana al-jamiy'u fiy iinjaāzi al-masyruw'i) — Semua pihak saling bekerja sama dalam menuntaskan proyek tersebut.",
+          "Hindari kesalahan: \"استخرجَ الطالبِ\" → gunakan bentuk yang benar: \"استخرجَ الطالبُ\"."
         ]
       }
     ],
@@ -9444,19 +9507,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-21-ex-1",
         "native": "اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ",
-        "phonetic": "",
+        "phonetic": "Āstakhraja al-baāḥitsu al-nataāi'ija mina al-bayaānaāti",
         "translationId": "Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada."
       },
       {
         "id": "ar-gram-21-ex-2",
         "native": "عَلَّمَ الْأُسْتَاذُ طُلَّابَهُ مَنَاهِجَ الْبَحْثِ",
-        "phonetic": "",
+        "phonetic": "'alama al-austaādzu thulaābahu manaāhija al-baḥtsi",
         "translationId": "Profesor itu mengajarkan metodologi penelitian kepada para mahasiswanya."
       },
       {
         "id": "ar-gram-21-ex-3",
         "native": "تَعَاوَنَ الْجَمِيعُ فِي إِنْجَازِ الْمَشْرُوعِ",
-        "phonetic": "",
+        "phonetic": "Ta'aāwana al-jamiy'u fiy iinjaāzi al-masyruw'i",
         "translationId": "Semua pihak saling bekerja sama dalam menuntaskan proyek tersebut."
       }
     ],
@@ -9472,7 +9535,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)\" (فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-21-pg-1",
@@ -9488,7 +9551,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Tidak ada yang hadir kecuali sang profesor."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ\" berarti \"Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada.\"."
+        "explanation": "Kalimat \"اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ\" (dibaca: Āstakhraja al-baāḥitsu al-nataāi'ija mina al-bayaānaāti) berarti \"Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada.\". Kalimat ini menggunakan pola \"فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ\" (Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)) yang berfungsi untuk perubahan makna verba melalui penambahan huruf pada akar tiga konsonan (intensitas, kausatif, resiprokal, memohon)."
       },
       {
         "id": "q-ar-gram-21-pg-2",
@@ -9504,7 +9567,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"عَلَّمَ الْأُسْتَاذُ طُلَّابَهُ مَنَاهِجَ الْبَحْثِ\" berarti \"Profesor itu mengajarkan metodologi penelitian kepada para mahasiswanya.\"."
+        "explanation": "Kalimat \"عَلَّمَ الْأُسْتَاذُ طُلَّابَهُ مَنَاهِجَ الْبَحْثِ\" (dibaca: 'alama al-austaādzu thulaābahu manaāhija al-baḥtsi) berarti \"Profesor itu mengajarkan metodologi penelitian kepada para mahasiswanya.\". Kalimat ini menggunakan pola \"فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ\" (Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)) yang berfungsi untuk perubahan makna verba melalui penambahan huruf pada akar tiga konsonan (intensitas, kausatif, resiprokal, memohon)."
       },
       {
         "id": "q-ar-gram-21-pg-3",
@@ -9520,7 +9583,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"تَعَاوَنَ الْجَمِيعُ فِي إِنْجَازِ الْمَشْرُوعِ\" berarti \"Semua pihak saling bekerja sama dalam menuntaskan proyek tersebut.\"."
+        "explanation": "Kalimat \"تَعَاوَنَ الْجَمِيعُ فِي إِنْجَازِ الْمَشْرُوعِ\" (dibaca: Ta'aāwana al-jamiy'u fiy iinjaāzi al-masyruw'i) berarti \"Semua pihak saling bekerja sama dalam menuntaskan proyek tersebut.\". Kalimat ini menggunakan pola \"فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ\" (Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)) yang berfungsi untuk perubahan makna verba melalui penambahan huruf pada akar tiga konsonan (intensitas, kausatif, resiprokal, memohon)."
       },
       {
         "id": "q-ar-gram-21-pg-4",
@@ -9540,7 +9603,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-21-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)\"?",
         "options": [
           "عَلَّمَ الْأُسْتَاذُ طُلَّابَهُ مَنَاهِجَ الْبَحْثِ — Profesor itu mengajarkan metodologi penelitian kepada para mahasiswanya.",
           "مَا حَضَرَ إِلَّا الْأُسْتَاذُ — Tidak ada yang hadir kecuali sang profesor.",
@@ -9554,7 +9617,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-21-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)\"?",
         "options": [
           "نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا — Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa.",
           "تَعَاوَنَ الْجَمِيعُ فِي إِنْجَازِ الْمَشْرُوعِ — Semua pihak saling bekerja sama dalam menuntaskan proyek tersebut.",
@@ -9568,7 +9631,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-21-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -9815,7 +9878,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ\" berarti \"Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada.\"."
+        "explanation": "Kalimat \"اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ\" (dibaca: Āstakhraja al-baāḥitsu al-nataāi'ija mina al-bayaānaāti) berarti \"Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada.\". Kalimat ini menggunakan pola \"فَعَّلَ / فَاعَلَ / أَفْعَلَ / تَفَعَّلَ / تَفَاعَلَ / اسْتَفْعَلَ\" (Wazan-wazan Fi'il Tsulatsi Mazid (أوزان الثلاثي المزيد)) yang berfungsi untuk perubahan makna verba melalui penambahan huruf pada akar tiga konsonan (intensitas, kausatif, resiprokal, memohon)."
       },
       {
         "id": "q-ar-gram-21-bb-2",
@@ -9890,24 +9953,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Keterangan sifat yang menerangkan kondisi pelaku atau objek pada saat peristiwa berlangsung.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)\" (الحال وأنواعها وشروط صاحب الحال) berfungsi untuk: keterangan sifat yang menerangkan kondisi pelaku atau objek pada saat peristiwa berlangsung. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا — Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia."
+          "Rumus utama: Fi'il + Fa'il + Hal (Isim Nakirah Manshub)",
+          "Contoh 1: جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا (Jaā'a al-thaālibu iilaā al-iāmtiḥaāni musta'idanā) — Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Fi'il + Fa'il + Hal (Isim Nakirah Manshub) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Fi'il + Fa'il + Hal (Isim Nakirah Manshub)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Hal wajib berstatus isim nakirah manshub (مستعداً).",
         "ruleList": [
-          "اسْتَمَعْنَا إِلَى الْمُحَاضَرَةِ مُنْصِتِينَ — Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian."
+          "Polanya: Fi'il + Fa'il + Hal (Isim Nakirah Manshub)",
+          "Contoh 2: اسْتَمَعْنَا إِلَى الْمُحَاضَرَةِ مُنْصِتِينَ (Āstama'naā iilaā al-muḥaādharaahi munshitiyna) — Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "رَأَيْتُ الْأُسْتَاذَ مُبْتَسِمًا — Saya melihat sang profesor dalam keadaan tersenyum."
+          "Contoh 3: رَأَيْتُ الْأُسْتَاذَ مُبْتَسِمًا (Raaaytu al-austaādza mubtasimanā) — Saya melihat sang profesor dalam keadaan tersenyum.",
+          "Hindari kesalahan: \"جاء الطالبُ مستعدٌ\" → gunakan bentuk yang benar: \"جاء الطالبُ مستعداً\"."
         ]
       }
     ],
@@ -9915,19 +9981,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-22-ex-1",
         "native": "جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا",
-        "phonetic": "",
+        "phonetic": "Jaā'a al-thaālibu iilaā al-iāmtiḥaāni musta'idanā",
         "translationId": "Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia."
       },
       {
         "id": "ar-gram-22-ex-2",
         "native": "اسْتَمَعْنَا إِلَى الْمُحَاضَرَةِ مُنْصِتِينَ",
-        "phonetic": "",
+        "phonetic": "Āstama'naā iilaā al-muḥaādharaahi munshitiyna",
         "translationId": "Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian."
       },
       {
         "id": "ar-gram-22-ex-3",
         "native": "رَأَيْتُ الْأُسْتَاذَ مُبْتَسِمًا",
-        "phonetic": "",
+        "phonetic": "Raaaytu al-austaādza mubtasimanā",
         "translationId": "Saya melihat sang profesor dalam keadaan tersenyum."
       }
     ],
@@ -9943,7 +10009,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)\" (Fi'il + Fa'il + Hal (Isim Nakirah Manshub)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-22-pg-1",
@@ -9959,7 +10025,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Perkuliahan-perkuliahan diselenggarakan di dalam aula ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا\" berarti \"Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia.\"."
+        "explanation": "Kalimat \"جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا\" (dibaca: Jaā'a al-thaālibu iilaā al-iāmtiḥaāni musta'idanā) berarti \"Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Hal (Isim Nakirah Manshub)\" (Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)) yang berfungsi untuk keterangan sifat yang menerangkan kondisi pelaku atau objek pada saat peristiwa berlangsung."
       },
       {
         "id": "q-ar-gram-22-pg-2",
@@ -9975,7 +10041,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu adalah penulis artikel ilmiah ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"اسْتَمَعْنَا إِلَى الْمُحَاضَرَةِ مُنْصِتِينَ\" berarti \"Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian.\"."
+        "explanation": "Kalimat \"اسْتَمَعْنَا إِلَى الْمُحَاضَرَةِ مُنْصِتِينَ\" (dibaca: Āstama'naā iilaā al-muḥaādharaahi munshitiyna) berarti \"Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Hal (Isim Nakirah Manshub)\" (Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)) yang berfungsi untuk keterangan sifat yang menerangkan kondisi pelaku atau objek pada saat peristiwa berlangsung."
       },
       {
         "id": "q-ar-gram-22-pg-3",
@@ -9991,7 +10057,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya melihat sang profesor dalam keadaan tersenyum."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"رَأَيْتُ الْأُسْتَاذَ مُبْتَسِمًا\" berarti \"Saya melihat sang profesor dalam keadaan tersenyum.\"."
+        "explanation": "Kalimat \"رَأَيْتُ الْأُسْتَاذَ مُبْتَسِمًا\" (dibaca: Raaaytu al-austaādza mubtasimanā) berarti \"Saya melihat sang profesor dalam keadaan tersenyum.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Hal (Isim Nakirah Manshub)\" (Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)) yang berfungsi untuk keterangan sifat yang menerangkan kondisi pelaku atau objek pada saat peristiwa berlangsung."
       },
       {
         "id": "q-ar-gram-22-pg-4",
@@ -10011,7 +10077,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-22-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)\"?",
         "options": [
           "تُعْقَدُ الْمُحَاضَرَاتُ فِي هَذِهِ الْقَاعَةِ — Perkuliahan-perkuliahan diselenggarakan di dalam aula ini.",
           "اسْتَمَعْنَا إِلَى الْمُحَاضَرَةِ مُنْصِتِينَ — Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian.",
@@ -10025,7 +10091,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-22-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)\"?",
         "options": [
           "كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ — Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi.",
           "شُرِحَ الدَّرْسُ شَرْحًا وَافِيًا — Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh.",
@@ -10039,7 +10105,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-22-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -10280,7 +10346,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا\" berarti \"Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia.\"."
+        "explanation": "Kalimat \"جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا\" (dibaca: Jaā'a al-thaālibu iilaā al-iāmtiḥaāni musta'idanā) berarti \"Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia.\". Kalimat ini menggunakan pola \"Fi'il + Fa'il + Hal (Isim Nakirah Manshub)\" (Kaidah Hal (الحال - Keterangan Keadaan Saat Tindakan)) yang berfungsi untuk keterangan sifat yang menerangkan kondisi pelaku atau objek pada saat peristiwa berlangsung."
       },
       {
         "id": "q-ar-gram-22-bb-2",
@@ -10355,24 +10421,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata benda tak definit yang berfungsi memperjelas ketaksaan ukuran, timbangan, atau perbandingan sifat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)\" (التمييز الملفوظ والملحوظ وأحكامه) berfungsi untuk: kata benda tak definit yang berfungsi memperjelas ketaksaan ukuran, timbangan, atau perbandingan sifat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا — Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya."
+          "Rumus utama: Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah",
+          "Contoh 1: حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا (Ḥasuna al-thaālibu khuluqanā waaadabanā) — Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Tamyiz nisbah berstatus manshub dengan fathah tanwin.",
         "ruleList": [
-          "فِي الْمَكْتَبَةِ عِشْرُونَ حَاسُوبًا حَدِيثًا — Di perpustakaan terdapat dua puluh unit komputer modern."
+          "Polanya: Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah",
+          "Contoh 2: فِي الْمَكْتَبَةِ عِشْرُونَ حَاسُوبًا حَدِيثًا (Fiy al-maktabaahi 'isyruwna ḥaāsuwbanā ḥadiytsanā) — Di perpustakaan terdapat dua puluh unit komputer modern."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "اشْتَرَيْتُ كِيلُوغْرَامًا تَمْرًا — Saya telah membeli satu kilogram kurma."
+          "Contoh 3: اشْتَرَيْتُ كِيلُوغْرَامًا تَمْرًا (Āsytaraytu kiyluwghraāmanā tamranā) — Saya telah membeli satu kilogram kurma.",
+          "Hindari kesalahan: \"حسن الطالبُ خلقٌ\" → gunakan bentuk yang benar: \"حسن الطالبُ خُلقاً\"."
         ]
       }
     ],
@@ -10380,19 +10449,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-23-ex-1",
         "native": "حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا",
-        "phonetic": "",
+        "phonetic": "Ḥasuna al-thaālibu khuluqanā waaadabanā",
         "translationId": "Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya."
       },
       {
         "id": "ar-gram-23-ex-2",
         "native": "فِي الْمَكْتَبَةِ عِشْرُونَ حَاسُوبًا حَدِيثًا",
-        "phonetic": "",
+        "phonetic": "Fiy al-maktabaahi 'isyruwna ḥaāsuwbanā ḥadiytsanā",
         "translationId": "Di perpustakaan terdapat dua puluh unit komputer modern."
       },
       {
         "id": "ar-gram-23-ex-3",
         "native": "اشْتَرَيْتُ كِيلُوغْرَامًا تَمْرًا",
-        "phonetic": "",
+        "phonetic": "Āsytaraytu kiyluwghraāmanā tamranā",
         "translationId": "Saya telah membeli satu kilogram kurma."
       }
     ],
@@ -10408,7 +10477,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)\" (Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-23-pg-1",
@@ -10424,7 +10493,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا\" berarti \"Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya.\"."
+        "explanation": "Kalimat \"حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا\" (dibaca: Ḥasuna al-thaālibu khuluqanā waaadabanā) berarti \"Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya.\". Kalimat ini menggunakan pola \"Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah\" (Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)) yang berfungsi untuk kata benda tak definit yang berfungsi memperjelas ketaksaan ukuran, timbangan, atau perbandingan sifat."
       },
       {
         "id": "q-ar-gram-23-pg-2",
@@ -10440,7 +10509,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Di perpustakaan terdapat dua puluh unit komputer modern."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"فِي الْمَكْتَبَةِ عِشْرُونَ حَاسُوبًا حَدِيثًا\" berarti \"Di perpustakaan terdapat dua puluh unit komputer modern.\"."
+        "explanation": "Kalimat \"فِي الْمَكْتَبَةِ عِشْرُونَ حَاسُوبًا حَدِيثًا\" (dibaca: Fiy al-maktabaahi 'isyruwna ḥaāsuwbanā ḥadiytsanā) berarti \"Di perpustakaan terdapat dua puluh unit komputer modern.\". Kalimat ini menggunakan pola \"Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah\" (Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)) yang berfungsi untuk kata benda tak definit yang berfungsi memperjelas ketaksaan ukuran, timbangan, atau perbandingan sifat."
       },
       {
         "id": "q-ar-gram-23-pg-3",
@@ -10456,7 +10525,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Masjid itu lebih dekat ke asrama mahasiswa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"اشْتَرَيْتُ كِيلُوغْرَامًا تَمْرًا\" berarti \"Saya telah membeli satu kilogram kurma.\"."
+        "explanation": "Kalimat \"اشْتَرَيْتُ كِيلُوغْرَامًا تَمْرًا\" (dibaca: Āsytaraytu kiyluwghraāmanā tamranā) berarti \"Saya telah membeli satu kilogram kurma.\". Kalimat ini menggunakan pola \"Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah\" (Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)) yang berfungsi untuk kata benda tak definit yang berfungsi memperjelas ketaksaan ukuran, timbangan, atau perbandingan sifat."
       },
       {
         "id": "q-ar-gram-23-pg-4",
@@ -10476,7 +10545,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-23-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)\"?",
         "options": [
           "هَذَا الْمَوْضُوعُ مَدْرُوسٌ بِدِقَّةٍ فِي الْكُتُبِ — Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi.",
           "اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ — Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya.",
@@ -10490,7 +10559,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-23-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)\"?",
         "options": [
           "الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ — Peneliti itu adalah penulis artikel ilmiah ini.",
           "الْمُعَلِّمُ مُقَدَّرٌ مِنْ طُلَّابِهِ — Pengajar itu sangat dihormati oleh para mahasiswanya.",
@@ -10504,7 +10573,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-23-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -10747,7 +10816,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu adalah penulis artikel ilmiah ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا\" berarti \"Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya.\"."
+        "explanation": "Kalimat \"حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا\" (dibaca: Ḥasuna al-thaālibu khuluqanā waaadabanā) berarti \"Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya.\". Kalimat ini menggunakan pola \"Isim Nakirah Manshub Penjelas Keraguan Dzat atau Nisbah\" (Kaidah Tamyiz (التمييز - Penjelas Ketaksaan Makna)) yang berfungsi untuk kata benda tak definit yang berfungsi memperjelas ketaksaan ukuran, timbangan, atau perbandingan sifat."
       },
       {
         "id": "q-ar-gram-23-bb-2",
@@ -10822,24 +10891,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pola pengecualian dalam kalimat positif sempurna, negatif, atau kalimat istitsna' mufarragh.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)\" (أسلوب الاستثناء التام والمفرغ) berfungsi untuk: pola pengecualian dalam kalimat positif sempurna, negatif, atau kalimat istitsna' mufarragh. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا — Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa."
+          "Rumus utama: Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna",
+          "Contoh 1: نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا (Najaḥa al-thulaābu kuluhum iilaā thaālibanā waāḥidanā) — Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam kalimat sempurna positif, mustatsna bi-illa wajib manshub.",
         "ruleList": [
-          "مَا حَضَرَ إِلَّا الْأُسْتَاذُ — Tidak ada yang hadir kecuali sang profesor."
+          "Polanya: Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna",
+          "Contoh 2: مَا حَضَرَ إِلَّا الْأُسْتَاذُ (Maā ḥadhara iilaā al-austaādzu) — Tidak ada yang hadir kecuali sang profesor."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "فَهِمْتُ كُلَّ الْفُصُولِ غَيْرَ فَصْلٍ وَاحِدٍ — Saya memahami seluruh bab kecuali satu bab saja."
+          "Contoh 3: فَهِمْتُ كُلَّ الْفُصُولِ غَيْرَ فَصْلٍ وَاحِدٍ (Fahimtu kula al-fushuwli ghayra fashlin waāḥidin) — Saya memahami seluruh bab kecuali satu bab saja.",
+          "Hindari kesalahan: \"إلا طالبٌ (pada kalam mutsbath)\" → gunakan bentuk yang benar: \"إلا طالباً\"."
         ]
       }
     ],
@@ -10847,19 +10919,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-24-ex-1",
         "native": "نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا",
-        "phonetic": "",
+        "phonetic": "Najaḥa al-thulaābu kuluhum iilaā thaālibanā waāḥidanā",
         "translationId": "Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa."
       },
       {
         "id": "ar-gram-24-ex-2",
         "native": "مَا حَضَرَ إِلَّا الْأُسْتَاذُ",
-        "phonetic": "",
+        "phonetic": "Maā ḥadhara iilaā al-austaādzu",
         "translationId": "Tidak ada yang hadir kecuali sang profesor."
       },
       {
         "id": "ar-gram-24-ex-3",
         "native": "فَهِمْتُ كُلَّ الْفُصُولِ غَيْرَ فَصْلٍ وَاحِدٍ",
-        "phonetic": "",
+        "phonetic": "Fahimtu kula al-fushuwli ghayra fashlin waāḥidin",
         "translationId": "Saya memahami seluruh bab kecuali satu bab saja."
       }
     ],
@@ -10875,7 +10947,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)\" (Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-24-pg-1",
@@ -10891,7 +10963,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا\" berarti \"Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa.\"."
+        "explanation": "Kalimat \"نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا\" (dibaca: Najaḥa al-thulaābu kuluhum iilaā thaālibanā waāḥidanā) berarti \"Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa.\". Kalimat ini menggunakan pola \"Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna\" (Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)) yang berfungsi untuk pola pengecualian dalam kalimat positif sempurna, negatif, atau kalimat istitsna' mufarragh."
       },
       {
         "id": "q-ar-gram-24-pg-2",
@@ -10907,7 +10979,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"مَا حَضَرَ إِلَّا الْأُسْتَاذُ\" berarti \"Tidak ada yang hadir kecuali sang profesor.\"."
+        "explanation": "Kalimat \"مَا حَضَرَ إِلَّا الْأُسْتَاذُ\" (dibaca: Maā ḥadhara iilaā al-austaādzu) berarti \"Tidak ada yang hadir kecuali sang profesor.\". Kalimat ini menggunakan pola \"Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna\" (Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)) yang berfungsi untuk pola pengecualian dalam kalimat positif sempurna, negatif, atau kalimat istitsna' mufarragh."
       },
       {
         "id": "q-ar-gram-24-pg-3",
@@ -10923,7 +10995,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Apabila sang profesor telah hadir, maka perkuliahan pun dimulai."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"فَهِمْتُ كُلَّ الْفُصُولِ غَيْرَ فَصْلٍ وَاحِدٍ\" berarti \"Saya memahami seluruh bab kecuali satu bab saja.\"."
+        "explanation": "Kalimat \"فَهِمْتُ كُلَّ الْفُصُولِ غَيْرَ فَصْلٍ وَاحِدٍ\" (dibaca: Fahimtu kula al-fushuwli ghayra fashlin waāḥidin) berarti \"Saya memahami seluruh bab kecuali satu bab saja.\". Kalimat ini menggunakan pola \"Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna\" (Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)) yang berfungsi untuk pola pengecualian dalam kalimat positif sempurna, negatif, atau kalimat istitsna' mufarragh."
       },
       {
         "id": "q-ar-gram-24-pg-4",
@@ -10943,7 +11015,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-24-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)\"?",
         "options": [
           "هَذَا الْبَحْثُ أَهَمُّ مِنْ غَيْرِهِ فِي هَذَا الْمَجَالِ — Penelitian ini lebih penting daripada penelitian lainnya di bidang ini.",
           "مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ — Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya.",
@@ -10957,7 +11029,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-24-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)\"?",
         "options": [
           "فَهِمْتُ كُلَّ الْفُصُولِ غَيْرَ فَصْلٍ وَاحِدٍ — Saya memahami seluruh bab kecuali satu bab saja.",
           "اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ — Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya.",
@@ -10971,7 +11043,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-24-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -11220,7 +11292,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا\" berarti \"Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa.\"."
+        "explanation": "Kalimat \"نَجَحَ الطُّلَّابُ كُلُّهُمْ إِلَّا طَالِبًا وَاحِدًا\" (dibaca: Najaḥa al-thulaābu kuluhum iilaā thaālibanā waāḥidanā) berarti \"Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa.\". Kalimat ini menggunakan pola \"Mustatsna Minhu + Huruf Istitsna' (إلا) + Mustatsna\" (Kaidah Mustatsna bi-Illa (الاستثناء بـ إلا وغير وسوى)) yang berfungsi untuk pola pengecualian dalam kalimat positif sempurna, negatif, atau kalimat istitsna' mufarragh."
       },
       {
         "id": "q-ar-gram-24-bb-2",
@@ -11295,24 +11367,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk kalimat pasif dengan mengubah vokal kata kerja dan menjadikan objek langsung menduduki posisi subjek.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)\" (بناء الفعل للمجهول وإعراب نائب الفاعل) berfungsi untuk: membentuk kalimat pasif dengan mengubah vokal kata kerja dan menjadikan objek langsung menduduki posisi subjek. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ — Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi."
+          "Rumus utama: Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')",
+          "Contoh 1: كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ (Kutibati al-risaālaahu al-jaāmi'iyaahu bi'inaāyaahin faāi'iqaahin) — Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu') diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Jika naibul fa'il feminin, fi'il pasif wajib memakai ta' ta'nits.",
         "ruleList": [
-          "تُعْقَدُ الْمُحَاضَرَاتُ فِي هَذِهِ الْقَاعَةِ — Perkuliahan-perkuliahan diselenggarakan di dalam aula ini."
+          "Polanya: Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')",
+          "Contoh 2: تُعْقَدُ الْمُحَاضَرَاتُ فِي هَذِهِ الْقَاعَةِ (Tu'qadu al-muḥaādharaātu fiy hadzihi al-qaā'aahi) — Perkuliahan-perkuliahan diselenggarakan di dalam aula ini."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "شُرِحَ الدَّرْسُ شَرْحًا وَافِيًا — Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh."
+          "Contoh 3: شُرِحَ الدَّرْسُ شَرْحًا وَافِيًا (Syuriḥa al-darsu syarḥanā waāfiyanā) — Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh.",
+          "Hindari kesalahan: \"كُتِبَ الرسالةُ\" → gunakan bentuk yang benar: \"كُتِبَتِ الرسالةُ\"."
         ]
       }
     ],
@@ -11320,19 +11395,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-25-ex-1",
         "native": "كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ",
-        "phonetic": "",
+        "phonetic": "Kutibati al-risaālaahu al-jaāmi'iyaahu bi'inaāyaahin faāi'iqaahin",
         "translationId": "Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi."
       },
       {
         "id": "ar-gram-25-ex-2",
         "native": "تُعْقَدُ الْمُحَاضَرَاتُ فِي هَذِهِ الْقَاعَةِ",
-        "phonetic": "",
+        "phonetic": "Tu'qadu al-muḥaādharaātu fiy hadzihi al-qaā'aahi",
         "translationId": "Perkuliahan-perkuliahan diselenggarakan di dalam aula ini."
       },
       {
         "id": "ar-gram-25-ex-3",
         "native": "شُرِحَ الدَّرْسُ شَرْحًا وَافِيًا",
-        "phonetic": "",
+        "phonetic": "Syuriḥa al-darsu syarḥanā waāfiyanā",
         "translationId": "Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh."
       }
     ],
@@ -11348,7 +11423,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)\" (Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-25-pg-1",
@@ -11364,7 +11439,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Jika engkau tulus ikhlas dalam pekerjaanmu, niscaya engkau meraih penghargaan manusia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ\" berarti \"Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi.\"."
+        "explanation": "Kalimat \"كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ\" (dibaca: Kutibati al-risaālaahu al-jaāmi'iyaahu bi'inaāyaahin faāi'iqaahin) berarti \"Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi.\". Kalimat ini menggunakan pola \"Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')\" (Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)) yang berfungsi untuk membentuk kalimat pasif dengan mengubah vokal kata kerja dan menjadikan objek langsung menduduki posisi subjek."
       },
       {
         "id": "q-ar-gram-25-pg-2",
@@ -11380,7 +11455,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah melaksanakan salat di banyak masjid di kota tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"تُعْقَدُ الْمُحَاضَرَاتُ فِي هَذِهِ الْقَاعَةِ\" berarti \"Perkuliahan-perkuliahan diselenggarakan di dalam aula ini.\"."
+        "explanation": "Kalimat \"تُعْقَدُ الْمُحَاضَرَاتُ فِي هَذِهِ الْقَاعَةِ\" (dibaca: Tu'qadu al-muḥaādharaātu fiy hadzihi al-qaā'aahi) berarti \"Perkuliahan-perkuliahan diselenggarakan di dalam aula ini.\". Kalimat ini menggunakan pola \"Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')\" (Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)) yang berfungsi untuk membentuk kalimat pasif dengan mengubah vokal kata kerja dan menjadikan objek langsung menduduki posisi subjek."
       },
       {
         "id": "q-ar-gram-25-pg-3",
@@ -11396,7 +11471,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"شُرِحَ الدَّرْسُ شَرْحًا وَافِيًا\" berarti \"Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh.\"."
+        "explanation": "Kalimat \"شُرِحَ الدَّرْسُ شَرْحًا وَافِيًا\" (dibaca: Syuriḥa al-darsu syarḥanā waāfiyanā) berarti \"Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh.\". Kalimat ini menggunakan pola \"Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')\" (Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)) yang berfungsi untuk membentuk kalimat pasif dengan mengubah vokal kata kerja dan menjadikan objek langsung menduduki posisi subjek."
       },
       {
         "id": "q-ar-gram-25-pg-4",
@@ -11416,7 +11491,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-25-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)\"?",
         "options": [
           "تُعْقَدُ الْمُحَاضَرَاتُ فِي هَذِهِ الْقَاعَةِ — Perkuliahan-perkuliahan diselenggarakan di dalam aula ini.",
           "إِنْ تُخْلِصْ فِي عَمَلِكَ تَنَلْ تَقْدِيرَ النَّاسِ — Jika engkau tulus ikhlas dalam pekerjaanmu, niscaya engkau meraih penghargaan manusia.",
@@ -11430,7 +11505,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-25-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)\"?",
         "options": [
           "مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ — Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya.",
           "شُرِحَ الدَّرْسُ شَرْحًا وَافِيًا — Pelajaran tersebut telah dijelaskan dengan penjelasan yang menyeluruh.",
@@ -11444,7 +11519,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-25-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -11689,7 +11764,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ\" berarti \"Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi.\"."
+        "explanation": "Kalimat \"كُتِبَتِ الرِّسَالَةُ الْجَامِعِيَّةُ بِعِنَايَةٍ فَائِقَةٍ\" (dibaca: Kutibati al-risaālaahu al-jaāmi'iyaahu bi'inaāyaahin faāi'iqaahin) berarti \"Disertasi universitas itu telah ditulis dengan ketelitian yang sangat tinggi.\". Kalimat ini menggunakan pola \"Dhammu awwalihi wa kasru ma qabla akhirihi (Madhi) + Naibul Fa'il (Marfu')\" (Fi'il Mabni lil-Majhul dan Naibul Fa'il (النائب عن الفاعل)) yang berfungsi untuk membentuk kalimat pasif dengan mengubah vokal kata kerja dan menjadikan objek langsung menduduki posisi subjek."
       },
       {
         "id": "q-ar-gram-25-bb-2",
@@ -11764,24 +11839,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk nomina partisip aktif (pelaku/agen) dan partisip pasif (yang dikenai tindakan).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)\" (صياغة اسم الفاعل واسم المفعول من الثلاثي وغيره) berfungsi untuk: membentuk nomina partisip aktif (pelaku/agen) dan partisip pasif (yang dikenai tindakan). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ — Peneliti itu adalah penulis artikel ilmiah ini."
+          "Rumus utama: فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل",
+          "Contoh 1: الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ (Al-baāḥitsu kaātibun lihadzaā al-maqaāli al-'ilmiyi) — Peneliti itu adalah penulis artikel ilmiah ini."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Isim fa'il berfungsi sebagai khabar marfu' berharakat dhammah.",
         "ruleList": [
-          "هَذَا الْمَوْضُوعُ مَدْرُوسٌ بِدِقَّةٍ فِي الْكُتُبِ — Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi."
+          "Polanya: فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل",
+          "Contoh 2: هَذَا الْمَوْضُوعُ مَدْرُوسٌ بِدِقَّةٍ فِي الْكُتُبِ (Hadzaā al-mawdhuw'u madruwsun bidiqaahin fiy al-kutubi) — Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "الْمُعَلِّمُ مُقَدَّرٌ مِنْ طُلَّابِهِ — Pengajar itu sangat dihormati oleh para mahasiswanya."
+          "Contoh 3: الْمُعَلِّمُ مُقَدَّرٌ مِنْ طُلَّابِهِ (Al-mu'alimu muqadarun min thulaābihi) — Pengajar itu sangat dihormati oleh para mahasiswanya.",
+          "Hindari kesalahan: \"هو كاتبَ\" → gunakan bentuk yang benar: \"هو كاتبٌ\"."
         ]
       }
     ],
@@ -11789,19 +11867,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-26-ex-1",
         "native": "الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ",
-        "phonetic": "",
+        "phonetic": "Al-baāḥitsu kaātibun lihadzaā al-maqaāli al-'ilmiyi",
         "translationId": "Peneliti itu adalah penulis artikel ilmiah ini."
       },
       {
         "id": "ar-gram-26-ex-2",
         "native": "هَذَا الْمَوْضُوعُ مَدْرُوسٌ بِدِقَّةٍ فِي الْكُتُبِ",
-        "phonetic": "",
+        "phonetic": "Hadzaā al-mawdhuw'u madruwsun bidiqaahin fiy al-kutubi",
         "translationId": "Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi."
       },
       {
         "id": "ar-gram-26-ex-3",
         "native": "الْمُعَلِّمُ مُقَدَّرٌ مِنْ طُلَّابِهِ",
-        "phonetic": "",
+        "phonetic": "Al-mu'alimu muqadarun min thulaābihi",
         "translationId": "Pengajar itu sangat dihormati oleh para mahasiswanya."
       }
     ],
@@ -11817,7 +11895,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)\" (فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-26-pg-1",
@@ -11833,7 +11911,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah belajar bersama Umar dan Utsman di dalam kelas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ\" berarti \"Peneliti itu adalah penulis artikel ilmiah ini.\"."
+        "explanation": "Kalimat \"الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ\" (dibaca: Al-baāḥitsu kaātibun lihadzaā al-maqaāli al-'ilmiyi) berarti \"Peneliti itu adalah penulis artikel ilmiah ini.\". Kalimat ini menggunakan pola \"فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل\" (Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)) yang berfungsi untuk membentuk nomina partisip aktif (pelaku/agen) dan partisip pasif (yang dikenai tindakan)."
       },
       {
         "id": "q-ar-gram-26-pg-2",
@@ -11849,7 +11927,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Rektor itu sendiri yang hadir langsung ke konferensi tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"هَذَا الْمَوْضُوعُ مَدْرُوسٌ بِدِقَّةٍ فِي الْكُتُبِ\" berarti \"Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi.\"."
+        "explanation": "Kalimat \"هَذَا الْمَوْضُوعُ مَدْرُوسٌ بِدِقَّةٍ فِي الْكُتُبِ\" (dibaca: Hadzaā al-mawdhuw'u madruwsun bidiqaahin fiy al-kutubi) berarti \"Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi.\". Kalimat ini menggunakan pola \"فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل\" (Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)) yang berfungsi untuk membentuk nomina partisip aktif (pelaku/agen) dan partisip pasif (yang dikenai tindakan)."
       },
       {
         "id": "q-ar-gram-26-pg-3",
@@ -11865,7 +11943,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Pengajar itu sangat dihormati oleh para mahasiswanya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"الْمُعَلِّمُ مُقَدَّرٌ مِنْ طُلَّابِهِ\" berarti \"Pengajar itu sangat dihormati oleh para mahasiswanya.\"."
+        "explanation": "Kalimat \"الْمُعَلِّمُ مُقَدَّرٌ مِنْ طُلَّابِهِ\" (dibaca: Al-mu'alimu muqadarun min thulaābihi) berarti \"Pengajar itu sangat dihormati oleh para mahasiswanya.\". Kalimat ini menggunakan pola \"فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل\" (Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)) yang berfungsi untuk membentuk nomina partisip aktif (pelaku/agen) dan partisip pasif (yang dikenai tindakan)."
       },
       {
         "id": "q-ar-gram-26-pg-4",
@@ -11885,7 +11963,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-26-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)\"?",
         "options": [
           "دَرَسْتُ مَعَ عُمَرَ وَعُثْمَانَ فِي الْفَصْلِ — Saya telah belajar bersama Umar dan Utsman di dalam kelas.",
           "هَذَا الْمَوْضُوعُ مَدْرُوسٌ بِدِقَّةٍ فِي الْكُتُبِ — Topik bahasan ini telah dikaji secara teliti di dalam buku-buku referensi.",
@@ -11899,7 +11977,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-26-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)\"?",
         "options": [
           "صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ — Saya telah melaksanakan salat di banyak masjid di kota tersebut.",
           "سَافَرْنَا إِلَى مَكَّةَ الْمُكَرَّمَةِ — Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah.",
@@ -11913,7 +11991,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-26-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -12164,7 +12242,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu adalah penulis artikel ilmiah ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ\" berarti \"Peneliti itu adalah penulis artikel ilmiah ini.\"."
+        "explanation": "Kalimat \"الْبَاحِثُ كَاتِبٌ لِهَذَا الْمَقَالِ الْعِلْمِيِّ\" (dibaca: Al-baāḥitsu kaātibun lihadzaā al-maqaāli al-'ilmiyi) berarti \"Peneliti itu adalah penulis artikel ilmiah ini.\". Kalimat ini menggunakan pola \"فَاعِل / مَفْعُول & مُفَعِّل / مُفَعَّل\" (Isim Fa'il dan Isim Maf'ul (اسم الفاعل واسم المفعول)) yang berfungsi untuk membentuk nomina partisip aktif (pelaku/agen) dan partisip pasif (yang dikenai tindakan)."
       },
       {
         "id": "q-ar-gram-26-bb-2",
@@ -12239,24 +12317,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan derajat keunggulan perbandingan kata sifat menggunakan wazan af'alu.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)\" (صياغة اسم التفضيل على وزن أَفْعَل ومطابقته) berfungsi untuk: menyatakan derajat keunggulan perbandingan kata sifat menggunakan wazan af'alu. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ — Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya."
+          "Rumus utama: A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)",
+          "Contoh 1: اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ (Al-lughaahu al-'arabiyaahu aawsa'u al-lughaāti mufradaātin) — Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk komparatif bahasa Arab menggunakan pola wazan af'alu (أوسع).",
         "ruleList": [
-          "هَذَا الْبَحْثُ أَهَمُّ مِنْ غَيْرِهِ فِي هَذَا الْمَجَالِ — Penelitian ini lebih penting daripada penelitian lainnya di bidang ini."
+          "Polanya: A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)",
+          "Contoh 2: هَذَا الْبَحْثُ أَهَمُّ مِنْ غَيْرِهِ فِي هَذَا الْمَجَالِ (Hadzaā al-baḥtsu aahamu min ghayrihi fiy hadzaā al-majaāli) — Penelitian ini lebih penting daripada penelitian lainnya di bidang ini."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "الْمَسْجِدُ أَقْرَبُ إِلَى السَّكَنِ — Masjid itu lebih dekat ke asrama mahasiswa."
+          "Contoh 3: الْمَسْجِدُ أَقْرَبُ إِلَى السَّكَنِ (Al-masjidu aaqrabu iilaā al-sakani) — Masjid itu lebih dekat ke asrama mahasiswa.",
+          "Hindari kesalahan: \"أكثر وسيع\" → gunakan bentuk yang benar: \"أوسعُ\"."
         ]
       }
     ],
@@ -12264,19 +12345,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-27-ex-1",
         "native": "اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ",
-        "phonetic": "",
+        "phonetic": "Al-lughaahu al-'arabiyaahu aawsa'u al-lughaāti mufradaātin",
         "translationId": "Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya."
       },
       {
         "id": "ar-gram-27-ex-2",
         "native": "هَذَا الْبَحْثُ أَهَمُّ مِنْ غَيْرِهِ فِي هَذَا الْمَجَالِ",
-        "phonetic": "",
+        "phonetic": "Hadzaā al-baḥtsu aahamu min ghayrihi fiy hadzaā al-majaāli",
         "translationId": "Penelitian ini lebih penting daripada penelitian lainnya di bidang ini."
       },
       {
         "id": "ar-gram-27-ex-3",
         "native": "الْمَسْجِدُ أَقْرَبُ إِلَى السَّكَنِ",
-        "phonetic": "",
+        "phonetic": "Al-masjidu aaqrabu iilaā al-sakani",
         "translationId": "Masjid itu lebih dekat ke asrama mahasiswa."
       }
     ],
@@ -12292,7 +12373,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)\" (A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-27-pg-1",
@@ -12308,7 +12389,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membaca buku itu separuhnya dalam satu malam saja."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ\" berarti \"Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya.\"."
+        "explanation": "Kalimat \"اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ\" (dibaca: Al-lughaahu al-'arabiyaahu aawsa'u al-lughaāti mufradaātin) berarti \"Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya.\". Kalimat ini menggunakan pola \"A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)\" (Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)) yang berfungsi untuk menyatakan derajat keunggulan perbandingan kata sifat menggunakan wazan af'alu."
       },
       {
         "id": "q-ar-gram-27-pg-2",
@@ -12324,7 +12405,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini lebih penting daripada penelitian lainnya di bidang ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"هَذَا الْبَحْثُ أَهَمُّ مِنْ غَيْرِهِ فِي هَذَا الْمَجَالِ\" berarti \"Penelitian ini lebih penting daripada penelitian lainnya di bidang ini.\"."
+        "explanation": "Kalimat \"هَذَا الْبَحْثُ أَهَمُّ مِنْ غَيْرِهِ فِي هَذَا الْمَجَالِ\" (dibaca: Hadzaā al-baḥtsu aahamu min ghayrihi fiy hadzaā al-majaāli) berarti \"Penelitian ini lebih penting daripada penelitian lainnya di bidang ini.\". Kalimat ini menggunakan pola \"A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)\" (Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)) yang berfungsi untuk menyatakan derajat keunggulan perbandingan kata sifat menggunakan wazan af'alu."
       },
       {
         "id": "q-ar-gram-27-pg-3",
@@ -12340,7 +12421,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Semua pihak saling bekerja sama dalam menuntaskan proyek tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"الْمَسْجِدُ أَقْرَبُ إِلَى السَّكَنِ\" berarti \"Masjid itu lebih dekat ke asrama mahasiswa.\"."
+        "explanation": "Kalimat \"الْمَسْجِدُ أَقْرَبُ إِلَى السَّكَنِ\" (dibaca: Al-masjidu aaqrabu iilaā al-sakani) berarti \"Masjid itu lebih dekat ke asrama mahasiswa.\". Kalimat ini menggunakan pola \"A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)\" (Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)) yang berfungsi untuk menyatakan derajat keunggulan perbandingan kata sifat menggunakan wazan af'alu."
       },
       {
         "id": "q-ar-gram-27-pg-4",
@@ -12360,7 +12441,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-27-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)\"?",
         "options": [
           "قَرَأْتُ الْكِتَابَ نِصْفَهُ فِي لَيْلَةٍ وَاحِدَةٍ — Saya telah membaca buku itu separuhnya dalam satu malam saja.",
           "اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ — Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada.",
@@ -12374,7 +12455,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-27-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)\"?",
         "options": [
           "حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ — Rektor itu sendiri yang hadir langsung ke konferensi tersebut.",
           "جَاءَ الْأُسْتَاذُ أَحْمَدُ إِلَى الْقَاعَةِ — Profesor Ahmad telah datang ke ruang aula.",
@@ -12388,7 +12469,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-27-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -12635,7 +12716,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Rektor itu sendiri yang hadir langsung ke konferensi tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ\" berarti \"Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya.\"."
+        "explanation": "Kalimat \"اللُّغَةُ الْعَرَبِيَّةُ أَوْسَعُ اللُّغَاتِ مُفْرَدَاتٍ\" (dibaca: Al-lughaahu al-'arabiyaahu aawsa'u al-lughaāti mufradaātin) berarti \"Bahasa Arab adalah bahasa yang paling luas perbendaharaan kosakatanya.\". Kalimat ini menggunakan pola \"A + أَفْعَلُ مِنْ (Lebih... dari) & أَفْعَلُ (Paling)\" (Isim Tafdhil Bentuk Komparatif & Superlatif (اسم التفضيل)) yang berfungsi untuk menyatakan derajat keunggulan perbandingan kata sifat menggunakan wazan af'alu."
       },
       {
         "id": "q-ar-gram-27-bb-2",
@@ -12710,24 +12791,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan klausul syarat dan konsekuensi akibatnya dengan partikel pengkondisian jazm (إنْ, مَنْ, مَا, مَهْمَا).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah Syarat dan Jawab Syarat (أسلوب الشرط) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)\" (أدوات الشرط الجازمة وغير الجازمة) berfungsi untuk: menghubungkan klausul syarat dan konsekuensi akibatnya dengan partikel pengkondisian jazm (إنْ, مَنْ, مَا, مَهْمَا). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ — Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya."
+          "Rumus utama: Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)",
+          "Contoh 1: مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ (Man yajtahid fiy thalabi al-'ilmi yanjaḥ fiy ḥayaātihi) — Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Partikel man menjazmkan fi'il syarat dan jawab syarat sekaligus.",
         "ruleList": [
-          "إِنْ تُخْلِصْ فِي عَمَلِكَ تَنَلْ تَقْدِيرَ النَّاسِ — Jika engkau tulus ikhlas dalam pekerjaanmu, niscaya engkau meraih penghargaan manusia."
+          "Polanya: Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)",
+          "Contoh 2: إِنْ تُخْلِصْ فِي عَمَلِكَ تَنَلْ تَقْدِيرَ النَّاسِ (Iin tukhlish fiy 'amalika tanal taqdiyra al-naāsi) — Jika engkau tulus ikhlas dalam pekerjaanmu, niscaya engkau meraih penghargaan manusia."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "إِذَا حَضَرَ الْأُسْتَاذُ بَدَأَتِ الْمُحَاضَرَةُ — Apabila sang profesor telah hadir, maka perkuliahan pun dimulai."
+          "Contoh 3: إِذَا حَضَرَ الْأُسْتَاذُ بَدَأَتِ الْمُحَاضَرَةُ (Iidzaā ḥadhara al-austaādzu badaaati al-muḥaādharaahu) — Apabila sang profesor telah hadir, maka perkuliahan pun dimulai.",
+          "Hindari kesalahan: \"من يجتهدُ ينجحُ\" → gunakan bentuk yang benar: \"من يجتهدْ ينجحْ\"."
         ]
       }
     ],
@@ -12735,19 +12819,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-28-ex-1",
         "native": "مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ",
-        "phonetic": "",
+        "phonetic": "Man yajtahid fiy thalabi al-'ilmi yanjaḥ fiy ḥayaātihi",
         "translationId": "Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya."
       },
       {
         "id": "ar-gram-28-ex-2",
         "native": "إِنْ تُخْلِصْ فِي عَمَلِكَ تَنَلْ تَقْدِيرَ النَّاسِ",
-        "phonetic": "",
+        "phonetic": "Iin tukhlish fiy 'amalika tanal taqdiyra al-naāsi",
         "translationId": "Jika engkau tulus ikhlas dalam pekerjaanmu, niscaya engkau meraih penghargaan manusia."
       },
       {
         "id": "ar-gram-28-ex-3",
         "native": "إِذَا حَضَرَ الْأُسْتَاذُ بَدَأَتِ الْمُحَاضَرَةُ",
-        "phonetic": "",
+        "phonetic": "Iidzaā ḥadhara al-austaādzu badaaati al-muḥaādharaahu",
         "translationId": "Apabila sang profesor telah hadir, maka perkuliahan pun dimulai."
       }
     ],
@@ -12763,7 +12847,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah Syarat dan Jawab Syarat (أسلوب الشرط) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)\" (Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-28-pg-1",
@@ -12779,7 +12863,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ\" berarti \"Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya.\"."
+        "explanation": "Kalimat \"مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ\" (dibaca: Man yajtahid fiy thalabi al-'ilmi yanjaḥ fiy ḥayaātihi) berarti \"Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya.\". Kalimat ini menggunakan pola \"Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)\" (Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)) yang berfungsi untuk menghubungkan klausul syarat dan konsekuensi akibatnya dengan partikel pengkondisian jazm (إنْ, مَنْ, مَا, مَهْمَا)."
       },
       {
         "id": "q-ar-gram-28-pg-2",
@@ -12795,7 +12879,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"إِنْ تُخْلِصْ فِي عَمَلِكَ تَنَلْ تَقْدِيرَ النَّاسِ\" berarti \"Jika engkau tulus ikhlas dalam pekerjaanmu, niscaya engkau meraih penghargaan manusia.\"."
+        "explanation": "Kalimat \"إِنْ تُخْلِصْ فِي عَمَلِكَ تَنَلْ تَقْدِيرَ النَّاسِ\" (dibaca: Iin tukhlish fiy 'amalika tanal taqdiyra al-naāsi) berarti \"Jika engkau tulus ikhlas dalam pekerjaanmu, niscaya engkau meraih penghargaan manusia.\". Kalimat ini menggunakan pola \"Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)\" (Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)) yang berfungsi untuk menghubungkan klausul syarat dan konsekuensi akibatnya dengan partikel pengkondisian jazm (إنْ, مَنْ, مَا, مَهْمَا)."
       },
       {
         "id": "q-ar-gram-28-pg-3",
@@ -12811,7 +12895,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya melihat sang profesor dalam keadaan tersenyum."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"إِذَا حَضَرَ الْأُسْتَاذُ بَدَأَتِ الْمُحَاضَرَةُ\" berarti \"Apabila sang profesor telah hadir, maka perkuliahan pun dimulai.\"."
+        "explanation": "Kalimat \"إِذَا حَضَرَ الْأُسْتَاذُ بَدَأَتِ الْمُحَاضَرَةُ\" (dibaca: Iidzaā ḥadhara al-austaādzu badaaati al-muḥaādharaahu) berarti \"Apabila sang profesor telah hadir, maka perkuliahan pun dimulai.\". Kalimat ini menggunakan pola \"Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)\" (Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)) yang berfungsi untuk menghubungkan klausul syarat dan konsekuensi akibatnya dengan partikel pengkondisian jazm (إنْ, مَنْ, مَا, مَهْمَا)."
       },
       {
         "id": "q-ar-gram-28-pg-4",
@@ -12831,7 +12915,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-28-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)\"?",
         "options": [
           "عَلَّمَ الْأُسْتَاذُ طُلَّابَهُ مَنَاهِجَ الْبَحْثِ — Profesor itu mengajarkan metodologi penelitian kepada para mahasiswanya.",
           "جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا — Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia.",
@@ -12845,7 +12929,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-28-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)\"?",
         "options": [
           "إِذَا حَضَرَ الْأُسْتَاذُ بَدَأَتِ الْمُحَاضَرَةُ — Apabila sang profesor telah hadir, maka perkuliahan pun dimulai.",
           "اسْتَخْرَجَ الْبَاحِثُ النَّتَائِجَ مِنَ الْبَيَانَاتِ — Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada.",
@@ -12859,7 +12943,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-28-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -13106,7 +13190,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu mengekstraksi kesimpulan hasil dari data-data yang ada."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ\" berarti \"Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya.\"."
+        "explanation": "Kalimat \"مَنْ يَجْتَهِدْ فِي طَلَبِ الْعِلْمِ يَنْجَحْ فِي حَيَاتِهِ\" (dibaca: Man yajtahid fiy thalabi al-'ilmi yanjaḥ fiy ḥayaātihi) berarti \"Barang siapa bersungguh-sungguh dalam menuntut ilmu, niscaya ia sukses dalam hidupnya.\". Kalimat ini menggunakan pola \"Adawat Syarat + Fi'il Syarat (Majzum) + Jawab Syarat (Majzum)\" (Kaidah Syarat dan Jawab Syarat (أسلوب الشرط)) yang berfungsi untuk menghubungkan klausul syarat dan konsekuensi akibatnya dengan partikel pengkondisian jazm (إنْ, مَنْ, مَا, مَهْمَا)."
       },
       {
         "id": "q-ar-gram-28-bb-2",
@@ -13181,24 +13265,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kelompok kata benda yang tidak boleh bertanwin dan menerima tanda fathah saat dalam kondisi majrur.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)\" (الأسماء الممنوعة من الصرف وعلامة جرها الفتحة) berfungsi untuk: kelompok kata benda yang tidak boleh bertanwin dan menerima tanda fathah saat dalam kondisi majrur. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ — Saya telah melaksanakan salat di banyak masjid di kota tersebut."
+          "Rumus utama: Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)",
+          "Contoh 1: صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ (Shalaytu fiy masaājida katsiyraahin fiy al-madiynaahi) — Saya telah melaksanakan salat di banyak masjid di kota tersebut."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Al-Mamnu' minash sharf saat majrur bertanda harakat fathah (مساجدَ).",
         "ruleList": [
-          "دَرَسْتُ مَعَ عُمَرَ وَعُثْمَانَ فِي الْفَصْلِ — Saya telah belajar bersama Umar dan Utsman di dalam kelas."
+          "Polanya: Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)",
+          "Contoh 2: دَرَسْتُ مَعَ عُمَرَ وَعُثْمَانَ فِي الْفَصْلِ (Darastu ma'a 'umara wa'utsmaāna fiy al-fashli) — Saya telah belajar bersama Umar dan Utsman di dalam kelas."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "سَافَرْنَا إِلَى مَكَّةَ الْمُكَرَّمَةِ — Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah."
+          "Contoh 3: سَافَرْنَا إِلَى مَكَّةَ الْمُكَرَّمَةِ (Saāfarnaā iilaā makaaha al-mukaramaahi) — Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah.",
+          "Hindari kesalahan: \"في مساجدِ كثيرة\" → gunakan bentuk yang benar: \"في مساجدَ كثيرة\"."
         ]
       }
     ],
@@ -13206,19 +13293,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-29-ex-1",
         "native": "صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ",
-        "phonetic": "",
+        "phonetic": "Shalaytu fiy masaājida katsiyraahin fiy al-madiynaahi",
         "translationId": "Saya telah melaksanakan salat di banyak masjid di kota tersebut."
       },
       {
         "id": "ar-gram-29-ex-2",
         "native": "دَرَسْتُ مَعَ عُمَرَ وَعُثْمَانَ فِي الْفَصْلِ",
-        "phonetic": "",
+        "phonetic": "Darastu ma'a 'umara wa'utsmaāna fiy al-fashli",
         "translationId": "Saya telah belajar bersama Umar dan Utsman di dalam kelas."
       },
       {
         "id": "ar-gram-29-ex-3",
         "native": "سَافَرْنَا إِلَى مَكَّةَ الْمُكَرَّمَةِ",
-        "phonetic": "",
+        "phonetic": "Saāfarnaā iilaā makaaha al-mukaramaahi",
         "translationId": "Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah."
       }
     ],
@@ -13234,7 +13321,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)\" (Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-29-pg-1",
@@ -13250,7 +13337,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ\" berarti \"Saya telah melaksanakan salat di banyak masjid di kota tersebut.\"."
+        "explanation": "Kalimat \"صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ\" (dibaca: Shalaytu fiy masaājida katsiyraahin fiy al-madiynaahi) berarti \"Saya telah melaksanakan salat di banyak masjid di kota tersebut.\". Kalimat ini menggunakan pola \"Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)\" (Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)) yang berfungsi untuk kelompok kata benda yang tidak boleh bertanwin dan menerima tanda fathah saat dalam kondisi majrur."
       },
       {
         "id": "q-ar-gram-29-pg-2",
@@ -13266,7 +13353,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"دَرَسْتُ مَعَ عُمَرَ وَعُثْمَانَ فِي الْفَصْلِ\" berarti \"Saya telah belajar bersama Umar dan Utsman di dalam kelas.\"."
+        "explanation": "Kalimat \"دَرَسْتُ مَعَ عُمَرَ وَعُثْمَانَ فِي الْفَصْلِ\" (dibaca: Darastu ma'a 'umara wa'utsmaāna fiy al-fashli) berarti \"Saya telah belajar bersama Umar dan Utsman di dalam kelas.\". Kalimat ini menggunakan pola \"Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)\" (Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)) yang berfungsi untuk kelompok kata benda yang tidak boleh bertanwin dan menerima tanda fathah saat dalam kondisi majrur."
       },
       {
         "id": "q-ar-gram-29-pg-3",
@@ -13282,7 +13369,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya telah membeli satu kilogram kurma."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"سَافَرْنَا إِلَى مَكَّةَ الْمُكَرَّمَةِ\" berarti \"Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah.\"."
+        "explanation": "Kalimat \"سَافَرْنَا إِلَى مَكَّةَ الْمُكَرَّمَةِ\" (dibaca: Saāfarnaā iilaā makaaha al-mukaramaahi) berarti \"Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah.\". Kalimat ini menggunakan pola \"Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)\" (Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)) yang berfungsi untuk kelompok kata benda yang tidak boleh bertanwin dan menerima tanda fathah saat dalam kondisi majrur."
       },
       {
         "id": "q-ar-gram-29-pg-4",
@@ -13302,7 +13389,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-29-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)\"?",
         "options": [
           "دَرَسْتُ مَعَ عُمَرَ وَعُثْمَانَ فِي الْفَصْلِ — Saya telah belajar bersama Umar dan Utsman di dalam kelas.",
           "اسْتَمَعْنَا إِلَى الْمُحَاضَرَةِ مُنْصِتِينَ — Kami menyimak kuliah umum tersebut dalam keadaan penuh perhatian.",
@@ -13316,7 +13403,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-29-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)\"?",
         "options": [
           "جَاءَ الطَّالِبُ إِلَى الِامْتِحَانِ مُسْتَعِدًّا — Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia.",
           "سَافَرْنَا إِلَى مَكَّةَ الْمُكَرَّمَةِ — Kami melakukan perjalanan menuju kota suci Makkah Al-Mukarramah.",
@@ -13330,7 +13417,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-29-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -13577,7 +13664,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu datang ke ruang ujian dalam keadaan siap sedia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ\" berarti \"Saya telah melaksanakan salat di banyak masjid di kota tersebut.\"."
+        "explanation": "Kalimat \"صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ فِي الْمَدِينَةِ\" (dibaca: Shalaytu fiy masaājida katsiyraahin fiy al-madiynaahi) berarti \"Saya telah melaksanakan salat di banyak masjid di kota tersebut.\". Kalimat ini menggunakan pola \"Tanpa Tanwin & Majrur dengan Fathah (selama tidak ber-alif lam/mudhaf)\" (Al-Mamnu' minash Sharf Isim Tanpa Tanwin (الممنوع من الصرف)) yang berfungsi untuk kelompok kata benda yang tidak boleh bertanwin dan menerima tanda fathah saat dalam kondisi majrur."
       },
       {
         "id": "q-ar-gram-29-bb-2",
@@ -13652,24 +13739,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Dua fungsi sintaksis pengikut (tawabi'): taukid mempertegas kepastian subjek, badal menggantikan penjelas.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah Taukid dan Badal (التوكيد والبدل من التوابع) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)\" (التوكيد اللفظي والمعنوي وأنواع البدل) berfungsi untuk: dua fungsi sintaksis pengikut (tawabi'): taukid mempertegas kepastian subjek, badal menggantikan penjelas. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ — Rektor itu sendiri yang hadir langsung ke konferensi tersebut."
+          "Rumus utama: Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya",
+          "Contoh 1: حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ (Ḥadhara al-rai'iysu nafsuhu iilaā al-muu'tamari) — Rektor itu sendiri yang hadir langsung ke konferensi tersebut."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Taukid ma'nawi mengikuti i'rab kata yang ditegaskannya (marfu' dhammah).",
         "ruleList": [
-          "قَرَأْتُ الْكِتَابَ نِصْفَهُ فِي لَيْلَةٍ وَاحِدَةٍ — Saya telah membaca buku itu separuhnya dalam satu malam saja."
+          "Polanya: Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya",
+          "Contoh 2: قَرَأْتُ الْكِتَابَ نِصْفَهُ فِي لَيْلَةٍ وَاحِدَةٍ (Qaraatu al-kitaāba nishfahu fiy laylaahin waāḥidaahin) — Saya telah membaca buku itu separuhnya dalam satu malam saja."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "جَاءَ الْأُسْتَاذُ أَحْمَدُ إِلَى الْقَاعَةِ — Profesor Ahmad telah datang ke ruang aula."
+          "Contoh 3: جَاءَ الْأُسْتَاذُ أَحْمَدُ إِلَى الْقَاعَةِ (Jaā'a al-austaādzu aaḥmadu iilaā al-qaā'aahi) — Profesor Ahmad telah datang ke ruang aula.",
+          "Hindari kesalahan: \"حضر الرئيسَ نفسَه\" → gunakan bentuk yang benar: \"حضر الرئيسُ نفسُه\"."
         ]
       }
     ],
@@ -13677,19 +13767,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-30-ex-1",
         "native": "حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ",
-        "phonetic": "",
+        "phonetic": "Ḥadhara al-rai'iysu nafsuhu iilaā al-muu'tamari",
         "translationId": "Rektor itu sendiri yang hadir langsung ke konferensi tersebut."
       },
       {
         "id": "ar-gram-30-ex-2",
         "native": "قَرَأْتُ الْكِتَابَ نِصْفَهُ فِي لَيْلَةٍ وَاحِدَةٍ",
-        "phonetic": "",
+        "phonetic": "Qaraatu al-kitaāba nishfahu fiy laylaahin waāḥidaahin",
         "translationId": "Saya telah membaca buku itu separuhnya dalam satu malam saja."
       },
       {
         "id": "ar-gram-30-ex-3",
         "native": "جَاءَ الْأُسْتَاذُ أَحْمَدُ إِلَى الْقَاعَةِ",
-        "phonetic": "",
+        "phonetic": "Jaā'a al-austaādzu aaḥmadu iilaā al-qaā'aahi",
         "translationId": "Profesor Ahmad telah datang ke ruang aula."
       }
     ],
@@ -13705,7 +13795,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah Taukid dan Badal (التوكيد والبدل من التوابع) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)\" (Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-30-pg-1",
@@ -13721,7 +13811,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Di perpustakaan terdapat dua puluh unit komputer modern."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ\" berarti \"Rektor itu sendiri yang hadir langsung ke konferensi tersebut.\"."
+        "explanation": "Kalimat \"حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ\" (dibaca: Ḥadhara al-rai'iysu nafsuhu iilaā al-muu'tamari) berarti \"Rektor itu sendiri yang hadir langsung ke konferensi tersebut.\". Kalimat ini menggunakan pola \"Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya\" (Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)) yang berfungsi untuk dua fungsi sintaksis pengikut (tawabi'): taukid mempertegas kepastian subjek, badal menggantikan penjelas."
       },
       {
         "id": "q-ar-gram-30-pg-2",
@@ -13737,7 +13827,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seluruh mahasiswa berhasil lulus kecuali satu orang mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"قَرَأْتُ الْكِتَابَ نِصْفَهُ فِي لَيْلَةٍ وَاحِدَةٍ\" berarti \"Saya telah membaca buku itu separuhnya dalam satu malam saja.\"."
+        "explanation": "Kalimat \"قَرَأْتُ الْكِتَابَ نِصْفَهُ فِي لَيْلَةٍ وَاحِدَةٍ\" (dibaca: Qaraatu al-kitaāba nishfahu fiy laylaahin waāḥidaahin) berarti \"Saya telah membaca buku itu separuhnya dalam satu malam saja.\". Kalimat ini menggunakan pola \"Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya\" (Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)) yang berfungsi untuk dua fungsi sintaksis pengikut (tawabi'): taukid mempertegas kepastian subjek, badal menggantikan penjelas."
       },
       {
         "id": "q-ar-gram-30-pg-3",
@@ -13753,7 +13843,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Profesor Ahmad telah datang ke ruang aula."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"جَاءَ الْأُسْتَاذُ أَحْمَدُ إِلَى الْقَاعَةِ\" berarti \"Profesor Ahmad telah datang ke ruang aula.\"."
+        "explanation": "Kalimat \"جَاءَ الْأُسْتَاذُ أَحْمَدُ إِلَى الْقَاعَةِ\" (dibaca: Jaā'a al-austaādzu aaḥmadu iilaā al-qaā'aahi) berarti \"Profesor Ahmad telah datang ke ruang aula.\". Kalimat ini menggunakan pola \"Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya\" (Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)) yang berfungsi untuk dua fungsi sintaksis pengikut (tawabi'): taukid mempertegas kepastian subjek, badal menggantikan penjelas."
       },
       {
         "id": "q-ar-gram-30-pg-4",
@@ -13773,7 +13863,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-30-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)\"?",
         "options": [
           "فِي الْمَكْتَبَةِ عِشْرُونَ حَاسُوبًا حَدِيثًا — Di perpustakaan terdapat dua puluh unit komputer modern.",
           "قَرَأْتُ الْكِتَابَ نِصْفَهُ فِي لَيْلَةٍ وَاحِدَةٍ — Saya telah membaca buku itu separuhnya dalam satu malam saja.",
@@ -13787,7 +13877,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-30-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)\"?",
         "options": [
           "حَسُنَ الطَّالِبُ خُلُقًا وَأَدَبًا — Mahasiswa itu sangat baik dari segi akhlak dan budi pekertinya.",
           "اشْتَرَيْتُ كِيلُوغْرَامًا تَمْرًا — Saya telah membeli satu kilogram kurma.",
@@ -13801,7 +13891,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-30-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -14048,7 +14138,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Rektor itu sendiri yang hadir langsung ke konferensi tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ\" berarti \"Rektor itu sendiri yang hadir langsung ke konferensi tersebut.\"."
+        "explanation": "Kalimat \"حَضَرَ الرَّئِيسُ نَفْسُهُ إِلَى الْمُؤْتَمَرِ\" (dibaca: Ḥadhara al-rai'iysu nafsuhu iilaā al-muu'tamari) berarti \"Rektor itu sendiri yang hadir langsung ke konferensi tersebut.\". Kalimat ini menggunakan pola \"Taukid (نَفْس، عَيْن، كُلّ) & Badal Menyamai I'rab Matbu'nya\" (Kaidah Taukid dan Badal (التوكيد والبدل من التوابع)) yang berfungsi untuk dua fungsi sintaksis pengikut (tawabi'): taukid mempertegas kepastian subjek, badal menggantikan penjelas."
       },
       {
         "id": "q-ar-gram-30-bb-2",
@@ -14123,24 +14213,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memahami kaidah substitusi dan eliminasi fonologis akar kata lemah dalam morfologi Arab mutaqaddim.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)\" (أحكام الإعلال بالقلب والنقل والحذف في علم الصرف) berfungsi untuk: memahami kaidah substitusi dan eliminasi fonologis akar kata lemah dalam morfologi Arab mutaqaddim. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ — Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad."
+          "Rumus utama: Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)",
+          "Contoh 1: قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ (Qaāla al-'aālimu qawlanā sadiydanā fiy masaalaahi al-iājtihaādi) — Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Asal kata قال adalah قَوَلَ yang mengalami i'lal qalb menjadi قال.",
         "ruleList": [
-          "اسْتَقَامَتِ الْأُمُورُ بَعْدَ الْبَحْثِ وَالتَّشَاوُرِ — Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah."
+          "Polanya: Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)",
+          "Contoh 2: اسْتَقَامَتِ الْأُمُورُ بَعْدَ الْبَحْثِ وَالتَّشَاوُرِ (Āstaqaāmati al-aumuwru ba'da al-baḥtsi waāltasyaāwuri) — Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "يَبِيعُ التَّاجِرُ بِضَاعَتَهُ بِالصِّدْقِ — Pedagang itu menjual barang dagangannya dengan penuh kejujuran."
+          "Contoh 3: يَبِيعُ التَّاجِرُ بِضَاعَتَهُ بِالصِّدْقِ (Yabiy'u al-taājiru bidhaā'atahu biālshidqi) — Pedagang itu menjual barang dagangannya dengan penuh kejujuran.",
+          "Hindari kesalahan: \"قَوَلَ الرجل\" → gunakan bentuk yang benar: \"قالَ الرجل\"."
         ]
       }
     ],
@@ -14148,19 +14241,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-31-ex-1",
         "native": "قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ",
-        "phonetic": "",
+        "phonetic": "Qaāla al-'aālimu qawlanā sadiydanā fiy masaalaahi al-iājtihaādi",
         "translationId": "Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad."
       },
       {
         "id": "ar-gram-31-ex-2",
         "native": "اسْتَقَامَتِ الْأُمُورُ بَعْدَ الْبَحْثِ وَالتَّشَاوُرِ",
-        "phonetic": "",
+        "phonetic": "Āstaqaāmati al-aumuwru ba'da al-baḥtsi waāltasyaāwuri",
         "translationId": "Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah."
       },
       {
         "id": "ar-gram-31-ex-3",
         "native": "يَبِيعُ التَّاجِرُ بِضَاعَتَهُ بِالصِّدْقِ",
-        "phonetic": "",
+        "phonetic": "Yabiy'u al-taājiru bidhaā'atahu biālshidqi",
         "translationId": "Pedagang itu menjual barang dagangannya dengan penuh kejujuran."
       }
     ],
@@ -14176,7 +14269,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)\" (Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-31-pg-1",
@@ -14192,7 +14285,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ\" berarti \"Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad.\"."
+        "explanation": "Kalimat \"قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ\" (dibaca: Qaāla al-'aālimu qawlanā sadiydanā fiy masaalaahi al-iājtihaādi) berarti \"Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad.\". Kalimat ini menggunakan pola \"Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)\" (Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)) yang berfungsi untuk memahami kaidah substitusi dan eliminasi fonologis akar kata lemah dalam morfologi Arab mutaqaddim."
       },
       {
         "id": "q-ar-gram-31-pg-2",
@@ -14208,7 +14301,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"اسْتَقَامَتِ الْأُمُورُ بَعْدَ الْبَحْثِ وَالتَّشَاوُرِ\" berarti \"Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah.\"."
+        "explanation": "Kalimat \"اسْتَقَامَتِ الْأُمُورُ بَعْدَ الْبَحْثِ وَالتَّشَاوُرِ\" (dibaca: Āstaqaāmati al-aumuwru ba'da al-baḥtsi waāltasyaāwuri) berarti \"Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah.\". Kalimat ini menggunakan pola \"Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)\" (Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)) yang berfungsi untuk memahami kaidah substitusi dan eliminasi fonologis akar kata lemah dalam morfologi Arab mutaqaddim."
       },
       {
         "id": "q-ar-gram-31-pg-3",
@@ -14224,7 +14317,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Manuskrip-manuskrip Arab dinilai sebagai khazanah peradaban yang tiada duanya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"يَبِيعُ التَّاجِرُ بِضَاعَتَهُ بِالصِّدْقِ\" berarti \"Pedagang itu menjual barang dagangannya dengan penuh kejujuran.\"."
+        "explanation": "Kalimat \"يَبِيعُ التَّاجِرُ بِضَاعَتَهُ بِالصِّدْقِ\" (dibaca: Yabiy'u al-taājiru bidhaā'atahu biālshidqi) berarti \"Pedagang itu menjual barang dagangannya dengan penuh kejujuran.\". Kalimat ini menggunakan pola \"Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)\" (Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)) yang berfungsi untuk memahami kaidah substitusi dan eliminasi fonologis akar kata lemah dalam morfologi Arab mutaqaddim."
       },
       {
         "id": "q-ar-gram-31-pg-4",
@@ -14244,7 +14337,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-31-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)\"?",
         "options": [
           "ابْتَسَمَتِ الْأَرْضُ بِخُرُوجِ الْأَزْهَارِ فِي الرَّبِيعِ — Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi.",
           "ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ — Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan.",
@@ -14258,7 +14351,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-31-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)\"?",
         "options": [
           "الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ — Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya.",
           "يَدُ اللَّهِ مَعَ الْجَمَاعَةِ فِي الْعَمَلِ الْخَيْرِيِّ — Pertolongan Allah menyertai jamaah dalam amal kebajikan.",
@@ -14272,7 +14365,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-31-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -14521,7 +14614,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ\" berarti \"Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad.\"."
+        "explanation": "Kalimat \"قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ\" (dibaca: Qaāla al-'aālimu qawlanā sadiydanā fiy masaalaahi al-iājtihaādi) berarti \"Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad.\". Kalimat ini menggunakan pola \"Kaidah Transformasi Huruf 'Illat (Wawu, Ya', Alif)\" (Kaidah I'lal dan Ibdal dalam Morfologi Lanjutan (الإعلال والإبدال)) yang berfungsi untuk memahami kaidah substitusi dan eliminasi fonologis akar kata lemah dalam morfologi Arab mutaqaddim."
       },
       {
         "id": "q-ar-gram-31-bb-2",
@@ -14596,24 +14689,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengekspresikan kekaguman (ta'ajjub) serta pujian (madh) dan celaan (dzamm) dalam bahasa fusha tinggi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)\" (صيغتا التعجب (ما أفعَلَه وأفْعِلْ به) ونِعْمَ وبِئْسَ) berfungsi untuk: mengekspresikan kekaguman (ta'ajjub) serta pujian (madh) dan celaan (dzamm) dalam bahasa fusha tinggi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا — Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!"
+          "Rumus utama: مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush",
+          "Contoh 1: مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا (Maā aajmala al-lughaaha al-'arabiyaaha waaa'dzaba bayaānahaā) — Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!"
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Rumus ta'ajjub ما أَفْعَلَ menashabkan objek setelahnya (اللغةَ).",
         "ruleList": [
-          "نِعْمَ الْخُلُقُ الصِّدْقُ فِي الْبَحْثِ الْعِلْمِيِّ — Sebaik-baik akhlak adalah kejujuran dalam penelitian ilmiah."
+          "Polanya: مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush",
+          "Contoh 2: نِعْمَ الْخُلُقُ الصِّدْقُ فِي الْبَحْثِ الْعِلْمِيِّ (Ni'ma al-khuluqu al-shidqu fiy al-baḥtsi al-'ilmiyi) — Sebaik-baik akhlak adalah kejujuran dalam penelitian ilmiah."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "بِئْسَ الْعَمَلُ الِانْتِحَالُ الْأَدَبِيُّ — Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah."
+          "Contoh 3: بِئْسَ الْعَمَلُ الِانْتِحَالُ الْأَدَبِيُّ (Bii'sa al-'amalu al-iāntiḥaālu al-aadabiyu) — Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah.",
+          "Hindari kesalahan: \"ما أجملُ اللغةُ\" → gunakan bentuk yang benar: \"ما أجملَ اللغةَ\"."
         ]
       }
     ],
@@ -14621,19 +14717,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-32-ex-1",
         "native": "مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا",
-        "phonetic": "",
+        "phonetic": "Maā aajmala al-lughaaha al-'arabiyaaha waaa'dzaba bayaānahaā",
         "translationId": "Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!"
       },
       {
         "id": "ar-gram-32-ex-2",
         "native": "نِعْمَ الْخُلُقُ الصِّدْقُ فِي الْبَحْثِ الْعِلْمِيِّ",
-        "phonetic": "",
+        "phonetic": "Ni'ma al-khuluqu al-shidqu fiy al-baḥtsi al-'ilmiyi",
         "translationId": "Sebaik-baik akhlak adalah kejujuran dalam penelitian ilmiah."
       },
       {
         "id": "ar-gram-32-ex-3",
         "native": "بِئْسَ الْعَمَلُ الِانْتِحَالُ الْأَدَبِيُّ",
-        "phonetic": "",
+        "phonetic": "Bii'sa al-'amalu al-iāntiḥaālu al-aadabiyu",
         "translationId": "Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah."
       }
     ],
@@ -14649,7 +14745,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)\" (مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-32-pg-1",
@@ -14665,7 +14761,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا\" berarti \"Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!\"."
+        "explanation": "Kalimat \"مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا\" (dibaca: Maā aajmala al-lughaaha al-'arabiyaaha waaa'dzaba bayaānahaā) berarti \"Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!\". Kalimat ini menggunakan pola \"مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush\" (Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)) yang berfungsi untuk mengekspresikan kekaguman (ta'ajjub) serta pujian (madh) dan celaan (dzamm) dalam bahasa fusha tinggi."
       },
       {
         "id": "q-ar-gram-32-pg-2",
@@ -14681,7 +14777,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"نِعْمَ الْخُلُقُ الصِّدْقُ فِي الْبَحْثِ الْعِلْمِيِّ\" berarti \"Sebaik-baik akhlak adalah kejujuran dalam penelitian ilmiah.\"."
+        "explanation": "Kalimat \"نِعْمَ الْخُلُقُ الصِّدْقُ فِي الْبَحْثِ الْعِلْمِيِّ\" (dibaca: Ni'ma al-khuluqu al-shidqu fiy al-baḥtsi al-'ilmiyi) berarti \"Sebaik-baik akhlak adalah kejujuran dalam penelitian ilmiah.\". Kalimat ini menggunakan pola \"مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush\" (Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)) yang berfungsi untuk mengekspresikan kekaguman (ta'ajjub) serta pujian (madh) dan celaan (dzamm) dalam bahasa fusha tinggi."
       },
       {
         "id": "q-ar-gram-32-pg-3",
@@ -14697,7 +14793,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Signifikansi topik ini lahir dari pembahasannya terhadap isu-isu pendidikan yang mendesak."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"بِئْسَ الْعَمَلُ الِانْتِحَالُ الْأَدَبِيُّ\" berarti \"Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah.\"."
+        "explanation": "Kalimat \"بِئْسَ الْعَمَلُ الِانْتِحَالُ الْأَدَبِيُّ\" (dibaca: Bii'sa al-'amalu al-iāntiḥaālu al-aadabiyu) berarti \"Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah.\". Kalimat ini menggunakan pola \"مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush\" (Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)) yang berfungsi untuk mengekspresikan kekaguman (ta'ajjub) serta pujian (madh) dan celaan (dzamm) dalam bahasa fusha tinggi."
       },
       {
         "id": "q-ar-gram-32-pg-4",
@@ -14717,7 +14813,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-32-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)\"?",
         "options": [
           "يَرَى سِيبَوَيْهِ فِي كِتَابِهِ أَنَّ الْإِعْرَابَ مِعْيَارُ الْمَعْنَى — Sibawaih berpandangan dalam kitabnya bahwa i'rab adalah tolok ukur makna.",
           "تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ — Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini.",
@@ -14731,7 +14827,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-32-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)\"?",
         "options": [
           "بِئْسَ الْعَمَلُ الِانْتِحَالُ الْأَدَبِيُّ — Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah.",
           "ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ — Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan.",
@@ -14745,7 +14841,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-32-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -14994,7 +15090,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا\" berarti \"Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!\"."
+        "explanation": "Kalimat \"مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا\" (dibaca: Maā aajmala al-lughaaha al-'arabiyaaha waaa'dzaba bayaānahaā) berarti \"Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!\". Kalimat ini menggunakan pola \"مَا أَفْعَلَ + Manshub & نِعْمَ / بِئْسَ + Fa'il + Al-Makhshush\" (Kaidah Ta'ajjub dan Madh/Dzamm (أسلوب التعجب والمدح والذم)) yang berfungsi untuk mengekspresikan kekaguman (ta'ajjub) serta pujian (madh) dan celaan (dzamm) dalam bahasa fusha tinggi."
       },
       {
         "id": "q-ar-gram-32-bb-2",
@@ -15069,24 +15165,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis fenomena sintaksis klasik ketika verba dan pronomina bersaing memperebutkan objek gramatikal.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)\" (قواعد الاشتغال والتنازع في النحو المتقدم) berfungsi untuk: menganalisis fenomena sintaksis klasik ketika verba dan pronomina bersaing memperebutkan objek gramatikal. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ — Buku itu telah saya baca seluruhnya dengan penuh perhatian."
+          "Rumus utama: Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat",
+          "Contoh 1: الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ (Al-kitaāba qaraatuhu kulahu biāhtimaāmin) — Buku itu telah saya baca seluruhnya dengan penuh perhatian."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam isytighal, mendahulukan isim manshub adalah pilihan yang paling fasih.",
         "ruleList": [
-          "أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ — Saya memuliakan sekaligus menghormati profesor yang agung itu."
+          "Polanya: Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat",
+          "Contoh 2: أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ (Aakramtu waāḥtaramtu al-austaādza al-jaliyla) — Saya memuliakan sekaligus menghormati profesor yang agung itu."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "اللُّغَةَ الْعَرَبِيَّةَ أَتْقَنْتُ قَوَاعِدَهَا — Bahasa Arab itu telah saya kuasai kaidah-kaidah tata bahasanya."
+          "Contoh 3: اللُّغَةَ الْعَرَبِيَّةَ أَتْقَنْتُ قَوَاعِدَهَا (Al-lughaaha al-'arabiyaaha aatqantu qawaā'idahaā) — Bahasa Arab itu telah saya kuasai kaidah-kaidah tata bahasanya.",
+          "Hindari kesalahan: \"الكتابُ قرأتُه (di isytighal rajih)\" → gunakan bentuk yang benar: \"الكتابَ قرأتُه\"."
         ]
       }
     ],
@@ -15094,19 +15193,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-33-ex-1",
         "native": "الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ",
-        "phonetic": "",
+        "phonetic": "Al-kitaāba qaraatuhu kulahu biāhtimaāmin",
         "translationId": "Buku itu telah saya baca seluruhnya dengan penuh perhatian."
       },
       {
         "id": "ar-gram-33-ex-2",
         "native": "أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ",
-        "phonetic": "",
+        "phonetic": "Aakramtu waāḥtaramtu al-austaādza al-jaliyla",
         "translationId": "Saya memuliakan sekaligus menghormati profesor yang agung itu."
       },
       {
         "id": "ar-gram-33-ex-3",
         "native": "اللُّغَةَ الْعَرَبِيَّةَ أَتْقَنْتُ قَوَاعِدَهَا",
-        "phonetic": "",
+        "phonetic": "Al-lughaaha al-'arabiyaaha aatqantu qawaā'idahaā",
         "translationId": "Bahasa Arab itu telah saya kuasai kaidah-kaidah tata bahasanya."
       }
     ],
@@ -15122,7 +15221,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)\" (Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-33-pg-1",
@@ -15138,7 +15237,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Disertasi ini bertujuan menganalisis wacana media kontemporer."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ\" berarti \"Buku itu telah saya baca seluruhnya dengan penuh perhatian.\"."
+        "explanation": "Kalimat \"الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ\" (dibaca: Al-kitaāba qaraatuhu kulahu biāhtimaāmin) berarti \"Buku itu telah saya baca seluruhnya dengan penuh perhatian.\". Kalimat ini menggunakan pola \"Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat\" (Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)) yang berfungsi untuk menganalisis fenomena sintaksis klasik ketika verba dan pronomina bersaing memperebutkan objek gramatikal."
       },
       {
         "id": "q-ar-gram-33-pg-2",
@@ -15154,7 +15253,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ\" berarti \"Saya memuliakan sekaligus menghormati profesor yang agung itu.\"."
+        "explanation": "Kalimat \"أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ\" (dibaca: Aakramtu waāḥtaramtu al-austaādza al-jaliyla) berarti \"Saya memuliakan sekaligus menghormati profesor yang agung itu.\". Kalimat ini menggunakan pola \"Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat\" (Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)) yang berfungsi untuk menganalisis fenomena sintaksis klasik ketika verba dan pronomina bersaing memperebutkan objek gramatikal."
       },
       {
         "id": "q-ar-gram-33-pg-3",
@@ -15170,7 +15269,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"اللُّغَةَ الْعَرَبِيَّةَ أَتْقَنْتُ قَوَاعِدَهَا\" berarti \"Bahasa Arab itu telah saya kuasai kaidah-kaidah tata bahasanya.\"."
+        "explanation": "Kalimat \"اللُّغَةَ الْعَرَبِيَّةَ أَتْقَنْتُ قَوَاعِدَهَا\" (dibaca: Al-lughaaha al-'arabiyaaha aatqantu qawaā'idahaā) berarti \"Bahasa Arab itu telah saya kuasai kaidah-kaidah tata bahasanya.\". Kalimat ini menggunakan pola \"Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat\" (Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)) yang berfungsi untuk menganalisis fenomena sintaksis klasik ketika verba dan pronomina bersaing memperebutkan objek gramatikal."
       },
       {
         "id": "q-ar-gram-33-pg-4",
@@ -15190,7 +15289,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-33-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)\"?",
         "options": [
           "أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ — Saya memuliakan sekaligus menghormati profesor yang agung itu.",
           "تَهْدِفُ هَذِهِ الْأُطْرُوحَةُ إِلَى تَحْلِيلِ الْخِطَابِ الْإِعْلَامِيِّ الْمُعَاصِرِ — Disertasi ini bertujuan menganalisis wacana media kontemporer.",
@@ -15204,7 +15303,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-33-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)\"?",
         "options": [
           "تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ — Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini.",
           "اللُّغَةَ الْعَرَبِيَّةَ أَتْقَنْتُ قَوَاعِدَهَا — Bahasa Arab itu telah saya kuasai kaidah-kaidah tata bahasanya.",
@@ -15218,7 +15317,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-33-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15459,7 +15558,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ\" berarti \"Buku itu telah saya baca seluruhnya dengan penuh perhatian.\"."
+        "explanation": "Kalimat \"الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ\" (dibaca: Al-kitaāba qaraatuhu kulahu biāhtimaāmin) berarti \"Buku itu telah saya baca seluruhnya dengan penuh perhatian.\". Kalimat ini menggunakan pola \"Pengaturan Hubungan Kata Kerja Ganda terhadap Objek Berserikat\" (Sintaksis Lanjutan: Isytighal dan Tanazu' (الاشتغال والتنازع)) yang berfungsi untuk menganalisis fenomena sintaksis klasik ketika verba dan pronomina bersaing memperebutkan objek gramatikal."
       },
       {
         "id": "q-ar-gram-33-bb-2",
@@ -15534,24 +15633,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membedakan kalimat berita informatif dengan kalimat performatif serta derajat penggunaan taukid penegas.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)\" (أضرب الخبر والإنشاء الطلبي وغير الطلبي) berfungsi untuk: membedakan kalimat berita informatif dengan kalimat performatif serta derajat penggunaan taukid penegas. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ — Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan."
+          "Rumus utama: Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)",
+          "Contoh 1: إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ (Iina al-'ilma lahuwa al-sabiylu al-aawḥadu lilruqiyi) — Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk lawan bicara yang mengingkari (inkari) wajib menggunakan minimal dua penguat (inna dan lam muzahlaqah).",
         "ruleList": [
-          "هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ — Apakah sama orang-orang yang berilmu pengetahuan dengan orang-orang yang tidak berilmu?"
+          "Polanya: Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)",
+          "Contoh 2: هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ (Hal yastawiy al-adziyna ya'lamuwna waāladziyna laā ya'lamuwna) — Apakah sama orang-orang yang berilmu pengetahuan dengan orang-orang yang tidak berilmu?"
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا — Seandainya saja masa muda dapat kembali suatu hari nanti."
+          "Contoh 3: لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا (Layta al-syabaāba ya'uwdu yawmanā) — Seandainya saja masa muda dapat kembali suatu hari nanti.",
+          "Hindari kesalahan: \"إن العلم نور (للمنكر)\" → gunakan bentuk yang benar: \"إنّ العلمَ لَنورٌ\"."
         ]
       }
     ],
@@ -15559,19 +15661,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-34-ex-1",
         "native": "إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ",
-        "phonetic": "",
+        "phonetic": "Iina al-'ilma lahuwa al-sabiylu al-aawḥadu lilruqiyi",
         "translationId": "Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan."
       },
       {
         "id": "ar-gram-34-ex-2",
         "native": "هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ",
-        "phonetic": "",
+        "phonetic": "Hal yastawiy al-adziyna ya'lamuwna waāladziyna laā ya'lamuwna",
         "translationId": "Apakah sama orang-orang yang berilmu pengetahuan dengan orang-orang yang tidak berilmu?"
       },
       {
         "id": "ar-gram-34-ex-3",
         "native": "لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا",
-        "phonetic": "",
+        "phonetic": "Layta al-syabaāba ya'uwdu yawmanā",
         "translationId": "Seandainya saja masa muda dapat kembali suatu hari nanti."
       }
     ],
@@ -15587,7 +15689,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)\" (Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-34-pg-1",
@@ -15603,7 +15705,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ\" berarti \"Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan.\"."
+        "explanation": "Kalimat \"إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ\" (dibaca: Iina al-'ilma lahuwa al-sabiylu al-aawḥadu lilruqiyi) berarti \"Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan.\". Kalimat ini menggunakan pola \"Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)\" (Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)) yang berfungsi untuk membedakan kalimat berita informatif dengan kalimat performatif serta derajat penggunaan taukid penegas."
       },
       {
         "id": "q-ar-gram-34-pg-2",
@@ -15619,7 +15721,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at)."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ\" berarti \"Apakah sama orang-orang yang berilmu pengetahuan dengan orang-orang yang tidak berilmu?\"."
+        "explanation": "Kalimat \"هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ\" (dibaca: Hal yastawiy al-adziyna ya'lamuwna waāladziyna laā ya'lamuwna) berarti \"Apakah sama orang-orang yang berilmu pengetahuan dengan orang-orang yang tidak berilmu?\". Kalimat ini menggunakan pola \"Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)\" (Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)) yang berfungsi untuk membedakan kalimat berita informatif dengan kalimat performatif serta derajat penggunaan taukid penegas."
       },
       {
         "id": "q-ar-gram-34-pg-3",
@@ -15635,7 +15737,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saja masa muda dapat kembali suatu hari nanti."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا\" berarti \"Seandainya saja masa muda dapat kembali suatu hari nanti.\"."
+        "explanation": "Kalimat \"لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا\" (dibaca: Layta al-syabaāba ya'uwdu yawmanā) berarti \"Seandainya saja masa muda dapat kembali suatu hari nanti.\". Kalimat ini menggunakan pola \"Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)\" (Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)) yang berfungsi untuk membedakan kalimat berita informatif dengan kalimat performatif serta derajat penggunaan taukid penegas."
       },
       {
         "id": "q-ar-gram-34-pg-4",
@@ -15655,7 +15757,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-34-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)\"?",
         "options": [
           "وَالْجَوَابُ عَنْ هَذَا الِاعْتِرَاضِ يَتَلَخَّصُ فِي أَمْرَيْنِ — Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama.",
           "هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ — Apakah sama orang-orang yang berilmu pengetahuan dengan orang-orang yang tidak berilmu?",
@@ -15669,7 +15771,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-34-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)\"?",
         "options": [
           "لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ — Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama.",
           "نَخْلُصُ مِمَّا تَقَدَّمَ إِلَى وُجُوبِ إِعَادَةِ النَّظَرِ فِي التَّصْنِيفِ — Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut.",
@@ -15683,7 +15785,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-34-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15932,7 +16034,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ\" berarti \"Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan.\"."
+        "explanation": "Kalimat \"إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ\" (dibaca: Iina al-'ilma lahuwa al-sabiylu al-aawḥadu lilruqiyi) berarti \"Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan.\". Kalimat ini menggunakan pola \"Tingkatan Penegasan Retorika (Ibtida'i, Thalabi, Inkari)\" (Balaghah Ilmu Ma'ani: Kalam Khabar dan Insya' (علم المعاني)) yang berfungsi untuk membedakan kalimat berita informatif dengan kalimat performatif serta derajat penggunaan taukid penegas."
       },
       {
         "id": "q-ar-gram-34-bb-2",
@@ -16007,24 +16109,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kajian estetika sastra Arab dalam menyerupakan konsep abstrak dan metafora imajinatif karya sastrawan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)\" (التشبيه وأركانه والاستعارة والمجاز العقلي واللغوي) berfungsi untuk: kajian estetika sastra Arab dalam menyerupakan konsep abstrak dan metafora imajinatif karya sastrawan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ — Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya."
+          "Rumus utama: Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)",
+          "Contoh 1: الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ (Al-'aālimu kaālbaḥri fiy sa'aahi 'ilmihi wafaydhihi) — Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika) diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Penyebutan kaf tasybih menjadikan rukun penyerupaan eksplisit dan indah.",
         "ruleList": [
-          "ابْتَسَمَتِ الْأَرْضُ بِخُرُوجِ الْأَزْهَارِ فِي الرَّبِيعِ — Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi."
+          "Polanya: Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)",
+          "Contoh 2: ابْتَسَمَتِ الْأَرْضُ بِخُرُوجِ الْأَزْهَارِ فِي الرَّبِيعِ (Ābtasamati al-aardhu bikhuruwji al-aazhaāri fiy al-rabiy'i) — Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "يَدُ اللَّهِ مَعَ الْجَمَاعَةِ فِي الْعَمَلِ الْخَيْرِيِّ — Pertolongan Allah menyertai jamaah dalam amal kebajikan."
+          "Contoh 3: يَدُ اللَّهِ مَعَ الْجَمَاعَةِ فِي الْعَمَلِ الْخَيْرِيِّ (Yadu al-lahi ma'a al-jamaā'aahi fiy al-'amali al-khayriyi) — Pertolongan Allah menyertai jamaah dalam amal kebajikan.",
+          "Hindari kesalahan: \"العالم بحر (تشبيه مرسل)\" → gunakan bentuk yang benar: \"العالم كالبحر\"."
         ]
       }
     ],
@@ -16032,19 +16137,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-35-ex-1",
         "native": "الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ",
-        "phonetic": "",
+        "phonetic": "Al-'aālimu kaālbaḥri fiy sa'aahi 'ilmihi wafaydhihi",
         "translationId": "Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya."
       },
       {
         "id": "ar-gram-35-ex-2",
         "native": "ابْتَسَمَتِ الْأَرْضُ بِخُرُوجِ الْأَزْهَارِ فِي الرَّبِيعِ",
-        "phonetic": "",
+        "phonetic": "Ābtasamati al-aardhu bikhuruwji al-aazhaāri fiy al-rabiy'i",
         "translationId": "Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi."
       },
       {
         "id": "ar-gram-35-ex-3",
         "native": "يَدُ اللَّهِ مَعَ الْجَمَاعَةِ فِي الْعَمَلِ الْخَيْرِيِّ",
-        "phonetic": "",
+        "phonetic": "Yadu al-lahi ma'a al-jamaā'aahi fiy al-'amali al-khayriyi",
         "translationId": "Pertolongan Allah menyertai jamaah dalam amal kebajikan."
       }
     ],
@@ -16060,7 +16165,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)\" (Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-35-pg-1",
@@ -16076,7 +16181,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal)."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ\" berarti \"Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya.\"."
+        "explanation": "Kalimat \"الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ\" (dibaca: Al-'aālimu kaālbaḥri fiy sa'aahi 'ilmihi wafaydhihi) berarti \"Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya.\". Kalimat ini menggunakan pola \"Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)\" (Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)) yang berfungsi untuk kajian estetika sastra Arab dalam menyerupakan konsep abstrak dan metafora imajinatif karya sastrawan."
       },
       {
         "id": "q-ar-gram-35-pg-2",
@@ -16092,7 +16197,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ابْتَسَمَتِ الْأَرْضُ بِخُرُوجِ الْأَزْهَارِ فِي الرَّبِيعِ\" berarti \"Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi.\"."
+        "explanation": "Kalimat \"ابْتَسَمَتِ الْأَرْضُ بِخُرُوجِ الْأَزْهَارِ فِي الرَّبِيعِ\" (dibaca: Ābtasamati al-aardhu bikhuruwji al-aazhaāri fiy al-rabiy'i) berarti \"Bumi tersenyum dengan bermekarannya bunga-bunga di musim semi.\". Kalimat ini menggunakan pola \"Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)\" (Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)) yang berfungsi untuk kajian estetika sastra Arab dalam menyerupakan konsep abstrak dan metafora imajinatif karya sastrawan."
       },
       {
         "id": "q-ar-gram-35-pg-3",
@@ -16108,7 +16213,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Studi penelitian ini dinilai sebagai kontribusi berkualitas tinggi bagi khazanah kepustakaan Arab."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"يَدُ اللَّهِ مَعَ الْجَمَاعَةِ فِي الْعَمَلِ الْخَيْرِيِّ\" berarti \"Pertolongan Allah menyertai jamaah dalam amal kebajikan.\"."
+        "explanation": "Kalimat \"يَدُ اللَّهِ مَعَ الْجَمَاعَةِ فِي الْعَمَلِ الْخَيْرِيِّ\" (dibaca: Yadu al-lahi ma'a al-jamaā'aahi fiy al-'amali al-khayriyi) berarti \"Pertolongan Allah menyertai jamaah dalam amal kebajikan.\". Kalimat ini menggunakan pola \"Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)\" (Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)) yang berfungsi untuk kajian estetika sastra Arab dalam menyerupakan konsep abstrak dan metafora imajinatif karya sastrawan."
       },
       {
         "id": "q-ar-gram-35-pg-4",
@@ -16128,7 +16233,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-35-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)\"?",
         "options": [
           "وَصَلَ الْأُسْتَاذُ وَالشَّمْسُ طَالِعَةٌ (جملة حالية) — Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal).",
           "وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ — Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum.",
@@ -16142,7 +16247,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-35-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)\"?",
         "options": [
           "هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت) — Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at).",
           "الْعِلْمُ يَرْفَعُ بَيْتًا لَا عِمَادَ لَهُ — Ilmu pengetahuan meninggikan derajat rumah yang tiada bertiang.",
@@ -16156,7 +16261,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-35-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -16403,7 +16508,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at)."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ\" berarti \"Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya.\"."
+        "explanation": "Kalimat \"الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ\" (dibaca: Al-'aālimu kaālbaḥri fiy sa'aahi 'ilmihi wafaydhihi) berarti \"Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya.\". Kalimat ini menggunakan pola \"Tasybih (Penyerupaan) & Majaz (Makna Kiasan Estetika)\" (Balaghah Ilmu Bayan: Tasybih dan Majaz (علم البيان)) yang berfungsi untuk kajian estetika sastra Arab dalam menyerupakan konsep abstrak dan metafora imajinatif karya sastrawan."
       },
       {
         "id": "q-ar-gram-35-bb-2",
@@ -16478,24 +16583,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah membaca, mensitir, dan menganalisis naskah manuskrip klasik Arab dalam skripsi studi Islam dan linguistik.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Wacana Akademik dan Sitasi Kitab Turats (النص التراثي) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)\" (طرائق توثيق النصوص التراثية والمصطلحات الأكاديمية) berfungsi untuk: kaidah membaca, mensitir, dan menganalisis naskah manuskrip klasik Arab dalam skripsi studi Islam dan linguistik. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ — Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan."
+          "Rumus utama: قال المصنف رحمه الله / ونقل ابن جني في الخصائص",
+          "Contoh 1: ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ (Dzakara ābnu khalduwna fiy muqadimatihi aana al-lughaaha malakaahun shinaā'iyaahun) — Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah قال المصنف رحمه الله / ونقل ابن جني في الخصائص diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"قال المصنف رحمه الله / ونقل ابن جني في الخصائص\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah fi'il qala, partikel inna wajib dibaca kasrah (إنّ) bukan anna.",
         "ruleList": [
-          "يَرَى سِيبَوَيْهِ فِي كِتَابِهِ أَنَّ الْإِعْرَابَ مِعْيَارُ الْمَعْنَى — Sibawaih berpandangan dalam kitabnya bahwa i'rab adalah tolok ukur makna."
+          "Polanya: قال المصنف رحمه الله / ونقل ابن جني في الخصائص",
+          "Contoh 2: يَرَى سِيبَوَيْهِ فِي كِتَابِهِ أَنَّ الْإِعْرَابَ مِعْيَارُ الْمَعْنَى (Yaraā siybawayhi fiy kitaābihi aana al-ii'raāba mi'yaāru al-ma'naā) — Sibawaih berpandangan dalam kitabnya bahwa i'rab adalah tolok ukur makna."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "تُعَدُّ الْمَخْطُوطَاتُ الْعَرَبِيَّةُ كَنْزًا حَضَارِيًّا فَرِيدًا — Manuskrip-manuskrip Arab dinilai sebagai khazanah peradaban yang tiada duanya."
+          "Contoh 3: تُعَدُّ الْمَخْطُوطَاتُ الْعَرَبِيَّةُ كَنْزًا حَضَارِيًّا فَرِيدًا (Tu'adu al-makhthuwthaātu al-'arabiyaahu kanzanā ḥadhaāriyanā fariydanā) — Manuskrip-manuskrip Arab dinilai sebagai khazanah peradaban yang tiada duanya.",
+          "Hindari kesalahan: \"قال سيبويه أن\" → gunakan bentuk yang benar: \"قال سيبويه: إنّ...\"."
         ]
       }
     ],
@@ -16503,19 +16611,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-36-ex-1",
         "native": "ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ",
-        "phonetic": "",
+        "phonetic": "Dzakara ābnu khalduwna fiy muqadimatihi aana al-lughaaha malakaahun shinaā'iyaahun",
         "translationId": "Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan."
       },
       {
         "id": "ar-gram-36-ex-2",
         "native": "يَرَى سِيبَوَيْهِ فِي كِتَابِهِ أَنَّ الْإِعْرَابَ مِعْيَارُ الْمَعْنَى",
-        "phonetic": "",
+        "phonetic": "Yaraā siybawayhi fiy kitaābihi aana al-ii'raāba mi'yaāru al-ma'naā",
         "translationId": "Sibawaih berpandangan dalam kitabnya bahwa i'rab adalah tolok ukur makna."
       },
       {
         "id": "ar-gram-36-ex-3",
         "native": "تُعَدُّ الْمَخْطُوطَاتُ الْعَرَبِيَّةُ كَنْزًا حَضَارِيًّا فَرِيدًا",
-        "phonetic": "",
+        "phonetic": "Tu'adu al-makhthuwthaātu al-'arabiyaahu kanzanā ḥadhaāriyanā fariydanā",
         "translationId": "Manuskrip-manuskrip Arab dinilai sebagai khazanah peradaban yang tiada duanya."
       }
     ],
@@ -16531,7 +16639,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Wacana Akademik dan Sitasi Kitab Turats (النص التراثي) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)\" (قال المصنف رحمه الله / ونقل ابن جني في الخصائص) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-36-pg-1",
@@ -16547,7 +16655,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ\" berarti \"Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan.\"."
+        "explanation": "Kalimat \"ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ\" (dibaca: Dzakara ābnu khalduwna fiy muqadimatihi aana al-lughaaha malakaahun shinaā'iyaahun) berarti \"Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan.\". Kalimat ini menggunakan pola \"قال المصنف رحمه الله / ونقل ابن جني في الخصائص\" (Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)) yang berfungsi untuk kaidah membaca, mensitir, dan menganalisis naskah manuskrip klasik Arab dalam skripsi studi Islam dan linguistik."
       },
       {
         "id": "q-ar-gram-36-pg-2",
@@ -16563,7 +16671,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"يَرَى سِيبَوَيْهِ فِي كِتَابِهِ أَنَّ الْإِعْرَابَ مِعْيَارُ الْمَعْنَى\" berarti \"Sibawaih berpandangan dalam kitabnya bahwa i'rab adalah tolok ukur makna.\"."
+        "explanation": "Kalimat \"يَرَى سِيبَوَيْهِ فِي كِتَابِهِ أَنَّ الْإِعْرَابَ مِعْيَارُ الْمَعْنَى\" (dibaca: Yaraā siybawayhi fiy kitaābihi aana al-ii'raāba mi'yaāru al-ma'naā) berarti \"Sibawaih berpandangan dalam kitabnya bahwa i'rab adalah tolok ukur makna.\". Kalimat ini menggunakan pola \"قال المصنف رحمه الله / ونقل ابن جني في الخصائص\" (Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)) yang berfungsi untuk kaidah membaca, mensitir, dan menganalisis naskah manuskrip klasik Arab dalam skripsi studi Islam dan linguistik."
       },
       {
         "id": "q-ar-gram-36-pg-3",
@@ -16579,7 +16687,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Pedagang itu menjual barang dagangannya dengan penuh kejujuran."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"تُعَدُّ الْمَخْطُوطَاتُ الْعَرَبِيَّةُ كَنْزًا حَضَارِيًّا فَرِيدًا\" berarti \"Manuskrip-manuskrip Arab dinilai sebagai khazanah peradaban yang tiada duanya.\"."
+        "explanation": "Kalimat \"تُعَدُّ الْمَخْطُوطَاتُ الْعَرَبِيَّةُ كَنْزًا حَضَارِيًّا فَرِيدًا\" (dibaca: Tu'adu al-makhthuwthaātu al-'arabiyaahu kanzanā ḥadhaāriyanā fariydanā) berarti \"Manuskrip-manuskrip Arab dinilai sebagai khazanah peradaban yang tiada duanya.\". Kalimat ini menggunakan pola \"قال المصنف رحمه الله / ونقل ابن جني في الخصائص\" (Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)) yang berfungsi untuk kaidah membaca, mensitir, dan menganalisis naskah manuskrip klasik Arab dalam skripsi studi Islam dan linguistik."
       },
       {
         "id": "q-ar-gram-36-pg-4",
@@ -16599,7 +16707,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-36-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)\"?",
         "options": [
           "قَرَّرَتِ اللَّجْنَةُ مَنْحَ الطَّالِبِ دَرَجَةَ الدُّكْتُورَاهِ بِمَرْتَبَةِ الشَّرَفِ الْأُولَى — Komite penguji memutuskan menganugerahkan gelar doktor kepada mahasiswa dengan predikat kehormatan tertinggi (Summa Cum Laude).",
           "قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ — Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad.",
@@ -16613,7 +16721,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-36-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)\"?",
         "options": [
           "تُعَدُّ الْمَخْطُوطَاتُ الْعَرَبِيَّةُ كَنْزًا حَضَارِيًّا فَرِيدًا — Manuskrip-manuskrip Arab dinilai sebagai khazanah peradaban yang tiada duanya.",
           "وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ — Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum.",
@@ -16627,7 +16735,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-36-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -16876,7 +16984,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ\" berarti \"Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan.\"."
+        "explanation": "Kalimat \"ذَكَرَ ابْنُ خَلْدُونَ فِي مُقَدِّمَتِهِ أَنَّ اللُّغَةَ مَلَكَةٌ صِنَاعِيَّةٌ\" (dibaca: Dzakara ābnu khalduwna fiy muqadimatihi aana al-lughaaha malakaahun shinaā'iyaahun) berarti \"Ibnu Khaldun menyebutkan dalam Muqaddimah-nya bahwa bahasa adalah kecakapan yang terbentuk lewat pembiasaan.\". Kalimat ini menggunakan pola \"قال المصنف رحمه الله / ونقل ابن جني في الخصائص\" (Wacana Akademik dan Sitasi Kitab Turats (النص التراثي)) yang berfungsi untuk kaidah membaca, mensitir, dan menganalisis naskah manuskrip klasik Arab dalam skripsi studi Islam dan linguistik."
       },
       {
         "id": "q-ar-gram-36-bb-2",
@@ -16951,24 +17059,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah merumuskan rumusan masalah, hipotesis, dan signifikansi riset dalam bahasa Arab fusha modern institusional.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)\" (صياغة مشكلة البحث والفرضيات باللغة الفصحى المعاصرة) berfungsi untuk: kaidah merumuskan rumusan masalah, hipotesis, dan signifikansi riset dalam bahasa Arab fusha modern institusional. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ — Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini."
+          "Rumus utama: تكمن مشكلة البحث في... / ويهدف إلى استقصاء...",
+          "Contoh 1: تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ (Takmunu musykilaahu al-diraāsaahi fiy nudraahi al-aabḥaātsi al-tathbiyqiyaahi fiy hadzaā al-ḥaqli) — Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah تكمن مشكلة البحث في... / ويهدف إلى استقصاء... diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"تكمن مشكلة البحث في... / ويهدف إلى استقصاء...\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan gaya retorika ilmiah fusha tinggi تَكْمُنُ الْمُشْكِلَةُ فِي...",
         "ruleList": [
-          "تَهْدِفُ هَذِهِ الْأُطْرُوحَةُ إِلَى تَحْلِيلِ الْخِطَابِ الْإِعْلَامِيِّ الْمُعَاصِرِ — Disertasi ini bertujuan menganalisis wacana media kontemporer."
+          "Polanya: تكمن مشكلة البحث في... / ويهدف إلى استقصاء...",
+          "Contoh 2: تَهْدِفُ هَذِهِ الْأُطْرُوحَةُ إِلَى تَحْلِيلِ الْخِطَابِ الْإِعْلَامِيِّ الْمُعَاصِرِ (Tahdifu hadzihi al-authruwḥaahu iilaā taḥliyli al-khithaābi al-ii'laāmiyi al-mu'aāshiri) — Disertasi ini bertujuan menganalisis wacana media kontemporer."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "تَنْبَثِقُ أَهَمِّيَّةُ الْمَوْضُوعِ مِنْ مُعَالَجَتِهِ لِقَضَايَا تَرْبَوِيَّةٍ مُلِحَّةٍ — Signifikansi topik ini lahir dari pembahasannya terhadap isu-isu pendidikan yang mendesak."
+          "Contoh 3: تَنْبَثِقُ أَهَمِّيَّةُ الْمَوْضُوعِ مِنْ مُعَالَجَتِهِ لِقَضَايَا تَرْبَوِيَّةٍ مُلِحَّةٍ (Tanbatsiqu aahamiyaahu al-mawdhuw'i min mu'aālajatihi liqadhaāyaā tarbawiyaahin muliḥaahin) — Signifikansi topik ini lahir dari pembahasannya terhadap isu-isu pendidikan yang mendesak.",
+          "Hindari kesalahan: \"المشكلة هي عدم وجود\" → gunakan bentuk yang benar: \"تكمن المشكلة في ندرة...\"."
         ]
       }
     ],
@@ -16976,19 +17087,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-37-ex-1",
         "native": "تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ",
-        "phonetic": "",
+        "phonetic": "Takmunu musykilaahu al-diraāsaahi fiy nudraahi al-aabḥaātsi al-tathbiyqiyaahi fiy hadzaā al-ḥaqli",
         "translationId": "Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini."
       },
       {
         "id": "ar-gram-37-ex-2",
         "native": "تَهْدِفُ هَذِهِ الْأُطْرُوحَةُ إِلَى تَحْلِيلِ الْخِطَابِ الْإِعْلَامِيِّ الْمُعَاصِرِ",
-        "phonetic": "",
+        "phonetic": "Tahdifu hadzihi al-authruwḥaahu iilaā taḥliyli al-khithaābi al-ii'laāmiyi al-mu'aāshiri",
         "translationId": "Disertasi ini bertujuan menganalisis wacana media kontemporer."
       },
       {
         "id": "ar-gram-37-ex-3",
         "native": "تَنْبَثِقُ أَهَمِّيَّةُ الْمَوْضُوعِ مِنْ مُعَالَجَتِهِ لِقَضَايَا تَرْبَوِيَّةٍ مُلِحَّةٍ",
-        "phonetic": "",
+        "phonetic": "Tanbatsiqu aahamiyaahu al-mawdhuw'i min mu'aālajatihi liqadhaāyaā tarbawiyaahin muliḥaahin",
         "translationId": "Signifikansi topik ini lahir dari pembahasannya terhadap isu-isu pendidikan yang mendesak."
       }
     ],
@@ -17004,7 +17115,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)\" (تكمن مشكلة البحث في... / ويهدف إلى استقصاء...) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-37-pg-1",
@@ -17020,7 +17131,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ\" berarti \"Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini.\"."
+        "explanation": "Kalimat \"تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ\" (dibaca: Takmunu musykilaahu al-diraāsaahi fiy nudraahi al-aabḥaātsi al-tathbiyqiyaahi fiy hadzaā al-ḥaqli) berarti \"Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini.\". Kalimat ini menggunakan pola \"تكمن مشكلة البحث في... / ويهدف إلى استقصاء...\" (Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)) yang berfungsi untuk kaidah merumuskan rumusan masalah, hipotesis, dan signifikansi riset dalam bahasa Arab fusha modern institusional."
       },
       {
         "id": "q-ar-gram-37-pg-2",
@@ -17036,7 +17147,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"تَهْدِفُ هَذِهِ الْأُطْرُوحَةُ إِلَى تَحْلِيلِ الْخِطَابِ الْإِعْلَامِيِّ الْمُعَاصِرِ\" berarti \"Disertasi ini bertujuan menganalisis wacana media kontemporer.\"."
+        "explanation": "Kalimat \"تَهْدِفُ هَذِهِ الْأُطْرُوحَةُ إِلَى تَحْلِيلِ الْخِطَابِ الْإِعْلَامِيِّ الْمُعَاصِرِ\" (dibaca: Tahdifu hadzihi al-authruwḥaahu iilaā taḥliyli al-khithaābi al-ii'laāmiyi al-mu'aāshiri) berarti \"Disertasi ini bertujuan menganalisis wacana media kontemporer.\". Kalimat ini menggunakan pola \"تكمن مشكلة البحث في... / ويهدف إلى استقصاء...\" (Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)) yang berfungsi untuk kaidah merumuskan rumusan masalah, hipotesis, dan signifikansi riset dalam bahasa Arab fusha modern institusional."
       },
       {
         "id": "q-ar-gram-37-pg-3",
@@ -17052,7 +17163,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"تَنْبَثِقُ أَهَمِّيَّةُ الْمَوْضُوعِ مِنْ مُعَالَجَتِهِ لِقَضَايَا تَرْبَوِيَّةٍ مُلِحَّةٍ\" berarti \"Signifikansi topik ini lahir dari pembahasannya terhadap isu-isu pendidikan yang mendesak.\"."
+        "explanation": "Kalimat \"تَنْبَثِقُ أَهَمِّيَّةُ الْمَوْضُوعِ مِنْ مُعَالَجَتِهِ لِقَضَايَا تَرْبَوِيَّةٍ مُلِحَّةٍ\" (dibaca: Tanbatsiqu aahamiyaahu al-mawdhuw'i min mu'aālajatihi liqadhaāyaā tarbawiyaahin muliḥaahin) berarti \"Signifikansi topik ini lahir dari pembahasannya terhadap isu-isu pendidikan yang mendesak.\". Kalimat ini menggunakan pola \"تكمن مشكلة البحث في... / ويهدف إلى استقصاء...\" (Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)) yang berfungsi untuk kaidah merumuskan rumusan masalah, hipotesis, dan signifikansi riset dalam bahasa Arab fusha modern institusional."
       },
       {
         "id": "q-ar-gram-37-pg-4",
@@ -17072,7 +17183,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-37-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)\"?",
         "options": [
           "تَهْدِفُ هَذِهِ الْأُطْرُوحَةُ إِلَى تَحْلِيلِ الْخِطَابِ الْإِعْلَامِيِّ الْمُعَاصِرِ — Disertasi ini bertujuan menganalisis wacana media kontemporer.",
           "اسْتَقَامَتِ الْأُمُورُ بَعْدَ الْبَحْثِ وَالتَّشَاوُرِ — Urusan-urusan tersebut menjadi lurus setelah pengkajian dan musyawarah.",
@@ -17086,7 +17197,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-37-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)\"?",
         "options": [
           "قَالَ الْعَالِمُ قَوْلًا سَدِيدًا فِي مَسْأَلَةِ الِاجْتِهَادِ — Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad.",
           "تَنْبَثِقُ أَهَمِّيَّةُ الْمَوْضُوعِ مِنْ مُعَالَجَتِهِ لِقَضَايَا تَرْبَوِيَّةٍ مُلِحَّةٍ — Signifikansi topik ini lahir dari pembahasannya terhadap isu-isu pendidikan yang mendesak.",
@@ -17100,7 +17211,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-37-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17347,7 +17458,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Ulama itu menyampaikan perkataan yang tepat mengenai persoalan ijtihad."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ\" berarti \"Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini.\"."
+        "explanation": "Kalimat \"تَكْمُنُ مُشْكِلَةُ الدِّرَاسَةِ فِي نُدْرَةِ الْأَبْحَاثِ التَّطْبِيقِيَّةِ فِي هَذَا الْحَقْلِ\" (dibaca: Takmunu musykilaahu al-diraāsaahi fiy nudraahi al-aabḥaātsi al-tathbiyqiyaahi fiy hadzaā al-ḥaqli) berarti \"Rumusan masalah studi ini terletak pada kelangkaan riset terapan di bidang kajian ini.\". Kalimat ini menggunakan pola \"تكمن مشكلة البحث في... / ويهدف إلى استقصاء...\" (Perumusan Tesis Modern Standard Arabic (صياغة الأطروحة)) yang berfungsi untuk kaidah merumuskan rumusan masalah, hipotesis, dan signifikansi riset dalam bahasa Arab fusha modern institusional."
       },
       {
         "id": "q-ar-gram-37-bb-2",
@@ -17422,24 +17533,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah orasi formal, argumentasi dialektis, dan bantahan santun dalam forum akademik Timur Tengah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)\" (أساليب الإقناع والمحاججة في المناظرات العلمية) berfungsi untuk: kaidah orasi formal, argumentasi dialektis, dan bantahan santun dalam forum akademik Timur Tengah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ — Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama."
+          "Rumus utama: أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه",
+          "Contoh 1: لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ (Laā yakhfaā 'alaā syariyfi 'ilmikum aana hadzihi al-masaalaaha maḥalu khilaāfin bayna al-'ulamaā'i) — Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam debat akademik Arab, sanggahan disampaikan dengan kehalusan budi bahasa yang tinggi.",
         "ruleList": [
-          "وَالْجَوَابُ عَنْ هَذَا الِاعْتِرَاضِ يَتَلَخَّصُ فِي أَمْرَيْنِ — Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama."
+          "Polanya: أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه",
+          "Contoh 2: وَالْجَوَابُ عَنْ هَذَا الِاعْتِرَاضِ يَتَلَخَّصُ فِي أَمْرَيْنِ (Waāljawaābu 'an hadzaā al-iā'tiraādhi yatalakhashu fiy aamrayni) — Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "نَخْلُصُ مِمَّا تَقَدَّمَ إِلَى وُجُوبِ إِعَادَةِ النَّظَرِ فِي التَّصْنِيفِ — Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut."
+          "Contoh 3: نَخْلُصُ مِمَّا تَقَدَّمَ إِلَى وُجُوبِ إِعَادَةِ النَّظَرِ فِي التَّصْنِيفِ (Nakhlushu mimaā taqadama iilaā wujuwbi ii'aādaahi al-nazhari fiy al-tashniyfi) — Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut.",
+          "Hindari kesalahan: \"أنت غلطان تماماً\" → gunakan bentuk yang benar: \"يحتمل هذا الرأي مناقشةً علميةً\"."
         ]
       }
     ],
@@ -17447,19 +17561,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-38-ex-1",
         "native": "لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ",
-        "phonetic": "",
+        "phonetic": "Laā yakhfaā 'alaā syariyfi 'ilmikum aana hadzihi al-masaalaaha maḥalu khilaāfin bayna al-'ulamaā'i",
         "translationId": "Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama."
       },
       {
         "id": "ar-gram-38-ex-2",
         "native": "وَالْجَوَابُ عَنْ هَذَا الِاعْتِرَاضِ يَتَلَخَّصُ فِي أَمْرَيْنِ",
-        "phonetic": "",
+        "phonetic": "Waāljawaābu 'an hadzaā al-iā'tiraādhi yatalakhashu fiy aamrayni",
         "translationId": "Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama."
       },
       {
         "id": "ar-gram-38-ex-3",
         "native": "نَخْلُصُ مِمَّا تَقَدَّمَ إِلَى وُجُوبِ إِعَادَةِ النَّظَرِ فِي التَّصْنِيفِ",
-        "phonetic": "",
+        "phonetic": "Nakhlushu mimaā taqadama iilaā wujuwbi ii'aādaahi al-nazhari fiy al-tashniyfi",
         "translationId": "Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut."
       }
     ],
@@ -17475,7 +17589,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)\" (أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-38-pg-1",
@@ -17491,7 +17605,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sebaik-baik akhlak adalah kejujuran dalam penelitian ilmiah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ\" berarti \"Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama.\"."
+        "explanation": "Kalimat \"لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ\" (dibaca: Laā yakhfaā 'alaā syariyfi 'ilmikum aana hadzihi al-masaalaaha maḥalu khilaāfin bayna al-'ulamaā'i) berarti \"Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama.\". Kalimat ini menggunakan pola \"أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه\" (Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)) yang berfungsi untuk kaidah orasi formal, argumentasi dialektis, dan bantahan santun dalam forum akademik Timur Tengah."
       },
       {
         "id": "q-ar-gram-38-pg-2",
@@ -17507,7 +17621,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Buku itu telah saya baca seluruhnya dengan penuh perhatian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"وَالْجَوَابُ عَنْ هَذَا الِاعْتِرَاضِ يَتَلَخَّصُ فِي أَمْرَيْنِ\" berarti \"Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama.\"."
+        "explanation": "Kalimat \"وَالْجَوَابُ عَنْ هَذَا الِاعْتِرَاضِ يَتَلَخَّصُ فِي أَمْرَيْنِ\" (dibaca: Waāljawaābu 'an hadzaā al-iā'tiraādhi yatalakhashu fiy aamrayni) berarti \"Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama.\". Kalimat ini menggunakan pola \"أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه\" (Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)) yang berfungsi untuk kaidah orasi formal, argumentasi dialektis, dan bantahan santun dalam forum akademik Timur Tengah."
       },
       {
         "id": "q-ar-gram-38-pg-3",
@@ -17523,7 +17637,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"نَخْلُصُ مِمَّا تَقَدَّمَ إِلَى وُجُوبِ إِعَادَةِ النَّظَرِ فِي التَّصْنِيفِ\" berarti \"Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut.\"."
+        "explanation": "Kalimat \"نَخْلُصُ مِمَّا تَقَدَّمَ إِلَى وُجُوبِ إِعَادَةِ النَّظَرِ فِي التَّصْنِيفِ\" (dibaca: Nakhlushu mimaā taqadama iilaā wujuwbi ii'aādaahi al-nazhari fiy al-tashniyfi) berarti \"Kami menyimpulkan dari uraian terdahulu mengenai perlunya meninjau ulang klasifikasi tersebut.\". Kalimat ini menggunakan pola \"أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه\" (Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)) yang berfungsi untuk kaidah orasi formal, argumentasi dialektis, dan bantahan santun dalam forum akademik Timur Tengah."
       },
       {
         "id": "q-ar-gram-38-pg-4",
@@ -17543,7 +17657,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-38-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)\"?",
         "options": [
           "نِعْمَ الْخُلُقُ الصِّدْقُ فِي الْبَحْثِ الْعِلْمِيِّ — Sebaik-baik akhlak adalah kejujuran dalam penelitian ilmiah.",
           "وَالْجَوَابُ عَنْ هَذَا الِاعْتِرَاضِ يَتَلَخَّصُ فِي أَمْرَيْنِ — Dan jawaban atas sanggahan ini dapat diringkas ke dalam dua poin utama.",
@@ -17557,7 +17671,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-38-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)\"?",
         "options": [
           "مَا أَجْمَلَ اللُّغَةَ الْعَرَبِيَّةَ وَأَعْذَبَ بَيَانَهَا — Betapa indahnya bahasa Arab dan betapa merdu kefasihan penjelasannya!",
           "بِئْسَ الْعَمَلُ الِانْتِحَالُ الْأَدَبِيُّ — Seburuk-buruk perbuatan adalah plagiarisme karya ilmiah.",
@@ -17571,7 +17685,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-38-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17824,7 +17938,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ\" berarti \"Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama.\"."
+        "explanation": "Kalimat \"لَا يَخْفَى عَلَى شَرِيفِ عِلْمِكُمْ أَنَّ هَذِهِ الْمَسْأَلَةَ مَحَلُّ خِلَافٍ بَيْنَ الْعُلَمَاءِ\" (dibaca: Laā yakhfaā 'alaā syariyfi 'ilmikum aana hadzihi al-masaalaaha maḥalu khilaāfin bayna al-'ulamaā'i) berarti \"Tidak samar lagi bagi keluasan ilmu Anda sekalian bahwa masalah ini merupakan letak perbedaan pendapat di kalangan ulama.\". Kalimat ini menggunakan pola \"أما بعد... / لا يخفى على شريف علمكم / والرد على ذلك من وجوه\" (Retorika Khutbah dan Debat Ilmiah (الخطابة والمناظرة)) yang berfungsi untuk kaidah orasi formal, argumentasi dialektis, dan bantahan santun dalam forum akademik Timur Tengah."
       },
       {
         "id": "q-ar-gram-38-bb-2",
@@ -17899,24 +18013,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis status sintaksis tingkat lanjut seluruh klausa dalam periode wacana yang rumit.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\" (الجمل التي لها محل من الإعراب والتي لا محل لها) berfungsi untuk: menganalisis status sintaksis tingkat lanjut seluruh klausa dalam periode wacana yang rumit. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت) — Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at)."
+          "Rumus utama: Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah",
+          "Contoh 1: هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت) (Hadzaā baḥtsun nataāi'ijuhu mubhiraahun (jmlah fy mḥl rf' n't)) — Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at)."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Klausa utuh dapat menempati posisi i'rab khabar, na'at, atau hal.",
         "ruleList": [
-          "وَصَلَ الْأُسْتَاذُ وَالشَّمْسُ طَالِعَةٌ (جملة حالية) — Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal)."
+          "Polanya: Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah",
+          "Contoh 2: وَصَلَ الْأُسْتَاذُ وَالشَّمْسُ طَالِعَةٌ (جملة حالية) (Washala al-austaādzu waālsyamsu thaāli'aahun (jmlah ḥālyah)) — Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal)."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "الْعِلْمُ يَرْفَعُ بَيْتًا لَا عِمَادَ لَهُ — Ilmu pengetahuan meninggikan derajat rumah yang tiada bertiang."
+          "Contoh 3: الْعِلْمُ يَرْفَعُ بَيْتًا لَا عِمَادَ لَهُ (Al-'ilmu yarfa'u baytanā laā 'imaāda lahu) — Ilmu pengetahuan meninggikan derajat rumah yang tiada bertiang.",
+          "Hindari kesalahan: \"جملة في محل رفع فاعل\" → gunakan bentuk yang benar: \"الجملة لا تقع فاعلاً صريحاً\"."
         ]
       }
     ],
@@ -17924,19 +18041,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-39-ex-1",
         "native": "هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت)",
-        "phonetic": "",
+        "phonetic": "Hadzaā baḥtsun nataāi'ijuhu mubhiraahun (jmlah fy mḥl rf' n't)",
         "translationId": "Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at)."
       },
       {
         "id": "ar-gram-39-ex-2",
         "native": "وَصَلَ الْأُسْتَاذُ وَالشَّمْسُ طَالِعَةٌ (جملة حالية)",
-        "phonetic": "",
+        "phonetic": "Washala al-austaādzu waālsyamsu thaāli'aahun (jmlah ḥālyah)",
         "translationId": "Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal)."
       },
       {
         "id": "ar-gram-39-ex-3",
         "native": "الْعِلْمُ يَرْفَعُ بَيْتًا لَا عِمَادَ لَهُ",
-        "phonetic": "",
+        "phonetic": "Al-'ilmu yarfa'u baytanā laā 'imaāda lahu",
         "translationId": "Ilmu pengetahuan meninggikan derajat rumah yang tiada bertiang."
       }
     ],
@@ -17952,7 +18069,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\" (Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-39-pg-1",
@@ -17968,7 +18085,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Saya memuliakan sekaligus menghormati profesor yang agung itu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت)\" berarti \"Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at).\"."
+        "explanation": "Kalimat \"هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت)\" (dibaca: Hadzaā baḥtsun nataāi'ijuhu mubhiraahun (jmlah fy mḥl rf' n't)) berarti \"Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at).\". Kalimat ini menggunakan pola \"Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah\" (Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)) yang berfungsi untuk menganalisis status sintaksis tingkat lanjut seluruh klausa dalam periode wacana yang rumit."
       },
       {
         "id": "q-ar-gram-39-pg-2",
@@ -17984,7 +18101,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal)."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"وَصَلَ الْأُسْتَاذُ وَالشَّمْسُ طَالِعَةٌ (جملة حالية)\" berarti \"Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal).\"."
+        "explanation": "Kalimat \"وَصَلَ الْأُسْتَاذُ وَالشَّمْسُ طَالِعَةٌ (جملة حالية)\" (dibaca: Washala al-austaādzu waālsyamsu thaāli'aahun (jmlah ḥālyah)) berarti \"Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal).\". Kalimat ini menggunakan pola \"Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah\" (Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)) yang berfungsi untuk menganalisis status sintaksis tingkat lanjut seluruh klausa dalam periode wacana yang rumit."
       },
       {
         "id": "q-ar-gram-39-pg-3",
@@ -18000,7 +18117,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saja masa muda dapat kembali suatu hari nanti."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"الْعِلْمُ يَرْفَعُ بَيْتًا لَا عِمَادَ لَهُ\" berarti \"Ilmu pengetahuan meninggikan derajat rumah yang tiada bertiang.\"."
+        "explanation": "Kalimat \"الْعِلْمُ يَرْفَعُ بَيْتًا لَا عِمَادَ لَهُ\" (dibaca: Al-'ilmu yarfa'u baytanā laā 'imaāda lahu) berarti \"Ilmu pengetahuan meninggikan derajat rumah yang tiada bertiang.\". Kalimat ini menggunakan pola \"Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah\" (Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)) yang berfungsi untuk menganalisis status sintaksis tingkat lanjut seluruh klausa dalam periode wacana yang rumit."
       },
       {
         "id": "q-ar-gram-39-pg-4",
@@ -18020,7 +18137,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-39-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\"?",
         "options": [
           "أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ — Saya memuliakan sekaligus menghormati profesor yang agung itu.",
           "إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ — Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan.",
@@ -18034,7 +18151,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-39-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\"?",
         "options": [
           "الْكِتَابَ قَرَأْتُهُ كُلَّهُ بِاهْتِمَامٍ — Buku itu telah saya baca seluruhnya dengan penuh perhatian.",
           "اللُّغَةَ الْعَرَبِيَّةَ أَتْقَنْتُ قَوَاعِدَهَا — Bahasa Arab itu telah saya kuasai kaidah-kaidah tata bahasanya.",
@@ -18048,7 +18165,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-39-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\"?",
         "options": [
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -18090,7 +18207,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-39-pg-10",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Apa fungsi utama dari pola tata bahasa \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\"?",
         "options": [
           "Hanya digunakan untuk membentuk kalimat perintah kasar kepada bawahan.",
           "Berfungsi mengubah seluruh kata benda menjadi kata bilangan pecahan.",
@@ -18289,7 +18406,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Buku itu telah saya baca seluruhnya dengan penuh perhatian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت)\" berarti \"Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at).\"."
+        "explanation": "Kalimat \"هَذَا بَحْثٌ نَتَائِجُهُ مُبْهِرَةٌ (جملة في محل رفع نعت)\" (dibaca: Hadzaā baḥtsun nataāi'ijuhu mubhiraahun (jmlah fy mḥl rf' n't)) berarti \"Ini adalah penelitian yang hasil-hasilnya sangat mengagumkan (klausa berkedudukan rafa' sebagai na'at).\". Kalimat ini menggunakan pola \"Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah\" (Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)) yang berfungsi untuk menganalisis status sintaksis tingkat lanjut seluruh klausa dalam periode wacana yang rumit."
       },
       {
         "id": "q-ar-gram-39-bb-2",
@@ -18341,7 +18458,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-39-bb-5",
         "sectionType": "bebas",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\" (Jumlah Khabariyah / Haliyah / Na'tiyah / Shilah) dengan benar:",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Analisis I'rab Kalimat Majemuk Kompleks (إعراب الجمل)\"?",
         "options": [
           "وَصَلَ الْأُسْتَاذُ وَالشَّمْسُ طَالِعَةٌ (جملة حالية) — Sang profesor tiba ketika matahari sedang terbit (klausa keterangan keadaan/hal).",
           "أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ الْجَلِيلَ — Saya memuliakan sekaligus menghormati profesor yang agung itu.",
@@ -18364,24 +18481,27 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
     "summary": "Sintesis bab penutup, daftar rekomendasi pembuat kebijakan, dan pengumuman yudisium dewan munaqasyah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Inti",
-        "content": "Penerapan kaidah Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي) merupakan pilar penting dalam sintaksis dan morfologi bahasa Arab fusha baku.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)\" (تحرير خاتمة البحث وتوصيات لجنة المناقشة والحكم) berfungsi untuk: sintesis bab penutup, daftar rekomendasi pembuat kebijakan, dan pengumuman yudisium dewan munaqasyah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Arab sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ — Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum."
+          "Rumus utama: وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة",
+          "Contoh 1: وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ (Wafiy al-khitaāmi yuwshiy al-baāḥitsu biiidraāji maādaahi al-lisaāniyaāti al-tathbiyqiyaahi fiy al-manaāhiji) — Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum."
         ]
       },
       {
-        "heading": "2. Analisis I'rab dan Struktur",
-        "content": "Kaidah وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة diterapkan untuk menjaga ketepatan baris harakat akhir dan integritas makna kalimat.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan formula penutup wacana akademik Arab klasik-modern yang khidmat.",
         "ruleList": [
-          "قَرَّرَتِ اللَّجْنَةُ مَنْحَ الطَّالِبِ دَرَجَةَ الدُّكْتُورَاهِ بِمَرْتَبَةِ الشَّرَفِ الْأُولَى — Komite penguji memutuskan menganugerahkan gelar doktor kepada mahasiswa dengan predikat kehormatan tertinggi (Summa Cum Laude)."
+          "Polanya: وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة",
+          "Contoh 2: قَرَّرَتِ اللَّجْنَةُ مَنْحَ الطَّالِبِ دَرَجَةَ الدُّكْتُورَاهِ بِمَرْتَبَةِ الشَّرَفِ الْأُولَى (Qararati al-lajnaahu manḥa al-thaālibi darajaaha al-duktuwraāhi bimartabaahi al-syarafi al-auwlaā) — Komite penguji memutuskan menganugerahkan gelar doktor kepada mahasiswa dengan predikat kehormatan tertinggi (Summa Cum Laude)."
         ]
       },
       {
-        "heading": "3. Catatan Wacana Akademik",
-        "content": "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "تُعَدُّ هَذِهِ الدِّرَاسَةُ إِضَافَةً نَوْعِيَّةً لِلْمَكْتَبَةِ الْعَرَبِيَّةِ — Studi penelitian ini dinilai sebagai kontribusi berkualitas tinggi bagi khazanah kepustakaan Arab."
+          "Contoh 3: تُعَدُّ هَذِهِ الدِّرَاسَةُ إِضَافَةً نَوْعِيَّةً لِلْمَكْتَبَةِ الْعَرَبِيَّةِ (Tu'adu hadzihi al-diraāsaahu iidhaāfaahan naw'iyaahan lilmaktabaahi al-'arabiyaahi) — Studi penelitian ini dinilai sebagai kontribusi berkualitas tinggi bagi khazanah kepustakaan Arab.",
+          "Hindari kesalahan: \"نهاية البحث هنا\" → gunakan bentuk yang benar: \"وخاتمة القول ومجمله\"."
         ]
       }
     ],
@@ -18389,19 +18509,19 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ar-gram-40-ex-1",
         "native": "وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ",
-        "phonetic": "",
+        "phonetic": "Wafiy al-khitaāmi yuwshiy al-baāḥitsu biiidraāji maādaahi al-lisaāniyaāti al-tathbiyqiyaahi fiy al-manaāhiji",
         "translationId": "Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum."
       },
       {
         "id": "ar-gram-40-ex-2",
         "native": "قَرَّرَتِ اللَّجْنَةُ مَنْحَ الطَّالِبِ دَرَجَةَ الدُّكْتُورَاهِ بِمَرْتَبَةِ الشَّرَفِ الْأُولَى",
-        "phonetic": "",
+        "phonetic": "Qararati al-lajnaahu manḥa al-thaālibi darajaaha al-duktuwraāhi bimartabaahi al-syarafi al-auwlaā",
         "translationId": "Komite penguji memutuskan menganugerahkan gelar doktor kepada mahasiswa dengan predikat kehormatan tertinggi (Summa Cum Laude)."
       },
       {
         "id": "ar-gram-40-ex-3",
         "native": "تُعَدُّ هَذِهِ الدِّرَاسَةُ إِضَافَةً نَوْعِيَّةً لِلْمَكْتَبَةِ الْعَرَبِيَّةِ",
-        "phonetic": "",
+        "phonetic": "Tu'adu hadzihi al-diraāsaahu iidhaāfaahan naw'iyaahan lilmaktabaahi al-'arabiyaahi",
         "translationId": "Studi penelitian ini dinilai sebagai kontribusi berkualitas tinggi bagi khazanah kepustakaan Arab."
       }
     ],
@@ -18417,7 +18537,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kesalahan penentuan harakat akhir (i'rab) pada kalimat baku bahasa Arab fusha."
       }
     ],
-    "culturalContext": "Penerapan kaidah Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي) sangat dihargai dalam tradisi ilmiah dan majelis universitas di Timur Tengah.",
+    "culturalContext": "Dalam bahasa Arab sehari-hari, pola \"Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)\" (وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ar-gram-40-pg-1",
@@ -18433,7 +18553,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ\" berarti \"Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum.\"."
+        "explanation": "Kalimat \"وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ\" (dibaca: Wafiy al-khitaāmi yuwshiy al-baāḥitsu biiidraāji maādaahi al-lisaāniyaāti al-tathbiyqiyaahi fiy al-manaāhiji) berarti \"Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum.\". Kalimat ini menggunakan pola \"وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة\" (Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)) yang berfungsi untuk sintesis bab penutup, daftar rekomendasi pembuat kebijakan, dan pengumuman yudisium dewan munaqasyah."
       },
       {
         "id": "q-ar-gram-40-pg-2",
@@ -18449,7 +18569,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"قَرَّرَتِ اللَّجْنَةُ مَنْحَ الطَّالِبِ دَرَجَةَ الدُّكْتُورَاهِ بِمَرْتَبَةِ الشَّرَفِ الْأُولَى\" berarti \"Komite penguji memutuskan menganugerahkan gelar doktor kepada mahasiswa dengan predikat kehormatan tertinggi (Summa Cum Laude).\"."
+        "explanation": "Kalimat \"قَرَّرَتِ اللَّجْنَةُ مَنْحَ الطَّالِبِ دَرَجَةَ الدُّكْتُورَاهِ بِمَرْتَبَةِ الشَّرَفِ الْأُولَى\" (dibaca: Qararati al-lajnaahu manḥa al-thaālibi darajaaha al-duktuwraāhi bimartabaahi al-syarafi al-auwlaā) berarti \"Komite penguji memutuskan menganugerahkan gelar doktor kepada mahasiswa dengan predikat kehormatan tertinggi (Summa Cum Laude).\". Kalimat ini menggunakan pola \"وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة\" (Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)) yang berfungsi untuk sintesis bab penutup, daftar rekomendasi pembuat kebijakan, dan pengumuman yudisium dewan munaqasyah."
       },
       {
         "id": "q-ar-gram-40-pg-3",
@@ -18465,7 +18585,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Pertolongan Allah menyertai jamaah dalam amal kebajikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"تُعَدُّ هَذِهِ الدِّرَاسَةُ إِضَافَةً نَوْعِيَّةً لِلْمَكْتَبَةِ الْعَرَبِيَّةِ\" berarti \"Studi penelitian ini dinilai sebagai kontribusi berkualitas tinggi bagi khazanah kepustakaan Arab.\"."
+        "explanation": "Kalimat \"تُعَدُّ هَذِهِ الدِّرَاسَةُ إِضَافَةً نَوْعِيَّةً لِلْمَكْتَبَةِ الْعَرَبِيَّةِ\" (dibaca: Tu'adu hadzihi al-diraāsaahu iidhaāfaahan naw'iyaahan lilmaktabaahi al-'arabiyaahi) berarti \"Studi penelitian ini dinilai sebagai kontribusi berkualitas tinggi bagi khazanah kepustakaan Arab.\". Kalimat ini menggunakan pola \"وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة\" (Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)) yang berfungsi untuk sintesis bab penutup, daftar rekomendasi pembuat kebijakan, dan pengumuman yudisium dewan munaqasyah."
       },
       {
         "id": "q-ar-gram-40-pg-4",
@@ -18485,7 +18605,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-40-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Inti\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)\"?",
         "options": [
           "هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ — Apakah sama orang-orang yang berilmu pengetahuan dengan orang-orang yang tidak berilmu?",
           "الْعَالِمُ كَالْبَحْرِ فِي سَعَةِ عِلْمِهِ وَفَيْضِهِ — Seorang alim bagaikan samudra dalam keluasan ilmu dan limpahan manfaatnya.",
@@ -18499,7 +18619,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-40-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis I'rab dan Struktur\":",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)\"?",
         "options": [
           "تُعَدُّ هَذِهِ الدِّرَاسَةُ إِضَافَةً نَوْعِيَّةً لِلْمَكْتَبَةِ الْعَرَبِيَّةِ — Studi penelitian ini dinilai sebagai kontribusi berkualitas tinggi bagi khazanah kepustakaan Arab.",
           "إِنَّ الْعِلْمَ لَهُوَ السَّبِيلُ الْأَوْحَدُ لِلرُّقِيِّ — Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan.",
@@ -18513,7 +18633,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ar-gram-40-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Catatan Wacana Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Arab berikut yang benar dan sesuai dengan materi \"Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam konteks perguruan tinggi di dunia Arab, penguasaan pola ini mencerminkan kefasihan balaghah dan ketelitian ilmiah.",
@@ -18762,7 +18882,7 @@ export const ARABIC_GRAMMAR: GrammarLesson[] =  [
           "Sesungguhnya ilmu pengetahuan benar-benar jalan satu-satunya menuju kemajuan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ\" berarti \"Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum.\"."
+        "explanation": "Kalimat \"وَفِي الْخِتَامِ يُوصِي الْبَاحِثُ بِإِدْرَاجِ مَادَّةِ اللِّسَانِيَّاتِ التَّطْبِيقِيَّةِ فِي الْمَنَاهِجِ\" (dibaca: Wafiy al-khitaāmi yuwshiy al-baāḥitsu biiidraāji maādaahi al-lisaāniyaāti al-tathbiyqiyaahi fiy al-manaāhiji) berarti \"Sebagai penutup, peneliti merekomendasikan pengintegrasian mata kuliah linguistik terapan ke dalam kurikulum.\". Kalimat ini menggunakan pola \"وفي الختام يوصي الباحث بـ... / وقررت اللجنة منح الدرجة\" (Penulisan Makalah Ilmiah & Rekomendasi Sidang (التقرير النهائي)) yang berfungsi untuk sintesis bab penutup, daftar rekomendasi pembuat kebijakan, dan pengumuman yudisium dewan munaqasyah."
       },
       {
         "id": "q-ar-gram-40-bb-2",

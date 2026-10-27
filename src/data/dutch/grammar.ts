@@ -12,24 +12,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata ganti orang dan konjugasi verba fundamental zijn (to be) dan hebben (to have) waktu kini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)\" (Persoonlijke voornaamwoorden en de werkwoorden 'zijn' en 'hebben') berfungsi untuk: kata ganti orang dan konjugasi verba fundamental zijn (to be) dan hebben (to have) waktu kini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ik ben student aan de Universiteit van Amsterdam. — Saya adalah mahasiswa di Universitas Amsterdam."
+          "Rumus utama: Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben",
+          "Contoh 1: Ik ben student aan de Universiteit van Amsterdam. (Ik ben student a:n de universiteit van amsterdam.) — Saya adalah mahasiswa di Universitas Amsterdam."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk konjugasi untuk subjek 'ik' pada kata kerja zijn adalah 'ben'.",
         "ruleList": [
-          "Wij hebben vandaag een belangrijk college in de grote collegezaal. — Kami memiliki perkuliahan penting hari ini di ruang kuliah besar."
+          "Polanya: Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben",
+          "Contoh 2: Wij hebben vandaag een belangrijk college in de grote collegezaal. (Wey hebben vanda:g e:n belangreyk college in de grote collegeza:l.) — Kami memiliki perkuliahan penting hari ini di ruang kuliah besar."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Zij is erg geïnteresseerd in moderne taalkunde. — Dia sangat tertarik pada ilmu linguistik modern."
+          "Contoh 3: Zij is erg geïnteresseerd in moderne taalkunde. (Zey is erg geïnteresse:rd in moderne ta:lkunde.) — Dia sangat tertarik pada ilmu linguistik modern.",
+          "Hindari kesalahan: \"ik bent\" → gunakan bentuk yang benar: \"ik ben\"."
         ]
       }
     ],
@@ -37,19 +40,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-1-ex-1",
         "native": "Ik ben student aan de Universiteit van Amsterdam.",
-        "phonetic": "",
+        "phonetic": "Ik ben student a:n de universiteit van amsterdam.",
         "translationId": "Saya adalah mahasiswa di Universitas Amsterdam."
       },
       {
         "id": "nl-gram-1-ex-2",
         "native": "Wij hebben vandaag een belangrijk college in de grote collegezaal.",
-        "phonetic": "",
+        "phonetic": "Wey hebben vanda:g e:n belangreyk college in de grote collegeza:l.",
         "translationId": "Kami memiliki perkuliahan penting hari ini di ruang kuliah besar."
       },
       {
         "id": "nl-gram-1-ex-3",
         "native": "Zij is erg geïnteresseerd in moderne taalkunde.",
-        "phonetic": "",
+        "phonetic": "Zey is erg geïnteresse:rd in moderne ta:lkunde.",
         "translationId": "Dia sangat tertarik pada ilmu linguistik modern."
       }
     ],
@@ -65,7 +68,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)\" (Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-1-pg-1",
@@ -81,7 +84,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami belajar setiap pagi di perpustakaan universitas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ik ben student aan de Universiteit van Amsterdam.\" berarti \"Saya adalah mahasiswa di Universitas Amsterdam.\"."
+        "explanation": "Kalimat \"Ik ben student aan de Universiteit van Amsterdam.\" (dibaca: Ik ben student a:n de universiteit van amsterdam.) berarti \"Saya adalah mahasiswa di Universitas Amsterdam.\". Kalimat ini menggunakan pola \"Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben\" (Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)) yang berfungsi untuk kata ganti orang dan konjugasi verba fundamental zijn (to be) dan hebben (to have) waktu kini."
       },
       {
         "id": "q-nl-gram-1-pg-2",
@@ -97,7 +100,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Buku itu terletak di atas meja besar milik profesor."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wij hebben vandaag een belangrijk college in de grote collegezaal.\" berarti \"Kami memiliki perkuliahan penting hari ini di ruang kuliah besar.\"."
+        "explanation": "Kalimat \"Wij hebben vandaag een belangrijk college in de grote collegezaal.\" (dibaca: Wey hebben vanda:g e:n belangreyk college in de grote collegeza:l.) berarti \"Kami memiliki perkuliahan penting hari ini di ruang kuliah besar.\". Kalimat ini menggunakan pola \"Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben\" (Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)) yang berfungsi untuk kata ganti orang dan konjugasi verba fundamental zijn (to be) dan hebben (to have) waktu kini."
       },
       {
         "id": "q-nl-gram-1-pg-3",
@@ -113,7 +116,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Seorang mahasiswa baru sedang mencari ruangan kelas yang tepat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Zij is erg geïnteresseerd in moderne taalkunde.\" berarti \"Dia sangat tertarik pada ilmu linguistik modern.\"."
+        "explanation": "Kalimat \"Zij is erg geïnteresseerd in moderne taalkunde.\" (dibaca: Zey is erg geïnteresse:rd in moderne ta:lkunde.) berarti \"Dia sangat tertarik pada ilmu linguistik modern.\". Kalimat ini menggunakan pola \"Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben\" (Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)) yang berfungsi untuk kata ganti orang dan konjugasi verba fundamental zijn (to be) dan hebben (to have) waktu kini."
       },
       {
         "id": "q-nl-gram-1-pg-4",
@@ -133,7 +136,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-1-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)\"?",
         "options": [
           "Wij hebben vandaag een belangrijk college in de grote collegezaal. — Kami memiliki perkuliahan penting hari ini di ruang kuliah besar.",
           "Wij studeren elke ochtend in de universiteitsbibliotheek. — Kami belajar setiap pagi di perpustakaan universitas.",
@@ -147,7 +150,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-1-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)\"?",
         "options": [
           "De professor doceert geschiedenis aan de faculteit. — Profesor itu mengajar sejarah di fakultas tersebut.",
           "Zij is erg geïnteresseerd in moderne taalkunde. — Dia sangat tertarik pada ilmu linguistik modern.",
@@ -161,7 +164,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-1-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -408,7 +411,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu mengajar sejarah di fakultas tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ik ben student aan de Universiteit van Amsterdam.\" berarti \"Saya adalah mahasiswa di Universitas Amsterdam.\"."
+        "explanation": "Kalimat \"Ik ben student aan de Universiteit van Amsterdam.\" (dibaca: Ik ben student a:n de universiteit van amsterdam.) berarti \"Saya adalah mahasiswa di Universitas Amsterdam.\". Kalimat ini menggunakan pola \"Ik ben / Jij bent / Wij zijn & Ik heb / Jij hebt / Wij hebben\" (Persoonlijke Voornaamwoorden & Zijn/Hebben (Tegenwoordige Tijd)) yang berfungsi untuk kata ganti orang dan konjugasi verba fundamental zijn (to be) dan hebben (to have) waktu kini."
       },
       {
         "id": "q-nl-gram-1-bb-2",
@@ -483,24 +486,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konjugasi teratur verba waktu kini (O.T.T.) dengan aturan penambahan akhiran -t pada orang kedua dan ketiga.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)\" (Regelmatige werkwoorden in de onvoltooid tegenwoordige tijd) berfungsi untuk: konjugasi teratur verba waktu kini (O.T.T.) dengan aturan penambahan akhiran -t pada orang kedua dan ketiga. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De professor doceert geschiedenis aan de faculteit. — Profesor itu mengajar sejarah di fakultas tersebut."
+          "Rumus utama: Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)",
+          "Contoh 1: De professor doceert geschiedenis aan de faculteit. (De professor doce:rt geskhiedenis a:n de faculteit.) — Profesor itu mengajar sejarah di fakultas tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pada orang ketiga tunggal (hij/zij/het), akar kata kerja mendapat tambahan akhiran -t.",
         "ruleList": [
-          "Wij studeren elke ochtend in de universiteitsbibliotheek. — Kami belajar setiap pagi di perpustakaan universitas."
+          "Polanya: Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)",
+          "Contoh 2: Wij studeren elke ochtend in de universiteitsbibliotheek. (Wey studeren elke ochtend in de universiteitsbibliothe:k.) — Kami belajar setiap pagi di perpustakaan universitas."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Werk jij aan een nieuw onderzoeksproject? — Apakah kamu sedang mengerjakan sebuah proyek penelitian baru?"
+          "Contoh 3: Werk jij aan een nieuw onderzoeksproject? (Werk jey a:n e:n nieuw onderzuksproject?) — Apakah kamu sedang mengerjakan sebuah proyek penelitian baru?",
+          "Hindari kesalahan: \"hij werk\" → gunakan bentuk yang benar: \"hij werkt\"."
         ]
       }
     ],
@@ -508,19 +514,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-2-ex-1",
         "native": "De professor doceert geschiedenis aan de faculteit.",
-        "phonetic": "",
+        "phonetic": "De professor doce:rt geskhiedenis a:n de faculteit.",
         "translationId": "Profesor itu mengajar sejarah di fakultas tersebut."
       },
       {
         "id": "nl-gram-2-ex-2",
         "native": "Wij studeren elke ochtend in de universiteitsbibliotheek.",
-        "phonetic": "",
+        "phonetic": "Wey studeren elke ochtend in de universiteitsbibliothe:k.",
         "translationId": "Kami belajar setiap pagi di perpustakaan universitas."
       },
       {
         "id": "nl-gram-2-ex-3",
         "native": "Werk jij aan een nieuw onderzoeksproject?",
-        "phonetic": "",
+        "phonetic": "Werk jey a:n e:n nieuw onderzuksproject?",
         "translationId": "Apakah kamu sedang mengerjakan sebuah proyek penelitian baru?"
       }
     ],
@@ -536,7 +542,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)\" (Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-2-pg-1",
@@ -552,7 +558,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De professor doceert geschiedenis aan de faculteit.\" berarti \"Profesor itu mengajar sejarah di fakultas tersebut.\"."
+        "explanation": "Kalimat \"De professor doceert geschiedenis aan de faculteit.\" (dibaca: De professor doce:rt geskhiedenis a:n de faculteit.) berarti \"Profesor itu mengajar sejarah di fakultas tersebut.\". Kalimat ini menggunakan pola \"Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)\" (Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)) yang berfungsi untuk konjugasi teratur verba waktu kini (O.T.T.) dengan aturan penambahan akhiran -t pada orang kedua dan ketiga."
       },
       {
         "id": "q-nl-gram-2-pg-2",
@@ -568,7 +574,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hari ini para mahasiswa pergi ke museum sains."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wij studeren elke ochtend in de universiteitsbibliotheek.\" berarti \"Kami belajar setiap pagi di perpustakaan universitas.\"."
+        "explanation": "Kalimat \"Wij studeren elke ochtend in de universiteitsbibliotheek.\" (dibaca: Wey studeren elke ochtend in de universiteitsbibliothe:k.) berarti \"Kami belajar setiap pagi di perpustakaan universitas.\". Kalimat ini menggunakan pola \"Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)\" (Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)) yang berfungsi untuk konjugasi teratur verba waktu kini (O.T.T.) dengan aturan penambahan akhiran -t pada orang kedua dan ketiga."
       },
       {
         "id": "q-nl-gram-2-pg-3",
@@ -584,7 +590,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu sedang mengerjakan sebuah proyek penelitian baru?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Werk jij aan een nieuw onderzoeksproject?\" berarti \"Apakah kamu sedang mengerjakan sebuah proyek penelitian baru?\"."
+        "explanation": "Kalimat \"Werk jij aan een nieuw onderzoeksproject?\" (dibaca: Werk jey a:n e:n nieuw onderzuksproject?) berarti \"Apakah kamu sedang mengerjakan sebuah proyek penelitian baru?\". Kalimat ini menggunakan pola \"Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)\" (Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)) yang berfungsi untuk konjugasi teratur verba waktu kini (O.T.T.) dengan aturan penambahan akhiran -t pada orang kedua dan ketiga."
       },
       {
         "id": "q-nl-gram-2-pg-4",
@@ -604,7 +610,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-2-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)\"?",
         "options": [
           "De universiteit biedt uitstekende faciliteiten voor onderzoekers. — Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti.",
           "Wij studeren elke ochtend in de universiteitsbibliotheek. — Kami belajar setiap pagi di perpustakaan universitas.",
@@ -618,7 +624,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-2-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)\"?",
         "options": [
           "Het boek ligt op de grote tafel van de professor. — Buku itu terletak di atas meja besar milik profesor.",
           "Een nieuwe student zoekt het juiste lokaal. — Seorang mahasiswa baru sedang mencari ruangan kelas yang tepat.",
@@ -632,7 +638,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-2-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -881,7 +887,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu mengajar sejarah di fakultas tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De professor doceert geschiedenis aan de faculteit.\" berarti \"Profesor itu mengajar sejarah di fakultas tersebut.\"."
+        "explanation": "Kalimat \"De professor doceert geschiedenis aan de faculteit.\" (dibaca: De professor doce:rt geskhiedenis a:n de faculteit.) berarti \"Profesor itu mengajar sejarah di fakultas tersebut.\". Kalimat ini menggunakan pola \"Stam (ik) / Stam + t (jij/hij/zij) / Infinitief (wij/jullie/zij)\" (Regelmatige Werkwoorden in de O.T.T. ('t Kofschip)) yang berfungsi untuk konjugasi teratur verba waktu kini (O.T.T.) dengan aturan penambahan akhiran -t pada orang kedua dan ketiga."
       },
       {
         "id": "q-nl-gram-2-bb-2",
@@ -956,24 +962,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pembedaan artikel benda: de-woorden (75% nomina) dan het-woorden (nomina netral, verkleinwoorden, dan kata majemuk tertentu).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'De-woorden vs Het-woorden & Lidwoorden' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"De-woorden vs Het-woorden & Lidwoorden\" (Bepaalde (de/het) en onbepaalde (een) lidwoorden in het Nederlands) berfungsi untuk: pembedaan artikel benda: de-woorden (75% nomina) dan het-woorden (nomina netral, verkleinwoorden, dan kata majemuk tertentu). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Het boek ligt op de grote tafel van de professor. — Buku itu terletak di atas meja besar milik profesor."
+          "Rumus utama: De (m/v) & Het (onzijdig) / Een (onbepaald)",
+          "Contoh 1: Het boek ligt op de grote tafel van de professor. (Het buk ligt op de grote tafel van de professor.) — Buku itu terletak di atas meja besar milik profesor."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi De (m/v) & Het (onzijdig) / Een (onbepaald) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"De (m/v) & Het (onzijdig) / Een (onbepaald)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata 'boek' termasuk kata benda netral (onzijdig) sehingga wajib memakai kata sandang 'het'.",
         "ruleList": [
-          "De universiteit biedt uitstekende faciliteiten voor onderzoekers. — Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti."
+          "Polanya: De (m/v) & Het (onzijdig) / Een (onbepaald)",
+          "Contoh 2: De universiteit biedt uitstekende faciliteiten voor onderzoekers. (De universiteit biedt öytstekende faciliteiten vo:r onderzukers.) — Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"De-woorden vs Het-woorden & Lidwoorden\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Een nieuwe student zoekt het juiste lokaal. — Seorang mahasiswa baru sedang mencari ruangan kelas yang tepat."
+          "Contoh 3: Een nieuwe student zoekt het juiste lokaal. (E:n nieuwe student zukt het jöyste loka:l.) — Seorang mahasiswa baru sedang mencari ruangan kelas yang tepat.",
+          "Hindari kesalahan: \"de boek\" → gunakan bentuk yang benar: \"het boek\"."
         ]
       }
     ],
@@ -981,19 +990,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-3-ex-1",
         "native": "Het boek ligt op de grote tafel van de professor.",
-        "phonetic": "",
+        "phonetic": "Het buk ligt op de grote tafel van de professor.",
         "translationId": "Buku itu terletak di atas meja besar milik profesor."
       },
       {
         "id": "nl-gram-3-ex-2",
         "native": "De universiteit biedt uitstekende faciliteiten voor onderzoekers.",
-        "phonetic": "",
+        "phonetic": "De universiteit biedt öytstekende faciliteiten vo:r onderzukers.",
         "translationId": "Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti."
       },
       {
         "id": "nl-gram-3-ex-3",
         "native": "Een nieuwe student zoekt het juiste lokaal.",
-        "phonetic": "",
+        "phonetic": "E:n nieuwe student zukt het jöyste loka:l.",
         "translationId": "Seorang mahasiswa baru sedang mencari ruangan kelas yang tepat."
       }
     ],
@@ -1009,7 +1018,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'De-woorden vs Het-woorden & Lidwoorden' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"De-woorden vs Het-woorden & Lidwoorden\" (De (m/v) & Het (onzijdig) / Een (onbepaald)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-3-pg-1",
@@ -1025,7 +1034,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Di Belanda hampir semua dosen bersepeda ke universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het boek ligt op de grote tafel van de professor.\" berarti \"Buku itu terletak di atas meja besar milik profesor.\"."
+        "explanation": "Kalimat \"Het boek ligt op de grote tafel van de professor.\" (dibaca: Het buk ligt op de grote tafel van de professor.) berarti \"Buku itu terletak di atas meja besar milik profesor.\". Kalimat ini menggunakan pola \"De (m/v) & Het (onzijdig) / Een (onbepaald)\" (De-woorden vs Het-woorden & Lidwoorden) yang berfungsi untuk pembedaan artikel benda: de-woorden (75% nomina) dan het-woorden (nomina netral, verkleinwoorden, dan kata majemuk tertentu)."
       },
       {
         "id": "q-nl-gram-3-pg-2",
@@ -1041,7 +1050,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De universiteit biedt uitstekende faciliteiten voor onderzoekers.\" berarti \"Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti.\"."
+        "explanation": "Kalimat \"De universiteit biedt uitstekende faciliteiten voor onderzoekers.\" (dibaca: De universiteit biedt öytstekende faciliteiten vo:r onderzukers.) berarti \"Universitas tersebut menyediakan fasilitas unggulan bagi para peneliti.\". Kalimat ini menggunakan pola \"De (m/v) & Het (onzijdig) / Een (onbepaald)\" (De-woorden vs Het-woorden & Lidwoorden) yang berfungsi untuk pembedaan artikel benda: de-woorden (75% nomina) dan het-woorden (nomina netral, verkleinwoorden, dan kata majemuk tertentu)."
       },
       {
         "id": "q-nl-gram-3-pg-3",
@@ -1057,7 +1066,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami tinggal di sebuah rumah besar di dekat kampus."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Een nieuwe student zoekt het juiste lokaal.\" berarti \"Seorang mahasiswa baru sedang mencari ruangan kelas yang tepat.\"."
+        "explanation": "Kalimat \"Een nieuwe student zoekt het juiste lokaal.\" (dibaca: E:n nieuwe student zukt het jöyste loka:l.) berarti \"Seorang mahasiswa baru sedang mencari ruangan kelas yang tepat.\". Kalimat ini menggunakan pola \"De (m/v) & Het (onzijdig) / Een (onbepaald)\" (De-woorden vs Het-woorden & Lidwoorden) yang berfungsi untuk pembedaan artikel benda: de-woorden (75% nomina) dan het-woorden (nomina netral, verkleinwoorden, dan kata majemuk tertentu)."
       },
       {
         "id": "q-nl-gram-3-pg-4",
@@ -1077,7 +1086,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-3-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De-woorden vs Het-woorden & Lidwoorden\"?",
         "options": [
           "In Nederland fietsen bijna alle docenten naar de universiteit. — Di Belanda hampir semua dosen bersepeda ke universitas.",
           "Dit is een interessant boek over de geschiedenis van Leiden. — Ini adalah sebuah buku menarik tentang sejarah kota Leiden.",
@@ -1091,7 +1100,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-3-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De-woorden vs Het-woorden & Lidwoorden\"?",
         "options": [
           "Vandaag gaan de studenten naar het wetenschappelijk museum. — Hari ini para mahasiswa pergi ke museum sains.",
           "Morgen presenteert hij zijn onderzoeksresultaten. — Besok dia mempresentasikan hasil-hasil penelitiannya.",
@@ -1105,7 +1114,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-3-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De-woorden vs Het-woorden & Lidwoorden\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -1352,7 +1361,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hari ini para mahasiswa pergi ke museum sains."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Het boek ligt op de grote tafel van de professor.\" berarti \"Buku itu terletak di atas meja besar milik profesor.\"."
+        "explanation": "Kalimat \"Het boek ligt op de grote tafel van de professor.\" (dibaca: Het buk ligt op de grote tafel van de professor.) berarti \"Buku itu terletak di atas meja besar milik profesor.\". Kalimat ini menggunakan pola \"De (m/v) & Het (onzijdig) / Een (onbepaald)\" (De-woorden vs Het-woorden & Lidwoorden) yang berfungsi untuk pembedaan artikel benda: de-woorden (75% nomina) dan het-woorden (nomina netral, verkleinwoorden, dan kata majemuk tertentu)."
       },
       {
         "id": "q-nl-gram-3-bb-2",
@@ -1427,24 +1436,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Urutan kalimat utama Belanda di mana kata kerja wajib berada di posisi ke-2 (V2); jika didahului keterangan, subjek dan verba bertukar posisi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Woordvolgorde in de Hoofdzin & Inversie' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Woordvolgorde in de Hoofdzin & Inversie\" (De standaard woordvolgorde en inversie bij tijd/plaatsbepaling) berfungsi untuk: urutan kalimat utama Belanda di mana kata kerja wajib berada di posisi ke-2 (V2); jika didahului keterangan, subjek dan verba bertukar posisi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Vandaag gaan de studenten naar het wetenschappelijk museum. — Hari ini para mahasiswa pergi ke museum sains."
+          "Rumus utama: S + V + Rest vs Bepaling + V + S + Rest",
+          "Contoh 1: Vandaag gaan de studenten naar het wetenschappelijk museum. (Vanda:g ga:n de studenten na:r het wetenskhappeleyk museum.) — Hari ini para mahasiswa pergi ke museum sains."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi S + V + Rest vs Bepaling + V + S + Rest menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"S + V + Rest vs Bepaling + V + S + Rest\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Jika keterangan waktu/tempat berada di awal kalimat, terjadi inversi: kata kerja tetap di posisi ke-2.",
         "ruleList": [
-          "In Nederland fietsen bijna alle docenten naar de universiteit. — Di Belanda hampir semua dosen bersepeda ke universitas."
+          "Polanya: S + V + Rest vs Bepaling + V + S + Rest",
+          "Contoh 2: In Nederland fietsen bijna alle docenten naar de universiteit. (In nederland fietsen beyna alle docenten na:r de universiteit.) — Di Belanda hampir semua dosen bersepeda ke universitas."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Woordvolgorde in de Hoofdzin & Inversie\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Morgen presenteert hij zijn onderzoeksresultaten. — Besok dia mempresentasikan hasil-hasil penelitiannya."
+          "Contoh 3: Morgen presenteert hij zijn onderzoeksresultaten. (Morgen presente:rt hey zeyn onderzuksresultaten.) — Besok dia mempresentasikan hasil-hasil penelitiannya.",
+          "Hindari kesalahan: \"morgen hij gaat\" → gunakan bentuk yang benar: \"morgen gaat hij\"."
         ]
       }
     ],
@@ -1452,19 +1464,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-4-ex-1",
         "native": "Vandaag gaan de studenten naar het wetenschappelijk museum.",
-        "phonetic": "",
+        "phonetic": "Vanda:g ga:n de studenten na:r het wetenskhappeleyk museum.",
         "translationId": "Hari ini para mahasiswa pergi ke museum sains."
       },
       {
         "id": "nl-gram-4-ex-2",
         "native": "In Nederland fietsen bijna alle docenten naar de universiteit.",
-        "phonetic": "",
+        "phonetic": "In nederland fietsen beyna alle docenten na:r de universiteit.",
         "translationId": "Di Belanda hampir semua dosen bersepeda ke universitas."
       },
       {
         "id": "nl-gram-4-ex-3",
         "native": "Morgen presenteert hij zijn onderzoeksresultaten.",
-        "phonetic": "",
+        "phonetic": "Morgen presente:rt hey zeyn onderzuksresultaten.",
         "translationId": "Besok dia mempresentasikan hasil-hasil penelitiannya."
       }
     ],
@@ -1480,7 +1492,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Woordvolgorde in de Hoofdzin & Inversie' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Woordvolgorde in de Hoofdzin & Inversie\" (S + V + Rest vs Bepaling + V + S + Rest) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-4-pg-1",
@@ -1496,7 +1508,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hari ini para mahasiswa pergi ke museum sains."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Vandaag gaan de studenten naar het wetenschappelijk museum.\" berarti \"Hari ini para mahasiswa pergi ke museum sains.\"."
+        "explanation": "Kalimat \"Vandaag gaan de studenten naar het wetenschappelijk museum.\" (dibaca: Vanda:g ga:n de studenten na:r het wetenskhappeleyk museum.) berarti \"Hari ini para mahasiswa pergi ke museum sains.\". Kalimat ini menggunakan pola \"S + V + Rest vs Bepaling + V + S + Rest\" (Woordvolgorde in de Hoofdzin & Inversie) yang berfungsi untuk urutan kalimat utama Belanda di mana kata kerja wajib berada di posisi ke-2 (V2); jika didahului keterangan, subjek dan verba bertukar posisi."
       },
       {
         "id": "q-nl-gram-4-pg-2",
@@ -1512,7 +1524,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mengapa kamu memilih program studi magister di Utrecht?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"In Nederland fietsen bijna alle docenten naar de universiteit.\" berarti \"Di Belanda hampir semua dosen bersepeda ke universitas.\"."
+        "explanation": "Kalimat \"In Nederland fietsen bijna alle docenten naar de universiteit.\" (dibaca: In nederland fietsen beyna alle docenten na:r de universiteit.) berarti \"Di Belanda hampir semua dosen bersepeda ke universitas.\". Kalimat ini menggunakan pola \"S + V + Rest vs Bepaling + V + S + Rest\" (Woordvolgorde in de Hoofdzin & Inversie) yang berfungsi untuk urutan kalimat utama Belanda di mana kata kerja wajib berada di posisi ke-2 (V2); jika didahului keterangan, subjek dan verba bertukar posisi."
       },
       {
         "id": "q-nl-gram-4-pg-3",
@@ -1528,7 +1540,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Siapakah yang telah menulis artikel ilmiah ini?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Morgen presenteert hij zijn onderzoeksresultaten.\" berarti \"Besok dia mempresentasikan hasil-hasil penelitiannya.\"."
+        "explanation": "Kalimat \"Morgen presenteert hij zijn onderzoeksresultaten.\" (dibaca: Morgen presente:rt hey zeyn onderzuksresultaten.) berarti \"Besok dia mempresentasikan hasil-hasil penelitiannya.\". Kalimat ini menggunakan pola \"S + V + Rest vs Bepaling + V + S + Rest\" (Woordvolgorde in de Hoofdzin & Inversie) yang berfungsi untuk urutan kalimat utama Belanda di mana kata kerja wajib berada di posisi ke-2 (V2); jika didahului keterangan, subjek dan verba bertukar posisi."
       },
       {
         "id": "q-nl-gram-4-pg-4",
@@ -1548,7 +1560,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-4-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvolgorde in de Hoofdzin & Inversie\"?",
         "options": [
           "De vriendelijke professor helpt de internationale studenten. — Profesor yang ramah itu membantu para mahasiswa internasional.",
           "Waarom kies je voor een masteropleiding in Utrecht? — Mengapa kamu memilih program studi magister di Utrecht?",
@@ -1562,7 +1574,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-4-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvolgorde in de Hoofdzin & Inversie\"?",
         "options": [
           "Morgen presenteert hij zijn onderzoeksresultaten. — Besok dia mempresentasikan hasil-hasil penelitiannya.",
           "Dit is een interessant boek over de geschiedenis van Leiden. — Ini adalah sebuah buku menarik tentang sejarah kota Leiden.",
@@ -1576,7 +1588,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-4-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvolgorde in de Hoofdzin & Inversie\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -1823,7 +1835,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah sebuah buku menarik tentang sejarah kota Leiden."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Vandaag gaan de studenten naar het wetenschappelijk museum.\" berarti \"Hari ini para mahasiswa pergi ke museum sains.\"."
+        "explanation": "Kalimat \"Vandaag gaan de studenten naar het wetenschappelijk museum.\" (dibaca: Vanda:g ga:n de studenten na:r het wetenskhappeleyk museum.) berarti \"Hari ini para mahasiswa pergi ke museum sains.\". Kalimat ini menggunakan pola \"S + V + Rest vs Bepaling + V + S + Rest\" (Woordvolgorde in de Hoofdzin & Inversie) yang berfungsi untuk urutan kalimat utama Belanda di mana kata kerja wajib berada di posisi ke-2 (V2); jika didahului keterangan, subjek dan verba bertukar posisi."
       },
       {
         "id": "q-nl-gram-4-bb-2",
@@ -1898,24 +1910,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Penambahan akhiran -e pada kata sifat: selalu ditambah -e kecuali untuk kata benda tunggal netral tak definit (een + het-woord).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Adjectieven & de Buigings-e Regels' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Adjectieven & de Buigings-e Regels\" (Het verbuigen van bijvoeglijke naamwoorden met een -e) berfungsi untuk: penambahan akhiran -e pada kata sifat: selalu ditambah -e kecuali untuk kata benda tunggal netral tak definit (een + het-woord). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Dit is een interessant boek over de geschiedenis van Leiden. — Ini adalah sebuah buku menarik tentang sejarah kota Leiden."
+          "Rumus utama: De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)",
+          "Contoh 1: Dit is een interessant boek over de geschiedenis van Leiden. (Dit is e:n interessant buk over de geskhiedenis van leiden.) — Ini adalah sebuah buku menarik tentang sejarah kota Leiden."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk het-woord tunggal tak definit (een boek), kata sifat tidak mendapat tambahan akhiran -e.",
         "ruleList": [
-          "De vriendelijke professor helpt de internationale studenten. — Profesor yang ramah itu membantu para mahasiswa internasional."
+          "Polanya: De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)",
+          "Contoh 2: De vriendelijke professor helpt de internationale studenten. (De vriendeleyke professor helpt de internationale studenten.) — Profesor yang ramah itu membantu para mahasiswa internasional."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Adjectieven & de Buigings-e Regels\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wij wonen in een groot huis dicht bij de campus. — Kami tinggal di sebuah rumah besar di dekat kampus."
+          "Contoh 3: Wij wonen in een groot huis dicht bij de campus. (Wey wonen in e:n gro:t höys dicht bey de campus.) — Kami tinggal di sebuah rumah besar di dekat kampus.",
+          "Hindari kesalahan: \"een grote boek\" → gunakan bentuk yang benar: \"een groot boek\"."
         ]
       }
     ],
@@ -1923,19 +1938,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-5-ex-1",
         "native": "Dit is een interessant boek over de geschiedenis van Leiden.",
-        "phonetic": "",
+        "phonetic": "Dit is e:n interessant buk over de geskhiedenis van leiden.",
         "translationId": "Ini adalah sebuah buku menarik tentang sejarah kota Leiden."
       },
       {
         "id": "nl-gram-5-ex-2",
         "native": "De vriendelijke professor helpt de internationale studenten.",
-        "phonetic": "",
+        "phonetic": "De vriendeleyke professor helpt de internationale studenten.",
         "translationId": "Profesor yang ramah itu membantu para mahasiswa internasional."
       },
       {
         "id": "nl-gram-5-ex-3",
         "native": "Wij wonen in een groot huis dicht bij de campus.",
-        "phonetic": "",
+        "phonetic": "Wey wonen in e:n gro:t höys dicht bey de campus.",
         "translationId": "Kami tinggal di sebuah rumah besar di dekat kampus."
       }
     ],
@@ -1951,7 +1966,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Adjectieven & de Buigings-e Regels' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Adjectieven & de Buigings-e Regels\" (De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-5-pg-1",
@@ -1967,7 +1982,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah saudara laki-lakimu juga berkuliah hukum di universitas?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Dit is een interessant boek over de geschiedenis van Leiden.\" berarti \"Ini adalah sebuah buku menarik tentang sejarah kota Leiden.\"."
+        "explanation": "Kalimat \"Dit is een interessant boek over de geschiedenis van Leiden.\" (dibaca: Dit is e:n interessant buk over de geskhiedenis van leiden.) berarti \"Ini adalah sebuah buku menarik tentang sejarah kota Leiden.\". Kalimat ini menggunakan pola \"De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)\" (Adjectieven & de Buigings-e Regels) yang berfungsi untuk penambahan akhiran -e pada kata sifat: selalu ditambah -e kecuali untuk kata benda tunggal netral tak definit (een + het-woord)."
       },
       {
         "id": "q-nl-gram-5-pg-2",
@@ -1983,7 +1998,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De vriendelijke professor helpt de internationale studenten.\" berarti \"Profesor yang ramah itu membantu para mahasiswa internasional.\"."
+        "explanation": "Kalimat \"De vriendelijke professor helpt de internationale studenten.\" (dibaca: De vriendeleyke professor helpt de internationale studenten.) berarti \"Profesor yang ramah itu membantu para mahasiswa internasional.\". Kalimat ini menggunakan pola \"De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)\" (Adjectieven & de Buigings-e Regels) yang berfungsi untuk penambahan akhiran -e pada kata sifat: selalu ditambah -e kecuali untuk kata benda tunggal netral tak definit (een + het-woord)."
       },
       {
         "id": "q-nl-gram-5-pg-3",
@@ -1999,7 +2014,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka tidak tinggal di Amsterdam, melainkan di Rotterdam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wij wonen in een groot huis dicht bij de campus.\" berarti \"Kami tinggal di sebuah rumah besar di dekat kampus.\"."
+        "explanation": "Kalimat \"Wij wonen in een groot huis dicht bij de campus.\" (dibaca: Wey wonen in e:n gro:t höys dicht bey de campus.) berarti \"Kami tinggal di sebuah rumah besar di dekat kampus.\". Kalimat ini menggunakan pola \"De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)\" (Adjectieven & de Buigings-e Regels) yang berfungsi untuk penambahan akhiran -e pada kata sifat: selalu ditambah -e kecuali untuk kata benda tunggal netral tak definit (een + het-woord)."
       },
       {
         "id": "q-nl-gram-5-pg-4",
@@ -2019,7 +2034,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-5-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Adjectieven & de Buigings-e Regels\"?",
         "options": [
           "De vriendelijke professor helpt de internationale studenten. — Profesor yang ramah itu membantu para mahasiswa internasional.",
           "Studeert jouw broer ook rechten aan de universiteit? — Apakah saudara laki-lakimu juga berkuliah hukum di universitas?",
@@ -2033,7 +2048,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-5-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Adjectieven & de Buigings-e Regels\"?",
         "options": [
           "Waarom kies je voor een masteropleiding in Utrecht? — Mengapa kamu memilih program studi magister di Utrecht?",
           "Wij wonen in een groot huis dicht bij de campus. — Kami tinggal di sebuah rumah besar di dekat kampus.",
@@ -2047,7 +2062,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-5-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Adjectieven & de Buigings-e Regels\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2294,7 +2309,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mengapa kamu memilih program studi magister di Utrecht?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Dit is een interessant boek over de geschiedenis van Leiden.\" berarti \"Ini adalah sebuah buku menarik tentang sejarah kota Leiden.\"."
+        "explanation": "Kalimat \"Dit is een interessant boek over de geschiedenis van Leiden.\" (dibaca: Dit is e:n interessant buk over de geskhiedenis van leiden.) berarti \"Ini adalah sebuah buku menarik tentang sejarah kota Leiden.\". Kalimat ini menggunakan pola \"De + Adjectief-e + Nomina vs Een + Adjectief (zonder -e bij het-woord)\" (Adjectieven & de Buigings-e Regels) yang berfungsi untuk penambahan akhiran -e pada kata sifat: selalu ditambah -e kecuali untuk kata benda tunggal netral tak definit (een + het-woord)."
       },
       {
         "id": "q-nl-gram-5-bb-2",
@@ -2369,24 +2384,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk kalimat tanya ya/tidak melalui inversie langsung verba di posisi pertama, atau diawali kata tanya 5W1H.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Vragen Maken: Ja/Nee-vragen en Vraagwoorden' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Vragen Maken: Ja/Nee-vragen en Vraagwoorden\" (Vraagzinnen vormen met inversie of vraagwoorden (Wie, Wat, Waar, Waarom)) berfungsi untuk: membentuk kalimat tanya ya/tidak melalui inversie langsung verba di posisi pertama, atau diawali kata tanya 5W1H. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Waarom kies je voor een masteropleiding in Utrecht? — Mengapa kamu memilih program studi magister di Utrecht?"
+          "Rumus utama: Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?",
+          "Contoh 1: Waarom kies je voor een masteropleiding in Utrecht? (Wa:rom kies je vo:r e:n masteropleiding in utrecht?) — Mengapa kamu memilih program studi magister di Utrecht?"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp? menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah kata tanya, langsung diikuti oleh kata kerja terkonjugasi baru kemudian subjek.",
         "ruleList": [
-          "Studeert jouw broer ook rechten aan de universiteit? — Apakah saudara laki-lakimu juga berkuliah hukum di universitas?"
+          "Polanya: Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?",
+          "Contoh 2: Studeert jouw broer ook rechten aan de universiteit? (Stude:rt jouw brur o:k rechten a:n de universiteit?) — Apakah saudara laki-lakimu juga berkuliah hukum di universitas?"
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Vragen Maken: Ja/Nee-vragen en Vraagwoorden\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wie heeft dit wetenschappelijke artikel geschreven? — Siapakah yang telah menulis artikel ilmiah ini?"
+          "Contoh 3: Wie heeft dit wetenschappelijke artikel geschreven? (Wie he:ft dit wetenskhappeleyke artikel geskhreven?) — Siapakah yang telah menulis artikel ilmiah ini?",
+          "Hindari kesalahan: \"waarom jij studeert?\" → gunakan bentuk yang benar: \"waarom studeer je?\"."
         ]
       }
     ],
@@ -2394,19 +2412,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-6-ex-1",
         "native": "Waarom kies je voor een masteropleiding in Utrecht?",
-        "phonetic": "",
+        "phonetic": "Wa:rom kies je vo:r e:n masteropleiding in utrecht?",
         "translationId": "Mengapa kamu memilih program studi magister di Utrecht?"
       },
       {
         "id": "nl-gram-6-ex-2",
         "native": "Studeert jouw broer ook rechten aan de universiteit?",
-        "phonetic": "",
+        "phonetic": "Stude:rt jouw brur o:k rechten a:n de universiteit?",
         "translationId": "Apakah saudara laki-lakimu juga berkuliah hukum di universitas?"
       },
       {
         "id": "nl-gram-6-ex-3",
         "native": "Wie heeft dit wetenschappelijke artikel geschreven?",
-        "phonetic": "",
+        "phonetic": "Wie he:ft dit wetenskhappeleyke artikel geskhreven?",
         "translationId": "Siapakah yang telah menulis artikel ilmiah ini?"
       }
     ],
@@ -2422,7 +2440,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Vragen Maken: Ja/Nee-vragen en Vraagwoorden' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Vragen Maken: Ja/Nee-vragen en Vraagwoorden\" (Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-6-pg-1",
@@ -2438,7 +2456,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu belum memahami teori yang sulit ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Waarom kies je voor een masteropleiding in Utrecht?\" berarti \"Mengapa kamu memilih program studi magister di Utrecht?\"."
+        "explanation": "Kalimat \"Waarom kies je voor een masteropleiding in Utrecht?\" (dibaca: Wa:rom kies je vo:r e:n masteropleiding in utrecht?) berarti \"Mengapa kamu memilih program studi magister di Utrecht?\". Kalimat ini menggunakan pola \"Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?\" (Vragen Maken: Ja/Nee-vragen en Vraagwoorden) yang berfungsi untuk membentuk kalimat tanya ya/tidak melalui inversie langsung verba di posisi pertama, atau diawali kata tanya 5W1H."
       },
       {
         "id": "q-nl-gram-6-pg-2",
@@ -2454,7 +2472,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas kami dikenal luas karena karakter internasionalnya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Studeert jouw broer ook rechten aan de universiteit?\" berarti \"Apakah saudara laki-lakimu juga berkuliah hukum di universitas?\"."
+        "explanation": "Kalimat \"Studeert jouw broer ook rechten aan de universiteit?\" (dibaca: Stude:rt jouw brur o:k rechten a:n de universiteit?) berarti \"Apakah saudara laki-lakimu juga berkuliah hukum di universitas?\". Kalimat ini menggunakan pola \"Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?\" (Vragen Maken: Ja/Nee-vragen en Vraagwoorden) yang berfungsi untuk membentuk kalimat tanya ya/tidak melalui inversie langsung verba di posisi pertama, atau diawali kata tanya 5W1H."
       },
       {
         "id": "q-nl-gram-6-pg-3",
@@ -2470,7 +2488,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Siapakah yang telah menulis artikel ilmiah ini?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wie heeft dit wetenschappelijke artikel geschreven?\" berarti \"Siapakah yang telah menulis artikel ilmiah ini?\"."
+        "explanation": "Kalimat \"Wie heeft dit wetenschappelijke artikel geschreven?\" (dibaca: Wie he:ft dit wetenskhappeleyke artikel geskhreven?) berarti \"Siapakah yang telah menulis artikel ilmiah ini?\". Kalimat ini menggunakan pola \"Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?\" (Vragen Maken: Ja/Nee-vragen en Vraagwoorden) yang berfungsi untuk membentuk kalimat tanya ya/tidak melalui inversie langsung verba di posisi pertama, atau diawali kata tanya 5W1H."
       },
       {
         "id": "q-nl-gram-6-pg-4",
@@ -2490,7 +2508,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-6-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vragen Maken: Ja/Nee-vragen en Vraagwoorden\"?",
         "options": [
           "De student begrijpt deze moeilijke theorie nog niet. — Mahasiswa itu belum memahami teori yang sulit ini.",
           "Studeert jouw broer ook rechten aan de universiteit? — Apakah saudara laki-lakimu juga berkuliah hukum di universitas?",
@@ -2504,7 +2522,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-6-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vragen Maken: Ja/Nee-vragen en Vraagwoorden\"?",
         "options": [
           "Ik heb vandaag geen tijd om naar de bibliotheek te gaan. — Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan.",
           "Zij wonen niet in Amsterdam, maar in Rotterdam. — Mereka tidak tinggal di Amsterdam, melainkan di Rotterdam.",
@@ -2518,7 +2536,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-6-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vragen Maken: Ja/Nee-vragen en Vraagwoorden\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -2767,7 +2785,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mengapa kamu memilih program studi magister di Utrecht?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Waarom kies je voor een masteropleiding in Utrecht?\" berarti \"Mengapa kamu memilih program studi magister di Utrecht?\"."
+        "explanation": "Kalimat \"Waarom kies je voor een masteropleiding in Utrecht?\" (dibaca: Wa:rom kies je vo:r e:n masteropleiding in utrecht?) berarti \"Mengapa kamu memilih program studi magister di Utrecht?\". Kalimat ini menggunakan pola \"Werkwoord + Onderwerp? / Vraagwoord + Werkwoord + Onderwerp?\" (Vragen Maken: Ja/Nee-vragen en Vraagwoorden) yang berfungsi untuk membentuk kalimat tanya ya/tidak melalui inversie langsung verba di posisi pertama, atau diawali kata tanya 5W1H."
       },
       {
         "id": "q-nl-gram-6-bb-2",
@@ -2842,24 +2860,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Penyangkalan dengan geen untuk meniadakan kata benda indefinit, dan niet untuk menyangkal verba, kata sifat, atau benda definit.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Negatie met Niet vs Geen' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Negatie met Niet vs Geen\" (Ontkenning in het Nederlands: het onderscheid tussen 'niet' en 'geen') berfungsi untuk: penyangkalan dengan geen untuk meniadakan kata benda indefinit, dan niet untuk menyangkal verba, kata sifat, atau benda definit. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ik heb vandaag geen tijd om naar de bibliotheek te gaan. — Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan."
+          "Rumus utama: Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)",
+          "Contoh 1: Ik heb vandaag geen tijd om naar de bibliotheek te gaan. (Ik heb vanda:g ge:n teyd om na:r de bibliothe:k te ga:n.) — Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan 'geen' untuk menyangkal kata benda tak tentu atau kata benda tanpa kata sandang.",
         "ruleList": [
-          "De student begrijpt deze moeilijke theorie nog niet. — Mahasiswa itu belum memahami teori yang sulit ini."
+          "Polanya: Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)",
+          "Contoh 2: De student begrijpt deze moeilijke theorie nog niet. (De student begreypt deze muileyke theorie nog niet.) — Mahasiswa itu belum memahami teori yang sulit ini."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Negatie met Niet vs Geen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Zij wonen niet in Amsterdam, maar in Rotterdam. — Mereka tidak tinggal di Amsterdam, melainkan di Rotterdam."
+          "Contoh 3: Zij wonen niet in Amsterdam, maar in Rotterdam. (Zey wonen niet in amsterdam, ma:r in rotterdam.) — Mereka tidak tinggal di Amsterdam, melainkan di Rotterdam.",
+          "Hindari kesalahan: \"ik heb niet tijd\" → gunakan bentuk yang benar: \"ik heb geen tijd\"."
         ]
       }
     ],
@@ -2867,19 +2888,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-7-ex-1",
         "native": "Ik heb vandaag geen tijd om naar de bibliotheek te gaan.",
-        "phonetic": "",
+        "phonetic": "Ik heb vanda:g ge:n teyd om na:r de bibliothe:k te ga:n.",
         "translationId": "Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan."
       },
       {
         "id": "nl-gram-7-ex-2",
         "native": "De student begrijpt deze moeilijke theorie nog niet.",
-        "phonetic": "",
+        "phonetic": "De student begreypt deze muileyke theorie nog niet.",
         "translationId": "Mahasiswa itu belum memahami teori yang sulit ini."
       },
       {
         "id": "nl-gram-7-ex-3",
         "native": "Zij wonen niet in Amsterdam, maar in Rotterdam.",
-        "phonetic": "",
+        "phonetic": "Zey wonen niet in amsterdam, ma:r in rotterdam.",
         "translationId": "Mereka tidak tinggal di Amsterdam, melainkan di Rotterdam."
       }
     ],
@@ -2895,7 +2916,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Negatie met Niet vs Geen' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Negatie met Niet vs Geen\" (Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-7-pg-1",
@@ -2911,7 +2932,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing skripsinya memberikan masukan berharga pada naskah tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ik heb vandaag geen tijd om naar de bibliotheek te gaan.\" berarti \"Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan.\"."
+        "explanation": "Kalimat \"Ik heb vandaag geen tijd om naar de bibliotheek te gaan.\" (dibaca: Ik heb vanda:g ge:n teyd om na:r de bibliothe:k te ga:n.) berarti \"Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan.\". Kalimat ini menggunakan pola \"Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)\" (Negatie met Niet vs Geen) yang berfungsi untuk penyangkalan dengan geen untuk meniadakan kata benda indefinit, dan niet untuk menyangkal verba, kata sifat, atau benda definit."
       },
       {
         "id": "q-nl-gram-7-pg-2",
@@ -2927,7 +2948,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu belum memahami teori yang sulit ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De student begrijpt deze moeilijke theorie nog niet.\" berarti \"Mahasiswa itu belum memahami teori yang sulit ini.\"."
+        "explanation": "Kalimat \"De student begrijpt deze moeilijke theorie nog niet.\" (dibaca: De student begreypt deze muileyke theorie nog niet.) berarti \"Mahasiswa itu belum memahami teori yang sulit ini.\". Kalimat ini menggunakan pola \"Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)\" (Negatie met Niet vs Geen) yang berfungsi untuk penyangkalan dengan geen untuk meniadakan kata benda indefinit, dan niet untuk menyangkal verba, kata sifat, atau benda definit."
       },
       {
         "id": "q-nl-gram-7-pg-3",
@@ -2943,7 +2964,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami ingin berpartisipasi dalam program pertukaran pelajar tahun depan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Zij wonen niet in Amsterdam, maar in Rotterdam.\" berarti \"Mereka tidak tinggal di Amsterdam, melainkan di Rotterdam.\"."
+        "explanation": "Kalimat \"Zij wonen niet in Amsterdam, maar in Rotterdam.\" (dibaca: Zey wonen niet in amsterdam, ma:r in rotterdam.) berarti \"Mereka tidak tinggal di Amsterdam, melainkan di Rotterdam.\". Kalimat ini menggunakan pola \"Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)\" (Negatie met Niet vs Geen) yang berfungsi untuk penyangkalan dengan geen untuk meniadakan kata benda indefinit, dan niet untuk menyangkal verba, kata sifat, atau benda definit."
       },
       {
         "id": "q-nl-gram-7-pg-4",
@@ -2963,7 +2984,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-7-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Negatie met Niet vs Geen\"?",
         "options": [
           "Zijn scriptiebegeleider gaf waardevolle feedback op het manuscript. — Dosen pembimbing skripsinya memberikan masukan berharga pada naskah tersebut.",
           "De studenten moeten hun opdrachten vóór vrijdag inleveren. — Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat.",
@@ -2977,7 +2998,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-7-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Negatie met Niet vs Geen\"?",
         "options": [
           "Onze universiteit staat bekend om haar internationale karakter. — Universitas kami dikenal luas karena karakter internasionalnya.",
           "Ons onderzoek richt zich op duurzame energiebronnen. — Penelitian kami berfokus pada sumber-sumber energi berkelanjutan.",
@@ -2991,7 +3012,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-7-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Negatie met Niet vs Geen\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -3238,7 +3259,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas kami dikenal luas karena karakter internasionalnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ik heb vandaag geen tijd om naar de bibliotheek te gaan.\" berarti \"Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan.\"."
+        "explanation": "Kalimat \"Ik heb vandaag geen tijd om naar de bibliotheek te gaan.\" (dibaca: Ik heb vanda:g ge:n teyd om na:r de bibliothe:k te ga:n.) berarti \"Saya hari ini tidak memiliki waktu untuk pergi ke perpustakaan.\". Kalimat ini menggunakan pola \"Geen (Onbepaald/Geen lidwoord) vs Niet (Specifiek/Werkwoorden/Adjectieven)\" (Negatie met Niet vs Geen) yang berfungsi untuk penyangkalan dengan geen untuk meniadakan kata benda indefinit, dan niet untuk menyangkal verba, kata sifat, atau benda definit."
       },
       {
         "id": "q-nl-gram-7-bb-2",
@@ -3313,24 +3334,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata ganti kepemilikan bahasa Belanda, dengan perhatian khusus pada pasangan ons (het-woord) dan onze (de-woord).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)\" (De bezittelijke voornaamwoorden in het Nederlands) berfungsi untuk: kata ganti kepemilikan bahasa Belanda, dengan perhatian khusus pada pasangan ons (het-woord) dan onze (de-woord). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Onze universiteit staat bekend om haar internationale karakter. — Universitas kami dikenal luas karena karakter internasionalnya."
+          "Rumus utama: Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun",
+          "Contoh 1: Onze universiteit staat bekend om haar internationale karakter. (Onze universiteit sta:t bekend om ha:r internationale karakter.) — Universitas kami dikenal luas karena karakter internasionalnya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata 'universiteit' adalah de-woord, sehingga wajib menggunakan 'onze' bukan 'ons'.",
         "ruleList": [
-          "Zijn scriptiebegeleider gaf waardevolle feedback op het manuscript. — Dosen pembimbing skripsinya memberikan masukan berharga pada naskah tersebut."
+          "Polanya: Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun",
+          "Contoh 2: Zijn scriptiebegeleider gaf waardevolle feedback op het manuscript. (Zeyn scriptiebegeleider gaf wa:rdevolle fe:dback op het manuscript.) — Dosen pembimbing skripsinya memberikan masukan berharga pada naskah tersebut."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Ons onderzoek richt zich op duurzame energiebronnen. — Penelitian kami berfokus pada sumber-sumber energi berkelanjutan."
+          "Contoh 3: Ons onderzoek richt zich op duurzame energiebronnen. (Ons onderzuk richt zich op dü:rzame energiebronnen.) — Penelitian kami berfokus pada sumber-sumber energi berkelanjutan.",
+          "Hindari kesalahan: \"ons universiteit\" → gunakan bentuk yang benar: \"onze universiteit\"."
         ]
       }
     ],
@@ -3338,19 +3362,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-8-ex-1",
         "native": "Onze universiteit staat bekend om haar internationale karakter.",
-        "phonetic": "",
+        "phonetic": "Onze universiteit sta:t bekend om ha:r internationale karakter.",
         "translationId": "Universitas kami dikenal luas karena karakter internasionalnya."
       },
       {
         "id": "nl-gram-8-ex-2",
         "native": "Zijn scriptiebegeleider gaf waardevolle feedback op het manuscript.",
-        "phonetic": "",
+        "phonetic": "Zeyn scriptiebegeleider gaf wa:rdevolle fe:dback op het manuscript.",
         "translationId": "Dosen pembimbing skripsinya memberikan masukan berharga pada naskah tersebut."
       },
       {
         "id": "nl-gram-8-ex-3",
         "native": "Ons onderzoek richt zich op duurzame energiebronnen.",
-        "phonetic": "",
+        "phonetic": "Ons onderzuk richt zich op dü:rzame energiebronnen.",
         "translationId": "Penelitian kami berfokus pada sumber-sumber energi berkelanjutan."
       }
     ],
@@ -3366,7 +3390,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)\" (Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-8-pg-1",
@@ -3382,7 +3406,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas kami dikenal luas karena karakter internasionalnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Onze universiteit staat bekend om haar internationale karakter.\" berarti \"Universitas kami dikenal luas karena karakter internasionalnya.\"."
+        "explanation": "Kalimat \"Onze universiteit staat bekend om haar internationale karakter.\" (dibaca: Onze universiteit sta:t bekend om ha:r internationale karakter.) berarti \"Universitas kami dikenal luas karena karakter internasionalnya.\". Kalimat ini menggunakan pola \"Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun\" (Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)) yang berfungsi untuk kata ganti kepemilikan bahasa Belanda, dengan perhatian khusus pada pasangan ons (het-woord) dan onze (de-woord)."
       },
       {
         "id": "q-nl-gram-8-pg-2",
@@ -3398,7 +3422,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas ini memiliki tradisi sejarah yang kaya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Zijn scriptiebegeleider gaf waardevolle feedback op het manuscript.\" berarti \"Dosen pembimbing skripsinya memberikan masukan berharga pada naskah tersebut.\"."
+        "explanation": "Kalimat \"Zijn scriptiebegeleider gaf waardevolle feedback op het manuscript.\" (dibaca: Zeyn scriptiebegeleider gaf wa:rdevolle fe:dback op het manuscript.) berarti \"Dosen pembimbing skripsinya memberikan masukan berharga pada naskah tersebut.\". Kalimat ini menggunakan pola \"Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun\" (Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)) yang berfungsi untuk kata ganti kepemilikan bahasa Belanda, dengan perhatian khusus pada pasangan ons (het-woord) dan onze (de-woord)."
       },
       {
         "id": "q-nl-gram-8-pg-3",
@@ -3414,7 +3438,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Buku-buku itu harus dikembalikan sebelum akhir pekan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ons onderzoek richt zich op duurzame energiebronnen.\" berarti \"Penelitian kami berfokus pada sumber-sumber energi berkelanjutan.\"."
+        "explanation": "Kalimat \"Ons onderzoek richt zich op duurzame energiebronnen.\" (dibaca: Ons onderzuk richt zich op dü:rzame energiebronnen.) berarti \"Penelitian kami berfokus pada sumber-sumber energi berkelanjutan.\". Kalimat ini menggunakan pola \"Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun\" (Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)) yang berfungsi untuk kata ganti kepemilikan bahasa Belanda, dengan perhatian khusus pada pasangan ons (het-woord) dan onze (de-woord)."
       },
       {
         "id": "q-nl-gram-8-pg-4",
@@ -3434,7 +3458,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-8-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)\"?",
         "options": [
           "Mag ik een vraag stellen over de tentamenstof? — Bolehkah saya mengajukan sebuah pertanyaan mengenai materi ujian?",
           "Deze universiteit heeft een rijke historische traditie. — Universitas ini memiliki tradisi sejarah yang kaya.",
@@ -3448,7 +3472,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-8-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)\"?",
         "options": [
           "Ons onderzoek richt zich op duurzame energiebronnen. — Penelitian kami berfokus pada sumber-sumber energi berkelanjutan.",
           "De studenten moeten hun opdrachten vóór vrijdag inleveren. — Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat.",
@@ -3462,7 +3486,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-8-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -3709,7 +3733,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Onze universiteit staat bekend om haar internationale karakter.\" berarti \"Universitas kami dikenal luas karena karakter internasionalnya.\"."
+        "explanation": "Kalimat \"Onze universiteit staat bekend om haar internationale karakter.\" (dibaca: Onze universiteit sta:t bekend om ha:r internationale karakter.) berarti \"Universitas kami dikenal luas karena karakter internasionalnya.\". Kalimat ini menggunakan pola \"Mijn / Jouw / Zijn / Haar / Ons (het-woord) / Onze (de-woord) / Jullie / Hun\" (Bezittelijke Voornaamwoorden (Mijn, Jouw/Je, Zijn, Haar, Ons/Onze)) yang berfungsi untuk kata ganti kepemilikan bahasa Belanda, dengan perhatian khusus pada pasangan ons (het-woord) dan onze (de-woord)."
       },
       {
         "id": "q-nl-gram-8-bb-2",
@@ -3784,24 +3808,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata kerja modalitas (dapat, harus, boleh, ingin) yang memposisikan kata kerja utama di bagian paling akhir kalimat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen\" (Modale hulpwerkwoorden in combinatie met een infinitief) berfungsi untuk: kata kerja modalitas (dapat, harus, boleh, ingin) yang memposisikan kata kerja utama di bagian paling akhir kalimat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De studenten moeten hun opdrachten vóór vrijdag inleveren. — Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat."
+          "Rumus utama: Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)",
+          "Contoh 1: De studenten moeten hun opdrachten vóór vrijdag inleveren. (De studenten muten hun opdrachten vóór vreydag inleveren.) — Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam kalimat utama dengan kata kerja modal, kata kerja infinitif diletakkan paling akhir.",
         "ruleList": [
-          "Mag ik een vraag stellen over de tentamenstof? — Bolehkah saya mengajukan sebuah pertanyaan mengenai materi ujian?"
+          "Polanya: Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)",
+          "Contoh 2: Mag ik een vraag stellen over de tentamenstof? (Mag ik e:n vra:g stellen over de tentamenstof?) — Bolehkah saya mengajukan sebuah pertanyaan mengenai materi ujian?"
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wij willen volgend jaar deelnemen aan het uitwisselingsprogramma. — Kami ingin berpartisipasi dalam program pertukaran pelajar tahun depan."
+          "Contoh 3: Wij willen volgend jaar deelnemen aan het uitwisselingsprogramma. (Wey willen volgend ja:r de:lnemen a:n het öytwisselingsprogramma.) — Kami ingin berpartisipasi dalam program pertukaran pelajar tahun depan.",
+          "Hindari kesalahan: \"wij moeten inleveren de opdrachten\" → gunakan bentuk yang benar: \"wij moeten de opdrachten inleveren\"."
         ]
       }
     ],
@@ -3809,19 +3836,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-9-ex-1",
         "native": "De studenten moeten hun opdrachten vóór vrijdag inleveren.",
-        "phonetic": "",
+        "phonetic": "De studenten muten hun opdrachten vóór vreydag inleveren.",
         "translationId": "Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat."
       },
       {
         "id": "nl-gram-9-ex-2",
         "native": "Mag ik een vraag stellen over de tentamenstof?",
-        "phonetic": "",
+        "phonetic": "Mag ik e:n vra:g stellen over de tentamenstof?",
         "translationId": "Bolehkah saya mengajukan sebuah pertanyaan mengenai materi ujian?"
       },
       {
         "id": "nl-gram-9-ex-3",
         "native": "Wij willen volgend jaar deelnemen aan het uitwisselingsprogramma.",
-        "phonetic": "",
+        "phonetic": "Wey willen volgend ja:r de:lnemen a:n het öytwisselingsprogramma.",
         "translationId": "Kami ingin berpartisipasi dalam program pertukaran pelajar tahun depan."
       }
     ],
@@ -3837,7 +3864,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen\" (Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-9-pg-1",
@@ -3853,7 +3880,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De studenten moeten hun opdrachten vóór vrijdag inleveren.\" berarti \"Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat.\"."
+        "explanation": "Kalimat \"De studenten moeten hun opdrachten vóór vrijdag inleveren.\" (dibaca: De studenten muten hun opdrachten vóór vreydag inleveren.) berarti \"Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat.\". Kalimat ini menggunakan pola \"Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)\" (Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen) yang berfungsi untuk kata kerja modalitas (dapat, harus, boleh, ingin) yang memposisikan kata kerja utama di bagian paling akhir kalimat."
       },
       {
         "id": "q-nl-gram-9-pg-2",
@@ -3869,7 +3896,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Saya adalah mahasiswa di Universitas Amsterdam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Mag ik een vraag stellen over de tentamenstof?\" berarti \"Bolehkah saya mengajukan sebuah pertanyaan mengenai materi ujian?\"."
+        "explanation": "Kalimat \"Mag ik een vraag stellen over de tentamenstof?\" (dibaca: Mag ik e:n vra:g stellen over de tentamenstof?) berarti \"Bolehkah saya mengajukan sebuah pertanyaan mengenai materi ujian?\". Kalimat ini menggunakan pola \"Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)\" (Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen) yang berfungsi untuk kata kerja modalitas (dapat, harus, boleh, ingin) yang memposisikan kata kerja utama di bagian paling akhir kalimat."
       },
       {
         "id": "q-nl-gram-9-pg-3",
@@ -3885,7 +3912,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dia sangat tertarik pada ilmu linguistik modern."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wij willen volgend jaar deelnemen aan het uitwisselingsprogramma.\" berarti \"Kami ingin berpartisipasi dalam program pertukaran pelajar tahun depan.\"."
+        "explanation": "Kalimat \"Wij willen volgend jaar deelnemen aan het uitwisselingsprogramma.\" (dibaca: Wey willen volgend ja:r de:lnemen a:n het öytwisselingsprogramma.) berarti \"Kami ingin berpartisipasi dalam program pertukaran pelajar tahun depan.\". Kalimat ini menggunakan pola \"Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)\" (Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen) yang berfungsi untuk kata kerja modalitas (dapat, harus, boleh, ingin) yang memposisikan kata kerja utama di bagian paling akhir kalimat."
       },
       {
         "id": "q-nl-gram-9-pg-4",
@@ -3905,7 +3932,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-9-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen\"?",
         "options": [
           "Mag ik een vraag stellen over de tentamenstof? — Bolehkah saya mengajukan sebuah pertanyaan mengenai materi ujian?",
           "Dat laboratorium is uitgerust met geavanceerde microscopen. — Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih.",
@@ -3919,7 +3946,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-9-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen\"?",
         "options": [
           "Deze universiteit heeft een rijke historische traditie. — Universitas ini memiliki tradisi sejarah yang kaya.",
           "Wij willen volgend jaar deelnemen aan het uitwisselingsprogramma. — Kami ingin berpartisipasi dalam program pertukaran pelajar tahun depan.",
@@ -3933,7 +3960,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-9-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4180,7 +4207,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas ini memiliki tradisi sejarah yang kaya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De studenten moeten hun opdrachten vóór vrijdag inleveren.\" berarti \"Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat.\"."
+        "explanation": "Kalimat \"De studenten moeten hun opdrachten vóór vrijdag inleveren.\" (dibaca: De studenten muten hun opdrachten vóór vreydag inleveren.) berarti \"Para mahasiswa harus mengumpulkan tugas-tugas mereka sebelum hari Jumat.\". Kalimat ini menggunakan pola \"Onderwerp + Modale Werkwoord + Rest + Infinitief (Aan het einde)\" (Modale Werkwoorden: Kunnen, Moeten, Mogen, Willen) yang berfungsi untuk kata kerja modalitas (dapat, harus, boleh, ingin) yang memposisikan kata kerja utama di bagian paling akhir kalimat."
       },
       {
         "id": "q-nl-gram-9-bb-2",
@@ -4255,24 +4282,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Pronomina demonstrativa penunjuk dekat (deze/dit = ini) dan penunjuk jauh (die/dat = itu) sesuai gender nomina.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)\" (Aanwijzende voornaamwoorden voor dichtbij en veraf) berfungsi untuk: pronomina demonstrativa penunjuk dekat (deze/dit = ini) dan penunjuk jauh (die/dat = itu) sesuai gender nomina. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Deze universiteit heeft een rijke historische traditie. — Universitas ini memiliki tradisi sejarah yang kaya."
+          "Rumus utama: Deze/Die (de-woorden) & Dit/Dat (het-woorden)",
+          "Contoh 1: Deze universiteit heeft een rijke historische traditie. (Deze universiteit he:ft e:n reyke historiskhe traditie.) — Universitas ini memiliki tradisi sejarah yang kaya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Deze/Die (de-woorden) & Dit/Dat (het-woorden) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Deze/Die (de-woorden) & Dit/Dat (het-woorden)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Karena universiteit adalah de-woord, gunakan kata tunjuk dekat 'deze'.",
         "ruleList": [
-          "Dat laboratorium is uitgerust met geavanceerde microscopen. — Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih."
+          "Polanya: Deze/Die (de-woorden) & Dit/Dat (het-woorden)",
+          "Contoh 2: Dat laboratorium is uitgerust met geavanceerde microscopen. (Dat laboratorium is öytgerust met geavance:rde microscopen.) — Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Die boeken moeten voor het weekend worden teruggebracht. — Buku-buku itu harus dikembalikan sebelum akhir pekan."
+          "Contoh 3: Die boeken moeten voor het weekend worden teruggebracht. (Die buken muten vo:r het we:kend worden teruggebracht.) — Buku-buku itu harus dikembalikan sebelum akhir pekan.",
+          "Hindari kesalahan: \"dit universiteit\" → gunakan bentuk yang benar: \"deze universiteit\"."
         ]
       }
     ],
@@ -4280,19 +4310,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-10-ex-1",
         "native": "Deze universiteit heeft een rijke historische traditie.",
-        "phonetic": "",
+        "phonetic": "Deze universiteit he:ft e:n reyke historiskhe traditie.",
         "translationId": "Universitas ini memiliki tradisi sejarah yang kaya."
       },
       {
         "id": "nl-gram-10-ex-2",
         "native": "Dat laboratorium is uitgerust met geavanceerde microscopen.",
-        "phonetic": "",
+        "phonetic": "Dat laboratorium is öytgerust met geavance:rde microscopen.",
         "translationId": "Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih."
       },
       {
         "id": "nl-gram-10-ex-3",
         "native": "Die boeken moeten voor het weekend worden teruggebracht.",
-        "phonetic": "",
+        "phonetic": "Die buken muten vo:r het we:kend worden teruggebracht.",
         "translationId": "Buku-buku itu harus dikembalikan sebelum akhir pekan."
       }
     ],
@@ -4308,7 +4338,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)\" (Deze/Die (de-woorden) & Dit/Dat (het-woorden)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-10-pg-1",
@@ -4324,7 +4354,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami memiliki perkuliahan penting hari ini di ruang kuliah besar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Deze universiteit heeft een rijke historische traditie.\" berarti \"Universitas ini memiliki tradisi sejarah yang kaya.\"."
+        "explanation": "Kalimat \"Deze universiteit heeft een rijke historische traditie.\" (dibaca: Deze universiteit he:ft e:n reyke historiskhe traditie.) berarti \"Universitas ini memiliki tradisi sejarah yang kaya.\". Kalimat ini menggunakan pola \"Deze/Die (de-woorden) & Dit/Dat (het-woorden)\" (Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)) yang berfungsi untuk pronomina demonstrativa penunjuk dekat (deze/dit = ini) dan penunjuk jauh (die/dat = itu) sesuai gender nomina."
       },
       {
         "id": "q-nl-gram-10-pg-2",
@@ -4340,7 +4370,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu mengajar sejarah di fakultas tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Dat laboratorium is uitgerust met geavanceerde microscopen.\" berarti \"Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih.\"."
+        "explanation": "Kalimat \"Dat laboratorium is uitgerust met geavanceerde microscopen.\" (dibaca: Dat laboratorium is öytgerust met geavance:rde microscopen.) berarti \"Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih.\". Kalimat ini menggunakan pola \"Deze/Die (de-woorden) & Dit/Dat (het-woorden)\" (Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)) yang berfungsi untuk pronomina demonstrativa penunjuk dekat (deze/dit = ini) dan penunjuk jauh (die/dat = itu) sesuai gender nomina."
       },
       {
         "id": "q-nl-gram-10-pg-3",
@@ -4356,7 +4386,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Buku-buku itu harus dikembalikan sebelum akhir pekan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Die boeken moeten voor het weekend worden teruggebracht.\" berarti \"Buku-buku itu harus dikembalikan sebelum akhir pekan.\"."
+        "explanation": "Kalimat \"Die boeken moeten voor het weekend worden teruggebracht.\" (dibaca: Die buken muten vo:r het we:kend worden teruggebracht.) berarti \"Buku-buku itu harus dikembalikan sebelum akhir pekan.\". Kalimat ini menggunakan pola \"Deze/Die (de-woorden) & Dit/Dat (het-woorden)\" (Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)) yang berfungsi untuk pronomina demonstrativa penunjuk dekat (deze/dit = ini) dan penunjuk jauh (die/dat = itu) sesuai gender nomina."
       },
       {
         "id": "q-nl-gram-10-pg-4",
@@ -4376,7 +4406,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-10-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)\"?",
         "options": [
           "Wij hebben vandaag een belangrijk college in de grote collegezaal. — Kami memiliki perkuliahan penting hari ini di ruang kuliah besar.",
           "Dat laboratorium is uitgerust met geavanceerde microscopen. — Laboratorium itu dilengkapi dengan mikroskop-mikroskop canggih.",
@@ -4390,7 +4420,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-10-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)\"?",
         "options": [
           "Ik ben student aan de Universiteit van Amsterdam. — Saya adalah mahasiswa di Universitas Amsterdam.",
           "Zij is erg geïnteresseerd in moderne taalkunde. — Dia sangat tertarik pada ilmu linguistik modern.",
@@ -4404,7 +4434,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-10-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -4651,7 +4681,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas ini memiliki tradisi sejarah yang kaya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Deze universiteit heeft een rijke historische traditie.\" berarti \"Universitas ini memiliki tradisi sejarah yang kaya.\"."
+        "explanation": "Kalimat \"Deze universiteit heeft een rijke historische traditie.\" (dibaca: Deze universiteit he:ft e:n reyke historiskhe traditie.) berarti \"Universitas ini memiliki tradisi sejarah yang kaya.\". Kalimat ini menggunakan pola \"Deze/Die (de-woorden) & Dit/Dat (het-woorden)\" (Aanwijzende Voornaamwoorden (Deze/Die & Dit/Dat)) yang berfungsi untuk pronomina demonstrativa penunjuk dekat (deze/dit = ini) dan penunjuk jauh (die/dat = itu) sesuai gender nomina."
       },
       {
         "id": "q-nl-gram-10-bb-2",
@@ -4726,24 +4756,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk waktu lampau selesai (perfektum) dengan aturan 't kofschip/fokschaap dan seleksi verba gerak dengan zijn.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn\" (De vorming van de V.T.T. en de keuze tussen hebben en zijn) berfungsi untuk: membentuk waktu lampau selesai (perfektum) dengan aturan 't kofschip/fokschaap dan seleksi verba gerak dengan zijn. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De student heeft het tentamen met succes afgerond. — Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses."
+          "Rumus utama: Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t",
+          "Contoh 1: De student heeft het tentamen met succes afgerond. (De student he:ft het tentamen met succes afgerond.) — Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja perpindahan tempat dan perubahan keadaan menggunakan kata kerja bantu 'zijn' pada V.T.T.",
         "ruleList": [
-          "De professoren zijn gisteren naar Brussel vertrokken. — Para profesor telah berangkat ke Brussel kemarin."
+          "Polanya: Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t",
+          "Contoh 2: De professoren zijn gisteren naar Brussel vertrokken. (De professoren zeyn gisteren na:r brussel vertrokken.) — Para profesor telah berangkat ke Brussel kemarin."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wij hebben de hele avond aan het onderzoeksrapport gewerkt. — Kami telah bekerja sepanjang malam mengerjakan laporan penelitian itu."
+          "Contoh 3: Wij hebben de hele avond aan het onderzoeksrapport gewerkt. (Wey hebben de hele avond a:n het onderzuksrapport gewerkt.) — Kami telah bekerja sepanjang malam mengerjakan laporan penelitian itu.",
+          "Hindari kesalahan: \"hij heeft vertrokken\" → gunakan bentuk yang benar: \"hij is vertrokken\"."
         ]
       }
     ],
@@ -4751,19 +4784,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-11-ex-1",
         "native": "De student heeft het tentamen met succes afgerond.",
-        "phonetic": "",
+        "phonetic": "De student he:ft het tentamen met succes afgerond.",
         "translationId": "Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses."
       },
       {
         "id": "nl-gram-11-ex-2",
         "native": "De professoren zijn gisteren naar Brussel vertrokken.",
-        "phonetic": "",
+        "phonetic": "De professoren zeyn gisteren na:r brussel vertrokken.",
         "translationId": "Para profesor telah berangkat ke Brussel kemarin."
       },
       {
         "id": "nl-gram-11-ex-3",
         "native": "Wij hebben de hele avond aan het onderzoeksrapport gewerkt.",
-        "phonetic": "",
+        "phonetic": "Wey hebben de hele avond a:n het onderzuksrapport gewerkt.",
         "translationId": "Kami telah bekerja sepanjang malam mengerjakan laporan penelitian itu."
       }
     ],
@@ -4779,7 +4812,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn\" (Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-11-pg-1",
@@ -4795,7 +4828,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka telah membaca sebuah artikel ilmiah penting kemarin."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De student heeft het tentamen met succes afgerond.\" berarti \"Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses.\"."
+        "explanation": "Kalimat \"De student heeft het tentamen met succes afgerond.\" (dibaca: De student he:ft het tentamen met succes afgerond.) berarti \"Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses.\". Kalimat ini menggunakan pola \"Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t\" (De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn) yang berfungsi untuk membentuk waktu lampau selesai (perfektum) dengan aturan 't kofschip/fokschaap dan seleksi verba gerak dengan zijn."
       },
       {
         "id": "q-nl-gram-11-pg-2",
@@ -4811,7 +4844,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para profesor telah berangkat ke Brussel kemarin."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De professoren zijn gisteren naar Brussel vertrokken.\" berarti \"Para profesor telah berangkat ke Brussel kemarin.\"."
+        "explanation": "Kalimat \"De professoren zijn gisteren naar Brussel vertrokken.\" (dibaca: De professoren zeyn gisteren na:r brussel vertrokken.) berarti \"Para profesor telah berangkat ke Brussel kemarin.\". Kalimat ini menggunakan pola \"Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t\" (De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn) yang berfungsi untuk membentuk waktu lampau selesai (perfektum) dengan aturan 't kofschip/fokschaap dan seleksi verba gerak dengan zijn."
       },
       {
         "id": "q-nl-gram-11-pg-3",
@@ -4827,7 +4860,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dosen itu menjelaskan teori yang rumit tersebut selangkah demi selangkah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Wij hebben de hele avond aan het onderzoeksrapport gewerkt.\" berarti \"Kami telah bekerja sepanjang malam mengerjakan laporan penelitian itu.\"."
+        "explanation": "Kalimat \"Wij hebben de hele avond aan het onderzoeksrapport gewerkt.\" (dibaca: Wey hebben de hele avond a:n het onderzuksrapport gewerkt.) berarti \"Kami telah bekerja sepanjang malam mengerjakan laporan penelitian itu.\". Kalimat ini menggunakan pola \"Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t\" (De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn) yang berfungsi untuk membentuk waktu lampau selesai (perfektum) dengan aturan 't kofschip/fokschaap dan seleksi verba gerak dengan zijn."
       },
       {
         "id": "q-nl-gram-11-pg-4",
@@ -4847,7 +4880,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-11-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn\"?",
         "options": [
           "Zij hebben gisteren een belangrijk wetenschappelijk artikel gelezen. — Mereka telah membaca sebuah artikel ilmiah penting kemarin.",
           "De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor. — Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama.",
@@ -4861,7 +4894,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-11-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn\"?",
         "options": [
           "De student schreef een uitstekend essay over de Europese integratie. — Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa.",
           "De rector sprak tijdens de feestelijke opening van het academisch jaar. — Rektor berbicara pada acara pembukaan tahun akademik yang meriah.",
@@ -4875,7 +4908,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-11-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -5122,7 +5155,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De student heeft het tentamen met succes afgerond.\" berarti \"Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses.\"."
+        "explanation": "Kalimat \"De student heeft het tentamen met succes afgerond.\" (dibaca: De student he:ft het tentamen met succes afgerond.) berarti \"Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses.\". Kalimat ini menggunakan pola \"Hebben / Zijn (Presens) + Rest + Ge- + Stam + -d/-t\" (De Voltooid Tegenwoordige Tijd (V.T.T.) met Hebben & Zijn) yang berfungsi untuk membentuk waktu lampau selesai (perfektum) dengan aturan 't kofschip/fokschaap dan seleksi verba gerak dengan zijn."
       },
       {
         "id": "q-nl-gram-11-bb-2",
@@ -5197,24 +5230,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Waktu lampau naratif (imperfektum) untuk verba beraturan berdasarkan konsonan akhir batang pada rumus 't kofschip.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden\" (De vorming van de O.V.T. met -te(n) of -de(n)) berfungsi untuk: waktu lampau naratif (imperfektum) untuk verba beraturan berdasarkan konsonan akhir batang pada rumus 't kofschip. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De professor werkte vroeger aan de universiteit van Utrecht. — Profesor itu dulunya bekerja di Universitas Utrecht."
+          "Rumus utama: Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)",
+          "Contoh 1: De professor werkte vroeger aan de universiteit van Utrecht. (De professor werkte vruger a:n de universiteit van utrecht.) — Profesor itu dulunya bekerja di Universitas Utrecht."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Huruf konsonan 'k' termasuk dalam rumus 't kofschip, sehingga bentuk lampaunya mendapat akhiran -te (hij werkte).",
         "ruleList": [
-          "Zij studeerden hard voor het toelatingsexamen van de faculteit. — Mereka dulu belajar keras untuk menghadapi ujian masuk fakultas."
+          "Polanya: Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)",
+          "Contoh 2: Zij studeerden hard voor het toelatingsexamen van de faculteit. (Zey stude:rden hard vo:r het tulatingsexamen van de faculteit.) — Mereka dulu belajar keras untuk menghadapi ujian masuk fakultas."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De onderzoekers ontdekten een nieuw biologisch mechanisme. — Para peneliti menemukan sebuah mekanisme biologis baru."
+          "Contoh 3: De onderzoekers ontdekten een nieuw biologisch mechanisme. (De onderzukers ontdekten e:n nieuw biologiskh mechanisme.) — Para peneliti menemukan sebuah mekanisme biologis baru.",
+          "Hindari kesalahan: \"hij werkde\" → gunakan bentuk yang benar: \"hij werkte\"."
         ]
       }
     ],
@@ -5222,19 +5258,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-12-ex-1",
         "native": "De professor werkte vroeger aan de universiteit van Utrecht.",
-        "phonetic": "",
+        "phonetic": "De professor werkte vruger a:n de universiteit van utrecht.",
         "translationId": "Profesor itu dulunya bekerja di Universitas Utrecht."
       },
       {
         "id": "nl-gram-12-ex-2",
         "native": "Zij studeerden hard voor het toelatingsexamen van de faculteit.",
-        "phonetic": "",
+        "phonetic": "Zey stude:rden hard vo:r het tulatingsexamen van de faculteit.",
         "translationId": "Mereka dulu belajar keras untuk menghadapi ujian masuk fakultas."
       },
       {
         "id": "nl-gram-12-ex-3",
         "native": "De onderzoekers ontdekten een nieuw biologisch mechanisme.",
-        "phonetic": "",
+        "phonetic": "De onderzukers ontdekten e:n nieuw biologiskh mechanisme.",
         "translationId": "Para peneliti menemukan sebuah mekanisme biologis baru."
       }
     ],
@@ -5250,7 +5286,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden\" (Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-12-pg-1",
@@ -5266,7 +5302,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu dulunya bekerja di Universitas Utrecht."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De professor werkte vroeger aan de universiteit van Utrecht.\" berarti \"Profesor itu dulunya bekerja di Universitas Utrecht.\"."
+        "explanation": "Kalimat \"De professor werkte vroeger aan de universiteit van Utrecht.\" (dibaca: De professor werkte vruger a:n de universiteit van utrecht.) berarti \"Profesor itu dulunya bekerja di Universitas Utrecht.\". Kalimat ini menggunakan pola \"Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)\" (De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden) yang berfungsi untuk waktu lampau naratif (imperfektum) untuk verba beraturan berdasarkan konsonan akhir batang pada rumus 't kofschip."
       },
       {
         "id": "q-nl-gram-12-pg-2",
@@ -5282,7 +5318,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu menemukan solusi terobosan bagi permasalahan iklim."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Zij studeerden hard voor het toelatingsexamen van de faculteit.\" berarti \"Mereka dulu belajar keras untuk menghadapi ujian masuk fakultas.\"."
+        "explanation": "Kalimat \"Zij studeerden hard voor het toelatingsexamen van de faculteit.\" (dibaca: Zey stude:rden hard vo:r het tulatingsexamen van de faculteit.) berarti \"Mereka dulu belajar keras untuk menghadapi ujian masuk fakultas.\". Kalimat ini menggunakan pola \"Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)\" (De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden) yang berfungsi untuk waktu lampau naratif (imperfektum) untuk verba beraturan berdasarkan konsonan akhir batang pada rumus 't kofschip."
       },
       {
         "id": "q-nl-gram-12-pg-3",
@@ -5298,7 +5334,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Universitas mengubah kebijakan penerimaannya bagi para mahasiswa internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De onderzoekers ontdekten een nieuw biologisch mechanisme.\" berarti \"Para peneliti menemukan sebuah mekanisme biologis baru.\"."
+        "explanation": "Kalimat \"De onderzoekers ontdekten een nieuw biologisch mechanisme.\" (dibaca: De onderzukers ontdekten e:n nieuw biologiskh mechanisme.) berarti \"Para peneliti menemukan sebuah mekanisme biologis baru.\". Kalimat ini menggunakan pola \"Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)\" (De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden) yang berfungsi untuk waktu lampau naratif (imperfektum) untuk verba beraturan berdasarkan konsonan akhir batang pada rumus 't kofschip."
       },
       {
         "id": "q-nl-gram-12-pg-4",
@@ -5318,7 +5354,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-12-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden\"?",
         "options": [
           "Neem alsjeblieft je collegekaart mee naar het tentamen. — Tolong bawalah kartu tanda mahasiswamu ke ruang ujian.",
           "De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem. — Peneliti itu menemukan solusi terobosan bagi permasalahan iklim.",
@@ -5332,7 +5368,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-12-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden\"?",
         "options": [
           "De onderzoekers ontdekten een nieuw biologisch mechanisme. — Para peneliti menemukan sebuah mekanisme biologis baru.",
           "De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor. — Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama.",
@@ -5346,7 +5382,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-12-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -5593,7 +5629,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De professor werkte vroeger aan de universiteit van Utrecht.\" berarti \"Profesor itu dulunya bekerja di Universitas Utrecht.\"."
+        "explanation": "Kalimat \"De professor werkte vroeger aan de universiteit van Utrecht.\" (dibaca: De professor werkte vruger a:n de universiteit van utrecht.) berarti \"Profesor itu dulunya bekerja di Universitas Utrecht.\". Kalimat ini menggunakan pola \"Stam in 't kofschip -> Stam + -te(n) / Anders -> Stam + -de(n)\" (De Onvoltooid Verleden Tijd (O.V.T.) van Regelmatige Werkwoorden) yang berfungsi untuk waktu lampau naratif (imperfektum) untuk verba beraturan berdasarkan konsonan akhir batang pada rumus 't kofschip."
       },
       {
         "id": "q-nl-gram-12-bb-2",
@@ -5668,24 +5704,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata kerja kuat dengan perubahan vokal akar pada bentuk lampau dan partisip lampau berakhiran -en.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)\" (Onregelmatige en sterke werkwoorden met klinkerverandering) berfungsi untuk: kata kerja kuat dengan perubahan vokal akar pada bentuk lampau dan partisip lampau berakhiran -en. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De student schreef een uitstekend essay over de Europese integratie. — Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa."
+          "Rumus utama: Vokaalwisseling in O.V.T. en V.T.T.",
+          "Contoh 1: De student schreef een uitstekend essay over de Europese integratie. (De student skhre:f e:n öytstekend essay over de europese integratie.) — Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Vokaalwisseling in O.V.T. en V.T.T. menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Vokaalwisseling in O.V.T. en V.T.T.\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Schrijven adalah kata kerja kuat (sterk werkwoord): schrijven - schreef - geschreven.",
         "ruleList": [
-          "Zij hebben gisteren een belangrijk wetenschappelijk artikel gelezen. — Mereka telah membaca sebuah artikel ilmiah penting kemarin."
+          "Polanya: Vokaalwisseling in O.V.T. en V.T.T.",
+          "Contoh 2: Zij hebben gisteren een belangrijk wetenschappelijk artikel gelezen. (Zey hebben gisteren e:n belangreyk wetenskhappeleyk artikel gelezen.) — Mereka telah membaca sebuah artikel ilmiah penting kemarin."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De rector sprak tijdens de feestelijke opening van het academisch jaar. — Rektor berbicara pada acara pembukaan tahun akademik yang meriah."
+          "Contoh 3: De rector sprak tijdens de feestelijke opening van het academisch jaar. (De rector sprak teydens de fe:steleyke opening van het academiskh ja:r.) — Rektor berbicara pada acara pembukaan tahun akademik yang meriah.",
+          "Hindari kesalahan: \"hij schrijfde\" → gunakan bentuk yang benar: \"hij schreef\"."
         ]
       }
     ],
@@ -5693,19 +5732,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-13-ex-1",
         "native": "De student schreef een uitstekend essay over de Europese integratie.",
-        "phonetic": "",
+        "phonetic": "De student skhre:f e:n öytstekend essay over de europese integratie.",
         "translationId": "Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa."
       },
       {
         "id": "nl-gram-13-ex-2",
         "native": "Zij hebben gisteren een belangrijk wetenschappelijk artikel gelezen.",
-        "phonetic": "",
+        "phonetic": "Zey hebben gisteren e:n belangreyk wetenskhappeleyk artikel gelezen.",
         "translationId": "Mereka telah membaca sebuah artikel ilmiah penting kemarin."
       },
       {
         "id": "nl-gram-13-ex-3",
         "native": "De rector sprak tijdens de feestelijke opening van het academisch jaar.",
-        "phonetic": "",
+        "phonetic": "De rector sprak teydens de fe:steleyke opening van het academiskh ja:r.",
         "translationId": "Rektor berbicara pada acara pembukaan tahun akademik yang meriah."
       }
     ],
@@ -5721,7 +5760,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)\" (Vokaalwisseling in O.V.T. en V.T.T.) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-13-pg-1",
@@ -5737,7 +5776,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah memahami model statistik yang rumit itu secara menyeluruh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De student schreef een uitstekend essay over de Europese integratie.\" berarti \"Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa.\"."
+        "explanation": "Kalimat \"De student schreef een uitstekend essay over de Europese integratie.\" (dibaca: De student skhre:f e:n öytstekend essay over de europese integratie.) berarti \"Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa.\". Kalimat ini menggunakan pola \"Vokaalwisseling in O.V.T. en V.T.T.\" (Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)) yang berfungsi untuk kata kerja kuat dengan perubahan vokal akar pada bentuk lampau dan partisip lampau berakhiran -en."
       },
       {
         "id": "q-nl-gram-13-pg-2",
@@ -5753,7 +5792,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak dapat datang karena saya harus belajar untuk ujian saya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Zij hebben gisteren een belangrijk wetenschappelijk artikel gelezen.\" berarti \"Mereka telah membaca sebuah artikel ilmiah penting kemarin.\"."
+        "explanation": "Kalimat \"Zij hebben gisteren een belangrijk wetenschappelijk artikel gelezen.\" (dibaca: Zey hebben gisteren e:n belangreyk wetenskhappeleyk artikel gelezen.) berarti \"Mereka telah membaca sebuah artikel ilmiah penting kemarin.\". Kalimat ini menggunakan pola \"Vokaalwisseling in O.V.T. en V.T.T.\" (Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)) yang berfungsi untuk kata kerja kuat dengan perubahan vokal akar pada bentuk lampau dan partisip lampau berakhiran -en."
       },
       {
         "id": "q-nl-gram-13-pg-3",
@@ -5769,7 +5808,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De rector sprak tijdens de feestelijke opening van het academisch jaar.\" berarti \"Rektor berbicara pada acara pembukaan tahun akademik yang meriah.\"."
+        "explanation": "Kalimat \"De rector sprak tijdens de feestelijke opening van het academisch jaar.\" (dibaca: De rector sprak teydens de fe:steleyke opening van het academiskh ja:r.) berarti \"Rektor berbicara pada acara pembukaan tahun akademik yang meriah.\". Kalimat ini menggunakan pola \"Vokaalwisseling in O.V.T. en V.T.T.\" (Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)) yang berfungsi untuk kata kerja kuat dengan perubahan vokal akar pada bentuk lampau dan partisip lampau berakhiran -en."
       },
       {
         "id": "q-nl-gram-13-pg-4",
@@ -5789,7 +5828,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-13-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)\"?",
         "options": [
           "Zij hebben gisteren een belangrijk wetenschappelijk artikel gelezen. — Mereka telah membaca sebuah artikel ilmiah penting kemarin.",
           "Wij hebben het ingewikkelde statistische model volledig begrepen. — Kami telah memahami model statistik yang rumit itu secara menyeluruh.",
@@ -5803,7 +5842,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-13-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)\"?",
         "options": [
           "De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem. — Peneliti itu menemukan solusi terobosan bagi permasalahan iklim.",
           "De rector sprak tijdens de feestelijke opening van het academisch jaar. — Rektor berbicara pada acara pembukaan tahun akademik yang meriah.",
@@ -5817,7 +5856,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-13-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6064,7 +6103,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Peneliti itu menemukan solusi terobosan bagi permasalahan iklim."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De student schreef een uitstekend essay over de Europese integratie.\" berarti \"Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa.\"."
+        "explanation": "Kalimat \"De student schreef een uitstekend essay over de Europese integratie.\" (dibaca: De student skhre:f e:n öytstekend essay over de europese integratie.) berarti \"Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa.\". Kalimat ini menggunakan pola \"Vokaalwisseling in O.V.T. en V.T.T.\" (Sterke Werkwoorden in de Verleden Tijd (Loop/Liep/Gelopen)) yang berfungsi untuk kata kerja kuat dengan perubahan vokal akar pada bentuk lampau dan partisip lampau berakhiran -en."
       },
       {
         "id": "q-nl-gram-13-bb-2",
@@ -6139,24 +6178,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Verba terpisah di mana prefiks lepas berpindah ke paling ujung kalimat pada kalimat utama waktu kini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)\" (Scheidbare en onscheidbare samengestelde werkwoorden) berfungsi untuk: verba terpisah di mana prefiks lepas berpindah ke paling ujung kalimat pada kalimat utama waktu kini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor. — Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama."
+          "Rumus utama: Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)",
+          "Contoh 1: De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor. (De studenten bereiden de wetenskhappeleyke presentatie zorgvuldig vo:r.) — Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam kalimat utama, kata kerja terpisah (scheidbaar werkwoord) melepaskan prefiksnya ke ujung kalimat.",
         "ruleList": [
-          "Neem alsjeblieft je collegekaart mee naar het tentamen. — Tolong bawalah kartu tanda mahasiswamu ke ruang ujian."
+          "Polanya: Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)",
+          "Contoh 2: Neem alsjeblieft je collegekaart mee naar het tentamen. (Ne:m alsjeblieft je collegeka:rt me: na:r het tentamen.) — Tolong bawalah kartu tanda mahasiswamu ke ruang ujian."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De docent legt de moeilijke theorie stap voor stap uit. — Dosen itu menjelaskan teori yang rumit tersebut selangkah demi selangkah."
+          "Contoh 3: De docent legt de moeilijke theorie stap voor stap uit. (De docent legt de muileyke theorie stap vo:r stap öyt.) — Dosen itu menjelaskan teori yang rumit tersebut selangkah demi selangkah.",
+          "Hindari kesalahan: \"hij voorbereidt de presentatie\" → gunakan bentuk yang benar: \"hij bereidt de presentatie voor\"."
         ]
       }
     ],
@@ -6164,19 +6206,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-14-ex-1",
         "native": "De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor.",
-        "phonetic": "",
+        "phonetic": "De studenten bereiden de wetenskhappeleyke presentatie zorgvuldig vo:r.",
         "translationId": "Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama."
       },
       {
         "id": "nl-gram-14-ex-2",
         "native": "Neem alsjeblieft je collegekaart mee naar het tentamen.",
-        "phonetic": "",
+        "phonetic": "Ne:m alsjeblieft je collegeka:rt me: na:r het tentamen.",
         "translationId": "Tolong bawalah kartu tanda mahasiswamu ke ruang ujian."
       },
       {
         "id": "nl-gram-14-ex-3",
         "native": "De docent legt de moeilijke theorie stap voor stap uit.",
-        "phonetic": "",
+        "phonetic": "De docent legt de muileyke theorie stap vo:r stap öyt.",
         "translationId": "Dosen itu menjelaskan teori yang rumit tersebut selangkah demi selangkah."
       }
     ],
@@ -6192,7 +6234,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)\" (Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-14-pg-1",
@@ -6208,7 +6250,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor menyampaikan bahwa perkuliahan minggu depan ditiadakan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor.\" berarti \"Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama.\"."
+        "explanation": "Kalimat \"De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor.\" (dibaca: De studenten bereiden de wetenskhappeleyke presentatie zorgvuldig vo:r.) berarti \"Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama.\". Kalimat ini menggunakan pola \"Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)\" (Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)) yang berfungsi untuk verba terpisah di mana prefiks lepas berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-nl-gram-14-pg-2",
@@ -6224,7 +6266,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Neem alsjeblieft je collegekaart mee naar het tentamen.\" berarti \"Tolong bawalah kartu tanda mahasiswamu ke ruang ujian.\"."
+        "explanation": "Kalimat \"Neem alsjeblieft je collegekaart mee naar het tentamen.\" (dibaca: Ne:m alsjeblieft je collegeka:rt me: na:r het tentamen.) berarti \"Tolong bawalah kartu tanda mahasiswamu ke ruang ujian.\". Kalimat ini menggunakan pola \"Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)\" (Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)) yang berfungsi untuk verba terpisah di mana prefiks lepas berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-nl-gram-14-pg-3",
@@ -6240,7 +6282,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dosen itu menjelaskan teori yang rumit tersebut selangkah demi selangkah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De docent legt de moeilijke theorie stap voor stap uit.\" berarti \"Dosen itu menjelaskan teori yang rumit tersebut selangkah demi selangkah.\"."
+        "explanation": "Kalimat \"De docent legt de moeilijke theorie stap voor stap uit.\" (dibaca: De docent legt de muileyke theorie stap vo:r stap öyt.) berarti \"Dosen itu menjelaskan teori yang rumit tersebut selangkah demi selangkah.\". Kalimat ini menggunakan pola \"Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)\" (Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)) yang berfungsi untuk verba terpisah di mana prefiks lepas berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-nl-gram-14-pg-4",
@@ -6260,7 +6302,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-14-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)\"?",
         "options": [
           "De professor vertelde dat het college volgende week vervalt. — Profesor menyampaikan bahwa perkuliahan minggu depan ditiadakan.",
           "Neem alsjeblieft je collegekaart mee naar het tentamen. — Tolong bawalah kartu tanda mahasiswamu ke ruang ujian.",
@@ -6274,7 +6316,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-14-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)\"?",
         "options": [
           "Ik kan niet komen omdat ik voor mijn tentamen moet studeren. — Saya tidak dapat datang karena saya harus belajar untuk ujian saya.",
           "Als je op tijd je scriptie inlevert, kun je in juli afstuderen. — Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli.",
@@ -6288,7 +6330,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-14-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -6535,7 +6577,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor.\" berarti \"Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama.\"."
+        "explanation": "Kalimat \"De studenten bereiden de wetenschappelijke presentatie zorgvuldig voor.\" (dibaca: De studenten bereiden de wetenskhappeleyke presentatie zorgvuldig vo:r.) berarti \"Para mahasiswa mempersiapkan presentasi ilmiah tersebut dengan saksama.\". Kalimat ini menggunakan pola \"Prefix gaat naar het einde in de hoofdzin (ik sta vroeg op)\" (Scheidbare Werkwoorden (Opstaan, Meenemen, Schoonmaken)) yang berfungsi untuk verba terpisah di mana prefiks lepas berpindah ke paling ujung kalimat pada kalimat utama waktu kini."
       },
       {
         "id": "q-nl-gram-14-bb-2",
@@ -6610,24 +6652,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Verba dengan prefiks tetap yang tidak pernah terpisah dan partisip lampaunya tidak mendapatkan imbuhan ge-.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Onscheidbare Werkwoorden met Vaste Voorvoegsels' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Onscheidbare Werkwoorden met Vaste Voorvoegsels\" (Onscheidbare werkwoorden met be-, ge-, her-, ont-, ver-) berfungsi untuk: verba dengan prefiks tetap yang tidak pernah terpisah dan partisip lampaunya tidak mendapatkan imbuhan ge-. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem. — Peneliti itu menemukan solusi terobosan bagi permasalahan iklim."
+          "Rumus utama: Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord",
+          "Contoh 1: De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem. (De onderzuker ontdekte e:n ba:nbrekende oplossing vo:r het klima:tproble:m.) — Peneliti itu menemukan solusi terobosan bagi permasalahan iklim."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja tak terpisah berawalan be-, ge-, her-, ont-, ver- tidak mendapat tambahan ge- pada bentuk voltooid deelwoord.",
         "ruleList": [
-          "Wij hebben het ingewikkelde statistische model volledig begrepen. — Kami telah memahami model statistik yang rumit itu secara menyeluruh."
+          "Polanya: Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord",
+          "Contoh 2: Wij hebben het ingewikkelde statistische model volledig begrepen. (Wey hebben het ingewikkelde statistiskhe model volledig begrepen.) — Kami telah memahami model statistik yang rumit itu secara menyeluruh."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Onscheidbare Werkwoorden met Vaste Voorvoegsels\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De universiteit verandert haar toelatingsbeleid voor internationale studenten. — Universitas mengubah kebijakan penerimaannya bagi para mahasiswa internasional."
+          "Contoh 3: De universiteit verandert haar toelatingsbeleid voor internationale studenten. (De universiteit verandert ha:r tulatingsbeleid vo:r internationale studenten.) — Universitas mengubah kebijakan penerimaannya bagi para mahasiswa internasional.",
+          "Hindari kesalahan: \"hij heeft geontdekt\" → gunakan bentuk yang benar: \"hij heeft ontdekt\"."
         ]
       }
     ],
@@ -6635,19 +6680,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-15-ex-1",
         "native": "De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem.",
-        "phonetic": "",
+        "phonetic": "De onderzuker ontdekte e:n ba:nbrekende oplossing vo:r het klima:tproble:m.",
         "translationId": "Peneliti itu menemukan solusi terobosan bagi permasalahan iklim."
       },
       {
         "id": "nl-gram-15-ex-2",
         "native": "Wij hebben het ingewikkelde statistische model volledig begrepen.",
-        "phonetic": "",
+        "phonetic": "Wey hebben het ingewikkelde statistiskhe model volledig begrepen.",
         "translationId": "Kami telah memahami model statistik yang rumit itu secara menyeluruh."
       },
       {
         "id": "nl-gram-15-ex-3",
         "native": "De universiteit verandert haar toelatingsbeleid voor internationale studenten.",
-        "phonetic": "",
+        "phonetic": "De universiteit verandert ha:r tulatingsbeleid vo:r internationale studenten.",
         "translationId": "Universitas mengubah kebijakan penerimaannya bagi para mahasiswa internasional."
       }
     ],
@@ -6663,7 +6708,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Onscheidbare Werkwoorden met Vaste Voorvoegsels' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Onscheidbare Werkwoorden met Vaste Voorvoegsels\" (Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-15-pg-1",
@@ -6679,7 +6724,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem.\" berarti \"Peneliti itu menemukan solusi terobosan bagi permasalahan iklim.\"."
+        "explanation": "Kalimat \"De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem.\" (dibaca: De onderzuker ontdekte e:n ba:nbrekende oplossing vo:r het klima:tproble:m.) berarti \"Peneliti itu menemukan solusi terobosan bagi permasalahan iklim.\". Kalimat ini menggunakan pola \"Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord\" (Onscheidbare Werkwoorden met Vaste Voorvoegsels) yang berfungsi untuk verba dengan prefiks tetap yang tidak pernah terpisah dan partisip lampaunya tidak mendapatkan imbuhan ge-."
       },
       {
         "id": "q-nl-gram-15-pg-2",
@@ -6695,7 +6740,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah memahami model statistik yang rumit itu secara menyeluruh."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wij hebben het ingewikkelde statistische model volledig begrepen.\" berarti \"Kami telah memahami model statistik yang rumit itu secara menyeluruh.\"."
+        "explanation": "Kalimat \"Wij hebben het ingewikkelde statistische model volledig begrepen.\" (dibaca: Wey hebben het ingewikkelde statistiskhe model volledig begrepen.) berarti \"Kami telah memahami model statistik yang rumit itu secara menyeluruh.\". Kalimat ini menggunakan pola \"Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord\" (Onscheidbare Werkwoorden met Vaste Voorvoegsels) yang berfungsi untuk verba dengan prefiks tetap yang tidak pernah terpisah dan partisip lampaunya tidak mendapatkan imbuhan ge-."
       },
       {
         "id": "q-nl-gram-15-pg-3",
@@ -6711,7 +6756,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka telah berbincang panjang lebar mengenai kebijakan riset baru itu beserta dampak-dampaknya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De universiteit verandert haar toelatingsbeleid voor internationale studenten.\" berarti \"Universitas mengubah kebijakan penerimaannya bagi para mahasiswa internasional.\"."
+        "explanation": "Kalimat \"De universiteit verandert haar toelatingsbeleid voor internationale studenten.\" (dibaca: De universiteit verandert ha:r tulatingsbeleid vo:r internationale studenten.) berarti \"Universitas mengubah kebijakan penerimaannya bagi para mahasiswa internasional.\". Kalimat ini menggunakan pola \"Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord\" (Onscheidbare Werkwoorden met Vaste Voorvoegsels) yang berfungsi untuk verba dengan prefiks tetap yang tidak pernah terpisah dan partisip lampaunya tidak mendapatkan imbuhan ge-."
       },
       {
         "id": "q-nl-gram-15-pg-4",
@@ -6731,7 +6776,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-15-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Onscheidbare Werkwoorden met Vaste Voorvoegsels\"?",
         "options": [
           "Hij studeert geneeskunde en zijn zus volgt een masteropleiding rechten. — Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum.",
           "Wat vind je van dit voorstel? Ik denk er nog even over na. — Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak.",
@@ -6745,7 +6790,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-15-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Onscheidbare Werkwoorden met Vaste Voorvoegsels\"?",
         "options": [
           "De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed. — Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik.",
           "Wij gaan naar de bibliotheek, want we hebben morgen een belangrijk examen. — Kami pergi ke perpustakaan, sebab kami besok menghadapi ujian penting.",
@@ -6759,7 +6804,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-15-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Onscheidbare Werkwoorden met Vaste Voorvoegsels\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -7006,7 +7051,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem.\" berarti \"Peneliti itu menemukan solusi terobosan bagi permasalahan iklim.\"."
+        "explanation": "Kalimat \"De onderzoeker ontdekte een baanbrekende oplossing voor het klimaatprobleem.\" (dibaca: De onderzuker ontdekte e:n ba:nbrekende oplossing vo:r het klima:tproble:m.) berarti \"Peneliti itu menemukan solusi terobosan bagi permasalahan iklim.\". Kalimat ini menggunakan pola \"Prefix blijft vast aan het werkwoord & Geen ge- in het voltooid deelwoord\" (Onscheidbare Werkwoorden met Vaste Voorvoegsels) yang berfungsi untuk verba dengan prefiks tetap yang tidak pernah terpisah dan partisip lampaunya tidak mendapatkan imbuhan ge-."
       },
       {
         "id": "q-nl-gram-15-bb-2",
@@ -7081,24 +7126,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Struktur klausa bawahan: setelah kata hubung subordinatif (karena, bahwa, jika), seluruh kata kerja berkumpul di akhir klausa.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Woordvolgorde in de Bijzin (Omdat, Dat, Als)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Woordvolgorde in de Bijzin (Omdat, Dat, Als)\" (De SOV-volgorde in de bijzin na onderschikkende voegwoorden) berfungsi untuk: struktur klausa bawahan: setelah kata hubung subordinatif (karena, bahwa, jika), seluruh kata kerja berkumpul di akhir klausa. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Ik kan niet komen omdat ik voor mijn tentamen moet studeren. — Saya tidak dapat datang karena saya harus belajar untuk ujian saya."
+          "Rumus utama: Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde",
+          "Contoh 1: Ik kan niet komen omdat ik voor mijn tentamen moet studeren. (Ik kan niet komen omdat ik vo:r meyn tentamen mut studeren.) — Saya tidak dapat datang karena saya harus belajar untuk ujian saya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam anak kalimat (bijzin), seluruh gugus kata kerja wajib diletakkan di bagian paling akhir.",
         "ruleList": [
-          "De professor vertelde dat het college volgende week vervalt. — Profesor menyampaikan bahwa perkuliahan minggu depan ditiadakan."
+          "Polanya: Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde",
+          "Contoh 2: De professor vertelde dat het college volgende week vervalt. (De professor vertelde dat het college volgende we:k vervalt.) — Profesor menyampaikan bahwa perkuliahan minggu depan ditiadakan."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Woordvolgorde in de Bijzin (Omdat, Dat, Als)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Als je op tijd je scriptie inlevert, kun je in juli afstuderen. — Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli."
+          "Contoh 3: Als je op tijd je scriptie inlevert, kun je in juli afstuderen. (Als je op teyd je scriptie inlevert, kun je in juli afstuderen.) — Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli.",
+          "Hindari kesalahan: \"omdat ik moet studeren voor mijn tentamen\" → gunakan bentuk yang benar: \"omdat ik voor mijn tentamen moet studeren\"."
         ]
       }
     ],
@@ -7106,19 +7154,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-16-ex-1",
         "native": "Ik kan niet komen omdat ik voor mijn tentamen moet studeren.",
-        "phonetic": "",
+        "phonetic": "Ik kan niet komen omdat ik vo:r meyn tentamen mut studeren.",
         "translationId": "Saya tidak dapat datang karena saya harus belajar untuk ujian saya."
       },
       {
         "id": "nl-gram-16-ex-2",
         "native": "De professor vertelde dat het college volgende week vervalt.",
-        "phonetic": "",
+        "phonetic": "De professor vertelde dat het college volgende we:k vervalt.",
         "translationId": "Profesor menyampaikan bahwa perkuliahan minggu depan ditiadakan."
       },
       {
         "id": "nl-gram-16-ex-3",
         "native": "Als je op tijd je scriptie inlevert, kun je in juli afstuderen.",
-        "phonetic": "",
+        "phonetic": "Als je op teyd je scriptie inlevert, kun je in juli afstuderen.",
         "translationId": "Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli."
       }
     ],
@@ -7134,7 +7182,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Woordvolgorde in de Bijzin (Omdat, Dat, Als)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Woordvolgorde in de Bijzin (Omdat, Dat, Als)\" (Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-16-pg-1",
@@ -7150,7 +7198,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak dapat datang karena saya harus belajar untuk ujian saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ik kan niet komen omdat ik voor mijn tentamen moet studeren.\" berarti \"Saya tidak dapat datang karena saya harus belajar untuk ujian saya.\"."
+        "explanation": "Kalimat \"Ik kan niet komen omdat ik voor mijn tentamen moet studeren.\" (dibaca: Ik kan niet komen omdat ik vo:r meyn tentamen mut studeren.) berarti \"Saya tidak dapat datang karena saya harus belajar untuk ujian saya.\". Kalimat ini menggunakan pola \"Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde\" (Woordvolgorde in de Bijzin (Omdat, Dat, Als)) yang berfungsi untuk struktur klausa bawahan: setelah kata hubung subordinatif (karena, bahwa, jika), seluruh kata kerja berkumpul di akhir klausa."
       },
       {
         "id": "q-nl-gram-16-pg-2",
@@ -7166,7 +7214,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Terdapat banyak mahasiswa internasional di Universitas Groningen."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De professor vertelde dat het college volgende week vervalt.\" berarti \"Profesor menyampaikan bahwa perkuliahan minggu depan ditiadakan.\"."
+        "explanation": "Kalimat \"De professor vertelde dat het college volgende week vervalt.\" (dibaca: De professor vertelde dat het college volgende we:k vervalt.) berarti \"Profesor menyampaikan bahwa perkuliahan minggu depan ditiadakan.\". Kalimat ini menggunakan pola \"Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde\" (Woordvolgorde in de Bijzin (Omdat, Dat, Als)) yang berfungsi untuk struktur klausa bawahan: setelah kata hubung subordinatif (karena, bahwa, jika), seluruh kata kerja berkumpul di akhir klausa."
       },
       {
         "id": "q-nl-gram-16-pg-3",
@@ -7182,7 +7230,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kemarin berlangsung diskusi yang intensif selama kolokium tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Als je op tijd je scriptie inlevert, kun je in juli afstuderen.\" berarti \"Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli.\"."
+        "explanation": "Kalimat \"Als je op tijd je scriptie inlevert, kun je in juli afstuderen.\" (dibaca: Als je op teyd je scriptie inlevert, kun je in juli afstuderen.) berarti \"Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli.\". Kalimat ini menggunakan pola \"Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde\" (Woordvolgorde in de Bijzin (Omdat, Dat, Als)) yang berfungsi untuk struktur klausa bawahan: setelah kata hubung subordinatif (karena, bahwa, jika), seluruh kata kerja berkumpul di akhir klausa."
       },
       {
         "id": "q-nl-gram-16-pg-4",
@@ -7202,7 +7250,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-16-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvolgorde in de Bijzin (Omdat, Dat, Als)\"?",
         "options": [
           "Heb je een pen? Ja, ik kan ermee schrijven. — Apakah kamu punya pena? Ya, saya bisa menulis dengannya.",
           "Er zijn veel internationale studenten aan de universiteit van Groningen. — Terdapat banyak mahasiswa internasional di Universitas Groningen.",
@@ -7216,7 +7264,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-16-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvolgorde in de Bijzin (Omdat, Dat, Als)\"?",
         "options": [
           "Als je op tijd je scriptie inlevert, kun je in juli afstuderen. — Jika kamu mengumpulkan skripsimu tepat waktu, kamu dapat lulus pada bulan Juli.",
           "Wat vind je van dit voorstel? Ik denk er nog even over na. — Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak.",
@@ -7230,7 +7278,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-16-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvolgorde in de Bijzin (Omdat, Dat, Als)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -7481,7 +7529,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ik kan niet komen omdat ik voor mijn tentamen moet studeren.\" berarti \"Saya tidak dapat datang karena saya harus belajar untuk ujian saya.\"."
+        "explanation": "Kalimat \"Ik kan niet komen omdat ik voor mijn tentamen moet studeren.\" (dibaca: Ik kan niet komen omdat ik vo:r meyn tentamen mut studeren.) berarti \"Saya tidak dapat datang karena saya harus belajar untuk ujian saya.\". Kalimat ini menggunakan pola \"Voegwoord + S + O + Rest + Alle Werkwoorden aan het einde\" (Woordvolgorde in de Bijzin (Omdat, Dat, Als)) yang berfungsi untuk struktur klausa bawahan: setelah kata hubung subordinatif (karena, bahwa, jika), seluruh kata kerja berkumpul di akhir klausa."
       },
       {
         "id": "q-nl-gram-16-bb-2",
@@ -7556,24 +7604,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata sambung koordinatif yang menghubungkan dua kalimat utama mandiri tanpa mengubah urutan kata subjek-verba.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)\" (De woordvolgorde na nevenschikkende voegwoorden) berfungsi untuk: kata sambung koordinatif yang menghubungkan dua kalimat utama mandiri tanpa mengubah urutan kata subjek-verba. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed. — Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik."
+          "Rumus utama: Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)",
+          "Contoh 1: De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed. (De theorie is ingewikkeld, ma:r de studenten begreypen de essentie gud.) — Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah konjungsi koordinatif 'want', kalimat tetap berpola kalimat utama normal (Subjek + Kata Kerja).",
         "ruleList": [
-          "Hij studeert geneeskunde en zijn zus volgt een masteropleiding rechten. — Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum."
+          "Polanya: Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)",
+          "Contoh 2: Hij studeert geneeskunde en zijn zus volgt een masteropleiding rechten. (Hey stude:rt gene:skunde en zeyn zus volgt e:n masteropleiding rechten.) — Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wij gaan naar de bibliotheek, want we hebben morgen een belangrijk examen. — Kami pergi ke perpustakaan, sebab kami besok menghadapi ujian penting."
+          "Contoh 3: Wij gaan naar de bibliotheek, want we hebben morgen een belangrijk examen. (Wey ga:n na:r de bibliothe:k, want we hebben morgen e:n belangreyk examen.) — Kami pergi ke perpustakaan, sebab kami besok menghadapi ujian penting.",
+          "Hindari kesalahan: \"want wij hebben morgen examen (inversie fout)\" → gunakan bentuk yang benar: \"want we hebben morgen een belangrijk examen\"."
         ]
       }
     ],
@@ -7581,19 +7632,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-17-ex-1",
         "native": "De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed.",
-        "phonetic": "",
+        "phonetic": "De theorie is ingewikkeld, ma:r de studenten begreypen de essentie gud.",
         "translationId": "Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik."
       },
       {
         "id": "nl-gram-17-ex-2",
         "native": "Hij studeert geneeskunde en zijn zus volgt een masteropleiding rechten.",
-        "phonetic": "",
+        "phonetic": "Hey stude:rt gene:skunde en zeyn zus volgt e:n masteropleiding rechten.",
         "translationId": "Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum."
       },
       {
         "id": "nl-gram-17-ex-3",
         "native": "Wij gaan naar de bibliotheek, want we hebben morgen een belangrijk examen.",
-        "phonetic": "",
+        "phonetic": "Wey ga:n na:r de bibliothe:k, want we hebben morgen e:n belangreyk examen.",
         "translationId": "Kami pergi ke perpustakaan, sebab kami besok menghadapi ujian penting."
       }
     ],
@@ -7609,7 +7660,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)\" (Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-17-pg-1",
@@ -7625,7 +7676,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed.\" berarti \"Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik.\"."
+        "explanation": "Kalimat \"De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed.\" (dibaca: De theorie is ingewikkeld, ma:r de studenten begreypen de essentie gud.) berarti \"Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik.\". Kalimat ini menggunakan pola \"Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)\" (Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)) yang berfungsi untuk kata sambung koordinatif yang menghubungkan dua kalimat utama mandiri tanpa mengubah urutan kata subjek-verba."
       },
       {
         "id": "q-nl-gram-17-pg-2",
@@ -7641,7 +7692,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Program magister di Wageningen lebih besar daripada yang ada di Delft."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Hij studeert geneeskunde en zijn zus volgt een masteropleiding rechten.\" berarti \"Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum.\"."
+        "explanation": "Kalimat \"Hij studeert geneeskunde en zijn zus volgt een masteropleiding rechten.\" (dibaca: Hey stude:rt gene:skunde en zeyn zus volgt e:n masteropleiding rechten.) berarti \"Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum.\". Kalimat ini menggunakan pola \"Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)\" (Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)) yang berfungsi untuk kata sambung koordinatif yang menghubungkan dua kalimat utama mandiri tanpa mengubah urutan kata subjek-verba."
       },
       {
         "id": "q-nl-gram-17-pg-3",
@@ -7657,7 +7708,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wij gaan naar de bibliotheek, want we hebben morgen een belangrijk examen.\" berarti \"Kami pergi ke perpustakaan, sebab kami besok menghadapi ujian penting.\"."
+        "explanation": "Kalimat \"Wij gaan naar de bibliotheek, want we hebben morgen een belangrijk examen.\" (dibaca: Wey ga:n na:r de bibliothe:k, want we hebben morgen e:n belangreyk examen.) berarti \"Kami pergi ke perpustakaan, sebab kami besok menghadapi ujian penting.\". Kalimat ini menggunakan pola \"Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)\" (Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)) yang berfungsi untuk kata sambung koordinatif yang menghubungkan dua kalimat utama mandiri tanpa mengubah urutan kata subjek-verba."
       },
       {
         "id": "q-nl-gram-17-pg-4",
@@ -7677,7 +7728,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-17-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)\"?",
         "options": [
           "Hij studeert geneeskunde en zijn zus volgt een masteropleiding rechten. — Dia berkuliah kedokteran dan saudara perempuannya menempuh program magister hukum.",
           "Heb je nog exemplaren van het proefschrift? Ja, ik heb er nog twee. — Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar.",
@@ -7691,7 +7742,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-17-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)\"?",
         "options": [
           "Er zijn veel internationale studenten aan de universiteit van Groningen. — Terdapat banyak mahasiswa internasional di Universitas Groningen.",
           "Wij gaan naar de bibliotheek, want we hebben morgen een belangrijk examen. — Kami pergi ke perpustakaan, sebab kami besok menghadapi ujian penting.",
@@ -7705,7 +7756,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-17-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -7956,7 +8007,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Terdapat banyak mahasiswa internasional di Universitas Groningen."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed.\" berarti \"Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik.\"."
+        "explanation": "Kalimat \"De theorie is ingewikkeld, maar de studenten begrijpen de essentie goed.\" (dibaca: De theorie is ingewikkeld, ma:r de studenten begreypen de essentie gud.) berarti \"Teori itu memang rumit, tetapi para mahasiswa memahami intisarinya dengan baik.\". Kalimat ini menggunakan pola \"Hoofdzin + en / maar / want / of / dus + Normale Hoofdzin (SVO)\" (Nevenvoegende Voegwoorden (En, Maar, Want, Of, Dus)) yang berfungsi untuk kata sambung koordinatif yang menghubungkan dua kalimat utama mandiri tanpa mengubah urutan kata subjek-verba."
       },
       {
         "id": "q-nl-gram-17-bb-2",
@@ -8031,24 +8082,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menggantikan preposisi + benda mati menggunakan kombinasi 'er' + preposisi (erop, erover, ermee).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)\" (Pronominale bijwoorden ter vervanging van voorzetsel + ding) berfungsi untuk: menggantikan preposisi + benda mati menggunakan kombinasi 'er' + preposisi (erop, erover, ermee). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Wat vind je van dit voorstel? Ik denk er nog even over na. — Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak."
+          "Rumus utama: Er + Voorzetsel (waarin -> waar... in / erover, ermee)",
+          "Contoh 1: Wat vind je van dit voorstel? Ik denk er nog even over na. (Wat vind je van dit vo:rstel? ik denk er nog even over na.) — Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Er + Voorzetsel (waarin -> waar... in / erover, ermee) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Er + Voorzetsel (waarin -> waar... in / erover, ermee)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Preposisi + kata ganti benda (het) wajib digabung menjadi er + preposisi (erover).",
         "ruleList": [
-          "Heb je een pen? Ja, ik kan ermee schrijven. — Apakah kamu punya pena? Ya, saya bisa menulis dengannya."
+          "Polanya: Er + Voorzetsel (waarin -> waar... in / erover, ermee)",
+          "Contoh 2: Heb je een pen? Ja, ik kan ermee schrijven. (Heb je e:n pen? ja, ik kan erme: skhreyven.) — Apakah kamu punya pena? Ya, saya bisa menulis dengannya."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Zij hebben lang gesproken over het nieuwe onderzoeksbeleid en de gevolgen ervan. — Mereka telah berbincang panjang lebar mengenai kebijakan riset baru itu beserta dampak-dampaknya."
+          "Contoh 3: Zij hebben lang gesproken over het nieuwe onderzoeksbeleid en de gevolgen ervan. (Zey hebben lang gesproken over het nieuwe onderzuksbeleid en de gevolgen ervan.) — Mereka telah berbincang panjang lebar mengenai kebijakan riset baru itu beserta dampak-dampaknya.",
+          "Hindari kesalahan: \"ik denk over het\" → gunakan bentuk yang benar: \"ik denk erover na\"."
         ]
       }
     ],
@@ -8056,19 +8110,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-18-ex-1",
         "native": "Wat vind je van dit voorstel? Ik denk er nog even over na.",
-        "phonetic": "",
+        "phonetic": "Wat vind je van dit vo:rstel? ik denk er nog even over na.",
         "translationId": "Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak."
       },
       {
         "id": "nl-gram-18-ex-2",
         "native": "Heb je een pen? Ja, ik kan ermee schrijven.",
-        "phonetic": "",
+        "phonetic": "Heb je e:n pen? ja, ik kan erme: skhreyven.",
         "translationId": "Apakah kamu punya pena? Ya, saya bisa menulis dengannya."
       },
       {
         "id": "nl-gram-18-ex-3",
         "native": "Zij hebben lang gesproken over het nieuwe onderzoeksbeleid en de gevolgen ervan.",
-        "phonetic": "",
+        "phonetic": "Zey hebben lang gesproken over het nieuwe onderzuksbeleid en de gevolgen ervan.",
         "translationId": "Mereka telah berbincang panjang lebar mengenai kebijakan riset baru itu beserta dampak-dampaknya."
       }
     ],
@@ -8084,7 +8138,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)\" (Er + Voorzetsel (waarin -> waar... in / erover, ermee)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-18-pg-1",
@@ -8100,7 +8154,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah laboratorium paling modern di seluruh Eropa Barat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Wat vind je van dit voorstel? Ik denk er nog even over na.\" berarti \"Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak.\"."
+        "explanation": "Kalimat \"Wat vind je van dit voorstel? Ik denk er nog even over na.\" (dibaca: Wat vind je van dit vo:rstel? ik denk er nog even over na.) berarti \"Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak.\". Kalimat ini menggunakan pola \"Er + Voorzetsel (waarin -> waar... in / erover, ermee)\" (Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)) yang berfungsi untuk menggantikan preposisi + benda mati menggunakan kombinasi 'er' + preposisi (erop, erover, ermee)."
       },
       {
         "id": "q-nl-gram-18-pg-2",
@@ -8116,7 +8170,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Heb je een pen? Ja, ik kan ermee schrijven.\" berarti \"Apakah kamu punya pena? Ya, saya bisa menulis dengannya.\"."
+        "explanation": "Kalimat \"Heb je een pen? Ja, ik kan ermee schrijven.\" (dibaca: Heb je e:n pen? ja, ik kan erme: skhreyven.) berarti \"Apakah kamu punya pena? Ya, saya bisa menulis dengannya.\". Kalimat ini menggunakan pola \"Er + Voorzetsel (waarin -> waar... in / erover, ermee)\" (Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)) yang berfungsi untuk menggantikan preposisi + benda mati menggunakan kombinasi 'er' + preposisi (erop, erover, ermee)."
       },
       {
         "id": "q-nl-gram-18-pg-3",
@@ -8132,7 +8186,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka telah berbincang panjang lebar mengenai kebijakan riset baru itu beserta dampak-dampaknya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Zij hebben lang gesproken over het nieuwe onderzoeksbeleid en de gevolgen ervan.\" berarti \"Mereka telah berbincang panjang lebar mengenai kebijakan riset baru itu beserta dampak-dampaknya.\"."
+        "explanation": "Kalimat \"Zij hebben lang gesproken over het nieuwe onderzoeksbeleid en de gevolgen ervan.\" (dibaca: Zey hebben lang gesproken over het nieuwe onderzuksbeleid en de gevolgen ervan.) berarti \"Mereka telah berbincang panjang lebar mengenai kebijakan riset baru itu beserta dampak-dampaknya.\". Kalimat ini menggunakan pola \"Er + Voorzetsel (waarin -> waar... in / erover, ermee)\" (Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)) yang berfungsi untuk menggantikan preposisi + benda mati menggunakan kombinasi 'er' + preposisi (erop, erover, ermee)."
       },
       {
         "id": "q-nl-gram-18-pg-4",
@@ -8152,7 +8206,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-18-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)\"?",
         "options": [
           "Dit is het modernste laboratorium van heel West-Europa. — Ini adalah laboratorium paling modern di seluruh Eropa Barat.",
           "Heb je een pen? Ja, ik kan ermee schrijven. — Apakah kamu punya pena? Ya, saya bisa menulis dengannya.",
@@ -8166,7 +8220,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-18-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)\"?",
         "options": [
           "De masteropleiding in Wageningen is groter dan die in Delft. — Program magister di Wageningen lebih besar daripada yang ada di Delft.",
           "Zij presteert beter dan haar medestudenten dankzij haar discipline. — Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya.",
@@ -8180,7 +8234,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-18-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -8431,7 +8485,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wat vind je van dit voorstel? Ik denk er nog even over na.\" berarti \"Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak.\"."
+        "explanation": "Kalimat \"Wat vind je van dit voorstel? Ik denk er nog even over na.\" (dibaca: Wat vind je van dit vo:rstel? ik denk er nog even over na.) berarti \"Bagaimana pendapatmu mengenai usulan ini? Saya masih memikirkannya sejenak.\". Kalimat ini menggunakan pola \"Er + Voorzetsel (waarin -> waar... in / erover, ermee)\" (Het Voornaamwoordelijk Bijwoord met 'Er' (Er + Voorzetsel)) yang berfungsi untuk menggantikan preposisi + benda mati menggunakan kombinasi 'er' + preposisi (erop, erover, ermee)."
       },
       {
         "id": "q-nl-gram-18-bb-2",
@@ -8506,24 +8560,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Empat fungsi kata 'er': penunjuk lokasi (di sana), subjek semu tak definit, penunjuk kuantitas/angka, dan pronominal.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa ''Er' als Onderwerp, Plaats en Kwantiteit' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"'Er' als Onderwerp, Plaats en Kwantiteit\" (De vier functies van het functiewoord 'er') berfungsi untuk: empat fungsi kata 'er': penunjuk lokasi (di sana), subjek semu tak definit, penunjuk kuantitas/angka, dan pronominal. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Er zijn veel internationale studenten aan de universiteit van Groningen. — Terdapat banyak mahasiswa internasional di Universitas Groningen."
+          "Rumus utama: Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)",
+          "Contoh 1: Er zijn veel internationale studenten aan de universiteit van Groningen. (Er zeyn ve:l internationale studenten a:n de universiteit van groningen.) — Terdapat banyak mahasiswa internasional di Universitas Groningen."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk subjek tak tentu di awal kalimat, gunakan 'er' sebagai subjek pendahulu.",
         "ruleList": [
-          "Heb je nog exemplaren van het proefschrift? Ja, ik heb er nog twee. — Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar."
+          "Polanya: Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)",
+          "Contoh 2: Heb je nog exemplaren van het proefschrift? Ja, ik heb er nog twee. (Heb je nog exemplaren van het prufskhrift? ja, ik heb er nog twe:.) — Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"'Er' als Onderwerp, Plaats en Kwantiteit\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Er werd gisteren intensief gediscussieerd tijdens het colloquium. — Kemarin berlangsung diskusi yang intensif selama kolokium tersebut."
+          "Contoh 3: Er werd gisteren intensief gediscussieerd tijdens het colloquium. (Er werd gisteren intensief gediscussie:rd teydens het colloqöyum.) — Kemarin berlangsung diskusi yang intensif selama kolokium tersebut.",
+          "Hindari kesalahan: \"zijn veel studenten (zonder er)\" → gunakan bentuk yang benar: \"er zijn veel studenten\"."
         ]
       }
     ],
@@ -8531,19 +8588,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-19-ex-1",
         "native": "Er zijn veel internationale studenten aan de universiteit van Groningen.",
-        "phonetic": "",
+        "phonetic": "Er zeyn ve:l internationale studenten a:n de universiteit van groningen.",
         "translationId": "Terdapat banyak mahasiswa internasional di Universitas Groningen."
       },
       {
         "id": "nl-gram-19-ex-2",
         "native": "Heb je nog exemplaren van het proefschrift? Ja, ik heb er nog twee.",
-        "phonetic": "",
+        "phonetic": "Heb je nog exemplaren van het prufskhrift? ja, ik heb er nog twe:.",
         "translationId": "Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar."
       },
       {
         "id": "nl-gram-19-ex-3",
         "native": "Er werd gisteren intensief gediscussieerd tijdens het colloquium.",
-        "phonetic": "",
+        "phonetic": "Er werd gisteren intensief gediscussie:rd teydens het colloqöyum.",
         "translationId": "Kemarin berlangsung diskusi yang intensif selama kolokium tersebut."
       }
     ],
@@ -8559,7 +8616,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur ''Er' als Onderwerp, Plaats en Kwantiteit' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"'Er' als Onderwerp, Plaats en Kwantiteit\" (Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-19-pg-1",
@@ -8575,7 +8632,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para profesor telah berangkat ke Brussel kemarin."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Er zijn veel internationale studenten aan de universiteit van Groningen.\" berarti \"Terdapat banyak mahasiswa internasional di Universitas Groningen.\"."
+        "explanation": "Kalimat \"Er zijn veel internationale studenten aan de universiteit van Groningen.\" (dibaca: Er zeyn ve:l internationale studenten a:n de universiteit van groningen.) berarti \"Terdapat banyak mahasiswa internasional di Universitas Groningen.\". Kalimat ini menggunakan pola \"Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)\" ('Er' als Onderwerp, Plaats en Kwantiteit) yang berfungsi untuk empat fungsi kata 'er': penunjuk lokasi (di sana), subjek semu tak definit, penunjuk kuantitas/angka, dan pronominal."
       },
       {
         "id": "q-nl-gram-19-pg-2",
@@ -8591,7 +8648,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Heb je nog exemplaren van het proefschrift? Ja, ik heb er nog twee.\" berarti \"Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar.\"."
+        "explanation": "Kalimat \"Heb je nog exemplaren van het proefschrift? Ja, ik heb er nog twee.\" (dibaca: Heb je nog exemplaren van het prufskhrift? ja, ik heb er nog twe:.) berarti \"Apakah Anda masih punya salinan disertasi itu? Ya, saya masih punya dua eksemplar.\". Kalimat ini menggunakan pola \"Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)\" ('Er' als Onderwerp, Plaats en Kwantiteit) yang berfungsi untuk empat fungsi kata 'er': penunjuk lokasi (di sana), subjek semu tak definit, penunjuk kuantitas/angka, dan pronominal."
       },
       {
         "id": "q-nl-gram-19-pg-3",
@@ -8607,7 +8664,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para peneliti menemukan sebuah mekanisme biologis baru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Er werd gisteren intensief gediscussieerd tijdens het colloquium.\" berarti \"Kemarin berlangsung diskusi yang intensif selama kolokium tersebut.\"."
+        "explanation": "Kalimat \"Er werd gisteren intensief gediscussieerd tijdens het colloquium.\" (dibaca: Er werd gisteren intensief gediscussie:rd teydens het colloqöyum.) berarti \"Kemarin berlangsung diskusi yang intensif selama kolokium tersebut.\". Kalimat ini menggunakan pola \"Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)\" ('Er' als Onderwerp, Plaats en Kwantiteit) yang berfungsi untuk empat fungsi kata 'er': penunjuk lokasi (di sana), subjek semu tak definit, penunjuk kuantitas/angka, dan pronominal."
       },
       {
         "id": "q-nl-gram-19-pg-4",
@@ -8627,7 +8684,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-19-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"'Er' als Onderwerp, Plaats en Kwantiteit\"?",
         "options": [
           "De professoren zijn gisteren naar Brussel vertrokken. — Para profesor telah berangkat ke Brussel kemarin.",
           "De professor werkte vroeger aan de universiteit van Utrecht. — Profesor itu dulunya bekerja di Universitas Utrecht.",
@@ -8641,7 +8698,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-19-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"'Er' als Onderwerp, Plaats en Kwantiteit\"?",
         "options": [
           "De student heeft het tentamen met succes afgerond. — Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses.",
           "Wij hebben de hele avond aan het onderzoeksrapport gewerkt. — Kami telah bekerja sepanjang malam mengerjakan laporan penelitian itu.",
@@ -8655,7 +8712,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-19-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"'Er' als Onderwerp, Plaats en Kwantiteit\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -8904,7 +8961,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu telah menyelesaikan ujian tersebut dengan sukses."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Er zijn veel internationale studenten aan de universiteit van Groningen.\" berarti \"Terdapat banyak mahasiswa internasional di Universitas Groningen.\"."
+        "explanation": "Kalimat \"Er zijn veel internationale studenten aan de universiteit van Groningen.\" (dibaca: Er zeyn ve:l internationale studenten a:n de universiteit van groningen.) berarti \"Terdapat banyak mahasiswa internasional di Universitas Groningen.\". Kalimat ini menggunakan pola \"Er (Plaats / Onbepaald Onderwerp / Kwantiteit / Voornaamwoordelijk)\" ('Er' als Onderwerp, Plaats en Kwantiteit) yang berfungsi untuk empat fungsi kata 'er': penunjuk lokasi (di sana), subjek semu tak definit, penunjuk kuantitas/angka, dan pronominal."
       },
       {
         "id": "q-nl-gram-19-bb-2",
@@ -8979,24 +9036,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Tingkat komparatif (lebih... daripada) menggunakan dan (bukan als), dan tingkat superlatif paling unggul.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Vergelijkende en Overtreffende Trap (Groter dan / Grootst)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Vergelijkende en Overtreffende Trap (Groter dan / Grootst)\" (De trappen van vergelijking bij adjectieven en adverbia) berfungsi untuk: tingkat komparatif (lebih... daripada) menggunakan dan (bukan als), dan tingkat superlatif paling unggul. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De masteropleiding in Wageningen is groter dan die in Delft. — Program magister di Wageningen lebih besar daripada yang ada di Delft."
+          "Rumus utama: Adjectief + -er dan / Het + Adjectief + -st",
+          "Contoh 1: De masteropleiding in Wageningen is groter dan die in Delft. (De masteropleiding in wageningen is groter dan die in delft.) — Program magister di Wageningen lebih besar daripada yang ada di Delft."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Adjectief + -er dan / Het + Adjectief + -st menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Adjectief + -er dan / Het + Adjectief + -st\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk perbandingan tingkat lebih (komparatif), gunakan kata hubung 'dan' diikuti subjek (dan ik).",
         "ruleList": [
-          "Dit is het modernste laboratorium van heel West-Europa. — Ini adalah laboratorium paling modern di seluruh Eropa Barat."
+          "Polanya: Adjectief + -er dan / Het + Adjectief + -st",
+          "Contoh 2: Dit is het modernste laboratorium van heel West-Europa. (Dit is het modernste laboratorium van he:l west-europa.) — Ini adalah laboratorium paling modern di seluruh Eropa Barat."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Vergelijkende en Overtreffende Trap (Groter dan / Grootst)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Zij presteert beter dan haar medestudenten dankzij haar discipline. — Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya."
+          "Contoh 3: Zij presteert beter dan haar medestudenten dankzij haar discipline. (Zey preste:rt beter dan ha:r medestudenten dankzey ha:r discipline.) — Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya.",
+          "Hindari kesalahan: \"beter als mij\" → gunakan bentuk yang benar: \"beter dan ik\"."
         ]
       }
     ],
@@ -9004,19 +9064,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-20-ex-1",
         "native": "De masteropleiding in Wageningen is groter dan die in Delft.",
-        "phonetic": "",
+        "phonetic": "De masteropleiding in wageningen is groter dan die in delft.",
         "translationId": "Program magister di Wageningen lebih besar daripada yang ada di Delft."
       },
       {
         "id": "nl-gram-20-ex-2",
         "native": "Dit is het modernste laboratorium van heel West-Europa.",
-        "phonetic": "",
+        "phonetic": "Dit is het modernste laboratorium van he:l west-europa.",
         "translationId": "Ini adalah laboratorium paling modern di seluruh Eropa Barat."
       },
       {
         "id": "nl-gram-20-ex-3",
         "native": "Zij presteert beter dan haar medestudenten dankzij haar discipline.",
-        "phonetic": "",
+        "phonetic": "Zey preste:rt beter dan ha:r medestudenten dankzey ha:r discipline.",
         "translationId": "Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya."
       }
     ],
@@ -9032,7 +9092,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Vergelijkende en Overtreffende Trap (Groter dan / Grootst)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Vergelijkende en Overtreffende Trap (Groter dan / Grootst)\" (Adjectief + -er dan / Het + Adjectief + -st) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-20-pg-1",
@@ -9048,7 +9108,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Program magister di Wageningen lebih besar daripada yang ada di Delft."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De masteropleiding in Wageningen is groter dan die in Delft.\" berarti \"Program magister di Wageningen lebih besar daripada yang ada di Delft.\"."
+        "explanation": "Kalimat \"De masteropleiding in Wageningen is groter dan die in Delft.\" (dibaca: De masteropleiding in wageningen is groter dan die in delft.) berarti \"Program magister di Wageningen lebih besar daripada yang ada di Delft.\". Kalimat ini menggunakan pola \"Adjectief + -er dan / Het + Adjectief + -st\" (Vergelijkende en Overtreffende Trap (Groter dan / Grootst)) yang berfungsi untuk tingkat komparatif (lebih... daripada) menggunakan dan (bukan als), dan tingkat superlatif paling unggul."
       },
       {
         "id": "q-nl-gram-20-pg-2",
@@ -9064,7 +9124,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Dit is het modernste laboratorium van heel West-Europa.\" berarti \"Ini adalah laboratorium paling modern di seluruh Eropa Barat.\"."
+        "explanation": "Kalimat \"Dit is het modernste laboratorium van heel West-Europa.\" (dibaca: Dit is het modernste laboratorium van he:l west-europa.) berarti \"Ini adalah laboratorium paling modern di seluruh Eropa Barat.\". Kalimat ini menggunakan pola \"Adjectief + -er dan / Het + Adjectief + -st\" (Vergelijkende en Overtreffende Trap (Groter dan / Grootst)) yang berfungsi untuk tingkat komparatif (lebih... daripada) menggunakan dan (bukan als), dan tingkat superlatif paling unggul."
       },
       {
         "id": "q-nl-gram-20-pg-3",
@@ -9080,7 +9140,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Rektor berbicara pada acara pembukaan tahun akademik yang meriah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Zij presteert beter dan haar medestudenten dankzij haar discipline.\" berarti \"Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya.\"."
+        "explanation": "Kalimat \"Zij presteert beter dan haar medestudenten dankzij haar discipline.\" (dibaca: Zey preste:rt beter dan ha:r medestudenten dankzey ha:r discipline.) berarti \"Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya.\". Kalimat ini menggunakan pola \"Adjectief + -er dan / Het + Adjectief + -st\" (Vergelijkende en Overtreffende Trap (Groter dan / Grootst)) yang berfungsi untuk tingkat komparatif (lebih... daripada) menggunakan dan (bukan als), dan tingkat superlatif paling unggul."
       },
       {
         "id": "q-nl-gram-20-pg-4",
@@ -9100,7 +9160,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-20-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vergelijkende en Overtreffende Trap (Groter dan / Grootst)\"?",
         "options": [
           "Zij studeerden hard voor het toelatingsexamen van de faculteit. — Mereka dulu belajar keras untuk menghadapi ujian masuk fakultas.",
           "De student schreef een uitstekend essay over de Europese integratie. — Mahasiswa itu menulis sebuah esai yang sangat bagus tentang integrasi Eropa.",
@@ -9114,7 +9174,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-20-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vergelijkende en Overtreffende Trap (Groter dan / Grootst)\"?",
         "options": [
           "Zij presteert beter dan haar medestudenten dankzij haar discipline. — Dia berprestasi lebih baik daripada rekan-rekan mahasiswanya berkat kedisiplinannya.",
           "De professor werkte vroeger aan de universiteit van Utrecht. — Profesor itu dulunya bekerja di Universitas Utrecht.",
@@ -9128,7 +9188,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-20-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vergelijkende en Overtreffende Trap (Groter dan / Grootst)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -9375,7 +9435,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Profesor itu dulunya bekerja di Universitas Utrecht."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De masteropleiding in Wageningen is groter dan die in Delft.\" berarti \"Program magister di Wageningen lebih besar daripada yang ada di Delft.\"."
+        "explanation": "Kalimat \"De masteropleiding in Wageningen is groter dan die in Delft.\" (dibaca: De masteropleiding in wageningen is groter dan die in delft.) berarti \"Program magister di Wageningen lebih besar daripada yang ada di Delft.\". Kalimat ini menggunakan pola \"Adjectief + -er dan / Het + Adjectief + -st\" (Vergelijkende en Overtreffende Trap (Groter dan / Grootst)) yang berfungsi untuk tingkat komparatif (lebih... daripada) menggunakan dan (bukan als), dan tingkat superlatif paling unggul."
       },
       {
         "id": "q-nl-gram-20-bb-2",
@@ -9450,24 +9510,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengekspresikan masa depan dengan zullen (komitmen formal, ramalan) dan gaan (niat pasti, rencana terdekat).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'De Toekomende Tijd met Zullen en Gaan' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"De Toekomende Tijd met Zullen en Gaan\" (De toekomende tijd: het verschil tussen 'zullen' en 'gaan') berfungsi untuk: mengekspresikan masa depan dengan zullen (komitmen formal, ramalan) dan gaan (niat pasti, rencana terdekat). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Wij zullen de resultaten van het onderzoek volgende maand publiceren. — Kami akan memublikasikan hasil penelitian tersebut pada bulan depan."
+          "Rumus utama: Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)",
+          "Contoh 1: Wij zullen de resultaten van het onderzoek volgende maand publiceren. (Wey zullen de resultaten van het onderzuk volgende ma:nd publiceren.) — Kami akan memublikasikan hasil penelitian tersebut pada bulan depan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk rencana konkret yang segera dilakukan, gunakan kata kerja bantu 'gaan'.",
         "ruleList": [
-          "Ik ga vanmiddag met mijn scriptiebegeleider over het onderzoeksontwerp praten. — Siang ini saya akan berbicara dengan dosen pembimbing skripsi saya mengenai rancangan penelitian."
+          "Polanya: Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)",
+          "Contoh 2: Ik ga vanmiddag met mijn scriptiebegeleider over het onderzoeksontwerp praten. (Ik ga vanmiddag met meyn scriptiebegeleider over het onderzuksontwerp praten.) — Siang ini saya akan berbicara dengan dosen pembimbing skripsi saya mengenai rancangan penelitian."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"De Toekomende Tijd met Zullen en Gaan\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De minister zal binnenkort een verklaring afleggen over het hoger onderwijs. — Menteri akan segera menyampaikan pernyataan resmi mengenai pendidikan tinggi."
+          "Contoh 3: De minister zal binnenkort een verklaring afleggen over het hoger onderwijs. (De minister zal binnenkort e:n verklaring afleggen over het hoger onderweys.) — Menteri akan segera menyampaikan pernyataan resmi mengenai pendidikan tinggi.",
+          "Hindari kesalahan: \"ik zal vanmiddag praten (als intentie)\" → gunakan bentuk yang benar: \"ik ga vanmiddag praten\"."
         ]
       }
     ],
@@ -9475,19 +9538,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-21-ex-1",
         "native": "Wij zullen de resultaten van het onderzoek volgende maand publiceren.",
-        "phonetic": "",
+        "phonetic": "Wey zullen de resultaten van het onderzuk volgende ma:nd publiceren.",
         "translationId": "Kami akan memublikasikan hasil penelitian tersebut pada bulan depan."
       },
       {
         "id": "nl-gram-21-ex-2",
         "native": "Ik ga vanmiddag met mijn scriptiebegeleider over het onderzoeksontwerp praten.",
-        "phonetic": "",
+        "phonetic": "Ik ga vanmiddag met meyn scriptiebegeleider over het onderzuksontwerp praten.",
         "translationId": "Siang ini saya akan berbicara dengan dosen pembimbing skripsi saya mengenai rancangan penelitian."
       },
       {
         "id": "nl-gram-21-ex-3",
         "native": "De minister zal binnenkort een verklaring afleggen over het hoger onderwijs.",
-        "phonetic": "",
+        "phonetic": "De minister zal binnenkort e:n verklaring afleggen over het hoger onderweys.",
         "translationId": "Menteri akan segera menyampaikan pernyataan resmi mengenai pendidikan tinggi."
       }
     ],
@@ -9503,7 +9566,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'De Toekomende Tijd met Zullen en Gaan' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"De Toekomende Tijd met Zullen en Gaan\" (Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-21-pg-1",
@@ -9519,7 +9582,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Sudikah Anda memberikan penjelasan lebih lanjut kepada saya mengenai rumus yang rumit ini?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Wij zullen de resultaten van het onderzoek volgende maand publiceren.\" berarti \"Kami akan memublikasikan hasil penelitian tersebut pada bulan depan.\"."
+        "explanation": "Kalimat \"Wij zullen de resultaten van het onderzoek volgende maand publiceren.\" (dibaca: Wey zullen de resultaten van het onderzuk volgende ma:nd publiceren.) berarti \"Kami akan memublikasikan hasil penelitian tersebut pada bulan depan.\". Kalimat ini menggunakan pola \"Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)\" (De Toekomende Tijd met Zullen en Gaan) yang berfungsi untuk mengekspresikan masa depan dengan zullen (komitmen formal, ramalan) dan gaan (niat pasti, rencana terdekat)."
       },
       {
         "id": "q-nl-gram-21-pg-2",
@@ -9535,7 +9598,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ik ga vanmiddag met mijn scriptiebegeleider over het onderzoeksontwerp praten.\" berarti \"Siang ini saya akan berbicara dengan dosen pembimbing skripsi saya mengenai rancangan penelitian.\"."
+        "explanation": "Kalimat \"Ik ga vanmiddag met mijn scriptiebegeleider over het onderzoeksontwerp praten.\" (dibaca: Ik ga vanmiddag met meyn scriptiebegeleider over het onderzuksontwerp praten.) berarti \"Siang ini saya akan berbicara dengan dosen pembimbing skripsi saya mengenai rancangan penelitian.\". Kalimat ini menggunakan pola \"Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)\" (De Toekomende Tijd met Zullen en Gaan) yang berfungsi untuk mengekspresikan masa depan dengan zullen (komitmen formal, ramalan) dan gaan (niat pasti, rencana terdekat)."
       },
       {
         "id": "q-nl-gram-21-pg-3",
@@ -9551,7 +9614,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De minister zal binnenkort een verklaring afleggen over het hoger onderwijs.\" berarti \"Menteri akan segera menyampaikan pernyataan resmi mengenai pendidikan tinggi.\"."
+        "explanation": "Kalimat \"De minister zal binnenkort een verklaring afleggen over het hoger onderwijs.\" (dibaca: De minister zal binnenkort e:n verklaring afleggen over het hoger onderweys.) berarti \"Menteri akan segera menyampaikan pernyataan resmi mengenai pendidikan tinggi.\". Kalimat ini menggunakan pola \"Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)\" (De Toekomende Tijd met Zullen en Gaan) yang berfungsi untuk mengekspresikan masa depan dengan zullen (komitmen formal, ramalan) dan gaan (niat pasti, rencana terdekat)."
       },
       {
         "id": "q-nl-gram-21-pg-4",
@@ -9571,7 +9634,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-21-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Toekomende Tijd met Zullen en Gaan\"?",
         "options": [
           "Ik ga vanmiddag met mijn scriptiebegeleider over het onderzoeksontwerp praten. — Siang ini saya akan berbicara dengan dosen pembimbing skripsi saya mengenai rancangan penelitian.",
           "Zou u mij nadere toelichting kunnen geven op deze ingewikkelde formule? — Sudikah Anda memberikan penjelasan lebih lanjut kepada saya mengenai rumus yang rumit ini?",
@@ -9585,7 +9648,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-21-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Toekomende Tijd met Zullen en Gaan\"?",
         "options": [
           "Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen. — Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan.",
           "De minister zal binnenkort een verklaring afleggen over het hoger onderwijs. — Menteri akan segera menyampaikan pernyataan resmi mengenai pendidikan tinggi.",
@@ -9599,7 +9662,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-21-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Toekomende Tijd met Zullen en Gaan\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -9846,7 +9909,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Wij zullen de resultaten van het onderzoek volgende maand publiceren.\" berarti \"Kami akan memublikasikan hasil penelitian tersebut pada bulan depan.\"."
+        "explanation": "Kalimat \"Wij zullen de resultaten van het onderzoek volgende maand publiceren.\" (dibaca: Wey zullen de resultaten van het onderzuk volgende ma:nd publiceren.) berarti \"Kami akan memublikasikan hasil penelitian tersebut pada bulan depan.\". Kalimat ini menggunakan pola \"Zullen (Belofte/Formeel/Onzeker) vs Gaan (Plan/Vaste intentie)\" (De Toekomende Tijd met Zullen en Gaan) yang berfungsi untuk mengekspresikan masa depan dengan zullen (komitmen formal, ramalan) dan gaan (niat pasti, rencana terdekat)."
       },
       {
         "id": "q-nl-gram-21-bb-2",
@@ -9921,24 +9984,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kalimat pasif dinamis menggunakan worden untuk tindakan yang berlangsung, dan zijn untuk kondisi hasil akhir.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Passieve Vorm (Lijdende Vorm) met Worden & Zijn' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Passieve Vorm (Lijdende Vorm) met Worden & Zijn\" (De passieve constructie in het Nederlands) berfungsi untuk: kalimat pasif dinamis menggunakan worden untuk tindakan yang berlangsung, dan zijn untuk kondisi hasil akhir. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team. — Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional."
+          "Rumus utama: Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)",
+          "Contoh 1: Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team. (Het wetenskhappeleyk onderzuk wordt öytgevurd do:r e:n internationa:l team.) — Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Untuk proses pasif yang sedang berlangsung pada waktu kini, gunakan kata kerja bantu 'worden'.",
         "ruleList": [
-          "De rapporten werden gisteren door de commissie zorgvuldig geanalyseerd. — Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin."
+          "Polanya: Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)",
+          "Contoh 2: De rapporten werden gisteren door de commissie zorgvuldig geanalyseerd. (De rapporten werden gisteren do:r de commissie zorgvuldig geanalyse:rd.) — Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Passieve Vorm (Lijdende Vorm) met Worden & Zijn\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De nieuwe universiteitsbibliotheek is vorig jaar feestelijk geopend. — Perpustakaan universitas yang baru telah dibuka secara resmi tahun lalu."
+          "Contoh 3: De nieuwe universiteitsbibliotheek is vorig jaar feestelijk geopend. (De nieuwe universiteitsbibliothe:k is vorig ja:r fe:steleyk geopend.) — Perpustakaan universitas yang baru telah dibuka secara resmi tahun lalu.",
+          "Hindari kesalahan: \"het onderzoek is uitgevoerd nu\" → gunakan bentuk yang benar: \"het onderzoek wordt uitgevoerd\"."
         ]
       }
     ],
@@ -9946,19 +10012,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-22-ex-1",
         "native": "Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team.",
-        "phonetic": "",
+        "phonetic": "Het wetenskhappeleyk onderzuk wordt öytgevurd do:r e:n internationa:l team.",
         "translationId": "Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional."
       },
       {
         "id": "nl-gram-22-ex-2",
         "native": "De rapporten werden gisteren door de commissie zorgvuldig geanalyseerd.",
-        "phonetic": "",
+        "phonetic": "De rapporten werden gisteren do:r de commissie zorgvuldig geanalyse:rd.",
         "translationId": "Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin."
       },
       {
         "id": "nl-gram-22-ex-3",
         "native": "De nieuwe universiteitsbibliotheek is vorig jaar feestelijk geopend.",
-        "phonetic": "",
+        "phonetic": "De nieuwe universiteitsbibliothe:k is vorig ja:r fe:steleyk geopend.",
         "translationId": "Perpustakaan universitas yang baru telah dibuka secara resmi tahun lalu."
       }
     ],
@@ -9974,7 +10040,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Passieve Vorm (Lijdende Vorm) met Worden & Zijn' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Passieve Vorm (Lijdende Vorm) met Worden & Zijn\" (Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-22-pg-1",
@@ -9990,7 +10056,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para peneliti melakukan upaya untuk mengisolasi molekul tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team.\" berarti \"Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional.\"."
+        "explanation": "Kalimat \"Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team.\" (dibaca: Het wetenskhappeleyk onderzuk wordt öytgevurd do:r e:n internationa:l team.) berarti \"Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional.\". Kalimat ini menggunakan pola \"Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)\" (Passieve Vorm (Lijdende Vorm) met Worden & Zijn) yang berfungsi untuk kalimat pasif dinamis menggunakan worden untuk tindakan yang berlangsung, dan zijn untuk kondisi hasil akhir."
       },
       {
         "id": "q-nl-gram-22-pg-2",
@@ -10006,7 +10072,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De rapporten werden gisteren door de commissie zorgvuldig geanalyseerd.\" berarti \"Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin.\"."
+        "explanation": "Kalimat \"De rapporten werden gisteren door de commissie zorgvuldig geanalyseerd.\" (dibaca: De rapporten werden gisteren do:r de commissie zorgvuldig geanalyse:rd.) berarti \"Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin.\". Kalimat ini menggunakan pola \"Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)\" (Passieve Vorm (Lijdende Vorm) met Worden & Zijn) yang berfungsi untuk kalimat pasif dinamis menggunakan worden untuk tindakan yang berlangsung, dan zijn untuk kondisi hasil akhir."
       },
       {
         "id": "q-nl-gram-22-pg-3",
@@ -10022,7 +10088,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan universitas yang baru telah dibuka secara resmi tahun lalu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De nieuwe universiteitsbibliotheek is vorig jaar feestelijk geopend.\" berarti \"Perpustakaan universitas yang baru telah dibuka secara resmi tahun lalu.\"."
+        "explanation": "Kalimat \"De nieuwe universiteitsbibliotheek is vorig jaar feestelijk geopend.\" (dibaca: De nieuwe universiteitsbibliothe:k is vorig ja:r fe:steleyk geopend.) berarti \"Perpustakaan universitas yang baru telah dibuka secara resmi tahun lalu.\". Kalimat ini menggunakan pola \"Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)\" (Passieve Vorm (Lijdende Vorm) met Worden & Zijn) yang berfungsi untuk kalimat pasif dinamis menggunakan worden untuk tindakan yang berlangsung, dan zijn untuk kondisi hasil akhir."
       },
       {
         "id": "q-nl-gram-22-pg-4",
@@ -10042,7 +10108,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-22-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Passieve Vorm (Lijdende Vorm) met Worden & Zijn\"?",
         "options": [
           "De onderzoekers deden een poging om het molecuul te isoleren. — Para peneliti melakukan upaya untuk mengisolasi molekul tersebut.",
           "De rapporten werden gisteren door de commissie zorgvuldig geanalyseerd. — Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin.",
@@ -10056,7 +10122,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-22-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Passieve Vorm (Lijdende Vorm) met Worden & Zijn\"?",
         "options": [
           "Het is essentieel om alle bronnen zorgvuldig te verifiëren. — Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat.",
           "Zij heeft besloten om na haar masterstudie te promoveren in Utrecht. — Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister.",
@@ -10070,7 +10136,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-22-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Passieve Vorm (Lijdende Vorm) met Worden & Zijn\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -10317,7 +10383,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team.\" berarti \"Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional.\"."
+        "explanation": "Kalimat \"Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team.\" (dibaca: Het wetenskhappeleyk onderzuk wordt öytgevurd do:r e:n internationa:l team.) berarti \"Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional.\". Kalimat ini menggunakan pola \"Worden (Actie/Proces in O.T.T. & O.V.T.) vs Zijn (Voltooid/Resultaat)\" (Passieve Vorm (Lijdende Vorm) met Worden & Zijn) yang berfungsi untuk kalimat pasif dinamis menggunakan worden untuk tindakan yang berlangsung, dan zijn untuk kondisi hasil akhir."
       },
       {
         "id": "q-nl-gram-22-bb-2",
@@ -10392,24 +10458,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Klausa relatif penerang menggunakan die untuk de-woorden dan jamak, dat untuk het-woorden, dan waar+preposisi untuk benda.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)\" (Relatieve bijzinnen met betrekkelijke voornaamwoorden) berfungsi untuk: klausa relatif penerang menggunakan die untuk de-woorden dan jamak, dat untuk het-woorden, dan waar+preposisi untuk benda. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht. — Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional."
+          "Rumus utama: Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel",
+          "Contoh 1: Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht. (Het onderzuksartikel dat vorige we:k verskhe:n, trok ve:l internationale a:ndacht.) — Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Karena 'het artikel' adalah het-woord tunggal, kata ganti penghubungnya wajib 'dat'.",
         "ruleList": [
-          "De hoogleraar die de Nobelprijs won, geeft morgen een erecollege. — Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok."
+          "Polanya: Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel",
+          "Contoh 2: De hoogleraar die de Nobelprijs won, geeft morgen een erecollege. (De ho:glera:r die de nobelpreys won, ge:ft morgen e:n erecollege.) — Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De theorie waarop dit model is gebaseerd, blijkt buitengewoon solide. — Teori yang menjadi landasan model ini terbukti sangat kokoh."
+          "Contoh 3: De theorie waarop dit model is gebaseerd, blijkt buitengewoon solide. (De theorie wa:rop dit model is gebase:rd, bleykt böytengewo:n solide.) — Teori yang menjadi landasan model ini terbukti sangat kokoh.",
+          "Hindari kesalahan: \"het artikel die verscheen\" → gunakan bentuk yang benar: \"het artikel dat verscheen\"."
         ]
       }
     ],
@@ -10417,19 +10486,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-23-ex-1",
         "native": "Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht.",
-        "phonetic": "",
+        "phonetic": "Het onderzuksartikel dat vorige we:k verskhe:n, trok ve:l internationale a:ndacht.",
         "translationId": "Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional."
       },
       {
         "id": "nl-gram-23-ex-2",
         "native": "De hoogleraar die de Nobelprijs won, geeft morgen een erecollege.",
-        "phonetic": "",
+        "phonetic": "De ho:glera:r die de nobelpreys won, ge:ft morgen e:n erecollege.",
         "translationId": "Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok."
       },
       {
         "id": "nl-gram-23-ex-3",
         "native": "De theorie waarop dit model is gebaseerd, blijkt buitengewoon solide.",
-        "phonetic": "",
+        "phonetic": "De theorie wa:rop dit model is gebase:rd, bleykt böytengewo:n solide.",
         "translationId": "Teori yang menjadi landasan model ini terbukti sangat kokoh."
       }
     ],
@@ -10445,7 +10514,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)\" (Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-23-pg-1",
@@ -10461,7 +10530,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht.\" berarti \"Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional.\"."
+        "explanation": "Kalimat \"Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht.\" (dibaca: Het onderzuksartikel dat vorige we:k verskhe:n, trok ve:l internationale a:ndacht.) berarti \"Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional.\". Kalimat ini menggunakan pola \"Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel\" (Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)) yang berfungsi untuk klausa relatif penerang menggunakan die untuk de-woorden dan jamak, dat untuk het-woorden, dan waar+preposisi untuk benda."
       },
       {
         "id": "q-nl-gram-23-pg-2",
@@ -10477,7 +10546,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De hoogleraar die de Nobelprijs won, geeft morgen een erecollege.\" berarti \"Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok.\"."
+        "explanation": "Kalimat \"De hoogleraar die de Nobelprijs won, geeft morgen een erecollege.\" (dibaca: De ho:glera:r die de nobelpreys won, ge:ft morgen e:n erecollege.) berarti \"Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok.\". Kalimat ini menggunakan pola \"Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel\" (Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)) yang berfungsi untuk klausa relatif penerang menggunakan die untuk de-woorden dan jamak, dat untuk het-woorden, dan waar+preposisi untuk benda."
       },
       {
         "id": "q-nl-gram-23-pg-3",
@@ -10493,7 +10562,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu keliru dalam menafsirkan tabel statistik tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De theorie waarop dit model is gebaseerd, blijkt buitengewoon solide.\" berarti \"Teori yang menjadi landasan model ini terbukti sangat kokoh.\"."
+        "explanation": "Kalimat \"De theorie waarop dit model is gebaseerd, blijkt buitengewoon solide.\" (dibaca: De theorie wa:rop dit model is gebase:rd, bleykt böytengewo:n solide.) berarti \"Teori yang menjadi landasan model ini terbukti sangat kokoh.\". Kalimat ini menggunakan pola \"Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel\" (Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)) yang berfungsi untuk klausa relatif penerang menggunakan die untuk de-woorden dan jamak, dat untuk het-woorden, dan waar+preposisi untuk benda."
       },
       {
         "id": "q-nl-gram-23-pg-4",
@@ -10513,7 +10582,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-23-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)\"?",
         "options": [
           "Terwijl de experimenten werden uitgevoerd, analyseerde het team de literatuur. — Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait.",
           "De wetenschappers realiseerden zich dat de theorie herzien moest worden. — Para ilmuwan menyadari bahwa teori tersebut harus direvisi.",
@@ -10527,7 +10596,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-23-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)\"?",
         "options": [
           "Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant. — Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik.",
           "Nadat de data waren verzameld, startte de kwalitatieve analyse. — Setelah data terkumpul, analisis kualitatif pun dimulai.",
@@ -10541,7 +10610,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-23-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -10788,7 +10857,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht.\" berarti \"Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional.\"."
+        "explanation": "Kalimat \"Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht.\" (dibaca: Het onderzuksartikel dat vorige we:k verskhe:n, trok ve:l internationale a:ndacht.) berarti \"Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional.\". Kalimat ini menggunakan pola \"Die (de-woorden/pluraal) & Dat (het-woorden) & Waar + Voorzetsel\" (Betrekkelijke Bijzinnen (Die / Dat / Waarin / Waarop)) yang berfungsi untuk klausa relatif penerang menggunakan die untuk de-woorden dan jamak, dat untuk het-woorden, dan waar+preposisi untuk benda."
       },
       {
         "id": "q-nl-gram-23-bb-2",
@@ -10863,24 +10932,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan pengandaian hipotetis, kesantunan tingkat tinggi dalam bertanya, dan usulan akademik bersyarat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)\" (De voorwaardelijke wijs met 'zouden' en beleefdheidsvormen) berfungsi untuk: menyatakan pengandaian hipotetis, kesantunan tingkat tinggi dalam bertanya, dan usulan akademik bersyarat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen. — Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan."
+          "Rumus utama: Als + O.V.T. -> Zou(den) + Infinitief",
+          "Contoh 1: Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen. (Als we me:r budget hadden, zouden we extra promovendi kunnen a:nstellen.) — Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Als + O.V.T. -> Zou(den) + Infinitief menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Als + O.V.T. -> Zou(den) + Infinitief\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam kalimat utama pengandaian hipotetis, gunakan konstruksi 'zou(den) + infinitief'.",
         "ruleList": [
-          "Zou u mij nadere toelichting kunnen geven op deze ingewikkelde formule? — Sudikah Anda memberikan penjelasan lebih lanjut kepada saya mengenai rumus yang rumit ini?"
+          "Polanya: Als + O.V.T. -> Zou(den) + Infinitief",
+          "Contoh 2: Zou u mij nadere toelichting kunnen geven op deze ingewikkelde formule? (Zou u mey nadere tulichting kunnen geven op deze ingewikkelde formule?) — Sudikah Anda memberikan penjelasan lebih lanjut kepada saya mengenai rumus yang rumit ini?"
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Ik zou graag een afspraak willen maken met de decaan van de faculteit. — Saya ingin membuat janji pertemuan dengan dekan fakultas."
+          "Contoh 3: Ik zou graag een afspraak willen maken met de decaan van de faculteit. (Ik zou gra:g e:n afspra:k willen maken met de deca:n van de faculteit.) — Saya ingin membuat janji pertemuan dengan dekan fakultas.",
+          "Hindari kesalahan: \"als ik had tijd, ik zal komen\" → gunakan bentuk yang benar: \"als ik tijd had, zou ik komen\"."
         ]
       }
     ],
@@ -10888,19 +10960,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-24-ex-1",
         "native": "Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen.",
-        "phonetic": "",
+        "phonetic": "Als we me:r budget hadden, zouden we extra promovendi kunnen a:nstellen.",
         "translationId": "Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan."
       },
       {
         "id": "nl-gram-24-ex-2",
         "native": "Zou u mij nadere toelichting kunnen geven op deze ingewikkelde formule?",
-        "phonetic": "",
+        "phonetic": "Zou u mey nadere tulichting kunnen geven op deze ingewikkelde formule?",
         "translationId": "Sudikah Anda memberikan penjelasan lebih lanjut kepada saya mengenai rumus yang rumit ini?"
       },
       {
         "id": "nl-gram-24-ex-3",
         "native": "Ik zou graag een afspraak willen maken met de decaan van de faculteit.",
-        "phonetic": "",
+        "phonetic": "Ik zou gra:g e:n afspra:k willen maken met de deca:n van de faculteit.",
         "translationId": "Saya ingin membuat janji pertemuan dengan dekan fakultas."
       }
     ],
@@ -10916,7 +10988,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)\" (Als + O.V.T. -> Zou(den) + Infinitief) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-24-pg-1",
@@ -10932,7 +11004,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen.\" berarti \"Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan.\"."
+        "explanation": "Kalimat \"Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen.\" (dibaca: Als we me:r budget hadden, zouden we extra promovendi kunnen a:nstellen.) berarti \"Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan.\". Kalimat ini menggunakan pola \"Als + O.V.T. -> Zou(den) + Infinitief\" (Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)) yang berfungsi untuk menyatakan pengandaian hipotetis, kesantunan tingkat tinggi dalam bertanya, dan usulan akademik bersyarat."
       },
       {
         "id": "q-nl-gram-24-pg-2",
@@ -10948,7 +11020,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Zou u mij nadere toelichting kunnen geven op deze ingewikkelde formule?\" berarti \"Sudikah Anda memberikan penjelasan lebih lanjut kepada saya mengenai rumus yang rumit ini?\"."
+        "explanation": "Kalimat \"Zou u mij nadere toelichting kunnen geven op deze ingewikkelde formule?\" (dibaca: Zou u mey nadere tulichting kunnen geven op deze ingewikkelde formule?) berarti \"Sudikah Anda memberikan penjelasan lebih lanjut kepada saya mengenai rumus yang rumit ini?\". Kalimat ini menggunakan pola \"Als + O.V.T. -> Zou(den) + Infinitief\" (Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)) yang berfungsi untuk menyatakan pengandaian hipotetis, kesantunan tingkat tinggi dalam bertanya, dan usulan akademik bersyarat."
       },
       {
         "id": "q-nl-gram-24-pg-3",
@@ -10964,7 +11036,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dari laporan tersebut terungkap bahwa tingkat kepuasan mahasiswa telah meningkat pesat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ik zou graag een afspraak willen maken met de decaan van de faculteit.\" berarti \"Saya ingin membuat janji pertemuan dengan dekan fakultas.\"."
+        "explanation": "Kalimat \"Ik zou graag een afspraak willen maken met de decaan van de faculteit.\" (dibaca: Ik zou gra:g e:n afspra:k willen maken met de deca:n van de faculteit.) berarti \"Saya ingin membuat janji pertemuan dengan dekan fakultas.\". Kalimat ini menggunakan pola \"Als + O.V.T. -> Zou(den) + Infinitief\" (Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)) yang berfungsi untuk menyatakan pengandaian hipotetis, kesantunan tingkat tinggi dalam bertanya, dan usulan akademik bersyarat."
       },
       {
         "id": "q-nl-gram-24-pg-4",
@@ -10984,7 +11056,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-24-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)\"?",
         "options": [
           "Wij verheugen ons op de komst van de buitenlandse gastdocenten. — Kami sangat menantikan kedatangan para dosen tamu dari luar negeri.",
           "De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek. — Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar.",
@@ -10998,7 +11070,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-24-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)\"?",
         "options": [
           "Ik zou graag een afspraak willen maken met de decaan van de faculteit. — Saya ingin membuat janji pertemuan dengan dekan fakultas.",
           "De wetenschappers realiseerden zich dat de theorie herzien moest worden. — Para ilmuwan menyadari bahwa teori tersebut harus direvisi.",
@@ -11012,7 +11084,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-24-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -11261,7 +11333,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para ilmuwan menyadari bahwa teori tersebut harus direvisi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen.\" berarti \"Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan.\"."
+        "explanation": "Kalimat \"Als we meer budget hadden, zouden we extra promovendi kunnen aanstellen.\" (dibaca: Als we me:r budget hadden, zouden we extra promovendi kunnen a:nstellen.) berarti \"Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan.\". Kalimat ini menggunakan pola \"Als + O.V.T. -> Zou(den) + Infinitief\" (Conditionele Zinnen: Zouden + Infinitief (Hypothese & Beleefdheid)) yang berfungsi untuk menyatakan pengandaian hipotetis, kesantunan tingkat tinggi dalam bertanya, dan usulan akademik bersyarat."
       },
       {
         "id": "q-nl-gram-24-bb-2",
@@ -11336,24 +11408,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konstruksi infinitif untuk menyatakan tujuan tindakan atau melengkapi verba tertentu (proberen, besluiten, weigeren).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Infinitiefconstructies met Om ... Te' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Infinitiefconstructies met Om ... Te\" (Beknopte bijzinnen met 'om ... te' en vaste werkwoordspatronen) berfungsi untuk: konstruksi infinitif untuk menyatakan tujuan tindakan atau melengkapi verba tertentu (proberen, besluiten, weigeren). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Het is essentieel om alle bronnen zorgvuldig te verifiëren. — Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat."
+          "Rumus utama: Om + (Object/Bepaling) + Te + Infinitief",
+          "Contoh 1: Het is essentieel om alle bronnen zorgvuldig te verifiëren. (Het is essentie:l om alle bronnen zorgvuldig te verifiëren.) — Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Om + (Object/Bepaling) + Te + Infinitief menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Om + (Object/Bepaling) + Te + Infinitief\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata 'te' selalu berada tepat di depan kata kerja infinitif di akhir klausa.",
         "ruleList": [
-          "De onderzoekers deden een poging om het molecuul te isoleren. — Para peneliti melakukan upaya untuk mengisolasi molekul tersebut."
+          "Polanya: Om + (Object/Bepaling) + Te + Infinitief",
+          "Contoh 2: De onderzoekers deden een poging om het molecuul te isoleren. (De onderzukers deden e:n poging om het molecü:l te isoleren.) — Para peneliti melakukan upaya untuk mengisolasi molekul tersebut."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Infinitiefconstructies met Om ... Te\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Zij heeft besloten om na haar masterstudie te promoveren in Utrecht. — Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister."
+          "Contoh 3: Zij heeft besloten om na haar masterstudie te promoveren in Utrecht. (Zey he:ft besloten om na ha:r masterstudie te promoveren in utrecht.) — Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister.",
+          "Hindari kesalahan: \"om verifiëren alle bronnen\" → gunakan bentuk yang benar: \"om alle bronnen zorgvuldig te verifiëren\"."
         ]
       }
     ],
@@ -11361,19 +11436,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-25-ex-1",
         "native": "Het is essentieel om alle bronnen zorgvuldig te verifiëren.",
-        "phonetic": "",
+        "phonetic": "Het is essentie:l om alle bronnen zorgvuldig te verifiëren.",
         "translationId": "Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat."
       },
       {
         "id": "nl-gram-25-ex-2",
         "native": "De onderzoekers deden een poging om het molecuul te isoleren.",
-        "phonetic": "",
+        "phonetic": "De onderzukers deden e:n poging om het molecü:l te isoleren.",
         "translationId": "Para peneliti melakukan upaya untuk mengisolasi molekul tersebut."
       },
       {
         "id": "nl-gram-25-ex-3",
         "native": "Zij heeft besloten om na haar masterstudie te promoveren in Utrecht.",
-        "phonetic": "",
+        "phonetic": "Zey he:ft besloten om na ha:r masterstudie te promoveren in utrecht.",
         "translationId": "Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister."
       }
     ],
@@ -11389,7 +11464,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Infinitiefconstructies met Om ... Te' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Infinitiefconstructies met Om ... Te\" (Om + (Object/Bepaling) + Te + Infinitief) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-25-pg-1",
@@ -11405,7 +11480,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Para penulis berargumen bahwa pendekatan lintas disiplin ilmu sangatlah diperlukan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Het is essentieel om alle bronnen zorgvuldig te verifiëren.\" berarti \"Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat.\"."
+        "explanation": "Kalimat \"Het is essentieel om alle bronnen zorgvuldig te verifiëren.\" (dibaca: Het is essentie:l om alle bronnen zorgvuldig te verifiëren.) berarti \"Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat.\". Kalimat ini menggunakan pola \"Om + (Object/Bepaling) + Te + Infinitief\" (Infinitiefconstructies met Om ... Te) yang berfungsi untuk konstruksi infinitif untuk menyatakan tujuan tindakan atau melengkapi verba tertentu (proberen, besluiten, weigeren)."
       },
       {
         "id": "q-nl-gram-25-pg-2",
@@ -11421,7 +11496,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De onderzoekers deden een poging om het molecuul te isoleren.\" berarti \"Para peneliti melakukan upaya untuk mengisolasi molekul tersebut.\"."
+        "explanation": "Kalimat \"De onderzoekers deden een poging om het molecuul te isoleren.\" (dibaca: De onderzukers deden e:n poging om het molecü:l te isoleren.) berarti \"Para peneliti melakukan upaya untuk mengisolasi molekul tersebut.\". Kalimat ini menggunakan pola \"Om + (Object/Bepaling) + Te + Infinitief\" (Infinitiefconstructies met Om ... Te) yang berfungsi untuk konstruksi infinitif untuk menyatakan tujuan tindakan atau melengkapi verba tertentu (proberen, besluiten, weigeren)."
       },
       {
         "id": "q-nl-gram-25-pg-3",
@@ -11437,7 +11512,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Zij heeft besloten om na haar masterstudie te promoveren in Utrecht.\" berarti \"Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister.\"."
+        "explanation": "Kalimat \"Zij heeft besloten om na haar masterstudie te promoveren in Utrecht.\" (dibaca: Zey he:ft besloten om na ha:r masterstudie te promoveren in utrecht.) berarti \"Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister.\". Kalimat ini menggunakan pola \"Om + (Object/Bepaling) + Te + Infinitief\" (Infinitiefconstructies met Om ... Te) yang berfungsi untuk konstruksi infinitif untuk menyatakan tujuan tindakan atau melengkapi verba tertentu (proberen, besluiten, weigeren)."
       },
       {
         "id": "q-nl-gram-25-pg-4",
@@ -11457,7 +11532,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-25-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Infinitiefconstructies met Om ... Te\"?",
         "options": [
           "De onderzoekers deden een poging om het molecuul te isoleren. — Para peneliti melakukan upaya untuk mengisolasi molekul tersebut.",
           "De auteurs betogen dat een interdisciplinaire benadering noodzakelijk is. — Para penulis berargumen bahwa pendekatan lintas disiplin ilmu sangatlah diperlukan.",
@@ -11471,7 +11546,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-25-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Infinitiefconstructies met Om ... Te\"?",
         "options": [
           "De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek. — Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar.",
           "Zij heeft besloten om na haar masterstudie te promoveren in Utrecht. — Dia telah memutuskan untuk menempuh studi doktoral di Utrecht setelah lulus magister.",
@@ -11485,7 +11560,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-25-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Infinitiefconstructies met Om ... Te\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -11732,7 +11807,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het is essentieel om alle bronnen zorgvuldig te verifiëren.\" berarti \"Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat.\"."
+        "explanation": "Kalimat \"Het is essentieel om alle bronnen zorgvuldig te verifiëren.\" (dibaca: Het is essentie:l om alle bronnen zorgvuldig te verifiëren.) berarti \"Sangatlah penting untuk memverifikasi seluruh sumber pustaka dengan cermat.\". Kalimat ini menggunakan pola \"Om + (Object/Bepaling) + Te + Infinitief\" (Infinitiefconstructies met Om ... Te) yang berfungsi untuk konstruksi infinitif untuk menyatakan tujuan tindakan atau melengkapi verba tertentu (proberen, besluiten, weigeren)."
       },
       {
         "id": "q-nl-gram-25-bb-2",
@@ -11807,24 +11882,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan klausul temporal dan konsesi perlawanan argumen dalam penulisan ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)\" (Complexe voegwoorden in academische teksten) berfungsi untuk: menghubungkan klausul temporal dan konsesi perlawanan argumen dalam penulisan ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant. — Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik."
+          "Rumus utama: Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)",
+          "Contoh 1: Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant. (Huwel de ste:kpruf relatief klein was, zeyn de resultaten statistiskh significant.) — Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah konjungsi subordinatif 'hoewel', berlaku urutan anak kalimat (kata kerja di akhir).",
         "ruleList": [
-          "Terwijl de experimenten werden uitgevoerd, analyseerde het team de literatuur. — Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait."
+          "Polanya: Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)",
+          "Contoh 2: Terwijl de experimenten werden uitgevoerd, analyseerde het team de literatuur. (Terweyl de experimenten werden öytgevurd, analyse:rde het team de literatü:r.) — Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Nadat de data waren verzameld, startte de kwalitatieve analyse. — Setelah data terkumpul, analisis kualitatif pun dimulai."
+          "Contoh 3: Nadat de data waren verzameld, startte de kwalitatieve analyse. (Nadat de data waren verzameld, startte de kwalitatieve analyse.) — Setelah data terkumpul, analisis kualitatif pun dimulai.",
+          "Hindari kesalahan: \"hoewel de steekproef was klein\" → gunakan bentuk yang benar: \"hoewel de steekproef klein was\"."
         ]
       }
     ],
@@ -11832,19 +11910,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-26-ex-1",
         "native": "Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant.",
-        "phonetic": "",
+        "phonetic": "Huwel de ste:kpruf relatief klein was, zeyn de resultaten statistiskh significant.",
         "translationId": "Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik."
       },
       {
         "id": "nl-gram-26-ex-2",
         "native": "Terwijl de experimenten werden uitgevoerd, analyseerde het team de literatuur.",
-        "phonetic": "",
+        "phonetic": "Terweyl de experimenten werden öytgevurd, analyse:rde het team de literatü:r.",
         "translationId": "Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait."
       },
       {
         "id": "nl-gram-26-ex-3",
         "native": "Nadat de data waren verzameld, startte de kwalitatieve analyse.",
-        "phonetic": "",
+        "phonetic": "Nadat de data waren verzameld, startte de kwalitatieve analyse.",
         "translationId": "Setelah data terkumpul, analisis kualitatif pun dimulai."
       }
     ],
@@ -11860,7 +11938,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)\" (Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-26-pg-1",
@@ -11876,7 +11954,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant.\" berarti \"Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik.\"."
+        "explanation": "Kalimat \"Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant.\" (dibaca: Huwel de ste:kpruf relatief klein was, zeyn de resultaten statistiskh significant.) berarti \"Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik.\". Kalimat ini menggunakan pola \"Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)\" (Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)) yang berfungsi untuk menghubungkan klausul temporal dan konsesi perlawanan argumen dalam penulisan ilmiah."
       },
       {
         "id": "q-nl-gram-26-pg-2",
@@ -11892,7 +11970,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Terwijl de experimenten werden uitgevoerd, analyseerde het team de literatuur.\" berarti \"Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait.\"."
+        "explanation": "Kalimat \"Terwijl de experimenten werden uitgevoerd, analyseerde het team de literatuur.\" (dibaca: Terweyl de experimenten werden öytgevurd, analyse:rde het team de literatü:r.) berarti \"Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait.\". Kalimat ini menggunakan pola \"Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)\" (Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)) yang berfungsi untuk menghubungkan klausul temporal dan konsesi perlawanan argumen dalam penulisan ilmiah."
       },
       {
         "id": "q-nl-gram-26-pg-3",
@@ -11908,7 +11986,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Setelah data terkumpul, analisis kualitatif pun dimulai."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Nadat de data waren verzameld, startte de kwalitatieve analyse.\" berarti \"Setelah data terkumpul, analisis kualitatif pun dimulai.\"."
+        "explanation": "Kalimat \"Nadat de data waren verzameld, startte de kwalitatieve analyse.\" (dibaca: Nadat de data waren verzameld, startte de kwalitatieve analyse.) berarti \"Setelah data terkumpul, analisis kualitatif pun dimulai.\". Kalimat ini menggunakan pola \"Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)\" (Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)) yang berfungsi untuk menghubungkan klausul temporal dan konsesi perlawanan argumen dalam penulisan ilmiah."
       },
       {
         "id": "q-nl-gram-26-pg-4",
@@ -11928,7 +12006,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-26-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)\"?",
         "options": [
           "Deze methodologische tekortkoming kan leiden tot vertekende onderzoeksresultaten. — Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias.",
           "Terwijl de experimenten werden uitgevoerd, analyseerde het team de literatuur. — Sementara eksperimen-eksperimen sedang dijalankan, tim menganalisis literatur terkait.",
@@ -11942,7 +12020,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-26-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)\"?",
         "options": [
           "Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie. — Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi.",
           "De kandidaat voldoet aan alle formele toelatingseisen van de graduate school. — Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana.",
@@ -11956,7 +12034,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-26-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -12203,7 +12281,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant.\" berarti \"Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik.\"."
+        "explanation": "Kalimat \"Hoewel de steekproef relatief klein was, zijn de resultaten statistisch significant.\" (dibaca: Huwel de ste:kpruf relatief klein was, zeyn de resultaten statistiskh significant.) berarti \"Meskipun ukuran sampel relatif kecil, hasil penelitiannya signifikan secara statistik.\". Kalimat ini menggunakan pola \"Hoewel / Terwijl / Voordat / Nadat + Bijzinvolgorde (SOV)\" (Voegwoorden van Tijd en Tegenstelling (Hoewel, Terwijl)) yang berfungsi untuk menghubungkan klausul temporal dan konsesi perlawanan argumen dalam penulisan ilmiah."
       },
       {
         "id": "q-nl-gram-26-bb-2",
@@ -12278,24 +12356,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata kerja refleksif sejati (zich herinneren, zich schamen) dan transitif yang berbalik ke diri pelaku.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)\" (Wederkerende werkwoorden met verplichte reflexieve voornaamwoorden) berfungsi untuk: kata kerja refleksif sejati (zich herinneren, zich schamen) dan transitif yang berbalik ke diri pelaku. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De wetenschappers realiseerden zich dat de theorie herzien moest worden. — Para ilmuwan menyadari bahwa teori tersebut harus direvisi."
+          "Rumus utama: Zich (Zichzelf) + Werkwoord + Vast Voorzetsel",
+          "Contoh 1: De wetenschappers realiseerden zich dat de theorie herzien moest worden. (De wetenskhappers realise:rden zich dat de theorie herzien must worden.) — Para ilmuwan menyadari bahwa teori tersebut harus direvisi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Zich (Zichzelf) + Werkwoord + Vast Voorzetsel menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Zich (Zichzelf) + Werkwoord + Vast Voorzetsel\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata kerja 'zich herinneren' wajib menyertakan kata ganti refleksif (zich).",
         "ruleList": [
-          "Wij verheugen ons op de komst van de buitenlandse gastdocenten. — Kami sangat menantikan kedatangan para dosen tamu dari luar negeri."
+          "Polanya: Zich (Zichzelf) + Werkwoord + Vast Voorzetsel",
+          "Contoh 2: Wij verheugen ons op de komst van de buitenlandse gastdocenten. (Wey verheugen ons op de komst van de böytenlandse gastdocenten.) — Kami sangat menantikan kedatangan para dosen tamu dari luar negeri."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De student vergiste zich in de interpretatie van de statistische tabel. — Mahasiswa itu keliru dalam menafsirkan tabel statistik tersebut."
+          "Contoh 3: De student vergiste zich in de interpretatie van de statistische tabel. (De student vergiste zich in de interpretatie van de statistiskhe tabel.) — Mahasiswa itu keliru dalam menafsirkan tabel statistik tersebut.",
+          "Hindari kesalahan: \"hij herinnert de theorie\" → gunakan bentuk yang benar: \"hij herinnert zich de theorie\"."
         ]
       }
     ],
@@ -12303,19 +12384,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-27-ex-1",
         "native": "De wetenschappers realiseerden zich dat de theorie herzien moest worden.",
-        "phonetic": "",
+        "phonetic": "De wetenskhappers realise:rden zich dat de theorie herzien must worden.",
         "translationId": "Para ilmuwan menyadari bahwa teori tersebut harus direvisi."
       },
       {
         "id": "nl-gram-27-ex-2",
         "native": "Wij verheugen ons op de komst van de buitenlandse gastdocenten.",
-        "phonetic": "",
+        "phonetic": "Wey verheugen ons op de komst van de böytenlandse gastdocenten.",
         "translationId": "Kami sangat menantikan kedatangan para dosen tamu dari luar negeri."
       },
       {
         "id": "nl-gram-27-ex-3",
         "native": "De student vergiste zich in de interpretatie van de statistische tabel.",
-        "phonetic": "",
+        "phonetic": "De student vergiste zich in de interpretatie van de statistiskhe tabel.",
         "translationId": "Mahasiswa itu keliru dalam menafsirkan tabel statistik tersebut."
       }
     ],
@@ -12331,7 +12412,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)\" (Zich (Zichzelf) + Werkwoord + Vast Voorzetsel) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-27-pg-1",
@@ -12347,7 +12428,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De wetenschappers realiseerden zich dat de theorie herzien moest worden.\" berarti \"Para ilmuwan menyadari bahwa teori tersebut harus direvisi.\"."
+        "explanation": "Kalimat \"De wetenschappers realiseerden zich dat de theorie herzien moest worden.\" (dibaca: De wetenskhappers realise:rden zich dat de theorie herzien must worden.) berarti \"Para ilmuwan menyadari bahwa teori tersebut harus direvisi.\". Kalimat ini menggunakan pola \"Zich (Zichzelf) + Werkwoord + Vast Voorzetsel\" (Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)) yang berfungsi untuk kata kerja refleksif sejati (zich herinneren, zich schamen) dan transitif yang berbalik ke diri pelaku."
       },
       {
         "id": "q-nl-gram-27-pg-2",
@@ -12363,7 +12444,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami sangat menantikan kedatangan para dosen tamu dari luar negeri."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wij verheugen ons op de komst van de buitenlandse gastdocenten.\" berarti \"Kami sangat menantikan kedatangan para dosen tamu dari luar negeri.\"."
+        "explanation": "Kalimat \"Wij verheugen ons op de komst van de buitenlandse gastdocenten.\" (dibaca: Wey verheugen ons op de komst van de böytenlandse gastdocenten.) berarti \"Kami sangat menantikan kedatangan para dosen tamu dari luar negeri.\". Kalimat ini menggunakan pola \"Zich (Zichzelf) + Werkwoord + Vast Voorzetsel\" (Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)) yang berfungsi untuk kata kerja refleksif sejati (zich herinneren, zich schamen) dan transitif yang berbalik ke diri pelaku."
       },
       {
         "id": "q-nl-gram-27-pg-3",
@@ -12379,7 +12460,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Menteri akan segera menyampaikan pernyataan resmi mengenai pendidikan tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De student vergiste zich in de interpretatie van de statistische tabel.\" berarti \"Mahasiswa itu keliru dalam menafsirkan tabel statistik tersebut.\"."
+        "explanation": "Kalimat \"De student vergiste zich in de interpretatie van de statistische tabel.\" (dibaca: De student vergiste zich in de interpretatie van de statistiskhe tabel.) berarti \"Mahasiswa itu keliru dalam menafsirkan tabel statistik tersebut.\". Kalimat ini menggunakan pola \"Zich (Zichzelf) + Werkwoord + Vast Voorzetsel\" (Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)) yang berfungsi untuk kata kerja refleksif sejati (zich herinneren, zich schamen) dan transitif yang berbalik ke diri pelaku."
       },
       {
         "id": "q-nl-gram-27-pg-4",
@@ -12399,7 +12480,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-27-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)\"?",
         "options": [
           "De studentenvertegenwoordiger nam deel aan de faculteitsraad. — Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas.",
           "Wij zullen de resultaten van het onderzoek volgende maand publiceren. — Kami akan memublikasikan hasil penelitian tersebut pada bulan depan.",
@@ -12413,7 +12494,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-27-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)\"?",
         "options": [
           "Het promotieonderzoek vereist een gedegen methodologische verantwoording. — Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang.",
           "Kwaliteitsbewaking is een cruciaal onderdeel van wetenschappelijk werk. — Penjaminan mutu adalah bagian krusial dari karya keilmuan.",
@@ -12427,7 +12508,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-27-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -12674,7 +12755,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De wetenschappers realiseerden zich dat de theorie herzien moest worden.\" berarti \"Para ilmuwan menyadari bahwa teori tersebut harus direvisi.\"."
+        "explanation": "Kalimat \"De wetenschappers realiseerden zich dat de theorie herzien moest worden.\" (dibaca: De wetenskhappers realise:rden zich dat de theorie herzien must worden.) berarti \"Para ilmuwan menyadari bahwa teori tersebut harus direvisi.\". Kalimat ini menggunakan pola \"Zich (Zichzelf) + Werkwoord + Vast Voorzetsel\" (Reflexieve Werkwoorden (Zich herinneren, Zich vergissen)) yang berfungsi untuk kata kerja refleksif sejati (zich herinneren, zich schamen) dan transitif yang berbalik ke diri pelaku."
       },
       {
         "id": "q-nl-gram-27-bb-2",
@@ -12749,24 +12830,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Melaporkan pernyataan peneliti lain secara objektif dalam tinjauan pustaka dan laporan seminar.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Indirecte Rede en Verslaglegging in Academische Teksten' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Indirecte Rede en Verslaglegging in Academische Teksten\" (Het weergeven van uitspraken en meningen in indirecte rede) berfungsi untuk: melaporkan pernyataan peneliti lain secara objektif dalam tinjauan pustaka dan laporan seminar. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek. — Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar."
+          "Rumus utama: Verba van Zeggen/Vinden + Dat + Bijzin",
+          "Contoh 1: De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek. (De rector verkla:rde dat de universiteit bleyft investeren in fundamente:l onderzuk.) — Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Verba van Zeggen/Vinden + Dat + Bijzin menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verba van Zeggen/Vinden + Dat + Bijzin\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan klausa tidak langsung dengan konjungsi 'dat' untuk pelaporan akademik.",
         "ruleList": [
-          "De auteurs betogen dat een interdisciplinaire benadering noodzakelijk is. — Para penulis berargumen bahwa pendekatan lintas disiplin ilmu sangatlah diperlukan."
+          "Polanya: Verba van Zeggen/Vinden + Dat + Bijzin",
+          "Contoh 2: De auteurs betogen dat een interdisciplinaire benadering noodzakelijk is. (De auteurs betogen dat e:n interdisciplinaire benadering no:dzakeleyk is.) — Para penulis berargumen bahwa pendekatan lintas disiplin ilmu sangatlah diperlukan."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Indirecte Rede en Verslaglegging in Academische Teksten\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Uit het rapport bleek dat de studenttevredenheid aanzienlijk was toegenomen. — Dari laporan tersebut terungkap bahwa tingkat kepuasan mahasiswa telah meningkat pesat."
+          "Contoh 3: Uit het rapport bleek dat de studenttevredenheid aanzienlijk was toegenomen. (Öyt het rapport ble:k dat de studenttevredenheid a:nzienleyk was tugenomen.) — Dari laporan tersebut terungkap bahwa tingkat kepuasan mahasiswa telah meningkat pesat.",
+          "Hindari kesalahan: \"de rector zei: de universiteit blijft\" → gunakan bentuk yang benar: \"de rector verklaarde dat de universiteit blijft\"."
         ]
       }
     ],
@@ -12774,19 +12858,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-28-ex-1",
         "native": "De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek.",
-        "phonetic": "",
+        "phonetic": "De rector verkla:rde dat de universiteit bleyft investeren in fundamente:l onderzuk.",
         "translationId": "Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar."
       },
       {
         "id": "nl-gram-28-ex-2",
         "native": "De auteurs betogen dat een interdisciplinaire benadering noodzakelijk is.",
-        "phonetic": "",
+        "phonetic": "De auteurs betogen dat e:n interdisciplinaire benadering no:dzakeleyk is.",
         "translationId": "Para penulis berargumen bahwa pendekatan lintas disiplin ilmu sangatlah diperlukan."
       },
       {
         "id": "nl-gram-28-ex-3",
         "native": "Uit het rapport bleek dat de studenttevredenheid aanzienlijk was toegenomen.",
-        "phonetic": "",
+        "phonetic": "Öyt het rapport ble:k dat de studenttevredenheid a:nzienleyk was tugenomen.",
         "translationId": "Dari laporan tersebut terungkap bahwa tingkat kepuasan mahasiswa telah meningkat pesat."
       }
     ],
@@ -12802,7 +12886,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Indirecte Rede en Verslaglegging in Academische Teksten' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Indirecte Rede en Verslaglegging in Academische Teksten\" (Verba van Zeggen/Vinden + Dat + Bijzin) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-28-pg-1",
@@ -12818,7 +12902,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek.\" berarti \"Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar.\"."
+        "explanation": "Kalimat \"De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek.\" (dibaca: De rector verkla:rde dat de universiteit bleyft investeren in fundamente:l onderzuk.) berarti \"Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar.\". Kalimat ini menggunakan pola \"Verba van Zeggen/Vinden + Dat + Bijzin\" (Indirecte Rede en Verslaglegging in Academische Teksten) yang berfungsi untuk melaporkan pernyataan peneliti lain secara objektif dalam tinjauan pustaka dan laporan seminar."
       },
       {
         "id": "q-nl-gram-28-pg-2",
@@ -12834,7 +12918,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De auteurs betogen dat een interdisciplinaire benadering noodzakelijk is.\" berarti \"Para penulis berargumen bahwa pendekatan lintas disiplin ilmu sangatlah diperlukan.\"."
+        "explanation": "Kalimat \"De auteurs betogen dat een interdisciplinaire benadering noodzakelijk is.\" (dibaca: De auteurs betogen dat e:n interdisciplinaire benadering no:dzakeleyk is.) berarti \"Para penulis berargumen bahwa pendekatan lintas disiplin ilmu sangatlah diperlukan.\". Kalimat ini menggunakan pola \"Verba van Zeggen/Vinden + Dat + Bijzin\" (Indirecte Rede en Verslaglegging in Academische Teksten) yang berfungsi untuk melaporkan pernyataan peneliti lain secara objektif dalam tinjauan pustaka dan laporan seminar."
       },
       {
         "id": "q-nl-gram-28-pg-3",
@@ -12850,7 +12934,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Perpustakaan universitas yang baru telah dibuka secara resmi tahun lalu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Uit het rapport bleek dat de studenttevredenheid aanzienlijk was toegenomen.\" berarti \"Dari laporan tersebut terungkap bahwa tingkat kepuasan mahasiswa telah meningkat pesat.\"."
+        "explanation": "Kalimat \"Uit het rapport bleek dat de studenttevredenheid aanzienlijk was toegenomen.\" (dibaca: Öyt het rapport ble:k dat de studenttevredenheid a:nzienleyk was tugenomen.) berarti \"Dari laporan tersebut terungkap bahwa tingkat kepuasan mahasiswa telah meningkat pesat.\". Kalimat ini menggunakan pola \"Verba van Zeggen/Vinden + Dat + Bijzin\" (Indirecte Rede en Verslaglegging in Academische Teksten) yang berfungsi untuk melaporkan pernyataan peneliti lain secara objektif dalam tinjauan pustaka dan laporan seminar."
       },
       {
         "id": "q-nl-gram-28-pg-4",
@@ -12870,7 +12954,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-28-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Indirecte Rede en Verslaglegging in Academische Teksten\"?",
         "options": [
           "Ik ga vanmiddag met mijn scriptiebegeleider over het onderzoeksontwerp praten. — Siang ini saya akan berbicara dengan dosen pembimbing skripsi saya mengenai rancangan penelitian.",
           "Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team. — Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional.",
@@ -12884,7 +12968,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-28-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Indirecte Rede en Verslaglegging in Academische Teksten\"?",
         "options": [
           "Uit het rapport bleek dat de studenttevredenheid aanzienlijk was toegenomen. — Dari laporan tersebut terungkap bahwa tingkat kepuasan mahasiswa telah meningkat pesat.",
           "Wij zullen de resultaten van het onderzoek volgende maand publiceren. — Kami akan memublikasikan hasil penelitian tersebut pada bulan depan.",
@@ -12898,7 +12982,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-28-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Indirecte Rede en Verslaglegging in Academische Teksten\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -13145,7 +13229,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami akan memublikasikan hasil penelitian tersebut pada bulan depan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek.\" berarti \"Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar.\"."
+        "explanation": "Kalimat \"De rector verklaarde dat de universiteit blijft investeren in fundamenteel onderzoek.\" (dibaca: De rector verkla:rde dat de universiteit bleyft investeren in fundamente:l onderzuk.) berarti \"Rektor menyatakan bahwa universitas terus berinvestasi dalam riset dasar.\". Kalimat ini menggunakan pola \"Verba van Zeggen/Vinden + Dat + Bijzin\" (Indirecte Rede en Verslaglegging in Academische Teksten) yang berfungsi untuk melaporkan pernyataan peneliti lain secara objektif dalam tinjauan pustaka dan laporan seminar."
       },
       {
         "id": "q-nl-gram-28-bb-2",
@@ -13220,24 +13304,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menguasai kolokasi preposisi wajib yang melekat pada kata kerja tertentu dalam bahasa Belanda formal.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)\" (Werkwoorden met vaste preposities en hun idiomatiek) berfungsi untuk: menguasai kolokasi preposisi wajib yang melekat pada kata kerja tertentu dalam bahasa Belanda formal. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie. — Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi."
+          "Rumus utama: Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)",
+          "Contoh 1: Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie. (Het onderzuk richt zich op de socia:leconomiskhe gevolgen van de energietransitie.) — Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Preposisi tetap yang melekat pada kata kerja twijfelen (meragukan) adalah 'aan'.",
         "ruleList": [
-          "Deze methodologische tekortkoming kan leiden tot vertekende onderzoeksresultaten. — Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias."
+          "Polanya: Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)",
+          "Contoh 2: Deze methodologische tekortkoming kan leiden tot vertekende onderzoeksresultaten. (Deze methodologiskhe tekortkoming kan leiden tot vertekende onderzuksresultaten.) — Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De kandidaat voldoet aan alle formele toelatingseisen van de graduate school. — Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana."
+          "Contoh 3: De kandidaat voldoet aan alle formele toelatingseisen van de graduate school. (De kandida:t voldut a:n alle formele tulatingseisen van de graduate skho:l.) — Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana.",
+          "Hindari kesalahan: \"twijfelen over\" → gunakan bentuk yang benar: \"twijfelen aan\"."
         ]
       }
     ],
@@ -13245,19 +13332,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-29-ex-1",
         "native": "Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie.",
-        "phonetic": "",
+        "phonetic": "Het onderzuk richt zich op de socia:leconomiskhe gevolgen van de energietransitie.",
         "translationId": "Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi."
       },
       {
         "id": "nl-gram-29-ex-2",
         "native": "Deze methodologische tekortkoming kan leiden tot vertekende onderzoeksresultaten.",
-        "phonetic": "",
+        "phonetic": "Deze methodologiskhe tekortkoming kan leiden tot vertekende onderzuksresultaten.",
         "translationId": "Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias."
       },
       {
         "id": "nl-gram-29-ex-3",
         "native": "De kandidaat voldoet aan alle formele toelatingseisen van de graduate school.",
-        "phonetic": "",
+        "phonetic": "De kandida:t voldut a:n alle formele tulatingseisen van de graduate skho:l.",
         "translationId": "Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana."
       }
     ],
@@ -13273,7 +13360,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)\" (Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-29-pg-1",
@@ -13289,7 +13376,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie.\" berarti \"Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi.\"."
+        "explanation": "Kalimat \"Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie.\" (dibaca: Het onderzuk richt zich op de socia:leconomiskhe gevolgen van de energietransitie.) berarti \"Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi.\". Kalimat ini menggunakan pola \"Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)\" (Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)) yang berfungsi untuk menguasai kolokasi preposisi wajib yang melekat pada kata kerja tertentu dalam bahasa Belanda formal."
       },
       {
         "id": "q-nl-gram-29-pg-2",
@@ -13305,7 +13392,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Deze methodologische tekortkoming kan leiden tot vertekende onderzoeksresultaten.\" berarti \"Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias.\"."
+        "explanation": "Kalimat \"Deze methodologische tekortkoming kan leiden tot vertekende onderzoeksresultaten.\" (dibaca: Deze methodologiskhe tekortkoming kan leiden tot vertekende onderzuksresultaten.) berarti \"Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias.\". Kalimat ini menggunakan pola \"Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)\" (Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)) yang berfungsi untuk menguasai kolokasi preposisi wajib yang melekat pada kata kerja tertentu dalam bahasa Belanda formal."
       },
       {
         "id": "q-nl-gram-29-pg-3",
@@ -13321,7 +13408,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Teori yang menjadi landasan model ini terbukti sangat kokoh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De kandidaat voldoet aan alle formele toelatingseisen van de graduate school.\" berarti \"Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana.\"."
+        "explanation": "Kalimat \"De kandidaat voldoet aan alle formele toelatingseisen van de graduate school.\" (dibaca: De kandida:t voldut a:n alle formele tulatingseisen van de graduate skho:l.) berarti \"Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana.\". Kalimat ini menggunakan pola \"Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)\" (Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)) yang berfungsi untuk menguasai kolokasi preposisi wajib yang melekat pada kata kerja tertentu dalam bahasa Belanda formal."
       },
       {
         "id": "q-nl-gram-29-pg-4",
@@ -13341,7 +13428,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-29-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)\"?",
         "options": [
           "Deze methodologische tekortkoming kan leiden tot vertekende onderzoeksresultaten. — Kekurangan metodologis ini dapat mengakibatkan hasil penelitian yang bias.",
           "De rapporten werden gisteren door de commissie zorgvuldig geanalyseerd. — Laporan-laporan itu telah dianalisis secara cermat oleh komisi kemarin.",
@@ -13355,7 +13442,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-29-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)\"?",
         "options": [
           "Het wetenschappelijk onderzoek wordt uitgevoerd door een internationaal team. — Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional.",
           "De kandidaat voldoet aan alle formele toelatingseisen van de graduate school. — Kandidat tersebut memenuhi seluruh persyaratan penerimaan formal sekolah pascasarjana.",
@@ -13369,7 +13456,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-29-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -13616,7 +13703,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian ilmiah tersebut sedang dilaksanakan oleh sebuah tim internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie.\" berarti \"Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi.\"."
+        "explanation": "Kalimat \"Het onderzoek richt zich op de sociaaleconomische gevolgen van de energietransitie.\" (dibaca: Het onderzuk richt zich op de socia:leconomiskhe gevolgen van de energietransitie.) berarti \"Penelitian ini berfokus pada dampak sosial-ekonomi dari transisi energi.\". Kalimat ini menggunakan pola \"Werkwoord + Vaste Prepositie (Twijfelen aan, Voldoen aan, Leiden tot)\" (Vaste Voorzetsels bij Werkwoorden (Wachten op, Geïnteresseerd in)) yang berfungsi untuk menguasai kolokasi preposisi wajib yang melekat pada kata kerja tertentu dalam bahasa Belanda formal."
       },
       {
         "id": "q-nl-gram-29-bb-2",
@@ -13691,24 +13778,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Aturan penggabungan kata majemuk Belanda (geschreven als één woord) dan penulisan bunyi sisipan -s- atau -en-.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Woordvorming: Samenstellingen en Afleidingen' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Woordvorming: Samenstellingen en Afleidingen\" (De vorming van samenstellingen en tussenklanken (-s-, -en-)) berfungsi untuk: aturan penggabungan kata majemuk Belanda (geschreven als één woord) dan penulisan bunyi sisipan -s- atau -en-. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Het promotieonderzoek vereist een gedegen methodologische verantwoording. — Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang."
+          "Rumus utama: Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s",
+          "Contoh 1: Het promotieonderzoek vereist een gedegen methodologische verantwoording. (Het promotieonderzuk vereist e:n gedegen methodologiskhe verantwo:rding.) — Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam ejaan bahasa Belanda, kata benda majemuk ditulis serangkai sebagai satu kata.",
         "ruleList": [
-          "De studentenvertegenwoordiger nam deel aan de faculteitsraad. — Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas."
+          "Polanya: Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s",
+          "Contoh 2: De studentenvertegenwoordiger nam deel aan de faculteitsraad. (De studentenvertegenwo:rdiger nam de:l a:n de faculteitsra:d.) — Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Woordvorming: Samenstellingen en Afleidingen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Kwaliteitsbewaking is een cruciaal onderdeel van wetenschappelijk werk. — Penjaminan mutu adalah bagian krusial dari karya keilmuan."
+          "Contoh 3: Kwaliteitsbewaking is een cruciaal onderdeel van wetenschappelijk werk. (Kwaliteitsbewaking is e:n crucia:l onderde:l van wetenskhappeleyk werk.) — Penjaminan mutu adalah bagian krusial dari karya keilmuan.",
+          "Hindari kesalahan: \"promotie onderzoek (los geschreven)\" → gunakan bentuk yang benar: \"promotieonderzoek (als één woord)\"."
         ]
       }
     ],
@@ -13716,19 +13806,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-30-ex-1",
         "native": "Het promotieonderzoek vereist een gedegen methodologische verantwoording.",
-        "phonetic": "",
+        "phonetic": "Het promotieonderzuk vereist e:n gedegen methodologiskhe verantwo:rding.",
         "translationId": "Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang."
       },
       {
         "id": "nl-gram-30-ex-2",
         "native": "De studentenvertegenwoordiger nam deel aan de faculteitsraad.",
-        "phonetic": "",
+        "phonetic": "De studentenvertegenwo:rdiger nam de:l a:n de faculteitsra:d.",
         "translationId": "Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas."
       },
       {
         "id": "nl-gram-30-ex-3",
         "native": "Kwaliteitsbewaking is een cruciaal onderdeel van wetenschappelijk werk.",
-        "phonetic": "",
+        "phonetic": "Kwaliteitsbewaking is e:n crucia:l onderde:l van wetenskhappeleyk werk.",
         "translationId": "Penjaminan mutu adalah bagian krusial dari karya keilmuan."
       }
     ],
@@ -13744,7 +13834,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Woordvorming: Samenstellingen en Afleidingen' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Woordvorming: Samenstellingen en Afleidingen\" (Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-30-pg-1",
@@ -13760,7 +13850,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Het promotieonderzoek vereist een gedegen methodologische verantwoording.\" berarti \"Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang.\"."
+        "explanation": "Kalimat \"Het promotieonderzoek vereist een gedegen methodologische verantwoording.\" (dibaca: Het promotieonderzuk vereist e:n gedegen methodologiskhe verantwo:rding.) berarti \"Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang.\". Kalimat ini menggunakan pola \"Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s\" (Woordvorming: Samenstellingen en Afleidingen) yang berfungsi untuk aturan penggabungan kata majemuk Belanda (geschreven als één woord) dan penulisan bunyi sisipan -s- atau -en-."
       },
       {
         "id": "q-nl-gram-30-pg-2",
@@ -13776,7 +13866,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya kita memiliki lebih banyak anggaran, kita akan dapat mengangkat kandidat doktor tambahan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De studentenvertegenwoordiger nam deel aan de faculteitsraad.\" berarti \"Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas.\"."
+        "explanation": "Kalimat \"De studentenvertegenwoordiger nam deel aan de faculteitsraad.\" (dibaca: De studentenvertegenwo:rdiger nam de:l a:n de faculteitsra:d.) berarti \"Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas.\". Kalimat ini menggunakan pola \"Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s\" (Woordvorming: Samenstellingen en Afleidingen) yang berfungsi untuk aturan penggabungan kata majemuk Belanda (geschreven als één woord) dan penulisan bunyi sisipan -s- atau -en-."
       },
       {
         "id": "q-nl-gram-30-pg-3",
@@ -13792,7 +13882,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penjaminan mutu adalah bagian krusial dari karya keilmuan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Kwaliteitsbewaking is een cruciaal onderdeel van wetenschappelijk werk.\" berarti \"Penjaminan mutu adalah bagian krusial dari karya keilmuan.\"."
+        "explanation": "Kalimat \"Kwaliteitsbewaking is een cruciaal onderdeel van wetenschappelijk werk.\" (dibaca: Kwaliteitsbewaking is e:n crucia:l onderde:l van wetenskhappeleyk werk.) berarti \"Penjaminan mutu adalah bagian krusial dari karya keilmuan.\". Kalimat ini menggunakan pola \"Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s\" (Woordvorming: Samenstellingen en Afleidingen) yang berfungsi untuk aturan penggabungan kata majemuk Belanda (geschreven als één woord) dan penulisan bunyi sisipan -s- atau -en-."
       },
       {
         "id": "q-nl-gram-30-pg-4",
@@ -13812,7 +13902,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-30-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvorming: Samenstellingen en Afleidingen\"?",
         "options": [
           "De hoogleraar die de Nobelprijs won, geeft morgen een erecollege. — Guru besar yang memenangkan Hadiah Nobel itu akan memberikan kuliah kehormatan besok.",
           "De studentenvertegenwoordiger nam deel aan de faculteitsraad. — Perwakilan mahasiswa turut berpartisipasi dalam rapat dewan fakultas.",
@@ -13826,7 +13916,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-30-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvorming: Samenstellingen en Afleidingen\"?",
         "options": [
           "Het onderzoeksartikel dat vorige week verscheen, trok veel internationale aandacht. — Artikel penelitian yang terbit minggu lalu itu menarik banyak perhatian internasional.",
           "De theorie waarop dit model is gebaseerd, blijkt buitengewoon solide. — Teori yang menjadi landasan model ini terbukti sangat kokoh.",
@@ -13840,7 +13930,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-30-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Woordvorming: Samenstellingen en Afleidingen\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -14087,7 +14177,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Het promotieonderzoek vereist een gedegen methodologische verantwoording.\" berarti \"Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang.\"."
+        "explanation": "Kalimat \"Het promotieonderzoek vereist een gedegen methodologische verantwoording.\" (dibaca: Het promotieonderzuk vereist e:n gedegen methodologiskhe verantwo:rding.) berarti \"Penelitian doktoral tersebut menuntut pertanggungjawaban metodologis yang matang.\". Kalimat ini menggunakan pola \"Samenstelling (Koppelteken vermijden) & Tussen-n / Tussen-s\" (Woordvorming: Samenstellingen en Afleidingen) yang berfungsi untuk aturan penggabungan kata majemuk Belanda (geschreven als één woord) dan penulisan bunyi sisipan -s- atau -en-."
       },
       {
         "id": "q-nl-gram-30-bb-2",
@@ -14162,24 +14252,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Ketika kata kerja bantu muncul bersama infinitif lain pada waktu lampau, partisip lampau berubah menjadi bentuk infinitif (IPP).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)\" (Het Infinitivus Pro Participio (IPP) effect bij hulpwerkwoorden) berfungsi untuk: ketika kata kerja bantu muncul bersama infinitif lain pada waktu lampau, partisip lampau berubah menjadi bentuk infinitif (IPP). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De student heeft de moeilijke literatuur niet kunnen begrijpen. — Mahasiswa itu belum dapat memahami literatur yang sulit tersebut."
+          "Rumus utama: Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)",
+          "Contoh 1: De student heeft de moeilijke literatuur niet kunnen begrijpen. (De student he:ft de muileyke literatü:r niet kunnen begreypen.) — Mahasiswa itu belum dapat memahami literatur yang sulit tersebut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Karena efek IPP, baik kata kerja modal maupun kata kerja utama ditulis dalam bentuk infinitif.",
         "ruleList": [
-          "Wij hebben de minister tijdens het symposium mogen ontmoeten. — Kami telah berkesempatan menemui menteri selama simposium berlangsung."
+          "Polanya: Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)",
+          "Contoh 2: Wij hebben de minister tijdens het symposium mogen ontmoeten. (Wey hebben de minister teydens het symposium mogen ontmuten.) — Kami telah berkesempatan menemui menteri selama simposium berlangsung."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Zij hebben het experiment opnieuw moeten uitvoeren vanwege een storing. — Mereka terpaksa harus menjalankan ulang eksperimen tersebut akibat gangguan teknis."
+          "Contoh 3: Zij hebben het experiment opnieuw moeten uitvoeren vanwege een storing. (Zey hebben het experiment opnieuw muten öytvuren vanwege e:n storing.) — Mereka terpaksa harus menjalankan ulang eksperimen tersebut akibat gangguan teknis.",
+          "Hindari kesalahan: \"hij heeft kunnen begrepen\" → gunakan bentuk yang benar: \"hij heeft kunnen begrijpen\"."
         ]
       }
     ],
@@ -14187,19 +14280,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-31-ex-1",
         "native": "De student heeft de moeilijke literatuur niet kunnen begrijpen.",
-        "phonetic": "",
+        "phonetic": "De student he:ft de muileyke literatü:r niet kunnen begreypen.",
         "translationId": "Mahasiswa itu belum dapat memahami literatur yang sulit tersebut."
       },
       {
         "id": "nl-gram-31-ex-2",
         "native": "Wij hebben de minister tijdens het symposium mogen ontmoeten.",
-        "phonetic": "",
+        "phonetic": "Wey hebben de minister teydens het symposium mogen ontmuten.",
         "translationId": "Kami telah berkesempatan menemui menteri selama simposium berlangsung."
       },
       {
         "id": "nl-gram-31-ex-3",
         "native": "Zij hebben het experiment opnieuw moeten uitvoeren vanwege een storing.",
-        "phonetic": "",
+        "phonetic": "Zey hebben het experiment opnieuw muten öytvuren vanwege e:n storing.",
         "translationId": "Mereka terpaksa harus menjalankan ulang eksperimen tersebut akibat gangguan teknis."
       }
     ],
@@ -14215,7 +14308,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)\" (Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-31-pg-1",
@@ -14231,7 +14324,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De student heeft de moeilijke literatuur niet kunnen begrijpen.\" berarti \"Mahasiswa itu belum dapat memahami literatur yang sulit tersebut.\"."
+        "explanation": "Kalimat \"De student heeft de moeilijke literatuur niet kunnen begrijpen.\" (dibaca: De student he:ft de muileyke literatü:r niet kunnen begreypen.) berarti \"Mahasiswa itu belum dapat memahami literatur yang sulit tersebut.\". Kalimat ini menggunakan pola \"Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)\" (Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)) yang berfungsi untuk ketika kata kerja bantu muncul bersama infinitif lain pada waktu lampau, partisip lampau berubah menjadi bentuk infinitif (IPP)."
       },
       {
         "id": "q-nl-gram-31-pg-2",
@@ -14247,7 +14340,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah berkesempatan menemui menteri selama simposium berlangsung."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wij hebben de minister tijdens het symposium mogen ontmoeten.\" berarti \"Kami telah berkesempatan menemui menteri selama simposium berlangsung.\"."
+        "explanation": "Kalimat \"Wij hebben de minister tijdens het symposium mogen ontmoeten.\" (dibaca: Wey hebben de minister teydens het symposium mogen ontmuten.) berarti \"Kami telah berkesempatan menemui menteri selama simposium berlangsung.\". Kalimat ini menggunakan pola \"Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)\" (Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)) yang berfungsi untuk ketika kata kerja bantu muncul bersama infinitif lain pada waktu lampau, partisip lampau berubah menjadi bentuk infinitif (IPP)."
       },
       {
         "id": "q-nl-gram-31-pg-3",
@@ -14263,7 +14356,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Oleh sebab itu, para penulis menyimpulkan bahwa penelitian lapangan lanjutan sangat diperlukan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Zij hebben het experiment opnieuw moeten uitvoeren vanwege een storing.\" berarti \"Mereka terpaksa harus menjalankan ulang eksperimen tersebut akibat gangguan teknis.\"."
+        "explanation": "Kalimat \"Zij hebben het experiment opnieuw moeten uitvoeren vanwege een storing.\" (dibaca: Zey hebben het experiment opnieuw muten öytvuren vanwege e:n storing.) berarti \"Mereka terpaksa harus menjalankan ulang eksperimen tersebut akibat gangguan teknis.\". Kalimat ini menggunakan pola \"Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)\" (Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)) yang berfungsi untuk ketika kata kerja bantu muncul bersama infinitif lain pada waktu lampau, partisip lampau berubah menjadi bentuk infinitif (IPP)."
       },
       {
         "id": "q-nl-gram-31-pg-4",
@@ -14283,7 +14376,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-31-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)\"?",
         "options": [
           "De hypothesen kunnen pas na grondige statistische toetsing worden gevalideerd. — Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam.",
           "Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan. — Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada.",
@@ -14297,7 +14390,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-31-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)\"?",
         "options": [
           "Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd. — Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi.",
           "Er dient rekening te worden gehouden met mogelijke meetonzekerheden. — Kemungkinan ketidakpastian pengukuran wajib turut diperhitungkan.",
@@ -14311,7 +14404,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-31-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -14558,7 +14651,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De student heeft de moeilijke literatuur niet kunnen begrijpen.\" berarti \"Mahasiswa itu belum dapat memahami literatur yang sulit tersebut.\"."
+        "explanation": "Kalimat \"De student heeft de moeilijke literatuur niet kunnen begrijpen.\" (dibaca: De student he:ft de muileyke literatü:r niet kunnen begreypen.) berarti \"Mahasiswa itu belum dapat memahami literatur yang sulit tersebut.\". Kalimat ini menggunakan pola \"Hebben + Andere Werkwoorden als Infinitief (Geen Ge-deelwoord)\" (Complexe Woordvolgorde bij Dubbele Infinitief (IPP-effect)) yang berfungsi untuk ketika kata kerja bantu muncul bersama infinitif lain pada waktu lampau, partisip lampau berubah menjadi bentuk infinitif (IPP)."
       },
       {
         "id": "q-nl-gram-31-bb-2",
@@ -14633,24 +14726,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan tindakan masa lalu yang telah tuntas sebelum aksi masa lalu lainnya berlangsung dalam narasi historis/riset.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit\" (Het gebruik van de V.V.T. voor handelingen die voorafgingen in het verleden) berfungsi untuk: menyatakan tindakan masa lalu yang telah tuntas sebelum aksi masa lalu lainnya berlangsung dalam narasi historis/riset. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten. — Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen."
+          "Rumus utama: Hadden / Waren + Voltooid Deelwoord",
+          "Contoh 1: Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten. (Nadat de wetenskhappers de hypothese hadden geformule:rd, startten zey de experimenten.) — Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Hadden / Waren + Voltooid Deelwoord menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Hadden / Waren + Voltooid Deelwoord\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah konjungsi 'nadat', tindakan yang lebih dulu selesai menggunakan V.V.T. dengan urutan anak kalimat.",
         "ruleList": [
-          "Zij waren al vertrokken voordat het officiële besluit werd bekendgemaakt. — Mereka sudah berangkat sebelum keputusan resmi diumumkan."
+          "Polanya: Hadden / Waren + Voltooid Deelwoord",
+          "Contoh 2: Zij waren al vertrokken voordat het officiële besluit werd bekendgemaakt. (Zey waren al vertrokken vo:rdat het officiële beslöyt werd bekendgema:kt.) — Mereka sudah berangkat sebelum keputusan resmi diumumkan."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Toen de conferentie begon, had het team het manuscript al ingediend. — Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut."
+          "Contoh 3: Toen de conferentie begon, had het team het manuscript al ingediend. (Tun de conferentie begon, had het team het manuscript al ingediend.) — Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut.",
+          "Hindari kesalahan: \"nadat zij formuleerden de hypothese\" → gunakan bentuk yang benar: \"nadat zij de hypothese hadden geformuleerd\"."
         ]
       }
     ],
@@ -14658,19 +14754,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-32-ex-1",
         "native": "Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten.",
-        "phonetic": "",
+        "phonetic": "Nadat de wetenskhappers de hypothese hadden geformule:rd, startten zey de experimenten.",
         "translationId": "Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen."
       },
       {
         "id": "nl-gram-32-ex-2",
         "native": "Zij waren al vertrokken voordat het officiële besluit werd bekendgemaakt.",
-        "phonetic": "",
+        "phonetic": "Zey waren al vertrokken vo:rdat het officiële beslöyt werd bekendgema:kt.",
         "translationId": "Mereka sudah berangkat sebelum keputusan resmi diumumkan."
       },
       {
         "id": "nl-gram-32-ex-3",
         "native": "Toen de conferentie begon, had het team het manuscript al ingediend.",
-        "phonetic": "",
+        "phonetic": "Tun de conferentie begon, had het team het manuscript al ingediend.",
         "translationId": "Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut."
       }
     ],
@@ -14686,7 +14782,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit\" (Hadden / Waren + Voltooid Deelwoord) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-32-pg-1",
@@ -14702,7 +14798,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten.\" berarti \"Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen.\"."
+        "explanation": "Kalimat \"Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten.\" (dibaca: Nadat de wetenskhappers de hypothese hadden geformule:rd, startten zey de experimenten.) berarti \"Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen.\". Kalimat ini menggunakan pola \"Hadden / Waren + Voltooid Deelwoord\" (De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit) yang berfungsi untuk menyatakan tindakan masa lalu yang telah tuntas sebelum aksi masa lalu lainnya berlangsung dalam narasi historis/riset."
       },
       {
         "id": "q-nl-gram-32-pg-2",
@@ -14718,7 +14814,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Zij waren al vertrokken voordat het officiële besluit werd bekendgemaakt.\" berarti \"Mereka sudah berangkat sebelum keputusan resmi diumumkan.\"."
+        "explanation": "Kalimat \"Zij waren al vertrokken voordat het officiële besluit werd bekendgemaakt.\" (dibaca: Zey waren al vertrokken vo:rdat het officiële beslöyt werd bekendgema:kt.) berarti \"Mereka sudah berangkat sebelum keputusan resmi diumumkan.\". Kalimat ini menggunakan pola \"Hadden / Waren + Voltooid Deelwoord\" (De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit) yang berfungsi untuk menyatakan tindakan masa lalu yang telah tuntas sebelum aksi masa lalu lainnya berlangsung dalam narasi historis/riset."
       },
       {
         "id": "q-nl-gram-32-pg-3",
@@ -14734,7 +14830,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Terlepas dari kenyataan adanya sejumlah keberatan, para peneliti tetap melanjutkan proyek tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Toen de conferentie begon, had het team het manuscript al ingediend.\" berarti \"Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut.\"."
+        "explanation": "Kalimat \"Toen de conferentie begon, had het team het manuscript al ingediend.\" (dibaca: Tun de conferentie begon, had het team het manuscript al ingediend.) berarti \"Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut.\". Kalimat ini menggunakan pola \"Hadden / Waren + Voltooid Deelwoord\" (De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit) yang berfungsi untuk menyatakan tindakan masa lalu yang telah tuntas sebelum aksi masa lalu lainnya berlangsung dalam narasi historis/riset."
       },
       {
         "id": "q-nl-gram-32-pg-4",
@@ -14754,7 +14850,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-32-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit\"?",
         "options": [
           "Daarentegen toont recent empirisch onderzoek een tegenovergestelde trend aan. — Sebaliknya, penelitian empiris terkini menunjukkan kecenderungan tren yang berlawanan.",
           "Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot. — Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi.",
@@ -14768,7 +14864,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-32-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit\"?",
         "options": [
           "Toen de conferentie begon, had het team het manuscript al ingediend. — Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut.",
           "Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan. — Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada.",
@@ -14782,7 +14878,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-32-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -15029,7 +15125,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten.\" berarti \"Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen.\"."
+        "explanation": "Kalimat \"Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten.\" (dibaca: Nadat de wetenskhappers de hypothese hadden geformule:rd, startten zey de experimenten.) berarti \"Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen.\". Kalimat ini menggunakan pola \"Hadden / Waren + Voltooid Deelwoord\" (De Voltooid Verleden Tijd (V.V.T.) en Anterioriteit) yang berfungsi untuk menyatakan tindakan masa lalu yang telah tuntas sebelum aksi masa lalu lainnya berlangsung dalam narasi historis/riset."
       },
       {
         "id": "q-nl-gram-32-bb-2",
@@ -15104,24 +15200,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Partikel wacana Belanda yang memberikan warna pragmatik, kelembutan intonasi, atau penegasan konsensus bersama.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)\" (Het gebruik van modaliteitspartikels ter nuancering van het betoog) berfungsi untuk: partikel wacana Belanda yang memberikan warna pragmatik, kelembutan intonasi, atau penegasan konsensus bersama. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie. — Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern."
+          "Rumus utama: Wel / Toch / Even / Eens / Maar / Immers",
+          "Contoh 1: Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie. (Dat is immers e:n fundamente:l öytgangspunt van de moderne wetenskhapsfilosofie.) — Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Wel / Toch / Even / Eens / Maar / Immers menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Wel / Toch / Even / Eens / Maar / Immers\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Partikel modalitas seperti 'immers' dan 'wel degelijk' mempertegas nuansa argumentasi.",
         "ruleList": [
-          "Laten we toch even kritisch kijken naar de methodologische aannames. — Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut."
+          "Polanya: Wel / Toch / Even / Eens / Maar / Immers",
+          "Contoh 2: Laten we toch even kritisch kijken naar de methodologische aannames. (Laten we toch even kritiskh keyken na:r de methodologiskhe a:nnames.) — Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Het experiment heeft wel degelijk waardevolle inzichten opgeleverd. — Eksperimen tersebut sungguh benar-benar menghasilkan wawasan yang berharga."
+          "Contoh 3: Het experiment heeft wel degelijk waardevolle inzichten opgeleverd. (Het experiment he:ft wel degeleyk wa:rdevolle inzichten opgeleverd.) — Eksperimen tersebut sungguh benar-benar menghasilkan wawasan yang berharga.",
+          "Hindari kesalahan: \"dat is een uitgangspunt (zonder nuance)\" → gunakan bentuk yang benar: \"dat is immers een fundamenteel uitgangspunt\"."
         ]
       }
     ],
@@ -15129,19 +15228,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-33-ex-1",
         "native": "Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie.",
-        "phonetic": "",
+        "phonetic": "Dat is immers e:n fundamente:l öytgangspunt van de moderne wetenskhapsfilosofie.",
         "translationId": "Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern."
       },
       {
         "id": "nl-gram-33-ex-2",
         "native": "Laten we toch even kritisch kijken naar de methodologische aannames.",
-        "phonetic": "",
+        "phonetic": "Laten we toch even kritiskh keyken na:r de methodologiskhe a:nnames.",
         "translationId": "Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut."
       },
       {
         "id": "nl-gram-33-ex-3",
         "native": "Het experiment heeft wel degelijk waardevolle inzichten opgeleverd.",
-        "phonetic": "",
+        "phonetic": "Het experiment he:ft wel degeleyk wa:rdevolle inzichten opgeleverd.",
         "translationId": "Eksperimen tersebut sungguh benar-benar menghasilkan wawasan yang berharga."
       }
     ],
@@ -15157,7 +15256,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)\" (Wel / Toch / Even / Eens / Maar / Immers) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-33-pg-1",
@@ -15173,7 +15272,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie.\" berarti \"Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern.\"."
+        "explanation": "Kalimat \"Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie.\" (dibaca: Dat is immers e:n fundamente:l öytgangspunt van de moderne wetenskhapsfilosofie.) berarti \"Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern.\". Kalimat ini menggunakan pola \"Wel / Toch / Even / Eens / Maar / Immers\" (Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)) yang berfungsi untuk partikel wacana Belanda yang memberikan warna pragmatik, kelembutan intonasi, atau penegasan konsensus bersama."
       },
       {
         "id": "q-nl-gram-33-pg-2",
@@ -15189,7 +15288,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Laten we toch even kritisch kijken naar de methodologische aannames.\" berarti \"Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut.\"."
+        "explanation": "Kalimat \"Laten we toch even kritisch kijken naar de methodologische aannames.\" (dibaca: Laten we toch even kritiskh keyken na:r de methodologiskhe a:nnames.) berarti \"Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut.\". Kalimat ini menggunakan pola \"Wel / Toch / Even / Eens / Maar / Immers\" (Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)) yang berfungsi untuk partikel wacana Belanda yang memberikan warna pragmatik, kelembutan intonasi, atau penegasan konsensus bersama."
       },
       {
         "id": "q-nl-gram-33-pg-3",
@@ -15205,7 +15304,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het experiment heeft wel degelijk waardevolle inzichten opgeleverd.\" berarti \"Eksperimen tersebut sungguh benar-benar menghasilkan wawasan yang berharga.\"."
+        "explanation": "Kalimat \"Het experiment heeft wel degelijk waardevolle inzichten opgeleverd.\" (dibaca: Het experiment he:ft wel degeleyk wa:rdevolle inzichten opgeleverd.) berarti \"Eksperimen tersebut sungguh benar-benar menghasilkan wawasan yang berharga.\". Kalimat ini menggunakan pola \"Wel / Toch / Even / Eens / Maar / Immers\" (Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)) yang berfungsi untuk partikel wacana Belanda yang memberikan warna pragmatik, kelembutan intonasi, atau penegasan konsensus bersama."
       },
       {
         "id": "q-nl-gram-33-pg-4",
@@ -15225,7 +15324,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-33-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)\"?",
         "options": [
           "Laten we toch even kritisch kijken naar de methodologische aannames. — Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut.",
           "Het staat buiten kijf dat deze aanpak innovatief is, zij het niet zonder risico's. — Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko.",
@@ -15239,7 +15338,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-33-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)\"?",
         "options": [
           "Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot. — Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi.",
           "Het experiment heeft wel degelijk waardevolle inzichten opgeleverd. — Eksperimen tersebut sungguh benar-benar menghasilkan wawasan yang berharga.",
@@ -15253,7 +15352,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-33-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15504,7 +15603,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie.\" berarti \"Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern.\"."
+        "explanation": "Kalimat \"Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie.\" (dibaca: Dat is immers e:n fundamente:l öytgangspunt van de moderne wetenskhapsfilosofie.) berarti \"Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern.\". Kalimat ini menggunakan pola \"Wel / Toch / Even / Eens / Maar / Immers\" (Modale Partikels en Nuanceringen (Wel, Toch, Eens, Even, Maar)) yang berfungsi untuk partikel wacana Belanda yang memberikan warna pragmatik, kelembutan intonasi, atau penegasan konsensus bersama."
       },
       {
         "id": "q-nl-gram-33-bb-2",
@@ -15579,24 +15678,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mentransformasikan klausa verbal menjadi nomina abstrak untuk menghasilkan teks ilmiah yang padat dan objektif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Nominalisering en Formeel Schrijfgebruik (-ing, -heid)' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nominalisering en Formeel Schrijfgebruik (-ing, -heid)\" (Nominalisering als stijlkenmerk van formele en academische teksten) berfungsi untuk: mentransformasikan klausa verbal menjadi nomina abstrak untuk menghasilkan teks ilmiah yang padat dan objektif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering. — Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan."
+          "Rumus utama: Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)",
+          "Contoh 1: De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering. (De implementatie van het nieuwe beleid leidde tot a:nzienleyke efficiëntieverbetering.) — Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom) menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Nominalisasi menghadirkan gaya penulisan yang formal, ringkas, dan berstandar akademik.",
         "ruleList": [
-          "De betrouwbaarheid van de metingen werd door onafhankelijke experts bevestigd. — Keandalan hasil pengukuran tersebut telah dikonfirmasi oleh para pakar independen."
+          "Polanya: Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)",
+          "Contoh 2: De betrouwbaarheid van de metingen werd door onafhankelijke experts bevestigd. (De betrouwba:rheid van de metingen werd do:r onafhankeleyke experts bevestigd.) — Keandalan hasil pengukuran tersebut telah dikonfirmasi oleh para pakar independen."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nominalisering en Formeel Schrijfgebruik (-ing, -heid)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Wetenschappelijke nauwkeurigheid is een absolute vereiste voor publicatie. — Ketelitian ilmiah merupakan syarat mutlak bagi publikasi jurnal."
+          "Contoh 3: Wetenschappelijke nauwkeurigheid is een absolute vereiste voor publicatie. (Wetenskhappeleyke nauwkeurigheid is e:n absolute vereiste vo:r publicatie.) — Ketelitian ilmiah merupakan syarat mutlak bagi publikasi jurnal.",
+          "Hindari kesalahan: \"wanneer we het beleid implementeren\" → gunakan bentuk yang benar: \"de implementatie van het beleid\"."
         ]
       }
     ],
@@ -15604,19 +15706,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-34-ex-1",
         "native": "De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering.",
-        "phonetic": "",
+        "phonetic": "De implementatie van het nieuwe beleid leidde tot a:nzienleyke efficiëntieverbetering.",
         "translationId": "Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan."
       },
       {
         "id": "nl-gram-34-ex-2",
         "native": "De betrouwbaarheid van de metingen werd door onafhankelijke experts bevestigd.",
-        "phonetic": "",
+        "phonetic": "De betrouwba:rheid van de metingen werd do:r onafhankeleyke experts bevestigd.",
         "translationId": "Keandalan hasil pengukuran tersebut telah dikonfirmasi oleh para pakar independen."
       },
       {
         "id": "nl-gram-34-ex-3",
         "native": "Wetenschappelijke nauwkeurigheid is een absolute vereiste voor publicatie.",
-        "phonetic": "",
+        "phonetic": "Wetenskhappeleyke nauwkeurigheid is e:n absolute vereiste vo:r publicatie.",
         "translationId": "Ketelitian ilmiah merupakan syarat mutlak bagi publikasi jurnal."
       }
     ],
@@ -15632,7 +15734,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Nominalisering en Formeel Schrijfgebruik (-ing, -heid)' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Nominalisering en Formeel Schrijfgebruik (-ing, -heid)\" (Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-34-pg-1",
@@ -15648,7 +15750,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering.\" berarti \"Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan.\"."
+        "explanation": "Kalimat \"De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering.\" (dibaca: De implementatie van het nieuwe beleid leidde tot a:nzienleyke efficiëntieverbetering.) berarti \"Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan.\". Kalimat ini menggunakan pola \"Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)\" (Nominalisering en Formeel Schrijfgebruik (-ing, -heid)) yang berfungsi untuk mentransformasikan klausa verbal menjadi nomina abstrak untuk menghasilkan teks ilmiah yang padat dan objektif."
       },
       {
         "id": "q-nl-gram-34-pg-2",
@@ -15664,7 +15766,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De betrouwbaarheid van de metingen werd door onafhankelijke experts bevestigd.\" berarti \"Keandalan hasil pengukuran tersebut telah dikonfirmasi oleh para pakar independen.\"."
+        "explanation": "Kalimat \"De betrouwbaarheid van de metingen werd door onafhankelijke experts bevestigd.\" (dibaca: De betrouwba:rheid van de metingen werd do:r onafhankeleyke experts bevestigd.) berarti \"Keandalan hasil pengukuran tersebut telah dikonfirmasi oleh para pakar independen.\". Kalimat ini menggunakan pola \"Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)\" (Nominalisering en Formeel Schrijfgebruik (-ing, -heid)) yang berfungsi untuk mentransformasikan klausa verbal menjadi nomina abstrak untuk menghasilkan teks ilmiah yang padat dan objektif."
       },
       {
         "id": "q-nl-gram-34-pg-3",
@@ -15680,7 +15782,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Ketelitian ilmiah merupakan syarat mutlak bagi publikasi jurnal."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Wetenschappelijke nauwkeurigheid is een absolute vereiste voor publicatie.\" berarti \"Ketelitian ilmiah merupakan syarat mutlak bagi publikasi jurnal.\"."
+        "explanation": "Kalimat \"Wetenschappelijke nauwkeurigheid is een absolute vereiste voor publicatie.\" (dibaca: Wetenskhappeleyke nauwkeurigheid is e:n absolute vereiste vo:r publicatie.) berarti \"Ketelitian ilmiah merupakan syarat mutlak bagi publikasi jurnal.\". Kalimat ini menggunakan pola \"Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)\" (Nominalisering en Formeel Schrijfgebruik (-ing, -heid)) yang berfungsi untuk mentransformasikan klausa verbal menjadi nomina abstrak untuk menghasilkan teks ilmiah yang padat dan objektif."
       },
       {
         "id": "q-nl-gram-34-pg-4",
@@ -15700,7 +15802,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-34-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Nominalisering en Formeel Schrijfgebruik (-ing, -heid)\"?",
         "options": [
           "Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten. — Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan.",
           "De betrouwbaarheid van de metingen werd door onafhankelijke experts bevestigd. — Keandalan hasil pengukuran tersebut telah dikonfirmasi oleh para pakar independen.",
@@ -15714,7 +15816,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-34-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Nominalisering en Formeel Schrijfgebruik (-ing, -heid)\"?",
         "options": [
           "Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten. — Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor.",
           "We moeten roeien met de riemen die we hebben in deze uitdagende situatie. — Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini.",
@@ -15728,7 +15830,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-34-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Nominalisering en Formeel Schrijfgebruik (-ing, -heid)\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -15977,7 +16079,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering.\" berarti \"Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan.\"."
+        "explanation": "Kalimat \"De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering.\" (dibaca: De implementatie van het nieuwe beleid leidde tot a:nzienleyke efficiëntieverbetering.) berarti \"Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan.\". Kalimat ini menggunakan pola \"Verba/Adjectiva -> Nomina (-ing, -heid, -schap, -dom)\" (Nominalisering en Formeel Schrijfgebruik (-ing, -heid)) yang berfungsi untuk mentransformasikan klausa verbal menjadi nomina abstrak untuk menghasilkan teks ilmiah yang padat dan objektif."
       },
       {
         "id": "q-nl-gram-34-bb-2",
@@ -16052,24 +16154,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Konstruksi pasif gabungan dengan kata kerja modalitas dalam penyusunan prosedur eksperimen dan tinjauan pustaka.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Complexe Passieve Constructies in Wetenschappelijke Rapporten' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Complexe Passieve Constructies in Wetenschappelijke Rapporten\" (De passieve constructie met modale werkwoorden en tangconstructies) berfungsi untuk: konstruksi pasif gabungan dengan kata kerja modalitas dalam penyusunan prosedur eksperimen dan tinjauan pustaka. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd. — Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi."
+          "Rumus utama: Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord",
+          "Contoh 1: Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd. (Deze onderzuksgegevens muten met grote zorgvuldigheid worden geïnterprete:rd.) — Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Keterangan cara diletakkan di dalam bingkai kalimat (tangconstructie) sebelum gugus kata kerja akhir.",
         "ruleList": [
-          "De hypothesen kunnen pas na grondige statistische toetsing worden gevalideerd. — Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam."
+          "Polanya: Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord",
+          "Contoh 2: De hypothesen kunnen pas na grondige statistische toetsing worden gevalideerd. (De hypothesen kunnen pas na grondige statistiskhe tutsing worden gevalide:rd.) — Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Complexe Passieve Constructies in Wetenschappelijke Rapporten\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Er dient rekening te worden gehouden met mogelijke meetonzekerheden. — Kemungkinan ketidakpastian pengukuran wajib turut diperhitungkan."
+          "Contoh 3: Er dient rekening te worden gehouden met mogelijke meetonzekerheden. (Er dient rekening te worden gehouden met mogeleyke me:tonzekerheden.) — Kemungkinan ketidakpastian pengukuran wajib turut diperhitungkan.",
+          "Hindari kesalahan: \"de data moeten geïnterpreteerd worden met zorg\" → gunakan bentuk yang benar: \"de data moeten met zorgvuldigheid worden geïnterpreteerd\"."
         ]
       }
     ],
@@ -16077,19 +16182,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-35-ex-1",
         "native": "Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd.",
-        "phonetic": "",
+        "phonetic": "Deze onderzuksgegevens muten met grote zorgvuldigheid worden geïnterprete:rd.",
         "translationId": "Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi."
       },
       {
         "id": "nl-gram-35-ex-2",
         "native": "De hypothesen kunnen pas na grondige statistische toetsing worden gevalideerd.",
-        "phonetic": "",
+        "phonetic": "De hypothesen kunnen pas na grondige statistiskhe tutsing worden gevalide:rd.",
         "translationId": "Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam."
       },
       {
         "id": "nl-gram-35-ex-3",
         "native": "Er dient rekening te worden gehouden met mogelijke meetonzekerheden.",
-        "phonetic": "",
+        "phonetic": "Er dient rekening te worden gehouden met mogeleyke me:tonzekerheden.",
         "translationId": "Kemungkinan ketidakpastian pengukuran wajib turut diperhitungkan."
       }
     ],
@@ -16105,7 +16210,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Complexe Passieve Constructies in Wetenschappelijke Rapporten' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Complexe Passieve Constructies in Wetenschappelijke Rapporten\" (Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-35-pg-1",
@@ -16121,7 +16226,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd.\" berarti \"Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi.\"."
+        "explanation": "Kalimat \"Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd.\" (dibaca: Deze onderzuksgegevens muten met grote zorgvuldigheid worden geïnterprete:rd.) berarti \"Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi.\". Kalimat ini menggunakan pola \"Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord\" (Complexe Passieve Constructies in Wetenschappelijke Rapporten) yang berfungsi untuk konstruksi pasif gabungan dengan kata kerja modalitas dalam penyusunan prosedur eksperimen dan tinjauan pustaka."
       },
       {
         "id": "q-nl-gram-35-pg-2",
@@ -16137,7 +16242,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"De hypothesen kunnen pas na grondige statistische toetsing worden gevalideerd.\" berarti \"Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam.\"."
+        "explanation": "Kalimat \"De hypothesen kunnen pas na grondige statistische toetsing worden gevalideerd.\" (dibaca: De hypothesen kunnen pas na grondige statistiskhe tutsing worden gevalide:rd.) berarti \"Hipotesis-hipotesis tersebut baru dapat divalidasi setelah pengujian statistik yang mendalam.\". Kalimat ini menggunakan pola \"Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord\" (Complexe Passieve Constructies in Wetenschappelijke Rapporten) yang berfungsi untuk konstruksi pasif gabungan dengan kata kerja modalitas dalam penyusunan prosedur eksperimen dan tinjauan pustaka."
       },
       {
         "id": "q-nl-gram-35-pg-3",
@@ -16153,7 +16258,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Sebagai penutup, saya mempersilakan hadirin untuk mengajukan pertanyaan dan tanggapan kritis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Er dient rekening te worden gehouden met mogelijke meetonzekerheden.\" berarti \"Kemungkinan ketidakpastian pengukuran wajib turut diperhitungkan.\"."
+        "explanation": "Kalimat \"Er dient rekening te worden gehouden met mogelijke meetonzekerheden.\" (dibaca: Er dient rekening te worden gehouden met mogeleyke me:tonzekerheden.) berarti \"Kemungkinan ketidakpastian pengukuran wajib turut diperhitungkan.\". Kalimat ini menggunakan pola \"Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord\" (Complexe Passieve Constructies in Wetenschappelijke Rapporten) yang berfungsi untuk konstruksi pasif gabungan dengan kata kerja modalitas dalam penyusunan prosedur eksperimen dan tinjauan pustaka."
       },
       {
         "id": "q-nl-gram-35-pg-4",
@@ -16173,7 +16278,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-35-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Complexe Passieve Constructies in Wetenschappelijke Rapporten\"?",
         "options": [
           "Ik zie uw feedback met belangstelling tegemoet en dank u voor uw begeleiding. — Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda.",
           "Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling. — Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah.",
@@ -16187,7 +16292,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-35-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Complexe Passieve Constructies in Wetenschappelijke Rapporten\"?",
         "options": [
           "Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie. — Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya.",
           "Hoogachtend, namens de voltallige onderzoekscommissie. — Hormat kami, atas nama seluruh anggota komisi penelitian.",
@@ -16201,7 +16306,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-35-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Complexe Passieve Constructies in Wetenschappelijke Rapporten\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -16452,7 +16557,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd.\" berarti \"Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi.\"."
+        "explanation": "Kalimat \"Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd.\" (dibaca: Deze onderzuksgegevens muten met grote zorgvuldigheid worden geïnterprete:rd.) berarti \"Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi.\". Kalimat ini menggunakan pola \"Onderwerp + Moeten/Kunnen + Rest + Worden/Zijn + Voltooid Deelwoord\" (Complexe Passieve Constructies in Wetenschappelijke Rapporten) yang berfungsi untuk konstruksi pasif gabungan dengan kata kerja modalitas dalam penyusunan prosedur eksperimen dan tinjauan pustaka."
       },
       {
         "id": "q-nl-gram-35-bb-2",
@@ -16527,24 +16632,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan paragraf esai argumen ilmiah dengan kata penanda wacana tingkat tinggi yang berwibawa.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Tekstverbanden en Signaalwoorden in Academische Teksten' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Tekstverbanden en Signaalwoorden in Academische Teksten\" (Koppeling van alinea's met academische signaalwoorden) berfungsi untuk: menghubungkan paragraf esai argumen ilmiah dengan kata penanda wacana tingkat tinggi yang berwibawa. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan. — Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada."
+          "Rumus utama: Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom",
+          "Contoh 1: Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan. (Desalniettemin bleyven er fundamentele vragen over de langetermeyneffecten besta:n.) — Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan penanda wacana formal seperti 'desalniettemin' dan 'derhalve' dalam naskah disertasi.",
         "ruleList": [
-          "Daarentegen toont recent empirisch onderzoek een tegenovergestelde trend aan. — Sebaliknya, penelitian empiris terkini menunjukkan kecenderungan tren yang berlawanan."
+          "Polanya: Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom",
+          "Contoh 2: Daarentegen toont recent empirisch onderzoek een tegenovergestelde trend aan. (Da:rentegen to:nt recent empiriskh onderzuk e:n tegenovergestelde trend a:n.) — Sebaliknya, penelitian empiris terkini menunjukkan kecenderungan tren yang berlawanan."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Tekstverbanden en Signaalwoorden in Academische Teksten\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Derhalve concluderen de auteurs dat nader veldonderzoek dringend gewenst is. — Oleh sebab itu, para penulis menyimpulkan bahwa penelitian lapangan lanjutan sangat diperlukan."
+          "Contoh 3: Derhalve concluderen de auteurs dat nader veldonderzoek dringend gewenst is. (Derhalve concluderen de auteurs dat nader veldonderzuk dringend gewenst is.) — Oleh sebab itu, para penulis menyimpulkan bahwa penelitian lapangan lanjutan sangat diperlukan.",
+          "Hindari kesalahan: \"maar toch (te informeel in een dissertatie)\" → gunakan bentuk yang benar: \"desalniettemin / daarentegen\"."
         ]
       }
     ],
@@ -16552,19 +16660,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-36-ex-1",
         "native": "Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan.",
-        "phonetic": "",
+        "phonetic": "Desalniettemin bleyven er fundamentele vragen over de langetermeyneffecten besta:n.",
         "translationId": "Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada."
       },
       {
         "id": "nl-gram-36-ex-2",
         "native": "Daarentegen toont recent empirisch onderzoek een tegenovergestelde trend aan.",
-        "phonetic": "",
+        "phonetic": "Da:rentegen to:nt recent empiriskh onderzuk e:n tegenovergestelde trend a:n.",
         "translationId": "Sebaliknya, penelitian empiris terkini menunjukkan kecenderungan tren yang berlawanan."
       },
       {
         "id": "nl-gram-36-ex-3",
         "native": "Derhalve concluderen de auteurs dat nader veldonderzoek dringend gewenst is.",
-        "phonetic": "",
+        "phonetic": "Derhalve concluderen de auteurs dat nader veldonderzuk dringend gewenst is.",
         "translationId": "Oleh sebab itu, para penulis menyimpulkan bahwa penelitian lapangan lanjutan sangat diperlukan."
       }
     ],
@@ -16580,7 +16688,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Tekstverbanden en Signaalwoorden in Academische Teksten' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Tekstverbanden en Signaalwoorden in Academische Teksten\" (Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-36-pg-1",
@@ -16596,7 +16704,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan.\" berarti \"Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada.\"."
+        "explanation": "Kalimat \"Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan.\" (dibaca: Desalniettemin bleyven er fundamentele vragen over de langetermeyneffecten besta:n.) berarti \"Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada.\". Kalimat ini menggunakan pola \"Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom\" (Tekstverbanden en Signaalwoorden in Academische Teksten) yang berfungsi untuk menghubungkan paragraf esai argumen ilmiah dengan kata penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-nl-gram-36-pg-2",
@@ -16612,7 +16720,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu belum dapat memahami literatur yang sulit tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Daarentegen toont recent empirisch onderzoek een tegenovergestelde trend aan.\" berarti \"Sebaliknya, penelitian empiris terkini menunjukkan kecenderungan tren yang berlawanan.\"."
+        "explanation": "Kalimat \"Daarentegen toont recent empirisch onderzoek een tegenovergestelde trend aan.\" (dibaca: Da:rentegen to:nt recent empiriskh onderzuk e:n tegenovergestelde trend a:n.) berarti \"Sebaliknya, penelitian empiris terkini menunjukkan kecenderungan tren yang berlawanan.\". Kalimat ini menggunakan pola \"Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom\" (Tekstverbanden en Signaalwoorden in Academische Teksten) yang berfungsi untuk menghubungkan paragraf esai argumen ilmiah dengan kata penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-nl-gram-36-pg-3",
@@ -16628,7 +16736,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka terpaksa harus menjalankan ulang eksperimen tersebut akibat gangguan teknis."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Derhalve concluderen de auteurs dat nader veldonderzoek dringend gewenst is.\" berarti \"Oleh sebab itu, para penulis menyimpulkan bahwa penelitian lapangan lanjutan sangat diperlukan.\"."
+        "explanation": "Kalimat \"Derhalve concluderen de auteurs dat nader veldonderzoek dringend gewenst is.\" (dibaca: Derhalve concluderen de auteurs dat nader veldonderzuk dringend gewenst is.) berarti \"Oleh sebab itu, para penulis menyimpulkan bahwa penelitian lapangan lanjutan sangat diperlukan.\". Kalimat ini menggunakan pola \"Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom\" (Tekstverbanden en Signaalwoorden in Academische Teksten) yang berfungsi untuk menghubungkan paragraf esai argumen ilmiah dengan kata penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-nl-gram-36-pg-4",
@@ -16648,7 +16756,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-36-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Tekstverbanden en Signaalwoorden in Academische Teksten\"?",
         "options": [
           "Dit brengt mij bij het tweede punt van mijn betoog, namelijk de empirische bevindingen. — Hal ini membawa saya pada poin kedua dari paparan saya, yakni temuan-temuan empiris.",
           "De student heeft de moeilijke literatuur niet kunnen begrijpen. — Mahasiswa itu belum dapat memahami literatur yang sulit tersebut.",
@@ -16662,7 +16770,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-36-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Tekstverbanden en Signaalwoorden in Academische Teksten\"?",
         "options": [
           "Derhalve concluderen de auteurs dat nader veldonderzoek dringend gewenst is. — Oleh sebab itu, para penulis menyimpulkan bahwa penelitian lapangan lanjutan sangat diperlukan.",
           "Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling. — Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah.",
@@ -16676,7 +16784,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-36-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Tekstverbanden en Signaalwoorden in Academische Teksten\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -16927,7 +17035,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan.\" berarti \"Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada.\"."
+        "explanation": "Kalimat \"Desalniettemin blijven er fundamentele vragen over de langetermijneffecten bestaan.\" (dibaca: Desalniettemin bleyven er fundamentele vragen over de langetermeyneffecten besta:n.) berarti \"Kendati demikian, pertanyaan-pertanyaan mendasar mengenai dampak jangka panjang masih tetap ada.\". Kalimat ini menggunakan pola \"Bovendien / Desalniettemin / Daarentegen / Derhalve / Kortom\" (Tekstverbanden en Signaalwoorden in Academische Teksten) yang berfungsi untuk menghubungkan paragraf esai argumen ilmiah dengan kata penanda wacana tingkat tinggi yang berwibawa."
       },
       {
         "id": "q-nl-gram-36-bb-2",
@@ -17002,24 +17110,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengakui kebenaran parsial argumen lawan sebelum menegaskan kembali keunggulan posisi teoretis sendiri.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Uitdrukken van Concessie en Relativering' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Uitdrukken van Concessie en Relativering\" (Nuancering en toegeving in wetenschappelijke debatten) berfungsi untuk: mengakui kebenaran parsial argumen lawan sebelum menegaskan kembali keunggulan posisi teoretis sendiri. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot. — Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi."
+          "Rumus utama: Weliswaar ... maar / Hoewel ... toch / Onverlet dat",
+          "Contoh 1: Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot. (Weliswa:r kent dit model bepa:lde beperkingen, ma:r de vo:rspellende wa:rde is gro:t.) — Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Weliswaar ... maar / Hoewel ... toch / Onverlet dat menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Weliswaar ... maar / Hoewel ... toch / Onverlet dat\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Konstruksi berpasangan 'weliswaar... maar' mengekspresikan konsesi ilmiah yang berimbang.",
         "ruleList": [
-          "Het staat buiten kijf dat deze aanpak innovatief is, zij het niet zonder risico's. — Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko."
+          "Polanya: Weliswaar ... maar / Hoewel ... toch / Onverlet dat",
+          "Contoh 2: Het staat buiten kijf dat deze aanpak innovatief is, zij het niet zonder risico's. (Het sta:t böyten keyf dat deze a:npak innovatief is, zey het niet zonder risico's.) — Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Uitdrukken van Concessie en Relativering\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Onverlet het feit dat er bezwaren zijn, zetten de onderzoekers het project voort. — Terlepas dari kenyataan adanya sejumlah keberatan, para peneliti tetap melanjutkan proyek tersebut."
+          "Contoh 3: Onverlet het feit dat er bezwaren zijn, zetten de onderzoekers het project voort. (Onverlet het feit dat er bezwaren zeyn, zetten de onderzukers het project vo:rt.) — Terlepas dari kenyataan adanya sejumlah keberatan, para peneliti tetap melanjutkan proyek tersebut.",
+          "Hindari kesalahan: \"het is goed maar het heeft fouten\" → gunakan bentuk yang benar: \"weliswaar kent het beperkingen, maar...\"."
         ]
       }
     ],
@@ -17027,19 +17138,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-37-ex-1",
         "native": "Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot.",
-        "phonetic": "",
+        "phonetic": "Weliswa:r kent dit model bepa:lde beperkingen, ma:r de vo:rspellende wa:rde is gro:t.",
         "translationId": "Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi."
       },
       {
         "id": "nl-gram-37-ex-2",
         "native": "Het staat buiten kijf dat deze aanpak innovatief is, zij het niet zonder risico's.",
-        "phonetic": "",
+        "phonetic": "Het sta:t böyten keyf dat deze a:npak innovatief is, zey het niet zonder risico's.",
         "translationId": "Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko."
       },
       {
         "id": "nl-gram-37-ex-3",
         "native": "Onverlet het feit dat er bezwaren zijn, zetten de onderzoekers het project voort.",
-        "phonetic": "",
+        "phonetic": "Onverlet het feit dat er bezwaren zeyn, zetten de onderzukers het project vo:rt.",
         "translationId": "Terlepas dari kenyataan adanya sejumlah keberatan, para peneliti tetap melanjutkan proyek tersebut."
       }
     ],
@@ -17055,7 +17166,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Uitdrukken van Concessie en Relativering' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Uitdrukken van Concessie en Relativering\" (Weliswaar ... maar / Hoewel ... toch / Onverlet dat) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-37-pg-1",
@@ -17071,7 +17182,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kami telah berkesempatan menemui menteri selama simposium berlangsung."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot.\" berarti \"Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi.\"."
+        "explanation": "Kalimat \"Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot.\" (dibaca: Weliswa:r kent dit model bepa:lde beperkingen, ma:r de vo:rspellende wa:rde is gro:t.) berarti \"Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi.\". Kalimat ini menggunakan pola \"Weliswaar ... maar / Hoewel ... toch / Onverlet dat\" (Uitdrukken van Concessie en Relativering) yang berfungsi untuk mengakui kebenaran parsial argumen lawan sebelum menegaskan kembali keunggulan posisi teoretis sendiri."
       },
       {
         "id": "q-nl-gram-37-pg-2",
@@ -17087,7 +17198,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Het staat buiten kijf dat deze aanpak innovatief is, zij het niet zonder risico's.\" berarti \"Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko.\"."
+        "explanation": "Kalimat \"Het staat buiten kijf dat deze aanpak innovatief is, zij het niet zonder risico's.\" (dibaca: Het sta:t böyten keyf dat deze a:npak innovatief is, zey het niet zonder risico's.) berarti \"Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko.\". Kalimat ini menggunakan pola \"Weliswaar ... maar / Hoewel ... toch / Onverlet dat\" (Uitdrukken van Concessie en Relativering) yang berfungsi untuk mengakui kebenaran parsial argumen lawan sebelum menegaskan kembali keunggulan posisi teoretis sendiri."
       },
       {
         "id": "q-nl-gram-37-pg-3",
@@ -17103,7 +17214,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Onverlet het feit dat er bezwaren zijn, zetten de onderzoekers het project voort.\" berarti \"Terlepas dari kenyataan adanya sejumlah keberatan, para peneliti tetap melanjutkan proyek tersebut.\"."
+        "explanation": "Kalimat \"Onverlet het feit dat er bezwaren zijn, zetten de onderzoekers het project voort.\" (dibaca: Onverlet het feit dat er bezwaren zeyn, zetten de onderzukers het project vo:rt.) berarti \"Terlepas dari kenyataan adanya sejumlah keberatan, para peneliti tetap melanjutkan proyek tersebut.\". Kalimat ini menggunakan pola \"Weliswaar ... maar / Hoewel ... toch / Onverlet dat\" (Uitdrukken van Concessie en Relativering) yang berfungsi untuk mengakui kebenaran parsial argumen lawan sebelum menegaskan kembali keunggulan posisi teoretis sendiri."
       },
       {
         "id": "q-nl-gram-37-pg-4",
@@ -17123,7 +17234,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-37-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Uitdrukken van Concessie en Relativering\"?",
         "options": [
           "Het staat buiten kijf dat deze aanpak innovatief is, zij het niet zonder risico's. — Tidak diragukan lagi bahwa pendekatan ini inovatif, walaupun bukannya tanpa risiko.",
           "Wij hebben de minister tijdens het symposium mogen ontmoeten. — Kami telah berkesempatan menemui menteri selama simposium berlangsung.",
@@ -17137,7 +17248,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-37-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Uitdrukken van Concessie en Relativering\"?",
         "options": [
           "De student heeft de moeilijke literatuur niet kunnen begrijpen. — Mahasiswa itu belum dapat memahami literatur yang sulit tersebut.",
           "Onverlet het feit dat er bezwaren zijn, zetten de onderzoekers het project voort. — Terlepas dari kenyataan adanya sejumlah keberatan, para peneliti tetap melanjutkan proyek tersebut.",
@@ -17151,7 +17262,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-37-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Uitdrukken van Concessie en Relativering\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17404,7 +17515,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu belum dapat memahami literatur yang sulit tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot.\" berarti \"Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi.\"."
+        "explanation": "Kalimat \"Weliswaar kent dit model bepaalde beperkingen, maar de voorspellende waarde is groot.\" (dibaca: Weliswa:r kent dit model bepa:lde beperkingen, ma:r de vo:rspellende wa:rde is gro:t.) berarti \"Model ini memang memiliki keterbatasan tertentu, namun nilai prediktifnya sangatlah tinggi.\". Kalimat ini menggunakan pola \"Weliswaar ... maar / Hoewel ... toch / Onverlet dat\" (Uitdrukken van Concessie en Relativering) yang berfungsi untuk mengakui kebenaran parsial argumen lawan sebelum menegaskan kembali keunggulan posisi teoretis sendiri."
       },
       {
         "id": "q-nl-gram-37-bb-2",
@@ -17479,24 +17590,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menguasai ungkapan metaforis profesional yang umum dipakai dalam diskusi universitas dan media berkualitas.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden\" (Vaste uitdrukkingen en metaforen in het professionele Nederlands) berfungsi untuk: menguasai ungkapan metaforis profesional yang umum dipakai dalam diskusi universitas dan media berkualitas. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten. — Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor."
+          "Rumus utama: Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten",
+          "Contoh 1: Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten. (Met dit ba:nbrekende prufskhrift he:ft de promovendus het spits afgebeten.) — Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Pemakaian ungkapan idiomatik yang tepat memperkaya daya persuasi wacana profesional.",
         "ruleList": [
-          "Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten. — Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan."
+          "Polanya: Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten",
+          "Contoh 2: Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten. (Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten.) — Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "We moeten roeien met de riemen die we hebben in deze uitdagende situatie. — Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini."
+          "Contoh 3: We moeten roeien met de riemen die we hebben in deze uitdagende situatie. (We muten ruien met de riemen die we hebben in deze öytdagende situatie.) — Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini.",
+          "Hindari kesalahan: \"hij was de eerste (zonder idioom)\" → gunakan bentuk yang benar: \"hij heeft het spits afgebeten\"."
         ]
       }
     ],
@@ -17504,19 +17618,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-38-ex-1",
         "native": "Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten.",
-        "phonetic": "",
+        "phonetic": "Met dit ba:nbrekende prufskhrift he:ft de promovendus het spits afgebeten.",
         "translationId": "Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor."
       },
       {
         "id": "nl-gram-38-ex-2",
         "native": "Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten.",
-        "phonetic": "",
+        "phonetic": "Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten.",
         "translationId": "Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan."
       },
       {
         "id": "nl-gram-38-ex-3",
         "native": "We moeten roeien met de riemen die we hebben in deze uitdagende situatie.",
-        "phonetic": "",
+        "phonetic": "We muten ruien met de riemen die we hebben in deze öytdagende situatie.",
         "translationId": "Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini."
       }
     ],
@@ -17532,7 +17646,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden\" (Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-38-pg-1",
@@ -17548,7 +17662,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mereka sudah berangkat sebelum keputusan resmi diumumkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten.\" berarti \"Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor.\"."
+        "explanation": "Kalimat \"Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten.\" (dibaca: Met dit ba:nbrekende prufskhrift he:ft de promovendus het spits afgebeten.) berarti \"Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor.\". Kalimat ini menggunakan pola \"Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten\" (Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden) yang berfungsi untuk menguasai ungkapan metaforis profesional yang umum dipakai dalam diskusi universitas dan media berkualitas."
       },
       {
         "id": "q-nl-gram-38-pg-2",
@@ -17564,7 +17678,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten.\" berarti \"Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan.\"."
+        "explanation": "Kalimat \"Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten.\" (dibaca: Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten.) berarti \"Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan.\". Kalimat ini menggunakan pola \"Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten\" (Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden) yang berfungsi untuk menguasai ungkapan metaforis profesional yang umum dipakai dalam diskusi universitas dan media berkualitas."
       },
       {
         "id": "q-nl-gram-38-pg-3",
@@ -17580,7 +17694,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"We moeten roeien met de riemen die we hebben in deze uitdagende situatie.\" berarti \"Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini.\"."
+        "explanation": "Kalimat \"We moeten roeien met de riemen die we hebben in deze uitdagende situatie.\" (dibaca: We muten ruien met de riemen die we hebben in deze öytdagende situatie.) berarti \"Kita harus memaksimalkan sumber daya yang ada dalam situasi yang penuh tantangan ini.\". Kalimat ini menggunakan pola \"Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten\" (Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden) yang berfungsi untuk menguasai ungkapan metaforis profesional yang umum dipakai dalam diskusi universitas dan media berkualitas."
       },
       {
         "id": "q-nl-gram-38-pg-4",
@@ -17600,7 +17714,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-38-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden\"?",
         "options": [
           "Zij waren al vertrokken voordat het officiële besluit werd bekendgemaakt. — Mereka sudah berangkat sebelum keputusan resmi diumumkan.",
           "Het rapport legt de vinger op de zere plek wat betreft de financieringstekorten. — Laporan tersebut menunjuk tepat pada akar permasalahan terkait defisit pendanaan.",
@@ -17614,7 +17728,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-38-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden\"?",
         "options": [
           "Nadat de wetenschappers de hypothese hadden geformuleerd, startten zij de experimenten. — Setelah para ilmuwan merumuskan hipotesis tersebut, mereka memulai rangkaian eksperimen.",
           "Toen de conferentie begon, had het team het manuscript al ingediend. — Ketika konferensi dimulai, tim peneliti sudah menyerahkan naskah tersebut.",
@@ -17628,7 +17742,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-38-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -17879,7 +17993,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten.\" berarti \"Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor.\"."
+        "explanation": "Kalimat \"Met dit baanbrekende proefschrift heeft de promovendus het spits afgebeten.\" (dibaca: Met dit ba:nbrekende prufskhrift he:ft de promovendus het spits afgebeten.) berarti \"Melalui disertasi terobosan ini, kandidat doktor tersebut telah membuka jalan sebagai pelopor.\". Kalimat ini menggunakan pola \"Spreekwoorden en gezegden: De vinger op de zere plek leggen, Het spits afbijten\" (Idiomatische Uitdrukkingen en Zakelijke Spreekwoorden) yang berfungsi untuk menguasai ungkapan metaforis profesional yang umum dipakai dalam diskusi universitas dan media berkualitas."
       },
       {
         "id": "q-nl-gram-38-bb-2",
@@ -17954,24 +18068,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Etiket korespondensi surel resmi kepada promotor tesis dan tata tertib rapat dewan fakultas di Belanda.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Professionele E-mailconventies en Vergaderetiquette' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Professionele E-mailconventies en Vergaderetiquette\" (Formele correspondentie en academisch overleg in Nederland) berfungsi untuk: etiket korespondensi surel resmi kepada promotor tesis dan tata tertib rapat dewan fakultas di Belanda. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie. — Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya."
+          "Rumus utama: Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van",
+          "Contoh 1: Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie. (Geachte professor van den berg, hierbey stü:r ik u de herziene versie van meyn scriptie.) — Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Awali surel resmi pertama kepada seorang guru besar dengan sapaan formal 'Geachte professor'.",
         "ruleList": [
-          "Ik zie uw feedback met belangstelling tegemoet en dank u voor uw begeleiding. — Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda."
+          "Polanya: Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van",
+          "Contoh 2: Ik zie uw feedback met belangstelling tegemoet en dank u voor uw begeleiding. (Ik zie uw fe:dback met belangstelling tegemut en dank u vo:r uw begeleiding.) — Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Professionele E-mailconventies en Vergaderetiquette\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Hoogachtend, namens de voltallige onderzoekscommissie. — Hormat kami, atas nama seluruh anggota komisi penelitian."
+          "Contoh 3: Hoogachtend, namens de voltallige onderzoekscommissie. (Ho:gachtend, namens de voltallige onderzukscommissie.) — Hormat kami, atas nama seluruh anggota komisi penelitian.",
+          "Hindari kesalahan: \"beste Jan (bij een eerste formele mail)\" → gunakan bentuk yang benar: \"geachte professor Van den Berg\"."
         ]
       }
     ],
@@ -17979,19 +18096,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-39-ex-1",
         "native": "Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie.",
-        "phonetic": "",
+        "phonetic": "Geachte professor van den berg, hierbey stü:r ik u de herziene versie van meyn scriptie.",
         "translationId": "Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya."
       },
       {
         "id": "nl-gram-39-ex-2",
         "native": "Ik zie uw feedback met belangstelling tegemoet en dank u voor uw begeleiding.",
-        "phonetic": "",
+        "phonetic": "Ik zie uw fe:dback met belangstelling tegemut en dank u vo:r uw begeleiding.",
         "translationId": "Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda."
       },
       {
         "id": "nl-gram-39-ex-3",
         "native": "Hoogachtend, namens de voltallige onderzoekscommissie.",
-        "phonetic": "",
+        "phonetic": "Ho:gachtend, namens de voltallige onderzukscommissie.",
         "translationId": "Hormat kami, atas nama seluruh anggota komisi penelitian."
       }
     ],
@@ -18007,7 +18124,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Professionele E-mailconventies en Vergaderetiquette' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Professionele E-mailconventies en Vergaderetiquette\" (Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-39-pg-1",
@@ -18023,7 +18140,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie.\" berarti \"Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya.\"."
+        "explanation": "Kalimat \"Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie.\" (dibaca: Geachte professor van den berg, hierbey stü:r ik u de herziene versie van meyn scriptie.) berarti \"Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya.\". Kalimat ini menggunakan pola \"Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van\" (Professionele E-mailconventies en Vergaderetiquette) yang berfungsi untuk etiket korespondensi surel resmi kepada promotor tesis dan tata tertib rapat dewan fakultas di Belanda."
       },
       {
         "id": "q-nl-gram-39-pg-2",
@@ -18039,7 +18156,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ik zie uw feedback met belangstelling tegemoet en dank u voor uw begeleiding.\" berarti \"Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda.\"."
+        "explanation": "Kalimat \"Ik zie uw feedback met belangstelling tegemoet en dank u voor uw begeleiding.\" (dibaca: Ik zie uw fe:dback met belangstelling tegemut en dank u vo:r uw begeleiding.) berarti \"Saya menantikan masukan Anda dengan penuh perhatian dan mengucapkan terima kasih atas bimbingan Anda.\". Kalimat ini menggunakan pola \"Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van\" (Professionele E-mailconventies en Vergaderetiquette) yang berfungsi untuk etiket korespondensi surel resmi kepada promotor tesis dan tata tertib rapat dewan fakultas di Belanda."
       },
       {
         "id": "q-nl-gram-39-pg-3",
@@ -18055,7 +18172,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Ketelitian ilmiah merupakan syarat mutlak bagi publikasi jurnal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Hoogachtend, namens de voltallige onderzoekscommissie.\" berarti \"Hormat kami, atas nama seluruh anggota komisi penelitian.\"."
+        "explanation": "Kalimat \"Hoogachtend, namens de voltallige onderzoekscommissie.\" (dibaca: Ho:gachtend, namens de voltallige onderzukscommissie.) berarti \"Hormat kami, atas nama seluruh anggota komisi penelitian.\". Kalimat ini menggunakan pola \"Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van\" (Professionele E-mailconventies en Vergaderetiquette) yang berfungsi untuk etiket korespondensi surel resmi kepada promotor tesis dan tata tertib rapat dewan fakultas di Belanda."
       },
       {
         "id": "q-nl-gram-39-pg-4",
@@ -18075,7 +18192,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-39-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Professionele E-mailconventies en Vergaderetiquette\"?",
         "options": [
           "Laten we toch even kritisch kijken naar de methodologische aannames. — Mari kita telaah sejenak secara kritis asumsi-asumsi metodologis tersebut.",
           "De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering. — Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan.",
@@ -18089,7 +18206,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-39-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Professionele E-mailconventies en Vergaderetiquette\"?",
         "options": [
           "Dat is immers een fundamenteel uitgangspunt van de moderne wetenschapsfilosofie. — Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern.",
           "Het experiment heeft wel degelijk waardevolle inzichten opgeleverd. — Eksperimen tersebut sungguh benar-benar menghasilkan wawasan yang berharga.",
@@ -18103,7 +18220,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-39-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Professionele E-mailconventies en Vergaderetiquette\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -18354,7 +18471,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hal itu bagaimanapun juga merupakan titik tolak fundamental dari filsafat ilmu modern."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie.\" berarti \"Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya.\"."
+        "explanation": "Kalimat \"Geachte professor Van den Berg, hierbij stuur ik u de herziene versie van mijn scriptie.\" (dibaca: Geachte professor van den berg, hierbey stü:r ik u de herziene versie van meyn scriptie.) berarti \"Yang terhormat Profesor Van den Berg, bersama ini saya kirimkan kepada Anda versi revisi skripsi saya.\". Kalimat ini menggunakan pola \"Geachte professor / Met vriendelijke groet / Hoogachtend / Ter attentie van\" (Professionele E-mailconventies en Vergaderetiquette) yang berfungsi untuk etiket korespondensi surel resmi kepada promotor tesis dan tata tertib rapat dewan fakultas di Belanda."
       },
       {
         "id": "q-nl-gram-39-bb-2",
@@ -18429,24 +18546,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Teknik retorika presentasi makalah seminar: mengantarkan topik, menyajikan bukti data, dan merespons pertanyaan kritis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Formele Presentatietechnieken voor Universitaire Werkstukken' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Formele Presentatietechnieken voor Universitaire Werkstukken\" (Structurering van academische mondelinge presentaties) berfungsi untuk: teknik retorika presentasi makalah seminar: mengantarkan topik, menyajikan bukti data, dan merespons pertanyaan kritis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling. — Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah."
+          "Rumus utama: Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie",
+          "Contoh 1: Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling. (Meyn presentatie is opgebouwd öyt drie ho:fdonderdelen, te beginnen met de proble:mstelling.) — Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan formula penstrukturan formal ketika mempresentasikan hasil karya ilmiah di universitas.",
         "ruleList": [
-          "Dit brengt mij bij het tweede punt van mijn betoog, namelijk de empirische bevindingen. — Hal ini membawa saya pada poin kedua dari paparan saya, yakni temuan-temuan empiris."
+          "Polanya: Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie",
+          "Contoh 2: Dit brengt mij bij het tweede punt van mijn betoog, namelijk de empirische bevindingen. (Dit brengt mey bey het twe:de punt van meyn beto:g, nameleyk de empiriskhe bevindingen.) — Hal ini membawa saya pada poin kedua dari paparan saya, yakni temuan-temuan empiris."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Formele Presentatietechnieken voor Universitaire Werkstukken\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Tot slot wil ik graag de vloer openen voor vragen en kritische opmerkingen van de zaal. — Sebagai penutup, saya mempersilakan hadirin untuk mengajukan pertanyaan dan tanggapan kritis."
+          "Contoh 3: Tot slot wil ik graag de vloer openen voor vragen en kritische opmerkingen van de zaal. (Tot slot wil ik gra:g de vlur openen vo:r vragen en kritiskhe opmerkingen van de za:l.) — Sebagai penutup, saya mempersilakan hadirin untuk mengajukan pertanyaan dan tanggapan kritis.",
+          "Hindari kesalahan: \"vandaag ga ik praten over\" → gunakan bentuk yang benar: \"in deze presentatie zal ik de resultaten toelichten van...\"."
         ]
       }
     ],
@@ -18454,19 +18574,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-40-ex-1",
         "native": "Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling.",
-        "phonetic": "",
+        "phonetic": "Meyn presentatie is opgebouwd öyt drie ho:fdonderdelen, te beginnen met de proble:mstelling.",
         "translationId": "Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah."
       },
       {
         "id": "nl-gram-40-ex-2",
         "native": "Dit brengt mij bij het tweede punt van mijn betoog, namelijk de empirische bevindingen.",
-        "phonetic": "",
+        "phonetic": "Dit brengt mey bey het twe:de punt van meyn beto:g, nameleyk de empiriskhe bevindingen.",
         "translationId": "Hal ini membawa saya pada poin kedua dari paparan saya, yakni temuan-temuan empiris."
       },
       {
         "id": "nl-gram-40-ex-3",
         "native": "Tot slot wil ik graag de vloer openen voor vragen en kritische opmerkingen van de zaal.",
-        "phonetic": "",
+        "phonetic": "Tot slot wil ik gra:g de vlur openen vo:r vragen en kritiskhe opmerkingen van de za:l.",
         "translationId": "Sebagai penutup, saya mempersilakan hadirin untuk mengajukan pertanyaan dan tanggapan kritis."
       }
     ],
@@ -18482,7 +18602,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Formele Presentatietechnieken voor Universitaire Werkstukken' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Formele Presentatietechnieken voor Universitaire Werkstukken\" (Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-40-pg-1",
@@ -18498,7 +18618,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling.\" berarti \"Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah.\"."
+        "explanation": "Kalimat \"Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling.\" (dibaca: Meyn presentatie is opgebouwd öyt drie ho:fdonderdelen, te beginnen met de proble:mstelling.) berarti \"Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah.\". Kalimat ini menggunakan pola \"Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie\" (Formele Presentatietechnieken voor Universitaire Werkstukken) yang berfungsi untuk teknik retorika presentasi makalah seminar: mengantarkan topik, menyajikan bukti data, dan merespons pertanyaan kritis."
       },
       {
         "id": "q-nl-gram-40-pg-2",
@@ -18514,7 +18634,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Dit brengt mij bij het tweede punt van mijn betoog, namelijk de empirische bevindingen.\" berarti \"Hal ini membawa saya pada poin kedua dari paparan saya, yakni temuan-temuan empiris.\"."
+        "explanation": "Kalimat \"Dit brengt mij bij het tweede punt van mijn betoog, namelijk de empirische bevindingen.\" (dibaca: Dit brengt mey bey het twe:de punt van meyn beto:g, nameleyk de empiriskhe bevindingen.) berarti \"Hal ini membawa saya pada poin kedua dari paparan saya, yakni temuan-temuan empiris.\". Kalimat ini menggunakan pola \"Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie\" (Formele Presentatietechnieken voor Universitaire Werkstukken) yang berfungsi untuk teknik retorika presentasi makalah seminar: mengantarkan topik, menyajikan bukti data, dan merespons pertanyaan kritis."
       },
       {
         "id": "q-nl-gram-40-pg-3",
@@ -18530,7 +18650,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Kemungkinan ketidakpastian pengukuran wajib turut diperhitungkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Tot slot wil ik graag de vloer openen voor vragen en kritische opmerkingen van de zaal.\" berarti \"Sebagai penutup, saya mempersilakan hadirin untuk mengajukan pertanyaan dan tanggapan kritis.\"."
+        "explanation": "Kalimat \"Tot slot wil ik graag de vloer openen voor vragen en kritische opmerkingen van de zaal.\" (dibaca: Tot slot wil ik gra:g de vlur openen vo:r vragen en kritiskhe opmerkingen van de za:l.) berarti \"Sebagai penutup, saya mempersilakan hadirin untuk mengajukan pertanyaan dan tanggapan kritis.\". Kalimat ini menggunakan pola \"Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie\" (Formele Presentatietechnieken voor Universitaire Werkstukken) yang berfungsi untuk teknik retorika presentasi makalah seminar: mengantarkan topik, menyajikan bukti data, dan merespons pertanyaan kritis."
       },
       {
         "id": "q-nl-gram-40-pg-4",
@@ -18550,7 +18670,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-40-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Formele Presentatietechnieken voor Universitaire Werkstukken\"?",
         "options": [
           "De betrouwbaarheid van de metingen werd door onafhankelijke experts bevestigd. — Keandalan hasil pengukuran tersebut telah dikonfirmasi oleh para pakar independen.",
           "Deze onderzoeksgegevens moeten met grote zorgvuldigheid worden geïnterpreteerd. — Data-data penelitian ini harus ditafsirkan dengan tingkat kehati-hatian yang tinggi.",
@@ -18564,7 +18684,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-40-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Formele Presentatietechnieken voor Universitaire Werkstukken\"?",
         "options": [
           "Tot slot wil ik graag de vloer openen voor vragen en kritische opmerkingen van de zaal. — Sebagai penutup, saya mempersilakan hadirin untuk mengajukan pertanyaan dan tanggapan kritis.",
           "De implementatie van het nieuwe beleid leidde tot aanzienlijke efficiëntieverbetering. — Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan.",
@@ -18578,7 +18698,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-40-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Formele Presentatietechnieken voor Universitaire Werkstukken\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -18831,7 +18951,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Implementasi kebijakan baru tersebut menghasilkan peningkatan efisiensi yang signifikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling.\" berarti \"Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah.\"."
+        "explanation": "Kalimat \"Mijn presentatie is opgebouwd uit drie hoofdonderdelen, te beginnen met de probleemstelling.\" (dibaca: Meyn presentatie is opgebouwd öyt drie ho:fdonderdelen, te beginnen met de proble:mstelling.) berarti \"Presentasi saya tersusun atas tiga bagian utama, dimulai dengan rumusan masalah.\". Kalimat ini menggunakan pola \"Introductie van de probleemstelling / Hoofdpunten / Conclusie en discussie\" (Formele Presentatietechnieken voor Universitaire Werkstukken) yang berfungsi untuk teknik retorika presentasi makalah seminar: mengantarkan topik, menyajikan bukti data, dan merespons pertanyaan kritis."
       },
       {
         "id": "q-nl-gram-40-bb-2",
@@ -18906,24 +19026,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menguasai struktur sintaksis rapat khas teks hukum dan monograf ilmiah Belanda tanpa memecah alur nalar.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Syntactische Verdichting en Complexe Tangconstructies' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Syntactische Verdichting en Complexe Tangconstructies\" (De uiterste grenzen van de Nederlandse tangconstructie) berfungsi untuk: menguasai struktur sintaksis rapat khas teks hukum dan monograf ilmiah Belanda tanpa memecah alur nalar. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen. — Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan."
+          "Rumus utama: Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen",
+          "Contoh 1: De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen. (De commissie he:ft de do:r diverse ma:tskhappeleyke organisaties ingediende bezwaren na ampele overweging verworpen.) — Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam konstruksi apit (tangconstructie), seluruh keterangan berada sebelum partisip lampau di ujung kalimat.",
         "ruleList": [
-          "Dit fenomeen kan aan de hand van recente empirische gegevens overtuigend worden verklaard. — Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini."
+          "Polanya: Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen",
+          "Contoh 2: Dit fenomeen kan aan de hand van recente empirische gegevens overtuigend worden verklaard. (Dit fenome:n kan a:n de hand van recente empiriskhe gegevens overtöygend worden verkla:rd.) — Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Syntactische Verdichting en Complexe Tangconstructies\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Het bestuur heeft besloten de voorstellen integraal over te nemen. — Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh."
+          "Contoh 3: Het bestuur heeft besloten de voorstellen integraal over te nemen. (Het bestü:r he:ft besloten de vo:rstellen integra:l over te nemen.) — Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh.",
+          "Hindari kesalahan: \"de commissie heeft verworpen de bezwaren na overweging\" → gunakan bentuk yang benar: \"de commissie heeft de bezwaren na ampele overweging verworpen\"."
         ]
       }
     ],
@@ -18931,19 +19054,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-41-ex-1",
         "native": "De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen.",
-        "phonetic": "",
+        "phonetic": "De commissie he:ft de do:r diverse ma:tskhappeleyke organisaties ingediende bezwaren na ampele overweging verworpen.",
         "translationId": "Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan."
       },
       {
         "id": "nl-gram-41-ex-2",
         "native": "Dit fenomeen kan aan de hand van recente empirische gegevens overtuigend worden verklaard.",
-        "phonetic": "",
+        "phonetic": "Dit fenome:n kan a:n de hand van recente empiriskhe gegevens overtöygend worden verkla:rd.",
         "translationId": "Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini."
       },
       {
         "id": "nl-gram-41-ex-3",
         "native": "Het bestuur heeft besloten de voorstellen integraal over te nemen.",
-        "phonetic": "",
+        "phonetic": "Het bestü:r he:ft besloten de vo:rstellen integra:l over te nemen.",
         "translationId": "Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh."
       }
     ],
@@ -18959,7 +19082,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Syntactische Verdichting en Complexe Tangconstructies' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Syntactische Verdichting en Complexe Tangconstructies\" (Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-41-pg-1",
@@ -18975,7 +19098,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen.\" berarti \"Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan.\"."
+        "explanation": "Kalimat \"De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen.\" (dibaca: De commissie he:ft de do:r diverse ma:tskhappeleyke organisaties ingediende bezwaren na ampele overweging verworpen.) berarti \"Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan.\". Kalimat ini menggunakan pola \"Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen\" (Syntactische Verdichting en Complexe Tangconstructies) yang berfungsi untuk menguasai struktur sintaksis rapat khas teks hukum dan monograf ilmiah Belanda tanpa memecah alur nalar."
       },
       {
         "id": "q-nl-gram-41-pg-2",
@@ -18991,7 +19114,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Dit fenomeen kan aan de hand van recente empirische gegevens overtuigend worden verklaard.\" berarti \"Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini.\"."
+        "explanation": "Kalimat \"Dit fenomeen kan aan de hand van recente empirische gegevens overtuigend worden verklaard.\" (dibaca: Dit fenome:n kan a:n de hand van recente empiriskhe gegevens overtöygend worden verkla:rd.) berarti \"Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini.\". Kalimat ini menggunakan pola \"Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen\" (Syntactische Verdichting en Complexe Tangconstructies) yang berfungsi untuk menguasai struktur sintaksis rapat khas teks hukum dan monograf ilmiah Belanda tanpa memecah alur nalar."
       },
       {
         "id": "q-nl-gram-41-pg-3",
@@ -19007,7 +19130,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Wacana mengenai imigrasi didominasi oleh kiasan citra arus dan gelombang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het bestuur heeft besloten de voorstellen integraal over te nemen.\" berarti \"Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh.\"."
+        "explanation": "Kalimat \"Het bestuur heeft besloten de voorstellen integraal over te nemen.\" (dibaca: Het bestü:r he:ft besloten de vo:rstellen integra:l over te nemen.) berarti \"Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh.\". Kalimat ini menggunakan pola \"Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen\" (Syntactische Verdichting en Complexe Tangconstructies) yang berfungsi untuk menguasai struktur sintaksis rapat khas teks hukum dan monograf ilmiah Belanda tanpa memecah alur nalar."
       },
       {
         "id": "q-nl-gram-41-pg-4",
@@ -19027,7 +19150,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-41-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Syntactische Verdichting en Complexe Tangconstructies\"?",
         "options": [
           "Dit fenomeen kan aan de hand van recente empirische gegevens overtuigend worden verklaard. — Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini.",
           "Het empirische bewijsmateriaal logenstraft de hypothese dat marktwerking leidt tot lagere kosten. — Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah.",
@@ -19041,7 +19164,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-41-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Syntactische Verdichting en Complexe Tangconstructies\"?",
         "options": [
           "Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout. — Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat.",
           "Het bestuur heeft besloten de voorstellen integraal over te nemen. — Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh.",
@@ -19055,7 +19178,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-41-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Syntactische Verdichting en Complexe Tangconstructies\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19310,7 +19433,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen.\" berarti \"Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan.\"."
+        "explanation": "Kalimat \"De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen.\" (dibaca: De commissie he:ft de do:r diverse ma:tskhappeleyke organisaties ingediende bezwaren na ampele overweging verworpen.) berarti \"Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan.\". Kalimat ini menggunakan pola \"Afstand tussen hulpwerkwoord en voltooid deelwoord met ingebedde bepalingen\" (Syntactische Verdichting en Complexe Tangconstructies) yang berfungsi untuk menguasai struktur sintaksis rapat khas teks hukum dan monograf ilmiah Belanda tanpa memecah alur nalar."
       },
       {
         "id": "q-nl-gram-41-bb-2",
@@ -19385,24 +19508,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghilangkan klise, menjaga kejernihan stilistika, dan memelihara objektivitas akademis yang berwibawa.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Subtiele Stijlaspecten van Wetenschappelijk Nederlands' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Subtiele Stijlaspecten van Wetenschappelijk Nederlands\" (Stilistische distantie, precisie en vermijding van gemeenplaatsen) berfungsi untuk: menghilangkan klise, menjaga kejernihan stilistika, dan memelihara objektivitas akademis yang berwibawa. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen. — Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini."
+          "Rumus utama: Gepreciseerde terminologie / Academische soberheid en precisie",
+          "Contoh 1: Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen. (Deze bevindingen nopen tot e:n fundamentele herbezinning op de vigerende theoretiskhe premissen.) — Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Gepreciseerde terminologie / Academische soberheid en precisie menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Gepreciseerde terminologie / Academische soberheid en precisie\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bahasa Belanda akademik menonjolkan kesahajaan, ketepatan konseptual, dan jarak objektif.",
         "ruleList": [
-          "De auteur betoogt met verve dat het institutionele kader ontoereikend is gebleken. — Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai."
+          "Polanya: Gepreciseerde terminologie / Academische soberheid en precisie",
+          "Contoh 2: De auteur betoogt met verve dat het institutionele kader ontoereikend is gebleken. (De auteur beto:gt met verve dat het institutionele kader ontureikend is gebleken.) — Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Subtiele Stijlaspecten van Wetenschappelijk Nederlands\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Er kan bezwaarlijk worden voorbijgegaan aan de epistemologische implicaties van dit proefschrift. — Implikasi epistemologis dari disertasi ini sulit untuk diabaikan begitu saja."
+          "Contoh 3: Er kan bezwaarlijk worden voorbijgegaan aan de epistemologische implicaties van dit proefschrift. (Er kan bezwa:rleyk worden vo:rbeygega:n a:n de epistemologiskhe implicaties van dit prufskhrift.) — Implikasi epistemologis dari disertasi ini sulit untuk diabaikan begitu saja.",
+          "Hindari kesalahan: \"deze bevindingen zijn heel erg belangrijk voor iedereen\" → gunakan bentuk yang benar: \"deze bevindingen nopen tot een herbezinning op de theoretische premissen\"."
         ]
       }
     ],
@@ -19410,19 +19536,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-42-ex-1",
         "native": "Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen.",
-        "phonetic": "",
+        "phonetic": "Deze bevindingen nopen tot e:n fundamentele herbezinning op de vigerende theoretiskhe premissen.",
         "translationId": "Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini."
       },
       {
         "id": "nl-gram-42-ex-2",
         "native": "De auteur betoogt met verve dat het institutionele kader ontoereikend is gebleken.",
-        "phonetic": "",
+        "phonetic": "De auteur beto:gt met verve dat het institutionele kader ontureikend is gebleken.",
         "translationId": "Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai."
       },
       {
         "id": "nl-gram-42-ex-3",
         "native": "Er kan bezwaarlijk worden voorbijgegaan aan de epistemologische implicaties van dit proefschrift.",
-        "phonetic": "",
+        "phonetic": "Er kan bezwa:rleyk worden vo:rbeygega:n a:n de epistemologiskhe implicaties van dit prufskhrift.",
         "translationId": "Implikasi epistemologis dari disertasi ini sulit untuk diabaikan begitu saja."
       }
     ],
@@ -19438,7 +19564,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Subtiele Stijlaspecten van Wetenschappelijk Nederlands' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Subtiele Stijlaspecten van Wetenschappelijk Nederlands\" (Gepreciseerde terminologie / Academische soberheid en precisie) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-42-pg-1",
@@ -19454,7 +19580,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen.\" berarti \"Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini.\"."
+        "explanation": "Kalimat \"Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen.\" (dibaca: Deze bevindingen nopen tot e:n fundamentele herbezinning op de vigerende theoretiskhe premissen.) berarti \"Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini.\". Kalimat ini menggunakan pola \"Gepreciseerde terminologie / Academische soberheid en precisie\" (Subtiele Stijlaspecten van Wetenschappelijk Nederlands) yang berfungsi untuk menghilangkan klise, menjaga kejernihan stilistika, dan memelihara objektivitas akademis yang berwibawa."
       },
       {
         "id": "q-nl-gram-42-pg-2",
@@ -19470,7 +19596,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De auteur betoogt met verve dat het institutionele kader ontoereikend is gebleken.\" berarti \"Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai.\"."
+        "explanation": "Kalimat \"De auteur betoogt met verve dat het institutionele kader ontoereikend is gebleken.\" (dibaca: De auteur beto:gt met verve dat het institutionele kader ontureikend is gebleken.) berarti \"Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai.\". Kalimat ini menggunakan pola \"Gepreciseerde terminologie / Academische soberheid en precisie\" (Subtiele Stijlaspecten van Wetenschappelijk Nederlands) yang berfungsi untuk menghilangkan klise, menjaga kejernihan stilistika, dan memelihara objektivitas akademis yang berwibawa."
       },
       {
         "id": "q-nl-gram-42-pg-3",
@@ -19486,7 +19612,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Implikasi epistemologis dari disertasi ini sulit untuk diabaikan begitu saja."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Er kan bezwaarlijk worden voorbijgegaan aan de epistemologische implicaties van dit proefschrift.\" berarti \"Implikasi epistemologis dari disertasi ini sulit untuk diabaikan begitu saja.\"."
+        "explanation": "Kalimat \"Er kan bezwaarlijk worden voorbijgegaan aan de epistemologische implicaties van dit proefschrift.\" (dibaca: Er kan bezwa:rleyk worden vo:rbeygega:n a:n de epistemologiskhe implicaties van dit prufskhrift.) berarti \"Implikasi epistemologis dari disertasi ini sulit untuk diabaikan begitu saja.\". Kalimat ini menggunakan pola \"Gepreciseerde terminologie / Academische soberheid en precisie\" (Subtiele Stijlaspecten van Wetenschappelijk Nederlands) yang berfungsi untuk menghilangkan klise, menjaga kejernihan stilistika, dan memelihara objektivitas akademis yang berwibawa."
       },
       {
         "id": "q-nl-gram-42-pg-4",
@@ -19506,7 +19632,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-42-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Subtiele Stijlaspecten van Wetenschappelijk Nederlands\"?",
         "options": [
           "Deze metaforiek verhult de structurele kwetsbaarheid van flexibele arbeidskrachten. — Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel.",
           "De auteur betoogt met verve dat het institutionele kader ontoereikend is gebleken. — Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai.",
@@ -19520,7 +19646,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-42-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Subtiele Stijlaspecten van Wetenschappelijk Nederlands\"?",
         "options": [
           "In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang. — Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi.",
           "Het discours over immigratie wordt gedomineerd door beelden van stromen en golven. — Wacana mengenai imigrasi didominasi oleh kiasan citra arus dan gelombang.",
@@ -19534,7 +19660,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-42-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Subtiele Stijlaspecten van Wetenschappelijk Nederlands\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -19789,7 +19915,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen.\" berarti \"Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini.\"."
+        "explanation": "Kalimat \"Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen.\" (dibaca: Deze bevindingen nopen tot e:n fundamentele herbezinning op de vigerende theoretiskhe premissen.) berarti \"Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini.\". Kalimat ini menggunakan pola \"Gepreciseerde terminologie / Academische soberheid en precisie\" (Subtiele Stijlaspecten van Wetenschappelijk Nederlands) yang berfungsi untuk menghilangkan klise, menjaga kejernihan stilistika, dan memelihara objektivitas akademis yang berwibawa."
       },
       {
         "id": "q-nl-gram-42-bb-2",
@@ -19864,24 +19990,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah menyusun bab metodologi disertasi doktoral: operasionalisasi variabel, validitas data, dan reliabilitas uji.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Formulering van Onderzoeksvragen en Methodologische Verantwoording' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Formulering van Onderzoeksvragen en Methodologische Verantwoording\" (De methodologische verantwoording in proefschriften) berfungsi untuk: kaidah menyusun bab metodologi disertasi doktoral: operasionalisasi variabel, validitas data, dan reliabilitas uji. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs. — Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan."
+          "Rumus utama: Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie",
+          "Contoh 1: De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs. (De centrale onderzuksvra:g löydt in huverre digitalisering beydra:gt a:n kansengeleykheid in het onderweys.) — Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Rumuskan masalah penelitian ilmiah dengan pembatasan konsep yang tajam dan terukur.",
         "ruleList": [
-          "Ter validering van de kwalitatieve interviews is een representatieve enquête uitgezet. — Guna memvalidasi hasil wawancara kualitatif, telah disebarkan kuesioner survei yang representatif."
+          "Polanya: Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie",
+          "Contoh 2: Ter validering van de kwalitatieve interviews is een representatieve enquête uitgezet. (Ter validering van de kwalitatieve interviews is e:n representatieve enquête öytgezet.) — Guna memvalidasi hasil wawancara kualitatif, telah disebarkan kuesioner survei yang representatif."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Formulering van Onderzoeksvragen en Methodologische Verantwoording\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Methodologische triangulatie waarborgt de robuustheid van de geformuleerde conclusies. — Triangulasi metodologis menjamin ketangguhan dari kesimpulan-kesimpulan yang dirumuskan."
+          "Contoh 3: Methodologische triangulatie waarborgt de robuustheid van de geformuleerde conclusies. (Methodologiskhe triangulatie wa:rborgt de robü:stheid van de geformule:rde conclusies.) — Triangulasi metodologis menjamin ketangguhan dari kesimpulan-kesimpulan yang dirumuskan.",
+          "Hindari kesalahan: \"mijn vraag is of digitalisering helpt\" → gunakan bentuk yang benar: \"de centrale vraag luidt in hoeverre digitalisering bijdraagt aan...\"."
         ]
       }
     ],
@@ -19889,19 +20018,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-43-ex-1",
         "native": "De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs.",
-        "phonetic": "",
+        "phonetic": "De centrale onderzuksvra:g löydt in huverre digitalisering beydra:gt a:n kansengeleykheid in het onderweys.",
         "translationId": "Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan."
       },
       {
         "id": "nl-gram-43-ex-2",
         "native": "Ter validering van de kwalitatieve interviews is een representatieve enquête uitgezet.",
-        "phonetic": "",
+        "phonetic": "Ter validering van de kwalitatieve interviews is e:n representatieve enquête öytgezet.",
         "translationId": "Guna memvalidasi hasil wawancara kualitatif, telah disebarkan kuesioner survei yang representatif."
       },
       {
         "id": "nl-gram-43-ex-3",
         "native": "Methodologische triangulatie waarborgt de robuustheid van de geformuleerde conclusies.",
-        "phonetic": "",
+        "phonetic": "Methodologiskhe triangulatie wa:rborgt de robü:stheid van de geformule:rde conclusies.",
         "translationId": "Triangulasi metodologis menjamin ketangguhan dari kesimpulan-kesimpulan yang dirumuskan."
       }
     ],
@@ -19917,7 +20046,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Formulering van Onderzoeksvragen en Methodologische Verantwoording' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Formulering van Onderzoeksvragen en Methodologische Verantwoording\" (Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-43-pg-1",
@@ -19933,7 +20062,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penulis mempersoalkan anggapan serba wajar yang digunakan saat mengemukakan nilai-nilai universal."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs.\" berarti \"Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan.\"."
+        "explanation": "Kalimat \"De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs.\" (dibaca: De centrale onderzuksvra:g löydt in huverre digitalisering beydra:gt a:n kansengeleykheid in het onderweys.) berarti \"Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan.\". Kalimat ini menggunakan pola \"Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie\" (Formulering van Onderzoeksvragen en Methodologische Verantwoording) yang berfungsi untuk kaidah menyusun bab metodologi disertasi doktoral: operasionalisasi variabel, validitas data, dan reliabilitas uji."
       },
       {
         "id": "q-nl-gram-43-pg-2",
@@ -19949,7 +20078,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Guna memvalidasi hasil wawancara kualitatif, telah disebarkan kuesioner survei yang representatif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Ter validering van de kwalitatieve interviews is een representatieve enquête uitgezet.\" berarti \"Guna memvalidasi hasil wawancara kualitatif, telah disebarkan kuesioner survei yang representatif.\"."
+        "explanation": "Kalimat \"Ter validering van de kwalitatieve interviews is een representatieve enquête uitgezet.\" (dibaca: Ter validering van de kwalitatieve interviews is e:n representatieve enquête öytgezet.) berarti \"Guna memvalidasi hasil wawancara kualitatif, telah disebarkan kuesioner survei yang representatif.\". Kalimat ini menggunakan pola \"Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie\" (Formulering van Onderzoeksvragen en Methodologische Verantwoording) yang berfungsi untuk kaidah menyusun bab metodologi disertasi doktoral: operasionalisasi variabel, validitas data, dan reliabilitas uji."
       },
       {
         "id": "q-nl-gram-43-pg-3",
@@ -19965,7 +20094,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penelitian di masa mendatang harus membuktikan sejauh mana temuan-temuan ini dapat digeneralisasikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Methodologische triangulatie waarborgt de robuustheid van de geformuleerde conclusies.\" berarti \"Triangulasi metodologis menjamin ketangguhan dari kesimpulan-kesimpulan yang dirumuskan.\"."
+        "explanation": "Kalimat \"Methodologische triangulatie waarborgt de robuustheid van de geformuleerde conclusies.\" (dibaca: Methodologiskhe triangulatie wa:rborgt de robü:stheid van de geformule:rde conclusies.) berarti \"Triangulasi metodologis menjamin ketangguhan dari kesimpulan-kesimpulan yang dirumuskan.\". Kalimat ini menggunakan pola \"Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie\" (Formulering van Onderzoeksvragen en Methodologische Verantwoording) yang berfungsi untuk kaidah menyusun bab metodologi disertasi doktoral: operasionalisasi variabel, validitas data, dan reliabilitas uji."
       },
       {
         "id": "q-nl-gram-43-pg-4",
@@ -19985,7 +20114,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-43-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Formulering van Onderzoeksvragen en Methodologische Verantwoording\"?",
         "options": [
           "De auteur problematiseert de vanzelfsprekendheid waarmee universele waarden worden geponeerd. — Penulis mempersoalkan anggapan serba wajar yang digunakan saat mengemukakan nilai-nilai universal.",
           "De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult. — Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini.",
@@ -19999,7 +20128,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-43-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Formulering van Onderzoeksvragen en Methodologische Verantwoording\"?",
         "options": [
           "Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot. — Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya.",
           "Deze hermeneutische lezing biedt een verhelderend perspectief op de postmoderne conditie. — Pembacaan hermeneutis ini menawarkan perspektif yang mencerahkan mengenai kondisi pascamodern.",
@@ -20013,7 +20142,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-43-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Formulering van Onderzoeksvragen en Methodologische Verantwoording\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -20262,7 +20391,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs.\" berarti \"Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan.\"."
+        "explanation": "Kalimat \"De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs.\" (dibaca: De centrale onderzuksvra:g löydt in huverre digitalisering beydra:gt a:n kansengeleykheid in het onderweys.) berarti \"Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan.\". Kalimat ini menggunakan pola \"Onderzoeksvraag / Doelstelling / Dataverzameling / Triangulatie\" (Formulering van Onderzoeksvragen en Methodologische Verantwoording) yang berfungsi untuk kaidah menyusun bab metodologi disertasi doktoral: operasionalisasi variabel, validitas data, dan reliabilitas uji."
       },
       {
         "id": "q-nl-gram-43-bb-2",
@@ -20337,24 +20466,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Teknik memparafrasa argumen pakar, menyitir literatur komparatif, dan menjaga etika integritas akademik.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Kritische Bronvermelding en Parafraseringstechnieken' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kritische Bronvermelding en Parafraseringstechnieken\" (Wetenschappelijke integriteit en geavanceerde bronverwijzing) berfungsi untuk: teknik memparafrasa argumen pakar, menyitir literatur komparatif, dan menjaga etika integritas akademik. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang. — Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan."
+          "Rumus utama: Parafraseren versus citeren / Auteursrecht en plagiaatpreventie",
+          "Contoh 1: Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang. (Zoals van deyk (2021) treffend öyte:nzet, is de contextuele inbedding van do:rslaggevend belang.) — Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Parafraseren versus citeren / Auteursrecht en plagiaatpreventie menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Parafraseren versus citeren / Auteursrecht en plagiaatpreventie\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Rujuklah otoritas keilmuan dengan kata kerja pelaporan akademik yang bervariasi dan tepat.",
         "ruleList": [
-          "Deze zienswijze sluit naadloos aan bij eerdere studies op het terrein van de sociolinguïstiek. — Pandangan ini sejalan sepenuhnya dengan studi-studi terdahulu di bidang sosiolinguistik."
+          "Polanya: Parafraseren versus citeren / Auteursrecht en plagiaatpreventie",
+          "Contoh 2: Deze zienswijze sluit naadloos aan bij eerdere studies op het terrein van de sociolinguïstiek. (Deze ziensweyze slöyt na:dlo:s a:n bey e:rdere studies op het terrein van de sociolinguïstiek.) — Pandangan ini sejalan sepenuhnya dengan studi-studi terdahulu di bidang sosiolinguistik."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kritische Bronvermelding en Parafraseringstechnieken\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De onderzoeker dient strikt te waken voor onzorgvuldige parafrasering en bronvervalsing. — Peneliti wajib menjaga diri secara ketat dari parafrasa yang ceroboh dan pemalsuan sumber."
+          "Contoh 3: De onderzoeker dient strikt te waken voor onzorgvuldige parafrasering en bronvervalsing. (De onderzuker dient strikt te waken vo:r onzorgvuldige parafrasering en bronvervalsing.) — Peneliti wajib menjaga diri secara ketat dari parafrasa yang ceroboh dan pemalsuan sumber.",
+          "Hindari kesalahan: \"de schrijver zei in zijn boek dat\" → gunakan bentuk yang benar: \"zoals Van Dijk (2021) overtuigend uiteenzet...\"."
         ]
       }
     ],
@@ -20362,19 +20494,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-44-ex-1",
         "native": "Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang.",
-        "phonetic": "",
+        "phonetic": "Zoals van deyk (2021) treffend öyte:nzet, is de contextuele inbedding van do:rslaggevend belang.",
         "translationId": "Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan."
       },
       {
         "id": "nl-gram-44-ex-2",
         "native": "Deze zienswijze sluit naadloos aan bij eerdere studies op het terrein van de sociolinguïstiek.",
-        "phonetic": "",
+        "phonetic": "Deze ziensweyze slöyt na:dlo:s a:n bey e:rdere studies op het terrein van de sociolinguïstiek.",
         "translationId": "Pandangan ini sejalan sepenuhnya dengan studi-studi terdahulu di bidang sosiolinguistik."
       },
       {
         "id": "nl-gram-44-ex-3",
         "native": "De onderzoeker dient strikt te waken voor onzorgvuldige parafrasering en bronvervalsing.",
-        "phonetic": "",
+        "phonetic": "De onderzuker dient strikt te waken vo:r onzorgvuldige parafrasering en bronvervalsing.",
         "translationId": "Peneliti wajib menjaga diri secara ketat dari parafrasa yang ceroboh dan pemalsuan sumber."
       }
     ],
@@ -20390,7 +20522,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Kritische Bronvermelding en Parafraseringstechnieken' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Kritische Bronvermelding en Parafraseringstechnieken\" (Parafraseren versus citeren / Auteursrecht en plagiaatpreventie) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-44-pg-1",
@@ -20406,7 +20538,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang.\" berarti \"Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan.\"."
+        "explanation": "Kalimat \"Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang.\" (dibaca: Zoals van deyk (2021) treffend öyte:nzet, is de contextuele inbedding van do:rslaggevend belang.) berarti \"Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan.\". Kalimat ini menggunakan pola \"Parafraseren versus citeren / Auteursrecht en plagiaatpreventie\" (Kritische Bronvermelding en Parafraseringstechnieken) yang berfungsi untuk teknik memparafrasa argumen pakar, menyitir literatur komparatif, dan menjaga etika integritas akademik."
       },
       {
         "id": "q-nl-gram-44-pg-2",
@@ -20422,7 +20554,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Deze zienswijze sluit naadloos aan bij eerdere studies op het terrein van de sociolinguïstiek.\" berarti \"Pandangan ini sejalan sepenuhnya dengan studi-studi terdahulu di bidang sosiolinguistik.\"."
+        "explanation": "Kalimat \"Deze zienswijze sluit naadloos aan bij eerdere studies op het terrein van de sociolinguïstiek.\" (dibaca: Deze ziensweyze slöyt na:dlo:s a:n bey e:rdere studies op het terrein van de sociolinguïstiek.) berarti \"Pandangan ini sejalan sepenuhnya dengan studi-studi terdahulu di bidang sosiolinguistik.\". Kalimat ini menggunakan pola \"Parafraseren versus citeren / Auteursrecht en plagiaatpreventie\" (Kritische Bronvermelding en Parafraseringstechnieken) yang berfungsi untuk teknik memparafrasa argumen pakar, menyitir literatur komparatif, dan menjaga etika integritas akademik."
       },
       {
         "id": "q-nl-gram-44-pg-3",
@@ -20438,7 +20570,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dengan izin Anda, saya ingin menguraikan lebih lanjut mengenai validitas statistik dari model tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"De onderzoeker dient strikt te waken voor onzorgvuldige parafrasering en bronvervalsing.\" berarti \"Peneliti wajib menjaga diri secara ketat dari parafrasa yang ceroboh dan pemalsuan sumber.\"."
+        "explanation": "Kalimat \"De onderzoeker dient strikt te waken voor onzorgvuldige parafrasering en bronvervalsing.\" (dibaca: De onderzuker dient strikt te waken vo:r onzorgvuldige parafrasering en bronvervalsing.) berarti \"Peneliti wajib menjaga diri secara ketat dari parafrasa yang ceroboh dan pemalsuan sumber.\". Kalimat ini menggunakan pola \"Parafraseren versus citeren / Auteursrecht en plagiaatpreventie\" (Kritische Bronvermelding en Parafraseringstechnieken) yang berfungsi untuk teknik memparafrasa argumen pakar, menyitir literatur komparatif, dan menjaga etika integritas akademik."
       },
       {
         "id": "q-nl-gram-44-pg-4",
@@ -20458,7 +20590,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-44-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Kritische Bronvermelding en Parafraseringstechnieken\"?",
         "options": [
           "Resumerend kan worden gesteld dat deze dissertatie een nieuwe dimensie toevoegt aan het debat. — Secara ringkas dapat ditegaskan bahwa disertasi ini menambahkan dimensi baru ke dalam perdebatan ilmiah.",
           "Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen. — Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya.",
@@ -20472,7 +20604,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-44-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Kritische Bronvermelding en Parafraseringstechnieken\"?",
         "options": [
           "De onderzoeker dient strikt te waken voor onzorgvuldige parafrasering en bronvervalsing. — Peneliti wajib menjaga diri secara ketat dari parafrasa yang ceroboh dan pemalsuan sumber.",
           "De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult. — Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini.",
@@ -20486,7 +20618,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-44-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Kritische Bronvermelding en Parafraseringstechnieken\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -20741,7 +20873,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang.\" berarti \"Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan.\"."
+        "explanation": "Kalimat \"Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang.\" (dibaca: Zoals van deyk (2021) treffend öyte:nzet, is de contextuele inbedding van do:rslaggevend belang.) berarti \"Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan.\". Kalimat ini menggunakan pola \"Parafraseren versus citeren / Auteursrecht en plagiaatpreventie\" (Kritische Bronvermelding en Parafraseringstechnieken) yang berfungsi untuk teknik memparafrasa argumen pakar, menyitir literatur komparatif, dan menjaga etika integritas akademik."
       },
       {
         "id": "q-nl-gram-44-bb-2",
@@ -20816,24 +20948,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memahami bahasa hukum tata negara, akta notariil, dan regulasi pendidikan tinggi di Belanda dan Flandria.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Juridische en Bestuurlijke Terminologie in de Lage Landen' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Juridische en Bestuurlijke Terminologie in de Lage Landen\" (Het bestuurlijk en juridisch idioom van Nederland en Vlaanderen) berfungsi untuk: memahami bahasa hukum tata negara, akta notariil, dan regulasi pendidikan tinggi di Belanda dan Flandria. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd. — Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah."
+          "Rumus utama: Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie",
+          "Contoh 1: Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd. (Krachtens artikel 7 van de wet op het hoger onderweys is het instellingsbestü:r bevugd.) — Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam naskah hukum Belanda, preposisi resmi seperti 'krachtens' dan 'ingevolge' memiliki kekuatan mengikat.",
         "ruleList": [
-          "Ingevolge deze ministeriële beschikking treden de nieuwe bekostigingsregels direct in werking. — Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung."
+          "Polanya: Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie",
+          "Contoh 2: Ingevolge deze ministeriële beschikking treden de nieuwe bekostigingsregels direct in werking. (Ingevolge deze ministeriële beskhikking treden de nieuwe bekostigingsregels direct in werking.) — Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Juridische en Bestuurlijke Terminologie in de Lage Landen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "De bestuursrechter heeft de vordering van de eiseres ongegrond verklaard. — Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan."
+          "Contoh 3: De bestuursrechter heeft de vordering van de eiseres ongegrond verklaard. (De bestü:rsrechter he:ft de vordering van de eiseres ongegrond verkla:rd.) — Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan.",
+          "Hindari kesalahan: \"volgens de wet mag het bestuur (te informeel in een statuut)\" → gunakan bentuk yang benar: \"krachtens artikel 7 is het bestuur bevoegd\"."
         ]
       }
     ],
@@ -20841,19 +20976,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-45-ex-1",
         "native": "Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd.",
-        "phonetic": "",
+        "phonetic": "Krachtens artikel 7 van de wet op het hoger onderweys is het instellingsbestü:r bevugd.",
         "translationId": "Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah."
       },
       {
         "id": "nl-gram-45-ex-2",
         "native": "Ingevolge deze ministeriële beschikking treden de nieuwe bekostigingsregels direct in werking.",
-        "phonetic": "",
+        "phonetic": "Ingevolge deze ministeriële beskhikking treden de nieuwe bekostigingsregels direct in werking.",
         "translationId": "Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung."
       },
       {
         "id": "nl-gram-45-ex-3",
         "native": "De bestuursrechter heeft de vordering van de eiseres ongegrond verklaard.",
-        "phonetic": "",
+        "phonetic": "De bestü:rsrechter he:ft de vordering van de eiseres ongegrond verkla:rd.",
         "translationId": "Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan."
       }
     ],
@@ -20869,7 +21004,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Juridische en Bestuurlijke Terminologie in de Lage Landen' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Juridische en Bestuurlijke Terminologie in de Lage Landen\" (Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-45-pg-1",
@@ -20885,7 +21020,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd.\" berarti \"Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah.\"."
+        "explanation": "Kalimat \"Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd.\" (dibaca: Krachtens artikel 7 van de wet op het hoger onderweys is het instellingsbestü:r bevugd.) berarti \"Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah.\". Kalimat ini menggunakan pola \"Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie\" (Juridische en Bestuurlijke Terminologie in de Lage Landen) yang berfungsi untuk memahami bahasa hukum tata negara, akta notariil, dan regulasi pendidikan tinggi di Belanda dan Flandria."
       },
       {
         "id": "q-nl-gram-45-pg-2",
@@ -20901,7 +21036,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ingevolge deze ministeriële beschikking treden de nieuwe bekostigingsregels direct in werking.\" berarti \"Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung.\"."
+        "explanation": "Kalimat \"Ingevolge deze ministeriële beschikking treden de nieuwe bekostigingsregels direct in werking.\" (dibaca: Ingevolge deze ministeriële beskhikking treden de nieuwe bekostigingsregels direct in werking.) berarti \"Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung.\". Kalimat ini menggunakan pola \"Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie\" (Juridische en Bestuurlijke Terminologie in de Lage Landen) yang berfungsi untuk memahami bahasa hukum tata negara, akta notariil, dan regulasi pendidikan tinggi di Belanda dan Flandria."
       },
       {
         "id": "q-nl-gram-45-pg-3",
@@ -20917,7 +21052,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De bestuursrechter heeft de vordering van de eiseres ongegrond verklaard.\" berarti \"Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan.\"."
+        "explanation": "Kalimat \"De bestuursrechter heeft de vordering van de eiseres ongegrond verklaard.\" (dibaca: De bestü:rsrechter he:ft de vordering van de eiseres ongegrond verkla:rd.) berarti \"Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan.\". Kalimat ini menggunakan pola \"Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie\" (Juridische en Bestuurlijke Terminologie in de Lage Landen) yang berfungsi untuk memahami bahasa hukum tata negara, akta notariil, dan regulasi pendidikan tinggi di Belanda dan Flandria."
       },
       {
         "id": "q-nl-gram-45-pg-4",
@@ -20937,7 +21072,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-45-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Juridische en Bestuurlijke Terminologie in de Lage Landen\"?",
         "options": [
           "Ingevolge deze ministeriële beschikking treden de nieuwe bekostigingsregels direct in werking. — Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung.",
           "Hooggeleerde opponent, ik dank u voor deze scherpzinnige vraag die het hart van mijn betoog raakt. — Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini.",
@@ -20951,7 +21086,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-45-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Juridische en Bestuurlijke Terminologie in de Lage Landen\"?",
         "options": [
           "Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen. — Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya.",
           "De bestuursrechter heeft de vordering van de eiseres ongegrond verklaard. — Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan.",
@@ -20965,7 +21100,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-45-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Juridische en Bestuurlijke Terminologie in de Lage Landen\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21218,7 +21353,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd.\" berarti \"Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah.\"."
+        "explanation": "Kalimat \"Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd.\" (dibaca: Krachtens artikel 7 van de wet op het hoger onderweys is het instellingsbestü:r bevugd.) berarti \"Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah.\". Kalimat ini menggunakan pola \"Vigerend / Krachtens / Ingevolge / Beschikking / Jurisprudentie\" (Juridische en Bestuurlijke Terminologie in de Lage Landen) yang berfungsi untuk memahami bahasa hukum tata negara, akta notariil, dan regulasi pendidikan tinggi di Belanda dan Flandria."
       },
       {
         "id": "q-nl-gram-45-bb-2",
@@ -21293,24 +21428,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyusun skema penalaran toulmin: data, klaim, pembenaran (warrant), dan bantahan kritis (rebuttal).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Retorische Argumentatiestructuren en Tegenwerpingen' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Retorische Argumentatiestructuren en Tegenwerpingen\" (Dialectische argumentatie en het pareren van wetenschappelijke kritiek) berfungsi untuk: menyusun skema penalaran toulmin: data, klaim, pembenaran (warrant), dan bantahan kritis (rebuttal). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout. — Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat."
+          "Rumus utama: Drogredenen vermijden / Tegenwerping formuleren en weerleggen",
+          "Contoh 1: Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout. (Men zou hiertegen kunnen inbrengen dat de ste:kprufomvang beperkt is; deze tegenwerping sneydt evenwel ge:n hout.) — Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Drogredenen vermijden / Tegenwerping formuleren en weerleggen menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Drogredenen vermijden / Tegenwerping formuleren en weerleggen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Tangkal sanggahan ilmiah dengan argumen berbasis data dan ketajaman logika.",
         "ruleList": [
-          "Het empirische bewijsmateriaal logenstraft de hypothese dat marktwerking leidt tot lagere kosten. — Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah."
+          "Polanya: Drogredenen vermijden / Tegenwerping formuleren en weerleggen",
+          "Contoh 2: Het empirische bewijsmateriaal logenstraft de hypothese dat marktwerking leidt tot lagere kosten. (Het empiriskhe beweysmateria:l logenstraft de hypothese dat marktwerking leidt tot lagere kosten.) — Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Retorische Argumentatiestructuren en Tegenwerpingen\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Een dergelijke gevolgtrekking berust op een causale misvatting die nader onderzoek vereist. — Penarikan kesimpulan semacam itu bertumpu pada kekeliruan kausal yang memerlukan penelitian lebih lanjut."
+          "Contoh 3: Een dergelijke gevolgtrekking berust op een causale misvatting die nader onderzoek vereist. (E:n dergeleyke gevolgtrekking berust op e:n causale misvatting die nader onderzuk vereist.) — Penarikan kesimpulan semacam itu bertumpu pada kekeliruan kausal yang memerlukan penelitian lebih lanjut.",
+          "Hindari kesalahan: \"die kritiek klopt gewoon niet\" → gunakan bentuk yang benar: \"deze tegenwerping snijdt evenwel geen hout gelet op de empirische data\"."
         ]
       }
     ],
@@ -21318,19 +21456,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-46-ex-1",
         "native": "Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout.",
-        "phonetic": "",
+        "phonetic": "Men zou hiertegen kunnen inbrengen dat de ste:kprufomvang beperkt is; deze tegenwerping sneydt evenwel ge:n hout.",
         "translationId": "Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat."
       },
       {
         "id": "nl-gram-46-ex-2",
         "native": "Het empirische bewijsmateriaal logenstraft de hypothese dat marktwerking leidt tot lagere kosten.",
-        "phonetic": "",
+        "phonetic": "Het empiriskhe beweysmateria:l logenstraft de hypothese dat marktwerking leidt tot lagere kosten.",
         "translationId": "Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah."
       },
       {
         "id": "nl-gram-46-ex-3",
         "native": "Een dergelijke gevolgtrekking berust op een causale misvatting die nader onderzoek vereist.",
-        "phonetic": "",
+        "phonetic": "E:n dergeleyke gevolgtrekking berust op e:n causale misvatting die nader onderzuk vereist.",
         "translationId": "Penarikan kesimpulan semacam itu bertumpu pada kekeliruan kausal yang memerlukan penelitian lebih lanjut."
       }
     ],
@@ -21346,7 +21484,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Retorische Argumentatiestructuren en Tegenwerpingen' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Retorische Argumentatiestructuren en Tegenwerpingen\" (Drogredenen vermijden / Tegenwerping formuleren en weerleggen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-46-pg-1",
@@ -21362,7 +21500,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout.\" berarti \"Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat.\"."
+        "explanation": "Kalimat \"Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout.\" (dibaca: Men zou hiertegen kunnen inbrengen dat de ste:kprufomvang beperkt is; deze tegenwerping sneydt evenwel ge:n hout.) berarti \"Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat.\". Kalimat ini menggunakan pola \"Drogredenen vermijden / Tegenwerping formuleren en weerleggen\" (Retorische Argumentatiestructuren en Tegenwerpingen) yang berfungsi untuk menyusun skema penalaran toulmin: data, klaim, pembenaran (warrant), dan bantahan kritis (rebuttal)."
       },
       {
         "id": "q-nl-gram-46-pg-2",
@@ -21378,7 +21516,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Het empirische bewijsmateriaal logenstraft de hypothese dat marktwerking leidt tot lagere kosten.\" berarti \"Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah.\"."
+        "explanation": "Kalimat \"Het empirische bewijsmateriaal logenstraft de hypothese dat marktwerking leidt tot lagere kosten.\" (dibaca: Het empiriskhe beweysmateria:l logenstraft de hypothese dat marktwerking leidt tot lagere kosten.) berarti \"Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah.\". Kalimat ini menggunakan pola \"Drogredenen vermijden / Tegenwerping formuleren en weerleggen\" (Retorische Argumentatiestructuren en Tegenwerpingen) yang berfungsi untuk menyusun skema penalaran toulmin: data, klaim, pembenaran (warrant), dan bantahan kritis (rebuttal)."
       },
       {
         "id": "q-nl-gram-46-pg-3",
@@ -21394,7 +21532,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penarikan kesimpulan semacam itu bertumpu pada kekeliruan kausal yang memerlukan penelitian lebih lanjut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Een dergelijke gevolgtrekking berust op een causale misvatting die nader onderzoek vereist.\" berarti \"Penarikan kesimpulan semacam itu bertumpu pada kekeliruan kausal yang memerlukan penelitian lebih lanjut.\"."
+        "explanation": "Kalimat \"Een dergelijke gevolgtrekking berust op een causale misvatting die nader onderzoek vereist.\" (dibaca: E:n dergeleyke gevolgtrekking berust op e:n causale misvatting die nader onderzuk vereist.) berarti \"Penarikan kesimpulan semacam itu bertumpu pada kekeliruan kausal yang memerlukan penelitian lebih lanjut.\". Kalimat ini menggunakan pola \"Drogredenen vermijden / Tegenwerping formuleren en weerleggen\" (Retorische Argumentatiestructuren en Tegenwerpingen) yang berfungsi untuk menyusun skema penalaran toulmin: data, klaim, pembenaran (warrant), dan bantahan kritis (rebuttal)."
       },
       {
         "id": "q-nl-gram-46-pg-4",
@@ -21414,7 +21552,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-46-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Retorische Argumentatiestructuren en Tegenwerpingen\"?",
         "options": [
           "Dit fenomeen kan aan de hand van recente empirische gegevens overtuigend worden verklaard. — Fenomena ini dapat dijelaskan secara meyakinkan berdasarkan data-data empiris terkini.",
           "Het empirische bewijsmateriaal logenstraft de hypothese dat marktwerking leidt tot lagere kosten. — Bukti-bukti empiris mematahkan hipotesis bahwa mekanisme pasar otomatis menghasilkan biaya yang lebih rendah.",
@@ -21428,7 +21566,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-46-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Retorische Argumentatiestructuren en Tegenwerpingen\"?",
         "options": [
           "De commissie heeft de door diverse maatschappelijke organisaties ingediende bezwaren na ampele overweging verworpen. — Komisi tersebut setelah pertimbangan mendalam telah menolak keberatan-keberatan yang diajukan oleh berbagai organisasi kemasyarakatan.",
           "Het bestuur heeft besloten de voorstellen integraal over te nemen. — Dewan pengurus telah memutuskan untuk mengadopsi usulan-usulan tersebut secara menyeluruh.",
@@ -21442,7 +21580,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-46-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Retorische Argumentatiestructuren en Tegenwerpingen\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -21699,7 +21837,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout.\" berarti \"Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat.\"."
+        "explanation": "Kalimat \"Men zou hiertegen kunnen inbrengen dat de steekproefomvang beperkt is; deze tegenwerping snijdt evenwel geen hout.\" (dibaca: Men zou hiertegen kunnen inbrengen dat de ste:kprufomvang beperkt is; deze tegenwerping sneydt evenwel ge:n hout.) berarti \"Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat.\". Kalimat ini menggunakan pola \"Drogredenen vermijden / Tegenwerping formuleren en weerleggen\" (Retorische Argumentatiestructuren en Tegenwerpingen) yang berfungsi untuk menyusun skema penalaran toulmin: data, klaim, pembenaran (warrant), dan bantahan kritis (rebuttal)."
       },
       {
         "id": "q-nl-gram-46-bb-2",
@@ -21774,24 +21912,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis bingkai metafora (framing) dalam wacana kebijakan publik, sosiologi, dan komunikasi politik Belanda.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten\" (De analyse van metaforiek in politiek en maatschappelijk discours) berfungsi untuk: menganalisis bingkai metafora (framing) dalam wacana kebijakan publik, sosiologi, dan komunikasi politik Belanda. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang. — Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi."
+          "Rumus utama: Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's",
+          "Contoh 1: In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang. (In het overheidsbeleid wordt de arbeidsmarkt ste:vast geframed als e:n motor van economiskhe vo:röytgang.) — Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Analisis bagaimana metafora konseptual turut mengarahkan pembentukan opini dan kebijakan publik.",
         "ruleList": [
-          "Deze metaforiek verhult de structurele kwetsbaarheid van flexibele arbeidskrachten. — Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel."
+          "Polanya: Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's",
+          "Contoh 2: Deze metaforiek verhult de structurele kwetsbaarheid van flexibele arbeidskrachten. (Deze metaforiek verhult de structurele kwetsba:rheid van flexibele arbeidskrachten.) — Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Het discours over immigratie wordt gedomineerd door beelden van stromen en golven. — Wacana mengenai imigrasi didominasi oleh kiasan citra arus dan gelombang."
+          "Contoh 3: Het discours over immigratie wordt gedomineerd door beelden van stromen en golven. (Het discours over immigratie wordt gedomine:rd do:r be:lden van stromen en golven.) — Wacana mengenai imigrasi didominasi oleh kiasan citra arus dan gelombang.",
+          "Hindari kesalahan: \"de tekst gebruikt metaforen\" → gunakan bentuk yang benar: \"in het beleidsdiscours wordt het vraagstuk geframed als...\"."
         ]
       }
     ],
@@ -21799,19 +21940,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-47-ex-1",
         "native": "In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang.",
-        "phonetic": "",
+        "phonetic": "In het overheidsbeleid wordt de arbeidsmarkt ste:vast geframed als e:n motor van economiskhe vo:röytgang.",
         "translationId": "Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi."
       },
       {
         "id": "nl-gram-47-ex-2",
         "native": "Deze metaforiek verhult de structurele kwetsbaarheid van flexibele arbeidskrachten.",
-        "phonetic": "",
+        "phonetic": "Deze metaforiek verhult de structurele kwetsba:rheid van flexibele arbeidskrachten.",
         "translationId": "Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel."
       },
       {
         "id": "nl-gram-47-ex-3",
         "native": "Het discours over immigratie wordt gedomineerd door beelden van stromen en golven.",
-        "phonetic": "",
+        "phonetic": "Het discours over immigratie wordt gedomine:rd do:r be:lden van stromen en golven.",
         "translationId": "Wacana mengenai imigrasi didominasi oleh kiasan citra arus dan gelombang."
       }
     ],
@@ -21827,7 +21968,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten\" (Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-47-pg-1",
@@ -21843,7 +21984,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang.\" berarti \"Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi.\"."
+        "explanation": "Kalimat \"In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang.\" (dibaca: In het overheidsbeleid wordt de arbeidsmarkt ste:vast geframed als e:n motor van economiskhe vo:röytgang.) berarti \"Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi.\". Kalimat ini menggunakan pola \"Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's\" (Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten) yang berfungsi untuk menganalisis bingkai metafora (framing) dalam wacana kebijakan publik, sosiologi, dan komunikasi politik Belanda."
       },
       {
         "id": "q-nl-gram-47-pg-2",
@@ -21859,7 +22000,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Deze metaforiek verhult de structurele kwetsbaarheid van flexibele arbeidskrachten.\" berarti \"Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel.\"."
+        "explanation": "Kalimat \"Deze metaforiek verhult de structurele kwetsbaarheid van flexibele arbeidskrachten.\" (dibaca: Deze metaforiek verhult de structurele kwetsba:rheid van flexibele arbeidskrachten.) berarti \"Penggunaan metafora ini menutupi kerentanan struktural yang dialami para pekerja fleksibel.\". Kalimat ini menggunakan pola \"Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's\" (Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten) yang berfungsi untuk menganalisis bingkai metafora (framing) dalam wacana kebijakan publik, sosiologi, dan komunikasi politik Belanda."
       },
       {
         "id": "q-nl-gram-47-pg-3",
@@ -21875,7 +22016,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Triangulasi metodologis menjamin ketangguhan dari kesimpulan-kesimpulan yang dirumuskan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Het discours over immigratie wordt gedomineerd door beelden van stromen en golven.\" berarti \"Wacana mengenai imigrasi didominasi oleh kiasan citra arus dan gelombang.\"."
+        "explanation": "Kalimat \"Het discours over immigratie wordt gedomineerd door beelden van stromen en golven.\" (dibaca: Het discours over immigratie wordt gedomine:rd do:r be:lden van stromen en golven.) berarti \"Wacana mengenai imigrasi didominasi oleh kiasan citra arus dan gelombang.\". Kalimat ini menggunakan pola \"Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's\" (Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten) yang berfungsi untuk menganalisis bingkai metafora (framing) dalam wacana kebijakan publik, sosiologi, dan komunikasi politik Belanda."
       },
       {
         "id": "q-nl-gram-47-pg-4",
@@ -21895,7 +22036,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-47-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten\"?",
         "options": [
           "De auteur betoogt met verve dat het institutionele kader ontoereikend is gebleken. — Penulis berargumen dengan penuh ketajaman bahwa kerangka institusional tersebut terbukti belum memadai.",
           "De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs. — Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan.",
@@ -21909,7 +22050,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-47-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten\"?",
         "options": [
           "Deze bevindingen nopen tot een fundamentele herbezinning op de vigerende theoretische premissen. — Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini.",
           "Er kan bezwaarlijk worden voorbijgegaan aan de epistemologische implicaties van dit proefschrift. — Implikasi epistemologis dari disertasi ini sulit untuk diabaikan begitu saja.",
@@ -21923,7 +22064,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-47-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten\"?",
         "options": [
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
@@ -22178,7 +22319,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Temuan-temuan ini mendorong peninjauan ulang secara mendasar terhadap premis-premis teoretis yang berlaku saat ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang.\" berarti \"Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi.\"."
+        "explanation": "Kalimat \"In het overheidsbeleid wordt de arbeidsmarkt steevast geframed als een motor van economische vooruitgang.\" (dibaca: In het overheidsbeleid wordt de arbeidsmarkt ste:vast geframed als e:n motor van economiskhe vo:röytgang.) berarti \"Dalam kebijakan pemerintah, pasar tenaga kerja senantiasa dibingkai sebagai motor penggerak kemajuan ekonomi.\". Kalimat ini menggunakan pola \"Conceptuele metaforen / Framing in beleidsnota's en verkiezingsprogramma's\" (Metaforen en Conceptuele Beeldspraak in Beleidsdocumenten) yang berfungsi untuk menganalisis bingkai metafora (framing) dalam wacana kebijakan publik, sosiologi, dan komunikasi politik Belanda."
       },
       {
         "id": "q-nl-gram-47-bb-2",
@@ -22253,24 +22394,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kajian kritis terhadap teks filsafat dan humaniora dengan membongkar relasi kuasa dan presuposisi tersembunyi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Discursieve Analyse van Filosofische en Maatschappelijke Teksten' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Discursieve Analyse van Filosofische en Maatschappelijke Teksten\" (Kritische discoursanalyse en hermeneutische tekstanalyse) berfungsi untuk: kajian kritis terhadap teks filsafat dan humaniora dengan membongkar relasi kuasa dan presuposisi tersembunyi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot. — Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya."
+          "Rumus utama: Tekstuele deconstructie / Machtsongelijkheid in taaluitingen",
+          "Contoh 1: Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot. (E:n nauwgezette deconstructie van de tekst legt inherente tegenstreydigheden blo:t.) — Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Tekstuele deconstructie / Machtsongelijkheid in taaluitingen menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Tekstuele deconstructie / Machtsongelijkheid in taaluitingen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan perangkat konseptual analisis wacana kritis untuk menafsirkan teks filsafat secara mendalam.",
         "ruleList": [
-          "De auteur problematiseert de vanzelfsprekendheid waarmee universele waarden worden geponeerd. — Penulis mempersoalkan anggapan serba wajar yang digunakan saat mengemukakan nilai-nilai universal."
+          "Polanya: Tekstuele deconstructie / Machtsongelijkheid in taaluitingen",
+          "Contoh 2: De auteur problematiseert de vanzelfsprekendheid waarmee universele waarden worden geponeerd. (De auteur problematise:rt de vanzelfsprekendheid wa:rme: universele wa:rden worden gepone:rd.) — Penulis mempersoalkan anggapan serba wajar yang digunakan saat mengemukakan nilai-nilai universal."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Discursieve Analyse van Filosofische en Maatschappelijke Teksten\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Deze hermeneutische lezing biedt een verhelderend perspectief op de postmoderne conditie. — Pembacaan hermeneutis ini menawarkan perspektif yang mencerahkan mengenai kondisi pascamodern."
+          "Contoh 3: Deze hermeneutische lezing biedt een verhelderend perspectief op de postmoderne conditie. (Deze hermeneutiskhe lezing biedt e:n verhelderend perspectief op de postmoderne conditie.) — Pembacaan hermeneutis ini menawarkan perspektif yang mencerahkan mengenai kondisi pascamodern.",
+          "Hindari kesalahan: \"de tekst is een beetje raar\" → gunakan bentuk yang benar: \"de analyse legt inherente tegenstrijdigheden in het betoog bloot\"."
         ]
       }
     ],
@@ -22278,19 +22422,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-48-ex-1",
         "native": "Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot.",
-        "phonetic": "",
+        "phonetic": "E:n nauwgezette deconstructie van de tekst legt inherente tegenstreydigheden blo:t.",
         "translationId": "Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya."
       },
       {
         "id": "nl-gram-48-ex-2",
         "native": "De auteur problematiseert de vanzelfsprekendheid waarmee universele waarden worden geponeerd.",
-        "phonetic": "",
+        "phonetic": "De auteur problematise:rt de vanzelfsprekendheid wa:rme: universele wa:rden worden gepone:rd.",
         "translationId": "Penulis mempersoalkan anggapan serba wajar yang digunakan saat mengemukakan nilai-nilai universal."
       },
       {
         "id": "nl-gram-48-ex-3",
         "native": "Deze hermeneutische lezing biedt een verhelderend perspectief op de postmoderne conditie.",
-        "phonetic": "",
+        "phonetic": "Deze hermeneutiskhe lezing biedt e:n verhelderend perspectief op de postmoderne conditie.",
         "translationId": "Pembacaan hermeneutis ini menawarkan perspektif yang mencerahkan mengenai kondisi pascamodern."
       }
     ],
@@ -22306,7 +22450,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Discursieve Analyse van Filosofische en Maatschappelijke Teksten' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Discursieve Analyse van Filosofische en Maatschappelijke Teksten\" (Tekstuele deconstructie / Machtsongelijkheid in taaluitingen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-48-pg-1",
@@ -22322,7 +22466,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot.\" berarti \"Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya.\"."
+        "explanation": "Kalimat \"Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot.\" (dibaca: E:n nauwgezette deconstructie van de tekst legt inherente tegenstreydigheden blo:t.) berarti \"Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya.\". Kalimat ini menggunakan pola \"Tekstuele deconstructie / Machtsongelijkheid in taaluitingen\" (Discursieve Analyse van Filosofische en Maatschappelijke Teksten) yang berfungsi untuk kajian kritis terhadap teks filsafat dan humaniora dengan membongkar relasi kuasa dan presuposisi tersembunyi."
       },
       {
         "id": "q-nl-gram-48-pg-2",
@@ -22338,7 +22482,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De auteur problematiseert de vanzelfsprekendheid waarmee universele waarden worden geponeerd.\" berarti \"Penulis mempersoalkan anggapan serba wajar yang digunakan saat mengemukakan nilai-nilai universal.\"."
+        "explanation": "Kalimat \"De auteur problematiseert de vanzelfsprekendheid waarmee universele waarden worden geponeerd.\" (dibaca: De auteur problematise:rt de vanzelfsprekendheid wa:rme: universele wa:rden worden gepone:rd.) berarti \"Penulis mempersoalkan anggapan serba wajar yang digunakan saat mengemukakan nilai-nilai universal.\". Kalimat ini menggunakan pola \"Tekstuele deconstructie / Machtsongelijkheid in taaluitingen\" (Discursieve Analyse van Filosofische en Maatschappelijke Teksten) yang berfungsi untuk kajian kritis terhadap teks filsafat dan humaniora dengan membongkar relasi kuasa dan presuposisi tersembunyi."
       },
       {
         "id": "q-nl-gram-48-pg-3",
@@ -22354,7 +22498,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Peneliti wajib menjaga diri secara ketat dari parafrasa yang ceroboh dan pemalsuan sumber."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Deze hermeneutische lezing biedt een verhelderend perspectief op de postmoderne conditie.\" berarti \"Pembacaan hermeneutis ini menawarkan perspektif yang mencerahkan mengenai kondisi pascamodern.\"."
+        "explanation": "Kalimat \"Deze hermeneutische lezing biedt een verhelderend perspectief op de postmoderne conditie.\" (dibaca: Deze hermeneutiskhe lezing biedt e:n verhelderend perspectief op de postmoderne conditie.) berarti \"Pembacaan hermeneutis ini menawarkan perspektif yang mencerahkan mengenai kondisi pascamodern.\". Kalimat ini menggunakan pola \"Tekstuele deconstructie / Machtsongelijkheid in taaluitingen\" (Discursieve Analyse van Filosofische en Maatschappelijke Teksten) yang berfungsi untuk kajian kritis terhadap teks filsafat dan humaniora dengan membongkar relasi kuasa dan presuposisi tersembunyi."
       },
       {
         "id": "q-nl-gram-48-pg-4",
@@ -22374,7 +22518,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-48-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Discursieve Analyse van Filosofische en Maatschappelijke Teksten\"?",
         "options": [
           "Ter validering van de kwalitatieve interviews is een representatieve enquête uitgezet. — Guna memvalidasi hasil wawancara kualitatif, telah disebarkan kuesioner survei yang representatif.",
           "Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang. — Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan.",
@@ -22388,7 +22532,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-48-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Discursieve Analyse van Filosofische en Maatschappelijke Teksten\"?",
         "options": [
           "Deze hermeneutische lezing biedt een verhelderend perspectief op de postmoderne conditie. — Pembacaan hermeneutis ini menawarkan perspektif yang mencerahkan mengenai kondisi pascamodern.",
           "De centrale onderzoeksvraag luidt in hoeverre digitalisering bijdraagt aan kansengelijkheid in het onderwijs. — Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan.",
@@ -22402,7 +22546,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-48-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Discursieve Analyse van Filosofische en Maatschappelijke Teksten\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
@@ -22651,7 +22795,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Pertanyaan penelitian utama berbunyi sejauh mana digitalisasi berkontribusi terhadap kesetaraan peluang dalam dunia pendidikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot.\" berarti \"Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya.\"."
+        "explanation": "Kalimat \"Een nauwgezette deconstructie van de tekst legt inherente tegenstrijdigheden bloot.\" (dibaca: E:n nauwgezette deconstructie van de tekst legt inherente tegenstreydigheden blo:t.) berarti \"Dekonstruksi yang cermat terhadap teks tersebut menyingkap kontradiksi-kontradiksi yang melekat di dalamnya.\". Kalimat ini menggunakan pola \"Tekstuele deconstructie / Machtsongelijkheid in taaluitingen\" (Discursieve Analyse van Filosofische en Maatschappelijke Teksten) yang berfungsi untuk kajian kritis terhadap teks filsafat dan humaniora dengan membongkar relasi kuasa dan presuposisi tersembunyi."
       },
       {
         "id": "q-nl-gram-48-bb-2",
@@ -22726,24 +22870,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyempurnakan bab pembuka (status quaestionis) dan bab kesimpulan disertasi yang merumuskan kontribusi orisinal riset.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Redactie van de Inleiding en Conclusie van een Masterscriptie' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Redactie van de Inleiding en Conclusie van een Masterscriptie\" (De compositie van de inleiding en het slotakkoord van de dissertatie) berfungsi untuk: menyempurnakan bab pembuka (status quaestionis) dan bab kesimpulan disertasi yang merumuskan kontribusi orisinal riset. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult. — Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini."
+          "Rumus utama: Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata",
+          "Contoh 1: De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult. (De inleiding skhetst de status quaestionis en formule:rt de wetenskhappeleyke lacune die dit onderzuk vult.) — Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bagian penutup tesis menyintesiskan temuan-temuan inti pada tataran konseptual.",
         "ruleList": [
-          "Resumerend kan worden gesteld dat deze dissertatie een nieuwe dimensie toevoegt aan het debat. — Secara ringkas dapat ditegaskan bahwa disertasi ini menambahkan dimensi baru ke dalam perdebatan ilmiah."
+          "Polanya: Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata",
+          "Contoh 2: Resumerend kan worden gesteld dat deze dissertatie een nieuwe dimensie toevoegt aan het debat. (Resumerend kan worden gesteld dat deze dissertatie e:n nieuwe dimensie tuvugt a:n het debat.) — Secara ringkas dapat ditegaskan bahwa disertasi ini menambahkan dimensi baru ke dalam perdebatan ilmiah."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Redactie van de Inleiding en Conclusie van een Masterscriptie\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Toekomstig onderzoek zal moeten uitwijzen in hoeverre deze uitkomsten generaliseerbaar zijn. — Penelitian di masa mendatang harus membuktikan sejauh mana temuan-temuan ini dapat digeneralisasikan."
+          "Contoh 3: Toekomstig onderzoek zal moeten uitwijzen in hoeverre deze uitkomsten generaliseerbaar zijn. (Tukomstig onderzuk zal muten öytweyzen in huverre deze öytkomsten generalise:rba:r zeyn.) — Penelitian di masa mendatang harus membuktikan sejauh mana temuan-temuan ini dapat digeneralisasikan.",
+          "Hindari kesalahan: \"in dit hoofdstuk vat ik samen wat ik deed\" → gunakan bentuk yang benar: \"resumerend kan worden gesteld dat deze dissertatie aantoont dat...\"."
         ]
       }
     ],
@@ -22751,19 +22898,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-49-ex-1",
         "native": "De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult.",
-        "phonetic": "",
+        "phonetic": "De inleiding skhetst de status quaestionis en formule:rt de wetenskhappeleyke lacune die dit onderzuk vult.",
         "translationId": "Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini."
       },
       {
         "id": "nl-gram-49-ex-2",
         "native": "Resumerend kan worden gesteld dat deze dissertatie een nieuwe dimensie toevoegt aan het debat.",
-        "phonetic": "",
+        "phonetic": "Resumerend kan worden gesteld dat deze dissertatie e:n nieuwe dimensie tuvugt a:n het debat.",
         "translationId": "Secara ringkas dapat ditegaskan bahwa disertasi ini menambahkan dimensi baru ke dalam perdebatan ilmiah."
       },
       {
         "id": "nl-gram-49-ex-3",
         "native": "Toekomstig onderzoek zal moeten uitwijzen in hoeverre deze uitkomsten generaliseerbaar zijn.",
-        "phonetic": "",
+        "phonetic": "Tukomstig onderzuk zal muten öytweyzen in huverre deze öytkomsten generalise:rba:r zeyn.",
         "translationId": "Penelitian di masa mendatang harus membuktikan sejauh mana temuan-temuan ini dapat digeneralisasikan."
       }
     ],
@@ -22779,7 +22926,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Redactie van de Inleiding en Conclusie van een Masterscriptie' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Redactie van de Inleiding en Conclusie van een Masterscriptie\" (Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-49-pg-1",
@@ -22795,7 +22942,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Pandangan ini sejalan sepenuhnya dengan studi-studi terdahulu di bidang sosiolinguistik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult.\" berarti \"Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini.\"."
+        "explanation": "Kalimat \"De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult.\" (dibaca: De inleiding skhetst de status quaestionis en formule:rt de wetenskhappeleyke lacune die dit onderzuk vult.) berarti \"Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini.\". Kalimat ini menggunakan pola \"Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata\" (Redactie van de Inleiding en Conclusie van een Masterscriptie) yang berfungsi untuk menyempurnakan bab pembuka (status quaestionis) dan bab kesimpulan disertasi yang merumuskan kontribusi orisinal riset."
       },
       {
         "id": "q-nl-gram-49-pg-2",
@@ -22811,7 +22958,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Resumerend kan worden gesteld dat deze dissertatie een nieuwe dimensie toevoegt aan het debat.\" berarti \"Secara ringkas dapat ditegaskan bahwa disertasi ini menambahkan dimensi baru ke dalam perdebatan ilmiah.\"."
+        "explanation": "Kalimat \"Resumerend kan worden gesteld dat deze dissertatie een nieuwe dimensie toevoegt aan het debat.\" (dibaca: Resumerend kan worden gesteld dat deze dissertatie e:n nieuwe dimensie tuvugt a:n het debat.) berarti \"Secara ringkas dapat ditegaskan bahwa disertasi ini menambahkan dimensi baru ke dalam perdebatan ilmiah.\". Kalimat ini menggunakan pola \"Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata\" (Redactie van de Inleiding en Conclusie van een Masterscriptie) yang berfungsi untuk menyempurnakan bab pembuka (status quaestionis) dan bab kesimpulan disertasi yang merumuskan kontribusi orisinal riset."
       },
       {
         "id": "q-nl-gram-49-pg-3",
@@ -22827,7 +22974,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Toekomstig onderzoek zal moeten uitwijzen in hoeverre deze uitkomsten generaliseerbaar zijn.\" berarti \"Penelitian di masa mendatang harus membuktikan sejauh mana temuan-temuan ini dapat digeneralisasikan.\"."
+        "explanation": "Kalimat \"Toekomstig onderzoek zal moeten uitwijzen in hoeverre deze uitkomsten generaliseerbaar zijn.\" (dibaca: Tukomstig onderzuk zal muten öytweyzen in huverre deze öytkomsten generalise:rba:r zeyn.) berarti \"Penelitian di masa mendatang harus membuktikan sejauh mana temuan-temuan ini dapat digeneralisasikan.\". Kalimat ini menggunakan pola \"Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata\" (Redactie van de Inleiding en Conclusie van een Masterscriptie) yang berfungsi untuk menyempurnakan bab pembuka (status quaestionis) dan bab kesimpulan disertasi yang merumuskan kontribusi orisinal riset."
       },
       {
         "id": "q-nl-gram-49-pg-4",
@@ -22847,7 +22994,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-49-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Redactie van de Inleiding en Conclusie van een Masterscriptie\"?",
         "options": [
           "Resumerend kan worden gesteld dat deze dissertatie een nieuwe dimensie toevoegt aan het debat. — Secara ringkas dapat ditegaskan bahwa disertasi ini menambahkan dimensi baru ke dalam perdebatan ilmiah.",
           "Deze zienswijze sluit naadloos aan bij eerdere studies op het terrein van de sociolinguïstiek. — Pandangan ini sejalan sepenuhnya dengan studi-studi terdahulu di bidang sosiolinguistik.",
@@ -22861,7 +23008,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-49-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Redactie van de Inleiding en Conclusie van een Masterscriptie\"?",
         "options": [
           "Zoals Van Dijk (2021) treffend uiteenzet, is de contextuele inbedding van doorslaggevend belang. — Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan.",
           "Toekomstig onderzoek zal moeten uitwijzen in hoeverre deze uitkomsten generaliseerbaar zijn. — Penelitian di masa mendatang harus membuktikan sejauh mana temuan-temuan ini dapat digeneralisasikan.",
@@ -22875,7 +23022,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-49-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Redactie van de Inleiding en Conclusie van een Masterscriptie\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23130,7 +23277,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimana diuraikan secara tepat oleh Van Dijk (2021), keterlekatan kontekstual memegang peranan yang sangat menentukan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult.\" berarti \"Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini.\"."
+        "explanation": "Kalimat \"De inleiding schetst de status quaestionis en formuleert de wetenschappelijke lacune die dit onderzoek vult.\" (dibaca: De inleiding skhetst de status quaestionis en formule:rt de wetenskhappeleyke lacune die dit onderzuk vult.) berarti \"Bab pendahuluan memetakan status quaestionis (perkembangan riset terkini) dan merumuskan celah keilmuan yang diisi oleh penelitian ini.\". Kalimat ini menggunakan pola \"Exordium / Status quaestionis / Synthese van de bevindingen / Desiderata\" (Redactie van de Inleiding en Conclusie van een Masterscriptie) yang berfungsi untuk menyempurnakan bab pembuka (status quaestionis) dan bab kesimpulan disertasi yang merumuskan kontribusi orisinal riset."
       },
       {
         "id": "q-nl-gram-49-bb-2",
@@ -23205,24 +23352,27 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
     "summary": "Protokol upacara promosi doktor di universitas Belanda: lekenpraatje, perdebatan dengan promotor, dan tradisi hora est.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah tata bahasa 'Academische Openbare Verdediging van het Proefschrift' secara tepat sangat krusial untuk komunikasi akademik dan profesional dalam bahasa Belanda.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Academische Openbare Verdediging van het Proefschrift\" (Het protocol en de retorica van de academische promotieplechtigheid) berfungsi untuk: protokol upacara promosi doktor di universitas Belanda: lekenpraatje, perdebatan dengan promotor, dan tradisi hora est. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Belanda sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen. — Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya."
+          "Rumus utama: Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est",
+          "Contoh 1: Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen. (Meynhe:r de rector, geachte leden van de promotiecommissie, ik dank u vo:r de gelegenheid meyn prufskhrift te verdedigen.) — Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Urutan Kata",
-        "content": "Konstruksi Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est menjamin sintaksis yang jernih dan mencegah kerancuan makna bagi pembaca maupun pendengar.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Dalam sidang promosi doktor di Belanda, gelar sapaan kehormatan historis wajib diucapkan sesuai protokol.",
         "ruleList": [
-          "Hooggeleerde opponent, ik dank u voor deze scherpzinnige vraag die het hart van mijn betoog raakt. — Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini."
+          "Polanya: Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est",
+          "Contoh 2: Hooggeleerde opponent, ik dank u voor deze scherpzinnige vraag die het hart van mijn betoog raakt. (Ho:ggele:rde opponent, ik dank u vo:r deze skherpzinnige vra:g die het hart van meyn beto:g ra:kt.) — Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini."
         ]
       },
       {
-        "heading": "3. Penggunaan Kontekstual dan Akademik",
-        "content": "Dalam publikasi universitas dan laporan resmi di Belanda maupun Flandria, pola ini memberikan ketepatan dan wibawa keilmuan.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Academische Openbare Verdediging van het Proefschrift\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Met uw welnemen wil ik gaarne nader ingaan op de statistische validiteit van het model. — Dengan izin Anda, saya ingin menguraikan lebih lanjut mengenai validitas statistik dari model tersebut."
+          "Contoh 3: Met uw welnemen wil ik gaarne nader ingaan op de statistische validiteit van het model. (Met uw welnemen wil ik ga:rne nader inga:n op de statistiskhe validiteit van het model.) — Dengan izin Anda, saya ingin menguraikan lebih lanjut mengenai validitas statistik dari model tersebut.",
+          "Hindari kesalahan: \"bedankt voor de vraag, meneer\" → gunakan bentuk yang benar: \"hooggeleerde opponent, ik dank u voor deze buitengewoon scherpzinnige vraag\"."
         ]
       }
     ],
@@ -23230,19 +23380,19 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "nl-gram-50-ex-1",
         "native": "Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen.",
-        "phonetic": "",
+        "phonetic": "Meynhe:r de rector, geachte leden van de promotiecommissie, ik dank u vo:r de gelegenheid meyn prufskhrift te verdedigen.",
         "translationId": "Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya."
       },
       {
         "id": "nl-gram-50-ex-2",
         "native": "Hooggeleerde opponent, ik dank u voor deze scherpzinnige vraag die het hart van mijn betoog raakt.",
-        "phonetic": "",
+        "phonetic": "Ho:ggele:rde opponent, ik dank u vo:r deze skherpzinnige vra:g die het hart van meyn beto:g ra:kt.",
         "translationId": "Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini."
       },
       {
         "id": "nl-gram-50-ex-3",
         "native": "Met uw welnemen wil ik gaarne nader ingaan op de statistische validiteit van het model.",
-        "phonetic": "",
+        "phonetic": "Met uw welnemen wil ik ga:rne nader inga:n op de statistiskhe validiteit van het model.",
         "translationId": "Dengan izin Anda, saya ingin menguraikan lebih lanjut mengenai validitas statistik dari model tersebut."
       }
     ],
@@ -23258,7 +23408,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Perhatikan aturan urutan kata (V2 / SOV) dan kesesuaian artikel de/het dalam bahasa Belanda."
       }
     ],
-    "culturalContext": "Penguasaan struktur 'Academische Openbare Verdediging van het Proefschrift' dipandang di Belanda dan Flandria sebagai penanda kematangan literasi akademik (NT2-II / CNaVT).",
+    "culturalContext": "Dalam bahasa Belanda sehari-hari, pola \"Academische Openbare Verdediging van het Proefschrift\" (Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-nl-gram-50-pg-1",
@@ -23274,7 +23424,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen.\" berarti \"Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya.\"."
+        "explanation": "Kalimat \"Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen.\" (dibaca: Meynhe:r de rector, geachte leden van de promotiecommissie, ik dank u vo:r de gelegenheid meyn prufskhrift te verdedigen.) berarti \"Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya.\". Kalimat ini menggunakan pola \"Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est\" (Academische Openbare Verdediging van het Proefschrift) yang berfungsi untuk protokol upacara promosi doktor di universitas Belanda: lekenpraatje, perdebatan dengan promotor, dan tradisi hora est."
       },
       {
         "id": "q-nl-gram-50-pg-2",
@@ -23290,7 +23440,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Orang mungkin mengajukan keberatan bahwa ukuran sampel terbatas; namun sanggahan ini tidak berdasar kuat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Hooggeleerde opponent, ik dank u voor deze scherpzinnige vraag die het hart van mijn betoog raakt.\" berarti \"Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini.\"."
+        "explanation": "Kalimat \"Hooggeleerde opponent, ik dank u voor deze scherpzinnige vraag die het hart van mijn betoog raakt.\" (dibaca: Ho:ggele:rde opponent, ik dank u vo:r deze skherpzinnige vra:g die het hart van meyn beto:g ra:kt.) berarti \"Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini.\". Kalimat ini menggunakan pola \"Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est\" (Academische Openbare Verdediging van het Proefschrift) yang berfungsi untuk protokol upacara promosi doktor di universitas Belanda: lekenpraatje, perdebatan dengan promotor, dan tradisi hora est."
       },
       {
         "id": "q-nl-gram-50-pg-3",
@@ -23306,7 +23456,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Dengan izin Anda, saya ingin menguraikan lebih lanjut mengenai validitas statistik dari model tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Met uw welnemen wil ik gaarne nader ingaan op de statistische validiteit van het model.\" berarti \"Dengan izin Anda, saya ingin menguraikan lebih lanjut mengenai validitas statistik dari model tersebut.\"."
+        "explanation": "Kalimat \"Met uw welnemen wil ik gaarne nader ingaan op de statistische validiteit van het model.\" (dibaca: Met uw welnemen wil ik ga:rne nader inga:n op de statistiskhe validiteit van het model.) berarti \"Dengan izin Anda, saya ingin menguraikan lebih lanjut mengenai validitas statistik dari model tersebut.\". Kalimat ini menggunakan pola \"Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est\" (Academische Openbare Verdediging van het Proefschrift) yang berfungsi untuk protokol upacara promosi doktor di universitas Belanda: lekenpraatje, perdebatan dengan promotor, dan tradisi hora est."
       },
       {
         "id": "q-nl-gram-50-pg-4",
@@ -23326,7 +23476,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-50-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Academische Openbare Verdediging van het Proefschrift\"?",
         "options": [
           "Ingevolge deze ministeriële beschikking treden de nieuwe bekostigingsregels direct in werking. — Menindaklanjuti surat keputusan menteri ini, aturan pendanaan baru mulai berlaku secara langsung.",
           "Hooggeleerde opponent, ik dank u voor deze scherpzinnige vraag die het hart van mijn betoog raakt. — Penguji yang amat terpelajar (Hooggeleerde opponent), saya berterima kasih atas pertanyaan tajam yang menyentuh jantung argumen saya ini.",
@@ -23340,7 +23490,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-50-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Urutan Kata\":",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Academische Openbare Verdediging van het Proefschrift\"?",
         "options": [
           "Krachtens artikel 7 van de Wet op het hoger onderwijs is het instellingsbestuur bevoegd. — Berdasarkan Pasal 7 Undang-Undang Pendidikan Tinggi, dewan pengurus institusi memiliki kewenangan sah.",
           "De bestuursrechter heeft de vordering van de eiseres ongegrond verklaard. — Hakim pengadilan tata usaha negara telah menyatakan gugatan penggugat tidak beralasan.",
@@ -23354,7 +23504,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
         "id": "q-nl-gram-50-pg-7",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Manakah ketentuan yang tepat mengenai \"3. Penggunaan Kontekstual dan Akademik\"?",
+        "prompt": "Manakah kalimat bahasa Belanda berikut yang benar dan sesuai dengan materi \"Academische Openbare Verdediging van het Proefschrift\"?",
         "options": [
           "Kata kerja utama wajib dihilangkan apabila subjek kalimat berbentuk jamak.",
           "Keterangan waktu hanya boleh diletakkan setelah tanda tanya di akhir kalimat.",
@@ -23609,7 +23759,7 @@ export const DUTCH_GRAMMAR: GrammarLesson[] =  [
           "Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen.\" berarti \"Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya.\"."
+        "explanation": "Kalimat \"Mijnheer de rector, geachte leden van de promotiecommissie, ik dank u voor de gelegenheid mijn proefschrift te verdedigen.\" (dibaca: Meynhe:r de rector, geachte leden van de promotiecommissie, ik dank u vo:r de gelegenheid meyn prufskhrift te verdedigen.) berarti \"Bapak Rektor yang mulia, para anggota komisi promosi yang terhormat, saya mengucapkan terima kasih atas kesempatan mempertahankan disertasi saya.\". Kalimat ini menggunakan pola \"Mijnheer/Mevrouw de Rector / Hooggeleerde opponent / Hora est\" (Academische Openbare Verdediging van het Proefschrift) yang berfungsi untuk protokol upacara promosi doktor di universitas Belanda: lekenpraatje, perdebatan dengan promotor, dan tradisi hora est."
       },
       {
         "id": "q-nl-gram-50-bb-2",

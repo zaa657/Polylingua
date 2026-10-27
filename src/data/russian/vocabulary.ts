@@ -13,7 +13,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Здравствуйте, профессор! Рад вас видеть.",
     "examplePhonetic": "Zdravstvuyte, professor! Rad vas videt'.",
     "exampleTranslation": "Halo Profesor! Senang bertemu dengan Anda.",
-    "notes": "Ungkapan salam pembuka percakapan.",
+    "notes": "Ungkapan salam pembuka percakapan. Kata \"Здравствуйте\" (cara baca: Zdravstvuyte) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Halo\".",
     "tags": [
       "salam",
       "a1",
@@ -70,7 +70,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "До свидания, увидимся на следующей лекции.",
     "examplePhonetic": "Do svidaniya, uvidimsya na sleduyushchey lektsii.",
     "exampleTranslation": "Sampai jumpa, bertemu lagi pada perkuliahan berikutnya.",
-    "notes": "Ucapan perpisahan santun.",
+    "notes": "Ucapan perpisahan santun. Kata \"До свидания\" (cara baca: Do svidaniya) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Sampai jumpa lagi\".",
     "tags": [
       "salam",
       "a1",
@@ -146,7 +146,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Помогите мне, пожалуйста, найти аудиторию.",
     "examplePhonetic": "Pomogite mne, pozhaluysta, nayti auditoriyu.",
     "exampleTranslation": "Tolong bantu saya menemukan ruang kuliah.",
-    "notes": "Kata santun untuk memohon bantuan.",
+    "notes": "Kata santun untuk memohon bantuan. Kata \"Пожалуйста\" (cara baca: Pozhaluysta) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tolong\".",
     "tags": [
       "salam",
       "a1",
@@ -165,7 +165,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Привет! Как твои дела и как учёба?",
     "examplePhonetic": "Privet! Kak tvoi dela i kak ucheba?",
     "exampleTranslation": "Hai! Bagaimana kabarmu dan bagaimana perkuliahanmu?",
-    "notes": "Menanyakan kabar dan kondisi kesehatan.",
+    "notes": "Menanyakan kabar dan kondisi kesehatan. Kata \"Как дела\" (cara baca: Kak dela) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Apa kabar?\".",
     "tags": [
       "salam",
       "a1",
@@ -184,7 +184,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Очень приятно познакомиться с вами.",
     "examplePhonetic": "Ochen' priyatno poznakomit'sya s vami.",
     "exampleTranslation": "Sangat senang dapat berkenalan dengan Anda.",
-    "notes": "Diucapkan saat perkenalan pertama kali.",
+    "notes": "Diucapkan saat perkenalan pertama kali. Kata \"Очень приятно\" (cara baca: Ochen' priyatno) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Senang berkenalan dengan Anda\".",
     "tags": [
       "salam",
       "a1",
@@ -203,7 +203,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Да, я студент первого курса магистратуры.",
     "examplePhonetic": "Da, ya student pervogo kursa magistratury.",
     "exampleTranslation": "Ya, saya adalah mahasiswa tahun pertama program magister.",
-    "notes": "Jawaban afirmatif menyetujui.",
+    "notes": "Jawaban afirmatif menyetujui. Kata \"Да\" (cara baca: Da) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Ya\".",
     "tags": [
       "salam",
       "a1",
@@ -222,7 +222,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Нет, этот учебник принадлежит не мне.",
     "examplePhonetic": "Net, etot uchebnik prinadlezhit ne mne.",
     "exampleTranslation": "Bukan / Tidak, buku teks ini bukan milik saya.",
-    "notes": "Jawaban penolakan atau negasi.",
+    "notes": "Jawaban penolakan atau negasi. Kata \"Нет\" (cara baca: Net) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tidak\".",
     "tags": [
       "salam",
       "a1",
@@ -260,7 +260,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Меня зовут Андрей, я приехал из Индонезии.",
     "examplePhonetic": "Menya zovut Andrey, ya priyekhal iz Indonezii.",
     "exampleTranslation": "Nama saya Andrey, saya datang dari Indonesia.",
-    "notes": "Memperkenalkan nama diri sendiri.",
+    "notes": "Memperkenalkan nama diri sendiri. Kata \"Меня зовут\" (cara baca: Menya zovut) digunakan dalam bahasa Rusia (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Nama saya...\".",
     "tags": [
       "salam",
       "a1",
@@ -298,7 +298,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Московский государственный университет известен во всём мире.",
     "examplePhonetic": "Moskovskiy gosudarstvennyy universitet izvesten vo vsem mire.",
     "exampleTranslation": "Universitas Negeri Moskow terkenal di seluruh dunia.",
-    "notes": "Institusi pendidikan tinggi formal.",
+    "notes": "Institusi pendidikan tinggi formal. Kata \"Университет\" (cara baca: Universitet) digunakan dalam bahasa Rusia (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Universitas\".",
     "tags": [
       "kampus",
       "a1",
@@ -488,7 +488,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Он получил отличную оценку за курсовой проект.",
     "examplePhonetic": "On poluchil otlichnuyu otsenku za kursovoy proyekt.",
     "exampleTranslation": "Dia meraih nilai memuaskan atas tugas karya ilmiahnya.",
-    "notes": "Hasil evaluasi prestasi belajar.",
+    "notes": "Hasil evaluasi prestasi belajar. Kata \"Оценка\" (cara baca: Otsenka) digunakan dalam bahasa Rusia (tingkat A2, kategori Kampus & Pendidikan) untuk menyatakan \"Nilai akademik\".",
     "tags": [
       "kampus",
       "a2",
@@ -507,7 +507,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Отличники учёбы получают повышенную государственную стипендию.",
     "examplePhonetic": "Otlichniki ucheby poluchayut povyshennuyu gosudarstvennuyu stipendiyu.",
     "exampleTranslation": "Mahasiswa berprestasi tinggi menerima beasiswa negara yang ditingkatkan.",
-    "notes": "Bantuan dana pendidikan berprestasi.",
+    "notes": "Bantuan dana pendidikan berprestasi. Kata \"Стипендия\" (cara baca: Stipendiya) digunakan dalam bahasa Rusia (tingkat A2, kategori Kampus & Pendidikan) untuk menyatakan \"Beasiswa\".",
     "tags": [
       "kampus",
       "a2",
@@ -640,7 +640,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Экспериментальные данные подтвердили выдвинутую гипотезу.",
     "examplePhonetic": "Eksperimental'nyye dannyye podtverdili vydvinutuyu gipotezu.",
     "exampleTranslation": "Data eksperimental membuktikan hipotesis yang diajukan.",
-    "notes": "Dugaan awal yang diuji kebenarannya.",
+    "notes": "Dugaan awal yang diuji kebenarannya. Kata \"Гипотеза\" (cara baca: Gipoteza) digunakan dalam bahasa Rusia (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Hipotesis penelitian\".",
     "tags": [
       "penelitian",
       "b2",
@@ -716,7 +716,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В заключении статьи сформулированы практические рекомендации.",
     "examplePhonetic": "V zaklyuchenii stat'i sformulirovany prakticheskiye rekomendatsii.",
     "exampleTranslation": "Pada kesimpulan artikel dirumuskan rekomendasi praktis.",
-    "notes": "Ringkasan intisari hasil penelitian.",
+    "notes": "Ringkasan intisari hasil penelitian. Kata \"Заключение\" (cara baca: Zaklyucheniye) digunakan dalam bahasa Rusia (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Kesimpulan\".",
     "tags": [
       "penelitian",
       "b2",
@@ -735,7 +735,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Список литературы оформлен в соответствии с требованиями ГОСТ.",
     "examplePhonetic": "Spisok literatury oformlen v sootvetstvii s trebovaniyami GOST.",
     "exampleTranslation": "Daftar pustaka disusun sesuai ketentuan standar GOST.",
-    "notes": "Daftar rujukan literatur yang disitir.",
+    "notes": "Daftar rujukan literatur yang disitir. Kata \"Список литературы\" (cara baca: Spisok literatury) digunakan dalam bahasa Rusia (tingkat B1, kategori Penelitian & Riset) untuk menyatakan \"Daftar pustaka\".",
     "tags": [
       "penelitian",
       "b1",
@@ -811,7 +811,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Скоростной поезд 'Сапсан' связывает Москву и Санкт-Петербург.",
     "examplePhonetic": "Skorostnoy poyezd 'Sapsan' svyazyvayet Moskvu i Sankt-Peterburg.",
     "exampleTranslation": "Kereta cepat Sapsan menghubungkan Moskow dan Saint Petersburg.",
-    "notes": "Moda transportasi rel cepat perkotaan.",
+    "notes": "Moda transportasi rel cepat perkotaan. Kata \"Поезд\" (cara baca: Poyezd) digunakan dalam bahasa Rusia (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Kereta api\".",
     "tags": [
       "transportasi",
       "a1",
@@ -849,7 +849,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Мы вызвали такси через мобильное приложение.",
     "examplePhonetic": "My vyzvali taksi cherez mobil'noye prilozheniye.",
     "exampleTranslation": "Kami memesan taksi melalui aplikasi ponsel pintar.",
-    "notes": "Kendaraan sewa umum berbayar argo.",
+    "notes": "Kendaraan sewa umum berbayar argo. Kata \"Такси\" (cara baca: Taksi) digunakan dalam bahasa Rusia (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Taksi\".",
     "tags": [
       "transportasi",
       "a1",
@@ -925,7 +925,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Автобусная остановка находится через дорогу от института.",
     "examplePhonetic": "Avtobusnaya ostanovka nakhoditsya cherez dorogu ot instituta.",
     "exampleTranslation": "Halte bus terletak di seberang jalan dari gedung institut.",
-    "notes": "Tempat perhentian bus di tepi jalan.",
+    "notes": "Tempat perhentian bus di tepi jalan. Kata \"Остановка\" (cara baca: Ostanovka) digunakan dalam bahasa Rusia (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Halte bus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -944,7 +944,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Поверните налево сразу после университетского сквера.",
     "examplePhonetic": "Povernite nalevo srazu posle universitetskogo skvera.",
     "exampleTranslation": "Beloklah ke kiri segera setelah taman universitas.",
-    "notes": "Petunjuk arah ke sisi kiri.",
+    "notes": "Petunjuk arah ke sisi kiri. Kata \"Налево\" (cara baca: Nalevo) digunakan dalam bahasa Rusia (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kiri\".",
     "tags": [
       "transportasi",
       "a1",
@@ -963,7 +963,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Направо по коридору находится деканат нашего факультета.",
     "examplePhonetic": "Napravo po koridoru nakhoditsya dekanat nashego fakul'teta.",
     "exampleTranslation": "Ke arah kanan koridor terletak kantor dekanat fakultas kami.",
-    "notes": "Petunjuk arah ke sisi kanan.",
+    "notes": "Petunjuk arah ke sisi kanan. Kata \"Направо\" (cara baca: Napravo) digunakan dalam bahasa Rusia (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kanan\".",
     "tags": [
       "transportasi",
       "a1",
@@ -982,7 +982,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Идите прямо до конца улицы, затем поверните к парку.",
     "examplePhonetic": "Idite pryamo do kontsa ulitsy, zatem povernite k parku.",
     "exampleTranslation": "Jalan lurus terus hingga ujung jalan, kemudian belok ke arah taman.",
-    "notes": "Petunjuk arah tanpa berbelok.",
+    "notes": "Petunjuk arah tanpa berbelok. Kata \"Прямо\" (cara baca: Pryamo) digunakan dalam bahasa Rusia (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Lurus terus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -1001,7 +1001,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Сегодня на факультете проходит ярмарка вакансий.",
     "examplePhonetic": "Segodnya na fakul'tete prokhodit yarmarka vakansiy.",
     "exampleTranslation": "Hari ini di fakultas sedang diadakan pameran bursa kerja.",
-    "notes": "Hari saat ini berlangsung.",
+    "notes": "Hari saat ini berlangsung. Kata \"Сегодня\" (cara baca: Segodnya) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Hari ini\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1020,7 +1020,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Завтра состоится консультация перед итоговым зачётом.",
     "examplePhonetic": "Zavtra sostoitsya konsul'tatsiya pered itogovym zachetov.",
     "exampleTranslation": "Besok akan diadakan sesi konsultasi sebelum ujian evaluasi akhir.",
-    "notes": "Hari setelah hari ini.",
+    "notes": "Hari setelah hari ini. Kata \"Завтра\" (cara baca: Zavtra) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Besok\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1039,7 +1039,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Вчера мы закончили работу над первой главой отчёта.",
     "examplePhonetic": "Vchera my zakonchili rabotu nad pervoy glavoy otcheta.",
     "exampleTranslation": "Kemarin kami telah menyelesaikan pengerjaan bab pertama laporan.",
-    "notes": "Hari sebelum hari ini.",
+    "notes": "Hari sebelum hari ini. Kata \"Вчера\" (cara baca: Vchera) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Kemarin\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1058,7 +1058,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Семинарское занятие длится академический час и двадцать минут.",
     "examplePhonetic": "Seminarskoye zanyatiye dlitsya akademicheskiy chas i dvadtsat' minut.",
     "exampleTranslation": "Kelas seminar berlangsung selama 1 jam akademik dan 20 menit.",
-    "notes": "Satuan penunjuk waktu 60 menit.",
+    "notes": "Satuan penunjuk waktu 60 menit. Kata \"Час\" (cara baca: Chas) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Jam\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1077,7 +1077,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Осталось всего пять минут до завершения письменного теста.",
     "examplePhonetic": "Ostolos' vsego pyat' minut do zaversheniya pis'mennogo testa.",
     "exampleTranslation": "Tersisa lima menit lagi sebelum tes tertulis ditutup.",
-    "notes": "Satuan penunjuk waktu 60 detik.",
+    "notes": "Satuan penunjuk waktu 60 detik. Kata \"Минута\" (cara baca: Minuta) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Menit\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1096,7 +1096,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Следующая неделя объявлена зачётной неделей семестра.",
     "examplePhonetic": "Sleduyushchaya nedelya ob'yavlena zachetnoy nedeley semestra.",
     "exampleTranslation": "Pekan depan dinyatakan sebagai pekan ujian evaluasi semester.",
-    "notes": "Periode waktu tujuh hari.",
+    "notes": "Periode waktu tujuh hari. Kata \"Неделя\" (cara baca: Nedelya) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Pekan\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1115,7 +1115,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Через месяц иностранные студенты сдают сертификационный экзамен.",
     "examplePhonetic": "Cherez mesyats inostrannyye studenty sdayut sertifikatsionnyy ekzamen.",
     "exampleTranslation": "Sebulan lagi mahasiswa internasional mengikuti ujian sertifikasi.",
-    "notes": "Periode waktu sekitar 30 hari.",
+    "notes": "Periode waktu sekitar 30 hari. Kata \"Месяц\" (cara baca: Mesyats) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Bulan kalender\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1134,7 +1134,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Учебный год в российских вузах традиционно делится на два семестра.",
     "examplePhonetic": "Uchebnyy god v rossiyskikh vuzakh traditsionno delitsya na dva semestra.",
     "exampleTranslation": "Tahun ajaran di universitas Rusia lazimnya dibagi menjadi 2 semester.",
-    "notes": "Periode waktu 12 bulan.",
+    "notes": "Periode waktu 12 bulan. Kata \"Год\" (cara baca: God) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Tahun\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1153,7 +1153,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Сейчас самое подходящее время для подготовки к сессии.",
     "examplePhonetic": "Seychas samoye podkhodyashcheye vremya dlya podgotovki k sessii.",
     "exampleTranslation": "Saat ini adalah waktu yang paling tepat bersiap untuk sesi ujian.",
-    "notes": "Waktu yang sedang terjadi kini.",
+    "notes": "Waktu yang sedang terjadi kini. Kata \"Сейчас\" (cara baca: Seychas) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Sekarang\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1172,7 +1172,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Сначала сдадим экзамены, а потом поедем на экскурсию.",
     "examplePhonetic": "Snachala sdadim ekzameny, a potom poyedem na ekskursiyu.",
     "exampleTranslation": "Pertama-tama kita luluskan ujian, kemudian kita pergi berdarmawisata.",
-    "notes": "Waktu yang akan datang tidak lama lagi.",
+    "notes": "Waktu yang akan datang tidak lama lagi. Kata \"Потом\" (cara baca: Potom) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Nanti\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1248,7 +1248,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Свежий бородинский хлеб подаётся ко всем горячим блюдам.",
     "examplePhonetic": "Svezhiy borodinskiy khleb podayetsya ko vsem goryachim blyudam.",
     "exampleTranslation": "Roti gandum Borodinsky segar disajikan mendampingi hidangan hangat.",
-    "notes": "Makanan pokok sumber karbohidrat utama.",
+    "notes": "Makanan pokok sumber karbohidrat utama. Kata \"Хлеб\" (cara baca: Khleb) digunakan dalam bahasa Rusia (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Nasi\".",
     "tags": [
       "makanan",
       "a1",
@@ -1343,7 +1343,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Горячий домашний борщ со сметаной был невероятно вкусным.",
     "examplePhonetic": "Goryachiy domashniy borshch so smetanoy byl neveroyatno vkusnym.",
     "exampleTranslation": "Sup borscht hangat dengan krim asam sungguh terasa sangat lezat.",
-    "notes": "Rasa makanan yang memuaskan lidah.",
+    "notes": "Rasa makanan yang memuaskan lidah. Kata \"Вкусный\" (cara baca: Vkusnyy) digunakan dalam bahasa Rusia (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Enak\".",
     "tags": [
       "makanan",
       "a1",
@@ -1419,7 +1419,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Книжный магазин предлагает широкий выбор научной литературы.",
     "examplePhonetic": "Knizhnyy magazin predlagayet shirokiy vybor nauchnoy literatury.",
     "exampleTranslation": "Toko buku menawarkan aneka ragam koleksi literatur ilmiah.",
-    "notes": "Tempat menjual aneka barang kebutuhan.",
+    "notes": "Tempat menjual aneka barang kebutuhan. Kata \"Магазин\" (cara baca: Magazin) digunakan dalam bahasa Rusia (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Toko\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1438,7 +1438,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "По студенческому билету предоставляется скидка двадцать процентов.",
     "examplePhonetic": "Po studencheskomu biletu predostavlyayetsya skidka dvadtsat' protsentov.",
     "exampleTranslation": "Dengan kartu mahasiswa diberikan potongan diskon 20%.",
-    "notes": "Pengurangan dari harga jual standar.",
+    "notes": "Pengurangan dari harga jual standar. Kata \"Скидка\" (cara baca: Skidka) digunakan dalam bahasa Rusia (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Diskon\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1457,7 +1457,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Терминал принимает к оплате карты любых российских банков.",
     "examplePhonetic": "Terminal prinimayet k oplate karty lyubykh rossiyskikh bankov.",
     "exampleTranslation": "Mesin gesek menerima pembayaran kartu bank mana pun.",
-    "notes": "Alat transaksi perbankan nontunai.",
+    "notes": "Alat transaksi perbankan nontunai. Kata \"Кредитная карта\" (cara baca: Kreditnaya karta) digunakan dalam bahasa Rusia (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Kartu kredit\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1476,7 +1476,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Всегда сохраняйте кассовый чек при покупке дорогой техники.",
     "examplePhonetic": "Vsegda sokhranyayte kassovyy chek pri pokupke dorogoy tekhniki.",
     "exampleTranslation": "Selalu simpan struk kasir saat membeli perangkat elektronik.",
-    "notes": "Tanda bukti sah transaksi pembelian.",
+    "notes": "Tanda bukti sah transaksi pembelian. Kata \"Чек\" (cara baca: Chek) digunakan dalam bahasa Rusia (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Struk bukti belanja\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1495,7 +1495,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "На городском рынке можно купить свежие овощи и сезонные фрукты.",
     "examplePhonetic": "Na gorodskom rynke mozhno kupit' svezhiye ovoshchi i sezonnyye frukty.",
     "exampleTranslation": "Di pasar kota dapat dibeli sayur-mayur segar dan buah musiman.",
-    "notes": "Tempat bertemunya penjual dan pembeli.",
+    "notes": "Tempat bertemunya penjual dan pembeli. Kata \"Рынок\" (cara baca: Rynok) digunakan dalam bahasa Rusia (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Pasar tradisional\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1514,7 +1514,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Студенческий проездной — самый дешёвый способ передвижения.",
     "examplePhonetic": "Studencheskiy proyezdnoy — samyy deshevyy sposob peredvizheniya.",
     "exampleTranslation": "Tiket terusan mahasiswa adalah cara bepergian yang paling murah.",
-    "notes": "Harga barang di bawah rata-rata umum.",
+    "notes": "Harga barang di bawah rata-rata umum. Kata \"Дешёвый\" (cara baca: Deshevyy) digunakan dalam bahasa Rusia (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Murah terjangkau\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1590,7 +1590,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Даже маленькая исследовательская лаборатория способна сделать открытие.",
     "examplePhonetic": "Dazhe malen'kaya issledovatel'skaya laboratoriya sposobna sdelat' otkrytiye.",
     "exampleTranslation": "Bahkan laboratorium riset kecil mampu menelurkan penemuan besar.",
-    "notes": "Ukuran atau volume di bawah rata-rata.",
+    "notes": "Ukuran atau volume di bawah rata-rata. Kata \"Маленький\" (cara baca: Malen'kiy) digunakan dalam bahasa Rusia (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Kecil ukurannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1628,7 +1628,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Медленный, но упорный труд приводит к наилучшим результатам.",
     "examplePhonetic": "Medlennyy, no upornyy trud privodit k nailuchshim rezul'tatam.",
     "exampleTranslation": "Kerja tekun yang lambat namun konsisten membuahkan hasil terbaik.",
-    "notes": "Membutuhkan waktu lama dalam bergerak.",
+    "notes": "Membutuhkan waktu lama dalam bergerak. Kata \"Медленный\" (cara baca: Medlennyy) digunakan dalam bahasa Rusia (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Lambat pergerakannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1647,7 +1647,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Наш научный руководитель — выдающийся и очень умный учёный.",
     "examplePhonetic": "Nash nauchnyy rukovoditel' — vydayushchiysya i ochen' umnyy uchenyy.",
     "exampleTranslation": "Dosen pembimbing kami adalah ilmuwan terkemuka dan sangat pintar.",
-    "notes": "Mempunyai daya pikir cepat dan tajam.",
+    "notes": "Mempunyai daya pikir cepat dan tajam. Kata \"Умный\" (cara baca: Umnyy) digunakan dalam bahasa Rusia (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Cerdas\".",
     "tags": [
       "kata",
       "a1",
@@ -1723,7 +1723,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Хороший уровень владения языком необходим для написания статей.",
     "examplePhonetic": "Khoroshiy uroven' vladeniya yazykom neobkhodim dlya napisaniya statey.",
     "exampleTranslation": "Tingkat kemahiran bahasa yang baik diperlukan untuk menulis riset.",
-    "notes": "Memiliki mutu tinggi dan bermanfaat.",
+    "notes": "Memiliki mutu tinggi dan bermanfaat. Kata \"Хороший\" (cara baca: Khoroshiy) digunakan dalam bahasa Rusia (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Bagus\".",
     "tags": [
       "kata",
       "a1",
@@ -1780,7 +1780,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Студенты должны регулярно читать научные монографии по специальности.",
     "examplePhonetic": "Studenty dolzhny regulyarno chitat' nauchnyye monografii po spetsial'nosti.",
     "exampleTranslation": "Mahasiswa wajib membaca monograf ilmiah bidang studinya teratur.",
-    "notes": "Melihat dan memahami isi tulisan.",
+    "notes": "Melihat dan memahami isi tulisan. Kata \"Читать\" (cara baca: Chitat') digunakan dalam bahasa Rusia (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Membaca teks buku\".",
     "tags": [
       "aksi",
       "a1",
@@ -1818,7 +1818,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "На конференциях важно говорить чётко, уверенно и доказательно.",
     "examplePhonetic": "Na konferentsiyakh vazhno govorit' chetko, uverenno i dokazatel'no.",
     "exampleTranslation": "Di konferensi penting berbicara lantang, percaya diri, dan berdasar.",
-    "notes": "Menyampaikan kata-kata melalui suara.",
+    "notes": "Menyampaikan kata-kata melalui suara. Kata \"Говорить\" (cara baca: Govorit') digunakan dalam bahasa Rusia (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Berbicara lisan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1856,7 +1856,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Перед длительным экзаменом полезно хорошо и сытно поесть.",
     "examplePhonetic": "Pered dlitel'nym ekzamenom polezno khorosho i sytno poyest'.",
     "exampleTranslation": "Sebelum ujian yang panjang ada baiknya menyantap makanan bergizi.",
-    "notes": "Mengonsumsi makanan ke dalam perut.",
+    "notes": "Mengonsumsi makanan ke dalam perut. Kata \"Есть\" (cara baca: Yest') digunakan dalam bahasa Rusia (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Makan makanan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1875,7 +1875,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Во время напряжённой умственной работы полезно пить зелёный чай.",
     "examplePhonetic": "Vo vremya napryazhennoy umstvennoy raboty polezno pit' zelenyy chay.",
     "exampleTranslation": "Selama aktivitas mental berat sangat baik minum teh hijau hangat.",
-    "notes": "Meneguk zat cair penghilang dahaga.",
+    "notes": "Meneguk zat cair penghilang dahaga. Kata \"Пить\" (cara baca: Pit') digunakan dalam bahasa Rusia (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Minum air cairan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1913,7 +1913,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Каждое утро я иду пешком от общежития до учебного корпуса.",
     "examplePhonetic": "Kazhdoye utro ya idu peshkom ot obshchezhitiya do uchebnogo korpusa.",
     "exampleTranslation": "Setiap pagi saya berjalan kaki dari asrama menuju gedung perkuliahan.",
-    "notes": "Berangkat meninggalkan lokasi saat ini.",
+    "notes": "Berangkat meninggalkan lokasi saat ini. Kata \"Идти\" (cara baca: Idti) digunakan dalam bahasa Rusia (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Pergi ke suatu tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -1932,7 +1932,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Старайтесь всегда приходить на практические занятия без опозданий.",
     "examplePhonetic": "Staraytes' vsegda prikhodit' na prakticheskiye zanyatiya bez opozdaniy.",
     "exampleTranslation": "Usahakan selalu datang ke kelas praktikum tanpa keterlambatan.",
-    "notes": "Sampai di tempat yang dituju.",
+    "notes": "Sampai di tempat yang dituju. Kata \"Приходить\" (cara baca: Prikhodit') digunakan dalam bahasa Rusia (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Datang tiba di tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -2141,7 +2141,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Круглосуточная дежурная аптека расположена рядом со станцией метро.",
     "examplePhonetic": "Kruglosutochnaya dezhurnaya apteka raspolozhena ryadom so stantsiyey metro.",
     "exampleTranslation": "Apotek siaga 24 jam terletak tepat di dekat pintu keluar stasiun metro.",
-    "notes": "Toko penyedia obat-obatan resmi.",
+    "notes": "Toko penyedia obat-obatan resmi. Kata \"Аптека\" (cara baca: Apteka) digunakan dalam bahasa Rusia (tingkat A1, kategori Kesehatan & Tubuh) untuk menyatakan \"Apotek obat\".",
     "tags": [
       "kesehatan",
       "a1",
@@ -2217,7 +2217,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Высокоскоростной интернет доступен на всей территории университетского городка.",
     "examplePhonetic": "Vysokoskorostnoy internet dostupen na vsey territorii universitetskogo gorodka.",
     "exampleTranslation": "Internet berkecepatan tinggi dapat diakses di seluruh area kampus.",
-    "notes": "Jaringan telekomunikasi digital global.",
+    "notes": "Jaringan telekomunikasi digital global. Kata \"Интернет\" (cara baca: Internet) digunakan dalam bahasa Rusia (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Jaringan internet\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2236,7 +2236,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В смартфоне установлено университетское приложение с электронным пропуском.",
     "examplePhonetic": "V smartfone ustanovleno universitetskoye prilozheniye s elektronnym propuskom.",
     "exampleTranslation": "Di ponsel terpasang aplikasi universitas dengan kartu akses digital.",
-    "notes": "Telepon genggam pintar serbaguna.",
+    "notes": "Telepon genggam pintar serbaguna. Kata \"Смартфон\" (cara baca: Smartfon) digunakan dalam bahasa Rusia (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Ponsel\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2388,7 +2388,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В жаркие летние месяцы приятно заниматься в читальном зале с кондиционером.",
     "examplePhonetic": "V zharkiye letniye mesyatsy priyatno zanimat'sya v chital'nom zale s konditsionerom.",
     "exampleTranslation": "Di musim panas yang terik nyaman belajar di ruang baca berpendingin.",
-    "notes": "Suhu udara tinggi menghangatkan tubuh.",
+    "notes": "Suhu udara tinggi menghangatkan tubuh. Kata \"Жаркий\" (cara baca: Zharkiy) digunakan dalam bahasa Rusia (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Panas udaranya\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2426,7 +2426,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Лето — пора производственной практики и полевых экспедиций биологов.",
     "examplePhonetic": "Leto — pora proizvodstvennoy praktiki i polevykh ekspeditsiy biologov.",
     "exampleTranslation": "Musim panas adalah waktu praktik kerja lapangan dan ekspedisi biologi.",
-    "notes": "Musim bersuhu tertinggi dalam kalender.",
+    "notes": "Musim bersuhu tertinggi dalam kalender. Kata \"Лето\" (cara baca: Leto) digunakan dalam bahasa Rusia (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim panas\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2445,7 +2445,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Русская снежная зима превращает университетский парк в настоящую сказку.",
     "examplePhonetic": "Russkaya snezhnaya zima prevrashchayet universitetskiy park v nastoyashchuyu skazku.",
     "exampleTranslation": "Musim dingin bersalju menyulap taman kampus bagaikan di negeri dongeng.",
-    "notes": "Musim bersuhu terendah berhawa beku.",
+    "notes": "Musim bersuhu terendah berhawa beku. Kata \"Зима\" (cara baca: Zima) digunakan dalam bahasa Rusia (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim dingin\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2464,7 +2464,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ботанический сад университета открыт для научных наблюдений и прогулок.",
     "examplePhonetic": "Botanicheskiy sad universiteta otkryt dlya nauchnykh nablyudeniy i progulok.",
     "exampleTranslation": "Kebun raya universitas terbuka untuk pengamatan botani dan jalan santai.",
-    "notes": "Ruang terbuka hijau asri untuk santai.",
+    "notes": "Ruang terbuka hijau asri untuk santai. Kata \"Парк\" (cara baca: Park) digunakan dalam bahasa Rusia (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Taman kampus hijau\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2578,7 +2578,7 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Настоящий учёный руководствуется мудростью: век живи — век учись.",
     "examplePhonetic": "Nastoyashchiy uchenyy rukovodstvuyetsya mudrost'yu: vek zhivi — vek uchis'.",
     "exampleTranslation": "Ilmuwan sejati berpegang pada petuah: seumur hidup hiduplah untuk terus belajar.",
-    "notes": "Makin berilmu makin santun dan tawadhu.",
+    "notes": "Makin berilmu makin santun dan tawadhu. Kata \"Век живи — век учись\" (cara baca: Vek zhivi — vek uchis') digunakan dalam bahasa Rusia (tingkat B2, kategori Idiom & Peribahasa) untuk menyatakan \"Padi makin berisi makin runduk\".",
     "tags": [
       "idiom",
       "b2",
@@ -2694,9 +2694,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Pada hari Senin kita memiliki empat sesi perkuliahan.",
     "notes": "Hari Senin (hari pertama sekolah/kuliah).",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2711,11 +2711,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Во вторник мы сдаём реферат по истории.",
     "examplePhonetic": "Vo vtornik my sdayom referat po istorii.",
     "exampleTranslation": "Pada hari Selasa kami mengumpulkan makalah sejarah.",
-    "notes": "Hari Selasa.",
+    "notes": "Hari Selasa. Kata \"Вторник\" (cara baca: vtornik) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Selasa\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2730,11 +2730,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Каждую среду в университете проводятся семинары.",
     "examplePhonetic": "Kazhduyu sredu v universitete provodyatsya seminary.",
     "exampleTranslation": "Setiap hari Rabu diadakan seminar di universitas.",
-    "notes": "Hari Rabu.",
+    "notes": "Hari Rabu. Kata \"Среда\" (cara baca: sreda) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Rabu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2749,11 +2749,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В четверг состоится собрание студенческого совета.",
     "examplePhonetic": "V chetverg sostoitsya sobraniye studencheskogo soveta.",
     "exampleTranslation": "Pada hari Kamis akan diadakan pertemuan dewan mahasiswa.",
-    "notes": "Hari Kamis.",
+    "notes": "Hari Kamis. Kata \"Четверг\" (cara baca: chetverg) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Kamis\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2768,11 +2768,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Пятница — последний день учебной недели.",
     "examplePhonetic": "Pyatnitsa — posledniy den' uchebnoy nedeli.",
     "exampleTranslation": "Jumat adalah hari terakhir dalam pekan belajar.",
-    "notes": "Hari Jumat.",
+    "notes": "Hari Jumat. Kata \"Пятница\" (cara baca: pyatnitsa) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jumat\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2787,11 +2787,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В субботу некоторые студенты занимаются в библиотеке.",
     "examplePhonetic": "V subbotu nekotoryye studenty zanimayutsya v biblioteke.",
     "exampleTranslation": "Pada hari Sabtu beberapa mahasiswa belajar di perpustakaan.",
-    "notes": "Hari Sabtu.",
+    "notes": "Hari Sabtu. Kata \"Суббота\" (cara baca: subbota) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Sabtu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2806,11 +2806,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Воскресенье — выходной день для всех учащихся.",
     "examplePhonetic": "Voskresen'ye — vykhodnoy den' dlya vsekh uchashchikhsya.",
     "exampleTranslation": "Hari Minggu adalah hari libur untuk seluruh siswa.",
-    "notes": "Hari Minggu.",
+    "notes": "Hari Minggu. Kata \"Воскресенье\" (cara baca: voskresen'ye) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Minggu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2827,9 +2827,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jadwal perkuliahan/pelajaran berubah mulai minggu depan.",
     "notes": "Jadwal pelajaran atau jadwal perkuliahan.",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -2844,11 +2844,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В будние дни школа открыта с семи утра.",
     "examplePhonetic": "V budniye dni shkola otkryta s semi utra.",
     "exampleTranslation": "Pada hari kerja/sekolah sekolah buka mulai pukul tujuh pagi.",
-    "notes": "Hari kerja biasa (Senin-Jumat).",
+    "notes": "Hari kerja biasa (Senin-Jumat). Kata \"Будний день\" (cara baca: budniy den') digunakan dalam bahasa Rusia (tingkat A2, kategori Waktu & Hari Sekolah) untuk menyatakan \"Hari Kerja\".",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2863,11 +2863,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "На выходных студенты отдыхают и готовятся к зачётам.",
     "examplePhonetic": "Na vykhodnykh studenty otdykhayut i gotovyatsya k zachyotam.",
     "exampleTranslation": "Di akhir pekan para mahasiswa beristirahat dan bersiap untuk ujian.",
-    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "notes": "Akhir pekan (Sabtu & Minggu). Kata \"Выходные\" (cara baca: vykhodnyye) digunakan dalam bahasa Rusia (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -2882,11 +2882,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Математика развивает логическое мышление.",
     "examplePhonetic": "Matematika razvivayet logicheskoye myshleniye.",
     "exampleTranslation": "Matematika mengembangkan pemikiran logis.",
-    "notes": "Mata pelajaran matematika.",
+    "notes": "Mata pelajaran matematika. Kata \"Математика\" (cara baca: matematika) digunakan dalam bahasa Rusia (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Matematika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2901,11 +2901,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "На уроке физики мы изучаем законы механики.",
     "examplePhonetic": "Na uroke fiziki my izuchayem zakony mekhaniki.",
     "exampleTranslation": "Pada pelajaran fisika kita mempelajari hukum mekanika.",
-    "notes": "Mata pelajaran fisika.",
+    "notes": "Mata pelajaran fisika. Kata \"Физика\" (cara baca: fizika) digunakan dalam bahasa Rusia (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Fisika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2920,11 +2920,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Учитель химии показал интересную реакцию.",
     "examplePhonetic": "Uchitel' khimii pokazal interesnuyu reaktsiyu.",
     "exampleTranslation": "Guru kimia memperlihatkan reaksi yang menarik.",
-    "notes": "Mata pelajaran kimia.",
+    "notes": "Mata pelajaran kimia. Kata \"Химия\" (cara baca: khimiya) digunakan dalam bahasa Rusia (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Kimia\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2939,11 +2939,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Биология изучает структуру живых организмов.",
     "examplePhonetic": "Biologiya izuchayet strukturu zhivykh organizmov.",
     "exampleTranslation": "Biologi mempelajari struktur organisme hidup.",
-    "notes": "Mata pelajaran biologi.",
+    "notes": "Mata pelajaran biologi. Kata \"Биология\" (cara baca: biologiya) digunakan dalam bahasa Rusia (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Biologi\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2958,11 +2958,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "История помогает нам учиться на ошибках прошлого.",
     "examplePhonetic": "Istoriya pomogayet nam uchit'sya na oshibkakh proshlogo.",
     "exampleTranslation": "Sejarah membantu kita belajar dari kesalahan masa lalu.",
-    "notes": "Mata pelajaran sejarah.",
+    "notes": "Mata pelajaran sejarah. Kata \"История\" (cara baca: istoriya) digunakan dalam bahasa Rusia (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sejarah\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2977,11 +2977,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "На уроке географии мы изучали климат разных континентов.",
     "examplePhonetic": "Na uroke geografii my izuchali klimat raznykh kontinentov.",
     "exampleTranslation": "Di pelajaran geografi kami mempelajari iklim berbagai benua.",
-    "notes": "Mata pelajaran geografi.",
+    "notes": "Mata pelajaran geografi. Kata \"География\" (cara baca: geografiya) digunakan dalam bahasa Rusia (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Geografi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2996,11 +2996,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Русская литература известна во всём мире.",
     "examplePhonetic": "Russkaya literatura izvestna vo vsyom mire.",
     "exampleTranslation": "Sastra Rusia terkenal di seluruh penjuru dunia.",
-    "notes": "Sastra dan literatur.",
+    "notes": "Sastra dan literatur. Kata \"Литература\" (cara baca: literatura) digunakan dalam bahasa Rusia (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sastra & Bahasa\".",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3015,11 +3015,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "На уроке информатики студенты пишут алгоритмы.",
     "examplePhonetic": "Na uroke informatiki studenty pishut algoritmy.",
     "exampleTranslation": "Pada pelajaran informatika mahasiswa menulis algoritma.",
-    "notes": "Ilmu komputer / informatika.",
+    "notes": "Ilmu komputer / informatika. Kata \"Информатика\" (cara baca: informatika) digunakan dalam bahasa Rusia (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3034,11 +3034,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Он выбрал факультет экономики и финансов.",
     "examplePhonetic": "On vybral fakul'tet ekonomiki i finansov.",
     "exampleTranslation": "Dia memilih fakultas ekonomi dan keuangan.",
-    "notes": "Ilmu ekonomi.",
+    "notes": "Ilmu ekonomi. Kata \"Экономика\" (cara baca: ekonomika) digunakan dalam bahasa Rusia (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Ekonomi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3053,11 +3053,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Философия побуждает студентов задавать глубокие вопросы.",
     "examplePhonetic": "Filosofiya pobuzhdayet studentov zadavat' glubokiye voprosy.",
     "exampleTranslation": "Filsafat mendorong mahasiswa mengajukan pertanyaan yang mendalam.",
-    "notes": "Filsafat.",
+    "notes": "Filsafat. Kata \"Философия\" (cara baca: filosofiya) digunakan dalam bahasa Rusia (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Filsafat\".",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3074,9 +3074,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Seni rupa mengembangkan imajinasi dan rasa keindahan.",
     "notes": "Seni rupa / kesenian (sering disingkat ИЗО).",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3093,9 +3093,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Setelah makan siang para siswa akan berolahraga di stadion.",
     "notes": "Pendidikan jasmani dan olahraga (singkatan dari Физическая культура).",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3110,11 +3110,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Учёба на факультете медицины требует упорного труда.",
     "examplePhonetic": "Uchyoba na fakul'tete meditsiny trebuyet upornogo truda.",
     "exampleTranslation": "Kuliah di fakultas kedokteran membutuhkan kerja keras.",
-    "notes": "Ilmu kedokteran.",
+    "notes": "Ilmu kedokteran. Kata \"Медицина\" (cara baca: meditsina) digunakan dalam bahasa Rusia (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Kedokteran\".",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3129,11 +3129,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Студенты юриспруденции изучают гражданское право.",
     "examplePhonetic": "Studenty yurisprudentsii izuchayut grazhdanskoye pravo.",
     "exampleTranslation": "Mahasiswa ilmu hukum mempelajari hukum perdata.",
-    "notes": "Ilmu hukum (juga disebut Право).",
+    "notes": "Ilmu hukum (juga disebut Право). Kata \"Юриспруденция\" (cara baca: yurisprudentsiya) digunakan dalam bahasa Rusia (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3148,11 +3148,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Инженерия объединяет научные исследования и практику.",
     "examplePhonetic": "Inzheneriya ob\"yedinyayet nauchnyye issledovaniya i praktiku.",
     "exampleTranslation": "Teknik/rekayasa menggabungkan penelitian ilmiah dan praktik nyata.",
-    "notes": "Teknik dan rekayasa.",
+    "notes": "Teknik dan rekayasa. Kata \"Инженерия\" (cara baca: inzheneriya) digunakan dalam bahasa Rusia (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Teknik & Rekayasa\".",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3169,9 +3169,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kuliah akan dimulai di ruang kelas/auditorium nomor 305.",
     "notes": "Ruang kelas kuliah / kelas sekolah (класс).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3186,11 +3186,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В университетской библиотеке всегда тихо и спокойно.",
     "examplePhonetic": "V universitetskoy biblioteke vsegda tikho i spokoyno.",
     "exampleTranslation": "Di perpustakaan universitas selalu tenang dan hening.",
-    "notes": "Perpustakaan.",
+    "notes": "Perpustakaan. Kata \"Библиотека\" (cara baca: biblioteka) digunakan dalam bahasa Rusia (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Perpustakaan\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3205,11 +3205,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Вход в лабораторию разрешён только в халатах.",
     "examplePhonetic": "Vkhod v laboratoriyu razreshyon tol'ko v khalatakh.",
     "exampleTranslation": "Masuk ke laboratorium hanya diizinkan dengan jas lab.",
-    "notes": "Laboratorium sains.",
+    "notes": "Laboratorium sains. Kata \"Лаборатория\" (cara baca: laboratoriya) digunakan dalam bahasa Rusia (tingkat A2, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Sains\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3224,11 +3224,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Праздничный концерт пройдёт в актовом зале.",
     "examplePhonetic": "Prazdnichnyy kontsert proydyot v aktovom zale.",
     "exampleTranslation": "Konser perayaan akan diadakan di aula utama/auditorium.",
-    "notes": "Auditorium / aula pertemuan besar.",
+    "notes": "Auditorium / aula pertemuan besar. Kata \"Актовый зал\" (cara baca: aktovyy zal) digunakan dalam bahasa Rusia (tingkat A2, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Auditorium\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3245,9 +3245,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Para guru berkumpul untuk rapat di ruang guru.",
     "notes": "Ruang guru sekolah / ruang dosen (кафедра).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3264,9 +3264,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Komisi penerimaan mahasiswa baru terletak di dekat rektorat.",
     "notes": "Gedung rektorat / ruang kepala sekolah (кабинет директора).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3281,11 +3281,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В студенческой столовой готовят вкусный борщ.",
     "examplePhonetic": "V studencheskoy stolovoy gotovyat vkusnyy borshch.",
     "exampleTranslation": "Di kantin mahasiswa mereka menyajikan borscht yang lezat.",
-    "notes": "Kantin / kafetaria kampus atau sekolah.",
+    "notes": "Kantin / kafetaria kampus atau sekolah. Kata \"Столовая\" (cara baca: stolovaya) digunakan dalam bahasa Rusia (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Kantin\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3302,9 +3302,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Gimnasium/gedung olahraga buka untuk latihan hingga pukul sembilan malam.",
     "notes": "Gimnasium / aula olahraga (singkatan dari спортивный зал).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3321,9 +3321,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Banyak mahasiswa tingkat pertama tinggal di asrama mahasiswa.",
     "notes": "Asrama mahasiswa (sering disingkat общага).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3340,9 +3340,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jika Anda merasa pusing, pergilah ke ruang UKS sekolah/klinik.",
     "notes": "Ruang medis UKS / poliklinik sekolah & kampus.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3357,11 +3357,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Все практические занятия проходят в компьютерном классе.",
     "examplePhonetic": "Vse prakticheskiye zanyatiya prokhodyat v komp'yuternom klasse.",
     "exampleTranslation": "Semua kelas praktik diadakan di laboratorium komputer.",
-    "notes": "Laboratorium komputer.",
+    "notes": "Laboratorium komputer. Kata \"Компьютерный класс\" (cara baca: komp'yuternyy klass) digunakan dalam bahasa Rusia (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Laboratorium Komputer\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3378,9 +3378,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Surat keterangan studi dapat dipesan di bagian dekanat/tata usaha.",
     "notes": "Bagian tata usaha sekolah atau dekanat kampus.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3395,11 +3395,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Откройте учебники на двадцатой странице.",
     "examplePhonetic": "Otkroyte uchebniki na dvadtsatoy stranitse.",
     "exampleTranslation": "Buka buku pelajaran kalian di halaman dua puluh.",
-    "notes": "Buku teks / buku paket pelajaran.",
+    "notes": "Buku teks / buku paket pelajaran. Kata \"Учебник\" (cara baca: uchebnik) digunakan dalam bahasa Rusia (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Buku Teks\".",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3414,11 +3414,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ученик вышел к доске и написал ответ.",
     "examplePhonetic": "Uchenik vyshel k doske i napisal otvet.",
     "exampleTranslation": "Siswa maju ke papan tulis dan menuliskan jawabannya.",
-    "notes": "Papan tulis kelas.",
+    "notes": "Papan tulis kelas. Kata \"Классная доска\" (cara baca: klassnaya doska) digunakan dalam bahasa Rusia (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Papan Tulis\".",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3433,11 +3433,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Я уже сделал всё домашнее задание на завтра.",
     "examplePhonetic": "Ya uzhe sdelal vsyo domashneye zadaniye na zavtra.",
     "exampleTranslation": "Saya sudah mengerjakan semua pekerjaan rumah (PR) untuk besok.",
-    "notes": "Pekerjaan rumah / tugas sekolah (PR).",
+    "notes": "Pekerjaan rumah / tugas sekolah (PR). Kata \"Домашнее задание\" (cara baca: domashneye zadaniye) digunakan dalam bahasa Rusia (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Tugas Rumah\".",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3452,11 +3452,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Зимняя сессия состоит из трёх экзаменов.",
     "examplePhonetic": "Zimnyaya sessiya sostoit iz tryokh ekzamenov.",
     "exampleTranslation": "Ujian semester musim dingin terdiri dari tiga ujian.",
-    "notes": "Ujian akhir / tes evaluasi semester.",
+    "notes": "Ujian akhir / tes evaluasi semester. Kata \"Экзамен\" (cara baca: ekzamen) digunakan dalam bahasa Rusia (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Ujian Semester\".",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3471,11 +3471,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "В нашей гимназии обязательна школьная форма синего цвета.",
     "examplePhonetic": "V nashey gimnazii obyazatel'na shkol'naya forma sinego tsveta.",
     "exampleTranslation": "Di gimnasium kami wajib mengenakan seragam sekolah warna biru.",
-    "notes": "Seragam sekolah.",
+    "notes": "Seragam sekolah. Kata \"Школьная форма\" (cara baca: shkol'naya forma) digunakan dalam bahasa Rusia (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Seragam Sekolah\".",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3492,9 +3492,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Tunjukkan kartu mahasiswa Anda saat memasuki gedung.",
     "notes": "Kartu mahasiswa (KTM) atau kartu pelajar (ученический билет).",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3509,11 +3509,11 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Отличники получают повышенную академическую стипендию.",
     "examplePhonetic": "Otlichniki poluchayut povyshennuyu akademicheskuyu stipendiyu.",
     "exampleTranslation": "Mahasiswa berprestasi mendapatkan beasiswa akademik yang ditingkatkan.",
-    "notes": "Beasiswa atau tunjangan belajar.",
+    "notes": "Beasiswa atau tunjangan belajar. Kata \"Стипендия\" (cara baca: stipendiya) digunakan dalam bahasa Rusia (tingkat A2, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Beasiswa Pendidikan\".",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3530,9 +3530,9 @@ export const RUSSIAN_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Setelah penyerahan ijazah, diadakan upacara perayaan kelulusan/wisuda.",
     "notes": "Upacara kelulusan / wisuda (juga: церемония вручения дипломов).",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];

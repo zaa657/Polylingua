@@ -72,7 +72,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dia (perempuan) meneleponnya kemarin untuk mendiskusikan tugas kelompok mereka."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"I live in Jakarta, but this month I am staying in London for an English course.\" berarti \"Saya tinggal di Jakarta (fakta permanen), tetapi bulan ini saya sedang tinggal di London untuk kursus bahasa Inggris (situasi sementara).\"."
+        "explanation": "Kalimat \"I live in Jakarta, but this month I am staying in London for an English course.\" (dibaca: aɪ lɪv ɪn dʒəˈkɑːrtə, bʌt ðɪs mʌnθ aɪ æm ˈsteɪɪŋ ɪn ˈlʌndən fɔːr ən ˈɪŋɡlɪʃ kɔːrs.) berarti \"Saya tinggal di Jakarta (fakta permanen), tetapi bulan ini saya sedang tinggal di London untuk kursus bahasa Inggris (situasi sementara).\". Kalimat ini menggunakan pola \"Simple: Subj + V1(s/es)  |  Continuous: Subj + am/is/are + V-ing\" (Present Simple vs. Present Continuous) yang berfungsi untuk kuasai perbedaan mendasar tenses bahasa Inggris: Present Simple untuk rutinitas harian dan fakta umum, serta Present Continuous untuk kegiatan yang sedang berlangsung saat ini."
       },
       {
         "id": "q-en-gram-1-pg-2",
@@ -88,7 +88,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Akhir pekan lalu, kami mengunjungi kakek-nenek kami dan menyantap makan malam bersama-sama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"She usually drinks green tea every morning before work.\" berarti \"Dia biasanya minum teh hijau setiap pagi sebelum bekerja.\"."
+        "explanation": "Kalimat \"She usually drinks green tea every morning before work.\" (dibaca: /ʃiː ˈjuːʒuəli drɪŋks ɡriːn tiː ˈɛvri ˈmɔːnɪŋ/) berarti \"Dia biasanya minum teh hijau setiap pagi sebelum bekerja.\". Kalimat ini menggunakan pola \"Simple: Subj + V1(s/es)  |  Continuous: Subj + am/is/are + V-ing\" (Present Simple vs. Present Continuous) yang berfungsi untuk kuasai perbedaan mendasar tenses bahasa Inggris: Present Simple untuk rutinitas harian dan fakta umum, serta Present Continuous untuk kegiatan yang sedang berlangsung saat ini."
       },
       {
         "id": "q-en-gram-1-pg-3",
@@ -104,7 +104,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu melihat pengumuman beasiswa di situs web universitas tadi malam?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Look! It is raining heavily outside right now.\" berarti \"Lihat! Di luar sedang turun hujan lebat sekarang.\"."
+        "explanation": "Kalimat \"Look! It is raining heavily outside right now.\" (dibaca: /lʊk! ɪt ɪz ˈreɪnɪŋ ˈhɛvɪli aʊtˈsaɪd raɪt naʊ/) berarti \"Lihat! Di luar sedang turun hujan lebat sekarang.\". Kalimat ini menggunakan pola \"Simple: Subj + V1(s/es)  |  Continuous: Subj + am/is/are + V-ing\" (Present Simple vs. Present Continuous) yang berfungsi untuk kuasai perbedaan mendasar tenses bahasa Inggris: Present Simple untuk rutinitas harian dan fakta umum, serta Present Continuous untuk kegiatan yang sedang berlangsung saat ini."
       },
       {
         "id": "q-en-gram-1-pg-4",
@@ -405,7 +405,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ini bukan paspor saya; milik saya ada di dalam ransel saya. Apakah ini milik Anda?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"I live in Jakarta, but this month I am staying in London for an English course.\" berarti \"Saya tinggal di Jakarta (fakta permanen), tetapi bulan ini saya sedang tinggal di London untuk kursus bahasa Inggris (situasi sementara).\"."
+        "explanation": "Kalimat \"I live in Jakarta, but this month I am staying in London for an English course.\" (dibaca: aɪ lɪv ɪn dʒəˈkɑːrtə, bʌt ðɪs mʌnθ aɪ æm ˈsteɪɪŋ ɪn ˈlʌndən fɔːr ən ˈɪŋɡlɪʃ kɔːrs.) berarti \"Saya tinggal di Jakarta (fakta permanen), tetapi bulan ini saya sedang tinggal di London untuk kursus bahasa Inggris (situasi sementara).\". Kalimat ini menggunakan pola \"Simple: Subj + V1(s/es)  |  Continuous: Subj + am/is/are + V-ing\" (Present Simple vs. Present Continuous) yang berfungsi untuk kuasai perbedaan mendasar tenses bahasa Inggris: Present Simple untuk rutinitas harian dan fakta umum, serta Present Continuous untuk kegiatan yang sedang berlangsung saat ini."
       },
       {
         "id": "q-en-gram-1-bb-2",
@@ -541,7 +541,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak pergi ke perpustakaan kemarin karena saya demam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"This is not my passport; mine is in my backpack. Is this yours?\" berarti \"Ini bukan paspor saya; milik saya ada di dalam ransel saya. Apakah ini milik Anda?\"."
+        "explanation": "Kalimat \"This is not my passport; mine is in my backpack. Is this yours?\" (dibaca: ðɪs ɪz nɑːt maɪ ˈpæspɔːrt; maɪn ɪz ɪn maɪ ˈbækpæk. ɪz ðɪs jɔːrz?) berarti \"Ini bukan paspor saya; milik saya ada di dalam ransel saya. Apakah ini milik Anda?\". Kalimat ini menggunakan pola \"Subject (I) vs Object (me) vs Possessive Adj (my + N) vs Possessive Pronoun (mine)\" (Personal Pronouns & Possessive Forms) yang berfungsi untuk kuasai seluruh 4 bentuk kata ganti bahasa Inggris untuk subjek, objek penderita, kata sifat kepemilikan, dan kata ganti kepemilikan mutlak."
       },
       {
         "id": "q-en-gram-2-pg-2",
@@ -557,7 +557,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika kami sedang mendiskusikan proyek penelitian kami, bapak profesor memasuki ruang kelas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"She called him yesterday to discuss their group assignment.\" berarti \"Dia (perempuan) meneleponnya kemarin untuk mendiskusikan tugas kelompok mereka.\"."
+        "explanation": "Kalimat \"She called him yesterday to discuss their group assignment.\" (dibaca: /ʃiː kɔːld hɪm ˈjɛstədeɪ tuː dɪˈskʌs ðɛə ɡruːp əˈsaɪnmənt/) berarti \"Dia (perempuan) meneleponnya kemarin untuk mendiskusikan tugas kelompok mereka.\". Kalimat ini menggunakan pola \"Subject (I) vs Object (me) vs Possessive Adj (my + N) vs Possessive Pronoun (mine)\" (Personal Pronouns & Possessive Forms) yang berfungsi untuk kuasai seluruh 4 bentuk kata ganti bahasa Inggris untuk subjek, objek penderita, kata sifat kepemilikan, dan kata ganti kepemilikan mutlak."
       },
       {
         "id": "q-en-gram-2-pg-3",
@@ -573,7 +573,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ruang kelas kami berada di lantai dua, sedangkan milik mereka di lantai tiga."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Our classroom is on the second floor, while theirs is on the third floor.\" berarti \"Ruang kelas kami berada di lantai dua, sedangkan milik mereka di lantai tiga.\"."
+        "explanation": "Kalimat \"Our classroom is on the second floor, while theirs is on the third floor.\" (dibaca: /ˈaʊə ˈklɑːsruːm ɪz ɒn ðə ˈsɛkənd flɔː/) berarti \"Ruang kelas kami berada di lantai dua, sedangkan milik mereka di lantai tiga.\". Kalimat ini menggunakan pola \"Subject (I) vs Object (me) vs Possessive Adj (my + N) vs Possessive Pronoun (mine)\" (Personal Pronouns & Possessive Forms) yang berfungsi untuk kuasai seluruh 4 bentuk kata ganti bahasa Inggris untuk subjek, objek penderita, kata sifat kepemilikan, dan kata ganti kepemilikan mutlak."
       },
       {
         "id": "q-en-gram-2-pg-4",
@@ -875,7 +875,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ini bukan paspor saya; milik saya ada di dalam ransel saya. Apakah ini milik Anda?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"This is not my passport; mine is in my backpack. Is this yours?\" berarti \"Ini bukan paspor saya; milik saya ada di dalam ransel saya. Apakah ini milik Anda?\"."
+        "explanation": "Kalimat \"This is not my passport; mine is in my backpack. Is this yours?\" (dibaca: ðɪs ɪz nɑːt maɪ ˈpæspɔːrt; maɪn ɪz ɪn maɪ ˈbækpæk. ɪz ðɪs jɔːrz?) berarti \"Ini bukan paspor saya; milik saya ada di dalam ransel saya. Apakah ini milik Anda?\". Kalimat ini menggunakan pola \"Subject (I) vs Object (me) vs Possessive Adj (my + N) vs Possessive Pronoun (mine)\" (Personal Pronouns & Possessive Forms) yang berfungsi untuk kuasai seluruh 4 bentuk kata ganti bahasa Inggris untuk subjek, objek penderita, kata sifat kepemilikan, dan kata ganti kepemilikan mutlak."
       },
       {
         "id": "q-en-gram-2-bb-2",
@@ -1018,7 +1018,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya sedang mandi ketika teman saya mengetuk pintu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Last weekend, we visited our grandparents and ate dinner together.\" berarti \"Akhir pekan lalu, kami mengunjungi kakek-nenek kami dan menyantap makan malam bersama-sama.\"."
+        "explanation": "Kalimat \"Last weekend, we visited our grandparents and ate dinner together.\" (dibaca: læst ˈwiːk.end, wi ˈvɪz.ɪ.tɪd ˈaʊ.ər ˈɡrændˌpeə.rənts ænd et ˈdɪn.ər təˈɡeð.ər.) berarti \"Akhir pekan lalu, kami mengunjungi kakek-nenek kami dan menyantap makan malam bersama-sama.\". Kalimat ini menggunakan pola \"Positive: Subj + V2  |  Negative: Subj + did not (didn't) + V1  |  Question: Did + Subj + V1?\" (Past Simple: Regular & Key Irregular Verbs) yang berfungsi untuk kuasai menceritakan peristiwa lampau: akhiran beraturan -ed, perubahan kata kerja tidak beraturan esensial (went, saw, bought), serta penggunaan kata kerja bantu did / didn't."
       },
       {
         "id": "q-en-gram-3-pg-2",
@@ -1034,7 +1034,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak pergi ke perpustakaan kemarin karena saya demam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"I did not go to the library yesterday because I had a fever.\" berarti \"Saya tidak pergi ke perpustakaan kemarin karena saya demam.\"."
+        "explanation": "Kalimat \"I did not go to the library yesterday because I had a fever.\" (dibaca: /aɪ dɪd nɒt ɡəʊ tuː ðə ˈlaɪbrəri ˈjɛstədeɪ/) berarti \"Saya tidak pergi ke perpustakaan kemarin karena saya demam.\". Kalimat ini menggunakan pola \"Positive: Subj + V2  |  Negative: Subj + did not (didn't) + V1  |  Question: Did + Subj + V1?\" (Past Simple: Regular & Key Irregular Verbs) yang berfungsi untuk kuasai menceritakan peristiwa lampau: akhiran beraturan -ed, perubahan kata kerja tidak beraturan esensial (went, saw, bought), serta penggunaan kata kerja bantu did / didn't."
       },
       {
         "id": "q-en-gram-3-pg-3",
@@ -1050,7 +1050,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Lihatlah awan mendung itu! Sebentar lagi akan turun hujan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Did you see the scholarship announcement on the university website last night?\" berarti \"Apakah kamu melihat pengumuman beasiswa di situs web universitas tadi malam?\"."
+        "explanation": "Kalimat \"Did you see the scholarship announcement on the university website last night?\" (dibaca: /dɪd juː siː ðə ˈskɒləʃɪp əˈnaʊnsmənt/) berarti \"Apakah kamu melihat pengumuman beasiswa di situs web universitas tadi malam?\". Kalimat ini menggunakan pola \"Positive: Subj + V2  |  Negative: Subj + did not (didn't) + V1  |  Question: Did + Subj + V1?\" (Past Simple: Regular & Key Irregular Verbs) yang berfungsi untuk kuasai menceritakan peristiwa lampau: akhiran beraturan -ed, perubahan kata kerja tidak beraturan esensial (went, saw, bought), serta penggunaan kata kerja bantu did / didn't."
       },
       {
         "id": "q-en-gram-3-pg-4",
@@ -1354,7 +1354,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika kami sedang mendiskusikan proyek penelitian kami, bapak profesor memasuki ruang kelas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Last weekend, we visited our grandparents and ate dinner together.\" berarti \"Akhir pekan lalu, kami mengunjungi kakek-nenek kami dan menyantap makan malam bersama-sama.\"."
+        "explanation": "Kalimat \"Last weekend, we visited our grandparents and ate dinner together.\" (dibaca: læst ˈwiːk.end, wi ˈvɪz.ɪ.tɪd ˈaʊ.ər ˈɡrændˌpeə.rənts ænd et ˈdɪn.ər təˈɡeð.ər.) berarti \"Akhir pekan lalu, kami mengunjungi kakek-nenek kami dan menyantap makan malam bersama-sama.\". Kalimat ini menggunakan pola \"Positive: Subj + V2  |  Negative: Subj + did not (didn't) + V1  |  Question: Did + Subj + V1?\" (Past Simple: Regular & Key Irregular Verbs) yang berfungsi untuk kuasai menceritakan peristiwa lampau: akhiran beraturan -ed, perubahan kata kerja tidak beraturan esensial (went, saw, bought), serta penggunaan kata kerja bantu did / didn't."
       },
       {
         "id": "q-en-gram-3-bb-2",
@@ -1487,7 +1487,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ketika kami sedang mendiskusikan proyek penelitian kami, bapak profesor memasuki ruang kelas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"While we were discussing our research project, the professor entered the classroom.\" berarti \"Ketika kami sedang mendiskusikan proyek penelitian kami, bapak profesor memasuki ruang kelas.\"."
+        "explanation": "Kalimat \"While we were discussing our research project, the professor entered the classroom.\" (dibaca: waɪl wi wɜːr dɪˈskʌsɪŋ ˈaʊ.ər rɪˈsɜːrtʃ ˈprɑːdʒɛkt, ðə prəˈfɛsər ˈɛntərd ðə ˈklæsruːm.) berarti \"Ketika kami sedang mendiskusikan proyek penelitian kami, bapak profesor memasuki ruang kelas.\". Kalimat ini menggunakan pola \"Subj + was/were + V-ing (Aksi Latar) + when + Subj + V2 (Interupsi Mendadak)\" (Past Continuous vs. Past Simple with \"When\" and \"While\") yang berfungsi untuk kuasai menceritakan aksi yang sedang berlangsung di masa lampau ketika tiba-tiba terinterupsi oleh peristiwa lain yang terjadi mendadak."
       },
       {
         "id": "q-en-gram-4-pg-2",
@@ -1503,7 +1503,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa internasional wajib membawa kartu tanda mahasiswa mereka ketika memasuki perpustakaan universitas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"I was taking a shower when my friend knocked on the door.\" berarti \"Saya sedang mandi ketika teman saya mengetuk pintu.\"."
+        "explanation": "Kalimat \"I was taking a shower when my friend knocked on the door.\" (dibaca: /aɪ wɒz ˈteɪkɪŋ ə ˈʃaʊə wɛn maɪ frɛnd nɒkt/) berarti \"Saya sedang mandi ketika teman saya mengetuk pintu.\". Kalimat ini menggunakan pola \"Subj + was/were + V-ing (Aksi Latar) + when + Subj + V2 (Interupsi Mendadak)\" (Past Continuous vs. Past Simple with \"When\" and \"While\") yang berfungsi untuk kuasai menceritakan aksi yang sedang berlangsung di masa lampau ketika tiba-tiba terinterupsi oleh peristiwa lain yang terjadi mendadak."
       },
       {
         "id": "q-en-gram-4-pg-3",
@@ -1519,7 +1519,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Pengunjung dilarang keras merokok di dalam gedung laboratorium."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"At eight o'clock last night, she was writing her research proposal.\" berarti \"Pada pukul delapan tadi malam, dia sedang menulis proposal penelitiannya.\"."
+        "explanation": "Kalimat \"At eight o'clock last night, she was writing her research proposal.\" (dibaca: /æt eɪt əˈklɒk lɑːst naɪt, ʃiː wɒz ˈraɪtɪŋ/) berarti \"Pada pukul delapan tadi malam, dia sedang menulis proposal penelitiannya.\". Kalimat ini menggunakan pola \"Subj + was/were + V-ing (Aksi Latar) + when + Subj + V2 (Interupsi Mendadak)\" (Past Continuous vs. Past Simple with \"When\" and \"While\") yang berfungsi untuk kuasai menceritakan aksi yang sedang berlangsung di masa lampau ketika tiba-tiba terinterupsi oleh peristiwa lain yang terjadi mendadak."
       },
       {
         "id": "q-en-gram-4-pg-4",
@@ -1823,7 +1823,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "A: Susu kita sudah habis. B: Benarkah? Saya akan pergi ke supermarket membelinya sekarang (keputusan spontan saat itu juga)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"While we were discussing our research project, the professor entered the classroom.\" berarti \"Ketika kami sedang mendiskusikan proyek penelitian kami, bapak profesor memasuki ruang kelas.\"."
+        "explanation": "Kalimat \"While we were discussing our research project, the professor entered the classroom.\" (dibaca: waɪl wi wɜːr dɪˈskʌsɪŋ ˈaʊ.ər rɪˈsɜːrtʃ ˈprɑːdʒɛkt, ðə prəˈfɛsər ˈɛntərd ðə ˈklæsruːm.) berarti \"Ketika kami sedang mendiskusikan proyek penelitian kami, bapak profesor memasuki ruang kelas.\". Kalimat ini menggunakan pola \"Subj + was/were + V-ing (Aksi Latar) + when + Subj + V2 (Interupsi Mendadak)\" (Past Continuous vs. Past Simple with \"When\" and \"While\") yang berfungsi untuk kuasai menceritakan aksi yang sedang berlangsung di masa lampau ketika tiba-tiba terinterupsi oleh peristiwa lain yang terjadi mendadak."
       },
       {
         "id": "q-en-gram-4-bb-2",
@@ -1958,7 +1958,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Bisakah Anda menjelaskan rumus statistik ini sekali lagi dengan sopan?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"A: We don't have any milk left. B: Really? I will go to the supermarket and buy some.\" berarti \"A: Susu kita sudah habis. B: Benarkah? Saya akan pergi ke supermarket membelinya sekarang (keputusan spontan saat itu juga).\"."
+        "explanation": "Kalimat \"A: We don't have any milk left. B: Really? I will go to the supermarket and buy some.\" (dibaca: wi doʊnt hæv ˈɛni mɪlk lɛft. ˈriːəli? aɪ wɪl ɡoʊ tu ðə ˈsuːpərˌmɑːrkɪt ænd baɪ sʌm.) berarti \"A: Susu kita sudah habis. B: Benarkah? Saya akan pergi ke supermarket membelinya sekarang (keputusan spontan saat itu juga).\". Kalimat ini menggunakan pola \"Planned Intention: Subj + am/is/are + going to + V1  |  Instant Decision: Subj + will + V1\" (Expressing the Future: \"Be going to\" vs. \"Will\") yang berfungsi untuk bahasa Inggris membedakan dua cara utama menyatakan masa depan: \"Be going to\" untuk rencana yang sudah dipikirkan sebelumnya atau prediksi berdasar tanda fisik nyata, serta \"Will\" untuk keputusan spontan detik itu juga."
       },
       {
         "id": "q-en-gram-5-pg-2",
@@ -1974,7 +1974,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tinggal di asrama kampus jauh lebih murah daripada menyewa apartemen di pusat kota."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"I am going to pursue a master's degree in London next autumn.\" berarti \"Saya berencana menempuh gelar magister di London pada musim gugur mendatang.\"."
+        "explanation": "Kalimat \"I am going to pursue a master's degree in London next autumn.\" (dibaca: /aɪ æm ˈɡəʊɪŋ tuː pəˈsjuː ə ˈmɑːstəz dɪˈɡriː/) berarti \"Saya berencana menempuh gelar magister di London pada musim gugur mendatang.\". Kalimat ini menggunakan pola \"Planned Intention: Subj + am/is/are + going to + V1  |  Instant Decision: Subj + will + V1\" (Expressing the Future: \"Be going to\" vs. \"Will\") yang berfungsi untuk bahasa Inggris membedakan dua cara utama menyatakan masa depan: \"Be going to\" untuk rencana yang sudah dipikirkan sebelumnya atau prediksi berdasar tanda fisik nyata, serta \"Will\" untuk keputusan spontan detik itu juga."
       },
       {
         "id": "q-en-gram-5-pg-3",
@@ -1990,7 +1990,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dia adalah salah satu peneliti paling rajin di jurusan kami."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Look at those dark clouds! It is going to rain very soon.\" berarti \"Lihatlah awan mendung itu! Sebentar lagi akan turun hujan.\"."
+        "explanation": "Kalimat \"Look at those dark clouds! It is going to rain very soon.\" (dibaca: /lʊk æt ðəʊz dɑːk klaʊdz! ɪt ɪz ˈɡəʊɪŋ tuː reɪn/) berarti \"Lihatlah awan mendung itu! Sebentar lagi akan turun hujan.\". Kalimat ini menggunakan pola \"Planned Intention: Subj + am/is/are + going to + V1  |  Instant Decision: Subj + will + V1\" (Expressing the Future: \"Be going to\" vs. \"Will\") yang berfungsi untuk bahasa Inggris membedakan dua cara utama menyatakan masa depan: \"Be going to\" untuk rencana yang sudah dipikirkan sebelumnya atau prediksi berdasar tanda fisik nyata, serta \"Will\" untuk keputusan spontan detik itu juga."
       },
       {
         "id": "q-en-gram-5-pg-4",
@@ -2295,7 +2295,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa internasional wajib membawa kartu tanda mahasiswa mereka ketika memasuki perpustakaan universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"A: We don't have any milk left. B: Really? I will go to the supermarket and buy some.\" berarti \"A: Susu kita sudah habis. B: Benarkah? Saya akan pergi ke supermarket membelinya sekarang (keputusan spontan saat itu juga).\"."
+        "explanation": "Kalimat \"A: We don't have any milk left. B: Really? I will go to the supermarket and buy some.\" (dibaca: wi doʊnt hæv ˈɛni mɪlk lɛft. ˈriːəli? aɪ wɪl ɡoʊ tu ðə ˈsuːpərˌmɑːrkɪt ænd baɪ sʌm.) berarti \"A: Susu kita sudah habis. B: Benarkah? Saya akan pergi ke supermarket membelinya sekarang (keputusan spontan saat itu juga).\". Kalimat ini menggunakan pola \"Planned Intention: Subj + am/is/are + going to + V1  |  Instant Decision: Subj + will + V1\" (Expressing the Future: \"Be going to\" vs. \"Will\") yang berfungsi untuk bahasa Inggris membedakan dua cara utama menyatakan masa depan: \"Be going to\" untuk rencana yang sudah dipikirkan sebelumnya atau prediksi berdasar tanda fisik nyata, serta \"Will\" untuk keputusan spontan detik itu juga."
       },
       {
         "id": "q-en-gram-5-bb-2",
@@ -2436,7 +2436,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jurnal akademik ini lebih komprehensif daripada edisi sebelumnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"International students must carry their student ID cards when entering the university library.\" berarti \"Mahasiswa internasional wajib membawa kartu tanda mahasiswa mereka ketika memasuki perpustakaan universitas.\"."
+        "explanation": "Kalimat \"International students must carry their student ID cards when entering the university library.\" (dibaca: ˌɪntərˈnæʃnəl ˈstuːdənts mʌst ˈkæri ðɛr ˈstuːdənt aɪˈdiː kɑːrdz wɛn ˈɛntərɪŋ ðə ˌjuːnɪˈvɜːrsəti ˈlaɪbrɛri.) berarti \"Mahasiswa internasional wajib membawa kartu tanda mahasiswa mereka ketika memasuki perpustakaan universitas.\". Kalimat ini menggunakan pola \"Subject + Modal Verb + Base Verb (V1 without \"to\")\" (Essential Modal Verbs: Can, Could, Must, and Have to) yang berfungsi untuk modal verbs memodifikasi makna kata kerja untuk menyatakan kemampuan (can/could), izin sopan (may/could), serta kewajiban aturan (must/have to)."
       },
       {
         "id": "q-en-gram-6-pg-2",
@@ -2452,7 +2452,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda memiliki pertanyaan sebelum kita menutup kuliah hari ini? Kita masih memiliki sedikit waktu luang tersisa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Could you please explain this statistical formula one more time?\" berarti \"Bisakah Anda menjelaskan rumus statistik ini sekali lagi dengan sopan?\"."
+        "explanation": "Kalimat \"Could you please explain this statistical formula one more time?\" (dibaca: /kʊd juː pliːz ɪkˈspleɪn ðɪs stəˈtɪstɪkəl ˈfɔːmjʊlə/) berarti \"Bisakah Anda menjelaskan rumus statistik ini sekali lagi dengan sopan?\". Kalimat ini menggunakan pola \"Subject + Modal Verb + Base Verb (V1 without \"to\")\" (Essential Modal Verbs: Can, Could, Must, and Have to) yang berfungsi untuk modal verbs memodifikasi makna kata kerja untuk menyatakan kemampuan (can/could), izin sopan (may/could), serta kewajiban aturan (must/have to)."
       },
       {
         "id": "q-en-gram-6-pg-3",
@@ -2468,7 +2468,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Pengunjung dilarang keras merokok di dalam gedung laboratorium."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Visitors must not smoke inside the laboratory building.\" berarti \"Pengunjung dilarang keras merokok di dalam gedung laboratorium.\"."
+        "explanation": "Kalimat \"Visitors must not smoke inside the laboratory building.\" (dibaca: /ˈvɪzɪtəz mʌst nɒt sməʊk ɪnˈsaɪd ðə ləˈbɒrətəri/) berarti \"Pengunjung dilarang keras merokok di dalam gedung laboratorium.\". Kalimat ini menggunakan pola \"Subject + Modal Verb + Base Verb (V1 without \"to\")\" (Essential Modal Verbs: Can, Could, Must, and Have to) yang berfungsi untuk modal verbs memodifikasi makna kata kerja untuk menyatakan kemampuan (can/could), izin sopan (may/could), serta kewajiban aturan (must/have to)."
       },
       {
         "id": "q-en-gram-6-pg-4",
@@ -2769,7 +2769,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa internasional wajib membawa kartu tanda mahasiswa mereka ketika memasuki perpustakaan universitas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"International students must carry their student ID cards when entering the university library.\" berarti \"Mahasiswa internasional wajib membawa kartu tanda mahasiswa mereka ketika memasuki perpustakaan universitas.\"."
+        "explanation": "Kalimat \"International students must carry their student ID cards when entering the university library.\" (dibaca: ˌɪntərˈnæʃnəl ˈstuːdənts mʌst ˈkæri ðɛr ˈstuːdənt aɪˈdiː kɑːrdz wɛn ˈɛntərɪŋ ðə ˌjuːnɪˈvɜːrsəti ˈlaɪbrɛri.) berarti \"Mahasiswa internasional wajib membawa kartu tanda mahasiswa mereka ketika memasuki perpustakaan universitas.\". Kalimat ini menggunakan pola \"Subject + Modal Verb + Base Verb (V1 without \"to\")\" (Essential Modal Verbs: Can, Could, Must, and Have to) yang berfungsi untuk modal verbs memodifikasi makna kata kerja untuk menyatakan kemampuan (can/could), izin sopan (may/could), serta kewajiban aturan (must/have to)."
       },
       {
         "id": "q-en-gram-6-bb-2",
@@ -2908,7 +2908,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor memberi kami beberapa nasihat bermanfaat mengenai tesis kami."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Living on campus is much cheaper than renting an apartment in the city center.\" berarti \"Tinggal di asrama kampus jauh lebih murah daripada menyewa apartemen di pusat kota.\"."
+        "explanation": "Kalimat \"Living on campus is much cheaper than renting an apartment in the city center.\" (dibaca: ˈlɪv.ɪŋ ɑːn ˈkæm.pəs ɪz mʌtʃ ˈtʃiː.pər ðæn ˈrɛn.tɪŋ ən əˈpɑːrt.mənt ɪn ðə ˈsɪt.i ˈsɛn.tər.) berarti \"Tinggal di asrama kampus jauh lebih murah daripada menyewa apartemen di pusat kota.\". Kalimat ini menggunakan pola \"Short Adj: Adj-er + than  |  Long Adj: more + Adj + than  |  Superlative: the + Adj-est / the most\" (Comparatives and Superlatives) yang berfungsi untuk pelajari aturan membandingkan dua entitas (Comparative) atau menentukan yang terunggul di antara semuanya (Superlative) berdasar jumlah suku kata (syllable)."
       },
       {
         "id": "q-en-gram-7-pg-2",
@@ -2924,7 +2924,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jurnal akademik ini lebih komprehensif daripada edisi sebelumnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"This academic journal is more comprehensive than the previous edition.\" berarti \"Jurnal akademik ini lebih komprehensif daripada edisi sebelumnya.\"."
+        "explanation": "Kalimat \"This academic journal is more comprehensive than the previous edition.\" (dibaca: /ðɪs ˌækəˈdɛmɪk ˈdʒɜːnəl ɪz mɔː ˌkɒmprɪˈhɛnsɪv/) berarti \"Jurnal akademik ini lebih komprehensif daripada edisi sebelumnya.\". Kalimat ini menggunakan pola \"Short Adj: Adj-er + than  |  Long Adj: more + Adj + than  |  Superlative: the + Adj-est / the most\" (Comparatives and Superlatives) yang berfungsi untuk pelajari aturan membandingkan dua entitas (Comparative) atau menentukan yang terunggul di antara semuanya (Superlative) berdasar jumlah suku kata (syllable)."
       },
       {
         "id": "q-en-gram-7-pg-3",
@@ -2940,7 +2940,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Silakan letakkan tugas Anda yang telah selesai di atas meja profesor."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"She is one of the most diligent researchers in our department.\" berarti \"Dia adalah salah satu peneliti paling rajin di jurusan kami.\"."
+        "explanation": "Kalimat \"She is one of the most diligent researchers in our department.\" (dibaca: /ʃiː ɪz wʌn ɒv ðə məʊst ˈdɪlɪdʒənt rɪˈsɜːtʃəz/) berarti \"Dia adalah salah satu peneliti paling rajin di jurusan kami.\". Kalimat ini menggunakan pola \"Short Adj: Adj-er + than  |  Long Adj: more + Adj + than  |  Superlative: the + Adj-est / the most\" (Comparatives and Superlatives) yang berfungsi untuk pelajari aturan membandingkan dua entitas (Comparative) atau menentukan yang terunggul di antara semuanya (Superlative) berdasar jumlah suku kata (syllable)."
       },
       {
         "id": "q-en-gram-7-pg-4",
@@ -3241,7 +3241,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda memiliki pertanyaan sebelum kita menutup kuliah hari ini? Kita masih memiliki sedikit waktu luang tersisa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Living on campus is much cheaper than renting an apartment in the city center.\" berarti \"Tinggal di asrama kampus jauh lebih murah daripada menyewa apartemen di pusat kota.\"."
+        "explanation": "Kalimat \"Living on campus is much cheaper than renting an apartment in the city center.\" (dibaca: ˈlɪv.ɪŋ ɑːn ˈkæm.pəs ɪz mʌtʃ ˈtʃiː.pər ðæn ˈrɛn.tɪŋ ən əˈpɑːrt.mənt ɪn ðə ˈsɪt.i ˈsɛn.tər.) berarti \"Tinggal di asrama kampus jauh lebih murah daripada menyewa apartemen di pusat kota.\". Kalimat ini menggunakan pola \"Short Adj: Adj-er + than  |  Long Adj: more + Adj + than  |  Superlative: the + Adj-est / the most\" (Comparatives and Superlatives) yang berfungsi untuk pelajari aturan membandingkan dua entitas (Comparative) atau menentukan yang terunggul di antara semuanya (Superlative) berdasar jumlah suku kata (syllable)."
       },
       {
         "id": "q-en-gram-7-bb-2",
@@ -3376,7 +3376,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda memiliki pertanyaan sebelum kita menutup kuliah hari ini? Kita masih memiliki sedikit waktu luang tersisa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Do you have any questions before we conclude today's lecture? We still have a little time.\" berarti \"Apakah Anda memiliki pertanyaan sebelum kita menutup kuliah hari ini? Kita masih memiliki sedikit waktu luang tersisa.\"."
+        "explanation": "Kalimat \"Do you have any questions before we conclude today's lecture? We still have a little time.\" (dibaca: du ju hæv ˈɛni ˈkwɛstʃənz bɪˈfɔːr wi kənˈkluːd təˈdeɪz ˈlɛktʃər? wi stɪl hæv ə ˈlɪtəl taɪm.) berarti \"Apakah Anda memiliki pertanyaan sebelum kita menutup kuliah hari ini? Kita masih memiliki sedikit waktu luang tersisa.\". Kalimat ini menggunakan pola \"Countable: many / few / books  |  Uncountable: much / little / water  |  Some (Positif) vs Any (Tanya/Negatif)\" (Countable vs. Uncountable Nouns & Quantifiers) yang berfungsi untuk kuasai perbedaan kata benda yang dapat dihitung (memiliki bentuk jamak -s) dengan kata benda tak dapat dihitung, serta penentu kuantitas yang tepat."
       },
       {
         "id": "q-en-gram-8-pg-2",
@@ -3392,7 +3392,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda mengirimkan pendaftaran sebelum hari Jumat, Anda akan menerima konfirmasi lebih awal."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"The professor gave us some useful advice regarding our thesis.\" berarti \"Profesor memberi kami beberapa nasihat bermanfaat mengenai tesis kami.\"."
+        "explanation": "Kalimat \"The professor gave us some useful advice regarding our thesis.\" (dibaca: /ðə prəˈfɛsə ɡeɪv ʌs sʌm ˈjuːsfʊl ədˈvaɪs/) berarti \"Profesor memberi kami beberapa nasihat bermanfaat mengenai tesis kami.\". Kalimat ini menggunakan pola \"Countable: many / few / books  |  Uncountable: much / little / water  |  Some (Positif) vs Any (Tanya/Negatif)\" (Countable vs. Uncountable Nouns & Quantifiers) yang berfungsi untuk kuasai perbedaan kata benda yang dapat dihitung (memiliki bentuk jamak -s) dengan kata benda tak dapat dihitung, serta penentu kuantitas yang tepat."
       },
       {
         "id": "q-en-gram-8-pg-3",
@@ -3408,7 +3408,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu berlatih berbicara setiap hari, kelancaranmu akan meningkat pesat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"There aren't many seats left in the main auditorium.\" berarti \"Tidak banyak kursi yang tersisa di auditorium utama.\"."
+        "explanation": "Kalimat \"There aren't many seats left in the main auditorium.\" (dibaca: /ðɛər ɑːnt ˈmɛni siːts lɛft ɪn ðə meɪn ˌɔːdɪˈtɔːrɪəm/) berarti \"Tidak banyak kursi yang tersisa di auditorium utama.\". Kalimat ini menggunakan pola \"Countable: many / few / books  |  Uncountable: much / little / water  |  Some (Positif) vs Any (Tanya/Negatif)\" (Countable vs. Uncountable Nouns & Quantifiers) yang berfungsi untuk kuasai perbedaan kata benda yang dapat dihitung (memiliki bentuk jamak -s) dengan kata benda tak dapat dihitung, serta penentu kuantitas yang tepat."
       },
       {
         "id": "q-en-gram-8-pg-4",
@@ -3708,7 +3708,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ujian akhir semester kita dimulai pada pukul 09.00 pagi pada hari Senin di Ruang 302."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Do you have any questions before we conclude today's lecture? We still have a little time.\" berarti \"Apakah Anda memiliki pertanyaan sebelum kita menutup kuliah hari ini? Kita masih memiliki sedikit waktu luang tersisa.\"."
+        "explanation": "Kalimat \"Do you have any questions before we conclude today's lecture? We still have a little time.\" (dibaca: du ju hæv ˈɛni ˈkwɛstʃənz bɪˈfɔːr wi kənˈkluːd təˈdeɪz ˈlɛktʃər? wi stɪl hæv ə ˈlɪtəl taɪm.) berarti \"Apakah Anda memiliki pertanyaan sebelum kita menutup kuliah hari ini? Kita masih memiliki sedikit waktu luang tersisa.\". Kalimat ini menggunakan pola \"Countable: many / few / books  |  Uncountable: much / little / water  |  Some (Positif) vs Any (Tanya/Negatif)\" (Countable vs. Uncountable Nouns & Quantifiers) yang berfungsi untuk kuasai perbedaan kata benda yang dapat dihitung (memiliki bentuk jamak -s) dengan kata benda tak dapat dihitung, serta penentu kuantitas yang tepat."
       },
       {
         "id": "q-en-gram-8-bb-2",
@@ -3842,7 +3842,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jika besok pagi turun hujan, kita akan mengadakan orientasi di dalam ruangan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Our final examination begins at 9:00 AM on Monday in Room 302.\" berarti \"Ujian akhir semester kita dimulai pada pukul 09.00 pagi pada hari Senin di Ruang 302.\"."
+        "explanation": "Kalimat \"Our final examination begins at 9:00 AM on Monday in Room 302.\" (dibaca: ˈaʊ.ər ˈfaɪ.nəl ɪɡˌzæm.ɪˈneɪ.ʃən bɪˈɡɪnz æt naɪn eɪ ɛm ɑːn ˈmʌn.deɪ ɪn ruːm θriː oʊ tuː.) berarti \"Ujian akhir semester kita dimulai pada pukul 09.00 pagi pada hari Senin di Ruang 302.\". Kalimat ini menggunakan pola \"Time: at [jam]  |  on [hari/tanggal]  |  in [bulan/tahun/abad]  |  Place: at [titik]  |  on [permukaan]  |  in [ruang]\" (Prepositions of Time and Place: At, On, In) yang berfungsi untuk kuasai piramida preposisi bahasa Inggris: dari yang paling spesifik (At), sedang (On), hingga yang paling luas (In) untuk waktu dan lokasi."
       },
       {
         "id": "q-en-gram-9-pg-2",
@@ -3858,7 +3858,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya tinggal di Jakarta (fakta permanen), tetapi bulan ini saya sedang tinggal di London untuk kursus bahasa Inggris (situasi sementara)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Many international students arrive in the United Kingdom in September.\" berarti \"Banyak mahasiswa internasional tiba di Inggris pada bulan September.\"."
+        "explanation": "Kalimat \"Many international students arrive in the United Kingdom in September.\" (dibaca: /ˈmɛni ˌɪntəˈnæʃənəl ˈstjuːdənts əˈraɪv ɪn sɛpˈtɛmbə/) berarti \"Banyak mahasiswa internasional tiba di Inggris pada bulan September.\". Kalimat ini menggunakan pola \"Time: at [jam]  |  on [hari/tanggal]  |  in [bulan/tahun/abad]  |  Place: at [titik]  |  on [permukaan]  |  in [ruang]\" (Prepositions of Time and Place: At, On, In) yang berfungsi untuk kuasai piramida preposisi bahasa Inggris: dari yang paling spesifik (At), sedang (On), hingga yang paling luas (In) untuk waktu dan lokasi."
       },
       {
         "id": "q-en-gram-9-pg-3",
@@ -3874,7 +3874,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Lihat! Di luar sedang turun hujan lebat sekarang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Please leave your completed assignment on the professor's desk.\" berarti \"Silakan letakkan tugas Anda yang telah selesai di atas meja profesor.\"."
+        "explanation": "Kalimat \"Please leave your completed assignment on the professor's desk.\" (dibaca: /pliːz liːv jɔː kəmˈpliːtɪd əˈsaɪnmənt ɒn ðə dɛsk/) berarti \"Silakan letakkan tugas Anda yang telah selesai di atas meja profesor.\". Kalimat ini menggunakan pola \"Time: at [jam]  |  on [hari/tanggal]  |  in [bulan/tahun/abad]  |  Place: at [titik]  |  on [permukaan]  |  in [ruang]\" (Prepositions of Time and Place: At, On, In) yang berfungsi untuk kuasai piramida preposisi bahasa Inggris: dari yang paling spesifik (At), sedang (On), hingga yang paling luas (In) untuk waktu dan lokasi."
       },
       {
         "id": "q-en-gram-9-pg-4",
@@ -4175,7 +4175,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda mengirimkan pendaftaran sebelum hari Jumat, Anda akan menerima konfirmasi lebih awal."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Our final examination begins at 9:00 AM on Monday in Room 302.\" berarti \"Ujian akhir semester kita dimulai pada pukul 09.00 pagi pada hari Senin di Ruang 302.\"."
+        "explanation": "Kalimat \"Our final examination begins at 9:00 AM on Monday in Room 302.\" (dibaca: ˈaʊ.ər ˈfaɪ.nəl ɪɡˌzæm.ɪˈneɪ.ʃən bɪˈɡɪnz æt naɪn eɪ ɛm ɑːn ˈmʌn.deɪ ɪn ruːm θriː oʊ tuː.) berarti \"Ujian akhir semester kita dimulai pada pukul 09.00 pagi pada hari Senin di Ruang 302.\". Kalimat ini menggunakan pola \"Time: at [jam]  |  on [hari/tanggal]  |  in [bulan/tahun/abad]  |  Place: at [titik]  |  on [permukaan]  |  in [ruang]\" (Prepositions of Time and Place: At, On, In) yang berfungsi untuk kuasai piramida preposisi bahasa Inggris: dari yang paling spesifik (At), sedang (On), hingga yang paling luas (In) untuk waktu dan lokasi."
       },
       {
         "id": "q-en-gram-9-bb-2",
@@ -4310,7 +4310,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dia biasanya minum teh hijau setiap pagi sebelum bekerja."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"If you submit your application before Friday, you will receive an early confirmation.\" berarti \"Jika Anda mengirimkan pendaftaran sebelum hari Jumat, Anda akan menerima konfirmasi lebih awal.\"."
+        "explanation": "Kalimat \"If you submit your application before Friday, you will receive an early confirmation.\" (dibaca: /ɪf juː səbˈmɪt jɔːr ˌæplɪˈkeɪʃən bɪˈfɔː ˈfraɪdeɪ/) berarti \"Jika Anda mengirimkan pendaftaran sebelum hari Jumat, Anda akan menerima konfirmasi lebih awal.\". Kalimat ini menggunakan pola \"If + Present Simple, Subject + will + Base Verb (V1)\" (First Conditional & Comprehensive A2 Review) yang berfungsi untuk first Conditional digunakan untuk menyatakan kemungkinan nyata di masa depan yang bergantung pada suatu syarat realistis. Dilengkapi evaluasi komprehensif seluruh 10 bab fondasi A2!."
       },
       {
         "id": "q-en-gram-10-pg-2",
@@ -4326,7 +4326,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Ini bukan paspor saya; milik saya ada di dalam ransel saya. Apakah ini milik Anda?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"If it rains tomorrow morning, we will hold the orientation indoors.\" berarti \"Jika besok pagi turun hujan, kita akan mengadakan orientasi di dalam ruangan.\"."
+        "explanation": "Kalimat \"If it rains tomorrow morning, we will hold the orientation indoors.\" (dibaca: /ɪf ɪt reɪnz təˈmɒrəʊ, wiː wɪl həʊld ɪt ˌɪnˈdɔːz/) berarti \"Jika besok pagi turun hujan, kita akan mengadakan orientasi di dalam ruangan.\". Kalimat ini menggunakan pola \"If + Present Simple, Subject + will + Base Verb (V1)\" (First Conditional & Comprehensive A2 Review) yang berfungsi untuk first Conditional digunakan untuk menyatakan kemungkinan nyata di masa depan yang bergantung pada suatu syarat realistis. Dilengkapi evaluasi komprehensif seluruh 10 bab fondasi A2!."
       },
       {
         "id": "q-en-gram-10-pg-3",
@@ -4342,7 +4342,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jika kamu berlatih berbicara setiap hari, kelancaranmu akan meningkat pesat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"If you practice speaking every day, your fluency will improve rapidly.\" berarti \"Jika kamu berlatih berbicara setiap hari, kelancaranmu akan meningkat pesat.\"."
+        "explanation": "Kalimat \"If you practice speaking every day, your fluency will improve rapidly.\" (dibaca: /ɪf juː ˈpræktɪs ˈspiːkɪŋ ˈɛvri deɪ/) berarti \"Jika kamu berlatih berbicara setiap hari, kelancaranmu akan meningkat pesat.\". Kalimat ini menggunakan pola \"If + Present Simple, Subject + will + Base Verb (V1)\" (First Conditional & Comprehensive A2 Review) yang berfungsi untuk first Conditional digunakan untuk menyatakan kemungkinan nyata di masa depan yang bergantung pada suatu syarat realistis. Dilengkapi evaluasi komprehensif seluruh 10 bab fondasi A2!."
       },
       {
         "id": "q-en-gram-10-pg-4",
@@ -4642,7 +4642,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda mengirimkan pendaftaran sebelum hari Jumat, Anda akan menerima konfirmasi lebih awal."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"If you submit your application before Friday, you will receive an early confirmation.\" berarti \"Jika Anda mengirimkan pendaftaran sebelum hari Jumat, Anda akan menerima konfirmasi lebih awal.\"."
+        "explanation": "Kalimat \"If you submit your application before Friday, you will receive an early confirmation.\" (dibaca: /ɪf juː səbˈmɪt jɔːr ˌæplɪˈkeɪʃən bɪˈfɔː ˈfraɪdeɪ/) berarti \"Jika Anda mengirimkan pendaftaran sebelum hari Jumat, Anda akan menerima konfirmasi lebih awal.\". Kalimat ini menggunakan pola \"If + Present Simple, Subject + will + Base Verb (V1)\" (First Conditional & Comprehensive A2 Review) yang berfungsi untuk first Conditional digunakan untuk menyatakan kemungkinan nyata di masa depan yang bergantung pada suatu syarat realistis. Dilengkapi evaluasi komprehensif seluruh 10 bab fondasi A2!."
       },
       {
         "id": "q-en-gram-10-bb-2",
@@ -4789,7 +4789,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saya menjadi kamu, saya akan berkonsultasi dengan profesor sebelum menetapkan topik disertasi akhir."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"I have lived in London for five years, and I still love living here every day.\" berarti \"Saya telah tinggal di London selama lima tahun, dan sampai sekarang saya masih mencintai tinggal di sini setiap hari.\"."
+        "explanation": "Kalimat \"I have lived in London for five years, and I still love living here every day.\" (dibaca: aɪ hæv lɪvd ɪn ˈlʌndən fɔː faɪv jɪəz, ænd aɪ stɪl lʌv ˈlɪvɪŋ hɪə ˈɛvrideɪ.) berarti \"Saya telah tinggal di London selama lima tahun, dan sampai sekarang saya masih mencintai tinggal di sini setiap hari.\". Kalimat ini menggunakan pola \"have/has + V3 (Present Perfect: unspecified time/life experience) vs V2 / did (Past Simple: specific finished past time)\" (Present Perfect vs Past Simple (Experience vs Definite Past)) yang berfungsi untuk membedakan Present Perfect (koneksi masa lalu dengan masa kini / pengalaman hidup tanpa waktu spesifik) dan Past Simple (kejadian masa lalu yang sudah selesai tuntas pada waktu spesifik yang disebutkan)."
       },
       {
         "id": "q-en-gram-11-pg-2",
@@ -4805,7 +4805,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tim kami telah menyelesaikan proyek internasional tersebut dengan sukses pada Jumat sore yang lalu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Our team completed the international project successfully last Friday afternoon.\" berarti \"Tim kami telah menyelesaikan proyek internasional tersebut dengan sukses pada Jumat sore yang lalu.\"."
+        "explanation": "Kalimat \"Our team completed the international project successfully last Friday afternoon.\" (dibaca: ˈaʊə tiːm kəmˈpliːtɪd ði ˌɪntəˈnæʃnəl ˈprɒdʒɛkt səkˈsɛsfəli lɑːst ˈfraɪdeɪ ˌɑːftəˈnuːn.) berarti \"Tim kami telah menyelesaikan proyek internasional tersebut dengan sukses pada Jumat sore yang lalu.\". Kalimat ini menggunakan pola \"have/has + V3 (Present Perfect: unspecified time/life experience) vs V2 / did (Past Simple: specific finished past time)\" (Present Perfect vs Past Simple (Experience vs Definite Past)) yang berfungsi untuk membedakan Present Perfect (koneksi masa lalu dengan masa kini / pengalaman hidup tanpa waktu spesifik) dan Past Simple (kejadian masa lalu yang sudah selesai tuntas pada waktu spesifik yang disebutkan)."
       },
       {
         "id": "q-en-gram-11-pg-3",
@@ -4821,7 +4821,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Inilah mahasiswa yang proyek riset inovatifnya memenangkan juara pertama dalam kompetisi nasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Have you ever traveled abroad by yourself, or did you go with your family?\" berarti \"Pernahkah kamu bepergian ke luar negeri seorang diri, atau apakah kamu pergi bersama keluargamu?\"."
+        "explanation": "Kalimat \"Have you ever traveled abroad by yourself, or did you go with your family?\" (dibaca: hæv juː ˈɛvə ˈtrævld əˈbrɔːd baɪ jɔːˈsɛlf, ɔː dɪd juː gəʊ wɪð jɔː ˈfæmɪli?) berarti \"Pernahkah kamu bepergian ke luar negeri seorang diri, atau apakah kamu pergi bersama keluargamu?\". Kalimat ini menggunakan pola \"have/has + V3 (Present Perfect: unspecified time/life experience) vs V2 / did (Past Simple: specific finished past time)\" (Present Perfect vs Past Simple (Experience vs Definite Past)) yang berfungsi untuk membedakan Present Perfect (koneksi masa lalu dengan masa kini / pengalaman hidup tanpa waktu spesifik) dan Past Simple (kejadian masa lalu yang sudah selesai tuntas pada waktu spesifik yang disebutkan)."
       },
       {
         "id": "q-en-gram-11-pg-4",
@@ -5126,7 +5126,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saya memiliki tabungan yang cukup saat ini, saya akan berkeliling dunia selama setahun penuh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"I have lived in London for five years, and I still love living here every day.\" berarti \"Saya telah tinggal di London selama lima tahun, dan sampai sekarang saya masih mencintai tinggal di sini setiap hari.\"."
+        "explanation": "Kalimat \"I have lived in London for five years, and I still love living here every day.\" (dibaca: aɪ hæv lɪvd ɪn ˈlʌndən fɔː faɪv jɪəz, ænd aɪ stɪl lʌv ˈlɪvɪŋ hɪə ˈɛvrideɪ.) berarti \"Saya telah tinggal di London selama lima tahun, dan sampai sekarang saya masih mencintai tinggal di sini setiap hari.\". Kalimat ini menggunakan pola \"have/has + V3 (Present Perfect: unspecified time/life experience) vs V2 / did (Past Simple: specific finished past time)\" (Present Perfect vs Past Simple (Experience vs Definite Past)) yang berfungsi untuk membedakan Present Perfect (koneksi masa lalu dengan masa kini / pengalaman hidup tanpa waktu spesifik) dan Past Simple (kejadian masa lalu yang sudah selesai tuntas pada waktu spesifik yang disebutkan)."
       },
       {
         "id": "q-en-gram-11-bb-2",
@@ -5274,7 +5274,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tanah di luar basah kuyup karena hujan lebat telah mengguyur terus sepanjang pagi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"The ground is completely wet outside because it has been raining heavily all morning.\" berarti \"Tanah di luar basah kuyup karena hujan lebat telah mengguyur terus sepanjang pagi.\"."
+        "explanation": "Kalimat \"The ground is completely wet outside because it has been raining heavily all morning.\" (dibaca: ðə graʊnd ɪz kəmˈpliːtli wɛt ˌaʊtˈsaɪd bɪˈkɒz ɪt hæz biːn ˈreɪnɪŋ ˈhɛvɪli ɔːl ˈmɔːnɪŋ.) berarti \"Tanah di luar basah kuyup karena hujan lebat telah mengguyur terus sepanjang pagi.\". Kalimat ini menggunakan pola \"have/has been + V-ing (for [duration] / since [starting point])\" (Present Perfect Continuous (Ongoing Actions & Evidence)) yang berfungsi untuk menekankan durasi aksi yang dimulai di masa lampau dan masih berlangsung terus hingga sekarang, atau aksi yang baru saja berhenti namun buktinya tampak jelas di depan mata."
       },
       {
         "id": "q-en-gram-12-pg-2",
@@ -5290,7 +5290,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jutaan paket kiriman elektronik diantarkan dengan aman ke seluruh benua setiap hari."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"She has been working tirelessly on her master's thesis since early September.\" berarti \"Dia telah bekerja tanpa kenal lelah mengerjakan tesis masternya sejak awal September.\"."
+        "explanation": "Kalimat \"She has been working tirelessly on her master's thesis since early September.\" (dibaca: ʃiː hæz biːn ˈwɜːkɪŋ ˈtaɪəlɪsli ɒn hɜː ˈmɑːstəz ˈθiːsɪs sɪns ˈɜːli sɛpˈtɛmbə.) berarti \"Dia telah bekerja tanpa kenal lelah mengerjakan tesis masternya sejak awal September.\". Kalimat ini menggunakan pola \"have/has been + V-ing (for [duration] / since [starting point])\" (Present Perfect Continuous (Ongoing Actions & Evidence)) yang berfungsi untuk menekankan durasi aksi yang dimulai di masa lampau dan masih berlangsung terus hingga sekarang, atau aksi yang baru saja berhenti namun buktinya tampak jelas di depan mata."
       },
       {
         "id": "q-en-gram-12-pg-3",
@@ -5306,7 +5306,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seluruh data keuangan yang relevan dikumpulkan dan dianalisis secara teliti oleh tim peneliti."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"How long have you been waiting here at the airport terminal for the delayed flight?\" berarti \"Sudah berapa lama kamu menunggu di sini di terminal bandara untuk penerbangan yang tertunda tersebut?\"."
+        "explanation": "Kalimat \"How long have you been waiting here at the airport terminal for the delayed flight?\" (dibaca: haʊ lɒŋ hæv juː biːn ˈweɪtɪŋ hɪər æt ði ˈeəpɔːt ˈtɜːmɪnl fɔː ðə dɪˈleɪd flaɪt?) berarti \"Sudah berapa lama kamu menunggu di sini di terminal bandara untuk penerbangan yang tertunda tersebut?\". Kalimat ini menggunakan pola \"have/has been + V-ing (for [duration] / since [starting point])\" (Present Perfect Continuous (Ongoing Actions & Evidence)) yang berfungsi untuk menekankan durasi aksi yang dimulai di masa lampau dan masih berlangsung terus hingga sekarang, atau aksi yang baru saja berhenti namun buktinya tampak jelas di depan mata."
       },
       {
         "id": "q-en-gram-12-pg-4",
@@ -5613,7 +5613,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor yang membimbing laboratorium kami telah mempublikasikan lebih dari lima puluh makalah internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"The ground is completely wet outside because it has been raining heavily all morning.\" berarti \"Tanah di luar basah kuyup karena hujan lebat telah mengguyur terus sepanjang pagi.\"."
+        "explanation": "Kalimat \"The ground is completely wet outside because it has been raining heavily all morning.\" (dibaca: ðə graʊnd ɪz kəmˈpliːtli wɛt ˌaʊtˈsaɪd bɪˈkɒz ɪt hæz biːn ˈreɪnɪŋ ˈhɛvɪli ɔːl ˈmɔːnɪŋ.) berarti \"Tanah di luar basah kuyup karena hujan lebat telah mengguyur terus sepanjang pagi.\". Kalimat ini menggunakan pola \"have/has been + V-ing (for [duration] / since [starting point])\" (Present Perfect Continuous (Ongoing Actions & Evidence)) yang berfungsi untuk menekankan durasi aksi yang dimulai di masa lampau dan masih berlangsung terus hingga sekarang, atau aksi yang baru saja berhenti namun buktinya tampak jelas di depan mata."
       },
       {
         "id": "q-en-gram-12-bb-2",
@@ -5760,7 +5760,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Katedral bersejarah tersebut rusak berat akibat kebakaran dahsyat selama abad kesembilan belas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"If I had enough savings right now, I would travel around the world for an entire year.\" berarti \"Seandainya saya memiliki tabungan yang cukup saat ini, saya akan berkeliling dunia selama setahun penuh.\"."
+        "explanation": "Kalimat \"If I had enough savings right now, I would travel around the world for an entire year.\" (dibaca: ɪf aɪ hæd ɪˈnʌf ˈseɪvɪŋz raɪt naʊ, aɪ wʊd ˈtrævl əˈraʊnd ðə wɜːld fɔːr ən ɪnˈtaɪə jɪə.) berarti \"Seandainya saya memiliki tabungan yang cukup saat ini, saya akan berkeliling dunia selama setahun penuh.\". Kalimat ini menggunakan pola \"If + Past Simple, would / could / might + V1 (bare infinitive)\" (Second Conditional (Hypothetical & Unreal Present/Future)) yang berfungsi untuk membicarakan situasi khayalan, mimpi, atau kondisi yang bertentangan dengan kenyataan saat ini atau masa depan ('seandainya... niscaya saya akan...')."
       },
       {
         "id": "q-en-gram-13-pg-2",
@@ -5776,7 +5776,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Bisakah Anda memberitahu saya di mana kantor penerimaan mahasiswa internasional berlokasi?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"If I were you, I would consult with the professor before finalizing your dissertation topic.\" berarti \"Seandainya saya menjadi kamu, saya akan berkonsultasi dengan profesor sebelum menetapkan topik disertasi akhir.\"."
+        "explanation": "Kalimat \"If I were you, I would consult with the professor before finalizing your dissertation topic.\" (dibaca: ɪf aɪ wɜː juː, aɪ wʊd kənˈsʌlt wɪð ðə prəˈfɛsə bɪˈfɔː ˈfaɪnəlaɪzɪŋ jɔː ˌdɪsəˈteɪʃn ˈtɒpɪk.) berarti \"Seandainya saya menjadi kamu, saya akan berkonsultasi dengan profesor sebelum menetapkan topik disertasi akhir.\". Kalimat ini menggunakan pola \"If + Past Simple, would / could / might + V1 (bare infinitive)\" (Second Conditional (Hypothetical & Unreal Present/Future)) yang berfungsi untuk membicarakan situasi khayalan, mimpi, atau kondisi yang bertentangan dengan kenyataan saat ini atau masa depan ('seandainya... niscaya saya akan...')."
       },
       {
         "id": "q-en-gram-13-pg-3",
@@ -5792,7 +5792,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda kebetulan mengetahui pukul berapa kereta bawah tanah terakhir berangkat menuju Stasiun Pusat?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"What would you do if you found an expensive smartphone left unattended in a taxi?\" berarti \"Apa yang akan kamu lakukan seandainya kamu menemukan ponsel pintar mahal tertinggal tanpa pemilik di dalam taksi?\"."
+        "explanation": "Kalimat \"What would you do if you found an expensive smartphone left unattended in a taxi?\" (dibaca: wɒt wʊd juː duː ɪf juː faʊnd ən ɪksˈpɛnsɪv ˈsmɑːtfəʊn lɛft ˌʌnəˈtɛndɪd ɪn ə ˈtæksi?) berarti \"Apa yang akan kamu lakukan seandainya kamu menemukan ponsel pintar mahal tertinggal tanpa pemilik di dalam taksi?\". Kalimat ini menggunakan pola \"If + Past Simple, would / could / might + V1 (bare infinitive)\" (Second Conditional (Hypothetical & Unreal Present/Future)) yang berfungsi untuk membicarakan situasi khayalan, mimpi, atau kondisi yang bertentangan dengan kenyataan saat ini atau masa depan ('seandainya... niscaya saya akan...')."
       },
       {
         "id": "q-en-gram-13-pg-4",
@@ -6098,7 +6098,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jutaan paket kiriman elektronik diantarkan dengan aman ke seluruh benua setiap hari."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"If I had enough savings right now, I would travel around the world for an entire year.\" berarti \"Seandainya saya memiliki tabungan yang cukup saat ini, saya akan berkeliling dunia selama setahun penuh.\"."
+        "explanation": "Kalimat \"If I had enough savings right now, I would travel around the world for an entire year.\" (dibaca: ɪf aɪ hæd ɪˈnʌf ˈseɪvɪŋz raɪt naʊ, aɪ wʊd ˈtrævl əˈraʊnd ðə wɜːld fɔːr ən ɪnˈtaɪə jɪə.) berarti \"Seandainya saya memiliki tabungan yang cukup saat ini, saya akan berkeliling dunia selama setahun penuh.\". Kalimat ini menggunakan pola \"If + Past Simple, would / could / might + V1 (bare infinitive)\" (Second Conditional (Hypothetical & Unreal Present/Future)) yang berfungsi untuk membicarakan situasi khayalan, mimpi, atau kondisi yang bertentangan dengan kenyataan saat ini atau masa depan ('seandainya... niscaya saya akan...')."
       },
       {
         "id": "q-en-gram-13-bb-2",
@@ -6247,7 +6247,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin menanyakan apakah Anda berkenan memberikan informasi yang lebih rinci mengenai persyaratan beasiswa tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"The professor who supervises our laboratory has published over fifty international papers.\" berarti \"Profesor yang membimbing laboratorium kami telah mempublikasikan lebih dari lima puluh makalah internasional.\"."
+        "explanation": "Kalimat \"The professor who supervises our laboratory has published over fifty international papers.\" (dibaca: ðə prəˈfɛsə huː ˈsjuːpəvaɪzɪz ˈaʊə ləˈbɒrətəri hæz ˈpʌblɪʃt ˈəʊvə ˈfɪfti ˌɪntəˈnæʃnəl ˈpeɪpəz.) berarti \"Profesor yang membimbing laboratorium kami telah mempublikasikan lebih dari lima puluh makalah internasional.\". Kalimat ini menggunakan pola \"Defining: Noun + who/which/that/whose/where (tanpa koma - esensial) vs Non-defining: Noun, who/which..., (dengan koma - ekstra)\" (Relative Clauses (Defining vs Non-defining Clauses: who, which, that, where, whose)) yang berfungsi untuk menghubungkan dua kalimat menjadi satu kalimat majemuk menggunakan kata ganti penghubung (relative pronouns). Membedakan klausa pembatas esensial (defining) dan klausa informasi tambahan dengan tanda koma (non-defining)."
       },
       {
         "id": "q-en-gram-14-pg-2",
@@ -6263,7 +6263,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Lihatlah semua trofi akademis bergengsi di raknya itu; dia pastilah seorang mahasiswa yang luar biasa cemerlang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Tokyo, which is the capital city of Japan, has one of the world's most efficient public transport systems.\" berarti \"Tokyo, yang merupakan ibu kota Jepang, memiliki salah satu sistem transportasi umum paling efisien di dunia.\"."
+        "explanation": "Kalimat \"Tokyo, which is the capital city of Japan, has one of the world's most efficient public transport systems.\" (dibaca: ˈtəʊkɪəʊ, wɪtʃ ɪz ðə ˈkæpɪtl ˈsɪti ɒv dʒəˈpæn, hæz wʌn ɒv ðə wɜːldz məʊst ɪˈfɪʃnt ˈpʌblɪk ˈtrænspɔːt ˈsɪstəmz.) berarti \"Tokyo, yang merupakan ibu kota Jepang, memiliki salah satu sistem transportasi umum paling efisien di dunia.\". Kalimat ini menggunakan pola \"Defining: Noun + who/which/that/whose/where (tanpa koma - esensial) vs Non-defining: Noun, who/which..., (dengan koma - ekstra)\" (Relative Clauses (Defining vs Non-defining Clauses: who, which, that, where, whose)) yang berfungsi untuk menghubungkan dua kalimat menjadi satu kalimat majemuk menggunakan kata ganti penghubung (relative pronouns). Membedakan klausa pembatas esensial (defining) dan klausa informasi tambahan dengan tanda koma (non-defining)."
       },
       {
         "id": "q-en-gram-14-pg-3",
@@ -6279,7 +6279,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Inilah mahasiswa yang proyek riset inovatifnya memenangkan juara pertama dalam kompetisi nasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"This is the student whose innovative research project won the first prize in the national competition.\" berarti \"Inilah mahasiswa yang proyek riset inovatifnya memenangkan juara pertama dalam kompetisi nasional.\"."
+        "explanation": "Kalimat \"This is the student whose innovative research project won the first prize in the national competition.\" (dibaca: ðɪs ɪz ðə ˈstjuːdnt huːz ˈɪnəvətɪv rɪˈsɜːtʃ ˈprɒdʒɛkt wʌn ðə fɜːst praɪz ɪn ðə ˈnæʃnəl ˌkɒmpɪˈtɪʃn.) berarti \"Inilah mahasiswa yang proyek riset inovatifnya memenangkan juara pertama dalam kompetisi nasional.\". Kalimat ini menggunakan pola \"Defining: Noun + who/which/that/whose/where (tanpa koma - esensial) vs Non-defining: Noun, who/which..., (dengan koma - ekstra)\" (Relative Clauses (Defining vs Non-defining Clauses: who, which, that, where, whose)) yang berfungsi untuk menghubungkan dua kalimat menjadi satu kalimat majemuk menggunakan kata ganti penghubung (relative pronouns). Membedakan klausa pembatas esensial (defining) dan klausa informasi tambahan dengan tanda koma (non-defining)."
       },
       {
         "id": "q-en-gram-14-pg-4",
@@ -6586,7 +6586,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Profesor yang membimbing laboratorium kami telah mempublikasikan lebih dari lima puluh makalah internasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"The professor who supervises our laboratory has published over fifty international papers.\" berarti \"Profesor yang membimbing laboratorium kami telah mempublikasikan lebih dari lima puluh makalah internasional.\"."
+        "explanation": "Kalimat \"The professor who supervises our laboratory has published over fifty international papers.\" (dibaca: ðə prəˈfɛsə huː ˈsjuːpəvaɪzɪz ˈaʊə ləˈbɒrətəri hæz ˈpʌblɪʃt ˈəʊvə ˈfɪfti ˌɪntəˈnæʃnəl ˈpeɪpəz.) berarti \"Profesor yang membimbing laboratorium kami telah mempublikasikan lebih dari lima puluh makalah internasional.\". Kalimat ini menggunakan pola \"Defining: Noun + who/which/that/whose/where (tanpa koma - esensial) vs Non-defining: Noun, who/which..., (dengan koma - ekstra)\" (Relative Clauses (Defining vs Non-defining Clauses: who, which, that, where, whose)) yang berfungsi untuk menghubungkan dua kalimat menjadi satu kalimat majemuk menggunakan kata ganti penghubung (relative pronouns). Membedakan klausa pembatas esensial (defining) dan klausa informasi tambahan dengan tanda koma (non-defining)."
       },
       {
         "id": "q-en-gram-14-bb-2",
@@ -6732,7 +6732,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Pernyataan itu mustahil benar karena seluruh data statistik resmi pemerintah menyangkalnya secara total."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Millions of electronic parcels are delivered safely across the continent every single day.\" berarti \"Jutaan paket kiriman elektronik diantarkan dengan aman ke seluruh benua setiap hari.\"."
+        "explanation": "Kalimat \"Millions of electronic parcels are delivered safely across the continent every single day.\" (dibaca: ˈmɪljənz ɒv ˌɛlɛkˈtrɒnɪk ˈpɑːslz ɑː dɪˈlɪvəd ˈseɪfli əˈkrɒs ðə ˈkɒntɪnənt ˈɛvri ˈsɪŋgl deɪ.) berarti \"Jutaan paket kiriman elektronik diantarkan dengan aman ke seluruh benua setiap hari.\". Kalimat ini menggunakan pola \"Present: is/are + V3 / Past: was/were + V3 + (by + agent)\" (Passive Voice in Present & Past (Focus on the Action/Object)) yang berfungsi untuk mengubah fokus kalimat ke objek yang menerima aksi atau hasil dari perbuatan. Digunakan ketika pelaku perbuatan tidak diketahui, tidak penting, atau untuk menjaga nada objektif dalam laporan ilmiah."
       },
       {
         "id": "q-en-gram-15-pg-2",
@@ -6748,7 +6748,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Katedral bersejarah tersebut rusak berat akibat kebakaran dahsyat selama abad kesembilan belas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"The historic cathedral was heavily damaged by a massive fire during the nineteenth century.\" berarti \"Katedral bersejarah tersebut rusak berat akibat kebakaran dahsyat selama abad kesembilan belas.\"."
+        "explanation": "Kalimat \"The historic cathedral was heavily damaged by a massive fire during the nineteenth century.\" (dibaca: ðə hɪsˈtɒrɪk kəˈθiːdrəl wɒz ˈhɛvɪli ˈdæmɪdʒd baɪ ə ˈmæsɪv ˈfaɪə ˈdjʊərɪŋ ðə ˈnaɪnˈtiːnθ ˈsɛntʃʊri.) berarti \"Katedral bersejarah tersebut rusak berat akibat kebakaran dahsyat selama abad kesembilan belas.\". Kalimat ini menggunakan pola \"Present: is/are + V3 / Past: was/were + V3 + (by + agent)\" (Passive Voice in Present & Past (Focus on the Action/Object)) yang berfungsi untuk mengubah fokus kalimat ke objek yang menerima aksi atau hasil dari perbuatan. Digunakan ketika pelaku perbuatan tidak diketahui, tidak penting, atau untuk menjaga nada objektif dalam laporan ilmiah."
       },
       {
         "id": "q-en-gram-15-pg-3",
@@ -6764,7 +6764,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Butuh waktu beberapa bulan bagi para cendekiawan pertukaran internasional untuk beradaptasi terbiasa dengan kriteria penilaian akademis yang ketat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"All relevant financial data were collected and analyzed meticulously by the research team.\" berarti \"Seluruh data keuangan yang relevan dikumpulkan dan dianalisis secara teliti oleh tim peneliti.\"."
+        "explanation": "Kalimat \"All relevant financial data were collected and analyzed meticulously by the research team.\" (dibaca: ɔːl ˈrɛlɪvənt faɪˈnænʃəl ˈdeɪtə wɜː kəˈlɛktɪd ænd ˈænəlaɪzd mɪˈtɪkjʊləsli baɪ ðə rɪˈsɜːtʃ tiːm.) berarti \"Seluruh data keuangan yang relevan dikumpulkan dan dianalisis secara teliti oleh tim peneliti.\". Kalimat ini menggunakan pola \"Present: is/are + V3 / Past: was/were + V3 + (by + agent)\" (Passive Voice in Present & Past (Focus on the Action/Object)) yang berfungsi untuk mengubah fokus kalimat ke objek yang menerima aksi atau hasil dari perbuatan. Digunakan ketika pelaku perbuatan tidak diketahui, tidak penting, atau untuk menjaga nada objektif dalam laporan ilmiah."
       },
       {
         "id": "q-en-gram-15-pg-4",
@@ -7071,7 +7071,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Lihatlah semua trofi akademis bergengsi di raknya itu; dia pastilah seorang mahasiswa yang luar biasa cemerlang."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Millions of electronic parcels are delivered safely across the continent every single day.\" berarti \"Jutaan paket kiriman elektronik diantarkan dengan aman ke seluruh benua setiap hari.\"."
+        "explanation": "Kalimat \"Millions of electronic parcels are delivered safely across the continent every single day.\" (dibaca: ˈmɪljənz ɒv ˌɛlɛkˈtrɒnɪk ˈpɑːslz ɑː dɪˈlɪvəd ˈseɪfli əˈkrɒs ðə ˈkɒntɪnənt ˈɛvri ˈsɪŋgl deɪ.) berarti \"Jutaan paket kiriman elektronik diantarkan dengan aman ke seluruh benua setiap hari.\". Kalimat ini menggunakan pola \"Present: is/are + V3 / Past: was/were + V3 + (by + agent)\" (Passive Voice in Present & Past (Focus on the Action/Object)) yang berfungsi untuk mengubah fokus kalimat ke objek yang menerima aksi atau hasil dari perbuatan. Digunakan ketika pelaku perbuatan tidak diketahui, tidak penting, atau untuk menjaga nada objektif dalam laporan ilmiah."
       },
       {
         "id": "q-en-gram-15-bb-2",
@@ -7220,7 +7220,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Bisakah Anda memberitahu saya di mana kantor penerimaan mahasiswa internasional berlokasi?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Could you please tell me where the international student admissions office is located?\" berarti \"Bisakah Anda memberitahu saya di mana kantor penerimaan mahasiswa internasional berlokasi?\"."
+        "explanation": "Kalimat \"Could you please tell me where the international student admissions office is located?\" (dibaca: kʊd juː pliːz tɛl miː weə ði ˌɪntəˈnæʃnəl ˈstjuːdnt ədˈmɪʃnz ˈɒfɪs ɪz ləʊˈkeɪtɪd?) berarti \"Bisakah Anda memberitahu saya di mana kantor penerimaan mahasiswa internasional berlokasi?\". Kalimat ini menggunakan pola \"Introductory phrase (Could you tell me... / Do you know...) + Question Word / if + Subject + Verb\" (Polite Requests & Indirect Questions) yang berfungsi untuk mengubah pertanyaan langsung yang terkesan mendesak menjadi pertanyaan tidak langsung yang bernada sangat santun dalam korespondensi formal, layanan pelanggan, dan lingkungan profesional."
       },
       {
         "id": "q-en-gram-16-pg-2",
@@ -7236,7 +7236,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kandidat tersebut berkata bahwa dia sedang mempersiapkan proposal risetnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"I was wondering if you could provide more detailed information regarding the scholarship requirements.\" berarti \"Saya ingin menanyakan apakah Anda berkenan memberikan informasi yang lebih rinci mengenai persyaratan beasiswa tersebut.\"."
+        "explanation": "Kalimat \"I was wondering if you could provide more detailed information regarding the scholarship requirements.\" (dibaca: aɪ wɒz ˈwʌndərɪŋ ɪf juː kʊd prəˈvaɪd mɔː ˈdiːteɪld ˌɪnfəˈmeɪʃn rɪˈgɑːdɪŋ ðə ˈskɒləʃɪp rɪˈkwaɪəmənts.) berarti \"Saya ingin menanyakan apakah Anda berkenan memberikan informasi yang lebih rinci mengenai persyaratan beasiswa tersebut.\". Kalimat ini menggunakan pola \"Introductory phrase (Could you tell me... / Do you know...) + Question Word / if + Subject + Verb\" (Polite Requests & Indirect Questions) yang berfungsi untuk mengubah pertanyaan langsung yang terkesan mendesak menjadi pertanyaan tidak langsung yang bernada sangat santun dalam korespondensi formal, layanan pelanggan, dan lingkungan profesional."
       },
       {
         "id": "q-en-gram-16-pg-3",
@@ -7252,7 +7252,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dia memberitahuku bahwa dia akan menghadiri seminar medis internasional di Jenewa pada minggu berikutnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Do you happen to know what time the last subway train leaves for Central Station?\" berarti \"Apakah Anda kebetulan mengetahui pukul berapa kereta bawah tanah terakhir berangkat menuju Stasiun Pusat?\"."
+        "explanation": "Kalimat \"Do you happen to know what time the last subway train leaves for Central Station?\" (dibaca: duː juː ˈhæpən tuː nəʊ wɒt taɪm ðə lɑːst ˈsʌbweɪ treɪn liːvz fɔː ˈsɛntrəl ˈsteɪʃn?) berarti \"Apakah Anda kebetulan mengetahui pukul berapa kereta bawah tanah terakhir berangkat menuju Stasiun Pusat?\". Kalimat ini menggunakan pola \"Introductory phrase (Could you tell me... / Do you know...) + Question Word / if + Subject + Verb\" (Polite Requests & Indirect Questions) yang berfungsi untuk mengubah pertanyaan langsung yang terkesan mendesak menjadi pertanyaan tidak langsung yang bernada sangat santun dalam korespondensi formal, layanan pelanggan, dan lingkungan profesional."
       },
       {
         "id": "q-en-gram-16-pg-4",
@@ -7559,7 +7559,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saat saya masih mahasiswa S1, saya dulu biasa belajar di perpustakaan pusat hingga tengah malam setiap musim ujian."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Could you please tell me where the international student admissions office is located?\" berarti \"Bisakah Anda memberitahu saya di mana kantor penerimaan mahasiswa internasional berlokasi?\"."
+        "explanation": "Kalimat \"Could you please tell me where the international student admissions office is located?\" (dibaca: kʊd juː pliːz tɛl miː weə ði ˌɪntəˈnæʃnəl ˈstjuːdnt ədˈmɪʃnz ˈɒfɪs ɪz ləʊˈkeɪtɪd?) berarti \"Bisakah Anda memberitahu saya di mana kantor penerimaan mahasiswa internasional berlokasi?\". Kalimat ini menggunakan pola \"Introductory phrase (Could you tell me... / Do you know...) + Question Word / if + Subject + Verb\" (Polite Requests & Indirect Questions) yang berfungsi untuk mengubah pertanyaan langsung yang terkesan mendesak menjadi pertanyaan tidak langsung yang bernada sangat santun dalam korespondensi formal, layanan pelanggan, dan lingkungan profesional."
       },
       {
         "id": "q-en-gram-16-bb-2",
@@ -7706,7 +7706,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Direktur memberitahukan kepada para pemegang saham bahwa mereka telah menandatangani kontrak kemitraan tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Look at all those prestigious academic trophies on her shelf; she must be an exceptionally brilliant student.\" berarti \"Lihatlah semua trofi akademis bergengsi di raknya itu; dia pastilah seorang mahasiswa yang luar biasa cemerlang.\"."
+        "explanation": "Kalimat \"Look at all those prestigious academic trophies on her shelf; she must be an exceptionally brilliant student.\" (dibaca: lʊk æt ɔːl ðəʊz prɛsˈtɪdʒəs ˌækəˈdɛmɪk ˈtrəʊfiz ɒn hɜː ʃɛlf; ʃiː mʌst biː ən ɪkˈsɛpʃnəli ˈbrɪljənt ˈstjuːdnt.) berarti \"Lihatlah semua trofi akademis bergengsi di raknya itu; dia pastilah seorang mahasiswa yang luar biasa cemerlang.\". Kalimat ini menggunakan pola \"must be (95% pasti benar) / can't be (95% mustahil) / might/could/may be (50% kemungkinan) + Adjective / Noun\" (Modals of Deduction & Probability (must, can't, might, could)) yang berfungsi untuk menyatakan derajat keyakinan logis atas suatu fakta berdasarkan bukti yang ada di depan mata. 'Must' untuk dugaan pasti, 'can't' untuk penyangkalan mustahil, dan 'might/could' untuk kemungkinan spekulatif."
       },
       {
         "id": "q-en-gram-17-pg-2",
@@ -7722,7 +7722,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya menulis surat ini untuk menanyakan apakah para mahasiswa pertukaran internasional yang telah diterima di universitas berhak mendapatkan fasilitas asrama kampus."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"That statement can't be true because all official government statistics contradict it completely.\" berarti \"Pernyataan itu mustahil benar karena seluruh data statistik resmi pemerintah menyangkalnya secara total.\"."
+        "explanation": "Kalimat \"That statement can't be true because all official government statistics contradict it completely.\" (dibaca: ðæt ˈsteɪtmənt kɑːnt biː truː bɪˈkɒz ɔːl əˈfɪʃl ˈgʌvnmənt stəˈtɪstɪks ˌkɒntrəˈdɪkt ɪt kəmˈpliːtli.) berarti \"Pernyataan itu mustahil benar karena seluruh data statistik resmi pemerintah menyangkalnya secara total.\". Kalimat ini menggunakan pola \"must be (95% pasti benar) / can't be (95% mustahil) / might/could/may be (50% kemungkinan) + Adjective / Noun\" (Modals of Deduction & Probability (must, can't, might, could)) yang berfungsi untuk menyatakan derajat keyakinan logis atas suatu fakta berdasarkan bukti yang ada di depan mata. 'Must' untuk dugaan pasti, 'can't' untuk penyangkalan mustahil, dan 'might/could' untuk kemungkinan spekulatif."
       },
       {
         "id": "q-en-gram-17-pg-3",
@@ -7738,7 +7738,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dia memberitahu komite bahwa dia telah bekerja dalam kebijakan pelestarian lingkungan selama lebih dari sepuluh tahun sebelum bergabung dengan Perserikatan Bangsa-Bangsa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Don't throw away that old document yet; it might contain vital information for our upcoming legal audit.\" berarti \"Jangan buang dokumen lama itu dulu; berkas itu mungkin memuat informasi penting bagi audit hukum kita mendatang.\"."
+        "explanation": "Kalimat \"Don't throw away that old document yet; it might contain vital information for our upcoming legal audit.\" (dibaca: dəʊnt θrəʊ əˈweɪ ðæt əʊld ˈdɒkjʊmənt jɛt; ɪt maɪt kənˈteɪn ˈvaɪtl ˌɪnfəˈmeɪʃn fɔːr ˈaʊər ˌʌpˈkʌmɪŋ ˈliːgl ˈɔːdɪt.) berarti \"Jangan buang dokumen lama itu dulu; berkas itu mungkin memuat informasi penting bagi audit hukum kita mendatang.\". Kalimat ini menggunakan pola \"must be (95% pasti benar) / can't be (95% mustahil) / might/could/may be (50% kemungkinan) + Adjective / Noun\" (Modals of Deduction & Probability (must, can't, might, could)) yang berfungsi untuk menyatakan derajat keyakinan logis atas suatu fakta berdasarkan bukti yang ada di depan mata. 'Must' untuk dugaan pasti, 'can't' untuk penyangkalan mustahil, dan 'might/could' untuk kemungkinan spekulatif."
       },
       {
         "id": "q-en-gram-17-pg-4",
@@ -8045,7 +8045,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kandidat tersebut berkata bahwa dia sedang mempersiapkan proposal risetnya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Look at all those prestigious academic trophies on her shelf; she must be an exceptionally brilliant student.\" berarti \"Lihatlah semua trofi akademis bergengsi di raknya itu; dia pastilah seorang mahasiswa yang luar biasa cemerlang.\"."
+        "explanation": "Kalimat \"Look at all those prestigious academic trophies on her shelf; she must be an exceptionally brilliant student.\" (dibaca: lʊk æt ɔːl ðəʊz prɛsˈtɪdʒəs ˌækəˈdɛmɪk ˈtrəʊfiz ɒn hɜː ʃɛlf; ʃiː mʌst biː ən ɪkˈsɛpʃnəli ˈbrɪljənt ˈstjuːdnt.) berarti \"Lihatlah semua trofi akademis bergengsi di raknya itu; dia pastilah seorang mahasiswa yang luar biasa cemerlang.\". Kalimat ini menggunakan pola \"must be (95% pasti benar) / can't be (95% mustahil) / might/could/may be (50% kemungkinan) + Adjective / Noun\" (Modals of Deduction & Probability (must, can't, might, could)) yang berfungsi untuk menyatakan derajat keyakinan logis atas suatu fakta berdasarkan bukti yang ada di depan mata. 'Must' untuk dugaan pasti, 'can't' untuk penyangkalan mustahil, dan 'might/could' untuk kemungkinan spekulatif."
       },
       {
         "id": "q-en-gram-17-bb-2",
@@ -8192,7 +8192,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya tim kami memiliki lebih banyak sumber daya, kami akan dapat menyelesaikan proyek perangkat lunak yang ditugaskan oleh klien internasional tersebut jauh lebih awal."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"When I was an undergraduate student, I used to study in the central library until midnight every exam season.\" berarti \"Saat saya masih mahasiswa S1, saya dulu biasa belajar di perpustakaan pusat hingga tengah malam setiap musim ujian.\"."
+        "explanation": "Kalimat \"When I was an undergraduate student, I used to study in the central library until midnight every exam season.\" (dibaca: wɛn aɪ wɒz ən ˌʌndəˈgrædjʊət ˈstjuːdnt, aɪ juːst tuː ˈstʌdi ɪn ðə ˈsɛntrəl ˈlaɪbrəri ənˈtɪl ˈmɪdnaɪt ˈɛvri ɪgˈzæm ˈsiːzn.) berarti \"Saat saya masih mahasiswa S1, saya dulu biasa belajar di perpustakaan pusat hingga tengah malam setiap musim ujian.\". Kalimat ini menggunakan pola \"used to + V1 (kebiasaan masa lampau yang sudah berhenti) vs be used to + V-ing (terbiasa dengan) vs get used to + V-ing (proses beradaptasi)\" (Used to, Be Used to, Get Used to) yang berfungsi untuk membedakan tiga struktur yang kerap membingungkan: 'used to + verb' (dulu biasa, sekarang sudah tidak lagi), 'be used to + noun/-ing' (kondisi sudah terbiasa/akrab), dan 'get used to + noun/-ing' (proses adaptasi bertahap)."
       },
       {
         "id": "q-en-gram-18-pg-2",
@@ -8208,7 +8208,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya telah tinggal di London selama lima tahun, dan sampai sekarang saya masih mencintai tinggal di sini setiap hari."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Having lived in Bangkok for over three years, he is completely used to eating very spicy street food.\" berarti \"Setelah tinggal di Bangkok lebih dari tiga tahun, dia sudah sepenuhnya terbiasa menyantap jajanan jalanan yang sangat pedas.\"."
+        "explanation": "Kalimat \"Having lived in Bangkok for over three years, he is completely used to eating very spicy street food.\" (dibaca: ˈhævɪŋ lɪvd ɪn bæŋˈkɒk fɔːr ˈəʊvə θriː jɪəz, hiː ɪz kəmˈpliːtli juːst tuː ˈiːtɪŋ ˈvɛri ˈspaɪsi striːt fuːd.) berarti \"Setelah tinggal di Bangkok lebih dari tiga tahun, dia sudah sepenuhnya terbiasa menyantap jajanan jalanan yang sangat pedas.\". Kalimat ini menggunakan pola \"used to + V1 (kebiasaan masa lampau yang sudah berhenti) vs be used to + V-ing (terbiasa dengan) vs get used to + V-ing (proses beradaptasi)\" (Used to, Be Used to, Get Used to) yang berfungsi untuk membedakan tiga struktur yang kerap membingungkan: 'used to + verb' (dulu biasa, sekarang sudah tidak lagi), 'be used to + noun/-ing' (kondisi sudah terbiasa/akrab), dan 'get used to + noun/-ing' (proses adaptasi bertahap)."
       },
       {
         "id": "q-en-gram-18-pg-3",
@@ -8224,7 +8224,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Butuh waktu beberapa bulan bagi para cendekiawan pertukaran internasional untuk beradaptasi terbiasa dengan kriteria penilaian akademis yang ketat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"It took several months for international exchange scholars to get used to the strict academic grading criteria.\" berarti \"Butuh waktu beberapa bulan bagi para cendekiawan pertukaran internasional untuk beradaptasi terbiasa dengan kriteria penilaian akademis yang ketat.\"."
+        "explanation": "Kalimat \"It took several months for international exchange scholars to get used to the strict academic grading criteria.\" (dibaca: ɪt tʊk ˈsɛvrəl mʌnθs fɔːr ˌɪntəˈnæʃnəl ɪksˈtʃeɪndʒ ˈskɒləz tuː gɛt juːst tuː ðə strɪkt ˌækəˈdɛmɪk ˈgreɪdɪŋ kraɪˈtɪərɪə.) berarti \"Butuh waktu beberapa bulan bagi para cendekiawan pertukaran internasional untuk beradaptasi terbiasa dengan kriteria penilaian akademis yang ketat.\". Kalimat ini menggunakan pola \"used to + V1 (kebiasaan masa lampau yang sudah berhenti) vs be used to + V-ing (terbiasa dengan) vs get used to + V-ing (proses beradaptasi)\" (Used to, Be Used to, Get Used to) yang berfungsi untuk membedakan tiga struktur yang kerap membingungkan: 'used to + verb' (dulu biasa, sekarang sudah tidak lagi), 'be used to + noun/-ing' (kondisi sudah terbiasa/akrab), dan 'get used to + noun/-ing' (proses adaptasi bertahap)."
       },
       {
         "id": "q-en-gram-18-pg-4",
@@ -8531,7 +8531,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saat saya masih mahasiswa S1, saya dulu biasa belajar di perpustakaan pusat hingga tengah malam setiap musim ujian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"When I was an undergraduate student, I used to study in the central library until midnight every exam season.\" berarti \"Saat saya masih mahasiswa S1, saya dulu biasa belajar di perpustakaan pusat hingga tengah malam setiap musim ujian.\"."
+        "explanation": "Kalimat \"When I was an undergraduate student, I used to study in the central library until midnight every exam season.\" (dibaca: wɛn aɪ wɒz ən ˌʌndəˈgrædjʊət ˈstjuːdnt, aɪ juːst tuː ˈstʌdi ɪn ðə ˈsɛntrəl ˈlaɪbrəri ənˈtɪl ˈmɪdnaɪt ˈɛvri ɪgˈzæm ˈsiːzn.) berarti \"Saat saya masih mahasiswa S1, saya dulu biasa belajar di perpustakaan pusat hingga tengah malam setiap musim ujian.\". Kalimat ini menggunakan pola \"used to + V1 (kebiasaan masa lampau yang sudah berhenti) vs be used to + V-ing (terbiasa dengan) vs get used to + V-ing (proses beradaptasi)\" (Used to, Be Used to, Get Used to) yang berfungsi untuk membedakan tiga struktur yang kerap membingungkan: 'used to + verb' (dulu biasa, sekarang sudah tidak lagi), 'be used to + noun/-ing' (kondisi sudah terbiasa/akrab), dan 'get used to + noun/-ing' (proses adaptasi bertahap)."
       },
       {
         "id": "q-en-gram-18-bb-2",
@@ -8680,7 +8680,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tim kami telah menyelesaikan proyek internasional tersebut dengan sukses pada Jumat sore yang lalu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"\"I am preparing my research proposal,\" the candidate said. -> The candidate said that he was preparing his research proposal.\" berarti \"Kandidat tersebut berkata bahwa dia sedang mempersiapkan proposal risetnya.\"."
+        "explanation": "Kalimat \"\"I am preparing my research proposal,\" the candidate said. -> The candidate said that he was preparing his research proposal.\" (dibaca: ðə ˈkændɪdeɪt sɛd ðæt hiː wɒz prɪˈpeərɪŋ hɪz rɪˈsɜːtʃ prəˈpəʊzl.) berarti \"Kandidat tersebut berkata bahwa dia sedang mempersiapkan proposal risetnya.\". Kalimat ini menggunakan pola \"said (that) / told someone (that) + Backshifted Tense (Present -> Past, Past -> Past Perfect, will -> would)\" (Reported Speech & Backshift of Tenses) yang berfungsi untuk melaporkan perkataan orang lain tanpa menggunakan tanda petik langsung. Memahami hukum pergeseran tenses ke masa lalu (backshift) dan penyesuaian kata ganti orang serta penanda waktu."
       },
       {
         "id": "q-en-gram-19-pg-2",
@@ -8696,7 +8696,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Direktur memberitahukan kepada para pemegang saham bahwa mereka telah menandatangani kontrak kemitraan tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"\"We have already signed the partnership contract,\" the director told the shareholders.\" berarti \"Direktur memberitahukan kepada para pemegang saham bahwa mereka telah menandatangani kontrak kemitraan tersebut.\"."
+        "explanation": "Kalimat \"\"We have already signed the partnership contract,\" the director told the shareholders.\" (dibaca: wiː hæv ɔːlˈrɛdi saɪnd ðə ˈpɑːtnəʃɪp ˈkɒntrækt, ðə dɪˈrɛktə təʊld ðə ˈʃeəˌhəʊldəz.) berarti \"Direktur memberitahukan kepada para pemegang saham bahwa mereka telah menandatangani kontrak kemitraan tersebut.\". Kalimat ini menggunakan pola \"said (that) / told someone (that) + Backshifted Tense (Present -> Past, Past -> Past Perfect, will -> would)\" (Reported Speech & Backshift of Tenses) yang berfungsi untuk melaporkan perkataan orang lain tanpa menggunakan tanda petik langsung. Memahami hukum pergeseran tenses ke masa lalu (backshift) dan penyesuaian kata ganti orang serta penanda waktu."
       },
       {
         "id": "q-en-gram-19-pg-3",
@@ -8712,7 +8712,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Sudah berapa lama kamu menunggu di sini di terminal bandara untuk penerbangan yang tertunda tersebut?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"She told me that she would attend the international medical seminar in Geneva the following week.\" berarti \"Dia memberitahuku bahwa dia akan menghadiri seminar medis internasional di Jenewa pada minggu berikutnya.\"."
+        "explanation": "Kalimat \"She told me that she would attend the international medical seminar in Geneva the following week.\" (dibaca: ʃiː təʊld miː ðæt ʃiː wʊd əˈtɛnd ði ˌɪntəˈnæʃnəl ˈmɛdɪkl ˈsɛmɪnɑːr ɪn dʒɪˈniːvə ðə ˈfɒləʊɪŋ wiːk.) berarti \"Dia memberitahuku bahwa dia akan menghadiri seminar medis internasional di Jenewa pada minggu berikutnya.\". Kalimat ini menggunakan pola \"said (that) / told someone (that) + Backshifted Tense (Present -> Past, Past -> Past Perfect, will -> would)\" (Reported Speech & Backshift of Tenses) yang berfungsi untuk melaporkan perkataan orang lain tanpa menggunakan tanda petik langsung. Memahami hukum pergeseran tenses ke masa lalu (backshift) dan penyesuaian kata ganti orang serta penanda waktu."
       },
       {
         "id": "q-en-gram-19-pg-4",
@@ -9017,7 +9017,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya telah tinggal di London selama lima tahun, dan sampai sekarang saya masih mencintai tinggal di sini setiap hari."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"\"I am preparing my research proposal,\" the candidate said. -> The candidate said that he was preparing his research proposal.\" berarti \"Kandidat tersebut berkata bahwa dia sedang mempersiapkan proposal risetnya.\"."
+        "explanation": "Kalimat \"\"I am preparing my research proposal,\" the candidate said. -> The candidate said that he was preparing his research proposal.\" (dibaca: ðə ˈkændɪdeɪt sɛd ðæt hiː wɒz prɪˈpeərɪŋ hɪz rɪˈsɜːtʃ prəˈpəʊzl.) berarti \"Kandidat tersebut berkata bahwa dia sedang mempersiapkan proposal risetnya.\". Kalimat ini menggunakan pola \"said (that) / told someone (that) + Backshifted Tense (Present -> Past, Past -> Past Perfect, will -> would)\" (Reported Speech & Backshift of Tenses) yang berfungsi untuk melaporkan perkataan orang lain tanpa menggunakan tanda petik langsung. Memahami hukum pergeseran tenses ke masa lalu (backshift) dan penyesuaian kata ganti orang serta penanda waktu."
       },
       {
         "id": "q-en-gram-19-bb-2",
@@ -9167,7 +9167,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya menulis surat ini untuk menanyakan apakah para mahasiswa pertukaran internasional yang telah diterima di universitas berhak mendapatkan fasilitas asrama kampus."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"I am writing to enquire whether international exchange students who have been accepted into the university are eligible for on-campus housing.\" berarti \"Saya menulis surat ini untuk menanyakan apakah para mahasiswa pertukaran internasional yang telah diterima di universitas berhak mendapatkan fasilitas asrama kampus.\"."
+        "explanation": "Kalimat \"I am writing to enquire whether international exchange students who have been accepted into the university are eligible for on-campus housing.\" (dibaca: aɪ æm ˈraɪtɪŋ tuː ɪnˈkwaɪə ˈwɛðər ˌɪntəˈnæʃnəl ɪksˈtʃeɪndʒ ˈstjuːdnts huː hæv biːn əkˈsɛptɪd ˈɪntuː ðə ˌjuːnɪˈvɜːsɪti ɑːr ˈɛlɪdʒəbl fɔːr ɒn-ˈkæmpəs ˈhaʊzɪŋ.) berarti \"Saya menulis surat ini untuk menanyakan apakah para mahasiswa pertukaran internasional yang telah diterima di universitas berhak mendapatkan fasilitas asrama kampus.\". Kalimat ini menggunakan pola \"B1 Multi-Clause Communication Framework (Present Perfect, Conditionals, Relative Clauses, Passive Voice)\" (B1 Independent User Synthesis & Practical Conversation Mastery (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B1 Independent User (Pengguna Mandiri CEFR): mengintegrasikan seluruh 10 formula tata bahasa dalam percakapan lancar, korespondensi email formal, dan kesiapan melompat ke taraf Upper-Intermediate B2."
       },
       {
         "id": "q-en-gram-20-pg-2",
@@ -9183,7 +9183,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saya memiliki tabungan yang cukup saat ini, saya akan berkeliling dunia selama setahun penuh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"If our team had more resources, we could finish the software project which was commissioned by the international client much earlier.\" berarti \"Seandainya tim kami memiliki lebih banyak sumber daya, kami akan dapat menyelesaikan proyek perangkat lunak yang ditugaskan oleh klien internasional tersebut jauh lebih awal.\"."
+        "explanation": "Kalimat \"If our team had more resources, we could finish the software project which was commissioned by the international client much earlier.\" (dibaca: ɪf ˈaʊə tiːm hæd mɔː rɪˈsɔːsɪz, wiː kʊd ˈfɪnɪʃ ðə ˈsɒftweə ˈprɒdʒɛkt wɪtʃ wɒz kəˈmɪʃnd baɪ ði ˌɪntəˈnæʃnəl ˈklaɪənt mʌtʃ ˈɜːlɪə.) berarti \"Seandainya tim kami memiliki lebih banyak sumber daya, kami akan dapat menyelesaikan proyek perangkat lunak yang ditugaskan oleh klien internasional tersebut jauh lebih awal.\". Kalimat ini menggunakan pola \"B1 Multi-Clause Communication Framework (Present Perfect, Conditionals, Relative Clauses, Passive Voice)\" (B1 Independent User Synthesis & Practical Conversation Mastery (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B1 Independent User (Pengguna Mandiri CEFR): mengintegrasikan seluruh 10 formula tata bahasa dalam percakapan lancar, korespondensi email formal, dan kesiapan melompat ke taraf Upper-Intermediate B2."
       },
       {
         "id": "q-en-gram-20-pg-3",
@@ -9199,7 +9199,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Apa yang akan kamu lakukan seandainya kamu menemukan ponsel pintar mahal tertinggal tanpa pemilik di dalam taksi?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"She told the committee that she had been working on environmental protection policies for over ten years before joining the United Nations.\" berarti \"Dia memberitahu komite bahwa dia telah bekerja dalam kebijakan pelestarian lingkungan selama lebih dari sepuluh tahun sebelum bergabung dengan Perserikatan Bangsa-Bangsa.\"."
+        "explanation": "Kalimat \"She told the committee that she had been working on environmental protection policies for over ten years before joining the United Nations.\" (dibaca: ʃiː təʊld ðə kəˈmɪti ðæt ʃiː hæd biːn ˈwɜːkɪŋ ɒn ɪnˌvaɪrənˈmɛntl prəˈtɛkʃn ˈpɒlɪsiz fɔːr ˈəʊvə tɛn jɪəz bɪˈfɔː ˈdʒɔɪnɪŋ ðə jʊˈnaɪtɪd ˈneɪʃnz.) berarti \"Dia memberitahu komite bahwa dia telah bekerja dalam kebijakan pelestarian lingkungan selama lebih dari sepuluh tahun sebelum bergabung dengan Perserikatan Bangsa-Bangsa.\". Kalimat ini menggunakan pola \"B1 Multi-Clause Communication Framework (Present Perfect, Conditionals, Relative Clauses, Passive Voice)\" (B1 Independent User Synthesis & Practical Conversation Mastery (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B1 Independent User (Pengguna Mandiri CEFR): mengintegrasikan seluruh 10 formula tata bahasa dalam percakapan lancar, korespondensi email formal, dan kesiapan melompat ke taraf Upper-Intermediate B2."
       },
       {
         "id": "q-en-gram-20-pg-4",
@@ -9506,7 +9506,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tanah di luar basah kuyup karena hujan lebat telah mengguyur terus sepanjang pagi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"I am writing to enquire whether international exchange students who have been accepted into the university are eligible for on-campus housing.\" berarti \"Saya menulis surat ini untuk menanyakan apakah para mahasiswa pertukaran internasional yang telah diterima di universitas berhak mendapatkan fasilitas asrama kampus.\"."
+        "explanation": "Kalimat \"I am writing to enquire whether international exchange students who have been accepted into the university are eligible for on-campus housing.\" (dibaca: aɪ æm ˈraɪtɪŋ tuː ɪnˈkwaɪə ˈwɛðər ˌɪntəˈnæʃnəl ɪksˈtʃeɪndʒ ˈstjuːdnts huː hæv biːn əkˈsɛptɪd ˈɪntuː ðə ˌjuːnɪˈvɜːsɪti ɑːr ˈɛlɪdʒəbl fɔːr ɒn-ˈkæmpəs ˈhaʊzɪŋ.) berarti \"Saya menulis surat ini untuk menanyakan apakah para mahasiswa pertukaran internasional yang telah diterima di universitas berhak mendapatkan fasilitas asrama kampus.\". Kalimat ini menggunakan pola \"B1 Multi-Clause Communication Framework (Present Perfect, Conditionals, Relative Clauses, Passive Voice)\" (B1 Independent User Synthesis & Practical Conversation Mastery (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B1 Independent User (Pengguna Mandiri CEFR): mengintegrasikan seluruh 10 formula tata bahasa dalam percakapan lancar, korespondensi email formal, dan kesiapan melompat ke taraf Upper-Intermediate B2."
       },
       {
         "id": "q-en-gram-20-bb-2",
@@ -9653,7 +9653,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Direktur utama menugaskan penasihat hukumnya untuk meninjau draf kontrak merger internasional tersebut secara sangat seksama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"If the government had invested earlier in flood defence infrastructure, the catastrophic damage would have been avoided.\" berarti \"Seandainya pemerintah berinvestasi lebih awal dalam infrastruktur penanggulangan banjir, kerusakan katastropik tersebut niscaya sudah dapat dihindari.\"."
+        "explanation": "Kalimat \"If the government had invested earlier in flood defence infrastructure, the catastrophic damage would have been avoided.\" (dibaca: ɪf ðə ˈgʌvnmənt hæd ɪnˈvɛstɪd ˈɜːlɪər ɪn flʌd dɪˈfɛns ˈɪnfrəˌstrʌktʃə, ðə ˌkætəˈstrɒfɪk ˈdæmɪdʒ wʊd hæv biːn əˈvɔɪdɪd.) berarti \"Seandainya pemerintah berinvestasi lebih awal dalam infrastruktur penanggulangan banjir, kerusakan katastropik tersebut niscaya sudah dapat dihindari.\". Kalimat ini menggunakan pola \"Third: If + had + V3, would have + V3 / Mixed: If + had + V3 (past action), would + V1 (present result)\" (Third Conditional & Mixed Conditionals (Past Regrets & Present Impact)) yang berfungsi untuk third Conditional membicarakan penyesalan atas peristiwa masa lalu yang mustahil diubah. Mixed Conditionals menghubungkan perbuatan masa lalu dengan dampak yang masih dirasakan saat ini ('Seandainya dulu saya belajar giat, niscaya sekarang saya sudah jadi dokter')."
       },
       {
         "id": "q-en-gram-21-pg-2",
@@ -9669,7 +9669,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Setelah meninjau seluruh literatur internasional secara mendalam, peneliti doktoral tersebut merumuskan hipotesis teoretis yang inovatif."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"If I had accepted the scholarship to study abroad five years ago, I would be living and working in London today.\" berarti \"Seandainya saya menerima beasiswa kuliah ke luar negeri lima tahun lalu, niscaya hari ini saya sudah tinggal dan bekerja di London.\"."
+        "explanation": "Kalimat \"If I had accepted the scholarship to study abroad five years ago, I would be living and working in London today.\" (dibaca: ɪf aɪ hæd əkˈsɛptɪd ðə ˈskɒləʃɪp tuː ˈstʌdi əˈbrɔːd faɪv jɪəz əˈgəʊ, aɪ wʊd biː ˈlɪvɪŋ ænd ˈwɜːkɪŋ ɪn ˈlʌndən təˈdeɪ.) berarti \"Seandainya saya menerima beasiswa kuliah ke luar negeri lima tahun lalu, niscaya hari ini saya sudah tinggal dan bekerja di London.\". Kalimat ini menggunakan pola \"Third: If + had + V3, would have + V3 / Mixed: If + had + V3 (past action), would + V1 (present result)\" (Third Conditional & Mixed Conditionals (Past Regrets & Present Impact)) yang berfungsi untuk third Conditional membicarakan penyesalan atas peristiwa masa lalu yang mustahil diubah. Mixed Conditionals menghubungkan perbuatan masa lalu dengan dampak yang masih dirasakan saat ini ('Seandainya dulu saya belajar giat, niscaya sekarang saya sudah jadi dokter')."
       },
       {
         "id": "q-en-gram-21-pg-3",
@@ -9685,7 +9685,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Menyadari ancaman mendesak dari perubahan iklim, dewan kotamadya memperkenalkan kebijakan energi hijau yang komprehensif."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Had the engineers known about the structural defect in advance, they would have halted the construction immediately.\" berarti \"Andai para insinyur mengetahui cacat struktural tersebut sebelumnya, mereka pasti sudah langsung menghentikan konstruksi seketika.\"."
+        "explanation": "Kalimat \"Had the engineers known about the structural defect in advance, they would have halted the construction immediately.\" (dibaca: hæd ði ˌɛndʒɪˈnɪəz nəʊn əˈbaʊt ðə ˈstrʌktʃərəl ˈdiːfɛkt ɪn ədˈvɑːns, ðeɪ wʊd hæv ˈhɔːltɪd ðə kənˈstrʌkʃn ɪˈmiːdiətli.) berarti \"Andai para insinyur mengetahui cacat struktural tersebut sebelumnya, mereka pasti sudah langsung menghentikan konstruksi seketika.\". Kalimat ini menggunakan pola \"Third: If + had + V3, would have + V3 / Mixed: If + had + V3 (past action), would + V1 (present result)\" (Third Conditional & Mixed Conditionals (Past Regrets & Present Impact)) yang berfungsi untuk third Conditional membicarakan penyesalan atas peristiwa masa lalu yang mustahil diubah. Mixed Conditionals menghubungkan perbuatan masa lalu dengan dampak yang masih dirasakan saat ini ('Seandainya dulu saya belajar giat, niscaya sekarang saya sudah jadi dokter')."
       },
       {
         "id": "q-en-gram-21-pg-4",
@@ -9992,7 +9992,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kami berencana untuk menyewa jasa pengecatan ulang dan modernisasi seluruh gedung kantor pusat sebelum konferensi tahunan berlangsung."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"If the government had invested earlier in flood defence infrastructure, the catastrophic damage would have been avoided.\" berarti \"Seandainya pemerintah berinvestasi lebih awal dalam infrastruktur penanggulangan banjir, kerusakan katastropik tersebut niscaya sudah dapat dihindari.\"."
+        "explanation": "Kalimat \"If the government had invested earlier in flood defence infrastructure, the catastrophic damage would have been avoided.\" (dibaca: ɪf ðə ˈgʌvnmənt hæd ɪnˈvɛstɪd ˈɜːlɪər ɪn flʌd dɪˈfɛns ˈɪnfrəˌstrʌktʃə, ðə ˌkætəˈstrɒfɪk ˈdæmɪdʒ wʊd hæv biːn əˈvɔɪdɪd.) berarti \"Seandainya pemerintah berinvestasi lebih awal dalam infrastruktur penanggulangan banjir, kerusakan katastropik tersebut niscaya sudah dapat dihindari.\". Kalimat ini menggunakan pola \"Third: If + had + V3, would have + V3 / Mixed: If + had + V3 (past action), would + V1 (present result)\" (Third Conditional & Mixed Conditionals (Past Regrets & Present Impact)) yang berfungsi untuk third Conditional membicarakan penyesalan atas peristiwa masa lalu yang mustahil diubah. Mixed Conditionals menghubungkan perbuatan masa lalu dengan dampak yang masih dirasakan saat ini ('Seandainya dulu saya belajar giat, niscaya sekarang saya sudah jadi dokter')."
       },
       {
         "id": "q-en-gram-21-bb-2",
@@ -10140,7 +10140,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dikelilingi oleh pegunungan megah berselimutkan salju, biara kuno tersebut menyediakan suaka yang hening bagi meditasi spiritual."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"I wish I were able to speak multiple foreign languages fluently so that I could work as a diplomatic interpreter.\" berarti \"Saya berharap saya mampu bertutur berbagai bahasa asing dengan fasih sehingga saya dapat bekerja sebagai juru bahasa diplomatik.\"."
+        "explanation": "Kalimat \"I wish I were able to speak multiple foreign languages fluently so that I could work as a diplomatic interpreter.\" (dibaca: aɪ wɪʃ aɪ wɜːr ˈeɪbl tuː spiːk ˈmʌltɪpl ˈfɒrən ˈlæŋgwɪdʒɪz ˈfluːəntli səʊ ðæt aɪ kʊd wɜːk æz ə ˌdɪpləˈmætɪk ɪnˈtɜːprɪtə.) berarti \"Saya berharap saya mampu bertutur berbagai bahasa asing dengan fasih sehingga saya dapat bekerja sebagai juru bahasa diplomatik.\". Kalimat ini menggunakan pola \"wish + Past Simple (present desire) / wish + Past Perfect (past regret) / wish + would (annoyance at habits)\" (Wish and If Only (Expressing Regrets & Desired Changes)) yang berfungsi untuk mengekspresikan harapan yang bertentangan dengan kenyataan (kontrafaktual). 'If only' memiliki makna yang sama persis dengan 'wish' namun dengan intensitas emosional yang jauh lebih dramatis dan mendalam."
       },
       {
         "id": "q-en-gram-22-pg-2",
@@ -10156,7 +10156,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Menjelang saat KTT internasional berakhir minggu depan, para pemimpin dunia akan sudah menandatangani perjanjian iklim bersejarah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"If only we had taken proactive measures earlier, the entire ecological disaster could have been prevented.\" berarti \"Andai saja dulu kita mengambil tindakan proaktif lebih awal, seluruh bencana ekologis tersebut niscaya sudah dapat dicegah.\"."
+        "explanation": "Kalimat \"If only we had taken proactive measures earlier, the entire ecological disaster could have been prevented.\" (dibaca: ɪf ˈəʊnli wiː hæd ˈteɪkən prəʊˈæktɪv ˈmɛʒəz ˈɜːlɪə, ði ɪnˈtaɪər ˌiːkəˈlɒdʒɪkl dɪˈzɑːstə kʊd hæv biːn prɪˈvɛntɪd.) berarti \"Andai saja dulu kita mengambil tindakan proaktif lebih awal, seluruh bencana ekologis tersebut niscaya sudah dapat dicegah.\". Kalimat ini menggunakan pola \"wish + Past Simple (present desire) / wish + Past Perfect (past regret) / wish + would (annoyance at habits)\" (Wish and If Only (Expressing Regrets & Desired Changes)) yang berfungsi untuk mengekspresikan harapan yang bertentangan dengan kenyataan (kontrafaktual). 'If only' memiliki makna yang sama persis dengan 'wish' namun dengan intensitas emosional yang jauh lebih dramatis dan mendalam."
       },
       {
         "id": "q-en-gram-22-pg-3",
@@ -10172,7 +10172,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap para tetangga mau berhenti memutar musik elektronik kencang larut malam saat orang lain sedang berusaha tidur."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"I wish the neighbors would stop playing loud electronic music late at night while others are trying to sleep.\" berarti \"Saya berharap para tetangga mau berhenti memutar musik elektronik kencang larut malam saat orang lain sedang berusaha tidur.\"."
+        "explanation": "Kalimat \"I wish the neighbors would stop playing loud electronic music late at night while others are trying to sleep.\" (dibaca: aɪ wɪʃ ðə ˈneɪbəz wʊd stɒp ˈpleɪɪŋ laʊd ˌɛlɛkˈtrɒnɪk ˈmjuːzɪk leɪt æt naɪt waɪl ˈʌðəz ɑː ˈtraɪɪŋ tuː sliːp.) berarti \"Saya berharap para tetangga mau berhenti memutar musik elektronik kencang larut malam saat orang lain sedang berusaha tidur.\". Kalimat ini menggunakan pola \"wish + Past Simple (present desire) / wish + Past Perfect (past regret) / wish + would (annoyance at habits)\" (Wish and If Only (Expressing Regrets & Desired Changes)) yang berfungsi untuk mengekspresikan harapan yang bertentangan dengan kenyataan (kontrafaktual). 'If only' memiliki makna yang sama persis dengan 'wish' namun dengan intensitas emosional yang jauh lebih dramatis dan mendalam."
       },
       {
         "id": "q-en-gram-22-pg-4",
@@ -10479,7 +10479,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap saya mampu bertutur berbagai bahasa asing dengan fasih sehingga saya dapat bekerja sebagai juru bahasa diplomatik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"I wish I were able to speak multiple foreign languages fluently so that I could work as a diplomatic interpreter.\" berarti \"Saya berharap saya mampu bertutur berbagai bahasa asing dengan fasih sehingga saya dapat bekerja sebagai juru bahasa diplomatik.\"."
+        "explanation": "Kalimat \"I wish I were able to speak multiple foreign languages fluently so that I could work as a diplomatic interpreter.\" (dibaca: aɪ wɪʃ aɪ wɜːr ˈeɪbl tuː spiːk ˈmʌltɪpl ˈfɒrən ˈlæŋgwɪdʒɪz ˈfluːəntli səʊ ðæt aɪ kʊd wɜːk æz ə ˌdɪpləˈmætɪk ɪnˈtɜːprɪtə.) berarti \"Saya berharap saya mampu bertutur berbagai bahasa asing dengan fasih sehingga saya dapat bekerja sebagai juru bahasa diplomatik.\". Kalimat ini menggunakan pola \"wish + Past Simple (present desire) / wish + Past Perfect (past regret) / wish + would (annoyance at habits)\" (Wish and If Only (Expressing Regrets & Desired Changes)) yang berfungsi untuk mengekspresikan harapan yang bertentangan dengan kenyataan (kontrafaktual). 'If only' memiliki makna yang sama persis dengan 'wish' namun dengan intensitas emosional yang jauh lebih dramatis dan mendalam."
       },
       {
         "id": "q-en-gram-22-bb-2",
@@ -10625,7 +10625,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Pada waktu seperti ini bulan depan, para mahasiswa pertukaran kami akan sedang mengikuti perkuliahan di Universitas Oxford di Inggris."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"The ancient palace must have been constructed by thousands of highly skilled stone craftsmen over several decades.\" berarti \"Istana kuno megah tersebut pastilah telah dibangun oleh ribuan pengrajin batu berketerampilan tinggi selama beberapa dekade.\"."
+        "explanation": "Kalimat \"The ancient palace must have been constructed by thousands of highly skilled stone craftsmen over several decades.\" (dibaca: ði ˈeɪnʃənt ˈpælɪs mʌst hæv biːn kənˈstrʌktɪd baɪ ˈθaʊzəndz ɒv ˈhaɪli skɪld stəʊn ˈkrɑːftsmən ˈəʊvə ˈsɛvrəl ˈdɛkeɪdz.) berarti \"Istana kuno megah tersebut pastilah telah dibangun oleh ribuan pengrajin batu berketerampilan tinggi selama beberapa dekade.\". Kalimat ini menggunakan pola \"must have + V3 (pasti dulu begitu) / can't/couldn't have + V3 (mustahil dulu begitu) / might/may/could have + V3 (mungkin dulu)\" (Past Modals of Deduction (must have, can't have, might have + V3)) yang berfungsi untuk merekontruksi dan menyimpulkan peristiwa di masa lampau berdasarkan bukti-bukti sisa yang ditemukan saat ini ('pasti tadi terjadi X / mustahil kemarin dia melakukan Y')."
       },
       {
         "id": "q-en-gram-23-pg-2",
@@ -10641,7 +10641,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tersangka mustahil telah melakukan penggelapan keuangan tersebut karena catatan perjalanan internasional membuktikan dia sedang berada di luar negeri."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"The suspect couldn't have committed the financial fraud because international travel records prove he was abroad.\" berarti \"Tersangka mustahil telah melakukan penggelapan keuangan tersebut karena catatan perjalanan internasional membuktikan dia sedang berada di luar negeri.\"."
+        "explanation": "Kalimat \"The suspect couldn't have committed the financial fraud because international travel records prove he was abroad.\" (dibaca: ðə ˈsʌspɛkt ˈkʊdnt hæv kəˈmɪtɪd ðə faɪˈnænʃəl frɔːd bɪˈkɒz ˌɪntəˈnæʃnəl ˈtrævl ˈrɛkɔːdz pruːv hiː wɒz əˈbrɔːd.) berarti \"Tersangka mustahil telah melakukan penggelapan keuangan tersebut karena catatan perjalanan internasional membuktikan dia sedang berada di luar negeri.\". Kalimat ini menggunakan pola \"must have + V3 (pasti dulu begitu) / can't/couldn't have + V3 (mustahil dulu begitu) / might/may/could have + V3 (mungkin dulu)\" (Past Modals of Deduction (must have, can't have, might have + V3)) yang berfungsi untuk merekontruksi dan menyimpulkan peristiwa di masa lampau berdasarkan bukti-bukti sisa yang ditemukan saat ini ('pasti tadi terjadi X / mustahil kemarin dia melakukan Y')."
       },
       {
         "id": "q-en-gram-23-pg-3",
@@ -10657,7 +10657,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun menghadapi pembatasan anggaran yang ketat, perpustakaan universitas tetap mempertahankan langganan jurnal digital komprehensif bagi seluruh mahasiswa."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"The laboratory results are inconsistent; the sample might have been contaminated during the collection process.\" berarti \"Hasil laboratorium tidak konsisten; sampel tersebut mungkin telah terkontaminasi selama proses pengumpulan.\"."
+        "explanation": "Kalimat \"The laboratory results are inconsistent; the sample might have been contaminated during the collection process.\" (dibaca: ðə ləˈbɒrətəri rɪˈzʌlts ɑːr ˌɪnkənˈsɪstənt; ðə ˈsɑːmpl maɪt hæv biːn kənˈtæmɪneɪtɪd ˈdjʊərɪŋ ðə kəˈlɛkʃn ˈprəʊsɛs.) berarti \"Hasil laboratorium tidak konsisten; sampel tersebut mungkin telah terkontaminasi selama proses pengumpulan.\". Kalimat ini menggunakan pola \"must have + V3 (pasti dulu begitu) / can't/couldn't have + V3 (mustahil dulu begitu) / might/may/could have + V3 (mungkin dulu)\" (Past Modals of Deduction (must have, can't have, might have + V3)) yang berfungsi untuk merekontruksi dan menyimpulkan peristiwa di masa lampau berdasarkan bukti-bukti sisa yang ditemukan saat ini ('pasti tadi terjadi X / mustahil kemarin dia melakukan Y')."
       },
       {
         "id": "q-en-gram-23-pg-4",
@@ -10964,7 +10964,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Menjelang saat KTT internasional berakhir minggu depan, para pemimpin dunia akan sudah menandatangani perjanjian iklim bersejarah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"The ancient palace must have been constructed by thousands of highly skilled stone craftsmen over several decades.\" berarti \"Istana kuno megah tersebut pastilah telah dibangun oleh ribuan pengrajin batu berketerampilan tinggi selama beberapa dekade.\"."
+        "explanation": "Kalimat \"The ancient palace must have been constructed by thousands of highly skilled stone craftsmen over several decades.\" (dibaca: ði ˈeɪnʃənt ˈpælɪs mʌst hæv biːn kənˈstrʌktɪd baɪ ˈθaʊzəndz ɒv ˈhaɪli skɪld stəʊn ˈkrɑːftsmən ˈəʊvə ˈsɛvrəl ˈdɛkeɪdz.) berarti \"Istana kuno megah tersebut pastilah telah dibangun oleh ribuan pengrajin batu berketerampilan tinggi selama beberapa dekade.\". Kalimat ini menggunakan pola \"must have + V3 (pasti dulu begitu) / can't/couldn't have + V3 (mustahil dulu begitu) / might/may/could have + V3 (mungkin dulu)\" (Past Modals of Deduction (must have, can't have, might have + V3)) yang berfungsi untuk merekontruksi dan menyimpulkan peristiwa di masa lampau berdasarkan bukti-bukti sisa yang ditemukan saat ini ('pasti tadi terjadi X / mustahil kemarin dia melakukan Y')."
       },
       {
         "id": "q-en-gram-23-bb-2",
@@ -11111,7 +11111,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kami berencana untuk menyewa jasa pengecatan ulang dan modernisasi seluruh gedung kantor pusat sebelum konferensi tahunan berlangsung."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"We are planning to have our entire corporate headquarters repainted and modernised before the annual conference.\" berarti \"Kami berencana untuk menyewa jasa pengecatan ulang dan modernisasi seluruh gedung kantor pusat sebelum konferensi tahunan berlangsung.\"."
+        "explanation": "Kalimat \"We are planning to have our entire corporate headquarters repainted and modernised before the annual conference.\" (dibaca: wiː ɑː ˈplænɪŋ tuː hæv ˈaʊər ɪnˈtaɪə ˈkɔːpərət ˈhɛdˌkwɔːtəz riːˈpeɪntɪd ænd ˈmɒdənaɪzd bɪˈfɔː ði ˈænjʊəl ˈkɒnfərəns.) berarti \"Kami berencana untuk menyewa jasa pengecatan ulang dan modernisasi seluruh gedung kantor pusat sebelum konferensi tahunan berlangsung.\". Kalimat ini menggunakan pola \"have/get + Object + V3 (past participle) (meminta jasa orang lain untuk mengerjakan sesuatu)\" (Causative Verbs: Have / Get something done) yang berfungsi untuk menyatakan bahwa pembicara tidak mengerjakan sendiri pekerjaan tersebut, melainkan menyuruh, menyewa jasa profesional, atau membayar orang lain untuk melakukannya (misal: potong rambut, servis mobil, cat rumah)."
       },
       {
         "id": "q-en-gram-24-pg-2",
@@ -11127,7 +11127,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Riset terobosannyalah mengenai energi surya terbarukan yang telah menganugerahkan universitas penghargaan inovasi internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"The managing director had his legal advisor review the international merger contract very thoroughly.\" berarti \"Direktur utama menugaskan penasihat hukumnya untuk meninjau draf kontrak merger internasional tersebut secara sangat seksama.\"."
+        "explanation": "Kalimat \"The managing director had his legal advisor review the international merger contract very thoroughly.\" (dibaca: ðə ˈmænɪdʒɪŋ dɪˈrɛktə hæd hɪz ˈliːgl ədˈvaɪzə rɪˈvjuː ði ˌɪntəˈnæʃnəl ˈmɜːdʒə ˈkɒntrækt ˈvɛri ˈθʌrəli.) berarti \"Direktur utama menugaskan penasihat hukumnya untuk meninjau draf kontrak merger internasional tersebut secara sangat seksama.\". Kalimat ini menggunakan pola \"have/get + Object + V3 (past participle) (meminta jasa orang lain untuk mengerjakan sesuatu)\" (Causative Verbs: Have / Get something done) yang berfungsi untuk menyatakan bahwa pembicara tidak mengerjakan sendiri pekerjaan tersebut, melainkan menyuruh, menyewa jasa profesional, atau membayar orang lain untuk melakukannya (misal: potong rambut, servis mobil, cat rumah)."
       },
       {
         "id": "q-en-gram-24-pg-3",
@@ -11143,7 +11143,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Baru pada akhir abad kesembilan belaslah kaum perempuan secara resmi diterima di program-program kesarjanaan di universitas tersebut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"After hearing a strange vibrating noise from the engine, she immediately got her car inspected by a certified mechanic.\" berarti \"Setelah mendengar bunyi getaran aneh dari dalam mesin, dia segera membawa mobilnya untuk diperiksa oleh mekanik bersertifikat.\"."
+        "explanation": "Kalimat \"After hearing a strange vibrating noise from the engine, she immediately got her car inspected by a certified mechanic.\" (dibaca: ˈɑːftə ˈhɪərɪŋ ə streɪndʒ vaɪˈbreɪtɪŋ nɔɪz frɒm ði ˈɛndʒɪn, ʃiː ɪˈmiːdiətli gɒt hɜː kɑːr ɪnˈspɛktɪd baɪ ə ˈsɜːtɪfaɪd mɪˈkænɪk.) berarti \"Setelah mendengar bunyi getaran aneh dari dalam mesin, dia segera membawa mobilnya untuk diperiksa oleh mekanik bersertifikat.\". Kalimat ini menggunakan pola \"have/get + Object + V3 (past participle) (meminta jasa orang lain untuk mengerjakan sesuatu)\" (Causative Verbs: Have / Get something done) yang berfungsi untuk menyatakan bahwa pembicara tidak mengerjakan sendiri pekerjaan tersebut, melainkan menyuruh, menyewa jasa profesional, atau membayar orang lain untuk melakukannya (misal: potong rambut, servis mobil, cat rumah)."
       },
       {
         "id": "q-en-gram-24-pg-4",
@@ -11450,7 +11450,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Populasi perkotaan terus berkembang dengan pesat, sedangkan masyarakat pedesaan menghadapi penurunan demografi yang parah dan kelangkaan tenaga kerja."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"We are planning to have our entire corporate headquarters repainted and modernised before the annual conference.\" berarti \"Kami berencana untuk menyewa jasa pengecatan ulang dan modernisasi seluruh gedung kantor pusat sebelum konferensi tahunan berlangsung.\"."
+        "explanation": "Kalimat \"We are planning to have our entire corporate headquarters repainted and modernised before the annual conference.\" (dibaca: wiː ɑː ˈplænɪŋ tuː hæv ˈaʊər ɪnˈtaɪə ˈkɔːpərət ˈhɛdˌkwɔːtəz riːˈpeɪntɪd ænd ˈmɒdənaɪzd bɪˈfɔː ði ˈænjʊəl ˈkɒnfərəns.) berarti \"Kami berencana untuk menyewa jasa pengecatan ulang dan modernisasi seluruh gedung kantor pusat sebelum konferensi tahunan berlangsung.\". Kalimat ini menggunakan pola \"have/get + Object + V3 (past participle) (meminta jasa orang lain untuk mengerjakan sesuatu)\" (Causative Verbs: Have / Get something done) yang berfungsi untuk menyatakan bahwa pembicara tidak mengerjakan sendiri pekerjaan tersebut, melainkan menyuruh, menyewa jasa profesional, atau membayar orang lain untuk melakukannya (misal: potong rambut, servis mobil, cat rumah)."
       },
       {
         "id": "q-en-gram-24-bb-2",
@@ -11596,7 +11596,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Yang paling mendesak dibutuhkan oleh negara-negara berkembang adalah akses langsung ke teknologi medis modern dan vaksin yang terjangkau."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Having reviewed all international literature thoroughly, the doctoral researcher formulated an innovative theoretical hypothesis.\" berarti \"Setelah meninjau seluruh literatur internasional secara mendalam, peneliti doktoral tersebut merumuskan hipotesis teoretis yang inovatif.\"."
+        "explanation": "Kalimat \"Having reviewed all international literature thoroughly, the doctoral researcher formulated an innovative theoretical hypothesis.\" (dibaca: ˈhævɪŋ rɪˈvjuːd ɔːl ˌɪntəˈnæʃnəl ˈlɪtrətʃə ˈθʌrəli, ðə ˈdɒktərəl rɪˈsɜːtʃə ˈfɔːmjʊleɪtɪd ən ˈɪnəvətɪv θɪəˈrɛtɪkl haɪˈpɒθɪsɪs.) berarti \"Setelah meninjau seluruh literatur internasional secara mendalam, peneliti doktoral tersebut merumuskan hipotesis teoretis yang inovatif.\". Kalimat ini menggunakan pola \"Present Participle (V-ing: active) / Past Participle (V3: passive) / Perfect Participle (Having + V3: completed prior action), Main Clause\" (Participle Clauses (-ing and -ed Clauses for Conciseness)) yang berfungsi untuk teknik memadatkan dua klausa menjadi satu klausa partisip yang elegan dan ringkas tanpa konjungsi bertele-tele. Sangat esensial dalam penulisan esai akademis, novel sastra, dan artikel jurnalistik profesional."
       },
       {
         "id": "q-en-gram-25-pg-2",
@@ -11612,7 +11612,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seluruh laboratorium riset farmasi wajib mematuhi secara ketat protokol keselamatan internasional dan standar etika."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Surrounded by majestic snow-capped mountains, the ancient monastery provides a serene sanctuary for spiritual meditation.\" berarti \"Dikelilingi oleh pegunungan megah berselimutkan salju, biara kuno tersebut menyediakan suaka yang hening bagi meditasi spiritual.\"."
+        "explanation": "Kalimat \"Surrounded by majestic snow-capped mountains, the ancient monastery provides a serene sanctuary for spiritual meditation.\" (dibaca: səˈraʊndɪd baɪ məˈdʒɛstɪk snəʊ-kæpt ˈmaʊntɪnz, ði ˈeɪnʃənt ˈmɒnəstəri prəˈvaɪdz ə sɪˈriːn ˈsæŋktjʊəri fɔː ˈspɪrɪtjʊəl ˌmɛdɪˈteɪʃn.) berarti \"Dikelilingi oleh pegunungan megah berselimutkan salju, biara kuno tersebut menyediakan suaka yang hening bagi meditasi spiritual.\". Kalimat ini menggunakan pola \"Present Participle (V-ing: active) / Past Participle (V3: passive) / Perfect Participle (Having + V3: completed prior action), Main Clause\" (Participle Clauses (-ing and -ed Clauses for Conciseness)) yang berfungsi untuk teknik memadatkan dua klausa menjadi satu klausa partisip yang elegan dan ringkas tanpa konjungsi bertele-tele. Sangat esensial dalam penulisan esai akademis, novel sastra, dan artikel jurnalistik profesional."
       },
       {
         "id": "q-en-gram-25-pg-3",
@@ -11628,7 +11628,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Makalah akademis tersebut memberikan wawasan yang mendalam mengenai akar struktural ketimpangan sosial-ekonomi dalam masyarakat pascaperang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Recognizing the urgent threat of climate change, the municipal council introduced comprehensive green energy policies.\" berarti \"Menyadari ancaman mendesak dari perubahan iklim, dewan kotamadya memperkenalkan kebijakan energi hijau yang komprehensif.\"."
+        "explanation": "Kalimat \"Recognizing the urgent threat of climate change, the municipal council introduced comprehensive green energy policies.\" (dibaca: ˈrɛkəgnaɪzɪŋ ði ˈɜːdʒənt θrɛt ɒv ˈklaɪmət tʃeɪndʒ, ðə mjuːˈnɪsɪpl ˈkaʊnsl ˌɪntrəˈdjuːst ˌkɒmprɪˈhɛnsɪv griːn ˈɛnədʒi ˈpɒlɪsiz.) berarti \"Menyadari ancaman mendesak dari perubahan iklim, dewan kotamadya memperkenalkan kebijakan energi hijau yang komprehensif.\". Kalimat ini menggunakan pola \"Present Participle (V-ing: active) / Past Participle (V3: passive) / Perfect Participle (Having + V3: completed prior action), Main Clause\" (Participle Clauses (-ing and -ed Clauses for Conciseness)) yang berfungsi untuk teknik memadatkan dua klausa menjadi satu klausa partisip yang elegan dan ringkas tanpa konjungsi bertele-tele. Sangat esensial dalam penulisan esai akademis, novel sastra, dan artikel jurnalistik profesional."
       },
       {
         "id": "q-en-gram-25-pg-4",
@@ -11935,7 +11935,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Riset terobosannyalah mengenai energi surya terbarukan yang telah menganugerahkan universitas penghargaan inovasi internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Having reviewed all international literature thoroughly, the doctoral researcher formulated an innovative theoretical hypothesis.\" berarti \"Setelah meninjau seluruh literatur internasional secara mendalam, peneliti doktoral tersebut merumuskan hipotesis teoretis yang inovatif.\"."
+        "explanation": "Kalimat \"Having reviewed all international literature thoroughly, the doctoral researcher formulated an innovative theoretical hypothesis.\" (dibaca: ˈhævɪŋ rɪˈvjuːd ɔːl ˌɪntəˈnæʃnəl ˈlɪtrətʃə ˈθʌrəli, ðə ˈdɒktərəl rɪˈsɜːtʃə ˈfɔːmjʊleɪtɪd ən ˈɪnəvətɪv θɪəˈrɛtɪkl haɪˈpɒθɪsɪs.) berarti \"Setelah meninjau seluruh literatur internasional secara mendalam, peneliti doktoral tersebut merumuskan hipotesis teoretis yang inovatif.\". Kalimat ini menggunakan pola \"Present Participle (V-ing: active) / Past Participle (V3: passive) / Perfect Participle (Having + V3: completed prior action), Main Clause\" (Participle Clauses (-ing and -ed Clauses for Conciseness)) yang berfungsi untuk teknik memadatkan dua klausa menjadi satu klausa partisip yang elegan dan ringkas tanpa konjungsi bertele-tele. Sangat esensial dalam penulisan esai akademis, novel sastra, dan artikel jurnalistik profesional."
       },
       {
         "id": "q-en-gram-25-bb-2",
@@ -12084,7 +12084,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Menciptakan lingkungan belajar yang hening dan terang benderang sangatlah kondusif bagi konsentrasi intelektual yang mendalam."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"By the time the international summit concludes next week, the world leaders will have signed a landmark climate accord.\" berarti \"Menjelang saat KTT internasional berakhir minggu depan, para pemimpin dunia akan sudah menandatangani perjanjian iklim bersejarah.\"."
+        "explanation": "Kalimat \"By the time the international summit concludes next week, the world leaders will have signed a landmark climate accord.\" (dibaca: baɪ ðə taɪm ði ˌɪntəˈnæʃnəl ˈsʌmɪt kənˈkluːdz nɛkst wiːk, ðə wɜːld ˈliːdəz wɪl hæv saɪnd ə ˈlændmɑːk ˈklaɪmət əˈkɔːd.) berarti \"Menjelang saat KTT internasional berakhir minggu depan, para pemimpin dunia akan sudah menandatangani perjanjian iklim bersejarah.\". Kalimat ini menggunakan pola \"Future Continuous: will be + V-ing (at a specific future moment) vs Future Perfect: will have + V3 (by a deadline)\" (Future Continuous & Future Perfect (Projecting Time & Completion)) yang berfungsi untuk memproyeksikan rencana masa depan secara presisi: Future Continuous melukiskan aksi yang sedang berlangsung di tengah jalan pada jam tertentu di masa depan, sedangkan Future Perfect menetapkan batas tenggat waktu tuntasnya suatu target (by next year / by 2030)."
       },
       {
         "id": "q-en-gram-26-pg-2",
@@ -12100,7 +12100,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kendati otomatisasi teknologi tak dapat disangkal mendongkrak produktivitas industri, yang mutlak tidak boleh diabaikan oleh para pembuat kebijakan adalah dampaknya yang mendalam terhadap para pekerja berketerampilan rendah yang rentan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"This time next month, our exchange students will be attending lectures at the University of Oxford in the United Kingdom.\" berarti \"Pada waktu seperti ini bulan depan, para mahasiswa pertukaran kami akan sedang mengikuti perkuliahan di Universitas Oxford di Inggris.\"."
+        "explanation": "Kalimat \"This time next month, our exchange students will be attending lectures at the University of Oxford in the United Kingdom.\" (dibaca: ðɪs taɪm nɛkst mʌnθ, ˈaʊər ɪksˈtʃeɪndʒ ˈstjuːdnts wɪl biː əˈtɛndɪŋ ˈlɛktʃəz æt ðə ˌjuːnɪˈvɜːsɪti ɒv ˈɒksfəd ɪn ðə jʊˈnaɪtɪd ˈkɪŋdəm.) berarti \"Pada waktu seperti ini bulan depan, para mahasiswa pertukaran kami akan sedang mengikuti perkuliahan di Universitas Oxford di Inggris.\". Kalimat ini menggunakan pola \"Future Continuous: will be + V-ing (at a specific future moment) vs Future Perfect: will have + V3 (by a deadline)\" (Future Continuous & Future Perfect (Projecting Time & Completion)) yang berfungsi untuk memproyeksikan rencana masa depan secara presisi: Future Continuous melukiskan aksi yang sedang berlangsung di tengah jalan pada jam tertentu di masa depan, sedangkan Future Perfect menetapkan batas tenggat waktu tuntasnya suatu target (by next year / by 2030)."
       },
       {
         "id": "q-en-gram-26-pg-3",
@@ -12116,7 +12116,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dalam kurun waktu lima tahun ke depan, para ilmuwan farmasi modern akan sudah mengembangkan terapi yang lebih efektif bagi penyakit autoimun langka."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"In five years' time, modern pharmaceutical scientists will have developed more effective treatments for rare autoimmune diseases.\" berarti \"Dalam kurun waktu lima tahun ke depan, para ilmuwan farmasi modern akan sudah mengembangkan terapi yang lebih efektif bagi penyakit autoimun langka.\"."
+        "explanation": "Kalimat \"In five years' time, modern pharmaceutical scientists will have developed more effective treatments for rare autoimmune diseases.\" (dibaca: ɪn faɪv jɪəz taɪm, ˈmɒdən ˌfɑːməˈsjuːtɪkl ˈsaɪəntɪsts wɪl hæv dɪˈvɛləpt mɔːr ɪˈfɛktɪv ˈtriːtmənts fɔː reər ˌɔːtəʊɪˈmjuːn dɪˈziːzɪz.) berarti \"Dalam kurun waktu lima tahun ke depan, para ilmuwan farmasi modern akan sudah mengembangkan terapi yang lebih efektif bagi penyakit autoimun langka.\". Kalimat ini menggunakan pola \"Future Continuous: will be + V-ing (at a specific future moment) vs Future Perfect: will have + V3 (by a deadline)\" (Future Continuous & Future Perfect (Projecting Time & Completion)) yang berfungsi untuk memproyeksikan rencana masa depan secara presisi: Future Continuous melukiskan aksi yang sedang berlangsung di tengah jalan pada jam tertentu di masa depan, sedangkan Future Perfect menetapkan batas tenggat waktu tuntasnya suatu target (by next year / by 2030)."
       },
       {
         "id": "q-en-gram-26-pg-4",
@@ -12423,7 +12423,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Menjelang saat KTT internasional berakhir minggu depan, para pemimpin dunia akan sudah menandatangani perjanjian iklim bersejarah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"By the time the international summit concludes next week, the world leaders will have signed a landmark climate accord.\" berarti \"Menjelang saat KTT internasional berakhir minggu depan, para pemimpin dunia akan sudah menandatangani perjanjian iklim bersejarah.\"."
+        "explanation": "Kalimat \"By the time the international summit concludes next week, the world leaders will have signed a landmark climate accord.\" (dibaca: baɪ ðə taɪm ði ˌɪntəˈnæʃnəl ˈsʌmɪt kənˈkluːdz nɛkst wiːk, ðə wɜːld ˈliːdəz wɪl hæv saɪnd ə ˈlændmɑːk ˈklaɪmət əˈkɔːd.) berarti \"Menjelang saat KTT internasional berakhir minggu depan, para pemimpin dunia akan sudah menandatangani perjanjian iklim bersejarah.\". Kalimat ini menggunakan pola \"Future Continuous: will be + V-ing (at a specific future moment) vs Future Perfect: will have + V3 (by a deadline)\" (Future Continuous & Future Perfect (Projecting Time & Completion)) yang berfungsi untuk memproyeksikan rencana masa depan secara presisi: Future Continuous melukiskan aksi yang sedang berlangsung di tengah jalan pada jam tertentu di masa depan, sedangkan Future Perfect menetapkan batas tenggat waktu tuntasnya suatu target (by next year / by 2030)."
       },
       {
         "id": "q-en-gram-26-bb-2",
@@ -12569,7 +12569,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Andai instrumen perlindungan lingkungan yang komprehensif telah diterapkan secara ketat beberapa dekade lalu, degradasi ekologis saat ini niscaya tidak akan sedang mengancam keanekaragaman hayati global."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Urban populations continue to expand rapidly, whereas rural communities face severe demographic decline and labor shortages.\" berarti \"Populasi perkotaan terus berkembang dengan pesat, sedangkan masyarakat pedesaan menghadapi penurunan demografi yang parah dan kelangkaan tenaga kerja.\"."
+        "explanation": "Kalimat \"Urban populations continue to expand rapidly, whereas rural communities face severe demographic decline and labor shortages.\" (dibaca: ˈɜːbən ˌpɒpjʊˈleɪʃnz kənˈtɪnjuː tuː ɪksˈpænd ˈræpɪdli, weərˈæz ˈrʊərəl kəˈmjuːnɪtiz feɪs sɪˈvɪə ˌdɛməˈgræfɪk dɪˈklaɪn ænd ˈleɪbə ˈʃɔːtɪdʒɪz.) berarti \"Populasi perkotaan terus berkembang dengan pesat, sedangkan masyarakat pedesaan menghadapi penurunan demografi yang parah dan kelangkaan tenaga kerja.\". Kalimat ini menggunakan pola \"Contrast: whereas / while / on the contrary; Concession: nonetheless / nevertheless / in spite of (+ Noun/-ing); Addition: furthermore / moreover\" (Advanced Linking Words & Discourse Markers (whereas, nonetheless, in spite of)) yang berfungsi untuk membangun kepadatan retorika esai akademis dengan kata hubung wacana tingkat tinggi. Menghubungkan ide-ide kompleks dengan kontras yang tajam (whereas), konsesi elegan (nonetheless, despite), dan penambahan argumentatif (moreover)."
       },
       {
         "id": "q-en-gram-27-pg-2",
@@ -12585,7 +12585,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Uji coba farmasi eksperimental tersebut menghadapi rintangan birokrasi yang substansial; kendati demikian, para peneliti bertahan gigih dan meraih kesuksesan luar biasa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"The experimental pharmaceutical trial faced substantial bureaucratic hurdles; nonetheless, the researchers persevered and achieved remarkable success.\" berarti \"Uji coba farmasi eksperimental tersebut menghadapi rintangan birokrasi yang substansial; kendati demikian, para peneliti bertahan gigih dan meraih kesuksesan luar biasa.\"."
+        "explanation": "Kalimat \"The experimental pharmaceutical trial faced substantial bureaucratic hurdles; nonetheless, the researchers persevered and achieved remarkable success.\" (dibaca: ði ɪksˌpɛrɪˈmɛntl ˌfɑːməˈsjuːtɪkl ˈtraɪəl feɪst səbˈstænʃəl ˌbjʊərəˈkrætɪk ˈhɜːdlz; ˌnʌnðəˈlɛs, ðə rɪˈsɜːtʃəz ˌpɜːsɪˈvɪəd ænd əˈtʃiːvd rɪˈmɑːkəbl səkˈsɛs.) berarti \"Uji coba farmasi eksperimental tersebut menghadapi rintangan birokrasi yang substansial; kendati demikian, para peneliti bertahan gigih dan meraih kesuksesan luar biasa.\". Kalimat ini menggunakan pola \"Contrast: whereas / while / on the contrary; Concession: nonetheless / nevertheless / in spite of (+ Noun/-ing); Addition: furthermore / moreover\" (Advanced Linking Words & Discourse Markers (whereas, nonetheless, in spite of)) yang berfungsi untuk membangun kepadatan retorika esai akademis dengan kata hubung wacana tingkat tinggi. Menghubungkan ide-ide kompleks dengan kontras yang tajam (whereas), konsesi elegan (nonetheless, despite), dan penambahan argumentatif (moreover)."
       },
       {
         "id": "q-en-gram-27-pg-3",
@@ -12601,7 +12601,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Andai para insinyur mengetahui cacat struktural tersebut sebelumnya, mereka pasti sudah langsung menghentikan konstruksi seketika."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"In spite of facing severe budget constraints, the university library maintained its comprehensive digital journal subscription for all students.\" berarti \"Meskipun menghadapi pembatasan anggaran yang ketat, perpustakaan universitas tetap mempertahankan langganan jurnal digital komprehensif bagi seluruh mahasiswa.\"."
+        "explanation": "Kalimat \"In spite of facing severe budget constraints, the university library maintained its comprehensive digital journal subscription for all students.\" (dibaca: ɪn spaɪt ɒv ˈfeɪsɪŋ sɪˈvɪə ˈbʌdʒɪt kənˈstreɪnts, ðə ˌjuːnɪˈvɜːsɪti ˈlaɪbrəri meɪnˈteɪnd ɪts ˌkɒmprɪˈhɛnsɪv ˈdɪdʒɪtl ˈdʒɜːnl səbˈskrɪpʃn fɔːr ɔːl ˈstjuːdnts.) berarti \"Meskipun menghadapi pembatasan anggaran yang ketat, perpustakaan universitas tetap mempertahankan langganan jurnal digital komprehensif bagi seluruh mahasiswa.\". Kalimat ini menggunakan pola \"Contrast: whereas / while / on the contrary; Concession: nonetheless / nevertheless / in spite of (+ Noun/-ing); Addition: furthermore / moreover\" (Advanced Linking Words & Discourse Markers (whereas, nonetheless, in spite of)) yang berfungsi untuk membangun kepadatan retorika esai akademis dengan kata hubung wacana tingkat tinggi. Menghubungkan ide-ide kompleks dengan kontras yang tajam (whereas), konsesi elegan (nonetheless, despite), dan penambahan argumentatif (moreover)."
       },
       {
         "id": "q-en-gram-27-pg-4",
@@ -12908,7 +12908,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kendati otomatisasi teknologi tak dapat disangkal mendongkrak produktivitas industri, yang mutlak tidak boleh diabaikan oleh para pembuat kebijakan adalah dampaknya yang mendalam terhadap para pekerja berketerampilan rendah yang rentan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Urban populations continue to expand rapidly, whereas rural communities face severe demographic decline and labor shortages.\" berarti \"Populasi perkotaan terus berkembang dengan pesat, sedangkan masyarakat pedesaan menghadapi penurunan demografi yang parah dan kelangkaan tenaga kerja.\"."
+        "explanation": "Kalimat \"Urban populations continue to expand rapidly, whereas rural communities face severe demographic decline and labor shortages.\" (dibaca: ˈɜːbən ˌpɒpjʊˈleɪʃnz kənˈtɪnjuː tuː ɪksˈpænd ˈræpɪdli, weərˈæz ˈrʊərəl kəˈmjuːnɪtiz feɪs sɪˈvɪə ˌdɛməˈgræfɪk dɪˈklaɪn ænd ˈleɪbə ˈʃɔːtɪdʒɪz.) berarti \"Populasi perkotaan terus berkembang dengan pesat, sedangkan masyarakat pedesaan menghadapi penurunan demografi yang parah dan kelangkaan tenaga kerja.\". Kalimat ini menggunakan pola \"Contrast: whereas / while / on the contrary; Concession: nonetheless / nevertheless / in spite of (+ Noun/-ing); Addition: furthermore / moreover\" (Advanced Linking Words & Discourse Markers (whereas, nonetheless, in spite of)) yang berfungsi untuk membangun kepadatan retorika esai akademis dengan kata hubung wacana tingkat tinggi. Menghubungkan ide-ide kompleks dengan kontras yang tajam (whereas), konsesi elegan (nonetheless, despite), dan penambahan argumentatif (moreover)."
       },
       {
         "id": "q-en-gram-27-bb-2",
@@ -13056,7 +13056,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Riset terobosannyalah mengenai energi surya terbarukan yang telah menganugerahkan universitas penghargaan inovasi internasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"It was her groundbreaking research on renewable solar energy that earned the university an international innovation award.\" berarti \"Riset terobosannyalah mengenai energi surya terbarukan yang telah menganugerahkan universitas penghargaan inovasi internasional.\"."
+        "explanation": "Kalimat \"It was her groundbreaking research on renewable solar energy that earned the university an international innovation award.\" (dibaca: ɪt wɒz hɜː ˈgraʊndˌbreɪkɪŋ rɪˈsɜːtʃ ɒn rɪˈnjuːəbl ˈsəʊlər ˈɛnədʒi ðæt ɜːnd ðə ˌjuːnɪˈvɜːsɪti ən ˌɪntəˈnæʃnəl ˌɪnəˈveɪʃn əˈwɔːd.) berarti \"Riset terobosannyalah mengenai energi surya terbarukan yang telah menganugerahkan universitas penghargaan inovasi internasional.\". Kalimat ini menggunakan pola \"It-cleft: It + is/was + [Focused Element] + that/who... / Wh-cleft: What + [Clause] + is/was + [Focused Element]\" (Cleft Sentences for Emphasis (It is... that, What I need is...)) yang berfungsi untuk teknik retorika 'membelah' (cleft) satu kalimat biasa menjadi dua bagian untuk memberikan sorotan lampu sorot (fokus penekanan dramatis) pada pelaku, waktu, tempat, atau inti pesan yang ingin ditonjolkan."
       },
       {
         "id": "q-en-gram-28-pg-2",
@@ -13072,7 +13072,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap saya mampu bertutur berbagai bahasa asing dengan fasih sehingga saya dapat bekerja sebagai juru bahasa diplomatik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"What the developing nations require most urgently is direct access to modern medical technologies and affordable vaccines.\" berarti \"Yang paling mendesak dibutuhkan oleh negara-negara berkembang adalah akses langsung ke teknologi medis modern dan vaksin yang terjangkau.\"."
+        "explanation": "Kalimat \"What the developing nations require most urgently is direct access to modern medical technologies and affordable vaccines.\" (dibaca: wɒt ðə dɪˈvɛləpɪŋ ˈneɪʃnz rɪˈkwaɪə məʊst ˈɜːdʒəntli ɪz daɪˈrɛkt ˈæksɛs tuː ˈmɒdən ˈmɛdɪkl tɛkˈnɒlədʒiz ænd əˈfɔːdəbl ˈvæksiːnz.) berarti \"Yang paling mendesak dibutuhkan oleh negara-negara berkembang adalah akses langsung ke teknologi medis modern dan vaksin yang terjangkau.\". Kalimat ini menggunakan pola \"It-cleft: It + is/was + [Focused Element] + that/who... / Wh-cleft: What + [Clause] + is/was + [Focused Element]\" (Cleft Sentences for Emphasis (It is... that, What I need is...)) yang berfungsi untuk teknik retorika 'membelah' (cleft) satu kalimat biasa menjadi dua bagian untuk memberikan sorotan lampu sorot (fokus penekanan dramatis) pada pelaku, waktu, tempat, atau inti pesan yang ingin ditonjolkan."
       },
       {
         "id": "q-en-gram-28-pg-3",
@@ -13088,7 +13088,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap para tetangga mau berhenti memutar musik elektronik kencang larut malam saat orang lain sedang berusaha tidur."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"It was not until the late nineteenth century that women were officially admitted to degree programs at the university.\" berarti \"Baru pada akhir abad kesembilan belaslah kaum perempuan secara resmi diterima di program-program kesarjanaan di universitas tersebut.\"."
+        "explanation": "Kalimat \"It was not until the late nineteenth century that women were officially admitted to degree programs at the university.\" (dibaca: ɪt wɒz nɒt ənˈtɪl ðə leɪt ˈnaɪnˈtiːnθ ˈsɛntʃʊri ðæt ˈwɪmɪn wɜːr əˈfɪʃəli ədˈmɪtɪd tuː dɪˈgriː ˈprəʊgræmz æt ðə ˌjuːnɪˈvɜːsɪti.) berarti \"Baru pada akhir abad kesembilan belaslah kaum perempuan secara resmi diterima di program-program kesarjanaan di universitas tersebut.\". Kalimat ini menggunakan pola \"It-cleft: It + is/was + [Focused Element] + that/who... / Wh-cleft: What + [Clause] + is/was + [Focused Element]\" (Cleft Sentences for Emphasis (It is... that, What I need is...)) yang berfungsi untuk teknik retorika 'membelah' (cleft) satu kalimat biasa menjadi dua bagian untuk memberikan sorotan lampu sorot (fokus penekanan dramatis) pada pelaku, waktu, tempat, atau inti pesan yang ingin ditonjolkan."
       },
       {
         "id": "q-en-gram-28-pg-4",
@@ -13395,7 +13395,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya pemerintah berinvestasi lebih awal dalam infrastruktur penanggulangan banjir, kerusakan katastropik tersebut niscaya sudah dapat dihindari."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"It was her groundbreaking research on renewable solar energy that earned the university an international innovation award.\" berarti \"Riset terobosannyalah mengenai energi surya terbarukan yang telah menganugerahkan universitas penghargaan inovasi internasional.\"."
+        "explanation": "Kalimat \"It was her groundbreaking research on renewable solar energy that earned the university an international innovation award.\" (dibaca: ɪt wɒz hɜː ˈgraʊndˌbreɪkɪŋ rɪˈsɜːtʃ ɒn rɪˈnjuːəbl ˈsəʊlər ˈɛnədʒi ðæt ɜːnd ðə ˌjuːnɪˈvɜːsɪti ən ˌɪntəˈnæʃnəl ˌɪnəˈveɪʃn əˈwɔːd.) berarti \"Riset terobosannyalah mengenai energi surya terbarukan yang telah menganugerahkan universitas penghargaan inovasi internasional.\". Kalimat ini menggunakan pola \"It-cleft: It + is/was + [Focused Element] + that/who... / Wh-cleft: What + [Clause] + is/was + [Focused Element]\" (Cleft Sentences for Emphasis (It is... that, What I need is...)) yang berfungsi untuk teknik retorika 'membelah' (cleft) satu kalimat biasa menjadi dua bagian untuk memberikan sorotan lampu sorot (fokus penekanan dramatis) pada pelaku, waktu, tempat, atau inti pesan yang ingin ditonjolkan."
       },
       {
         "id": "q-en-gram-28-bb-2",
@@ -13549,7 +13549,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Andai saja dulu kita mengambil tindakan proaktif lebih awal, seluruh bencana ekologis tersebut niscaya sudah dapat dicegah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"All pharmaceutical research laboratories must adhere strictly to international safety protocols and ethical standards.\" berarti \"Seluruh laboratorium riset farmasi wajib mematuhi secara ketat protokol keselamatan internasional dan standar etika.\"."
+        "explanation": "Kalimat \"All pharmaceutical research laboratories must adhere strictly to international safety protocols and ethical standards.\" (dibaca: ɔːl ˌfɑːməˈsjuːtɪkl rɪˈsɜːtʃ ˈlæbrətəriz mʌst ədˈhɪə ˈstrɪktli tuː ˌɪntəˈnæʃnəl ˈseɪfti ˈprəʊtəkɒlz ænd ˈɛθɪkl ˈstændədz.) berarti \"Seluruh laboratorium riset farmasi wajib mematuhi secara ketat protokol keselamatan internasional dan standar etika.\". Kalimat ini menggunakan pola \"Verb / Adjective / Noun + Specific Dependent Preposition (adhere to, abstain from, prone to, insight into)\" (Dependent Prepositions & Collocations in Formal Registers) yang berfungsi untuk menguasai kolokasi preposisi terikat (dependent prepositions) yang melekat secara kaku pada kata kerja dan kata sifat tingkat lanjut. Kesalahan pemilihan preposisi adalah kekeliruan nomor satu yang sering menjegal peserta tes IELTS dan TOEFL."
       },
       {
         "id": "q-en-gram-29-pg-2",
@@ -13565,7 +13565,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Istana kuno megah tersebut pastilah telah dibangun oleh ribuan pengrajin batu berketerampilan tinggi selama beberapa dekade."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Creating a quiet and well-lit study environment is exceptionally conducive to deep intellectual concentration.\" berarti \"Menciptakan lingkungan belajar yang hening dan terang benderang sangatlah kondusif bagi konsentrasi intelektual yang mendalam.\"."
+        "explanation": "Kalimat \"Creating a quiet and well-lit study environment is exceptionally conducive to deep intellectual concentration.\" (dibaca: kriːˈeɪtɪŋ ə ˈkwaɪət ænd wɛl-lɪt ˈstʌdi ɪnˈvaɪərənmənt ɪz ɪkˈsɛpʃnəli kənˈdjuːsɪv tuː diːp ˌɪntɪˈlɛktʃʊəl ˌkɒnsənˈtreɪʃn.) berarti \"Menciptakan lingkungan belajar yang hening dan terang benderang sangatlah kondusif bagi konsentrasi intelektual yang mendalam.\". Kalimat ini menggunakan pola \"Verb / Adjective / Noun + Specific Dependent Preposition (adhere to, abstain from, prone to, insight into)\" (Dependent Prepositions & Collocations in Formal Registers) yang berfungsi untuk menguasai kolokasi preposisi terikat (dependent prepositions) yang melekat secara kaku pada kata kerja dan kata sifat tingkat lanjut. Kesalahan pemilihan preposisi adalah kekeliruan nomor satu yang sering menjegal peserta tes IELTS dan TOEFL."
       },
       {
         "id": "q-en-gram-29-pg-3",
@@ -13581,7 +13581,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Hasil laboratorium tidak konsisten; sampel tersebut mungkin telah terkontaminasi selama proses pengumpulan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"The academic paper provides profound insights into the structural causes of socio-economic inequality in post-war societies.\" berarti \"Makalah akademis tersebut memberikan wawasan yang mendalam mengenai akar struktural ketimpangan sosial-ekonomi dalam masyarakat pascaperang.\"."
+        "explanation": "Kalimat \"The academic paper provides profound insights into the structural causes of socio-economic inequality in post-war societies.\" (dibaca: ði ˌækəˈdɛmɪk ˈpeɪpə prəˈvaɪdz prəˈfaʊnd ˈɪnsaɪts ˈɪntuː ðə ˈstrʌktʃərəl ˈkɔːzɪz ɒv ˌsəʊsɪəʊ-ˌiːkəˈnɒmɪk ˌɪnɪˈkwɒlɪti ɪn pəʊst-wɔː səˈsaɪətiz.) berarti \"Makalah akademis tersebut memberikan wawasan yang mendalam mengenai akar struktural ketimpangan sosial-ekonomi dalam masyarakat pascaperang.\". Kalimat ini menggunakan pola \"Verb / Adjective / Noun + Specific Dependent Preposition (adhere to, abstain from, prone to, insight into)\" (Dependent Prepositions & Collocations in Formal Registers) yang berfungsi untuk menguasai kolokasi preposisi terikat (dependent prepositions) yang melekat secara kaku pada kata kerja dan kata sifat tingkat lanjut. Kesalahan pemilihan preposisi adalah kekeliruan nomor satu yang sering menjegal peserta tes IELTS dan TOEFL."
       },
       {
         "id": "q-en-gram-29-pg-4",
@@ -13888,7 +13888,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Saya berharap saya mampu bertutur berbagai bahasa asing dengan fasih sehingga saya dapat bekerja sebagai juru bahasa diplomatik."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"All pharmaceutical research laboratories must adhere strictly to international safety protocols and ethical standards.\" berarti \"Seluruh laboratorium riset farmasi wajib mematuhi secara ketat protokol keselamatan internasional dan standar etika.\"."
+        "explanation": "Kalimat \"All pharmaceutical research laboratories must adhere strictly to international safety protocols and ethical standards.\" (dibaca: ɔːl ˌfɑːməˈsjuːtɪkl rɪˈsɜːtʃ ˈlæbrətəriz mʌst ədˈhɪə ˈstrɪktli tuː ˌɪntəˈnæʃnəl ˈseɪfti ˈprəʊtəkɒlz ænd ˈɛθɪkl ˈstændədz.) berarti \"Seluruh laboratorium riset farmasi wajib mematuhi secara ketat protokol keselamatan internasional dan standar etika.\". Kalimat ini menggunakan pola \"Verb / Adjective / Noun + Specific Dependent Preposition (adhere to, abstain from, prone to, insight into)\" (Dependent Prepositions & Collocations in Formal Registers) yang berfungsi untuk menguasai kolokasi preposisi terikat (dependent prepositions) yang melekat secara kaku pada kata kerja dan kata sifat tingkat lanjut. Kesalahan pemilihan preposisi adalah kekeliruan nomor satu yang sering menjegal peserta tes IELTS dan TOEFL."
       },
       {
         "id": "q-en-gram-29-bb-2",
@@ -14037,7 +14037,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tersangka mustahil telah melakukan penggelapan keuangan tersebut karena catatan perjalanan internasional membuktikan dia sedang berada di luar negeri."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"While technological automation undeniably boosts industrial productivity, what policymakers must not overlook is its profound impact on vulnerable low-skilled laborers.\" berarti \"Kendati otomatisasi teknologi tak dapat disangkal mendongkrak produktivitas industri, yang mutlak tidak boleh diabaikan oleh para pembuat kebijakan adalah dampaknya yang mendalam terhadap para pekerja berketerampilan rendah yang rentan.\"."
+        "explanation": "Kalimat \"While technological automation undeniably boosts industrial productivity, what policymakers must not overlook is its profound impact on vulnerable low-skilled laborers.\" (dibaca: waɪl ˌtɛknəˈlɒdʒɪkl ˌɔːtəˈmeɪʃn ˌʌndɪˈnaɪəbli buːsts ɪnˈdʌstrɪəl ˌprɒdʌkˈtɪvɪti, wɒt ˈpɒlɪsiˌmeɪkəz mʌst nɒt ˌəʊvəˈlʊk ɪz ɪts prəˈfaʊnd ˈɪmpækt ɒn ˈvʌlnərəbl ləʊ-skɪld ˈleɪbərəz.) berarti \"Kendati otomatisasi teknologi tak dapat disangkal mendongkrak produktivitas industri, yang mutlak tidak boleh diabaikan oleh para pembuat kebijakan adalah dampaknya yang mendalam terhadap para pekerja berketerampilan rendah yang rentan.\". Kalimat ini menggunakan pola \"B2 Discursive Essay Framework (Introduction, Body Paragraphs, Counter-argument, Conclusion)\" (B2 Professional Fluency & Academic Essay Architecture (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B2 Vantage User (Fasih Profesional): menguasai arsitektur penulisan esai argumentatif 250 kata berstandar IELTS Band 6.5 - 7.5 dan memimpin diskusi negosiasi bisnis internasional."
       },
       {
         "id": "q-en-gram-30-pg-2",
@@ -14053,7 +14053,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kami berencana untuk menyewa jasa pengecatan ulang dan modernisasi seluruh gedung kantor pusat sebelum konferensi tahunan berlangsung."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Had comprehensive environmental safeguards been strictly implemented decades ago, the current ecological degradation would not be threatening global biodiversity.\" berarti \"Andai instrumen perlindungan lingkungan yang komprehensif telah diterapkan secara ketat beberapa dekade lalu, degradasi ekologis saat ini niscaya tidak akan sedang mengancam keanekaragaman hayati global.\"."
+        "explanation": "Kalimat \"Had comprehensive environmental safeguards been strictly implemented decades ago, the current ecological degradation would not be threatening global biodiversity.\" (dibaca: hæd ˌkɒmprɪˈhɛnsɪv ɪnˌvaɪrənˈmɛntl ˈseɪfgɑːdz biːn ˈstrɪktli ˈɪmplɪmɛntɪd ˈdɛkeɪdz əˈgəʊ, ðə ˈkʌrənt ˌiːkəˈlɒdʒɪkl ˌdɛgrəˈdeɪʃn wʊd nɒt biː ˈθrɛtnɪŋ ˈgləʊbl ˌbaɪəʊdaɪˈvɜːsɪti.) berarti \"Andai instrumen perlindungan lingkungan yang komprehensif telah diterapkan secara ketat beberapa dekade lalu, degradasi ekologis saat ini niscaya tidak akan sedang mengancam keanekaragaman hayati global.\". Kalimat ini menggunakan pola \"B2 Discursive Essay Framework (Introduction, Body Paragraphs, Counter-argument, Conclusion)\" (B2 Professional Fluency & Academic Essay Architecture (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B2 Vantage User (Fasih Profesional): menguasai arsitektur penulisan esai argumentatif 250 kata berstandar IELTS Band 6.5 - 7.5 dan memimpin diskusi negosiasi bisnis internasional."
       },
       {
         "id": "q-en-gram-30-pg-3",
@@ -14069,7 +14069,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Sebagai kesimpulan, pertumbuhan ekonomi berkelanjutan terikat tak terpisahkan dengan inovasi teknologi; kendati demikian, keadilan sosial harus tetap menjadi batu penjuru dari seluruh kebijakan pembangunan masa depan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"In conclusion, sustainable economic growth is inextricably linked to technological innovation; nonetheless, social equity must remain the cornerstone of all future development policies.\" berarti \"Sebagai kesimpulan, pertumbuhan ekonomi berkelanjutan terikat tak terpisahkan dengan inovasi teknologi; kendati demikian, keadilan sosial harus tetap menjadi batu penjuru dari seluruh kebijakan pembangunan masa depan.\"."
+        "explanation": "Kalimat \"In conclusion, sustainable economic growth is inextricably linked to technological innovation; nonetheless, social equity must remain the cornerstone of all future development policies.\" (dibaca: ɪn kənˈkluːʒn, səsˈteɪnəbl ˌiːkəˈnɒmɪk grəʊθ ɪz ˌɪnɪkˈstrɪkəbli lɪŋkt tuː ˌtɛknəˈlɒdʒɪkl ˌɪnəˈveɪʃn; ˌnʌnðəˈlɛs, ˈsəʊʃl ˈɛkwɪti mʌst rɪˈmeɪn ðə ˈkɔːnəstəʊn ɒv ɔːl ˈfjuːtʃə dɪˈvɛləpmənt ˈpɒlɪsiz.) berarti \"Sebagai kesimpulan, pertumbuhan ekonomi berkelanjutan terikat tak terpisahkan dengan inovasi teknologi; kendati demikian, keadilan sosial harus tetap menjadi batu penjuru dari seluruh kebijakan pembangunan masa depan.\". Kalimat ini menggunakan pola \"B2 Discursive Essay Framework (Introduction, Body Paragraphs, Counter-argument, Conclusion)\" (B2 Professional Fluency & Academic Essay Architecture (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B2 Vantage User (Fasih Profesional): menguasai arsitektur penulisan esai argumentatif 250 kata berstandar IELTS Band 6.5 - 7.5 dan memimpin diskusi negosiasi bisnis internasional."
       },
       {
         "id": "q-en-gram-30-pg-4",
@@ -14376,7 +14376,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kendati otomatisasi teknologi tak dapat disangkal mendongkrak produktivitas industri, yang mutlak tidak boleh diabaikan oleh para pembuat kebijakan adalah dampaknya yang mendalam terhadap para pekerja berketerampilan rendah yang rentan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"While technological automation undeniably boosts industrial productivity, what policymakers must not overlook is its profound impact on vulnerable low-skilled laborers.\" berarti \"Kendati otomatisasi teknologi tak dapat disangkal mendongkrak produktivitas industri, yang mutlak tidak boleh diabaikan oleh para pembuat kebijakan adalah dampaknya yang mendalam terhadap para pekerja berketerampilan rendah yang rentan.\"."
+        "explanation": "Kalimat \"While technological automation undeniably boosts industrial productivity, what policymakers must not overlook is its profound impact on vulnerable low-skilled laborers.\" (dibaca: waɪl ˌtɛknəˈlɒdʒɪkl ˌɔːtəˈmeɪʃn ˌʌndɪˈnaɪəbli buːsts ɪnˈdʌstrɪəl ˌprɒdʌkˈtɪvɪti, wɒt ˈpɒlɪsiˌmeɪkəz mʌst nɒt ˌəʊvəˈlʊk ɪz ɪts prəˈfaʊnd ˈɪmpækt ɒn ˈvʌlnərəbl ləʊ-skɪld ˈleɪbərəz.) berarti \"Kendati otomatisasi teknologi tak dapat disangkal mendongkrak produktivitas industri, yang mutlak tidak boleh diabaikan oleh para pembuat kebijakan adalah dampaknya yang mendalam terhadap para pekerja berketerampilan rendah yang rentan.\". Kalimat ini menggunakan pola \"B2 Discursive Essay Framework (Introduction, Body Paragraphs, Counter-argument, Conclusion)\" (B2 Professional Fluency & Academic Essay Architecture (Mastery Unit)) yang berfungsi untuk puncak pencapaian taraf B2 Vantage User (Fasih Profesional): menguasai arsitektur penulisan esai argumentatif 250 kata berstandar IELTS Band 6.5 - 7.5 dan memimpin diskusi negosiasi bisnis internasional."
       },
       {
         "id": "q-en-gram-30-bb-2",
@@ -14524,7 +14524,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Andaikata negosiasi perdagangan multilateral mengalami kebuntuan berkepanjangan, negara-negara berkembang akan mengalami pelarian modal yang tidak proporsional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions.\" berarti \"Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.\"."
+        "explanation": "Kalimat \"Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions.\" (dibaca: ˈsɛldəm hæv ˌɪntəˈnæʃnəl ˌmækrəʊˌiːkəˈnɒmɪk ˈɪndɪkeɪtəz ʃəʊn sʌtʃ prəˈfaʊnd rɪˈzɪlɪəns əˈmɪdst ˈgləʊbl səˈplaɪ dɪsˈrʌpʃnz.) berarti \"Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.\". Kalimat ini menggunakan pola \"Negative/Restrictive Adverb (Seldom / Never / Hardly / Not only / Under no circumstances) + Auxiliary Verb + Subject + Main Verb\" (Negative Inversion & Emphatic Fronting (Formal Rhetorical Emphasis)) yang berfungsi untuk negative Inversion adalah teknik retorika tingkat mahir yang memindahkan adverbia bernada negatif atau restriktif ke awal kalimat. Pola ini memicu susunan inversi kata kerja bantu (auxiliary verb) sebelum subjek seperti struktur kalimat tanya, menghasilkan nuansa dramatis, sastrawi, dan sangat berbobot."
       },
       {
         "id": "q-en-gram-31-pg-2",
@@ -14540,7 +14540,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dalam kondisi apa pun para staf pengajar universitas tidak diizinkan mengungkap transkrip ujian doktoral yang dilindungi hak cipta kepada pihak ketiga."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Under no circumstances may academic faculty members disclose proprietary doctoral examination transcripts to third-party entities.\" berarti \"Dalam kondisi apa pun para staf pengajar universitas tidak diizinkan mengungkap transkrip ujian doktoral yang dilindungi hak cipta kepada pihak ketiga.\"."
+        "explanation": "Kalimat \"Under no circumstances may academic faculty members disclose proprietary doctoral examination transcripts to third-party entities.\" (dibaca: ˈʌndə nəʊ ˈsɜːkəmstænsɪz meɪ ˌækəˈdɛmɪk ˈfæklti ˈmɛmbəz dɪsˈkləʊz prəˈpraɪətəri ˈdɒktərəl ɪgˌzæmɪˈneɪʃn ˈtrænskrɪpts tuː ˈθɜːdˌpɑːti ˈɛntɪtiz.) berarti \"Dalam kondisi apa pun para staf pengajar universitas tidak diizinkan mengungkap transkrip ujian doktoral yang dilindungi hak cipta kepada pihak ketiga.\". Kalimat ini menggunakan pola \"Negative/Restrictive Adverb (Seldom / Never / Hardly / Not only / Under no circumstances) + Auxiliary Verb + Subject + Main Verb\" (Negative Inversion & Emphatic Fronting (Formal Rhetorical Emphasis)) yang berfungsi untuk negative Inversion adalah teknik retorika tingkat mahir yang memindahkan adverbia bernada negatif atau restriktif ke awal kalimat. Pola ini memicu susunan inversi kata kerja bantu (auxiliary verb) sebelum subjek seperti struktur kalimat tanya, menghasilkan nuansa dramatis, sastrawi, dan sangat berbobot."
       },
       {
         "id": "q-en-gram-31-pg-3",
@@ -14556,7 +14556,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan pelimpahan wewenang statutori di bawah Piagam Keselamatan Maritim, otoritas pelabuhan menyita kapal yang tidak laik laut tersebut."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"No sooner had the central bank announced the policy revision than global bond yields fluctuated unpredictably.\" berarti \"Begitu bank sentral mengumumkan revisi kebijakan moneter, imbal hasil obligasi global langsung berfluktuasi tanpa terduga.\"."
+        "explanation": "Kalimat \"No sooner had the central bank announced the policy revision than global bond yields fluctuated unpredictably.\" (dibaca: nəʊ ˈsuːnə hæd ðə ˈsɛntrəl bæŋk əˈnaʊnst ðə ˈpɒlɪsi rɪˈvɪʒn ðæn ˈgləʊbl bɒnd jiːldz ˈflʌktʃʊeɪtɪd ˌʌnprɪˈdɪktəbli.) berarti \"Begitu bank sentral mengumumkan revisi kebijakan moneter, imbal hasil obligasi global langsung berfluktuasi tanpa terduga.\". Kalimat ini menggunakan pola \"Negative/Restrictive Adverb (Seldom / Never / Hardly / Not only / Under no circumstances) + Auxiliary Verb + Subject + Main Verb\" (Negative Inversion & Emphatic Fronting (Formal Rhetorical Emphasis)) yang berfungsi untuk negative Inversion adalah teknik retorika tingkat mahir yang memindahkan adverbia bernada negatif atau restriktif ke awal kalimat. Pola ini memicu susunan inversi kata kerja bantu (auxiliary verb) sebelum subjek seperti struktur kalimat tanya, menghasilkan nuansa dramatis, sastrawi, dan sangat berbobot."
       },
       {
         "id": "q-en-gram-31-pg-4",
@@ -14863,7 +14863,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions.\" berarti \"Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.\"."
+        "explanation": "Kalimat \"Seldom have international macroeconomic indicators shown such profound resilience amidst global supply disruptions.\" (dibaca: ˈsɛldəm hæv ˌɪntəˈnæʃnəl ˌmækrəʊˌiːkəˈnɒmɪk ˈɪndɪkeɪtəz ʃəʊn sʌtʃ prəˈfaʊnd rɪˈzɪlɪəns əˈmɪdst ˈgləʊbl səˈplaɪ dɪsˈrʌpʃnz.) berarti \"Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global.\". Kalimat ini menggunakan pola \"Negative/Restrictive Adverb (Seldom / Never / Hardly / Not only / Under no circumstances) + Auxiliary Verb + Subject + Main Verb\" (Negative Inversion & Emphatic Fronting (Formal Rhetorical Emphasis)) yang berfungsi untuk negative Inversion adalah teknik retorika tingkat mahir yang memindahkan adverbia bernada negatif atau restriktif ke awal kalimat. Pola ini memicu susunan inversi kata kerja bantu (auxiliary verb) sebelum subjek seperti struktur kalimat tanya, menghasilkan nuansa dramatis, sastrawi, dan sangat berbobot."
       },
       {
         "id": "q-en-gram-31-bb-2",
@@ -15011,7 +15011,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation.\" berarti \"Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.\"."
+        "explanation": "Kalimat \"The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation.\" (dibaca: ði ˌækəˈdɛmɪk ˈɛθɪks kəˈmɪti ˌrɛkəˈmɛndɪd ðæt ðə prəˈfɛsəz rɪˈsɜːtʃ grɑːnt biː ˈtɛmpərərəli səˈspɛndɪd ˈpɛndɪŋ ˈθʌrə ɪnˌvɛstɪˈgeɪʃn.) berarti \"Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.\". Kalimat ini menggunakan pola \"Subjunctive Verb (mandate / insist / recommend / require) + that + Subject + [Bare Infinitive: be / study / refrain] (tanpa -s atau modifikasi tenses)\" (The Subjunctive Mood in Formal Mandates & Nuanced Recommendations) yang berfungsi untuk mandative Subjunctive digunakan dalam bahasa hukum, administrasi universitas, dan komunikasi tingkat tinggi untuk menyatakan tuntutan, rekomendasi resmi, atau keharusan mutlak. Ciri khas utamanya adalah kata kerja anak kalimat selalu berbentuk bare infinitive (infinitive murni tanpa akhiran -s, -ed, atau was/were)."
       },
       {
         "id": "q-en-gram-32-pg-2",
@@ -15027,7 +15027,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"It is essential that each doctoral dissertation incorporate an exhaustive, peer-reviewed methodological framework.\" berarti \"Sangat esensial bahwa setiap disertasi doktoral memasukkan kerangka metodologi yang komprehensif dan telah ditinjau sejawat.\"."
+        "explanation": "Kalimat \"It is essential that each doctoral dissertation incorporate an exhaustive, peer-reviewed methodological framework.\" (dibaca: ɪt ɪz ɪˈsɛnʃl ðæt iːtʃ ˈdɒktərəl ˌdɪsəˈteɪʃn ɪnˈkɔːpəreɪt ən ɪgˈzɔːstɪv, pɪə-rɪˈvjuːd ˌmɛθədəˈlɒdʒɪkl ˈfreɪmwɜːk.) berarti \"Sangat esensial bahwa setiap disertasi doktoral memasukkan kerangka metodologi yang komprehensif dan telah ditinjau sejawat.\". Kalimat ini menggunakan pola \"Subjunctive Verb (mandate / insist / recommend / require) + that + Subject + [Bare Infinitive: be / study / refrain] (tanpa -s atau modifikasi tenses)\" (The Subjunctive Mood in Formal Mandates & Nuanced Recommendations) yang berfungsi untuk mandative Subjunctive digunakan dalam bahasa hukum, administrasi universitas, dan komunikasi tingkat tinggi untuk menyatakan tuntutan, rekomendasi resmi, atau keharusan mutlak. Ciri khas utamanya adalah kata kerja anak kalimat selalu berbentuk bare infinitive (infinitive murni tanpa akhiran -s, -ed, atau was/were)."
       },
       {
         "id": "q-en-gram-32-pg-3",
@@ -15043,7 +15043,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Mandat komisi tersebut bersifat ganda: mengungkap kegagalan regulasi yang sistematis dan melembagakan mekanisme pengawasan yang bebas korupsi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"The treaty mandates that participating sovereign states refrain from unilateral militarisation of the disputed maritime corridor.\" berarti \"Perjanjian tersebut memandatkan agar negara-negara berdaulat yang berpartisipasi menahan diri dari militerisasi sepihak di koridor maritim yang disengketakan.\"."
+        "explanation": "Kalimat \"The treaty mandates that participating sovereign states refrain from unilateral militarisation of the disputed maritime corridor.\" (dibaca: ðə ˈtriːti mænˈdeɪts ðæt pɑːˈtɪsɪpeɪtɪŋ ˈsɒvrɪn steɪts rɪˈfreɪn frɒm ˌjuːnɪˈlætrəl ˌmɪlɪtəraɪˈzeɪʃn ɒv ðə dɪsˈpjuːtɪd ˈmærɪtaɪm ˈkɒrɪdɔː.) berarti \"Perjanjian tersebut memandatkan agar negara-negara berdaulat yang berpartisipasi menahan diri dari militerisasi sepihak di koridor maritim yang disengketakan.\". Kalimat ini menggunakan pola \"Subjunctive Verb (mandate / insist / recommend / require) + that + Subject + [Bare Infinitive: be / study / refrain] (tanpa -s atau modifikasi tenses)\" (The Subjunctive Mood in Formal Mandates & Nuanced Recommendations) yang berfungsi untuk mandative Subjunctive digunakan dalam bahasa hukum, administrasi universitas, dan komunikasi tingkat tinggi untuk menyatakan tuntutan, rekomendasi resmi, atau keharusan mutlak. Ciri khas utamanya adalah kata kerja anak kalimat selalu berbentuk bare infinitive (infinitive murni tanpa akhiran -s, -ed, atau was/were)."
       },
       {
         "id": "q-en-gram-32-pg-4",
@@ -15350,7 +15350,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation.\" berarti \"Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.\"."
+        "explanation": "Kalimat \"The academic ethics committee recommended that the professor's research grant be temporarily suspended pending thorough investigation.\" (dibaca: ði ˌækəˈdɛmɪk ˈɛθɪks kəˈmɪti ˌrɛkəˈmɛndɪd ðæt ðə prəˈfɛsəz rɪˈsɜːtʃ grɑːnt biː ˈtɛmpərərəli səˈspɛndɪd ˈpɛndɪŋ ˈθʌrə ɪnˌvɛstɪˈgeɪʃn.) berarti \"Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh.\". Kalimat ini menggunakan pola \"Subjunctive Verb (mandate / insist / recommend / require) + that + Subject + [Bare Infinitive: be / study / refrain] (tanpa -s atau modifikasi tenses)\" (The Subjunctive Mood in Formal Mandates & Nuanced Recommendations) yang berfungsi untuk mandative Subjunctive digunakan dalam bahasa hukum, administrasi universitas, dan komunikasi tingkat tinggi untuk menyatakan tuntutan, rekomendasi resmi, atau keharusan mutlak. Ciri khas utamanya adalah kata kerja anak kalimat selalu berbentuk bare infinitive (infinitive murni tanpa akhiran -s, -ed, atau was/were)."
       },
       {
         "id": "q-en-gram-32-bb-2",
@@ -15498,7 +15498,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Terlepas dari hambatan ekonomi makro yang tak henti-hentinya, sentimen pasar yang berfluktuasi, dan gangguan rantai pasokan yang belum pernah terjadi sebelumnya, konglomerat multinasional itu membukukan rekor imbal hasil kuartalan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes.\" berarti \"Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.\"."
+        "explanation": "Kalimat \"The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes.\" (dibaca: ðə ˈræpɪd prəˌlɪfəˈreɪʃn ɒv ˈdʒɛnərətɪv ˌɑːtɪˈfɪʃl ɪnˈtɛlɪdʒəns nɪˈsɛsɪteɪts ə ˌkɒmprɪˈhɛnsɪv ˌriːˌkælɪˈbreɪʃn ɒv ˌɪntɪˈlɛktʃʊəl ˈprɒpəti ˈstætjuːts.) berarti \"Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.\". Kalimat ini menggunakan pola \"Active Verbal Process (S + V + O) -> Abstract Nominal Syntagm (The + Noun + of + Noun Phrase)\" (Nominalisation for Academic Conciseness & Dense Prose) yang berfungsi untuk nominalisasi (Nominalisation) adalah proses mengubah kata kerja (verbs) atau kata sifat (adjectives) menjadi kata benda abstrak (nouns). Ini adalah ciri khas terpenting penulisan jurnal ilmiah internasional bereputasi (Q1/Scopus), buku teks universitas, dan laporan kebijakan karena memadatkan ide kompleks ke dalam struktur yang objektif, ringkas, dan berjarak (impersonal)."
       },
       {
         "id": "q-en-gram-33-pg-2",
@@ -15514,7 +15514,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Systematic degradation of coastal mangrove ecosystems exacerbates community vulnerability to severe meteorological disturbances.\" berarti \"Kerusakan sistematis pada ekosistem hutan bakau pesisir memperparah kerentanan masyarakat terhadap gangguan meteorologi ekstrem.\"."
+        "explanation": "Kalimat \"Systematic degradation of coastal mangrove ecosystems exacerbates community vulnerability to severe meteorological disturbances.\" (dibaca: ˌsɪstɪˈmætɪk ˌdɛgrəˈdeɪʃn ɒv ˈkəʊstl ˈmæŋgrəʊv ˈiːkəʊˌsɪstəmz ɪgˈzæsəbeɪts kəˈmjuːnɪti ˌvʌlnərəˈbɪlɪti tuː sɪˈvɪə ˌmiːtɪərəˈlɒdʒɪkl dɪsˈtɜːbənsɪz.) berarti \"Kerusakan sistematis pada ekosistem hutan bakau pesisir memperparah kerentanan masyarakat terhadap gangguan meteorologi ekstrem.\". Kalimat ini menggunakan pola \"Active Verbal Process (S + V + O) -> Abstract Nominal Syntagm (The + Noun + of + Noun Phrase)\" (Nominalisation for Academic Conciseness & Dense Prose) yang berfungsi untuk nominalisasi (Nominalisation) adalah proses mengubah kata kerja (verbs) atau kata sifat (adjectives) menjadi kata benda abstrak (nouns). Ini adalah ciri khas terpenting penulisan jurnal ilmiah internasional bereputasi (Q1/Scopus), buku teks universitas, dan laporan kebijakan karena memadatkan ide kompleks ke dalam struktur yang objektif, ringkas, dan berjarak (impersonal)."
       },
       {
         "id": "q-en-gram-33-pg-3",
@@ -15530,7 +15530,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Harus diakui, fisi nuklir menimbulkan dilema penyimpanan limbah yang rumit; kendati demikian, energi nuklir tetap menjadi vektor energi beban dasar bebas karbon yang vital."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"The implementation of stringent monetary tightening measures precipitated an abrupt cessation of speculative venture capital inflows.\" berarti \"Penerapan langkah-langkah pengetatan moneter yang ketat memicu penghentian mendadak arus masuk modal ventura spekulatif.\"."
+        "explanation": "Kalimat \"The implementation of stringent monetary tightening measures precipitated an abrupt cessation of speculative venture capital inflows.\" (dibaca: ði ˌɪmplɪmɛnˈteɪʃn ɒv ˈstrɪndʒənt ˈmʌnɪtəri ˈtaɪtnɪŋ ˈmɛʒəz prɪˈsɪpɪteɪtɪd ən əˈbrʌpt sɛˈseɪʃn ɒv ˈspɛkjʊlətɪv ˈvɛntʃə ˈkæpɪtl ˈɪnfləʊz.) berarti \"Penerapan langkah-langkah pengetatan moneter yang ketat memicu penghentian mendadak arus masuk modal ventura spekulatif.\". Kalimat ini menggunakan pola \"Active Verbal Process (S + V + O) -> Abstract Nominal Syntagm (The + Noun + of + Noun Phrase)\" (Nominalisation for Academic Conciseness & Dense Prose) yang berfungsi untuk nominalisasi (Nominalisation) adalah proses mengubah kata kerja (verbs) atau kata sifat (adjectives) menjadi kata benda abstrak (nouns). Ini adalah ciri khas terpenting penulisan jurnal ilmiah internasional bereputasi (Q1/Scopus), buku teks universitas, dan laporan kebijakan karena memadatkan ide kompleks ke dalam struktur yang objektif, ringkas, dan berjarak (impersonal)."
       },
       {
         "id": "q-en-gram-33-pg-4",
@@ -15837,7 +15837,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes.\" berarti \"Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.\"."
+        "explanation": "Kalimat \"The rapid proliferation of generative artificial intelligence necessitates a comprehensive recalibration of intellectual property statutes.\" (dibaca: ðə ˈræpɪd prəˌlɪfəˈreɪʃn ɒv ˈdʒɛnərətɪv ˌɑːtɪˈfɪʃl ɪnˈtɛlɪdʒəns nɪˈsɛsɪteɪts ə ˌkɒmprɪˈhɛnsɪv ˌriːˌkælɪˈbreɪʃn ɒv ˌɪntɪˈlɛktʃʊəl ˈprɒpəti ˈstætjuːts.) berarti \"Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual.\". Kalimat ini menggunakan pola \"Active Verbal Process (S + V + O) -> Abstract Nominal Syntagm (The + Noun + of + Noun Phrase)\" (Nominalisation for Academic Conciseness & Dense Prose) yang berfungsi untuk nominalisasi (Nominalisation) adalah proses mengubah kata kerja (verbs) atau kata sifat (adjectives) menjadi kata benda abstrak (nouns). Ini adalah ciri khas terpenting penulisan jurnal ilmiah internasional bereputasi (Q1/Scopus), buku teks universitas, dan laporan kebijakan karena memadatkan ide kompleks ke dalam struktur yang objektif, ringkas, dan berjarak (impersonal)."
       },
       {
         "id": "q-en-gram-33-bb-2",
@@ -15984,7 +15984,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Perusahaan tersebut melaporkan perolehan pendapatan yang kuat di seluruh anak usaha internasionalnya, meskipun diiringi oleh kontraksi yang nyata pada margin keuntungan domestik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement.\" berarti \"Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.\"."
+        "explanation": "Kalimat \"The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement.\" (dibaca: ðə ˌlɒŋgɪˈtjuːdɪnl ˈdeɪtəsɛt əˈpɪəz tuː ˈɪndɪkeɪt ə stəˈtɪstɪkli sɪgˈnɪfɪkənt ˌkɒrəˈleɪʃn bɪˈtwiːn ˈɜːli baɪˈlɪŋgwəlɪzm ænd ɪgˈzɛkjʊtɪv ˈfʌŋkʃn ɪnˈhɑːnsmənt.) berarti \"Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.\". Kalimat ini menggunakan pola \"Epistemic Modal / Hedging Verb (tend to / suggest that / appear to / arguably / may indicate) + Nuanced Claim\" (Academic Hedging & Nuanced Epistemic Stance) yang berfungsi untuk hedging adalah teknik kehati-hatian akademik untuk menyampaikan klaim dan interpretasi bukti tanpa terkesan arogan atau membuat klaim mutlak (absolutist assertions). Di tingkat universitas, akademisi tidak pernah menyatakan bahwa temuan mereka adalah 'fakta mutlak yang tak terbantahkan', melainkan menggunakan hedging untuk menunjukkan keterbukaan epistemik dan ketelitian ilmiah."
       },
       {
         "id": "q-en-gram-34-pg-2",
@@ -16000,7 +16000,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"It could be argued that current antitrust frameworks are ill-equipped to address market monopolisation by algorithmic platforms.\" berarti \"Dapat dikemukakan argumen bahwa kerangka regulasi antimonopoli saat ini kurang memadai untuk menangani monopoli pasar oleh platform algoritmik.\"."
+        "explanation": "Kalimat \"It could be argued that current antitrust frameworks are ill-equipped to address market monopolisation by algorithmic platforms.\" (dibaca: ɪt kʊd biː ˈɑːgjuːd ðæt ˈkʌrənt ˌæntiˈtrʌst ˈfreɪmwɜːks ɑːr ɪl-ɪˈkwɪpt tuː əˈdrɛs ˈmɑːkɪt məˌnɒpəlaɪˈzeɪʃn baɪ ˌælgəˈrɪðmɪk ˈplætfɔːmz.) berarti \"Dapat dikemukakan argumen bahwa kerangka regulasi antimonopoli saat ini kurang memadai untuk menangani monopoli pasar oleh platform algoritmik.\". Kalimat ini menggunakan pola \"Epistemic Modal / Hedging Verb (tend to / suggest that / appear to / arguably / may indicate) + Nuanced Claim\" (Academic Hedging & Nuanced Epistemic Stance) yang berfungsi untuk hedging adalah teknik kehati-hatian akademik untuk menyampaikan klaim dan interpretasi bukti tanpa terkesan arogan atau membuat klaim mutlak (absolutist assertions). Di tingkat universitas, akademisi tidak pernah menyatakan bahwa temuan mereka adalah 'fakta mutlak yang tak terbantahkan', melainkan menggunakan hedging untuk menunjukkan keterbukaan epistemik dan ketelitian ilmiah."
       },
       {
         "id": "q-en-gram-34-pg-3",
@@ -16016,7 +16016,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Temuan-temuan awal ini cenderung memperkuat observasi etnografis terdahulu, meskipun dalam batas sampel demografis yang terbatas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"These preliminary findings tend to corroborate earlier ethnographic observations, albeit within a circumscribed demographic sample.\" berarti \"Temuan-temuan awal ini cenderung memperkuat observasi etnografis terdahulu, meskipun dalam batas sampel demografis yang terbatas.\"."
+        "explanation": "Kalimat \"These preliminary findings tend to corroborate earlier ethnographic observations, albeit within a circumscribed demographic sample.\" (dibaca: ðiːz prɪˈlɪmɪnəri ˈfaɪndɪŋz tɛnd tuː kəˈrɒbəreɪt ˈɜːlɪər ˌɛθnəˈgræfɪk ˌɒbzəˈveɪʃnz, ɔːlˈbiːɪt wɪˈðɪn ə ˌsɜːkəmˈskraɪbd ˌdɛməˈgræfɪk ˈsɑːmpl.) berarti \"Temuan-temuan awal ini cenderung memperkuat observasi etnografis terdahulu, meskipun dalam batas sampel demografis yang terbatas.\". Kalimat ini menggunakan pola \"Epistemic Modal / Hedging Verb (tend to / suggest that / appear to / arguably / may indicate) + Nuanced Claim\" (Academic Hedging & Nuanced Epistemic Stance) yang berfungsi untuk hedging adalah teknik kehati-hatian akademik untuk menyampaikan klaim dan interpretasi bukti tanpa terkesan arogan atau membuat klaim mutlak (absolutist assertions). Di tingkat universitas, akademisi tidak pernah menyatakan bahwa temuan mereka adalah 'fakta mutlak yang tak terbantahkan', melainkan menggunakan hedging untuk menunjukkan keterbukaan epistemik dan ketelitian ilmiah."
       },
       {
         "id": "q-en-gram-34-pg-4",
@@ -16323,7 +16323,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement.\" berarti \"Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.\"."
+        "explanation": "Kalimat \"The longitudinal dataset appears to indicate a statistically significant correlation between early bilingualism and executive function enhancement.\" (dibaca: ðə ˌlɒŋgɪˈtjuːdɪnl ˈdeɪtəsɛt əˈpɪəz tuː ˈɪndɪkeɪt ə stəˈtɪstɪkli sɪgˈnɪfɪkənt ˌkɒrəˈleɪʃn bɪˈtwiːn ˈɜːli baɪˈlɪŋgwəlɪzm ænd ɪgˈzɛkjʊtɪv ˈfʌŋkʃn ɪnˈhɑːnsmənt.) berarti \"Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif.\". Kalimat ini menggunakan pola \"Epistemic Modal / Hedging Verb (tend to / suggest that / appear to / arguably / may indicate) + Nuanced Claim\" (Academic Hedging & Nuanced Epistemic Stance) yang berfungsi untuk hedging adalah teknik kehati-hatian akademik untuk menyampaikan klaim dan interpretasi bukti tanpa terkesan arogan atau membuat klaim mutlak (absolutist assertions). Di tingkat universitas, akademisi tidak pernah menyatakan bahwa temuan mereka adalah 'fakta mutlak yang tak terbantahkan', melainkan menggunakan hedging untuk menunjukkan keterbukaan epistemik dan ketelitian ilmiah."
       },
       {
         "id": "q-en-gram-34-bb-2",
@@ -16473,7 +16473,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tampaknya sangat dianjurkan bagi para pemangku kepentingan eksekutif untuk menunda pencairan modal hingga audit lingkungan yang menyeluruh tersertifikasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments.\" berarti \"Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.\"."
+        "explanation": "Kalimat \"Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments.\" (dibaca: ʃʊd ˈfɒrɪn ˈdɛlɪgɪts ɪkˈspɪərɪəns ˈɛni ˈʃɛdjuːlɪŋ ˈkɒnflɪkts, ðə liˈeɪzɒn ˈɒfɪs stændz ˈrɛdi tuː fəˈsɪlɪteɪt aɪˈtɪnərəri əˈdʒʌstmənts.) berarti \"Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.\". Kalimat ini menggunakan pola \"Type 1: Should + S + bare inf / Type 2: Were + S + to-inf / Type 3: Had + S + past participle (tanpa kata 'If')\" (Inverted Conditionals without 'If' (Had, Were, Should)) yang berfungsi untuk inverted Conditionals adalah bentuk pengandaian paling formal dalam bahasa Inggris tertulis, menggantikan kata sambung 'If' dengan membalik posisi auxiliary verb (Should, Were, Had) ke depan kalimat. Struktur ini lazim ditemukan dalam korespondensi diplomatik, kontrak bisnis internasional, dan publikasi hukum tingkat tinggi."
       },
       {
         "id": "q-en-gram-35-pg-2",
@@ -16489,7 +16489,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Andaikata negosiasi perdagangan multilateral mengalami kebuntuan berkepanjangan, negara-negara berkembang akan mengalami pelarian modal yang tidak proporsional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Were the multilateral trade negotiations to stall indefinitely, developing economies would suffer disproportionate capital flight.\" berarti \"Andaikata negosiasi perdagangan multilateral mengalami kebuntuan berkepanjangan, negara-negara berkembang akan mengalami pelarian modal yang tidak proporsional.\"."
+        "explanation": "Kalimat \"Were the multilateral trade negotiations to stall indefinitely, developing economies would suffer disproportionate capital flight.\" (dibaca: wɜː ðə ˌmʌltɪˈlætrəl treɪd nɪˌgəʊʃɪˈeɪʃnz tuː stɔːl ɪnˈdɛfɪnɪtli, dɪˈvɛləpɪŋ iːˈkɒnəmiz wʊd ˈsʌfə ˌdɪsprəˈpɔːʃənɪt ˈkæpɪtl flaɪt.) berarti \"Andaikata negosiasi perdagangan multilateral mengalami kebuntuan berkepanjangan, negara-negara berkembang akan mengalami pelarian modal yang tidak proporsional.\". Kalimat ini menggunakan pola \"Type 1: Should + S + bare inf / Type 2: Were + S + to-inf / Type 3: Had + S + past participle (tanpa kata 'If')\" (Inverted Conditionals without 'If' (Had, Were, Should)) yang berfungsi untuk inverted Conditionals adalah bentuk pengandaian paling formal dalam bahasa Inggris tertulis, menggantikan kata sambung 'If' dengan membalik posisi auxiliary verb (Should, Were, Had) ke depan kalimat. Struktur ini lazim ditemukan dalam korespondensi diplomatik, kontrak bisnis internasional, dan publikasi hukum tingkat tinggi."
       },
       {
         "id": "q-en-gram-35-pg-3",
@@ -16505,7 +16505,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Pada akhirnya, sekiranya otoritas pembuat kebijakan gagal menyelaraskan kemajuan teknologi dengan yurisprudensi hak asasi manusia, legitimasi kerangka tata kelola global akan terkikis secara mendalam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Had the central bank not intervened aggressively with liquidity injections, the domestic banking consortium would have succumbed to insolvency.\" berarti \"Seandainya bank sentral tidak melakukan intervensi agresif dengan suntikan likuiditas, konsorsium perbankan domestik niscaya sudah jatuh bangkrut.\"."
+        "explanation": "Kalimat \"Had the central bank not intervened aggressively with liquidity injections, the domestic banking consortium would have succumbed to insolvency.\" (dibaca: hæd ðə ˈsɛntrəl bæŋk nɒt ˌɪntəˈviːnd əˈgrɛsɪvli wɪð lɪˈkwɪdɪti ɪnˈdʒɛkʃnz, ðə dəʊˈmɛstɪk ˈbæŋkɪŋ kənˈsɔːtiəm wʊd hæv səˈkʌmd tuː ɪnˈsɒlvənsi.) berarti \"Seandainya bank sentral tidak melakukan intervensi agresif dengan suntikan likuiditas, konsorsium perbankan domestik niscaya sudah jatuh bangkrut.\". Kalimat ini menggunakan pola \"Type 1: Should + S + bare inf / Type 2: Were + S + to-inf / Type 3: Had + S + past participle (tanpa kata 'If')\" (Inverted Conditionals without 'If' (Had, Were, Should)) yang berfungsi untuk inverted Conditionals adalah bentuk pengandaian paling formal dalam bahasa Inggris tertulis, menggantikan kata sambung 'If' dengan membalik posisi auxiliary verb (Should, Were, Had) ke depan kalimat. Struktur ini lazim ditemukan dalam korespondensi diplomatik, kontrak bisnis internasional, dan publikasi hukum tingkat tinggi."
       },
       {
         "id": "q-en-gram-35-pg-4",
@@ -16812,7 +16812,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments.\" berarti \"Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.\"."
+        "explanation": "Kalimat \"Should foreign delegates experience any scheduling conflicts, the liaison office stands ready to facilitate itinerary adjustments.\" (dibaca: ʃʊd ˈfɒrɪn ˈdɛlɪgɪts ɪkˈspɪərɪəns ˈɛni ˈʃɛdjuːlɪŋ ˈkɒnflɪkts, ðə liˈeɪzɒn ˈɒfɪs stændz ˈrɛdi tuː fəˈsɪlɪteɪt aɪˈtɪnərəri əˈdʒʌstmənts.) berarti \"Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan.\". Kalimat ini menggunakan pola \"Type 1: Should + S + bare inf / Type 2: Were + S + to-inf / Type 3: Had + S + past participle (tanpa kata 'If')\" (Inverted Conditionals without 'If' (Had, Were, Should)) yang berfungsi untuk inverted Conditionals adalah bentuk pengandaian paling formal dalam bahasa Inggris tertulis, menggantikan kata sambung 'If' dengan membalik posisi auxiliary verb (Should, Were, Had) ke depan kalimat. Struktur ini lazim ditemukan dalam korespondensi diplomatik, kontrak bisnis internasional, dan publikasi hukum tingkat tinggi."
       },
       {
         "id": "q-en-gram-35-bb-2",
@@ -16960,7 +16960,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days.\" berarti \"Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.\"."
+        "explanation": "Kalimat \"Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days.\" (dibaca: pəˈsjuːənt tuː ðə prəˈvɪʒnz ˈstɪpjʊleɪtɪd ɪn ˈsɛkʃn fɔːr ɒv ði ɪmˈplɔɪmənt raɪts ækt, ˈsɛvərəns ˈpækɪdʒɪz mʌst biː dɪsˈbɜːst wɪˈðɪn ˈfɔːˈtiːn ˈbɪznɪs deɪz.) berarti \"Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.\". Kalimat ini menggunakan pola \"Preposition + Noun + Preposition (in accordance with / pursuant to / in light of / with regard to / by virtue of / on behalf of) + Complement\" (Complex Prepositional Phrases & Formal Administrative Register) yang berfungsi untuk frasa preposisi kompleks multi-kata (compound/complex prepositional phrases) adalah tulang punggung bahasa hukum, dokumen kontrak perdata, dan regulasi institusional. Menguasai frasa-frasa ini memungkinkan penutur tingkat lanjut menyusun argumen yang memiliki kepastian yuridis dan ketepatan semantik tanpa cela."
       },
       {
         "id": "q-en-gram-36-pg-2",
@@ -16976,7 +16976,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"In light of unprecedented inflationary pressures, the executive board deemed it imperative to adjust annual operational expenditure ceilings.\" berarti \"Mengingat tekanan inflasi yang belum pernah terjadi sebelumnya, dewan eksekutif memandang sangat penting untuk menyesuaikan batas atas pengeluaran operasional tahunan.\"."
+        "explanation": "Kalimat \"In light of unprecedented inflationary pressures, the executive board deemed it imperative to adjust annual operational expenditure ceilings.\" (dibaca: ɪn laɪt ɒv ʌnˈprɛsɪdɛntɪd ɪnˈfleɪʃənəri ˈprɛʃəz, ði ɪgˈzɛkjʊtɪv bɔːd diːmd ɪt ɪmˈpɛrətɪv tuː əˈdʒʌst ˈænjʊəl ˌɒpəˈreɪʃənl ɪksˈpɛndɪtʃə ˈsiːlɪŋz.) berarti \"Mengingat tekanan inflasi yang belum pernah terjadi sebelumnya, dewan eksekutif memandang sangat penting untuk menyesuaikan batas atas pengeluaran operasional tahunan.\". Kalimat ini menggunakan pola \"Preposition + Noun + Preposition (in accordance with / pursuant to / in light of / with regard to / by virtue of / on behalf of) + Complement\" (Complex Prepositional Phrases & Formal Administrative Register) yang berfungsi untuk frasa preposisi kompleks multi-kata (compound/complex prepositional phrases) adalah tulang punggung bahasa hukum, dokumen kontrak perdata, dan regulasi institusional. Menguasai frasa-frasa ini memungkinkan penutur tingkat lanjut menyusun argumen yang memiliki kepastian yuridis dan ketepatan semantik tanpa cela."
       },
       {
         "id": "q-en-gram-36-pg-3",
@@ -16992,7 +16992,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Begitu bank sentral mengumumkan revisi kebijakan moneter, imbal hasil obligasi global langsung berfluktuasi tanpa terduga."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"By virtue of the statutory power conferment under the Maritime Safety Charter, the port authority impounded the unseaworthy vessel.\" berarti \"Berdasarkan pelimpahan wewenang statutori di bawah Piagam Keselamatan Maritim, otoritas pelabuhan menyita kapal yang tidak laik laut tersebut.\"."
+        "explanation": "Kalimat \"By virtue of the statutory power conferment under the Maritime Safety Charter, the port authority impounded the unseaworthy vessel.\" (dibaca: baɪ ˈvɜːtjuː ɒv ðə ˈstætjuːtəri ˈpaʊə kənˈfɜːmənt ˈʌndə ðə ˈmærɪtaɪm ˈseɪfti ˈtʃɑːtə, ðə pɔːt ɔːˈθɒrɪti ɪmˈpaʊndɪd ði ʌnˈsiːˌwɜːði ˈvɛsl.) berarti \"Berdasarkan pelimpahan wewenang statutori di bawah Piagam Keselamatan Maritim, otoritas pelabuhan menyita kapal yang tidak laik laut tersebut.\". Kalimat ini menggunakan pola \"Preposition + Noun + Preposition (in accordance with / pursuant to / in light of / with regard to / by virtue of / on behalf of) + Complement\" (Complex Prepositional Phrases & Formal Administrative Register) yang berfungsi untuk frasa preposisi kompleks multi-kata (compound/complex prepositional phrases) adalah tulang punggung bahasa hukum, dokumen kontrak perdata, dan regulasi institusional. Menguasai frasa-frasa ini memungkinkan penutur tingkat lanjut menyusun argumen yang memiliki kepastian yuridis dan ketepatan semantik tanpa cela."
       },
       {
         "id": "q-en-gram-36-pg-4",
@@ -17299,7 +17299,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days.\" berarti \"Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.\"."
+        "explanation": "Kalimat \"Pursuant to the provisions stipulated in Section 4 of the Employment Rights Act, severance packages must be disbursed within fourteen business days.\" (dibaca: pəˈsjuːənt tuː ðə prəˈvɪʒnz ˈstɪpjʊleɪtɪd ɪn ˈsɛkʃn fɔːr ɒv ði ɪmˈplɔɪmənt raɪts ækt, ˈsɛvərəns ˈpækɪdʒɪz mʌst biː dɪsˈbɜːst wɪˈðɪn ˈfɔːˈtiːn ˈbɪznɪs deɪz.) berarti \"Sesuai dengan ketentuan yang diatur dalam Bagian 4 Undang-Undang Hak Ketenagakerjaan, paket uang pesangon harus dicairkan dalam waktu empat belas hari kerja.\". Kalimat ini menggunakan pola \"Preposition + Noun + Preposition (in accordance with / pursuant to / in light of / with regard to / by virtue of / on behalf of) + Complement\" (Complex Prepositional Phrases & Formal Administrative Register) yang berfungsi untuk frasa preposisi kompleks multi-kata (compound/complex prepositional phrases) adalah tulang punggung bahasa hukum, dokumen kontrak perdata, dan regulasi institusional. Menguasai frasa-frasa ini memungkinkan penutur tingkat lanjut menyusun argumen yang memiliki kepastian yuridis dan ketepatan semantik tanpa cela."
       },
       {
         "id": "q-en-gram-36-bb-2",
@@ -17447,7 +17447,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Dalam kondisi apa pun para staf pengajar universitas tidak diizinkan mengungkap transkrip ujian doktoral yang dilindungi hak cipta kepada pihak ketiga."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity.\" berarti \"Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.\"."
+        "explanation": "Kalimat \"Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity.\" (dibaca: ˈnaɪðə baɪ səˈprɛsɪŋ ˌækəˈdɛmɪk dɪˈsɛnʃn nɔː baɪ wɪðˈhəʊldɪŋ ˈkrɪtɪkl ˌɛvɪˈdɛnʃəri ˈɔːdɪts kæn ən ˌɪnstɪˈtjuːʃn ˈseɪfgɑːd ɪts ɪnˈdjʊərɪŋ ˌɪntɪˈlɛktʃʊəl ɪnˈtɛgrɪti.) berarti \"Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.\". Kalimat ini menggunakan pola \"Correlative / Balanced Construction: [Structure A] matches [Structure B] syntactically / Periodic Sentence: [Dependent Clauses Accumulation...] + [Main Clause at the climax]\" (Rhetorical Parallelism & Balanced Periodic Sentences) yang berfungsi untuk parallelism adalah prinsip estetika dan logika bahasa di mana elemen-elemen kalimat yang setara secara fungsi harus memiliki bentuk gramatikal yang identik. Kalimat periodik (periodic sentence) menahan klausa utama hingga akhir kalimat setelah serangkaian anak kalimat penjelas, menciptakan suspensi dramatis dan wibawa retoris yang memikat."
       },
       {
         "id": "q-en-gram-37-pg-2",
@@ -17463,7 +17463,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Komite etika akademik merekomendasikan agar dana hibah penelitian profesor tersebut dibekukan sementara seraya menunggu investigasi menyeluruh."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Despite relentless macroeconomic headwinds, oscillating market sentiment, and unprecedented supply chain disruptions, the multinational conglomerate delivered record quarterly yields.\" berarti \"Terlepas dari hambatan ekonomi makro yang tak henti-hentinya, sentimen pasar yang berfluktuasi, dan gangguan rantai pasokan yang belum pernah terjadi sebelumnya, konglomerat multinasional itu membukukan rekor imbal hasil kuartalan.\"."
+        "explanation": "Kalimat \"Despite relentless macroeconomic headwinds, oscillating market sentiment, and unprecedented supply chain disruptions, the multinational conglomerate delivered record quarterly yields.\" (dibaca: dɪsˈpaɪt rɪˈlɛntlɪs ˌmækrəʊˌiːkəˈnɒmɪk ˈhɛdwɪndz, ˈɒsɪleɪtɪŋ ˈmɑːkɪt ˈsɛntɪmənt, ænd ʌnˈprɛsɪdɛntɪd səˈplaɪ tʃeɪn dɪsˈrʌpʃnz, ðə ˌmʌltɪˈnæʃnəl kənˈglɒmərɪt dɪˈlɪvəd ˈrɛkɔːd ˈkwɔːtəli jiːldz.) berarti \"Terlepas dari hambatan ekonomi makro yang tak henti-hentinya, sentimen pasar yang berfluktuasi, dan gangguan rantai pasokan yang belum pernah terjadi sebelumnya, konglomerat multinasional itu membukukan rekor imbal hasil kuartalan.\". Kalimat ini menggunakan pola \"Correlative / Balanced Construction: [Structure A] matches [Structure B] syntactically / Periodic Sentence: [Dependent Clauses Accumulation...] + [Main Clause at the climax]\" (Rhetorical Parallelism & Balanced Periodic Sentences) yang berfungsi untuk parallelism adalah prinsip estetika dan logika bahasa di mana elemen-elemen kalimat yang setara secara fungsi harus memiliki bentuk gramatikal yang identik. Kalimat periodik (periodic sentence) menahan klausa utama hingga akhir kalimat setelah serangkaian anak kalimat penjelas, menciptakan suspensi dramatis dan wibawa retoris yang memikat."
       },
       {
         "id": "q-en-gram-37-pg-3",
@@ -17479,7 +17479,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Perjanjian tersebut memandatkan agar negara-negara berdaulat yang berpartisipasi menahan diri dari militerisasi sepihak di koridor maritim yang disengketakan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"The commission's mandate was twofold: to expose systematic regulatory failure and to institute incorruptible oversight mechanisms.\" berarti \"Mandat komisi tersebut bersifat ganda: mengungkap kegagalan regulasi yang sistematis dan melembagakan mekanisme pengawasan yang bebas korupsi.\"."
+        "explanation": "Kalimat \"The commission's mandate was twofold: to expose systematic regulatory failure and to institute incorruptible oversight mechanisms.\" (dibaca: ðə kəˈmɪʃnz ˈmændeɪt wɒz ˈtuːfəʊld: tuː ɪksˈpəʊz ˌsɪstɪˈmætɪk ˌrɛgjʊˈleɪtəri ˈfeɪljər ænd tuː ˈɪnstɪtjuːt ˌɪnkəˈrʌptəbl ˈəʊvəsaɪt ˈmɛkənɪzmz.) berarti \"Mandat komisi tersebut bersifat ganda: mengungkap kegagalan regulasi yang sistematis dan melembagakan mekanisme pengawasan yang bebas korupsi.\". Kalimat ini menggunakan pola \"Correlative / Balanced Construction: [Structure A] matches [Structure B] syntactically / Periodic Sentence: [Dependent Clauses Accumulation...] + [Main Clause at the climax]\" (Rhetorical Parallelism & Balanced Periodic Sentences) yang berfungsi untuk parallelism adalah prinsip estetika dan logika bahasa di mana elemen-elemen kalimat yang setara secara fungsi harus memiliki bentuk gramatikal yang identik. Kalimat periodik (periodic sentence) menahan klausa utama hingga akhir kalimat setelah serangkaian anak kalimat penjelas, menciptakan suspensi dramatis dan wibawa retoris yang memikat."
       },
       {
         "id": "q-en-gram-37-pg-4",
@@ -17786,7 +17786,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Jarang sekali indikator ekonomi makro internasional menunjukkan ketahanan yang begitu mendalam di tengah gangguan pasokan rantai global."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity.\" berarti \"Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.\"."
+        "explanation": "Kalimat \"Neither by suppressing academic dissension nor by withholding critical evidentiary audits can an institution safeguard its enduring intellectual integrity.\" (dibaca: ˈnaɪðə baɪ səˈprɛsɪŋ ˌækəˈdɛmɪk dɪˈsɛnʃn nɔː baɪ wɪðˈhəʊldɪŋ ˈkrɪtɪkl ˌɛvɪˈdɛnʃəri ˈɔːdɪts kæn ən ˌɪnstɪˈtjuːʃn ˈseɪfgɑːd ɪts ɪnˈdjʊərɪŋ ˌɪntɪˈlɛktʃʊəl ɪnˈtɛgrɪti.) berarti \"Baik dengan cara membungkam perbedaan pendapat akademik maupun dengan menahan audit pembuktian penting, suatu institusi tidak akan pernah bisa menjaga integritas intelektualnya yang abadi.\". Kalimat ini menggunakan pola \"Correlative / Balanced Construction: [Structure A] matches [Structure B] syntactically / Periodic Sentence: [Dependent Clauses Accumulation...] + [Main Clause at the climax]\" (Rhetorical Parallelism & Balanced Periodic Sentences) yang berfungsi untuk parallelism adalah prinsip estetika dan logika bahasa di mana elemen-elemen kalimat yang setara secara fungsi harus memiliki bentuk gramatikal yang identik. Kalimat periodik (periodic sentence) menahan klausa utama hingga akhir kalimat setelah serangkaian anak kalimat penjelas, menciptakan suspensi dramatis dan wibawa retoris yang memikat."
       },
       {
         "id": "q-en-gram-37-bb-2",
@@ -17934,7 +17934,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Sangat esensial bahwa setiap disertasi doktoral memasukkan kerangka metodologi yang komprehensif dan telah ditinjau sejawat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap.\" berarti \"Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.\"."
+        "explanation": "Kalimat \"Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap.\" (dibaca: ˈfɔːmɪdəbl ðəʊ ðə ˌdɪpləˈmætɪk ˈɒbstəklz əˈpɪəd, ðə ˈsʌmɪt ˌɪntəˈlɒkjʊtəz səkˈsiːdɪd ɪn ˈfɔːmjʊleɪtɪŋ ə prəˈvɪʒənl ˌdiːˌmɪlɪtəraɪˈzeɪʃn ˈrəʊdmæp.) berarti \"Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.\". Kalimat ini menggunakan pola \"Concessive Clausal Markers: Admittedly, ... nonetheless / [Adj] + though/as + S + be / Albeit + Adjective Phrase\" (Stylistic Concession & Antithesis (Admittedly, Albeit, In Spite of)) yang berfungsi untuk klausul konsesi (concession) mengakui kebenaran suatu poin kontra-argumen sebelum mematahkannya dengan argumen utama yang lebih kuat. Kemampuan membuat konsesi yang elegan adalah tanda kedewasaan berpikir (intellectual nuance) di tingkat C1, memastikan tulisan terhindar dari kesan bias atau simplifikasi sepihak."
       },
       {
         "id": "q-en-gram-38-pg-2",
@@ -17950,7 +17950,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"The company reported robust revenue gains across international subsidiaries, albeit accompanied by a noticeable contraction in domestic profit margins.\" berarti \"Perusahaan tersebut melaporkan perolehan pendapatan yang kuat di seluruh anak usaha internasionalnya, meskipun diiringi oleh kontraksi yang nyata pada margin keuntungan domestik.\"."
+        "explanation": "Kalimat \"The company reported robust revenue gains across international subsidiaries, albeit accompanied by a noticeable contraction in domestic profit margins.\" (dibaca: ðə ˈkʌmpəni rɪˈpɔːtɪd rəʊˈbʌst ˈrɛvɪnjuː geɪnz əˈkrɒs ˌɪntəˈnæʃnəl səbˈsɪdiəriz, ɔːlˈbiːɪt əˈkʌmpənid baɪ ə ˈnəʊtɪsəbl kənˈtrækʃn ɪn dəʊˈmɛstɪk ˈprɒfɪt ˈmɑːdʒɪnz.) berarti \"Perusahaan tersebut melaporkan perolehan pendapatan yang kuat di seluruh anak usaha internasionalnya, meskipun diiringi oleh kontraksi yang nyata pada margin keuntungan domestik.\". Kalimat ini menggunakan pola \"Concessive Clausal Markers: Admittedly, ... nonetheless / [Adj] + though/as + S + be / Albeit + Adjective Phrase\" (Stylistic Concession & Antithesis (Admittedly, Albeit, In Spite of)) yang berfungsi untuk klausul konsesi (concession) mengakui kebenaran suatu poin kontra-argumen sebelum mematahkannya dengan argumen utama yang lebih kuat. Kemampuan membuat konsesi yang elegan adalah tanda kedewasaan berpikir (intellectual nuance) di tingkat C1, memastikan tulisan terhindar dari kesan bias atau simplifikasi sepihak."
       },
       {
         "id": "q-en-gram-38-pg-3",
@@ -17966,7 +17966,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Harus diakui, fisi nuklir menimbulkan dilema penyimpanan limbah yang rumit; kendati demikian, energi nuklir tetap menjadi vektor energi beban dasar bebas karbon yang vital."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Admittedly, nuclear fission introduces intricate waste storage dilemmas; nonetheless, it remains a vital zero-carbon baseload energy vector.\" berarti \"Harus diakui, fisi nuklir menimbulkan dilema penyimpanan limbah yang rumit; kendati demikian, energi nuklir tetap menjadi vektor energi beban dasar bebas karbon yang vital.\"."
+        "explanation": "Kalimat \"Admittedly, nuclear fission introduces intricate waste storage dilemmas; nonetheless, it remains a vital zero-carbon baseload energy vector.\" (dibaca: ədˈmɪtɪdli, ˈnjuːklɪə ˈfɪʃn ˌɪntrəˈdjuːsɪz ˈɪntrɪkɪt weɪst ˈstɔːrɪdʒ dɪˈlɛməz; ˌnʌnðəˈlɛs, ɪt rɪˈmeɪnz ə ˈvaɪtl ˈzɪərəʊ-ˈkɑːbən ˈbeɪsləʊd ˈɛnədʒi ˈvɛktə.) berarti \"Harus diakui, fisi nuklir menimbulkan dilema penyimpanan limbah yang rumit; kendati demikian, energi nuklir tetap menjadi vektor energi beban dasar bebas karbon yang vital.\". Kalimat ini menggunakan pola \"Concessive Clausal Markers: Admittedly, ... nonetheless / [Adj] + though/as + S + be / Albeit + Adjective Phrase\" (Stylistic Concession & Antithesis (Admittedly, Albeit, In Spite of)) yang berfungsi untuk klausul konsesi (concession) mengakui kebenaran suatu poin kontra-argumen sebelum mematahkannya dengan argumen utama yang lebih kuat. Kemampuan membuat konsesi yang elegan adalah tanda kedewasaan berpikir (intellectual nuance) di tingkat C1, memastikan tulisan terhindar dari kesan bias atau simplifikasi sepihak."
       },
       {
         "id": "q-en-gram-38-pg-4",
@@ -18273,7 +18273,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap.\" berarti \"Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.\"."
+        "explanation": "Kalimat \"Formidable though the diplomatic obstacles appeared, the summit interlocutors succeeded in formulating a provisional demilitarisation roadmap.\" (dibaca: ˈfɔːmɪdəbl ðəʊ ðə ˌdɪpləˈmætɪk ˈɒbstəklz əˈpɪəd, ðə ˈsʌmɪt ˌɪntəˈlɒkjʊtəz səkˈsiːdɪd ɪn ˈfɔːmjʊleɪtɪŋ ə prəˈvɪʒənl ˌdiːˌmɪlɪtəraɪˈzeɪʃn ˈrəʊdmæp.) berarti \"Betapapun beratnya rintangan diplomatik tersebut terlihat, para negosiator dalam konferensi tingkat tinggi itu berhasil merumuskan peta jalan demiliterisasi sementara.\". Kalimat ini menggunakan pola \"Concessive Clausal Markers: Admittedly, ... nonetheless / [Adj] + though/as + S + be / Albeit + Adjective Phrase\" (Stylistic Concession & Antithesis (Admittedly, Albeit, In Spite of)) yang berfungsi untuk klausul konsesi (concession) mengakui kebenaran suatu poin kontra-argumen sebelum mematahkannya dengan argumen utama yang lebih kuat. Kemampuan membuat konsesi yang elegan adalah tanda kedewasaan berpikir (intellectual nuance) di tingkat C1, memastikan tulisan terhindar dari kesan bias atau simplifikasi sepihak."
       },
       {
         "id": "q-en-gram-38-bb-2",
@@ -18422,7 +18422,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kerusakan sistematis pada ekosistem hutan bakau pesisir memperparah kerentanan masyarakat terhadap gangguan meteorologi ekstrem."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers.\" berarti \"Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.\"."
+        "explanation": "Kalimat \"The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers.\" (dibaca: ðə baɪˈlætərəl kəˈmjuːnɪkeɪ ˈnəʊtɪd ðæt ˈriːsnt krɒs-ˈbɔːdər ˈeəspeɪs ɪnˈkrəʊtʃmənts wɜː vjuːd wɪð greɪv kənˈsɜːn baɪ ˌɪntəˈnæʃnəl əbˈzɜːvəz.) berarti \"Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.\". Kalimat ini menggunakan pola \"Diplomatic Euphemistic Construction: would appear / is deemed advisable / cannot be ruled out / is liable to / falls short of\" (Nuanced Diplomatic Modals & Bureaucratic Prudence) yang berfungsi untuk bahasa diplomasi internasional dan administrasi publik tingkat tinggi menuntut kehati-hatian luar biasa (bureaucratic prudence). Ketimbang menggunakan kritik langsung yang konfrontatif ('You made a terrible blunder'), penutur C1 menggunakan konstruksi modalitas diplomatis bernuansa eufemistik yang elegan namun tetap tegas dalam substansi."
       },
       {
         "id": "q-en-gram-39-pg-2",
@@ -18438,7 +18438,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Tampaknya sangat dianjurkan bagi para pemangku kepentingan eksekutif untuk menunda pencairan modal hingga audit lingkungan yang menyeluruh tersertifikasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"It would appear advisable for executive stakeholders to defer capital disbursement until exhaustive environmental audits have been certified.\" berarti \"Tampaknya sangat dianjurkan bagi para pemangku kepentingan eksekutif untuk menunda pencairan modal hingga audit lingkungan yang menyeluruh tersertifikasi.\"."
+        "explanation": "Kalimat \"It would appear advisable for executive stakeholders to defer capital disbursement until exhaustive environmental audits have been certified.\" (dibaca: ɪt wʊd əˈpɪər ədˈvaɪzəbl fɔːr ɪgˈzɛkjʊtɪv ˈsteɪkˌhəʊldəz tuː dɪˈfɜː ˈkæpɪtl dɪsˈbɜːsmənt ənˈtɪl ɪgˈzɔːstɪv ɪnˌvaɪrənˈmɛntl ˈɔːdɪts hæv biːn ˈsɜːtɪfaɪd.) berarti \"Tampaknya sangat dianjurkan bagi para pemangku kepentingan eksekutif untuk menunda pencairan modal hingga audit lingkungan yang menyeluruh tersertifikasi.\". Kalimat ini menggunakan pola \"Diplomatic Euphemistic Construction: would appear / is deemed advisable / cannot be ruled out / is liable to / falls short of\" (Nuanced Diplomatic Modals & Bureaucratic Prudence) yang berfungsi untuk bahasa diplomasi internasional dan administrasi publik tingkat tinggi menuntut kehati-hatian luar biasa (bureaucratic prudence). Ketimbang menggunakan kritik langsung yang konfrontatif ('You made a terrible blunder'), penutur C1 menggunakan konstruksi modalitas diplomatis bernuansa eufemistik yang elegan namun tetap tegas dalam substansi."
       },
       {
         "id": "q-en-gram-39-pg-3",
@@ -18454,7 +18454,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Temuan-temuan awal ini cenderung memperkuat observasi etnografis terdahulu, meskipun dalam batas sampel demografis yang terbatas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"While the preliminary trade accord represents substantial goodwill, the dispute resolution provisions remain somewhat open to divergent interpretations.\" berarti \"Kendati kesepakatan dagang awal mencerminkan itikad baik yang nyata, klausul penyelesaian sengketa masih agak rentan terhadap interpretasi yang berbeda-beda.\"."
+        "explanation": "Kalimat \"While the preliminary trade accord represents substantial goodwill, the dispute resolution provisions remain somewhat open to divergent interpretations.\" (dibaca: waɪl ðə prɪˈlɪmɪnəri treɪd əˈkɔːd ˌrɛprɪˈzɛnts səbˈstænʃl ˈgʊdˌwɪl, ðə dɪsˈpjuːt ˌrɛzəˈluːʃn prəˈvɪʒnz rɪˈmeɪn ˈsʌmwɒt ˈəʊpən tuː daɪˈvɜːdʒənt ɪnˌtɜːprɪˈteɪʃnz.) berarti \"Kendati kesepakatan dagang awal mencerminkan itikad baik yang nyata, klausul penyelesaian sengketa masih agak rentan terhadap interpretasi yang berbeda-beda.\". Kalimat ini menggunakan pola \"Diplomatic Euphemistic Construction: would appear / is deemed advisable / cannot be ruled out / is liable to / falls short of\" (Nuanced Diplomatic Modals & Bureaucratic Prudence) yang berfungsi untuk bahasa diplomasi internasional dan administrasi publik tingkat tinggi menuntut kehati-hatian luar biasa (bureaucratic prudence). Ketimbang menggunakan kritik langsung yang konfrontatif ('You made a terrible blunder'), penutur C1 menggunakan konstruksi modalitas diplomatis bernuansa eufemistik yang elegan namun tetap tegas dalam substansi."
       },
       {
         "id": "q-en-gram-39-pg-4",
@@ -18761,7 +18761,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Penyebaran pesat kecerdasan buatan generatif menuntut kalibrasi ulang yang komprehensif terhadap undang-undang hak kekayaan intelektual."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers.\" berarti \"Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.\"."
+        "explanation": "Kalimat \"The bilateral communique noted that recent cross-border airspace encroachments were viewed with grave concern by international observers.\" (dibaca: ðə baɪˈlætərəl kəˈmjuːnɪkeɪ ˈnəʊtɪd ðæt ˈriːsnt krɒs-ˈbɔːdər ˈeəspeɪs ɪnˈkrəʊtʃmənts wɜː vjuːd wɪð greɪv kənˈsɜːn baɪ ˌɪntəˈnæʃnəl əbˈzɜːvəz.) berarti \"Komunike bilateral tersebut mencatat bahwa pelanggaran ruang udara lintas batas baru-baru ini dipandang dengan keprihatinan mendalam oleh para pengamat internasional.\". Kalimat ini menggunakan pola \"Diplomatic Euphemistic Construction: would appear / is deemed advisable / cannot be ruled out / is liable to / falls short of\" (Nuanced Diplomatic Modals & Bureaucratic Prudence) yang berfungsi untuk bahasa diplomasi internasional dan administrasi publik tingkat tinggi menuntut kehati-hatian luar biasa (bureaucratic prudence). Ketimbang menggunakan kritik langsung yang konfrontatif ('You made a terrible blunder'), penutur C1 menggunakan konstruksi modalitas diplomatis bernuansa eufemistik yang elegan namun tetap tegas dalam substansi."
       },
       {
         "id": "q-en-gram-39-bb-2",
@@ -18908,7 +18908,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies.\" berarti \"Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.\"."
+        "explanation": "Kalimat \"Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies.\" (dibaca: ˌnɒtwɪθˈstændɪŋ ðə prəˌlɪfəˈreɪʃn ɒv ɪmˈpɪrɪkl ˈskɒləʃɪp əˈdrɛsɪŋ trænzˈnæʃnəl ˈkæpɪtl məʊˈbɪlɪti, sɪgˈnɪfɪkənt ləˈkjuːniː pəˈsɪst rɪˈgɑːdɪŋ ðə ˈsɒvrɪn dɛt ˌvʌlnərəˈbɪlɪti ɒv ɪˈmɜːdʒɪŋ ˈmɑːkɪt iːˈkɒnəmiz.) berarti \"Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.\". Kalimat ini menggunakan pola \"Discursive Architecture: Synthesising Prior Literature -> Identifying Methodological Lacunae -> Proposing Nuanced Theoretic Stance -> Articulating Policy Implications\" (C1 Capstone: Academic Research Paper Discursive Architecture & University Dissertation Prose) yang berfungsi untuk sebagai puncak kurikulum C1 Advanced, unit ini memadukan seluruh keterampilan tata bahasa tingkat mahir (Inversion, Subjunctive Mood, Nominalisation, Hedging, Inverted Conditionals, Syntactic Parallelism, Concession, dan Diplomatic Register) ke dalam arsitektur penulisan artikel jurnal internasional bereputasi dan disertasi doktoral di universitas top dunia."
       },
       {
         "id": "q-en-gram-40-pg-2",
@@ -18924,7 +18924,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Sekiranya para delegasi asing mengalami kendala jadwal acara, kantor penghubung siap sedia memfasilitasi penyesuaian rencana perjalanan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Through rigorous methodological triangulation, this dissertation posits that sustainable institutional decentralisation is contingent upon grassroots civic engagement.\" berarti \"Melalui triangulasi metodologis yang ketat, disertasi ini mengajukan tesis bahwa desentralisasi institusional yang berkelanjutan sangat bergantung pada partisipasi aktif warga di tingkat akar rumput.\"."
+        "explanation": "Kalimat \"Through rigorous methodological triangulation, this dissertation posits that sustainable institutional decentralisation is contingent upon grassroots civic engagement.\" (dibaca: θruː ˈrɪgərəs ˌmɛθədəˈlɒdʒɪkl traɪˌæŋgjʊˈleɪʃn, ðɪs ˌdɪsəˈteɪʃn ˈpɒzɪts ðæt səsˈteɪnəbl ˌɪnstɪˈtjuːʃənl diːˌsɛntrəlaɪˈzeɪʃn ɪz kənˈtɪndʒənt əˈpɒn ˈgrɑːsruːts ˈsɪvɪk ɪnˈgeɪdʒmənt.) berarti \"Melalui triangulasi metodologis yang ketat, disertasi ini mengajukan tesis bahwa desentralisasi institusional yang berkelanjutan sangat bergantung pada partisipasi aktif warga di tingkat akar rumput.\". Kalimat ini menggunakan pola \"Discursive Architecture: Synthesising Prior Literature -> Identifying Methodological Lacunae -> Proposing Nuanced Theoretic Stance -> Articulating Policy Implications\" (C1 Capstone: Academic Research Paper Discursive Architecture & University Dissertation Prose) yang berfungsi untuk sebagai puncak kurikulum C1 Advanced, unit ini memadukan seluruh keterampilan tata bahasa tingkat mahir (Inversion, Subjunctive Mood, Nominalisation, Hedging, Inverted Conditionals, Syntactic Parallelism, Concession, dan Diplomatic Register) ke dalam arsitektur penulisan artikel jurnal internasional bereputasi dan disertasi doktoral di universitas top dunia."
       },
       {
         "id": "q-en-gram-40-pg-3",
@@ -18940,7 +18940,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Seandainya bank sentral tidak melakukan intervensi agresif dengan suntikan likuiditas, konsorsium perbankan domestik niscaya sudah jatuh bangkrut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Ultimately, should regulatory authorities fail to reconcile technological advancement with human rights jurisprudence, the legitimacy of global governance frameworks will be profoundly undermined.\" berarti \"Pada akhirnya, sekiranya otoritas pembuat kebijakan gagal menyelaraskan kemajuan teknologi dengan yurisprudensi hak asasi manusia, legitimasi kerangka tata kelola global akan terkikis secara mendalam.\"."
+        "explanation": "Kalimat \"Ultimately, should regulatory authorities fail to reconcile technological advancement with human rights jurisprudence, the legitimacy of global governance frameworks will be profoundly undermined.\" (dibaca: ˈʌltɪmɪtli, ʃʊd ˈrɛgjʊlətəri ɔːˈθɒrɪtiz feɪl tuː ˈrɛkənsaɪl ˌtɛknəˈlɒdʒɪkl ədˈvɑːnsmənt wɪð ˈhjuːmən raɪts ˌdʒʊərɪsˈpruːdəns, ðə lɪˈdʒɪtɪməsi ɒv ˈgləʊbl ˈgʌvənəns ˈfreɪmwɜːks wɪl biː prəˈfaʊndli ˌʌndəˈmaɪnd.) berarti \"Pada akhirnya, sekiranya otoritas pembuat kebijakan gagal menyelaraskan kemajuan teknologi dengan yurisprudensi hak asasi manusia, legitimasi kerangka tata kelola global akan terkikis secara mendalam.\". Kalimat ini menggunakan pola \"Discursive Architecture: Synthesising Prior Literature -> Identifying Methodological Lacunae -> Proposing Nuanced Theoretic Stance -> Articulating Policy Implications\" (C1 Capstone: Academic Research Paper Discursive Architecture & University Dissertation Prose) yang berfungsi untuk sebagai puncak kurikulum C1 Advanced, unit ini memadukan seluruh keterampilan tata bahasa tingkat mahir (Inversion, Subjunctive Mood, Nominalisation, Hedging, Inverted Conditionals, Syntactic Parallelism, Concession, dan Diplomatic Register) ke dalam arsitektur penulisan artikel jurnal internasional bereputasi dan disertasi doktoral di universitas top dunia."
       },
       {
         "id": "q-en-gram-40-pg-4",
@@ -19247,7 +19247,7 @@ export const ENGLISH_GRAMMAR: GrammarLesson[] =  [
           "Kumpulan data longitudinal tersebut tampaknya mengindikasikan korelasi yang signifikan secara statistik antara kedwibahasaan sejak dini dan peningkatan fungsi eksekutif."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies.\" berarti \"Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.\"."
+        "explanation": "Kalimat \"Notwithstanding the proliferation of empirical scholarship addressing transnational capital mobility, significant lacunae persist regarding the sovereign debt vulnerability of emerging market economies.\" (dibaca: ˌnɒtwɪθˈstændɪŋ ðə prəˌlɪfəˈreɪʃn ɒv ɪmˈpɪrɪkl ˈskɒləʃɪp əˈdrɛsɪŋ trænzˈnæʃnəl ˈkæpɪtl məʊˈbɪlɪti, sɪgˈnɪfɪkənt ləˈkjuːniː pəˈsɪst rɪˈgɑːdɪŋ ðə ˈsɒvrɪn dɛt ˌvʌlnərəˈbɪlɪti ɒv ɪˈmɜːdʒɪŋ ˈmɑːkɪt iːˈkɒnəmiz.) berarti \"Meskipun terjadi pertumbuhan pesat riset empiris yang menelaah mobilitas modal lintas negara, kesenjangan signifikan masih bertahan terkait kerentanan utang luar negeri negara-negara berkembang.\". Kalimat ini menggunakan pola \"Discursive Architecture: Synthesising Prior Literature -> Identifying Methodological Lacunae -> Proposing Nuanced Theoretic Stance -> Articulating Policy Implications\" (C1 Capstone: Academic Research Paper Discursive Architecture & University Dissertation Prose) yang berfungsi untuk sebagai puncak kurikulum C1 Advanced, unit ini memadukan seluruh keterampilan tata bahasa tingkat mahir (Inversion, Subjunctive Mood, Nominalisation, Hedging, Inverted Conditionals, Syntactic Parallelism, Concession, dan Diplomatic Register) ke dalam arsitektur penulisan artikel jurnal internasional bereputasi dan disertasi doktoral di universitas top dunia."
       },
       {
         "id": "q-en-gram-40-bb-2",

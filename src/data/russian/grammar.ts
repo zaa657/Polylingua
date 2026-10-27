@@ -85,7 +85,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah ini buku tulismu atau buku tulis miliknya?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Это мой университет, а это моя библиотека.\" berarti \"Ini adalah universitas saya, dan ini perpustakaan saya.\"."
+        "explanation": "Kalimat \"Это мой университет, а это моя библиотека.\" (dibaca: Eto moy universitet, a eto moya biblioteka.) berarti \"Ini adalah universitas saya, dan ini perpustakaan saya.\". Kalimat ini menggunakan pola \"Konsonan = Maskulin / -а, -я = Feminin / -о, -е = Netral\" (Gender Kata Benda & Penanda Akhiran (Род имён существительных)) yang berfungsi untuk bahasa Rusia membagi semua kata benda ke dalam tiga gender gramatikal berdasarkan akhiran bunyi huruf nominatif tunggal."
       },
       {
         "id": "q-ru-gram-1-pg-2",
@@ -101,7 +101,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa asing tinggal di asrama kampus."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Письмо лежит на столе.\" berarti \"Surat itu tergeletak di atas meja.\"."
+        "explanation": "Kalimat \"Письмо лежит на столе.\" (dibaca: Pis'mo lezhit na stole.) berarti \"Surat itu tergeletak di atas meja.\". Kalimat ini menggunakan pola \"Konsonan = Maskulin / -а, -я = Feminin / -о, -е = Netral\" (Gender Kata Benda & Penanda Akhiran (Род имён существительных)) yang berfungsi untuk bahasa Rusia membagi semua kata benda ke dalam tiga gender gramatikal berdasarkan akhiran bunyi huruf nominatif tunggal."
       },
       {
         "id": "q-ru-gram-1-pg-3",
@@ -117,7 +117,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Buku-buku sejarah terletak di rak ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Словарь очень полезный для учёбы.\" berarti \"Kamus tersebut sangat bermanfaat untuk studi.\"."
+        "explanation": "Kalimat \"Словарь очень полезный для учёбы.\" (dibaca: Slovar' ochen' poleznyy dlya uchyoby.) berarti \"Kamus tersebut sangat bermanfaat untuk studi.\". Kalimat ini menggunakan pola \"Konsonan = Maskulin / -а, -я = Feminin / -о, -е = Netral\" (Gender Kata Benda & Penanda Akhiran (Род имён существительных)) yang berfungsi untuk bahasa Rusia membagi semua kata benda ke dalam tiga gender gramatikal berdasarkan akhiran bunyi huruf nominatif tunggal."
       },
       {
         "id": "q-ru-gram-1-pg-4",
@@ -416,7 +416,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen kami berbicara bahasa Rusia dengan sangat jelas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Это мой университет, а это моя библиотека.\" berarti \"Ini adalah universitas saya, dan ini perpustakaan saya.\"."
+        "explanation": "Kalimat \"Это мой университет, а это моя библиотека.\" (dibaca: Eto moy universitet, a eto moya biblioteka.) berarti \"Ini adalah universitas saya, dan ini perpustakaan saya.\". Kalimat ini menggunakan pola \"Konsonan = Maskulin / -а, -я = Feminin / -о, -е = Netral\" (Gender Kata Benda & Penanda Akhiran (Род имён существительных)) yang berfungsi untuk bahasa Rusia membagi semua kata benda ke dalam tiga gender gramatikal berdasarkan akhiran bunyi huruf nominatif tunggal."
       },
       {
         "id": "q-ru-gram-1-bb-2",
@@ -562,7 +562,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor saat ini sedang berada di konferensi ilmiah."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Наш преподаватель говорит по-русски очень чётко.\" berarti \"Dosen kami berbicara bahasa Rusia dengan sangat jelas.\"."
+        "explanation": "Kalimat \"Наш преподаватель говорит по-русски очень чётко.\" (dibaca: Nash prepodavatel' govorit po-russki ochen' chyotko.) berarti \"Dosen kami berbicara bahasa Rusia dengan sangat jelas.\". Kalimat ini menggunakan pola \"Мой / Моя / Моё / Мои (Sesuai Gender Benda)\" (Pronomina Persona & Kata Ganti Kepemilikan (Притяжательные местоимения)) yang berfungsi untuk kata ganti kepemilikan bahasa Rusia berkonjugasi menyesuaikan gender dan jumlah kata benda yang dimilikinya."
       },
       {
         "id": "q-ru-gram-2-pg-2",
@@ -578,7 +578,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami mendengarkan kuliah dosen dengan penuh perhatian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Это твоя тетрадь или его тетрадь?\" berarti \"Apakah ini buku tulismu atau buku tulis miliknya?\"."
+        "explanation": "Kalimat \"Это твоя тетрадь или его тетрадь?\" (dibaca: Eto tvoya tetrad' ili yego tetrad'?) berarti \"Apakah ini buku tulismu atau buku tulis miliknya?\". Kalimat ini menggunakan pola \"Мой / Моя / Моё / Мои (Sesuai Gender Benda)\" (Pronomina Persona & Kata Ganti Kepemilikan (Притяжательные местоимения)) yang berfungsi untuk kata ganti kepemilikan bahasa Rusia berkonjugasi menyesuaikan gender dan jumlah kata benda yang dimilikinya."
       },
       {
         "id": "q-ru-gram-2-pg-3",
@@ -594,7 +594,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Teman-teman saya kuliah di Universitas Moskow."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Мои друзья учатся в Московском университете.\" berarti \"Teman-teman saya kuliah di Universitas Moskow.\"."
+        "explanation": "Kalimat \"Мои друзья учатся в Московском университете.\" (dibaca: Moi druz'ya uchyatsya v Moskovskom universitete.) berarti \"Teman-teman saya kuliah di Universitas Moskow.\". Kalimat ini menggunakan pola \"Мой / Моя / Моё / Мои (Sesuai Gender Benda)\" (Pronomina Persona & Kata Ganti Kepemilikan (Притяжательные местоимения)) yang berfungsi untuk kata ganti kepemilikan bahasa Rusia berkonjugasi menyesuaikan gender dan jumlah kata benda yang dimilikinya."
       },
       {
         "id": "q-ru-gram-2-pg-4",
@@ -901,7 +901,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen kami berbicara bahasa Rusia dengan sangat jelas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Наш преподаватель говорит по-русски очень чётко.\" berarti \"Dosen kami berbicara bahasa Rusia dengan sangat jelas.\"."
+        "explanation": "Kalimat \"Наш преподаватель говорит по-русски очень чётко.\" (dibaca: Nash prepodavatel' govorit po-russki ochen' chyotko.) berarti \"Dosen kami berbicara bahasa Rusia dengan sangat jelas.\". Kalimat ini menggunakan pola \"Мой / Моя / Моё / Мои (Sesuai Gender Benda)\" (Pronomina Persona & Kata Ganti Kepemilikan (Притяжательные местоимения)) yang berfungsi untuk kata ganti kepemilikan bahasa Rusia berkonjugasi menyesuaikan gender dan jumlah kata benda yang dimilikinya."
       },
       {
         "id": "q-ru-gram-2-bb-2",
@@ -1049,7 +1049,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Apakah kamu memahami tata bahasa Rusia dengan baik?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Иностранные студенты живут в общежитии кампуса.\" berarti \"Mahasiswa asing tinggal di asrama kampus.\"."
+        "explanation": "Kalimat \"Иностранные студенты живут в общежитии кампуса.\" (dibaca: Inostrannye studenty zhivut v obshchezhitii kampusa.) berarti \"Mahasiswa asing tinggal di asrama kampus.\". Kalimat ini menggunakan pola \"В / На + Kata Benda (-е)\" (Kasus Preposisional Lokasi Tempat (Предложный падеж)) yang berfungsi untuk menyatakan lokasi tempat (di mana? / где?) menggunakan preposisi В (di dalam) atau НА (di atas/permukaan/acara) berakhiran -е."
       },
       {
         "id": "q-ru-gram-3-pg-2",
@@ -1065,7 +1065,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor saat ini sedang berada di konferensi ilmiah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Профессор сейчас находится на научной конференции.\" berarti \"Profesor saat ini sedang berada di konferensi ilmiah.\"."
+        "explanation": "Kalimat \"Профессор сейчас находится на научной конференции.\" (dibaca: Professor seychas nakhoditsya na nauchnoy konferentsii.) berarti \"Profesor saat ini sedang berada di konferensi ilmiah.\". Kalimat ini menggunakan pola \"В / На + Kata Benda (-е)\" (Kasus Preposisional Lokasi Tempat (Предложный падеж)) yang berfungsi untuk menyatakan lokasi tempat (di mana? / где?) menggunakan preposisi В (di dalam) atau НА (di atas/permukaan/acara) berakhiran -е."
       },
       {
         "id": "q-ru-gram-3-pg-3",
@@ -1081,7 +1081,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya sering menonton film ilmiah dalam bahasa Rusia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Книги по истории лежат на этой полке.\" berarti \"Buku-buku sejarah terletak di rak ini.\"."
+        "explanation": "Kalimat \"Книги по истории лежат на этой полке.\" (dibaca: Knigi po istorii lezhat na etoy polke.) berarti \"Buku-buku sejarah terletak di rak ini.\". Kalimat ini menggunakan pola \"В / На + Kata Benda (-е)\" (Kasus Preposisional Lokasi Tempat (Предложный падеж)) yang berfungsi untuk menyatakan lokasi tempat (di mana? / где?) menggunakan preposisi В (di dalam) atau НА (di atas/permukaan/acara) berakhiran -е."
       },
       {
         "id": "q-ru-gram-3-pg-4",
@@ -1384,7 +1384,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami mendengarkan kuliah dosen dengan penuh perhatian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Иностранные студенты живут в общежитии кампуса.\" berarti \"Mahasiswa asing tinggal di asrama kampus.\"."
+        "explanation": "Kalimat \"Иностранные студенты живут в общежитии кампуса.\" (dibaca: Inostrannye studenty zhivut v obshchezhitii kampusa.) berarti \"Mahasiswa asing tinggal di asrama kampus.\". Kalimat ini menggunakan pola \"В / На + Kata Benda (-е)\" (Kasus Preposisional Lokasi Tempat (Предложный падеж)) yang berfungsi untuk menyatakan lokasi tempat (di mana? / где?) menggunakan preposisi В (di dalam) atau НА (di atas/permukaan/acara) berakhiran -е."
       },
       {
         "id": "q-ru-gram-3-bb-2",
@@ -1528,7 +1528,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami mendengarkan kuliah dosen dengan penuh perhatian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Мы внимательно слушаем лекцию преподавателя.\" berarti \"Kami mendengarkan kuliah dosen dengan penuh perhatian.\"."
+        "explanation": "Kalimat \"Мы внимательно слушаем лекцию преподавателя.\" (dibaca: My vnimatel'no slushaem lektsiyu prepodavatelya.) berarti \"Kami mendengarkan kuliah dosen dengan penuh perhatian.\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ешь, -ет, -ем, -ете, -ют/-ут\" (Konjugasi Kata Kerja Kelompok I (Первое спряжение глаголов)) yang berfungsi untuk kata kerja berakhiran -ать/-ять mengikuti konjugasi kelompok I dengan vokal penanda -е- pada bentuk orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-4-pg-2",
@@ -1544,7 +1544,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap hari saya membaca artikel ilmiah di perpustakaan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Ты хорошо понимаешь грамматику русского языка?\" berarti \"Apakah kamu memahami tata bahasa Rusia dengan baik?\"."
+        "explanation": "Kalimat \"Ты хорошо понимаешь грамматику русского языка?\" (dibaca: Ty khorosho ponimaesh' grammatiku russkogo yazyka?) berarti \"Apakah kamu memahami tata bahasa Rusia dengan baik?\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ешь, -ет, -ем, -ете, -ют/-ут\" (Konjugasi Kata Kerja Kelompok I (Первое спряжение глаголов)) yang berfungsi untuk kata kerja berakhiran -ать/-ять mengikuti konjugasi kelompok I dengan vokal penanda -е- pada bentuk orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-4-pg-3",
@@ -1560,7 +1560,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami sedang menulis makalah semester bidang linguistik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Они работают над новым исследовательским проектом.\" berarti \"Mereka sedang mengerjakan proyek penelitian baru.\"."
+        "explanation": "Kalimat \"Они работают над новым исследовательским проектом.\" (dibaca: Oni rabotayut nad novym issledovatel'skim proektom.) berarti \"Mereka sedang mengerjakan proyek penelitian baru.\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ешь, -ет, -ем, -ете, -ют/-ут\" (Konjugasi Kata Kerja Kelompok I (Первое спряжение глаголов)) yang berfungsi untuk kata kerja berakhiran -ать/-ять mengikuti konjugasi kelompok I dengan vokal penanda -е- pada bentuk orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-4-pg-4",
@@ -1865,7 +1865,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen berbicara cepat dalam bahasa Rusia saat perkuliahan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Мы внимательно слушаем лекцию преподавателя.\" berarti \"Kami mendengarkan kuliah dosen dengan penuh perhatian.\"."
+        "explanation": "Kalimat \"Мы внимательно слушаем лекцию преподавателя.\" (dibaca: My vnimatel'no slushaem lektsiyu prepodavatelya.) berarti \"Kami mendengarkan kuliah dosen dengan penuh perhatian.\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ешь, -ет, -ем, -ете, -ют/-ут\" (Konjugasi Kata Kerja Kelompok I (Первое спряжение глаголов)) yang berfungsi untuk kata kerja berakhiran -ать/-ять mengikuti konjugasi kelompok I dengan vokal penanda -е- pada bentuk orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-4-bb-2",
@@ -2009,7 +2009,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa tersebut membeli buku teks baru dan buku tulis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Преподаватель быстро говорит по-русски на занятиях.\" berarti \"Dosen berbicara cepat dalam bahasa Rusia saat perkuliahan.\"."
+        "explanation": "Kalimat \"Преподаватель быстро говорит по-русски на занятиях.\" (dibaca: Prepodavatel' bystro govorit po-russki na zanyatiyakh.) berarti \"Dosen berbicara cepat dalam bahasa Rusia saat perkuliahan.\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ишь, -ит, -им, -ите, -ят/-ат\" (Konjugasi Kata Kerja Kelompok II (Второе спряжение глаголов)) yang berfungsi untuk kata kerja kelompok II (mayoritas berakhiran -ить) ditandai oleh vokal -и- pada bentuk konjugasi orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-5-pg-2",
@@ -2025,7 +2025,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kemarin malam Anna membaca buku teks kimia dalam waktu yang lama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Студенты учат новые слова каждый вечер.\" berarti \"Para mahasiswa menghafalkan kosakata baru setiap malam.\"."
+        "explanation": "Kalimat \"Студенты учат новые слова каждый вечер.\" (dibaca: Studenty uchat novye slova kazhdyy vecher.) berarti \"Para mahasiswa menghafalkan kosakata baru setiap malam.\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ишь, -ит, -им, -ите, -ят/-ат\" (Konjugasi Kata Kerja Kelompok II (Второе спряжение глаголов)) yang berfungsi untuk kata kerja kelompok II (mayoritas berakhiran -ить) ditandai oleh vokal -и- pada bentuk konjugasi orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-5-pg-3",
@@ -2041,7 +2041,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Tahun lalu kelompok riset kami bekerja di Moskow."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Я часто смотрю научные фильмы на русском языке.\" berarti \"Saya sering menonton film ilmiah dalam bahasa Rusia.\"."
+        "explanation": "Kalimat \"Я часто смотрю научные фильмы на русском языке.\" (dibaca: Ya chasto smotryu nauchnye fil'my na russkom yazyke.) berarti \"Saya sering menonton film ilmiah dalam bahasa Rusia.\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ишь, -ит, -им, -ите, -ят/-ат\" (Konjugasi Kata Kerja Kelompok II (Второе спряжение глаголов)) yang berfungsi untuk kata kerja kelompok II (mayoritas berakhiran -ить) ditandai oleh vokal -и- pada bentuk konjugasi orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-5-pg-4",
@@ -2344,7 +2344,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap hari saya membaca artikel ilmiah di perpustakaan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Преподаватель быстро говорит по-русски на занятиях.\" berarti \"Dosen berbicara cepat dalam bahasa Rusia saat perkuliahan.\"."
+        "explanation": "Kalimat \"Преподаватель быстро говорит по-русски на занятиях.\" (dibaca: Prepodavatel' bystro govorit po-russki na zanyatiyakh.) berarti \"Dosen berbicara cepat dalam bahasa Rusia saat perkuliahan.\". Kalimat ini menggunakan pola \"Batang verba + -ю/-у, -ишь, -ит, -им, -ите, -ят/-ат\" (Konjugasi Kata Kerja Kelompok II (Второе спряжение глаголов)) yang berfungsi untuk kata kerja kelompok II (mayoritas berakhiran -ить) ditandai oleh vokal -и- pada bentuk konjugasi orang ke-2 dan ke-3."
       },
       {
         "id": "q-ru-gram-5-bb-2",
@@ -2490,7 +2490,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa sukses lulus seluruh ujian masuk."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Каждый день я читаю научную статью в библиотеке.\" berarti \"Setiap hari saya membaca artikel ilmiah di perpustakaan.\"."
+        "explanation": "Kalimat \"Каждый день я читаю научную статью в библиотеке.\" (dibaca: Kazhdyy den' ya chitayu nauchnuyu stat'yu v biblioteke.) berarti \"Setiap hari saya membaca artikel ilmiah di perpustakaan.\". Kalimat ini menggunakan pola \"Feminin: -а -> -у, -я -> -ю / Maskulin & Netral Benda Mati: Tetap sama seperti Nominatif\" (Kasus Akusatif Objek Langsung Benda Mati (Винительный падеж)) yang berfungsi untuk menandai objek langsung sasaran tindakan kata kerja transitif (membaca, membeli, melihat)."
       },
       {
         "id": "q-ru-gram-6-pg-2",
@@ -2506,7 +2506,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Besok kami akan menulis tes bahasa Rusia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Студент покупает новый учебник и тетрадь.\" berarti \"Mahasiswa tersebut membeli buku teks baru dan buku tulis.\"."
+        "explanation": "Kalimat \"Студент покупает новый учебник и тетрадь.\" (dibaca: Student pokupaet novyy uchebnik i tetrad'.) berarti \"Mahasiswa tersebut membeli buku teks baru dan buku tulis.\". Kalimat ini menggunakan pola \"Feminin: -а -> -у, -я -> -ю / Maskulin & Netral Benda Mati: Tetap sama seperti Nominatif\" (Kasus Akusatif Objek Langsung Benda Mati (Винительный падеж)) yang berfungsi untuk menandai objek langsung sasaran tindakan kata kerja transitif (membaca, membeli, melihat)."
       },
       {
         "id": "q-ru-gram-6-pg-3",
@@ -2522,7 +2522,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami sedang menulis makalah semester bidang linguistik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Мы пишем курсовую работу по лингвистике.\" berarti \"Kami sedang menulis makalah semester bidang linguistik.\"."
+        "explanation": "Kalimat \"Мы пишем курсовую работу по лингвистике.\" (dibaca: My pishem kursovuyu rabotu po lingvistike.) berarti \"Kami sedang menulis makalah semester bidang linguistik.\". Kalimat ini menggunakan pola \"Feminin: -а -> -у, -я -> -ю / Maskulin & Netral Benda Mati: Tetap sama seperti Nominatif\" (Kasus Akusatif Objek Langsung Benda Mati (Винительный падеж)) yang berfungsi untuk menandai objek langsung sasaran tindakan kata kerja transitif (membaca, membeli, melihat)."
       },
       {
         "id": "q-ru-gram-6-pg-4",
@@ -2825,7 +2825,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap hari saya membaca artikel ilmiah di perpustakaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Каждый день я читаю научную статью в библиотеке.\" berarti \"Setiap hari saya membaca artikel ilmiah di perpustakaan.\"."
+        "explanation": "Kalimat \"Каждый день я читаю научную статью в библиотеке.\" (dibaca: Kazhdyy den' ya chitayu nauchnuyu stat'yu v biblioteke.) berarti \"Setiap hari saya membaca artikel ilmiah di perpustakaan.\". Kalimat ini menggunakan pola \"Feminin: -а -> -у, -я -> -ю / Maskulin & Netral Benda Mati: Tetap sama seperti Nominatif\" (Kasus Akusatif Objek Langsung Benda Mati (Винительный падеж)) yang berfungsi untuk menandai objek langsung sasaran tindakan kata kerja transitif (membaca, membeli, melihat)."
       },
       {
         "id": "q-ru-gram-6-bb-2",
@@ -2970,7 +2970,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Apa yang akan kamu lakukan setelah lulus universitas?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Вчера вечером Анна долго читала учебник по химии.\" berarti \"Kemarin malam Anna membaca buku teks kimia dalam waktu yang lama.\"."
+        "explanation": "Kalimat \"Вчера вечером Анна долго читала учебник по химии.\" (dibaca: Vchera vecherom Anna dolgo chitala uchebnik po khimii.) berarti \"Kemarin malam Anna membaca buku teks kimia dalam waktu yang lama.\". Kalimat ini menggunakan pola \"Batang Infinitif + -л (m), -ла (f), -ло (n), -ли (pl)\" (Waktu Lampau Kata Kerja (Прошедшее время глаголов)) yang berfungsi untuk waktu lampau bahasa Rusia sangat mudah dibentuk: cukup buang akhiran -ть dan tambahkan akhiran gender/jumlah."
       },
       {
         "id": "q-ru-gram-7-pg-2",
@@ -2986,7 +2986,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa sukses lulus seluruh ujian masuk."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Студенты успешно сдали все вступительные экзамены.\" berarti \"Para mahasiswa sukses lulus seluruh ujian masuk.\"."
+        "explanation": "Kalimat \"Студенты успешно сдали все вступительные экзамены.\" (dibaca: Studenty uspeshno sdali vse vstupitel'nye ekzameny.) berarti \"Para mahasiswa sukses lulus seluruh ujian masuk.\". Kalimat ini menggunakan pola \"Batang Infinitif + -л (m), -ла (f), -ло (n), -ли (pl)\" (Waktu Lampau Kata Kerja (Прошедшее время глаголов)) yang berfungsi untuk waktu lampau bahasa Rusia sangat mudah dibentuk: cukup buang akhiran -ть dan tambahkan akhiran gender/jumlah."
       },
       {
         "id": "q-ru-gram-7-pg-3",
@@ -3002,7 +3002,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Ke mana kamu berjalan begitu cepat setelah kelas usai?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"В прошлом году наша исследовательская группа работала в Москве.\" berarti \"Tahun lalu kelompok riset kami bekerja di Moskow.\"."
+        "explanation": "Kalimat \"В прошлом году наша исследовательская группа работала в Москве.\" (dibaca: V proshlom godu nasha issledovatel'skaya gruppa rabotala v Moskve.) berarti \"Tahun lalu kelompok riset kami bekerja di Moskow.\". Kalimat ini menggunakan pola \"Batang Infinitif + -л (m), -ла (f), -ло (n), -ли (pl)\" (Waktu Lampau Kata Kerja (Прошедшее время глаголов)) yang berfungsi untuk waktu lampau bahasa Rusia sangat mudah dibentuk: cukup buang akhiran -ть dan tambahkan akhiran gender/jumlah."
       },
       {
         "id": "q-ru-gram-7-pg-4",
@@ -3301,7 +3301,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Besok kami akan menulis tes bahasa Rusia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Вчера вечером Анна долго читала учебник по химии.\" berarti \"Kemarin malam Anna membaca buku teks kimia dalam waktu yang lama.\"."
+        "explanation": "Kalimat \"Вчера вечером Анна долго читала учебник по химии.\" (dibaca: Vchera vecherom Anna dolgo chitala uchebnik po khimii.) berarti \"Kemarin malam Anna membaca buku teks kimia dalam waktu yang lama.\". Kalimat ini menggunakan pola \"Batang Infinitif + -л (m), -ла (f), -ло (n), -ли (pl)\" (Waktu Lampau Kata Kerja (Прошедшее время глаголов)) yang berfungsi untuk waktu lampau bahasa Rusia sangat mudah dibentuk: cukup buang akhiran -ть dan tambahkan akhiran gender/jumlah."
       },
       {
         "id": "q-ru-gram-7-bb-2",
@@ -3445,7 +3445,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Besok kami akan menulis tes bahasa Rusia."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Завтра мы будем писать тест по русскому языку.\" berarti \"Besok kami akan menulis tes bahasa Rusia.\"."
+        "explanation": "Kalimat \"Завтра мы будем писать тест по русскому языку.\" (dibaca: Zavtra my budem pisat' test po russkomu yazyku.) berarti \"Besok kami akan menulis tes bahasa Rusia.\". Kalimat ini menggunakan pola \"Буду / Будешь / Будет / Будем / Будете / Будут + Infinitif Imperfektif\" (Waktu Akan Datang Gabungan (Сложное будущее время)) yang berfungsi untuk menyatakan aksi masa depan berdurasi atau berulang dengan menggabungkan kata kerja bantu быть terkonjugasi dengan kata kerja dasar."
       },
       {
         "id": "q-ru-gram-8-pg-2",
@@ -3461,7 +3461,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap hari saya jalan kaki pergi ke universitas."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Что ты будешь делать после окончания университета?\" berarti \"Apa yang akan kamu lakukan setelah lulus universitas?\"."
+        "explanation": "Kalimat \"Что ты будешь делать после окончания университета?\" (dibaca: Chto ty budesh' delat' posle okonchaniya universiteta?) berarti \"Apa yang akan kamu lakukan setelah lulus universitas?\". Kalimat ini menggunakan pola \"Буду / Будешь / Будет / Будем / Будете / Будут + Infinitif Imperfektif\" (Waktu Akan Datang Gabungan (Сложное будущее время)) yang berfungsi untuk menyatakan aksi masa depan berdurasi atau berulang dengan menggabungkan kata kerja bantu быть terkonjugasi dengan kata kerja dasar."
       },
       {
         "id": "q-ru-gram-8-pg-3",
@@ -3477,7 +3477,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kemarin saya pergi (dan sudah pulang kembali) menonton konser musik klasik di gedung filharmoni."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Профессор будет читать лекции по этой теме весь семестр.\" berarti \"Profesor akan memberikan kuliah tentang topik ini sepanjang semester.\"."
+        "explanation": "Kalimat \"Профессор будет читать лекции по этой теме весь семестр.\" (dibaca: Professor budet chitat' lektsii po etoy teme ves' semestr.) berarti \"Profesor akan memberikan kuliah tentang topik ini sepanjang semester.\". Kalimat ini menggunakan pola \"Буду / Будешь / Будет / Будем / Будете / Будут + Infinitif Imperfektif\" (Waktu Akan Datang Gabungan (Сложное будущее время)) yang berfungsi untuk menyatakan aksi masa depan berdurasi atau berulang dengan menggabungkan kata kerja bantu быть terkonjugasi dengan kata kerja dasar."
       },
       {
         "id": "q-ru-gram-8-pg-4",
@@ -3774,7 +3774,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sekarang para mahasiswa sedang berjalan menuju ruang kuliah hubungan internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Завтра мы будем писать тест по русскому языку.\" berarti \"Besok kami akan menulis tes bahasa Rusia.\"."
+        "explanation": "Kalimat \"Завтра мы будем писать тест по русскому языку.\" (dibaca: Zavtra my budem pisat' test po russkomu yazyku.) berarti \"Besok kami akan menulis tes bahasa Rusia.\". Kalimat ini menggunakan pola \"Буду / Будешь / Будет / Будем / Будете / Будут + Infinitif Imperfektif\" (Waktu Akan Datang Gabungan (Сложное будущее время)) yang berfungsi untuk menyatakan aksi masa depan berdurasi atau berulang dengan menggabungkan kata kerja bantu быть terkonjugasi dengan kata kerja dasar."
       },
       {
         "id": "q-ru-gram-8-bb-2",
@@ -3918,7 +3918,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Di musim panas para peneliti asing sering bepergian ke pusat-pusat riset Siberia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Сейчас студенты идут на лекцию по международным отношениям.\" berarti \"Sekarang para mahasiswa sedang berjalan menuju ruang kuliah hubungan internasional.\"."
+        "explanation": "Kalimat \"Сейчас студенты идут на лекцию по международным отношениям.\" (dibaca: Seychas studenty idut na lektsiyu po mezhdunarodnym otnosheniyam.) berarti \"Sekarang para mahasiswa sedang berjalan menuju ruang kuliah hubungan internasional.\". Kalimat ini menggunakan pola \"Идти (Jalan Kaki Sekarang) vs Ехать (Naik Kendaraan Sekarang) + Куда? (В/На + Akusatif)\" (Kata Kerja Gerak Tanpa Awalan Searah: Идти vs Ехать (Unidirectional Verbs of Motion)) yang berfungsi untuk menyatakan gerakan yang sedang berlangsung saat ini menuju satu tujuan tertentu: berjalan kaki (идти) atau berkendara (ехать)."
       },
       {
         "id": "q-ru-gram-9-pg-2",
@@ -3934,7 +3934,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah universitas saya, dan ini perpustakaan saya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Мы едем на метро в центр Санкт-Петербурга.\" berarti \"Kami sedang naik metro menuju pusat kota Saint Petersburg.\"."
+        "explanation": "Kalimat \"Мы едем на метро в центр Санкт-Петербурга.\" (dibaca: My edem na metro v tsentr Sankt-Peterburga.) berarti \"Kami sedang naik metro menuju pusat kota Saint Petersburg.\". Kalimat ini menggunakan pola \"Идти (Jalan Kaki Sekarang) vs Ехать (Naik Kendaraan Sekarang) + Куда? (В/На + Akusatif)\" (Kata Kerja Gerak Tanpa Awalan Searah: Идти vs Ехать (Unidirectional Verbs of Motion)) yang berfungsi untuk menyatakan gerakan yang sedang berlangsung saat ini menuju satu tujuan tertentu: berjalan kaki (идти) atau berkendara (ехать)."
       },
       {
         "id": "q-ru-gram-9-pg-3",
@@ -3950,7 +3950,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kamus tersebut sangat bermanfaat untuk studi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Куда ты идёшь так быстро после занятий?\" berarti \"Ke mana kamu berjalan begitu cepat setelah kelas usai?\"."
+        "explanation": "Kalimat \"Куда ты идёшь так быстро после занятий?\" (dibaca: Kuda ty idyosh' tak bystro posle zanyatiy?) berarti \"Ke mana kamu berjalan begitu cepat setelah kelas usai?\". Kalimat ini menggunakan pola \"Идти (Jalan Kaki Sekarang) vs Ехать (Naik Kendaraan Sekarang) + Куда? (В/На + Akusatif)\" (Kata Kerja Gerak Tanpa Awalan Searah: Идти vs Ехать (Unidirectional Verbs of Motion)) yang berfungsi untuk menyatakan gerakan yang sedang berlangsung saat ini menuju satu tujuan tertentu: berjalan kaki (идти) atau berkendara (ехать)."
       },
       {
         "id": "q-ru-gram-9-pg-4",
@@ -4247,7 +4247,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap hari saya jalan kaki pergi ke universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Сейчас студенты идут на лекцию по международным отношениям.\" berarti \"Sekarang para mahasiswa sedang berjalan menuju ruang kuliah hubungan internasional.\"."
+        "explanation": "Kalimat \"Сейчас студенты идут на лекцию по международным отношениям.\" (dibaca: Seychas studenty idut na lektsiyu po mezhdunarodnym otnosheniyam.) berarti \"Sekarang para mahasiswa sedang berjalan menuju ruang kuliah hubungan internasional.\". Kalimat ini menggunakan pola \"Идти (Jalan Kaki Sekarang) vs Ехать (Naik Kendaraan Sekarang) + Куда? (В/На + Akusatif)\" (Kata Kerja Gerak Tanpa Awalan Searah: Идти vs Ехать (Unidirectional Verbs of Motion)) yang berfungsi untuk menyatakan gerakan yang sedang berlangsung saat ini menuju satu tujuan tertentu: berjalan kaki (идти) atau berkendara (ехать)."
       },
       {
         "id": "q-ru-gram-9-bb-2",
@@ -4391,7 +4391,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Surat itu tergeletak di atas meja."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Каждый день я хожу в университет пешком.\" berarti \"Setiap hari saya jalan kaki pergi ke universitas.\"."
+        "explanation": "Kalimat \"Каждый день я хожу в университет пешком.\" (dibaca: Kazhdyy den' ya khozhu v universitet peshkom.) berarti \"Setiap hari saya jalan kaki pergi ke universitas.\". Kalimat ini menggunakan pola \"Ходить (Jalan Kaki Rutin/Bolak-balik) vs Ездить (Berkendara Rutin/Bolak-balik)\" (Kata Kerja Gerak Dua Arah / Bolak-Balik: Ходить vs Ездить (Multidirectional Verbs of Motion)) yang berfungsi untuk menyatakan rutinitas, kebiasaan, kemampuan umum berjalan, atau perjalanan pulang-pergi (bolak-balik)."
       },
       {
         "id": "q-ru-gram-10-pg-2",
@@ -4407,7 +4407,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen kami berbicara bahasa Rusia dengan sangat jelas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Летом иностранные исследователи часто ездят в сибирские научные центры.\" berarti \"Di musim panas para peneliti asing sering bepergian ke pusat-pusat riset Siberia.\"."
+        "explanation": "Kalimat \"Летом иностранные исследователи часто ездят в сибирские научные центры.\" (dibaca: Letom inostrannye issledovateli chasto ezdyat v sibirskie nauchnye tsentry.) berarti \"Di musim panas para peneliti asing sering bepergian ke pusat-pusat riset Siberia.\". Kalimat ini menggunakan pola \"Ходить (Jalan Kaki Rutin/Bolak-balik) vs Ездить (Berkendara Rutin/Bolak-balik)\" (Kata Kerja Gerak Dua Arah / Bolak-Balik: Ходить vs Ездить (Multidirectional Verbs of Motion)) yang berfungsi untuk menyatakan rutinitas, kebiasaan, kemampuan umum berjalan, atau perjalanan pulang-pergi (bolak-balik)."
       },
       {
         "id": "q-ru-gram-10-pg-3",
@@ -4423,7 +4423,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kemarin saya pergi (dan sudah pulang kembali) menonton konser musik klasik di gedung filharmoni."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Вчера я ходил на концерт классической музыки в филармонию.\" berarti \"Kemarin saya pergi (dan sudah pulang kembali) menonton konser musik klasik di gedung filharmoni.\"."
+        "explanation": "Kalimat \"Вчера я ходил на концерт классической музыки в филармонию.\" (dibaca: Vchera ya khodil na kontsert klassicheskoy muzyki v filarmoniyu.) berarti \"Kemarin saya pergi (dan sudah pulang kembali) menonton konser musik klasik di gedung filharmoni.\". Kalimat ini menggunakan pola \"Ходить (Jalan Kaki Rutin/Bolak-balik) vs Ездить (Berkendara Rutin/Bolak-balik)\" (Kata Kerja Gerak Dua Arah / Bolak-Balik: Ходить vs Ездить (Multidirectional Verbs of Motion)) yang berfungsi untuk menyatakan rutinitas, kebiasaan, kemampuan umum berjalan, atau perjalanan pulang-pergi (bolak-balik)."
       },
       {
         "id": "q-ru-gram-10-pg-4",
@@ -4718,7 +4718,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap hari saya jalan kaki pergi ke universitas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Каждый день я хожу в университет пешком.\" berarti \"Setiap hari saya jalan kaki pergi ke universitas.\"."
+        "explanation": "Kalimat \"Каждый день я хожу в университет пешком.\" (dibaca: Kazhdyy den' ya khozhu v universitet peshkom.) berarti \"Setiap hari saya jalan kaki pergi ke universitas.\". Kalimat ini menggunakan pola \"Ходить (Jalan Kaki Rutin/Bolak-balik) vs Ездить (Berkendara Rutin/Bolak-balik)\" (Kata Kerja Gerak Dua Arah / Bolak-Balik: Ходить vs Ездить (Multidirectional Verbs of Motion)) yang berfungsi untuk menyatakan rutinitas, kebiasaan, kemampuan umum berjalan, atau perjalanan pulang-pergi (bolak-balik)."
       },
       {
         "id": "q-ru-gram-10-bb-2",
@@ -4793,24 +4793,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan kepemilikan dengan konstruksi У + Genitif + Есть dan ketiadaan dengan Нет + Genitif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)\" (Родительный падеж существительных (Кого? Чего? У кого есть? / Нет чего?)) berfungsi untuk: menyatakan kepemilikan dengan konstruksi У + Genitif + Есть dan ketiadaan dengan Нет + Genitif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "У меня есть старший брат в Москве. (Saya memiliki kakak laki-laki di Moskow.)"
+          "Rumus utama: У меня есть + Nom & У меня нет + Gen",
+          "Contoh 1: У меня есть старший брат в Москве. (U menya yest starshiy brat v Moskve.) — Saya memiliki kakak laki-laki di Moskow."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur У меня есть + Nom & У меня нет + Gen diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"У меня есть + Nom & У меня нет + Gen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Genitif ketiadaan netral berakhiran -и (времени).",
         "ruleList": [
-          "У меня сегодня нет свободного времени. (Hari ini saya tidak punya waktu luang.)"
+          "Polanya: У меня есть + Nom & У меня нет + Gen",
+          "Contoh 2: У меня сегодня нет свободного времени. (U menya segodnya net svobodnogo vremeni.) — Hari ini saya tidak punya waktu luang."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "В этом научном тексте нет ни одной ошибки. (Dalam teks ilmiah ini tidak ada satu kesalahan pun.)"
+          "Contoh 3: В этом научном тексте нет ни одной ошибки. (V etom nauchnom tekste net ni odnoy oshibki.) — Dalam teks ilmiah ini tidak ada satu kesalahan pun.",
+          "Hindari kesalahan: \"у меня нет время\" → gunakan bentuk yang benar: \"у меня нет времени\"."
         ]
       }
     ],
@@ -4818,19 +4821,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-11-ex-1",
         "native": "У меня есть старший брат в Москве.",
-        "phonetic": "",
+        "phonetic": "U menya yest starshiy brat v Moskve.",
         "translationId": "Saya memiliki kakak laki-laki di Moskow."
       },
       {
         "id": "ru-gram-11-ex-2",
         "native": "У меня сегодня нет свободного времени.",
-        "phonetic": "",
+        "phonetic": "U menya segodnya net svobodnogo vremeni.",
         "translationId": "Hari ini saya tidak punya waktu luang."
       },
       {
         "id": "ru-gram-11-ex-3",
         "native": "В этом научном тексте нет ни одной ошибки.",
-        "phonetic": "",
+        "phonetic": "V etom nauchnom tekste net ni odnoy oshibki.",
         "translationId": "Dalam teks ilmiah ini tidak ada satu kesalahan pun."
       }
     ],
@@ -4846,7 +4849,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)\" (У меня есть + Nom & У меня нет + Gen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-11-pg-1",
@@ -4862,7 +4865,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Pagi hari kami biasanya minum teh hangat dengan lemon."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"У меня есть старший брат в Москве.\" berarti \"Saya memiliki kakak laki-laki di Moskow.\"."
+        "explanation": "Kalimat \"У меня есть старший брат в Москве.\" (dibaca: U menya yest starshiy brat v Moskve.) berarti \"Saya memiliki kakak laki-laki di Moskow.\". Kalimat ini menggunakan pola \"У меня есть + Nom & У меня нет + Gen\" (Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)) yang berfungsi untuk menyatakan kepemilikan dengan konstruksi У + Genitif + Есть dan ketiadaan dengan Нет + Genitif."
       },
       {
         "id": "q-ru-gram-11-pg-2",
@@ -4878,7 +4881,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Hari ini saya tidak punya waktu luang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"У меня сегодня нет свободного времени.\" berarti \"Hari ini saya tidak punya waktu luang.\"."
+        "explanation": "Kalimat \"У меня сегодня нет свободного времени.\" (dibaca: U menya segodnya net svobodnogo vremeni.) berarti \"Hari ini saya tidak punya waktu luang.\". Kalimat ini menggunakan pola \"У меня есть + Nom & У меня нет + Gen\" (Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)) yang berfungsi untuk menyatakan kepemilikan dengan konstruksi У + Genitif + Есть dan ketiadaan dengan Нет + Genitif."
       },
       {
         "id": "q-ru-gram-11-pg-3",
@@ -4894,7 +4897,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dia sangat menghormati konsultan akademiknya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"В этом научном тексте нет ни одной ошибки.\" berarti \"Dalam teks ilmiah ini tidak ada satu kesalahan pun.\"."
+        "explanation": "Kalimat \"В этом научном тексте нет ни одной ошибки.\" (dibaca: V etom nauchnom tekste net ni odnoy oshibki.) berarti \"Dalam teks ilmiah ini tidak ada satu kesalahan pun.\". Kalimat ini menggunakan pola \"У меня есть + Nom & У меня нет + Gen\" (Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)) yang berfungsi untuk menyatakan kepemilikan dengan konstruksi У + Genitif + Есть dan ketiadaan dengan Нет + Genitif."
       },
       {
         "id": "q-ru-gram-11-pg-4",
@@ -4914,7 +4917,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-11-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)\"?",
         "options": [
           "Утром мы обычно пьём горячий чай с лимоном. — Pagi hari kami biasanya minum teh hangat dengan lemon.",
           "Я хорошо знаю этого уважаемого профессора. — Saya mengenal baik profesor yang terhormat ini.",
@@ -4928,7 +4931,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-11-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)\"?",
         "options": [
           "Студент пишет конспект лекции синей ручкой. — Mahasiswa itu menulis catatan kuliah dengan pena biru.",
           "Он обсуждает проект с известным профессором. — Dia mendiskusikan proyek tersebut bersama profesor ternama.",
@@ -5193,7 +5196,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu menulis catatan kuliah dengan pena biru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"У меня есть старший брат в Москве.\" berarti \"Saya memiliki kakak laki-laki di Moskow.\"."
+        "explanation": "Kalimat \"У меня есть старший брат в Москве.\" (dibaca: U menya yest starshiy brat v Moskve.) berarti \"Saya memiliki kakak laki-laki di Moskow.\". Kalimat ini menggunakan pola \"У меня есть + Nom & У меня нет + Gen\" (Kasus Genitif Tunggal untuk Kepemilikan & Ketiadaan (Родительный падеж)) yang berfungsi untuk menyatakan kepemilikan dengan konstruksi У + Genitif + Есть dan ketiadaan dengan Нет + Genitif."
       },
       {
         "id": "q-ru-gram-11-bb-2",
@@ -5268,24 +5271,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan penerima tindakan tak langsung dan menyatakan usia seseorang.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)\" (Дательный падеж (Кому? Чему? Сколько лет?)) berfungsi untuk: menyatakan penerima tindakan tak langsung dan menyatakan usia seseorang. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Мне двадцать один год, а моему другу двадцать лет. (Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun.)"
+          "Rumus utama: Verba Memberi + Datif & Datif + Usia + лет/года",
+          "Contoh 1: Мне двадцать один год, а моему другу двадцать лет. (Mne dvadtsat odin god, a moyemu drugu dvadtsat let.) — Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Verba Memberi + Datif & Datif + Usia + лет/года diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verba Memberi + Datif & Datif + Usia + лет/года\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Angka 20 diikuti kata bentuk genitif jamak лет.",
         "ruleList": [
-          "Опытный преподаватель всегда помогает новому студенту. (Dosen berpengalaman itu selalu membantu mahasiswa baru.)"
+          "Polanya: Verba Memberi + Datif & Datif + Usia + лет/года",
+          "Contoh 2: Опытный преподаватель всегда помогает новому студенту. (Opytnyy prepodavatel vsegda pomogayet novomu studentu.) — Dosen berpengalaman itu selalu membantu mahasiswa baru."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Я звоню научному руководителю по поводу курсовой работы. (Saya menelepon dosen pembimbing mengenai makalah semester.)"
+          "Contoh 3: Я звоню научному руководителю по поводу курсовой работы. (Ya zvonyu nauchnomu rukovoditelyu po povodu kursovoy raboty.) — Saya menelepon dosen pembimbing mengenai makalah semester.",
+          "Hindari kesalahan: \"мне двадцать года\" → gunakan bentuk yang benar: \"мне двадцать лет\"."
         ]
       }
     ],
@@ -5293,19 +5299,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-12-ex-1",
         "native": "Мне двадцать один год, а моему другу двадцать лет.",
-        "phonetic": "",
+        "phonetic": "Mne dvadtsat odin god, a moyemu drugu dvadtsat let.",
         "translationId": "Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun."
       },
       {
         "id": "ru-gram-12-ex-2",
         "native": "Опытный преподаватель всегда помогает новому студенту.",
-        "phonetic": "",
+        "phonetic": "Opytnyy prepodavatel vsegda pomogayet novomu studentu.",
         "translationId": "Dosen berpengalaman itu selalu membantu mahasiswa baru."
       },
       {
         "id": "ru-gram-12-ex-3",
         "native": "Я звоню научному руководителю по поводу курсовой работы.",
-        "phonetic": "",
+        "phonetic": "Ya zvonyu nauchnomu rukovoditelyu po povodu kursovoy raboty.",
         "translationId": "Saya menelepon dosen pembimbing mengenai makalah semester."
       }
     ],
@@ -5321,7 +5327,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)\" (Verba Memberi + Datif & Datif + Usia + лет/года) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-12-pg-1",
@@ -5337,7 +5343,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Мне двадцать один год, а моему другу двадцать лет.\" berarti \"Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun.\"."
+        "explanation": "Kalimat \"Мне двадцать один год, а моему другу двадцать лет.\" (dibaca: Mne dvadtsat odin god, a moyemu drugu dvadtsat let.) berarti \"Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun.\". Kalimat ini menggunakan pola \"Verba Memberi + Datif & Datif + Usia + лет/года\" (Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)) yang berfungsi untuk menyatakan penerima tindakan tak langsung dan menyatakan usia seseorang."
       },
       {
         "id": "q-ru-gram-12-pg-2",
@@ -5353,7 +5359,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya membaca artikel ilmiah yang rumit ini dalam waktu lama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Опытный преподаватель всегда помогает новому студенту.\" berarti \"Dosen berpengalaman itu selalu membantu mahasiswa baru.\"."
+        "explanation": "Kalimat \"Опытный преподаватель всегда помогает новому студенту.\" (dibaca: Opytnyy prepodavatel vsegda pomogayet novomu studentu.) berarti \"Dosen berpengalaman itu selalu membantu mahasiswa baru.\". Kalimat ini menggunakan pola \"Verba Memberi + Datif & Datif + Usia + лет/года\" (Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)) yang berfungsi untuk menyatakan penerima tindakan tak langsung dan menyatakan usia seseorang."
       },
       {
         "id": "q-ru-gram-12-pg-3",
@@ -5369,7 +5375,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa berhasil lulus semua ujian semester musim dingin."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Я звоню научному руководителю по поводу курсовой работы.\" berarti \"Saya menelepon dosen pembimbing mengenai makalah semester.\"."
+        "explanation": "Kalimat \"Я звоню научному руководителю по поводу курсовой работы.\" (dibaca: Ya zvonyu nauchnomu rukovoditelyu po povodu kursovoy raboty.) berarti \"Saya menelepon dosen pembimbing mengenai makalah semester.\". Kalimat ini menggunakan pola \"Verba Memberi + Datif & Datif + Usia + лет/года\" (Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)) yang berfungsi untuk menyatakan penerima tindakan tak langsung dan menyatakan usia seseorang."
       },
       {
         "id": "q-ru-gram-12-pg-4",
@@ -5389,7 +5395,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-12-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)\"?",
         "options": [
           "Мы встретили нового иностранного студента в деканате. — Kami bertemu mahasiswa asing baru itu di kantor dekanat.",
           "Я долго читал эту сложную научную статью. — Saya membaca artikel ilmiah yang rumit ini dalam waktu lama.",
@@ -5403,7 +5409,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-12-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)\"?",
         "options": [
           "Я звоню научному руководителю по поводу курсовой работы. — Saya menelepon dosen pembimbing mengenai makalah semester.",
           "Я хорошо знаю этого уважаемого профессора. — Saya mengenal baik profesor yang terhormat ini.",
@@ -5668,7 +5674,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya mengenal baik profesor yang terhormat ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Мне двадцать один год, а моему другу двадцать лет.\" berarti \"Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun.\"."
+        "explanation": "Kalimat \"Мне двадцать один год, а моему другу двадцать лет.\" (dibaca: Mne dvadtsat odin god, a moyemu drugu dvadtsat let.) berarti \"Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun.\". Kalimat ini menggunakan pola \"Verba Memberi + Datif & Datif + Usia + лет/года\" (Kasus Datif Tunggal Objek Tak Langsung & Usia (Дательный падеж)) yang berfungsi untuk menyatakan penerima tindakan tak langsung dan menyatakan usia seseorang."
       },
       {
         "id": "q-ru-gram-12-bb-2",
@@ -5743,24 +5749,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menunjukkan sarana/alat yang digunakan serta kebersamaan relasional dengan preposisi С.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kasus Instrumental Alat & Kebersamaan (Творительный падеж) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kasus Instrumental Alat & Kebersamaan (Творительный падеж)\" (Творительный падеж (Кем? Чем? С кем? С чем?)) berfungsi untuk: menunjukkan sarana/alat yang digunakan serta kebersamaan relasional dengan preposisi С. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Студент пишет конспект лекции синей ручкой. (Mahasiswa itu menulis catatan kuliah dengan pena biru.)"
+          "Rumus utama: С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi",
+          "Contoh 1: Студент пишет конспект лекции синей ручкой. (Student pishet konspekt lektsii siney ruchkoy.) — Mahasiswa itu menulis catatan kuliah dengan pena biru."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Alat tindakan langsung tidak menggunakan preposisi с.",
         "ruleList": [
-          "Утром мы обычно пьём горячий чай с лимоном. (Pagi hari kami biasanya minum teh hangat dengan lemon.)"
+          "Polanya: С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi",
+          "Contoh 2: Утром мы обычно пьём горячий чай с лимоном. (Utrom my obychno pyom goryachiy chay s limonom.) — Pagi hari kami biasanya minum teh hangat dengan lemon."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kasus Instrumental Alat & Kebersamaan (Творительный падеж)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Он обсуждает проект с известным профессором. (Dia mendiskusikan proyek tersebut bersama profesor ternama.)"
+          "Contoh 3: Он обсуждает проект с известным профессором. (On obsuzhdayet proyekt s izvestnym professorom.) — Dia mendiskusikan proyek tersebut bersama profesor ternama.",
+          "Hindari kesalahan: \"я пишу с ручкой\" → gunakan bentuk yang benar: \"я пишу ручкой\"."
         ]
       }
     ],
@@ -5768,19 +5777,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-13-ex-1",
         "native": "Студент пишет конспект лекции синей ручкой.",
-        "phonetic": "",
+        "phonetic": "Student pishet konspekt lektsii siney ruchkoy.",
         "translationId": "Mahasiswa itu menulis catatan kuliah dengan pena biru."
       },
       {
         "id": "ru-gram-13-ex-2",
         "native": "Утром мы обычно пьём горячий чай с лимоном.",
-        "phonetic": "",
+        "phonetic": "Utrom my obychno pyom goryachiy chay s limonom.",
         "translationId": "Pagi hari kami biasanya minum teh hangat dengan lemon."
       },
       {
         "id": "ru-gram-13-ex-3",
         "native": "Он обсуждает проект с известным профессором.",
-        "phonetic": "",
+        "phonetic": "On obsuzhdayet proyekt s izvestnym professorom.",
         "translationId": "Dia mendiskusikan proyek tersebut bersama profesor ternama."
       }
     ],
@@ -5796,7 +5805,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kasus Instrumental Alat & Kebersamaan (Творительный падеж) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kasus Instrumental Alat & Kebersamaan (Творительный падеж)\" (С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-13-pg-1",
@@ -5812,7 +5821,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Студент пишет конспект лекции синей ручкой.\" berarti \"Mahasiswa itu menulis catatan kuliah dengan pena biru.\"."
+        "explanation": "Kalimat \"Студент пишет конспект лекции синей ручкой.\" (dibaca: Student pishet konspekt lektsii siney ruchkoy.) berarti \"Mahasiswa itu menulis catatan kuliah dengan pena biru.\". Kalimat ini menggunakan pola \"С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi\" (Kasus Instrumental Alat & Kebersamaan (Творительный падеж)) yang berfungsi untuk menunjukkan sarana/alat yang digunakan serta kebersamaan relasional dengan preposisi С."
       },
       {
         "id": "q-ru-gram-13-pg-2",
@@ -5828,7 +5837,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Di perpustakaan universitas terdapat sangat banyak buku langka."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Утром мы обычно пьём горячий чай с лимоном.\" berarti \"Pagi hari kami biasanya minum teh hangat dengan lemon.\"."
+        "explanation": "Kalimat \"Утром мы обычно пьём горячий чай с лимоном.\" (dibaca: Utrom my obychno pyom goryachiy chay s limonom.) berarti \"Pagi hari kami biasanya minum teh hangat dengan lemon.\". Kalimat ini menggunakan pola \"С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi\" (Kasus Instrumental Alat & Kebersamaan (Творительный падеж)) yang berfungsi untuk menunjukkan sarana/alat yang digunakan serta kebersamaan relasional dengan preposisi С."
       },
       {
         "id": "q-ru-gram-13-pg-3",
@@ -5844,7 +5853,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Di kelompok belajar kami terdapat dua belas mahasiswa."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Он обсуждает проект с известным профессором.\" berarti \"Dia mendiskusikan proyek tersebut bersama profesor ternama.\"."
+        "explanation": "Kalimat \"Он обсуждает проект с известным профессором.\" (dibaca: On obsuzhdayet proyekt s izvestnym professorom.) berarti \"Dia mendiskusikan proyek tersebut bersama profesor ternama.\". Kalimat ini menggunakan pola \"С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi\" (Kasus Instrumental Alat & Kebersamaan (Творительный падеж)) yang berfungsi untuk menunjukkan sarana/alat yang digunakan serta kebersamaan relasional dengan preposisi С."
       },
       {
         "id": "q-ru-gram-13-pg-4",
@@ -5864,7 +5873,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-13-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Instrumental Alat & Kebersamaan (Творительный падеж)\"?",
         "options": [
           "Утром мы обычно пьём горячий чай с лимоном. — Pagi hari kami biasanya minum teh hangat dengan lemon.",
           "Наконец я прочитал всю статью до конца за два часа. — Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam.",
@@ -5878,7 +5887,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-13-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Instrumental Alat & Kebersamaan (Творительный падеж)\"?",
         "options": [
           "Я долго читал эту сложную научную статью. — Saya membaca artikel ilmiah yang rumit ini dalam waktu lama.",
           "Он обсуждает проект с известным профессором. — Dia mendiskusikan proyek tersebut bersama profesor ternama.",
@@ -6143,7 +6152,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya membaca artikel ilmiah yang rumit ini dalam waktu lama."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Студент пишет конспект лекции синей ручкой.\" berarti \"Mahasiswa itu menulis catatan kuliah dengan pena biru.\"."
+        "explanation": "Kalimat \"Студент пишет конспект лекции синей ручкой.\" (dibaca: Student pishet konspekt lektsii siney ruchkoy.) berarti \"Mahasiswa itu menulis catatan kuliah dengan pena biru.\". Kalimat ini menggunakan pola \"С (bersama) + Instrumental & Alat Tindakan Tanpa Preposisi\" (Kasus Instrumental Alat & Kebersamaan (Творительный падеж)) yang berfungsi untuk menunjukkan sarana/alat yang digunakan serta kebersamaan relasional dengan preposisi С."
       },
       {
         "id": "q-ru-gram-13-bb-2",
@@ -6218,24 +6227,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata benda berjiwa maskulin (orang dan hewan) berubah bentuk mengikuti kasus genitif saat menjadi objek langsung.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)\" (Винительный падеж одушевлённых существительных (Кого?)) berfungsi untuk: kata benda berjiwa maskulin (orang dan hewan) berubah bentuk mengikuti kasus genitif saat menjadi objek langsung. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Я хорошо знаю этого уважаемого профессора. (Saya mengenal baik profesor yang terhormat ini.)"
+          "Rumus utama: Akusatif Benda Hidup Maskulin = Genitif (-а / -я)",
+          "Contoh 1: Я хорошо знаю этого уважаемого профессора. (Ya khorosho znayu etogo uvazhayemogo professora.) — Saya mengenal baik profesor yang terhormat ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Akusatif Benda Hidup Maskulin = Genitif (-а / -я) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Akusatif Benda Hidup Maskulin = Genitif (-а / -я)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Objek langsung orang maskulin harus berubah akusatif bernyawa (-а).",
         "ruleList": [
-          "Мы встретили нового иностранного студента в деканате. (Kami bertemu mahasiswa asing baru itu di kantor dekanat.)"
+          "Polanya: Akusatif Benda Hidup Maskulin = Genitif (-а / -я)",
+          "Contoh 2: Мы встретили нового иностранного студента в деканате. (My vstretili novogo inostrannogo studenta v dekanate.) — Kami bertemu mahasiswa asing baru itu di kantor dekanat."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Она очень уважает своего научного консультанта. (Dia sangat menghormati konsultan akademiknya.)"
+          "Contoh 3: Она очень уважает своего научного консультанта. (Ona ochen uvazhayet svoyego nauchnogo konsultanta.) — Dia sangat menghormati konsultan akademiknya.",
+          "Hindari kesalahan: \"я знаю этот профессор\" → gunakan bentuk yang benar: \"я знаю этого профессора\"."
         ]
       }
     ],
@@ -6243,19 +6255,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-14-ex-1",
         "native": "Я хорошо знаю этого уважаемого профессора.",
-        "phonetic": "",
+        "phonetic": "Ya khorosho znayu etogo uvazhayemogo professora.",
         "translationId": "Saya mengenal baik profesor yang terhormat ini."
       },
       {
         "id": "ru-gram-14-ex-2",
         "native": "Мы встретили нового иностранного студента в деканате.",
-        "phonetic": "",
+        "phonetic": "My vstretili novogo inostrannogo studenta v dekanate.",
         "translationId": "Kami bertemu mahasiswa asing baru itu di kantor dekanat."
       },
       {
         "id": "ru-gram-14-ex-3",
         "native": "Она очень уважает своего научного консультанта.",
-        "phonetic": "",
+        "phonetic": "Ona ochen uvazhayet svoyego nauchnogo konsultanta.",
         "translationId": "Dia sangat menghormati konsultan akademiknya."
       }
     ],
@@ -6271,7 +6283,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)\" (Akusatif Benda Hidup Maskulin = Genitif (-а / -я)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-14-pg-1",
@@ -6287,7 +6299,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Di rak saya terdapat lima kamus Rusia-Indonesia."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Я хорошо знаю этого уважаемого профессора.\" berarti \"Saya mengenal baik profesor yang terhormat ini.\"."
+        "explanation": "Kalimat \"Я хорошо знаю этого уважаемого профессора.\" (dibaca: Ya khorosho znayu etogo uvazhayemogo professora.) berarti \"Saya mengenal baik profesor yang terhormat ini.\". Kalimat ini menggunakan pola \"Akusatif Benda Hidup Maskulin = Genitif (-а / -я)\" (Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)) yang berfungsi untuk kata benda berjiwa maskulin (orang dan hewan) berubah bentuk mengikuti kasus genitif saat menjadi objek langsung."
       },
       {
         "id": "q-ru-gram-14-pg-2",
@@ -6303,7 +6315,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya datang untuk kuliah di Moskow dari Indonesia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Мы встретили нового иностранного студента в деканате.\" berarti \"Kami bertemu mahasiswa asing baru itu di kantor dekanat.\"."
+        "explanation": "Kalimat \"Мы встретили нового иностранного студента в деканате.\" (dibaca: My vstretili novogo inostrannogo studenta v dekanate.) berarti \"Kami bertemu mahasiswa asing baru itu di kantor dekanat.\". Kalimat ini menggunakan pola \"Akusatif Benda Hidup Maskulin = Genitif (-а / -я)\" (Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)) yang berfungsi untuk kata benda berjiwa maskulin (orang dan hewan) berubah bentuk mengikuti kasus genitif saat menjadi objek langsung."
       },
       {
         "id": "q-ru-gram-14-pg-3",
@@ -6319,7 +6331,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dia sangat menghormati konsultan akademiknya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Она очень уважает своего научного консультанта.\" berarti \"Dia sangat menghormati konsultan akademiknya.\"."
+        "explanation": "Kalimat \"Она очень уважает своего научного консультанта.\" (dibaca: Ona ochen uvazhayet svoyego nauchnogo konsultanta.) berarti \"Dia sangat menghormati konsultan akademiknya.\". Kalimat ini menggunakan pola \"Akusatif Benda Hidup Maskulin = Genitif (-а / -я)\" (Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)) yang berfungsi untuk kata benda berjiwa maskulin (orang dan hewan) berubah bentuk mengikuti kasus genitif saat menjadi objek langsung."
       },
       {
         "id": "q-ru-gram-14-pg-4",
@@ -6339,7 +6351,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-14-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)\"?",
         "options": [
           "У меня на полке стоит пять русско-индонезийских словарей. — Di rak saya terdapat lima kamus Rusia-Indonesia.",
           "Мы встретили нового иностранного студента в деканате. — Kami bertemu mahasiswa asing baru itu di kantor dekanat.",
@@ -6353,7 +6365,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-14-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)\"?",
         "options": [
           "В университетской библиотеке очень много редких книг. — Di perpustakaan universitas terdapat sangat banyak buku langka.",
           "В нашей учебной группе учится двенадцать студентов. — Di kelompok belajar kami terdapat dua belas mahasiswa.",
@@ -6618,7 +6630,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya mengenal baik profesor yang terhormat ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Я хорошо знаю этого уважаемого профессора.\" berarti \"Saya mengenal baik profesor yang terhormat ini.\"."
+        "explanation": "Kalimat \"Я хорошо знаю этого уважаемого профессора.\" (dibaca: Ya khorosho znayu etogo uvazhayemogo professora.) berarti \"Saya mengenal baik profesor yang terhormat ini.\". Kalimat ini menggunakan pola \"Akusatif Benda Hidup Maskulin = Genitif (-а / -я)\" (Kasus Akusatif Benda Hidup (Одушевлённый винительный падеж)) yang berfungsi untuk kata benda berjiwa maskulin (orang dan hewan) berubah bentuk mengikuti kasus genitif saat menjadi objek langsung."
       },
       {
         "id": "q-ru-gram-14-bb-2",
@@ -6693,24 +6705,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membedakan aksi yang berfokus pada proses/durasi (НСВ) dengan aksi yang tuntas mencapai hasil (СВ).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)\" (Несовершенный и совершенный вид глаголов (НСВ / СВ)) berfungsi untuk: membedakan aksi yang berfokus pada proses/durasi (НСВ) dengan aksi yang tuntas mencapai hasil (СВ). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Я долго читал эту сложную научную статью. (Saya membaca artikel ilmiah yang rumit ini dalam waktu lama.)"
+          "Rumus utama: НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)",
+          "Contoh 1: Я долго читал эту сложную научную статью. (Ya dolgo chital etu slozhnuyu nauchnuyu statyu.) — Saya membaca artikel ilmiah yang rumit ini dalam waktu lama."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Keterangan durasi весь день menuntut aspek imperfektif (читал).",
         "ruleList": [
-          "Наконец я прочитал всю статью до конца за два часа. (Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam.)"
+          "Polanya: НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)",
+          "Contoh 2: Наконец я прочитал всю статью до конца за два часа. (Nakonets ya prochital vsyu statyu do kontsa za dva chasa.) — Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Студенты успешно сдали все экзамены зимней сессии. (Para mahasiswa berhasil lulus semua ujian semester musim dingin.)"
+          "Contoh 3: Студенты успешно сдали все экзамены зимней сессии. (Studenty uspeshno sdali vse ekzameny zimney sessii.) — Para mahasiswa berhasil lulus semua ujian semester musim dingin.",
+          "Hindari kesalahan: \"я прочитал статью весь день\" → gunakan bentuk yang benar: \"я читал статью весь день\"."
         ]
       }
     ],
@@ -6718,19 +6733,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-15-ex-1",
         "native": "Я долго читал эту сложную научную статью.",
-        "phonetic": "",
+        "phonetic": "Ya dolgo chital etu slozhnuyu nauchnuyu statyu.",
         "translationId": "Saya membaca artikel ilmiah yang rumit ini dalam waktu lama."
       },
       {
         "id": "ru-gram-15-ex-2",
         "native": "Наконец я прочитал всю статью до конца за два часа.",
-        "phonetic": "",
+        "phonetic": "Nakonets ya prochital vsyu statyu do kontsa za dva chasa.",
         "translationId": "Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam."
       },
       {
         "id": "ru-gram-15-ex-3",
         "native": "Студенты успешно сдали все экзамены зимней сессии.",
-        "phonetic": "",
+        "phonetic": "Studenty uspeshno sdali vse ekzameny zimney sessii.",
         "translationId": "Para mahasiswa berhasil lulus semua ujian semester musim dingin."
       }
     ],
@@ -6746,7 +6761,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)\" (НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-15-pg-1",
@@ -6762,7 +6777,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Я долго читал эту сложную научную статью.\" berarti \"Saya membaca artikel ilmiah yang rumit ini dalam waktu lama.\"."
+        "explanation": "Kalimat \"Я долго читал эту сложную научную статью.\" (dibaca: Ya dolgo chital etu slozhnuyu nauchnuyu statyu.) berarti \"Saya membaca artikel ilmiah yang rumit ini dalam waktu lama.\". Kalimat ini menggunakan pola \"НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)\" (Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)) yang berfungsi untuk membedakan aksi yang berfokus pada proses/durasi (НСВ) dengan aksi yang tuntas mencapai hasil (СВ)."
       },
       {
         "id": "q-ru-gram-15-pg-2",
@@ -6778,7 +6793,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Наконец я прочитал всю статью до конца за два часа.\" berarti \"Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam.\"."
+        "explanation": "Kalimat \"Наконец я прочитал всю статью до конца за два часа.\" (dibaca: Nakonets ya prochital vsyu statyu do kontsa za dva chasa.) berarti \"Akhirnya saya selesai membaca seluruh artikel hingga tuntas dalam dua jam.\". Kalimat ini menggunakan pola \"НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)\" (Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)) yang berfungsi untuk membedakan aksi yang berfokus pada proses/durasi (НСВ) dengan aksi yang tuntas mencapai hasil (СВ)."
       },
       {
         "id": "q-ru-gram-15-pg-3",
@@ -6794,7 +6809,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Semua mahasiswa asing telah siap sepenuhnya menghadapi ujian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Студенты успешно сдали все экзамены зимней сессии.\" berarti \"Para mahasiswa berhasil lulus semua ujian semester musim dingin.\"."
+        "explanation": "Kalimat \"Студенты успешно сдали все экзамены зимней сессии.\" (dibaca: Studenty uspeshno sdali vse ekzameny zimney sessii.) berarti \"Para mahasiswa berhasil lulus semua ujian semester musim dingin.\". Kalimat ini menggunakan pola \"НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)\" (Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)) yang berfungsi untuk membedakan aksi yang berfokus pada proses/durasi (НСВ) dengan aksi yang tuntas mencapai hasil (СВ)."
       },
       {
         "id": "q-ru-gram-15-pg-4",
@@ -6814,7 +6829,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-15-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)\"?",
         "options": [
           "После звонка студенты вышли из лекционной аудитории. — Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah.",
           "К сожалению, профессор сейчас очень занят на заседании. — Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat.",
@@ -6828,7 +6843,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-15-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)\"?",
         "options": [
           "Я приехал на учёбу в Москву из Индонезии. — Saya datang untuk kuliah di Moskow dari Indonesia.",
           "Мы идём на консультацию к нашему профессору. — Kami pergi berkonsultasi menghadap profesor kami.",
@@ -7089,7 +7104,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya datang untuk kuliah di Moskow dari Indonesia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Я долго читал эту сложную научную статью.\" berarti \"Saya membaca artikel ilmiah yang rumit ini dalam waktu lama.\"."
+        "explanation": "Kalimat \"Я долго читал эту сложную научную статью.\" (dibaca: Ya dolgo chital etu slozhnuyu nauchnuyu statyu.) berarti \"Saya membaca artikel ilmiah yang rumit ini dalam waktu lama.\". Kalimat ini menggunakan pola \"НСВ (Proses/Rutinitas) vs СВ (Hasil Tuntas Sekali)\" (Aspek Kata Kerja: Imperfektif vs Perfektif (Виды глаголов)) yang berfungsi untuk membedakan aksi yang berfokus pada proses/durasi (НСВ) dengan aksi yang tuntas mencapai hasil (СВ)."
       },
       {
         "id": "q-ru-gram-15-bb-2",
@@ -7164,24 +7179,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Bentuk genitif jamak digunakan setelah angka 5 ke atas, kata много/мало, dan menyatakan kepemilikan kolektif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)\" (Родительный падеж множественного числа существительных) berfungsi untuk: bentuk genitif jamak digunakan setelah angka 5 ke atas, kata много/мало, dan menyatakan kepemilikan kolektif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "В университетской библиотеке очень много редких книг. (Di perpustakaan universitas terdapat sangat banyak buku langka.)"
+          "Rumus utama: Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей",
+          "Contoh 1: В университетской библиотеке очень много редких книг. (V universitetskoy biblioteke ochen mnogo redkikh knig.) — Di perpustakaan universitas terdapat sangat banyak buku langka."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Setelah много gunakan kasus genitif jamak (книг).",
         "ruleList": [
-          "У меня на полке стоит пять русско-индонезийских словарей. (Di rak saya terdapat lima kamus Rusia-Indonesia.)"
+          "Polanya: Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей",
+          "Contoh 2: У меня на полке стоит пять русско-индонезийских словарей. (U menya na polke stoit pyat russko-indoneziyskikh slovarey.) — Di rak saya terdapat lima kamus Rusia-Indonesia."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "В нашей учебной группе учится двенадцать студентов. (Di kelompok belajar kami terdapat dua belas mahasiswa.)"
+          "Contoh 3: В нашей учебной группе учится двенадцать студентов. (V nashey uchebnoy gruppe uchitsya dvenadtsat studentov.) — Di kelompok belajar kami terdapat dua belas mahasiswa.",
+          "Hindari kesalahan: \"много книга\" → gunakan bentuk yang benar: \"много книг\"."
         ]
       }
     ],
@@ -7189,19 +7207,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-16-ex-1",
         "native": "В университетской библиотеке очень много редких книг.",
-        "phonetic": "",
+        "phonetic": "V universitetskoy biblioteke ochen mnogo redkikh knig.",
         "translationId": "Di perpustakaan universitas terdapat sangat banyak buku langka."
       },
       {
         "id": "ru-gram-16-ex-2",
         "native": "У меня на полке стоит пять русско-индонезийских словарей.",
-        "phonetic": "",
+        "phonetic": "U menya na polke stoit pyat russko-indoneziyskikh slovarey.",
         "translationId": "Di rak saya terdapat lima kamus Rusia-Indonesia."
       },
       {
         "id": "ru-gram-16-ex-3",
         "native": "В нашей учебной группе учится двенадцать студентов.",
-        "phonetic": "",
+        "phonetic": "V nashey uchebnoy gruppe uchitsya dvenadtsat studentov.",
         "translationId": "Di kelompok belajar kami terdapat dua belas mahasiswa."
       }
     ],
@@ -7217,7 +7235,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)\" (Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-16-pg-1",
@@ -7233,7 +7251,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Di perpustakaan universitas terdapat sangat banyak buku langka."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"В университетской библиотеке очень много редких книг.\" berarti \"Di perpustakaan universitas terdapat sangat banyak buku langka.\"."
+        "explanation": "Kalimat \"В университетской библиотеке очень много редких книг.\" (dibaca: V universitetskoy biblioteke ochen mnogo redkikh knig.) berarti \"Di perpustakaan universitas terdapat sangat banyak buku langka.\". Kalimat ini menggunakan pola \"Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей\" (Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)) yang berfungsi untuk bentuk genitif jamak digunakan setelah angka 5 ke atas, kata много/мало, dan menyatakan kepemilikan kolektif."
       },
       {
         "id": "q-ru-gram-16-pg-2",
@@ -7249,7 +7267,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Teks akademik ini jauh lebih sulit daripada teks sebelumnya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"У меня на полке стоит пять русско-индонезийских словарей.\" berarti \"Di rak saya terdapat lima kamus Rusia-Indonesia.\"."
+        "explanation": "Kalimat \"У меня на полке стоит пять русско-индонезийских словарей.\" (dibaca: U menya na polke stoit pyat russko-indoneziyskikh slovarey.) berarti \"Di rak saya terdapat lima kamus Rusia-Indonesia.\". Kalimat ini menggunakan pola \"Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей\" (Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)) yang berfungsi untuk bentuk genitif jamak digunakan setelah angka 5 ke atas, kata много/мало, dan menyatakan kepemilikan kolektif."
       },
       {
         "id": "q-ru-gram-16-pg-3",
@@ -7265,7 +7283,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah ujian paling sulit sepanjang semester pertama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В нашей учебной группе учится двенадцать студентов.\" berarti \"Di kelompok belajar kami terdapat dua belas mahasiswa.\"."
+        "explanation": "Kalimat \"В нашей учебной группе учится двенадцать студентов.\" (dibaca: V nashey uchebnoy gruppe uchitsya dvenadtsat studentov.) berarti \"Di kelompok belajar kami terdapat dua belas mahasiswa.\". Kalimat ini menggunakan pola \"Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей\" (Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)) yang berfungsi untuk bentuk genitif jamak digunakan setelah angka 5 ke atas, kata много/мало, dan menyatakan kepemilikan kolektif."
       },
       {
         "id": "q-ru-gram-16-pg-4",
@@ -7285,7 +7303,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-16-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)\"?",
         "options": [
           "Эта читальня очень светла и удобна для работы. — Ruang baca ini sangat terang dan nyaman untuk bekerja.",
           "Этот академический текст намного труднее, чем предыдущий. — Teks akademik ini jauh lebih sulit daripada teks sebelumnya.",
@@ -7299,7 +7317,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-16-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)\"?",
         "options": [
           "В нашей учебной группе учится двенадцать студентов. — Di kelompok belajar kami terdapat dua belas mahasiswa.",
           "К сожалению, профессор сейчас очень занят на заседании. — Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat.",
@@ -7560,7 +7578,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В университетской библиотеке очень много редких книг.\" berarti \"Di perpustakaan universitas terdapat sangat banyak buku langka.\"."
+        "explanation": "Kalimat \"В университетской библиотеке очень много редких книг.\" (dibaca: V universitetskoy biblioteke ochen mnogo redkikh knig.) berarti \"Di perpustakaan universitas terdapat sangat banyak buku langka.\". Kalimat ini menggunakan pola \"Maskulin: -ов/-ев / Feminin: Nol Vokal / Netral: Nol Vokal / -ей\" (Kasus Genitif Jamak Kata Benda (Родительный падеж множественного числа)) yang berfungsi untuk bentuk genitif jamak digunakan setelah angka 5 ke atas, kata много/мало, dan menyatakan kepemilikan kolektif."
       },
       {
         "id": "q-ru-gram-16-bb-2",
@@ -7635,24 +7653,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menjodohkan pasangan preposisi asal dan tujuan: В <-> Из, На <-> С, К <-> От.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)\" (Предлоги движения и направления (Откуда? Куда?)) berfungsi untuk: menjodohkan pasangan preposisi asal dan tujuan: В <-> Из, На <-> С, К <-> От. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Я приехал на учёбу в Москву из Индонезии. (Saya datang untuk kuliah di Moskow dari Indonesia.)"
+          "Rumus utama: Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)",
+          "Contoh 1: Я приехал на учёбу в Москву из Индонезии. (Ya priyekhal na uchyobu v Moskvu iz Indonezii.) — Saya datang untuk kuliah di Moskow dari Indonesia."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Negara menggunakan pasangan preposisi в/из (из Индонезии).",
         "ruleList": [
-          "После звонка студенты вышли из лекционной аудитории. (Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah.)"
+          "Polanya: Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)",
+          "Contoh 2: После звонка студенты вышли из лекционной аудитории. (Posle zvonka studenty vyshli iz lektsionnoy auditorii.) — Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Мы идём на консультацию к нашему профессору. (Kami pergi berkonsultasi menghadap profesor kami.)"
+          "Contoh 3: Мы идём на консультацию к нашему профессору. (My idyom na konsultatsiyu k nashemu professoru.) — Kami pergi berkonsultasi menghadap profesor kami.",
+          "Hindari kesalahan: \"я приехал с Индонезии\" → gunakan bentuk yang benar: \"я приехал из Индонезии\"."
         ]
       }
     ],
@@ -7660,19 +7681,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-17-ex-1",
         "native": "Я приехал на учёбу в Москву из Индонезии.",
-        "phonetic": "",
+        "phonetic": "Ya priyekhal na uchyobu v Moskvu iz Indonezii.",
         "translationId": "Saya datang untuk kuliah di Moskow dari Indonesia."
       },
       {
         "id": "ru-gram-17-ex-2",
         "native": "После звонка студенты вышли из лекционной аудитории.",
-        "phonetic": "",
+        "phonetic": "Posle zvonka studenty vyshli iz lektsionnoy auditorii.",
         "translationId": "Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah."
       },
       {
         "id": "ru-gram-17-ex-3",
         "native": "Мы идём на консультацию к нашему профессору.",
-        "phonetic": "",
+        "phonetic": "My idyom na konsultatsiyu k nashemu professoru.",
         "translationId": "Kami pergi berkonsultasi menghadap profesor kami."
       }
     ],
@@ -7688,7 +7709,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)\" (Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-17-pg-1",
@@ -7704,7 +7725,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Bagi saya tata bahasa Rusia lebih menarik daripada fonetik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Я приехал на учёбу в Москву из Индонезии.\" berarti \"Saya datang untuk kuliah di Moskow dari Indonesia.\"."
+        "explanation": "Kalimat \"Я приехал на учёбу в Москву из Индонезии.\" (dibaca: Ya priyekhal na uchyobu v Moskvu iz Indonezii.) berarti \"Saya datang untuk kuliah di Moskow dari Indonesia.\". Kalimat ini menggunakan pola \"Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)\" (Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)) yang berfungsi untuk menjodohkan pasangan preposisi asal dan tujuan: В <-> Из, На <-> С, К <-> От."
       },
       {
         "id": "q-ru-gram-17-pg-2",
@@ -7720,7 +7741,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"После звонка студенты вышли из лекционной аудитории.\" berarti \"Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah.\"."
+        "explanation": "Kalimat \"После звонка студенты вышли из лекционной аудитории.\" (dibaca: Posle zvonka studenty vyshli iz lektsionnoy auditorii.) berarti \"Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah.\". Kalimat ini menggunakan pola \"Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)\" (Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)) yang berfungsi untuk menjodohkan pasangan preposisi asal dan tujuan: В <-> Из, На <-> С, К <-> От."
       },
       {
         "id": "q-ru-gram-17-pg-3",
@@ -7736,7 +7757,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Di ruang baca perpustakaan dilarang berbicara keras-keras."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Мы идём на консультацию к нашему профессору.\" berarti \"Kami pergi berkonsultasi menghadap profesor kami.\"."
+        "explanation": "Kalimat \"Мы идём на консультацию к нашему профессору.\" (dibaca: My idyom na konsultatsiyu k nashemu professoru.) berarti \"Kami pergi berkonsultasi menghadap profesor kami.\". Kalimat ini menggunakan pola \"Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)\" (Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)) yang berfungsi untuk menjodohkan pasangan preposisi asal dan tujuan: В <-> Из, На <-> С, К <-> От."
       },
       {
         "id": "q-ru-gram-17-pg-4",
@@ -7756,7 +7777,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-17-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)\"?",
         "options": [
           "После звонка студенты вышли из лекционной аудитории. — Setelah bel berbunyi para mahasiswa keluar dari ruang kuliah.",
           "Для меня грамматика русского языка интереснее фонетики. — Bagi saya tata bahasa Rusia lebih menarik daripada fonetik.",
@@ -7770,7 +7791,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-17-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)\"?",
         "options": [
           "Этот академический текст намного труднее, чем предыдущий. — Teks akademik ini jauh lebih sulit daripada teks sebelumnya.",
           "Мы идём на консультацию к нашему профессору. — Kami pergi berkonsultasi menghadap profesor kami.",
@@ -8031,7 +8052,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Teks akademik ini jauh lebih sulit daripada teks sebelumnya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Я приехал на учёбу в Москву из Индонезии.\" berarti \"Saya datang untuk kuliah di Moskow dari Indonesia.\"."
+        "explanation": "Kalimat \"Я приехал на учёбу в Москву из Индонезии.\" (dibaca: Ya priyekhal na uchyobu v Moskvu iz Indonezii.) berarti \"Saya datang untuk kuliah di Moskow dari Indonesia.\". Kalimat ini menggunakan pola \"Из/С/От (Asal/Keluar) vs В/На/К (Tujuan/Masuk)\" (Preposisi Ruang dan Arah Kompleks (Из, С, От, До, К)) yang berfungsi untuk menjodohkan pasangan preposisi asal dan tujuan: В <-> Из, На <-> С, К <-> От."
       },
       {
         "id": "q-ru-gram-17-bb-2",
@@ -8106,24 +8127,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Digunakan murni sebagai predikat kalimat untuk menyatakan kualitas atau keadaan saat ini.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kata Sifat Bentuk Pendek (Краткие прилагательные) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kata Sifat Bentuk Pendek (Краткие прилагательные)\" (Краткая форма качественных прилагательных) berfungsi untuk: digunakan murni sebagai predikat kalimat untuk menyatakan kualitas atau keadaan saat ini. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "К сожалению, профессор сейчас очень занят на заседании. (Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat.)"
+          "Rumus utama: Subjek + Bentuk Pendek (- / -а / -о / -ы)",
+          "Contoh 1: К сожалению, профессор сейчас очень занят на заседании. (K sozhaleniyu, professor seychas ochen zanyat na zasedanii.) — Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Subjek + Bentuk Pendek (- / -а / -о / -ы) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Subjek + Bentuk Pendek (- / -а / -о / -ы)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan bentuk pendek занят sebagai predikat saat ini.",
         "ruleList": [
-          "Эта читальня очень светла и удобна для работы. (Ruang baca ini sangat terang dan nyaman untuk bekerja.)"
+          "Polanya: Subjek + Bentuk Pendek (- / -а / -о / -ы)",
+          "Contoh 2: Эта читальня очень светла и удобна для работы. (Eta chitalnya ochen svetla i udobna dlya raboty.) — Ruang baca ini sangat terang dan nyaman untuk bekerja."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kata Sifat Bentuk Pendek (Краткие прилагательные)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Все иностранные студенты полностью готовы к экзамену. (Semua mahasiswa asing telah siap sepenuhnya menghadapi ujian.)"
+          "Contoh 3: Все иностранные студенты полностью готовы к экзамену. (Vse inostrannyye studenty polnostyu gotovy k ekzamenu.) — Semua mahasiswa asing telah siap sepenuhnya menghadapi ujian.",
+          "Hindari kesalahan: \"профессор занятый сейчас\" → gunakan bentuk yang benar: \"профессор занят сейчас\"."
         ]
       }
     ],
@@ -8131,19 +8155,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-18-ex-1",
         "native": "К сожалению, профессор сейчас очень занят на заседании.",
-        "phonetic": "",
+        "phonetic": "K sozhaleniyu, professor seychas ochen zanyat na zasedanii.",
         "translationId": "Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat."
       },
       {
         "id": "ru-gram-18-ex-2",
         "native": "Эта читальня очень светла и удобна для работы.",
-        "phonetic": "",
+        "phonetic": "Eta chitalnya ochen svetla i udobna dlya raboty.",
         "translationId": "Ruang baca ini sangat terang dan nyaman untuk bekerja."
       },
       {
         "id": "ru-gram-18-ex-3",
         "native": "Все иностранные студенты полностью готовы к экзамену.",
-        "phonetic": "",
+        "phonetic": "Vse inostrannyye studenty polnostyu gotovy k ekzamenu.",
         "translationId": "Semua mahasiswa asing telah siap sepenuhnya menghadapi ujian."
       }
     ],
@@ -8159,7 +8183,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kata Sifat Bentuk Pendek (Краткие прилагательные) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kata Sifat Bentuk Pendek (Краткие прилагательные)\" (Subjek + Bentuk Pendek (- / -а / -о / -ы)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-18-pg-1",
@@ -8175,7 +8199,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya harus segera mengirimkan laporan ilmiah ke departemen."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"К сожалению, профессор сейчас очень занят на заседании.\" berarti \"Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat.\"."
+        "explanation": "Kalimat \"К сожалению, профессор сейчас очень занят на заседании.\" (dibaca: K sozhaleniyu, professor seychas ochen zanyat na zasedanii.) berarti \"Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat.\". Kalimat ini menggunakan pola \"Subjek + Bentuk Pendek (- / -а / -о / -ы)\" (Kata Sifat Bentuk Pendek (Краткие прилагательные)) yang berfungsi untuk digunakan murni sebagai predikat kalimat untuk menyatakan kualitas atau keadaan saat ini."
       },
       {
         "id": "q-ru-gram-18-pg-2",
@@ -8191,7 +8215,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya memiliki kakak laki-laki di Moskow."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Эта читальня очень светла и удобна для работы.\" berarti \"Ruang baca ini sangat terang dan nyaman untuk bekerja.\"."
+        "explanation": "Kalimat \"Эта читальня очень светла и удобна для работы.\" (dibaca: Eta chitalnya ochen svetla i udobna dlya raboty.) berarti \"Ruang baca ini sangat terang dan nyaman untuk bekerja.\". Kalimat ini menggunakan pola \"Subjek + Bentuk Pendek (- / -а / -о / -ы)\" (Kata Sifat Bentuk Pendek (Краткие прилагательные)) yang berfungsi untuk digunakan murni sebagai predikat kalimat untuk menyatakan kualitas atau keadaan saat ini."
       },
       {
         "id": "q-ru-gram-18-pg-3",
@@ -8207,7 +8231,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Semua mahasiswa asing telah siap sepenuhnya menghadapi ujian."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Все иностранные студенты полностью готовы к экзамену.\" berarti \"Semua mahasiswa asing telah siap sepenuhnya menghadapi ujian.\"."
+        "explanation": "Kalimat \"Все иностранные студенты полностью готовы к экзамену.\" (dibaca: Vse inostrannyye studenty polnostyu gotovy k ekzamenu.) berarti \"Semua mahasiswa asing telah siap sepenuhnya menghadapi ujian.\". Kalimat ini menggunakan pola \"Subjek + Bentuk Pendek (- / -а / -о / -ы)\" (Kata Sifat Bentuk Pendek (Краткие прилагательные)) yang berfungsi untuk digunakan murni sebagai predikat kalimat untuk menyatakan kualitas atau keadaan saat ini."
       },
       {
         "id": "q-ru-gram-18-pg-4",
@@ -8227,7 +8251,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-18-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kata Sifat Bentuk Pendek (Краткие прилагательные)\"?",
         "options": [
           "Мне нужно срочно отправить научный отчёт на кафедру. — Saya harus segera mengirimkan laporan ilmiah ke departemen.",
           "Эта читальня очень светла и удобна для работы. — Ruang baca ini sangat terang dan nyaman untuk bekerja.",
@@ -8241,7 +8265,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-18-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kata Sifat Bentuk Pendek (Краткие прилагательные)\"?",
         "options": [
           "Каждый студент должен вовремя сдавать письменные работы. — Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu.",
           "В читальном зале библиотеки нельзя громко разговаривать. — Di ruang baca perpustakaan dilarang berbicara keras-keras.",
@@ -8502,7 +8526,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"К сожалению, профессор сейчас очень занят на заседании.\" berarti \"Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat.\"."
+        "explanation": "Kalimat \"К сожалению, профессор сейчас очень занят на заседании.\" (dibaca: K sozhaleniyu, professor seychas ochen zanyat na zasedanii.) berarti \"Sayangnya, profesor saat ini sedang sangat sibuk dalam rapat.\". Kalimat ini menggunakan pola \"Subjek + Bentuk Pendek (- / -а / -о / -ы)\" (Kata Sifat Bentuk Pendek (Краткие прилагательные)) yang berfungsi untuk digunakan murni sebagai predikat kalimat untuk menyatakan kualitas atau keadaan saat ini."
       },
       {
         "id": "q-ru-gram-18-bb-2",
@@ -8577,24 +8601,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membandingkan dua objek (lebih...) dan menyatakan kualitas paling unggul (ter-).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)\" (Сравнительная и превосходная степень прилагательных) berfungsi untuk: membandingkan dua objek (lebih...) dan menyatakan kualitas paling unggul (ter-). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Этот академический текст намного труднее, чем предыдущий. (Teks akademik ini jauh lebih sulit daripada teks sebelumnya.)"
+          "Rumus utama: Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva",
+          "Contoh 1: Этот академический текст намного труднее, чем предыдущий. (Etot akademicheskiy tekst namnogo trudneye, chem predydushchiy.) — Teks akademik ini jauh lebih sulit daripada teks sebelumnya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Jangan menggabungkan более dengan akhiran komparatif -ее.",
         "ruleList": [
-          "Для меня грамматика русского языка интереснее фонетики. (Bagi saya tata bahasa Rusia lebih menarik daripada fonetik.)"
+          "Polanya: Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva",
+          "Contoh 2: Для меня грамматика русского языка интереснее фонетики. (Dlya menya grammatika russkogo yazyka interesneye fonetiki.) — Bagi saya tata bahasa Rusia lebih menarik daripada fonetik."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Это самый сложный экзамен за весь первый семестр. (Ini adalah ujian paling sulit sepanjang semester pertama.)"
+          "Contoh 3: Это самый сложный экзамен за весь первый семестр. (Eto samyy slozhnyy ekzamen za ves pervyy semestr.) — Ini adalah ujian paling sulit sepanjang semester pertama.",
+          "Hindari kesalahan: \"более труднее\" → gunakan bentuk yang benar: \"труднее / более трудный\"."
         ]
       }
     ],
@@ -8602,19 +8629,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-19-ex-1",
         "native": "Этот академический текст намного труднее, чем предыдущий.",
-        "phonetic": "",
+        "phonetic": "Etot akademicheskiy tekst namnogo trudneye, chem predydushchiy.",
         "translationId": "Teks akademik ini jauh lebih sulit daripada teks sebelumnya."
       },
       {
         "id": "ru-gram-19-ex-2",
         "native": "Для меня грамматика русского языка интереснее фонетики.",
-        "phonetic": "",
+        "phonetic": "Dlya menya grammatika russkogo yazyka interesneye fonetiki.",
         "translationId": "Bagi saya tata bahasa Rusia lebih menarik daripada fonetik."
       },
       {
         "id": "ru-gram-19-ex-3",
         "native": "Это самый сложный экзамен за весь первый семестр.",
-        "phonetic": "",
+        "phonetic": "Eto samyy slozhnyy ekzamen za ves pervyy semestr.",
         "translationId": "Ini adalah ujian paling sulit sepanjang semester pertama."
       }
     ],
@@ -8630,7 +8657,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)\" (Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-19-pg-1",
@@ -8646,7 +8673,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Hari ini saya tidak punya waktu luang."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Этот академический текст намного труднее, чем предыдущий.\" berarti \"Teks akademik ini jauh lebih sulit daripada teks sebelumnya.\"."
+        "explanation": "Kalimat \"Этот академический текст намного труднее, чем предыдущий.\" (dibaca: Etot akademicheskiy tekst namnogo trudneye, chem predydushchiy.) berarti \"Teks akademik ini jauh lebih sulit daripada teks sebelumnya.\". Kalimat ini menggunakan pola \"Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva\" (Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)) yang berfungsi untuk membandingkan dua objek (lebih...) dan menyatakan kualitas paling unggul (ter-)."
       },
       {
         "id": "q-ru-gram-19-pg-2",
@@ -8662,7 +8689,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Bagi saya tata bahasa Rusia lebih menarik daripada fonetik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Для меня грамматика русского языка интереснее фонетики.\" berarti \"Bagi saya tata bahasa Rusia lebih menarik daripada fonetik.\"."
+        "explanation": "Kalimat \"Для меня грамматика русского языка интереснее фонетики.\" (dibaca: Dlya menya grammatika russkogo yazyka interesneye fonetiki.) berarti \"Bagi saya tata bahasa Rusia lebih menarik daripada fonetik.\". Kalimat ini menggunakan pola \"Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva\" (Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)) yang berfungsi untuk membandingkan dua objek (lebih...) dan menyatakan kualitas paling unggul (ter-)."
       },
       {
         "id": "q-ru-gram-19-pg-3",
@@ -8678,7 +8705,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya menelepon dosen pembimbing mengenai makalah semester."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Это самый сложный экзамен за весь первый семестр.\" berarti \"Ini adalah ujian paling sulit sepanjang semester pertama.\"."
+        "explanation": "Kalimat \"Это самый сложный экзамен за весь первый семестр.\" (dibaca: Eto samyy slozhnyy ekzamen za ves pervyy semestr.) berarti \"Ini adalah ujian paling sulit sepanjang semester pertama.\". Kalimat ini menggunakan pola \"Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva\" (Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)) yang berfungsi untuk membandingkan dua objek (lebih...) dan menyatakan kualitas paling unggul (ter-)."
       },
       {
         "id": "q-ru-gram-19-pg-4",
@@ -8698,7 +8725,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-19-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)\"?",
         "options": [
           "У меня сегодня нет свободного времени. — Hari ini saya tidak punya waktu luang.",
           "Мне двадцать один год, а моему другу двадцать лет. — Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun.",
@@ -8712,7 +8739,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-19-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)\"?",
         "options": [
           "У меня есть старший брат в Москве. — Saya memiliki kakak laki-laki di Moskow.",
           "В этом научном тексте нет ни одной ошибки. — Dalam teks ilmiah ini tidak ada satu kesalahan pun.",
@@ -8975,7 +9002,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya memiliki kakak laki-laki di Moskow."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Этот академический текст намного труднее, чем предыдущий.\" berarti \"Teks akademik ini jauh lebih sulit daripada teks sebelumnya.\"."
+        "explanation": "Kalimat \"Этот академический текст намного труднее, чем предыдущий.\" (dibaca: Etot akademicheskiy tekst namnogo trudneye, chem predydushchiy.) berarti \"Teks akademik ini jauh lebih sulit daripada teks sebelumnya.\". Kalimat ini menggunakan pola \"Komparatif: -ее/-ей / Чем + Nom & Superlatif: Самый + Adjektiva\" (Bentuk Komparatif dan Superlatif Kata Sifat (Степени сравнения)) yang berfungsi untuk membandingkan dua objek (lebih...) dan menyatakan kualitas paling unggul (ter-)."
       },
       {
         "id": "q-ru-gram-19-bb-2",
@@ -9050,24 +9077,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan keharusan, kebutuhan, izin diperbolehkan, dan larangan mutlak.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Modalitas Keharusan: Должен, Нужно, Можно, Нельзя memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Modalitas Keharusan: Должен, Нужно, Можно, Нельзя\" (Модальные слова (Должен, Нужно, Надо, Можно, Нельзя)) berfungsi untuk: menyatakan keharusan, kebutuhan, izin diperbolehkan, dan larangan mutlak. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Каждый студент должен вовремя сдавать письменные работы. (Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu.)"
+          "Rumus utama: Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif",
+          "Contoh 1: Каждый студент должен вовремя сдавать письменные работы. (Kazhdyy student dolzhen vovremya sdavat pismennyye raboty.) — Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kata modal нужно mensyaratkan subjek dalam kasus datif (мне).",
         "ruleList": [
-          "Мне нужно срочно отправить научный отчёт на кафедру. (Saya harus segera mengirimkan laporan ilmiah ke departemen.)"
+          "Polanya: Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif",
+          "Contoh 2: Мне нужно срочно отправить научный отчёт на кафедру. (Mne nuzhno srochno otpravit nauchnyy otchyot na kafedru.) — Saya harus segera mengirimkan laporan ilmiah ke departemen."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Modalitas Keharusan: Должен, Нужно, Можно, Нельзя\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "В читальном зале библиотеки нельзя громко разговаривать. (Di ruang baca perpustakaan dilarang berbicara keras-keras.)"
+          "Contoh 3: В читальном зале библиотеки нельзя громко разговаривать. (V chitalnom zale biblioteki nelzya gromko razgovarivat.) — Di ruang baca perpustakaan dilarang berbicara keras-keras.",
+          "Hindari kesalahan: \"я нужно идти\" → gunakan bentuk yang benar: \"мне нужно идти\"."
         ]
       }
     ],
@@ -9075,19 +9105,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-20-ex-1",
         "native": "Каждый студент должен вовремя сдавать письменные работы.",
-        "phonetic": "",
+        "phonetic": "Kazhdyy student dolzhen vovremya sdavat pismennyye raboty.",
         "translationId": "Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu."
       },
       {
         "id": "ru-gram-20-ex-2",
         "native": "Мне нужно срочно отправить научный отчёт на кафедру.",
-        "phonetic": "",
+        "phonetic": "Mne nuzhno srochno otpravit nauchnyy otchyot na kafedru.",
         "translationId": "Saya harus segera mengirimkan laporan ilmiah ke departemen."
       },
       {
         "id": "ru-gram-20-ex-3",
         "native": "В читальном зале библиотеки нельзя громко разговаривать.",
-        "phonetic": "",
+        "phonetic": "V chitalnom zale biblioteki nelzya gromko razgovarivat.",
         "translationId": "Di ruang baca perpustakaan dilarang berbicara keras-keras."
       }
     ],
@@ -9103,7 +9133,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Modalitas Keharusan: Должен, Нужно, Можно, Нельзя sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Modalitas Keharusan: Должен, Нужно, Можно, Нельзя\" (Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-20-pg-1",
@@ -9119,7 +9149,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Каждый студент должен вовремя сдавать письменные работы.\" berarti \"Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu.\"."
+        "explanation": "Kalimat \"Каждый студент должен вовремя сдавать письменные работы.\" (dibaca: Kazhdyy student dolzhen vovremya sdavat pismennyye raboty.) berarti \"Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu.\". Kalimat ini menggunakan pola \"Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif\" (Modalitas Keharusan: Должен, Нужно, Можно, Нельзя) yang berfungsi untuk menyatakan keharusan, kebutuhan, izin diperbolehkan, dan larangan mutlak."
       },
       {
         "id": "q-ru-gram-20-pg-2",
@@ -9135,7 +9165,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa itu menulis catatan kuliah dengan pena biru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Мне нужно срочно отправить научный отчёт на кафедру.\" berarti \"Saya harus segera mengirimkan laporan ilmiah ke departemen.\"."
+        "explanation": "Kalimat \"Мне нужно срочно отправить научный отчёт на кафедру.\" (dibaca: Mne nuzhno srochno otpravit nauchnyy otchyot na kafedru.) berarti \"Saya harus segera mengirimkan laporan ilmiah ke departemen.\". Kalimat ini menggunakan pola \"Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif\" (Modalitas Keharusan: Должен, Нужно, Можно, Нельзя) yang berfungsi untuk menyatakan keharusan, kebutuhan, izin diperbolehkan, dan larangan mutlak."
       },
       {
         "id": "q-ru-gram-20-pg-3",
@@ -9151,7 +9181,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dia mendiskusikan proyek tersebut bersama profesor ternama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В читальном зале библиотеки нельзя громко разговаривать.\" berarti \"Di ruang baca perpustakaan dilarang berbicara keras-keras.\"."
+        "explanation": "Kalimat \"В читальном зале библиотеки нельзя громко разговаривать.\" (dibaca: V chitalnom zale biblioteki nelzya gromko razgovarivat.) berarti \"Di ruang baca perpustakaan dilarang berbicara keras-keras.\". Kalimat ini menggunakan pola \"Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif\" (Modalitas Keharusan: Должен, Нужно, Можно, Нельзя) yang berfungsi untuk menyatakan keharusan, kebutuhan, izin diperbolehkan, dan larangan mutlak."
       },
       {
         "id": "q-ru-gram-20-pg-4",
@@ -9171,7 +9201,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-20-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Modalitas Keharusan: Должен, Нужно, Можно, Нельзя\"?",
         "options": [
           "Опытный преподаватель всегда помогает новому студенту. — Dosen berpengalaman itu selalu membantu mahasiswa baru.",
           "Студент пишет конспект лекции синей ручкой. — Mahasiswa itu menulis catatan kuliah dengan pena biru.",
@@ -9185,7 +9215,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-20-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Modalitas Keharusan: Должен, Нужно, Можно, Нельзя\"?",
         "options": [
           "В читальном зале библиотеки нельзя громко разговаривать. — Di ruang baca perpustakaan dilarang berbicara keras-keras.",
           "Мне двадцать один год, а моему другу двадцать лет. — Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun.",
@@ -9448,7 +9478,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Usia saya 21 tahun, sedangkan teman saya berusia 20 tahun."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Каждый студент должен вовремя сдавать письменные работы.\" berarti \"Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu.\"."
+        "explanation": "Kalimat \"Каждый студент должен вовремя сдавать письменные работы.\" (dibaca: Kazhdyy student dolzhen vovremya sdavat pismennyye raboty.) berarti \"Setiap mahasiswa wajib mengumpulkan tugas tertulis tepat waktu.\". Kalimat ini menggunakan pola \"Datif + Нужно/Можно/Нельзя + Infinitif & Должен + Infinitif\" (Modalitas Keharusan: Должен, Нужно, Можно, Нельзя) yang berfungsi untuk menyatakan keharusan, kebutuhan, izin diperbolehkan, dan larangan mutlak."
       },
       {
         "id": "q-ru-gram-20-bb-2",
@@ -9523,24 +9553,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Awalan memodifikasi arah dan makna gerak: при- (tiba), у- (pergi jauh), вы- (keluar), пере- (menyeberang).",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kata Kerja Gerak Berawalan (Глаголы движения с приставками) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kata Kerja Gerak Berawalan (Глаголы движения с приставками)\" (Глаголы движения с приставками (По-, При-, У-, В-, Вы-, Пере-)) berfungsi untuk: awalan memodifikasi arah dan makna gerak: при- (tiba), у- (pergi jauh), вы- (keluar), пере- (menyeberang). Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя. (Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu.)"
+          "Rumus utama: Awalan Arah + Verba Gerak Dasar",
+          "Contoh 1: Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя. (Skoryy poyezd iz Sankt-Peterburga pribyl na vokzal vovremya.) — Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Awalan Arah + Verba Gerak Dasar diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Awalan Arah + Verba Gerak Dasar\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Verba прибыть mensyaratkan preposisi на + akusatif.",
         "ruleList": [
-          "Профессор уже закрыл кабинет и ушёл домой. (Profesor sudah mengunci ruang kerja dan pulang ke rumah.)"
+          "Polanya: Awalan Arah + Verba Gerak Dasar",
+          "Contoh 2: Профессор уже закрыл кабинет и ушёл домой. (Professor uzhe zakryl kabinet i ushyol domoy.) — Profesor sudah mengunci ruang kerja dan pulang ke rumah."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kata Kerja Gerak Berawalan (Глаголы движения с приставками)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Студенты осторожно перешли широкую улицу перед кампусом. (Para mahasiswa dengan hati-hati menyeberangi jalan raya di depan kampus.)"
+          "Contoh 3: Студенты осторожно перешли широкую улицу перед кампусом. (Studenty ostorozhno pereshli shirokuyu ulitsu pered kampusom.) — Para mahasiswa dengan hati-hati menyeberangi jalan raya di depan kampus.",
+          "Hindari kesalahan: \"поезд пришёл вокзал\" → gunakan bentuk yang benar: \"поезд прибыл на вокзал\"."
         ]
       }
     ],
@@ -9548,19 +9581,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-21-ex-1",
         "native": "Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя.",
-        "phonetic": "",
+        "phonetic": "Skoryy poyezd iz Sankt-Peterburga pribyl na vokzal vovremya.",
         "translationId": "Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu."
       },
       {
         "id": "ru-gram-21-ex-2",
         "native": "Профессор уже закрыл кабинет и ушёл домой.",
-        "phonetic": "",
+        "phonetic": "Professor uzhe zakryl kabinet i ushyol domoy.",
         "translationId": "Profesor sudah mengunci ruang kerja dan pulang ke rumah."
       },
       {
         "id": "ru-gram-21-ex-3",
         "native": "Студенты осторожно перешли широкую улицу перед кампусом.",
-        "phonetic": "",
+        "phonetic": "Studenty ostorozhno pereshli shirokuyu ulitsu pered kampusom.",
         "translationId": "Para mahasiswa dengan hati-hati menyeberangi jalan raya di depan kampus."
       }
     ],
@@ -9576,7 +9609,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kata Kerja Gerak Berawalan (Глаголы движения с приставками) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kata Kerja Gerak Berawalan (Глаголы движения с приставками)\" (Awalan Arah + Verba Gerak Dasar) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-21-pg-1",
@@ -9592,7 +9625,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah lulus universitas dengan pujian, dia melanjutkan ke program doktor."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя.\" berarti \"Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu.\"."
+        "explanation": "Kalimat \"Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя.\" (dibaca: Skoryy poyezd iz Sankt-Peterburga pribyl na vokzal vovremya.) berarti \"Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu.\". Kalimat ini menggunakan pola \"Awalan Arah + Verba Gerak Dasar\" (Kata Kerja Gerak Berawalan (Глаголы движения с приставками)) yang berfungsi untuk awalan memodifikasi arah dan makna gerak: при- (tiba), у- (pergi jauh), вы- (keluar), пере- (menyeberang)."
       },
       {
         "id": "q-ru-gram-21-pg-2",
@@ -9608,7 +9641,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Профессор уже закрыл кабинет и ушёл домой.\" berarti \"Profesor sudah mengunci ruang kerja dan pulang ke rumah.\"."
+        "explanation": "Kalimat \"Профессор уже закрыл кабинет и ушёл домой.\" (dibaca: Professor uzhe zakryl kabinet i ushyol domoy.) berarti \"Profesor sudah mengunci ruang kerja dan pulang ke rumah.\". Kalimat ini menggunakan pola \"Awalan Arah + Verba Gerak Dasar\" (Kata Kerja Gerak Berawalan (Глаголы движения с приставками)) yang berfungsi untuk awalan memodifikasi arah dan makna gerak: при- (tiba), у- (pergi jauh), вы- (keluar), пере- (menyeberang)."
       },
       {
         "id": "q-ru-gram-21-pg-3",
@@ -9624,7 +9657,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Студенты осторожно перешли широкую улицу перед кампусом.\" berarti \"Para mahasiswa dengan hati-hati menyeberangi jalan raya di depan kampus.\"."
+        "explanation": "Kalimat \"Студенты осторожно перешли широкую улицу перед кампусом.\" (dibaca: Studenty ostorozhno pereshli shirokuyu ulitsu pered kampusom.) berarti \"Para mahasiswa dengan hati-hati menyeberangi jalan raya di depan kampus.\". Kalimat ini menggunakan pola \"Awalan Arah + Verba Gerak Dasar\" (Kata Kerja Gerak Berawalan (Глаголы движения с приставками)) yang berfungsi untuk awalan memodifikasi arah dan makna gerak: при- (tiba), у- (pergi jauh), вы- (keluar), пере- (menyeberang)."
       },
       {
         "id": "q-ru-gram-21-pg-4",
@@ -9644,7 +9677,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-21-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kata Kerja Gerak Berawalan (Глаголы движения с приставками)\"?",
         "options": [
           "Профессор уже закрыл кабинет и ушёл домой. — Profesor sudah mengunci ruang kerja dan pulang ke rumah.",
           "Окончив с отличием университет, она поступила в аспирантуру. — Setelah lulus universitas dengan pujian, dia melanjutkan ke program doktor.",
@@ -9658,7 +9691,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-21-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kata Kerja Gerak Berawalan (Глаголы движения с приставками)\"?",
         "options": [
           "Внимательно читая научный текст, студент делал подробные заметки. — Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci.",
           "Студенты осторожно перешли широкую улицу перед кампусом. — Para mahasiswa dengan hati-hati menyeberangi jalan raya di depan kampus.",
@@ -9919,7 +9952,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя.\" berarti \"Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu.\"."
+        "explanation": "Kalimat \"Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя.\" (dibaca: Skoryy poyezd iz Sankt-Peterburga pribyl na vokzal vovremya.) berarti \"Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu.\". Kalimat ini menggunakan pola \"Awalan Arah + Verba Gerak Dasar\" (Kata Kerja Gerak Berawalan (Глаголы движения с приставками)) yang berfungsi untuk awalan memodifikasi arah dan makna gerak: при- (tiba), у- (pergi jauh), вы- (keluar), пере- (menyeberang)."
       },
       {
         "id": "q-ru-gram-21-bb-2",
@@ -9994,24 +10027,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kata sifat verbal yang menerangkan subjek pelaku aktif dari suatu tindakan.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Partisip Aktif Waktu Kini dan Lampau (Действительные причастия) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)\" (Действительные причастия настоящего и прошедшего времени) berfungsi untuk: kata sifat verbal yang menerangkan subjek pelaku aktif dari suatu tindakan. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Студент, читающий научный журнал, учится на первом курсе. (Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama.)"
+          "Rumus utama: Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-",
+          "Contoh 1: Студент, читающий научный журнал, учится на первом курсе. (Student, chitayushchiy nauchnyy zhurnal, uchitsya na pervom kurse.) — Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш- diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan klausa partisip untuk meringkas kalimat majemuk.",
         "ruleList": [
-          "Профессор, проводивший это исследование, опубликовал монографию. (Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf.)"
+          "Polanya: Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-",
+          "Contoh 2: Профессор, проводивший это исследование, опубликовал монографию. (Professor, provodivshiy eto issledovaniye, opublikoval monografiyu.) — Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Учёные, работающие в этой лаборатории, сделали открытие. (Para ilmuwan yang bekerja di laboratorium ini membuat penemuan baru.)"
+          "Contoh 3: Учёные, работающие в этой лаборатории, сделали открытие. (Uchyonyye, rabotayushchiye v etoy laboratorii, sdelali otkrytiye.) — Para ilmuwan yang bekerja di laboratorium ini membuat penemuan baru.",
+          "Hindari kesalahan: \"студент читает книгу сидит здесь\" → gunakan bentuk yang benar: \"студент, читающий книгу, сидит здесь\"."
         ]
       }
     ],
@@ -10019,19 +10055,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-22-ex-1",
         "native": "Студент, читающий научный журнал, учится на первом курсе.",
-        "phonetic": "",
+        "phonetic": "Student, chitayushchiy nauchnyy zhurnal, uchitsya na pervom kurse.",
         "translationId": "Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama."
       },
       {
         "id": "ru-gram-22-ex-2",
         "native": "Профессор, проводивший это исследование, опубликовал монографию.",
-        "phonetic": "",
+        "phonetic": "Professor, provodivshiy eto issledovaniye, opublikoval monografiyu.",
         "translationId": "Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf."
       },
       {
         "id": "ru-gram-22-ex-3",
         "native": "Учёные, работающие в этой лаборатории, сделали открытие.",
-        "phonetic": "",
+        "phonetic": "Uchyonyye, rabotayushchiye v etoy laboratorii, sdelali otkrytiye.",
         "translationId": "Para ilmuwan yang bekerja di laboratorium ini membuat penemuan baru."
       }
     ],
@@ -10047,7 +10083,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Partisip Aktif Waktu Kini dan Lampau (Действительные причастия) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)\" (Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-22-pg-1",
@@ -10063,7 +10099,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Студент, читающий научный журнал, учится на первом курсе.\" berarti \"Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama.\"."
+        "explanation": "Kalimat \"Студент, читающий научный журнал, учится на первом курсе.\" (dibaca: Student, chitayushchiy nauchnyy zhurnal, uchitsya na pervom kurse.) berarti \"Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama.\". Kalimat ini menggunakan pola \"Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-\" (Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)) yang berfungsi untuk kata sifat verbal yang menerangkan subjek pelaku aktif dari suatu tindakan."
       },
       {
         "id": "q-ru-gram-22-pg-2",
@@ -10079,7 +10115,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Профессор, проводивший это исследование, опубликовал монографию.\" berarti \"Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf.\"."
+        "explanation": "Kalimat \"Профессор, проводивший это исследование, опубликовал монографию.\" (dibaca: Professor, provodivshiy eto issledovaniye, opublikoval monografiyu.) berarti \"Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf.\". Kalimat ini menggunakan pola \"Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-\" (Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)) yang berfungsi untuk kata sifat verbal yang menerangkan subjek pelaku aktif dari suatu tindakan."
       },
       {
         "id": "q-ru-gram-22-pg-3",
@@ -10095,7 +10131,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para ilmuwan yang bekerja di laboratorium ini membuat penemuan baru."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Учёные, работающие в этой лаборатории, сделали открытие.\" berarti \"Para ilmuwan yang bekerja di laboratorium ini membuat penemuan baru.\"."
+        "explanation": "Kalimat \"Учёные, работающие в этой лаборатории, сделали открытие.\" (dibaca: Uchyonyye, rabotayushchiye v etoy laboratorii, sdelali otkrytiye.) berarti \"Para ilmuwan yang bekerja di laboratorium ini membuat penemuan baru.\". Kalimat ini menggunakan pola \"Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-\" (Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)) yang berfungsi untuk kata sifat verbal yang menerangkan subjek pelaku aktif dari suatu tindakan."
       },
       {
         "id": "q-ru-gram-22-pg-4",
@@ -10115,7 +10151,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-22-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)\"?",
         "options": [
           "Если бы он знал точный ответ, он бы сразу сказал нам. — Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami.",
           "Профессор, проводивший это исследование, опубликовал монографию. — Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf.",
@@ -10129,7 +10165,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-22-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)\"?",
         "options": [
           "Если бы у меня было больше времени, я бы обязательно помог вам. — Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda.",
           "Мы хотели бы задать лектору несколько важных вопросов. — Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah.",
@@ -10394,7 +10430,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Студент, читающий научный журнал, учится на первом курсе.\" berarti \"Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama.\"."
+        "explanation": "Kalimat \"Студент, читающий научный журнал, учится на первом курсе.\" (dibaca: Student, chitayushchiy nauchnyy zhurnal, uchitsya na pervom kurse.) berarti \"Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama.\". Kalimat ini menggunakan pola \"Batang Verba + -ущ-/-ющ-, -ащ-/-ящ- & -вш-/-ш-\" (Partisip Aktif Waktu Kini dan Lampau (Действительные причастия)) yang berfungsi untuk kata sifat verbal yang menerangkan subjek pelaku aktif dari suatu tindakan."
       },
       {
         "id": "q-ru-gram-22-bb-2",
@@ -10469,24 +10505,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menerangkan nomina yang dikenai perbuatan pasif oleh pihak pelaku.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)\" (Страдательные причастия настоящего и прошедшего времени) berfungsi untuk: menerangkan nomina yang dikenai perbuatan pasif oleh pihak pelaku. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Статья, написанная нашим профессором, вызвала большой интерес. (Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar.)"
+          "Rumus utama: Batang Verba + -ем-/-им- & -нн-/-енн-/-т-",
+          "Contoh 1: Статья, написанная нашим профессором, вызвала большой интерес. (Statya, napisannaya nashim professorom, vyzvala bolshoy interes.) — Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Batang Verba + -ем-/-им- & -нн-/-енн-/-т- diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Batang Verba + -ем-/-им- & -нн-/-енн-/-т-\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk perfektif lampau membutuhkan akhiran -нн-.",
         "ruleList": [
-          "Книга, прочитанная мной на прошлой неделе, очень помогла в работе. (Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan.)"
+          "Polanya: Batang Verba + -ем-/-им- & -нн-/-енн-/-т-",
+          "Contoh 2: Книга, прочитанная мной на прошлой неделе, очень помогла в работе. (Kniga, prochitannaya mnoy na proshloy nedele, ochen pomogla v rabote.) — Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Вопрос, обсуждаемый сейчас на семинаре, крайне актуален. (Masalah yang sedang dibahas di seminar saat ini sangatlah relevan.)"
+          "Contoh 3: Вопрос, обсуждаемый сейчас на семинаре, крайне актуален. (Vopros, obsuzhdayemyy seychas na seminare, krayne aktualen.) — Masalah yang sedang dibahas di seminar saat ini sangatlah relevan.",
+          "Hindari kesalahan: \"статья писанная\" → gunakan bentuk yang benar: \"статья, написанная профессором\"."
         ]
       }
     ],
@@ -10494,19 +10533,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-23-ex-1",
         "native": "Статья, написанная нашим профессором, вызвала большой интерес.",
-        "phonetic": "",
+        "phonetic": "Statya, napisannaya nashim professorom, vyzvala bolshoy interes.",
         "translationId": "Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar."
       },
       {
         "id": "ru-gram-23-ex-2",
         "native": "Книга, прочитанная мной на прошлой неделе, очень помогла в работе.",
-        "phonetic": "",
+        "phonetic": "Kniga, prochitannaya mnoy na proshloy nedele, ochen pomogla v rabote.",
         "translationId": "Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan."
       },
       {
         "id": "ru-gram-23-ex-3",
         "native": "Вопрос, обсуждаемый сейчас на семинаре, крайне актуален.",
-        "phonetic": "",
+        "phonetic": "Vopros, obsuzhdayemyy seychas na seminare, krayne aktualen.",
         "translationId": "Masalah yang sedang dibahas di seminar saat ini sangatlah relevan."
       }
     ],
@@ -10522,7 +10561,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)\" (Batang Verba + -ем-/-им- & -нн-/-енн-/-т-) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-23-pg-1",
@@ -10538,7 +10577,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Статья, написанная нашим профессором, вызвала большой интерес.\" berarti \"Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar.\"."
+        "explanation": "Kalimat \"Статья, написанная нашим профессором, вызвала большой интерес.\" (dibaca: Statya, napisannaya nashim professorom, vyzvala bolshoy interes.) berarti \"Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar.\". Kalimat ini menggunakan pola \"Batang Verba + -ем-/-им- & -нн-/-енн-/-т-\" (Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)) yang berfungsi untuk menerangkan nomina yang dikenai perbuatan pasif oleh pihak pelaku."
       },
       {
         "id": "q-ru-gram-23-pg-2",
@@ -10554,7 +10593,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Книга, прочитанная мной на прошлой неделе, очень помогла в работе.\" berarti \"Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan.\"."
+        "explanation": "Kalimat \"Книга, прочитанная мной на прошлой неделе, очень помогла в работе.\" (dibaca: Kniga, prochitannaya mnoy na proshloy nedele, ochen pomogla v rabote.) berarti \"Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan.\". Kalimat ini menggunakan pola \"Batang Verba + -ем-/-им- & -нн-/-енн-/-т-\" (Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)) yang berfungsi untuk menerangkan nomina yang dikenai perbuatan pasif oleh pihak pelaku."
       },
       {
         "id": "q-ru-gram-23-pg-3",
@@ -10570,7 +10609,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami sedikit terlambat ke kuliah karena pagi tadi turun salju lebat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Вопрос, обсуждаемый сейчас на семинаре, крайне актуален.\" berarti \"Masalah yang sedang dibahas di seminar saat ini sangatlah relevan.\"."
+        "explanation": "Kalimat \"Вопрос, обсуждаемый сейчас на семинаре, крайне актуален.\" (dibaca: Vopros, obsuzhdayemyy seychas na seminare, krayne aktualen.) berarti \"Masalah yang sedang dibahas di seminar saat ini sangatlah relevan.\". Kalimat ini menggunakan pola \"Batang Verba + -ем-/-им- & -нн-/-енн-/-т-\" (Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)) yang berfungsi untuk menerangkan nomina yang dikenai perbuatan pasif oleh pihak pelaku."
       },
       {
         "id": "q-ru-gram-23-pg-4",
@@ -10590,7 +10629,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-23-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)\"?",
         "options": [
           "Монография, которую я недавно прочитал, посвящена истории России. — Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia.",
           "Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт. — Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir.",
@@ -10604,7 +10643,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-23-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)\"?",
         "options": [
           "Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием. — Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru.",
           "Студенты, с которыми мы готовим проект, приехали из разных стран. — Para mahasiswa yang bersama kami menyiapkan proyek datang dari berbagai negara.",
@@ -10865,7 +10904,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Статья, написанная нашим профессором, вызвала большой интерес.\" berarti \"Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar.\"."
+        "explanation": "Kalimat \"Статья, написанная нашим профессором, вызвала большой интерес.\" (dibaca: Statya, napisannaya nashim professorom, vyzvala bolshoy interes.) berarti \"Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar.\". Kalimat ini menggunakan pola \"Batang Verba + -ем-/-им- & -нн-/-енн-/-т-\" (Partisip Pasif Waktu Kini dan Lampau (Страдательные причастия)) yang berfungsi untuk menerangkan nomina yang dikenai perbuatan pasif oleh pihak pelaku."
       },
       {
         "id": "q-ru-gram-23-bb-2",
@@ -10940,24 +10979,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menerangkan verba utama dengan tindakan penyerta yang dilakukan oleh subjek yang sama.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Gerund Adverbial Participle (Деепричастия) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Gerund Adverbial Participle (Деепричастия)\" (Деепричастия несовершенного и совершенного вида (-а/-я, -в/-вши)) berfungsi untuk: menerangkan verba utama dengan tindakan penyerta yang dilakukan oleh subjek yang sama. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Внимательно читая научный текст, студент делал подробные заметки. (Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci.)"
+          "Rumus utama: Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)",
+          "Contoh 1: Внимательно читая научный текст, студент делал подробные заметки. (Vnimatelno chitaya nauchnyy tekst, student delal podrobnyye zametki.) — Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Verba + -а/-я (Simultan) & Verba + -в (Sekuensial) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Subjek gerund harus identik dengan subjek kalimat utama.",
         "ruleList": [
-          "Окончив с отличием университет, она поступила в аспирантуру. (Setelah lulus universitas dengan pujian, dia melanjutkan ke program doktor.)"
+          "Polanya: Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)",
+          "Contoh 2: Окончив с отличием университет, она поступила в аспирантуру. (Okonchiv s otlichiyem universitet, ona postupila v aspiranturu.) — Setelah lulus universitas dengan pujian, dia melanjutkan ke program doktor."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Gerund Adverbial Participle (Деепричастия)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Слушая доклад коллеги, мы записывали основные тезисы. (Sambil mendengarkan presentasi rekan, kami mencatat pokok-pokok tesis utama.)"
+          "Contoh 3: Слушая доклад коллеги, мы записывали основные тезисы. (Slushaya doklad kollegi, my zapisyvali osnovnyye tezisy.) — Sambil mendengarkan presentasi rekan, kami mencatat pokok-pokok tesis utama.",
+          "Hindari kesalahan: \"читая текст, у меня возник вопрос\" → gunakan bentuk yang benar: \"читая текст, я сделал заметку\"."
         ]
       }
     ],
@@ -10965,19 +11007,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-24-ex-1",
         "native": "Внимательно читая научный текст, студент делал подробные заметки.",
-        "phonetic": "",
+        "phonetic": "Vnimatelno chitaya nauchnyy tekst, student delal podrobnyye zametki.",
         "translationId": "Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci."
       },
       {
         "id": "ru-gram-24-ex-2",
         "native": "Окончив с отличием университет, она поступила в аспирантуру.",
-        "phonetic": "",
+        "phonetic": "Okonchiv s otlichiyem universitet, ona postupila v aspiranturu.",
         "translationId": "Setelah lulus universitas dengan pujian, dia melanjutkan ke program doktor."
       },
       {
         "id": "ru-gram-24-ex-3",
         "native": "Слушая доклад коллеги, мы записывали основные тезисы.",
-        "phonetic": "",
+        "phonetic": "Slushaya doklad kollegi, my zapisyvali osnovnyye tezisy.",
         "translationId": "Sambil mendengarkan presentasi rekan, kami mencatat pokok-pokok tesis utama."
       }
     ],
@@ -10993,7 +11035,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Gerund Adverbial Participle (Деепричастия) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Gerund Adverbial Participle (Деепричастия)\" (Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-24-pg-1",
@@ -11009,7 +11051,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Внимательно читая научный текст, студент делал подробные заметки.\" berarti \"Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci.\"."
+        "explanation": "Kalimat \"Внимательно читая научный текст, студент делал подробные заметки.\" (dibaca: Vnimatelno chitaya nauchnyy tekst, student delal podrobnyye zametki.) berarti \"Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci.\". Kalimat ini menggunakan pola \"Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)\" (Gerund Adverbial Participle (Деепричастия)) yang berfungsi untuk menerangkan verba utama dengan tindakan penyerta yang dilakukan oleh subjek yang sama."
       },
       {
         "id": "q-ru-gram-24-pg-2",
@@ -11025,7 +11067,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Окончив с отличием университет, она поступила в аспирантуру.\" berarti \"Setelah lulus universitas dengan pujian, dia melanjutkan ke program doktor.\"."
+        "explanation": "Kalimat \"Окончив с отличием университет, она поступила в аспирантуру.\" (dibaca: Okonchiv s otlichiyem universitet, ona postupila v aspiranturu.) berarti \"Setelah lulus universitas dengan pujian, dia melanjutkan ke program doktor.\". Kalimat ini menggunakan pola \"Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)\" (Gerund Adverbial Participle (Деепричастия)) yang berfungsi untuk menerangkan verba utama dengan tindakan penyerta yang dilakukan oleh subjek yang sama."
       },
       {
         "id": "q-ru-gram-24-pg-3",
@@ -11041,7 +11083,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kemarin telah diumumkan mengenai hasil kompetisi hibah internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Слушая доклад коллеги, мы записывали основные тезисы.\" berarti \"Sambil mendengarkan presentasi rekan, kami mencatat pokok-pokok tesis utama.\"."
+        "explanation": "Kalimat \"Слушая доклад коллеги, мы записывали основные тезисы.\" (dibaca: Slushaya doklad kollegi, my zapisyvali osnovnyye tezisy.) berarti \"Sambil mendengarkan presentasi rekan, kami mencatat pokok-pokok tesis utama.\". Kalimat ini menggunakan pola \"Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)\" (Gerund Adverbial Participle (Деепричастия)) yang berfungsi untuk menerangkan verba utama dengan tindakan penyerta yang dilakukan oleh subjek yang sama."
       },
       {
         "id": "q-ru-gram-24-pg-4",
@@ -11061,7 +11103,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-24-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Gerund Adverbial Participle (Деепричастия)\"?",
         "options": [
           "Хотя грамматическая тема весьма трудна, студенты быстро её освоили. — Meskipun topik tata bahasa itu cukup sulit, para mahasiswa cepat menguasainya.",
           "Начинающему студенту трудно переводить этот старинный текст без словаря. — Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus.",
@@ -11075,7 +11117,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-24-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Gerund Adverbial Participle (Деепричастия)\"?",
         "options": [
           "Слушая доклад коллеги, мы записывали основные тезисы. — Sambil mendengarkan presentasi rekan, kami mencatat pokok-pokok tesis utama.",
           "Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт. — Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir.",
@@ -11336,7 +11378,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Внимательно читая научный текст, студент делал подробные заметки.\" berarti \"Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci.\"."
+        "explanation": "Kalimat \"Внимательно читая научный текст, студент делал подробные заметки.\" (dibaca: Vnimatelno chitaya nauchnyy tekst, student delal podrobnyye zametki.) berarti \"Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci.\". Kalimat ini menggunakan pola \"Verba + -а/-я (Simultan) & Verba + -в (Sekuensial)\" (Gerund Adverbial Participle (Деепричастия)) yang berfungsi untuk menerangkan verba utama dengan tindakan penyerta yang dilakukan oleh subjek yang sama."
       },
       {
         "id": "q-ru-gram-24-bb-2",
@@ -11411,24 +11453,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan pengandaian tidak nyata atau harapan hipotetis di masa kini atau lampau.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kalimat Pengandaian Subjungtif dengan Частица Бы memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kalimat Pengandaian Subjungtif dengan Частица Бы\" (Сослагательное наклонение (Глагол прошедшего времени + Бы)) berfungsi untuk: menyatakan pengandaian tidak nyata atau harapan hipotetis di masa kini atau lampau. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Если бы у меня было больше времени, я бы обязательно помог вам. (Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda.)"
+          "Rumus utama: Если бы + Lampau, то + Lampau + Бы",
+          "Contoh 1: Если бы у меня было больше времени, я бы обязательно помог вам. (Yesli by u menya bylo bolshe vremeni, ya by obyazatelno pomog vam.) — Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Если бы + Lampau, то + Lampau + Бы diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Если бы + Lampau, то + Lampau + Бы\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Klausa syarat pengandaian wajib menyertakan partikel бы.",
         "ruleList": [
-          "Если бы он знал точный ответ, он бы сразу сказал нам. (Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami.)"
+          "Polanya: Если бы + Lampau, то + Lampau + Бы",
+          "Contoh 2: Если бы он знал точный ответ, он бы сразу сказал нам. (Yesli by on znal tochnyy otvet, on by srazu skazal nam.) — Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kalimat Pengandaian Subjungtif dengan Частица Бы\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Мы хотели бы задать лектору несколько важных вопросов. (Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah.)"
+          "Contoh 3: Мы хотели бы задать лектору несколько важных вопросов. (My khoteli by zadat lektoru neskolko vazhnykh voprosov.) — Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah.",
+          "Hindari kesalahan: \"если я знаю, я бы сказал\" → gunakan bentuk yang benar: \"если бы я знал, я бы сказал\"."
         ]
       }
     ],
@@ -11436,19 +11481,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-25-ex-1",
         "native": "Если бы у меня было больше времени, я бы обязательно помог вам.",
-        "phonetic": "",
+        "phonetic": "Yesli by u menya bylo bolshe vremeni, ya by obyazatelno pomog vam.",
         "translationId": "Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda."
       },
       {
         "id": "ru-gram-25-ex-2",
         "native": "Если бы он знал точный ответ, он бы сразу сказал нам.",
-        "phonetic": "",
+        "phonetic": "Yesli by on znal tochnyy otvet, on by srazu skazal nam.",
         "translationId": "Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami."
       },
       {
         "id": "ru-gram-25-ex-3",
         "native": "Мы хотели бы задать лектору несколько важных вопросов.",
-        "phonetic": "",
+        "phonetic": "My khoteli by zadat lektoru neskolko vazhnykh voprosov.",
         "translationId": "Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah."
       }
     ],
@@ -11464,7 +11509,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kalimat Pengandaian Subjungtif dengan Частица Бы sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kalimat Pengandaian Subjungtif dengan Частица Бы\" (Если бы + Lampau, то + Lampau + Бы) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-25-pg-1",
@@ -11480,7 +11525,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Di musim dingin di ruang kuliah lama saya merasa agak kedinginan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Если бы у меня было больше времени, я бы обязательно помог вам.\" berarti \"Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda.\"."
+        "explanation": "Kalimat \"Если бы у меня было больше времени, я бы обязательно помог вам.\" (dibaca: Yesli by u menya bylo bolshe vremeni, ya by obyazatelno pomog vam.) berarti \"Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda.\". Kalimat ini menggunakan pola \"Если бы + Lampau, то + Lampau + Бы\" (Kalimat Pengandaian Subjungtif dengan Частица Бы) yang berfungsi untuk menyatakan pengandaian tidak nyata atau harapan hipotetis di masa kini atau lampau."
       },
       {
         "id": "q-ru-gram-25-pg-2",
@@ -11496,7 +11541,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Если бы он знал точный ответ, он бы сразу сказал нам.\" berarti \"Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami.\"."
+        "explanation": "Kalimat \"Если бы он знал точный ответ, он бы сразу сказал нам.\" (dibaca: Yesli by on znal tochnyy otvet, on by srazu skazal nam.) berarti \"Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami.\". Kalimat ini menggunakan pola \"Если бы + Lampau, то + Lampau + Бы\" (Kalimat Pengandaian Subjungtif dengan Частица Бы) yang berfungsi untuk menyatakan pengandaian tidak nyata atau harapan hipotetis di masa kini atau lampau."
       },
       {
         "id": "q-ru-gram-25-pg-3",
@@ -11512,7 +11557,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Мы хотели бы задать лектору несколько важных вопросов.\" berarti \"Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah.\"."
+        "explanation": "Kalimat \"Мы хотели бы задать лектору несколько важных вопросов.\" (dibaca: My khoteli by zadat lektoru neskolko vazhnykh voprosov.) berarti \"Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah.\". Kalimat ini menggunakan pola \"Если бы + Lampau, то + Lampau + Бы\" (Kalimat Pengandaian Subjungtif dengan Частица Бы) yang berfungsi untuk menyatakan pengandaian tidak nyata atau harapan hipotetis di masa kini atau lampau."
       },
       {
         "id": "q-ru-gram-25-pg-4",
@@ -11532,7 +11577,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-25-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Pengandaian Subjungtif dengan Частица Бы\"?",
         "options": [
           "Если бы он знал точный ответ, он бы сразу сказал нам. — Seandainya dia tahu jawaban pastinya, dia pasti langsung memberi tahu kami.",
           "Зимой в старой аудитории мне было немного холодно. — Di musim dingin di ruang kuliah lama saya merasa agak kedinginan.",
@@ -11546,7 +11591,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-25-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Pengandaian Subjungtif dengan Частица Бы\"?",
         "options": [
           "Начинающему студенту трудно переводить этот старинный текст без словаря. — Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus.",
           "Мы хотели бы задать лектору несколько важных вопросов. — Kami ingin mengajukan beberapa pertanyaan penting kepada penceramah.",
@@ -11809,7 +11854,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Если бы у меня было больше времени, я бы обязательно помог вам.\" berarti \"Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda.\"."
+        "explanation": "Kalimat \"Если бы у меня было больше времени, я бы обязательно помог вам.\" (dibaca: Yesli by u menya bylo bolshe vremeni, ya by obyazatelno pomog vam.) berarti \"Seandainya saya punya lebih banyak waktu, saya pasti akan membantu Anda.\". Kalimat ini menggunakan pola \"Если бы + Lampau, то + Lampau + Бы\" (Kalimat Pengandaian Subjungtif dengan Частица Бы) yang berfungsi untuk menyatakan pengandaian tidak nyata atau harapan hipotetis di masa kini atau lampau."
       },
       {
         "id": "q-ru-gram-25-bb-2",
@@ -11884,24 +11929,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan klausa penjelas dengan kata yang beradaptasi dengan gender benda inti dan fungsi kasus di anak kalimat.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Klausa Relatif Penjelas dengan Который memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Klausa Relatif Penjelas dengan Который\" (Сложноподчинённые предложения со словом 'Который') berfungsi untuk: menghubungkan klausa penjelas dengan kata yang beradaptasi dengan gender benda inti dan fungsi kasus di anak kalimat. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием. (Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru.)"
+          "Rumus utama: Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)",
+          "Contoh 1: Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием. (Laboratoriya, v kotoroy my provodim opyty, osnashchena novym oborudovaniyem.) — Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Bentuk который harus disesuaikan dengan gender feminin dan kasus preposisional.",
         "ruleList": [
-          "Монография, которую я недавно прочитал, посвящена истории России. (Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia.)"
+          "Polanya: Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)",
+          "Contoh 2: Монография, которую я недавно прочитал, посвящена истории России. (Monografiya, kotoruyu ya nedavno prochital, posvyashchena istorii Rossii.) — Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Klausa Relatif Penjelas dengan Который\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Студенты, с которыми мы готовим проект, приехали из разных стран. (Para mahasiswa yang bersama kami menyiapkan proyek datang dari berbagai negara.)"
+          "Contoh 3: Студенты, с которыми мы готовим проект, приехали из разных стран. (Studenty, s kotorymi my gotovim proyekt, priyekhali iz raznykh stran.) — Para mahasiswa yang bersama kami menyiapkan proyek datang dari berbagai negara.",
+          "Hindari kesalahan: \"лаборатория который\" → gunakan bentuk yang benar: \"лаборатория, в которой\"."
         ]
       }
     ],
@@ -11909,19 +11957,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-26-ex-1",
         "native": "Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием.",
-        "phonetic": "",
+        "phonetic": "Laboratoriya, v kotoroy my provodim opyty, osnashchena novym oborudovaniyem.",
         "translationId": "Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru."
       },
       {
         "id": "ru-gram-26-ex-2",
         "native": "Монография, которую я недавно прочитал, посвящена истории России.",
-        "phonetic": "",
+        "phonetic": "Monografiya, kotoruyu ya nedavno prochital, posvyashchena istorii Rossii.",
         "translationId": "Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia."
       },
       {
         "id": "ru-gram-26-ex-3",
         "native": "Студенты, с которыми мы готовим проект, приехали из разных стран.",
-        "phonetic": "",
+        "phonetic": "Studenty, s kotorymi my gotovim proyekt, priyekhali iz raznykh stran.",
         "translationId": "Para mahasiswa yang bersama kami menyiapkan proyek datang dari berbagai negara."
       }
     ],
@@ -11937,7 +11985,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Klausa Relatif Penjelas dengan Который sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Klausa Relatif Penjelas dengan Который\" (Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-26-pg-1",
@@ -11953,7 +12001,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing meminta agar kami membawa draf artikel."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием.\" berarti \"Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru.\"."
+        "explanation": "Kalimat \"Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием.\" (dibaca: Laboratoriya, v kotoroy my provodim opyty, osnashchena novym oborudovaniyem.) berarti \"Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru.\". Kalimat ini menggunakan pola \"Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)\" (Klausa Relatif Penjelas dengan Который) yang berfungsi untuk menghubungkan klausa penjelas dengan kata yang beradaptasi dengan gender benda inti dan fungsi kasus di anak kalimat."
       },
       {
         "id": "q-ru-gram-26-pg-2",
@@ -11969,7 +12017,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Монография, которую я недавно прочитал, посвящена истории России.\" berarti \"Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia.\"."
+        "explanation": "Kalimat \"Монография, которую я недавно прочитал, посвящена истории России.\" (dibaca: Monografiya, kotoruyu ya nedavno prochital, posvyashchena istorii Rossii.) berarti \"Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia.\". Kalimat ini menggunakan pola \"Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)\" (Klausa Relatif Penjelas dengan Который) yang berfungsi untuk menghubungkan klausa penjelas dengan kata yang beradaptasi dengan gender benda inti dan fungsi kasus di anak kalimat."
       },
       {
         "id": "q-ru-gram-26-pg-3",
@@ -11985,7 +12033,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa yang bersama kami menyiapkan proyek datang dari berbagai negara."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Студенты, с которыми мы готовим проект, приехали из разных стран.\" berarti \"Para mahasiswa yang bersama kami menyiapkan proyek datang dari berbagai negara.\"."
+        "explanation": "Kalimat \"Студенты, с которыми мы готовим проект, приехали из разных стран.\" (dibaca: Studenty, s kotorymi my gotovim proyekt, priyekhali iz raznykh stran.) berarti \"Para mahasiswa yang bersama kami menyiapkan proyek datang dari berbagai negara.\". Kalimat ini menggunakan pola \"Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)\" (Klausa Relatif Penjelas dengan Который) yang berfungsi untuk menghubungkan klausa penjelas dengan kata yang beradaptasi dengan gender benda inti dan fungsi kasus di anak kalimat."
       },
       {
         "id": "q-ru-gram-26-pg-4",
@@ -12005,7 +12053,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-26-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Klausa Relatif Penjelas dengan Который\"?",
         "options": [
           "Научный руководитель попросил, чтобы мы принесли черновики статей. — Dosen pembimbing meminta agar kami membawa draf artikel.",
           "Монография, которую я недавно прочитал, посвящена истории России. — Monograf yang baru saja saya baca didedikasikan untuk sejarah Rusia.",
@@ -12019,7 +12067,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-26-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Klausa Relatif Penjelas dengan Который\"?",
         "options": [
           "Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень. — Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari.",
           "Профессор спросил студентов, поняли ли они новую теорию. — Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu.",
@@ -12280,7 +12328,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием.\" berarti \"Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru.\"."
+        "explanation": "Kalimat \"Лаборатория, в которой мы проводим опыты, оснащена новым оборудованием.\" (dibaca: Laboratoriya, v kotoroy my provodim opyty, osnashchena novym oborudovaniyem.) berarti \"Laboratorium tempat kami melakukan eksperimen dilengkapi peralatan baru.\". Kalimat ini menggunakan pola \"Nomina Inti + Который (Kasus Sesuai Fungsinya di Anak Kalimat)\" (Klausa Relatif Penjelas dengan Который) yang berfungsi untuk menghubungkan klausa penjelas dengan kata yang beradaptasi dengan gender benda inti dan fungsi kasus di anak kalimat."
       },
       {
         "id": "q-ru-gram-26-bb-2",
@@ -12355,24 +12403,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan argumen kausalitas dan kontradiksi dalam penulisan ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)\" (Сложные предложения причины и уступки (Потому что, Так как, Хотя)) berfungsi untuk: menghubungkan argumen kausalitas dan kontradiksi dalam penulisan ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт. (Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir.)"
+          "Rumus utama: Так как (Awal Alasan) & Хотя + Klausa Konsesi",
+          "Contoh 1: Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт. (Tak kak eksperiment zavershilsya uspeshno, my opublikovali itogovyy otchyot.) — Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Так как (Awal Alasan) & Хотя + Klausa Konsesi diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Так как (Awal Alasan) & Хотя + Klausa Konsesi\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Di awal kalimat gunakan так как, bukan потому что.",
         "ruleList": [
-          "Хотя грамматическая тема весьма трудна, студенты быстро её освоили. (Meskipun topik tata bahasa itu cukup sulit, para mahasiswa cepat menguasainya.)"
+          "Polanya: Так как (Awal Alasan) & Хотя + Klausa Konsesi",
+          "Contoh 2: Хотя грамматическая тема весьма трудна, студенты быстро её освоили. (Khotya grammaticheskaya tema vesma trudna, studenty bystro yeyo osvoili.) — Meskipun topik tata bahasa itu cukup sulit, para mahasiswa cepat menguasainya."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Мы немного опоздали на лекцию, потому что утром шёл сильный снег. (Kami sedikit terlambat ke kuliah karena pagi tadi turun salju lebat.)"
+          "Contoh 3: Мы немного опоздали на лекцию, потому что утром шёл сильный снег. (My nemnogo opozdali na lektsiyu, potomu chto utrom shyol silnyy sneg.) — Kami sedikit terlambat ke kuliah karena pagi tadi turun salju lebat.",
+          "Hindari kesalahan: \"потому что шёл снег, мы опоздали\" → gunakan bentuk yang benar: \"так как шёл снег, мы опоздали\"."
         ]
       }
     ],
@@ -12380,19 +12431,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-27-ex-1",
         "native": "Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт.",
-        "phonetic": "",
+        "phonetic": "Tak kak eksperiment zavershilsya uspeshno, my opublikovali itogovyy otchyot.",
         "translationId": "Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir."
       },
       {
         "id": "ru-gram-27-ex-2",
         "native": "Хотя грамматическая тема весьма трудна, студенты быстро её освоили.",
-        "phonetic": "",
+        "phonetic": "Khotya grammaticheskaya tema vesma trudna, studenty bystro yeyo osvoili.",
         "translationId": "Meskipun topik tata bahasa itu cukup sulit, para mahasiswa cepat menguasainya."
       },
       {
         "id": "ru-gram-27-ex-3",
         "native": "Мы немного опоздали на лекцию, потому что утром шёл сильный снег.",
-        "phonetic": "",
+        "phonetic": "My nemnogo opozdali na lektsiyu, potomu chto utrom shyol silnyy sneg.",
         "translationId": "Kami sedikit terlambat ke kuliah karena pagi tadi turun salju lebat."
       }
     ],
@@ -12408,7 +12459,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)\" (Так как (Awal Alasan) & Хотя + Klausa Konsesi) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-27-pg-1",
@@ -12424,7 +12475,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Perkuliahan pagi di universitas dimulai tepat pukul sembilan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт.\" berarti \"Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir.\"."
+        "explanation": "Kalimat \"Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт.\" (dibaca: Tak kak eksperiment zavershilsya uspeshno, my opublikovali itogovyy otchyot.) berarti \"Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir.\". Kalimat ini menggunakan pola \"Так как (Awal Alasan) & Хотя + Klausa Konsesi\" (Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)) yang berfungsi untuk menghubungkan argumen kausalitas dan kontradiksi dalam penulisan ilmiah."
       },
       {
         "id": "q-ru-gram-27-pg-2",
@@ -12440,7 +12491,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun topik tata bahasa itu cukup sulit, para mahasiswa cepat menguasainya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Хотя грамматическая тема весьма трудна, студенты быстро её освоили.\" berarti \"Meskipun topik tata bahasa itu cukup sulit, para mahasiswa cepat menguasainya.\"."
+        "explanation": "Kalimat \"Хотя грамматическая тема весьма трудна, студенты быстро её освоили.\" (dibaca: Khotya grammaticheskaya tema vesma trudna, studenty bystro yeyo osvoili.) berarti \"Meskipun topik tata bahasa itu cukup sulit, para mahasiswa cepat menguasainya.\". Kalimat ini menggunakan pola \"Так как (Awal Alasan) & Хотя + Klausa Konsesi\" (Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)) yang berfungsi untuk menghubungkan argumen kausalitas dan kontradiksi dalam penulisan ilmiah."
       },
       {
         "id": "q-ru-gram-27-pg-3",
@@ -12456,7 +12507,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa dengan hati-hati menyeberangi jalan raya di depan kampus."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Мы немного опоздали на лекцию, потому что утром шёл сильный снег.\" berarti \"Kami sedikit terlambat ke kuliah karena pagi tadi turun salju lebat.\"."
+        "explanation": "Kalimat \"Мы немного опоздали на лекцию, потому что утром шёл сильный снег.\" (dibaca: My nemnogo opozdali na lektsiyu, potomu chto utrom shyol silnyy sneg.) berarti \"Kami sedikit terlambat ke kuliah karena pagi tadi turun salju lebat.\". Kalimat ini menggunakan pola \"Так как (Awal Alasan) & Хотя + Klausa Konsesi\" (Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)) yang berfungsi untuk menghubungkan argumen kausalitas dan kontradiksi dalam penulisan ilmiah."
       },
       {
         "id": "q-ru-gram-27-pg-4",
@@ -12476,7 +12527,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-27-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)\"?",
         "options": [
           "Утренние занятия в университете начинаются ровно в девять часов. — Perkuliahan pagi di universitas dimulai tepat pukul sembilan.",
           "Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя. — Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu.",
@@ -12490,7 +12541,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-27-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)\"?",
         "options": [
           "Выпускники усердно готовятся к предстоящей защите диплома. — Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi.",
           "Мы встретились с коллегами возле главного входа в библиотеку. — Kami bertemu dengan rekan-rekan di dekat pintu masuk utama perpustakaan.",
@@ -12751,7 +12802,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт.\" berarti \"Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir.\"."
+        "explanation": "Kalimat \"Так как эксперимент завершился успешно, мы опубликовали итоговый отчёт.\" (dibaca: Tak kak eksperiment zavershilsya uspeshno, my opublikovali itogovyy otchyot.) berarti \"Oleh karena eksperimen berakhir sukses, kami menerbitkan laporan akhir.\". Kalimat ini menggunakan pola \"Так как (Awal Alasan) & Хотя + Klausa Konsesi\" (Pola Kalimat Kausalitas & Konsesi (Потому что, Так как, Хотя)) yang berfungsi untuk menghubungkan argumen kausalitas dan kontradiksi dalam penulisan ilmiah."
       },
       {
         "id": "q-ru-gram-27-bb-2",
@@ -12826,24 +12877,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyatakan kondisi psikologis, cuaca, atau keniscayaan tanpa menyebut subjek tata bahasa nominatif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)\" (Безличные предложения состояния и необходимости) berfungsi untuk: menyatakan kondisi psikologis, cuaca, atau keniscayaan tanpa menyebut subjek tata bahasa nominatif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Начинающему студенту трудно переводить этот старинный текст без словаря. (Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus.)"
+          "Rumus utama: Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif",
+          "Contoh 1: Начинающему студенту трудно переводить этот старинный текст без словаря. (Nachinayushchemu studentu trudno perevodit etot starinnyy tekst bez slovarya.) — Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan subjek dalam kasus datif (мне/студенту) pada konstruksi tanpa subjek.",
         "ruleList": [
-          "Зимой в старой аудитории мне было немного холодно. (Di musim dingin di ruang kuliah lama saya merasa agak kedinginan.)"
+          "Polanya: Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif",
+          "Contoh 2: Зимой в старой аудитории мне было немного холодно. (Zimoy v staroy auditorii mne bylo nemnogo kholodno.) — Di musim dingin di ruang kuliah lama saya merasa agak kedinginan."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Вчера стало известно о результатах международного конкурса грантов. (Kemarin telah diumumkan mengenai hasil kompetisi hibah internasional.)"
+          "Contoh 3: Вчера стало известно о результатах международного конкурса грантов. (Vchera stalo izvestno o rezultatakh mezhdunarodnogo konkursa grantov.) — Kemarin telah diumumkan mengenai hasil kompetisi hibah internasional.",
+          "Hindari kesalahan: \"я трудно переводить\" → gunakan bentuk yang benar: \"мне трудно переводить\"."
         ]
       }
     ],
@@ -12851,19 +12905,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-28-ex-1",
         "native": "Начинающему студенту трудно переводить этот старинный текст без словаря.",
-        "phonetic": "",
+        "phonetic": "Nachinayushchemu studentu trudno perevodit etot starinnyy tekst bez slovarya.",
         "translationId": "Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus."
       },
       {
         "id": "ru-gram-28-ex-2",
         "native": "Зимой в старой аудитории мне было немного холодно.",
-        "phonetic": "",
+        "phonetic": "Zimoy v staroy auditorii mne bylo nemnogo kholodno.",
         "translationId": "Di musim dingin di ruang kuliah lama saya merasa agak kedinginan."
       },
       {
         "id": "ru-gram-28-ex-3",
         "native": "Вчера стало известно о результатах международного конкурса грантов.",
-        "phonetic": "",
+        "phonetic": "Vchera stalo izvestno o rezultatakh mezhdunarodnogo konkursa grantov.",
         "translationId": "Kemarin telah diumumkan mengenai hasil kompetisi hibah internasional."
       }
     ],
@@ -12879,7 +12933,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)\" (Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-28-pg-1",
@@ -12895,7 +12949,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Начинающему студенту трудно переводить этот старинный текст без словаря.\" berarti \"Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus.\"."
+        "explanation": "Kalimat \"Начинающему студенту трудно переводить этот старинный текст без словаря.\" (dibaca: Nachinayushchemu studentu trudno perevodit etot starinnyy tekst bez slovarya.) berarti \"Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus.\". Kalimat ini menggunakan pola \"Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif\" (Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)) yang berfungsi untuk menyatakan kondisi psikologis, cuaca, atau keniscayaan tanpa menyebut subjek tata bahasa nominatif."
       },
       {
         "id": "q-ru-gram-28-pg-2",
@@ -12911,7 +12965,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Зимой в старой аудитории мне было немного холодно.\" berarti \"Di musim dingin di ruang kuliah lama saya merasa agak kedinginan.\"."
+        "explanation": "Kalimat \"Зимой в старой аудитории мне было немного холодно.\" (dibaca: Zimoy v staroy auditorii mne bylo nemnogo kholodno.) berarti \"Di musim dingin di ruang kuliah lama saya merasa agak kedinginan.\". Kalimat ini menggunakan pola \"Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif\" (Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)) yang berfungsi untuk menyatakan kondisi psikologis, cuaca, atau keniscayaan tanpa menyebut subjek tata bahasa nominatif."
       },
       {
         "id": "q-ru-gram-28-pg-3",
@@ -12927,7 +12981,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para ilmuwan yang bekerja di laboratorium ini membuat penemuan baru."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Вчера стало известно о результатах международного конкурса грантов.\" berarti \"Kemarin telah diumumkan mengenai hasil kompetisi hibah internasional.\"."
+        "explanation": "Kalimat \"Вчера стало известно о результатах международного конкурса грантов.\" (dibaca: Vchera stalo izvestno o rezultatakh mezhdunarodnogo konkursa grantov.) berarti \"Kemarin telah diumumkan mengenai hasil kompetisi hibah internasional.\". Kalimat ini menggunakan pola \"Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif\" (Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)) yang berfungsi untuk menyatakan kondisi psikologis, cuaca, atau keniscayaan tanpa menyebut subjek tata bahasa nominatif."
       },
       {
         "id": "q-ru-gram-28-pg-4",
@@ -12947,7 +13001,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-28-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)\"?",
         "options": [
           "Профессор уже закрыл кабинет и ушёл домой. — Profesor sudah mengunci ruang kerja dan pulang ke rumah.",
           "Студент, читающий научный журнал, учится на первом курсе. — Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama.",
@@ -12961,7 +13015,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-28-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)\"?",
         "options": [
           "Вчера стало известно о результатах международного конкурса грантов. — Kemarin telah diumumkan mengenai hasil kompetisi hibah internasional.",
           "Скорый поезд из Санкт-Петербурга прибыл на вокзал вовремя. — Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu.",
@@ -13222,7 +13276,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kereta cepat dari Saint Petersburg tiba di stasiun tepat waktu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Начинающему студенту трудно переводить этот старинный текст без словаря.\" berarti \"Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus.\"."
+        "explanation": "Kalimat \"Начинающему студенту трудно переводить этот старинный текст без словаря.\" (dibaca: Nachinayushchemu studentu trudno perevodit etot starinnyy tekst bez slovarya.) berarti \"Bagi mahasiswa pemula sulit menerjemahkan teks kuno ini tanpa kamus.\". Kalimat ini menggunakan pola \"Kata Keterangan Status / Verba Bentuk Netral (-о) + Datif\" (Konstruksi Kalimat Tanpa Subjek Persona (Безличные предложения)) yang berfungsi untuk menyatakan kondisi psikologis, cuaca, atau keniscayaan tanpa menyebut subjek tata bahasa nominatif."
       },
       {
         "id": "q-ru-gram-28-bb-2",
@@ -13297,24 +13351,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Melaporkan pernyataan, perintah, atau pertanyaan orang lain ke dalam wacana tidak langsung.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)\" (Косвенная речь и правила согласования) berfungsi untuk: melaporkan pernyataan, perintah, atau pertanyaan orang lain ke dalam wacana tidak langsung. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень. (Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari.)"
+          "Rumus utama: Verba Bicara + Что / Чтобы / Ли",
+          "Contoh 1: Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень. (Prepodavatel soobshchil, chto predekzamenatsionnaya konsultatsiya nachnyotsya v polden.) — Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Verba Bicara + Что / Чтобы / Ли diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verba Bicara + Что / Чтобы / Ли\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sesuaikan kata ganti persona dalam pelaporan ucapan tidak langsung.",
         "ruleList": [
-          "Научный руководитель попросил, чтобы мы принесли черновики статей. (Dosen pembimbing meminta agar kami membawa draf artikel.)"
+          "Polanya: Verba Bicara + Что / Чтобы / Ли",
+          "Contoh 2: Научный руководитель попросил, чтобы мы принесли черновики статей. (Nauchnyy rukovoditel poprosil, chtoby my prinesli chernoviki statey.) — Dosen pembimbing meminta agar kami membawa draf artikel."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Профессор спросил студентов, поняли ли они новую теорию. (Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu.)"
+          "Contoh 3: Профессор спросил студентов, поняли ли они новую теорию. (Professor sprosil studentov, ponyali li oni novuyu teoriyu.) — Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu.",
+          "Hindari kesalahan: \"он сказал что я приду\" → gunakan bentuk yang benar: \"он сказал, что он придёт\"."
         ]
       }
     ],
@@ -13322,19 +13379,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-29-ex-1",
         "native": "Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень.",
-        "phonetic": "",
+        "phonetic": "Prepodavatel soobshchil, chto predekzamenatsionnaya konsultatsiya nachnyotsya v polden.",
         "translationId": "Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari."
       },
       {
         "id": "ru-gram-29-ex-2",
         "native": "Научный руководитель попросил, чтобы мы принесли черновики статей.",
-        "phonetic": "",
+        "phonetic": "Nauchnyy rukovoditel poprosil, chtoby my prinesli chernoviki statey.",
         "translationId": "Dosen pembimbing meminta agar kami membawa draf artikel."
       },
       {
         "id": "ru-gram-29-ex-3",
         "native": "Профессор спросил студентов, поняли ли они новую теорию.",
-        "phonetic": "",
+        "phonetic": "Professor sprosil studentov, ponyali li oni novuyu teoriyu.",
         "translationId": "Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu."
       }
     ],
@@ -13350,7 +13407,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)\" (Verba Bicara + Что / Чтобы / Ли) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-29-pg-1",
@@ -13366,7 +13423,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень.\" berarti \"Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari.\"."
+        "explanation": "Kalimat \"Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень.\" (dibaca: Prepodavatel soobshchil, chto predekzamenatsionnaya konsultatsiya nachnyotsya v polden.) berarti \"Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari.\". Kalimat ini menggunakan pola \"Verba Bicara + Что / Чтобы / Ли\" (Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)) yang berfungsi untuk melaporkan pernyataan, perintah, atau pertanyaan orang lain ke dalam wacana tidak langsung."
       },
       {
         "id": "q-ru-gram-29-pg-2",
@@ -13382,7 +13439,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Научный руководитель попросил, чтобы мы принесли черновики статей.\" berarti \"Dosen pembimbing meminta agar kami membawa draf artikel.\"."
+        "explanation": "Kalimat \"Научный руководитель попросил, чтобы мы принесли черновики статей.\" (dibaca: Nauchnyy rukovoditel poprosil, chtoby my prinesli chernoviki statey.) berarti \"Dosen pembimbing meminta agar kami membawa draf artikel.\". Kalimat ini menggunakan pola \"Verba Bicara + Что / Чтобы / Ли\" (Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)) yang berfungsi untuk melaporkan pernyataan, perintah, atau pertanyaan orang lain ke dalam wacana tidak langsung."
       },
       {
         "id": "q-ru-gram-29-pg-3",
@@ -13398,7 +13455,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Masalah yang sedang dibahas di seminar saat ini sangatlah relevan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Профессор спросил студентов, поняли ли они новую теорию.\" berarti \"Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu.\"."
+        "explanation": "Kalimat \"Профессор спросил студентов, поняли ли они новую теорию.\" (dibaca: Professor sprosil studentov, ponyali li oni novuyu teoriyu.) berarti \"Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu.\". Kalimat ini menggunakan pola \"Verba Bicara + Что / Чтобы / Ли\" (Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)) yang berfungsi untuk melaporkan pernyataan, perintah, atau pertanyaan orang lain ke dalam wacana tidak langsung."
       },
       {
         "id": "q-ru-gram-29-pg-4",
@@ -13418,7 +13475,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-29-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)\"?",
         "options": [
           "Научный руководитель попросил, чтобы мы принесли черновики статей. — Dosen pembimbing meminta agar kami membawa draf artikel.",
           "Профессор, проводивший это исследование, опубликовал монографию. — Profesor yang telah melaksanakan riset ini menerbitkan sebuah monograf.",
@@ -13432,7 +13489,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-29-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)\"?",
         "options": [
           "Студент, читающий научный журнал, учится на первом курсе. — Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama.",
           "Профессор спросил студентов, поняли ли они новую теорию. — Profesor bertanya kepada para mahasiswa apakah mereka telah memahami teori baru itu.",
@@ -13695,7 +13752,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang sedang membaca jurnal ilmiah itu kuliah di tingkat pertama."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень.\" berarti \"Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari.\"."
+        "explanation": "Kalimat \"Преподаватель сообщил, что предэкзаменационная консультация начнётся в полдень.\" (dibaca: Prepodavatel soobshchil, chto predekzamenatsionnaya konsultatsiya nachnyotsya v polden.) berarti \"Dosen menginformasikan bahwa konsultasi pra-ujian akan dimulai tengah hari.\". Kalimat ini menggunakan pola \"Verba Bicara + Что / Чтобы / Ли\" (Kalimat Tak Langsung dan Pelaporan Ucapan (Косвенная речь)) yang berfungsi untuk melaporkan pernyataan, perintah, atau pertanyaan orang lain ke dalam wacana tidak langsung."
       },
       {
         "id": "q-ru-gram-29-bb-2",
@@ -13770,24 +13827,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menandai tindakan yang berbalik ke diri sendiri, resiprokal (saling), atau pasif intrapersonal.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Verba Refleksif dengan Akhiran -ся / -сь memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Verba Refleksif dengan Akhiran -ся / -сь\" (Возвратные глаголы (-ся после согласных / -сь после гласных)) berfungsi untuk: menandai tindakan yang berbalik ke diri sendiri, resiprokal (saling), atau pasif intrapersonal. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Выпускники усердно готовятся к предстоящей защите диплома. (Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi.)"
+          "Rumus utama: Verba + -ся (setelah konsonan) / -сь (setelah vokal)",
+          "Contoh 1: Выпускники усердно готовятся к предстоящей защите диплома. (Vypuskniki userdno gotovyatsya k predstoyashchey zashchite diploma.) — Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Verba + -ся (setelah konsonan) / -сь (setelah vokal) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Verba + -ся (setelah konsonan) / -сь (setelah vokal)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan partikel refleksif -ся jika subjek mempersiapkan dirinya sendiri.",
         "ruleList": [
-          "Утренние занятия в университете начинаются ровно в девять часов. (Perkuliahan pagi di universitas dimulai tepat pukul sembilan.)"
+          "Polanya: Verba + -ся (setelah konsonan) / -сь (setelah vokal)",
+          "Contoh 2: Утренние занятия в университете начинаются ровно в девять часов. (Utrenniye zanyatiya v universitete nachinayutsya rovno v devyat chasov.) — Perkuliahan pagi di universitas dimulai tepat pukul sembilan."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Verba Refleksif dengan Akhiran -ся / -сь\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Мы встретились с коллегами возле главного входа в библиотеку. (Kami bertemu dengan rekan-rekan di dekat pintu masuk utama perpustakaan.)"
+          "Contoh 3: Мы встретились с коллегами возле главного входа в библиотеку. (My vstretilis s kollegami vozle glavnogo vkhoda v biblioteku.) — Kami bertemu dengan rekan-rekan di dekat pintu masuk utama perpustakaan.",
+          "Hindari kesalahan: \"он готовит к экзамену (dirinya)\" → gunakan bentuk yang benar: \"он готовится к экзамену\"."
         ]
       }
     ],
@@ -13795,19 +13855,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-30-ex-1",
         "native": "Выпускники усердно готовятся к предстоящей защите диплома.",
-        "phonetic": "",
+        "phonetic": "Vypuskniki userdno gotovyatsya k predstoyashchey zashchite diploma.",
         "translationId": "Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi."
       },
       {
         "id": "ru-gram-30-ex-2",
         "native": "Утренние занятия в университете начинаются ровно в девять часов.",
-        "phonetic": "",
+        "phonetic": "Utrenniye zanyatiya v universitete nachinayutsya rovno v devyat chasov.",
         "translationId": "Perkuliahan pagi di universitas dimulai tepat pukul sembilan."
       },
       {
         "id": "ru-gram-30-ex-3",
         "native": "Мы встретились с коллегами возле главного входа в библиотеку.",
-        "phonetic": "",
+        "phonetic": "My vstretilis s kollegami vozle glavnogo vkhoda v biblioteku.",
         "translationId": "Kami bertemu dengan rekan-rekan di dekat pintu masuk utama perpustakaan."
       }
     ],
@@ -13823,7 +13883,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Verba Refleksif dengan Akhiran -ся / -сь sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Verba Refleksif dengan Akhiran -ся / -сь\" (Verba + -ся (setelah konsonan) / -сь (setelah vokal)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-30-pg-1",
@@ -13839,7 +13899,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Выпускники усердно готовятся к предстоящей защите диплома.\" berarti \"Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi.\"."
+        "explanation": "Kalimat \"Выпускники усердно готовятся к предстоящей защите диплома.\" (dibaca: Vypuskniki userdno gotovyatsya k predstoyashchey zashchite diploma.) berarti \"Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi.\". Kalimat ini menggunakan pola \"Verba + -ся (setelah konsonan) / -сь (setelah vokal)\" (Verba Refleksif dengan Akhiran -ся / -сь) yang berfungsi untuk menandai tindakan yang berbalik ke diri sendiri, resiprokal (saling), atau pasif intrapersonal."
       },
       {
         "id": "q-ru-gram-30-pg-2",
@@ -13855,7 +13915,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sambil membaca teks ilmiah dengan saksama, mahasiswa itu membuat catatan rinci."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Утренние занятия в университете начинаются ровно в девять часов.\" berarti \"Perkuliahan pagi di universitas dimulai tepat pukul sembilan.\"."
+        "explanation": "Kalimat \"Утренние занятия в университете начинаются ровно в девять часов.\" (dibaca: Utrenniye zanyatiya v universitete nachinayutsya rovno v devyat chasov.) berarti \"Perkuliahan pagi di universitas dimulai tepat pukul sembilan.\". Kalimat ini menggunakan pola \"Verba + -ся (setelah konsonan) / -сь (setelah vokal)\" (Verba Refleksif dengan Akhiran -ся / -сь) yang berfungsi untuk menandai tindakan yang berbalik ke diri sendiri, resiprokal (saling), atau pasif intrapersonal."
       },
       {
         "id": "q-ru-gram-30-pg-3",
@@ -13871,7 +13931,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami bertemu dengan rekan-rekan di dekat pintu masuk utama perpustakaan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Мы встретились с коллегами возле главного входа в библиотеку.\" berarti \"Kami bertemu dengan rekan-rekan di dekat pintu masuk utama perpustakaan.\"."
+        "explanation": "Kalimat \"Мы встретились с коллегами возле главного входа в библиотеку.\" (dibaca: My vstretilis s kollegami vozle glavnogo vkhoda v biblioteku.) berarti \"Kami bertemu dengan rekan-rekan di dekat pintu masuk utama perpustakaan.\". Kalimat ini menggunakan pola \"Verba + -ся (setelah konsonan) / -сь (setelah vokal)\" (Verba Refleksif dengan Akhiran -ся / -сь) yang berfungsi untuk menandai tindakan yang berbalik ke diri sendiri, resiprokal (saling), atau pasif intrapersonal."
       },
       {
         "id": "q-ru-gram-30-pg-4",
@@ -13891,7 +13951,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-30-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Verba Refleksif dengan Akhiran -ся / -сь\"?",
         "options": [
           "Книга, прочитанная мной на прошлой неделе, очень помогла в работе. — Buku yang telah saya baca minggu lalu sangat membantu dalam pekerjaan.",
           "Утренние занятия в университете начинаются ровно в девять часов. — Perkuliahan pagi di universitas dimulai tepat pukul sembilan.",
@@ -13905,7 +13965,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-30-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Verba Refleksif dengan Akhiran -ся / -сь\"?",
         "options": [
           "Статья, написанная нашим профессором, вызвала большой интерес. — Artikel yang ditulis oleh profesor kami menimbulkan minat yang besar.",
           "Вопрос, обсуждаемый сейчас на семинаре, крайне актуален. — Masalah yang sedang dibahas di seminar saat ini sangatlah relevan.",
@@ -14166,7 +14226,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Выпускники усердно готовятся к предстоящей защите диплома.\" berarti \"Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi.\"."
+        "explanation": "Kalimat \"Выпускники усердно готовятся к предстоящей защите диплома.\" (dibaca: Vypuskniki userdno gotovyatsya k predstoyashchey zashchite diploma.) berarti \"Para mahasiswa tingkat akhir giat mempersiapkan diri menghadapi sidang skripsi.\". Kalimat ini menggunakan pola \"Verba + -ся (setelah konsonan) / -сь (setelah vokal)\" (Verba Refleksif dengan Akhiran -ся / -сь) yang berfungsi untuk menandai tindakan yang berbalik ke diri sendiri, resiprokal (saling), atau pasif intrapersonal."
       },
       {
         "id": "q-ru-gram-30-bb-2",
@@ -14241,24 +14301,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memahami perbedaan imperatif aspek: penolakan/larangan menggunakan imperfektif, sedangkan peringatan hasil memakai perfektif.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Nuansa Aspek Kata Kerja dalam Perintah & Infinitif memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Nuansa Aspek Kata Kerja dalam Perintah & Infinitif\" (Употребление видов глагола в инфинитиве и императиве) berfungsi untuk: memahami perbedaan imperatif aspek: penolakan/larangan menggunakan imperfektif, sedangkan peringatan hasil memakai perfektif. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Пожалуйста, не открывайте окно в лаборатории во время опыта! (Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!)"
+          "Rumus utama: Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)",
+          "Contoh 1: Пожалуйста, не открывайте окно в лаборатории во время опыта! (Pozhaluysta, ne otkryvayte okno v laboratorii vo vremya opyta!) — Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Не + НСВ (Larangan) vs СВ (Peringatan Bahaya) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Larangan melakukan tindakan selalu menggunakan aspek imperfektif.",
         "ruleList": [
-          "Дорога очень скользкая, смотри не упади на льду! (Jalannya sangat licin, awas jangan sampai terjatuh di atas es!)"
+          "Polanya: Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)",
+          "Contoh 2: Дорога очень скользкая, смотри не упади на льду! (Doroga ochen skolzkaya, smotri ne upadi na ldu!) — Jalannya sangat licin, awas jangan sampai terjatuh di atas es!"
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Nuansa Aspek Kata Kerja dalam Perintah & Infinitif\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Проходите в кабинет и садитесь, пожалуйста, на свободное место. (Silakan masuk ke ruang kerja dan duduklah di kursi yang kosong.)"
+          "Contoh 3: Проходите в кабинет и садитесь, пожалуйста, на свободное место. (Prokhodite v kabinet i sadites, pozhaluysta, na svobodnoye mesto.) — Silakan masuk ke ruang kerja dan duduklah di kursi yang kosong.",
+          "Hindari kesalahan: \"не откройте окно\" → gunakan bentuk yang benar: \"не открывайте окно\"."
         ]
       }
     ],
@@ -14266,19 +14329,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-31-ex-1",
         "native": "Пожалуйста, не открывайте окно в лаборатории во время опыта!",
-        "phonetic": "",
+        "phonetic": "Pozhaluysta, ne otkryvayte okno v laboratorii vo vremya opyta!",
         "translationId": "Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!"
       },
       {
         "id": "ru-gram-31-ex-2",
         "native": "Дорога очень скользкая, смотри не упади на льду!",
-        "phonetic": "",
+        "phonetic": "Doroga ochen skolzkaya, smotri ne upadi na ldu!",
         "translationId": "Jalannya sangat licin, awas jangan sampai terjatuh di atas es!"
       },
       {
         "id": "ru-gram-31-ex-3",
         "native": "Проходите в кабинет и садитесь, пожалуйста, на свободное место.",
-        "phonetic": "",
+        "phonetic": "Prokhodite v kabinet i sadites, pozhaluysta, na svobodnoye mesto.",
         "translationId": "Silakan masuk ke ruang kerja dan duduklah di kursi yang kosong."
       }
     ],
@@ -14294,7 +14357,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Nuansa Aspek Kata Kerja dalam Perintah & Infinitif sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Nuansa Aspek Kata Kerja dalam Perintah & Infinitif\" (Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-31-pg-1",
@@ -14310,7 +14373,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Пожалуйста, не открывайте окно в лаборатории во время опыта!\" berarti \"Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!\"."
+        "explanation": "Kalimat \"Пожалуйста, не открывайте окно в лаборатории во время опыта!\" (dibaca: Pozhaluysta, ne otkryvayte okno v laboratorii vo vremya opyta!) berarti \"Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!\". Kalimat ini menggunakan pola \"Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)\" (Nuansa Aspek Kata Kerja dalam Perintah & Infinitif) yang berfungsi untuk memahami perbedaan imperatif aspek: penolakan/larangan menggunakan imperfektif, sedangkan peringatan hasil memakai perfektif."
       },
       {
         "id": "q-ru-gram-31-pg-2",
@@ -14326,7 +14389,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Jalannya sangat licin, awas jangan sampai terjatuh di atas es!"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Дорога очень скользкая, смотри не упади на льду!\" berarti \"Jalannya sangat licin, awas jangan sampai terjatuh di atas es!\"."
+        "explanation": "Kalimat \"Дорога очень скользкая, смотри не упади на льду!\" (dibaca: Doroga ochen skolzkaya, smotri ne upadi na ldu!) berarti \"Jalannya sangat licin, awas jangan sampai terjatuh di atas es!\". Kalimat ini menggunakan pola \"Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)\" (Nuansa Aspek Kata Kerja dalam Perintah & Infinitif) yang berfungsi untuk memahami perbedaan imperatif aspek: penolakan/larangan menggunakan imperfektif, sedangkan peringatan hasil memakai perfektif."
       },
       {
         "id": "q-ru-gram-31-pg-3",
@@ -14342,7 +14405,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sementara metode pertama hemat biaya, metode kedua memberikan akurasi yang lebih tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Проходите в кабинет и садитесь, пожалуйста, на свободное место.\" berarti \"Silakan masuk ke ruang kerja dan duduklah di kursi yang kosong.\"."
+        "explanation": "Kalimat \"Проходите в кабинет и садитесь, пожалуйста, на свободное место.\" (dibaca: Prokhodite v kabinet i sadites, pozhaluysta, na svobodnoye mesto.) berarti \"Silakan masuk ke ruang kerja dan duduklah di kursi yang kosong.\". Kalimat ini menggunakan pola \"Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)\" (Nuansa Aspek Kata Kerja dalam Perintah & Infinitif) yang berfungsi untuk memahami perbedaan imperatif aspek: penolakan/larangan menggunakan imperfektif, sedangkan peringatan hasil memakai perfektif."
       },
       {
         "id": "q-ru-gram-31-pg-4",
@@ -14362,7 +14425,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-31-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Nuansa Aspek Kata Kerja dalam Perintah & Infinitif\"?",
         "options": [
           "По мнению большинства исследователей, выдвинутая гипотеза полностью подтверждается. — Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya.",
           "Предварительные результаты многообещающие, однако требуют дальнейшей верификации. — Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut.",
@@ -14376,7 +14439,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-31-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Nuansa Aspek Kata Kerja dalam Perintah & Infinitif\"?",
         "options": [
           "Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений. — Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan.",
           "Авторы монографии приходят к важному методологическому выводу. — Para penulis monograf sampai pada kesimpulan metodologis yang penting.",
@@ -14637,7 +14700,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Пожалуйста, не открывайте окно в лаборатории во время опыта!\" berarti \"Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!\"."
+        "explanation": "Kalimat \"Пожалуйста, не открывайте окно в лаборатории во время опыта!\" (dibaca: Pozhaluysta, ne otkryvayte okno v laboratorii vo vremya opyta!) berarti \"Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!\". Kalimat ini menggunakan pola \"Не + НСВ (Larangan) vs СВ (Peringatan Bahaya)\" (Nuansa Aspek Kata Kerja dalam Perintah & Infinitif) yang berfungsi untuk memahami perbedaan imperatif aspek: penolakan/larangan menggunakan imperfektif, sedangkan peringatan hasil memakai perfektif."
       },
       {
         "id": "q-ru-gram-31-bb-2",
@@ -14712,24 +14775,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membentuk istilah konsep ilmiah abstrak untuk penulisan karya ilmiah dan laporan resmi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)\" (Словообразование абстрактных существительных научного стиля) berfungsi untuk: membentuk istilah konsep ilmiah abstrak untuk penulisan karya ilmiah dan laporan resmi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Актуальность данного научного исследования не вызывает никаких сомнений. (Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun.)"
+          "Rumus utama: Akar Kata + -ость, -ение, -ация",
+          "Contoh 1: Актуальность данного научного исследования не вызывает никаких сомнений. (Aktualnost dannogo nauchnogo issledovaniya ne vyzyvayet nikakikh somneniy.) — Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Akar Kata + -ость, -ение, -ация diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Akar Kata + -ость, -ение, -ация\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan bentuk substantif abstrak berakhiran -ость.",
         "ruleList": [
-          "Внедрение цифровых технологий значительно повысило эффективность обучения. (Penerapan teknologi digital secara signifikan meningkatkan efektivitas pembelajaran.)"
+          "Polanya: Akar Kata + -ость, -ение, -ация",
+          "Contoh 2: Внедрение цифровых технологий значительно повысило эффективность обучения. (Vnedreniye tsifrovykh tekhnologiy znachitelno povysilo effektivnost obucheniya.) — Penerapan teknologi digital secara signifikan meningkatkan efektivitas pembelajaran."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Предварительная классификация собранных данных успешно завершена. (Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan.)"
+          "Contoh 3: Предварительная классификация собранных данных успешно завершена. (Predvaritelnaya klassifikatsiya sobrannykh dannykh uspeshno zavershena.) — Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan.",
+          "Hindari kesalahan: \"актуальный исследования\" → gunakan bentuk yang benar: \"актуальность исследования\"."
         ]
       }
     ],
@@ -14737,19 +14803,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-32-ex-1",
         "native": "Актуальность данного научного исследования не вызывает никаких сомнений.",
-        "phonetic": "",
+        "phonetic": "Aktualnost dannogo nauchnogo issledovaniya ne vyzyvayet nikakikh somneniy.",
         "translationId": "Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun."
       },
       {
         "id": "ru-gram-32-ex-2",
         "native": "Внедрение цифровых технологий значительно повысило эффективность обучения.",
-        "phonetic": "",
+        "phonetic": "Vnedreniye tsifrovykh tekhnologiy znachitelno povysilo effektivnost obucheniya.",
         "translationId": "Penerapan teknologi digital secara signifikan meningkatkan efektivitas pembelajaran."
       },
       {
         "id": "ru-gram-32-ex-3",
         "native": "Предварительная классификация собранных данных успешно завершена.",
-        "phonetic": "",
+        "phonetic": "Predvaritelnaya klassifikatsiya sobrannykh dannykh uspeshno zavershena.",
         "translationId": "Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan."
       }
     ],
@@ -14765,7 +14831,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)\" (Akar Kata + -ость, -ение, -ация) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-32-pg-1",
@@ -14781,7 +14847,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Актуальность данного научного исследования не вызывает никаких сомнений.\" berarti \"Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun.\"."
+        "explanation": "Kalimat \"Актуальность данного научного исследования не вызывает никаких сомнений.\" (dibaca: Aktualnost dannogo nauchnogo issledovaniya ne vyzyvayet nikakikh somneniy.) berarti \"Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun.\". Kalimat ini menggunakan pola \"Akar Kata + -ость, -ение, -ация\" (Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)) yang berfungsi untuk membentuk istilah konsep ilmiah abstrak untuk penulisan karya ilmiah dan laporan resmi."
       },
       {
         "id": "q-ru-gram-32-pg-2",
@@ -14797,7 +14863,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Внедрение цифровых технологий значительно повысило эффективность обучения.\" berarti \"Penerapan teknologi digital secara signifikan meningkatkan efektivitas pembelajaran.\"."
+        "explanation": "Kalimat \"Внедрение цифровых технологий значительно повысило эффективность обучения.\" (dibaca: Vnedreniye tsifrovykh tekhnologiy znachitelno povysilo effektivnost obucheniya.) berarti \"Penerapan teknologi digital secara signifikan meningkatkan efektivitas pembelajaran.\". Kalimat ini menggunakan pola \"Akar Kata + -ость, -ение, -ация\" (Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)) yang berfungsi untuk membentuk istilah konsep ilmiah abstrak untuk penulisan karya ilmiah dan laporan resmi."
       },
       {
         "id": "q-ru-gram-32-pg-3",
@@ -14813,7 +14879,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Eksperimen akan memberikan hasil akurat apabila seluruh persyaratan dipatuhi secara ketat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Предварительная классификация собранных данных успешно завершена.\" berarti \"Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan.\"."
+        "explanation": "Kalimat \"Предварительная классификация собранных данных успешно завершена.\" (dibaca: Predvaritelnaya klassifikatsiya sobrannykh dannykh uspeshno zavershena.) berarti \"Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan.\". Kalimat ini menggunakan pola \"Akar Kata + -ость, -ение, -ация\" (Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)) yang berfungsi untuk membentuk istilah konsep ilmiah abstrak untuk penulisan karya ilmiah dan laporan resmi."
       },
       {
         "id": "q-ru-gram-32-pg-4",
@@ -14833,7 +14899,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-32-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)\"?",
         "options": [
           "Теория подверглась критике, тем не менее она сохраняет свою научную ценность. — Teori tersebut mendapat kritik, kendati demikian ia tetap mempertahankan nilai ilmiahnya.",
           "Несмотря на то что исходные данные были неполными, учёные установили важную закономерность. — Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting.",
@@ -14847,7 +14913,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-32-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)\"?",
         "options": [
           "Предварительная классификация собранных данных успешно завершена. — Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan.",
           "Предварительные результаты многообещающие, однако требуют дальнейшей верификации. — Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut.",
@@ -15110,7 +15176,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Актуальность данного научного исследования не вызывает никаких сомнений.\" berarti \"Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun.\"."
+        "explanation": "Kalimat \"Актуальность данного научного исследования не вызывает никаких сомнений.\" (dibaca: Aktualnost dannogo nauchnogo issledovaniya ne vyzyvayet nikakikh somneniy.) berarti \"Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun.\". Kalimat ini menggunakan pola \"Akar Kata + -ость, -ение, -ация\" (Pembentukan Kata Abstrak Ilmiah (-ость, -ение, -ация)) yang berfungsi untuk membentuk istilah konsep ilmiah abstrak untuk penulisan karya ilmiah dan laporan resmi."
       },
       {
         "id": "q-ru-gram-32-bb-2",
@@ -15185,24 +15251,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghadirkan objektivitas laporan riset tanpa menonjolkan subjek persona peneliti.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Konstruksi Pasif Akademik & Analitis memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Konstruksi Pasif Akademik & Analitis\" (Пассивные конструкции в научном и официальном стиле) berfungsi untuk: menghadirkan objektivitas laporan riset tanpa menonjolkan subjek persona peneliti. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Эксперимент проводится ведущими специалистами научно-исследовательского института. (Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset.)"
+          "Rumus utama: Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat",
+          "Contoh 1: Эксперимент проводится ведущими специалистами научно-исследовательского института. (Eksperiment provoditsya vedushchimi spetsialistami nauchno-issledovatelskogo instituta.) — Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan ragam pasif untuk menjaga nada objektif akademik.",
         "ruleList": [
-          "Новые статистические данные были получены в ходе социологического опроса. (Data statistik baru diperoleh melalui survei sosiologis.)"
+          "Polanya: Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat",
+          "Contoh 2: Новые статистические данные были получены в ходе социологического опроса. (Novyye statisticheskiye dannyye byli polucheny v khode sotsiologicheskogo oprosa.) — Data statistik baru diperoleh melalui survei sosiologis."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Konstruksi Pasif Akademik & Analitis\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Теоретический вопрос подробно рассматривается во второй главе диссертации. (Persoalan teoretis tersebut dibahas secara terperinci pada bab kedua disertasi.)"
+          "Contoh 3: Теоретический вопрос подробно рассматривается во второй главе диссертации. (Teoreticheskiy vopros podrobno rassmatrivayetsya vo vtoroy glave dissertatsii.) — Persoalan teoretis tersebut dibahas secara terperinci pada bab kedua disertasi.",
+          "Hindari kesalahan: \"мы проводим эксперимент (di jurnal)\" → gunakan bentuk yang benar: \"эксперимент проводится нами\"."
         ]
       }
     ],
@@ -15210,19 +15279,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-33-ex-1",
         "native": "Эксперимент проводится ведущими специалистами научно-исследовательского института.",
-        "phonetic": "",
+        "phonetic": "Eksperiment provoditsya vedushchimi spetsialistami nauchno-issledovatelskogo instituta.",
         "translationId": "Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset."
       },
       {
         "id": "ru-gram-33-ex-2",
         "native": "Новые статистические данные были получены в ходе социологического опроса.",
-        "phonetic": "",
+        "phonetic": "Novyye statisticheskiye dannyye byli polucheny v khode sotsiologicheskogo oprosa.",
         "translationId": "Data statistik baru diperoleh melalui survei sosiologis."
       },
       {
         "id": "ru-gram-33-ex-3",
         "native": "Теоретический вопрос подробно рассматривается во второй главе диссертации.",
-        "phonetic": "",
+        "phonetic": "Teoreticheskiy vopros podrobno rassmatrivayetsya vo vtoroy glave dissertatsii.",
         "translationId": "Persoalan teoretis tersebut dibahas secara terperinci pada bab kedua disertasi."
       }
     ],
@@ -15238,7 +15307,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Konstruksi Pasif Akademik & Analitis sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Konstruksi Pasif Akademik & Analitis\" (Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-33-pg-1",
@@ -15254,7 +15323,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Эксперимент проводится ведущими специалистами научно-исследовательского института.\" berarti \"Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset.\"."
+        "explanation": "Kalimat \"Эксперимент проводится ведущими специалистами научно-исследовательского института.\" (dibaca: Eksperiment provoditsya vedushchimi spetsialistami nauchno-issledovatelskogo instituta.) berarti \"Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset.\". Kalimat ini menggunakan pola \"Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat\" (Konstruksi Pasif Akademik & Analitis) yang berfungsi untuk menghadirkan objektivitas laporan riset tanpa menonjolkan subjek persona peneliti."
       },
       {
         "id": "q-ru-gram-33-pg-2",
@@ -15270,7 +15339,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Новые статистические данные были получены в ходе социологического опроса.\" berarti \"Data statistik baru diperoleh melalui survei sosiologis.\"."
+        "explanation": "Kalimat \"Новые статистические данные были получены в ходе социологического опроса.\" (dibaca: Novyye statisticheskiye dannyye byli polucheny v khode sotsiologicheskogo oprosa.) berarti \"Data statistik baru diperoleh melalui survei sosiologis.\". Kalimat ini menggunakan pola \"Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat\" (Konstruksi Pasif Akademik & Analitis) yang berfungsi untuk menghadirkan objektivitas laporan riset tanpa menonjolkan subjek persona peneliti."
       },
       {
         "id": "q-ru-gram-33-pg-3",
@@ -15286,7 +15355,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Теоретический вопрос подробно рассматривается во второй главе диссертации.\" berarti \"Persoalan teoretis tersebut dibahas secara terperinci pada bab kedua disertasi.\"."
+        "explanation": "Kalimat \"Теоретический вопрос подробно рассматривается во второй главе диссертации.\" (dibaca: Teoreticheskiy vopros podrobno rassmatrivayetsya vo vtoroy glave dissertatsii.) berarti \"Persoalan teoretis tersebut dibahas secara terperinci pada bab kedua disertasi.\". Kalimat ini menggunakan pola \"Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat\" (Konstruksi Pasif Akademik & Analitis) yang berfungsi untuk menghadirkan objektivitas laporan riset tanpa menonjolkan subjek persona peneliti."
       },
       {
         "id": "q-ru-gram-33-pg-4",
@@ -15306,7 +15375,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-33-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Konstruksi Pasif Akademik & Analitis\"?",
         "options": [
           "Новые статистические данные были получены в ходе социологического опроса. — Data statistik baru diperoleh melalui survei sosiologis.",
           "В ходе опытов было доказано, что эффект проявляется сильнее при низких температурах. — Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah.",
@@ -15320,7 +15389,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-33-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Konstruksi Pasif Akademik & Analitis\"?",
         "options": [
           "Несмотря на то что исходные данные были неполными, учёные установили важную закономерность. — Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting.",
           "Теоретический вопрос подробно рассматривается во второй главе диссертации. — Persoalan teoretis tersebut dibahas secara terperinci pada bab kedua disertasi.",
@@ -15587,7 +15656,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Эксперимент проводится ведущими специалистами научно-исследовательского института.\" berarti \"Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset.\"."
+        "explanation": "Kalimat \"Эксперимент проводится ведущими специалистами научно-исследовательского института.\" (dibaca: Eksperiment provoditsya vedushchimi spetsialistami nauchno-issledovatelskogo instituta.) berarti \"Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset.\". Kalimat ini menggunakan pola \"Nomina Penderita + Verba Refleksif Pasif / Partisip Singkat\" (Konstruksi Pasif Akademik & Analitis) yang berfungsi untuk menghadirkan objektivitas laporan riset tanpa menonjolkan subjek persona peneliti."
       },
       {
         "id": "q-ru-gram-33-bb-2",
@@ -15662,24 +15731,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan proposisi formal dalam wacana hukum, administrasi, dan laporan penelitian.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Preposisi Kompleks Ilmiah (В связи с, В целях, На основании) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)\" (Производные отымённые предлоги научного стиля) berfungsi untuk: menghubungkan proposisi formal dalam wacana hukum, administrasi, dan laporan penelitian. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "В связи с проведением международной конференции утренние занятия переносятся. (Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang.)"
+          "Rumus utama: В связи с + Inst / В целях + Gen / На основании + Gen",
+          "Contoh 1: В связи с проведением международной конференции утренние занятия переносятся. (V svyazi s provedeniyem mezhdunarodnoy konferentsii utrenniye zanyatiya perenosyatsya.) — Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur В связи с + Inst / В целях + Gen / На основании + Gen diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"В связи с + Inst / В целях + Gen / На основании + Gen\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan preposisi turunan formal dalam surat dinas universitas.",
         "ruleList": [
-          "Программа разработана в целях повышения качества высшего образования. (Program ini dirancang dalam rangka meningkatkan mutu pendidikan tinggi.)"
+          "Polanya: В связи с + Inst / В целях + Gen / На основании + Gen",
+          "Contoh 2: Программа разработана в целях повышения качества высшего образования. (Programma razrabotana v tselyakh povysheniya kachestva vysshego obrazovaniya.) — Program ini dirancang dalam rangka meningkatkan mutu pendidikan tinggi."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "На основании полученных результатов комиссия утвердила новый стандарт. (Berdasarkan hasil yang diperoleh, komisi mengesahkan standar baru.)"
+          "Contoh 3: На основании полученных результатов комиссия утвердила новый стандарт. (Na osnovanii poluchennykh rezultatov komissiya utverdila novyy standart.) — Berdasarkan hasil yang diperoleh, komisi mengesahkan standar baru.",
+          "Hindari kesalahan: \"потому что конференция (di dinas)\" → gunakan bentuk yang benar: \"в связи с проведением конференции\"."
         ]
       }
     ],
@@ -15687,19 +15759,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-34-ex-1",
         "native": "В связи с проведением международной конференции утренние занятия переносятся.",
-        "phonetic": "",
+        "phonetic": "V svyazi s provedeniyem mezhdunarodnoy konferentsii utrenniye zanyatiya perenosyatsya.",
         "translationId": "Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang."
       },
       {
         "id": "ru-gram-34-ex-2",
         "native": "Программа разработана в целях повышения качества высшего образования.",
-        "phonetic": "",
+        "phonetic": "Programma razrabotana v tselyakh povysheniya kachestva vysshego obrazovaniya.",
         "translationId": "Program ini dirancang dalam rangka meningkatkan mutu pendidikan tinggi."
       },
       {
         "id": "ru-gram-34-ex-3",
         "native": "На основании полученных результатов комиссия утвердила новый стандарт.",
-        "phonetic": "",
+        "phonetic": "Na osnovanii poluchennykh rezultatov komissiya utverdila novyy standart.",
         "translationId": "Berdasarkan hasil yang diperoleh, komisi mengesahkan standar baru."
       }
     ],
@@ -15715,7 +15787,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Preposisi Kompleks Ilmiah (В связи с, В целях, На основании) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)\" (В связи с + Inst / В целях + Gen / На основании + Gen) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-34-pg-1",
@@ -15731,7 +15803,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В связи с проведением международной конференции утренние занятия переносятся.\" berarti \"Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang.\"."
+        "explanation": "Kalimat \"В связи с проведением международной конференции утренние занятия переносятся.\" (dibaca: V svyazi s provedeniyem mezhdunarodnoy konferentsii utrenniye zanyatiya perenosyatsya.) berarti \"Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang.\". Kalimat ini menggunakan pola \"В связи с + Inst / В целях + Gen / На основании + Gen\" (Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)) yang berfungsi untuk menghubungkan proposisi formal dalam wacana hukum, administrasi, dan laporan penelitian."
       },
       {
         "id": "q-ru-gram-34-pg-2",
@@ -15747,7 +15819,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Программа разработана в целях повышения качества высшего образования.\" berarti \"Program ini dirancang dalam rangka meningkatkan mutu pendidikan tinggi.\"."
+        "explanation": "Kalimat \"Программа разработана в целях повышения качества высшего образования.\" (dibaca: Programma razrabotana v tselyakh povysheniya kachestva vysshego obrazovaniya.) berarti \"Program ini dirancang dalam rangka meningkatkan mutu pendidikan tinggi.\". Kalimat ini menggunakan pola \"В связи с + Inst / В целях + Gen / На основании + Gen\" (Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)) yang berfungsi untuk menghubungkan proposisi formal dalam wacana hukum, administrasi, dan laporan penelitian."
       },
       {
         "id": "q-ru-gram-34-pg-3",
@@ -15763,7 +15835,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan hasil yang diperoleh, komisi mengesahkan standar baru."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"На основании полученных результатов комиссия утвердила новый стандарт.\" berarti \"Berdasarkan hasil yang diperoleh, komisi mengesahkan standar baru.\"."
+        "explanation": "Kalimat \"На основании полученных результатов комиссия утвердила новый стандарт.\" (dibaca: Na osnovanii poluchennykh rezultatov komissiya utverdila novyy standart.) berarti \"Berdasarkan hasil yang diperoleh, komisi mengesahkan standar baru.\". Kalimat ini menggunakan pola \"В связи с + Inst / В целях + Gen / На основании + Gen\" (Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)) yang berfungsi untuk menghubungkan proposisi formal dalam wacana hukum, administrasi, dan laporan penelitian."
       },
       {
         "id": "q-ru-gram-34-pg-4",
@@ -15783,7 +15855,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-34-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)\"?",
         "options": [
           "При анализе текста необходимо принимать во внимание исторический контекст эпохи. — Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya.",
           "Программа разработана в целях повышения качества высшего образования. — Program ini dirancang dalam rangka meningkatkan mutu pendidikan tinggi.",
@@ -15797,7 +15869,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-34-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)\"?",
         "options": [
           "Данный климатический фактор играет ключевую роль в развитии экосистемы. — Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem.",
           "Это открытие имеет принципиальное значение для современной медицины. — Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern.",
@@ -16058,7 +16130,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"В связи с проведением международной конференции утренние занятия переносятся.\" berarti \"Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang.\"."
+        "explanation": "Kalimat \"В связи с проведением международной конференции утренние занятия переносятся.\" (dibaca: V svyazi s provedeniyem mezhdunarodnoy konferentsii utrenniye zanyatiya perenosyatsya.) berarti \"Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang.\". Kalimat ini menggunakan pola \"В связи с + Inst / В целях + Gen / На основании + Gen\" (Preposisi Kompleks Ilmiah (В связи с, В целях, На основании)) yang berfungsi untuk menghubungkan proposisi formal dalam wacana hukum, administrasi, dan laporan penelitian."
       },
       {
         "id": "q-ru-gram-34-bb-2",
@@ -16133,24 +16205,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menyitir literatur terdahulu, menyusun tinjauan pustaka, dan menyampaikan dialektika ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Struktur Argumentasi Ilmiah & Kutipan Akademik memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Struktur Argumentasi Ilmiah & Kutipan Akademik\" (Способы цитирования и научная полемика) berfungsi untuk: menyitir literatur terdahulu, menyusun tinjauan pustaka, dan menyampaikan dialektika ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений. (Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan.)"
+          "Rumus utama: Как отмечает Автор / По мнению Исследователя + Proposisi",
+          "Contoh 1: Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений. (Kak spravedlivo otmechayet akademik Ivanov, dannyy metod imeyet ryad ogranicheniy.) — Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Как отмечает Автор / По мнению Исследователя + Proposisi diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Как отмечает Автор / По мнению Исследователя + Proposisi\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan formula sitasi baku akademik daripada bahasa cakap.",
         "ruleList": [
-          "По мнению большинства исследователей, выдвинутая гипотеза полностью подтверждается. (Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya.)"
+          "Polanya: Как отмечает Автор / По мнению Исследователя + Proposisi",
+          "Contoh 2: По мнению большинства исследователей, выдвинутая гипотеза полностью подтверждается. (Po mneniyu bolshinstva issledovateley, vydvinutaya gipoteza polnostyu podtverzhdayetsya.) — Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Struktur Argumentasi Ilmiah & Kutipan Akademik\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Авторы монографии приходят к важному методологическому выводу. (Para penulis monograf sampai pada kesimpulan metodologis yang penting.)"
+          "Contoh 3: Авторы монографии приходят к важному методологическому выводу. (Avtory monografii prikhodyat k vazhnomu metodologicheskomu vyvodu.) — Para penulis monograf sampai pada kesimpulan metodologis yang penting.",
+          "Hindari kesalahan: \"иванов сказал в книге\" → gunakan bentuk yang benar: \"как отмечает академик Иванов\"."
         ]
       }
     ],
@@ -16158,19 +16233,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-35-ex-1",
         "native": "Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений.",
-        "phonetic": "",
+        "phonetic": "Kak spravedlivo otmechayet akademik Ivanov, dannyy metod imeyet ryad ogranicheniy.",
         "translationId": "Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan."
       },
       {
         "id": "ru-gram-35-ex-2",
         "native": "По мнению большинства исследователей, выдвинутая гипотеза полностью подтверждается.",
-        "phonetic": "",
+        "phonetic": "Po mneniyu bolshinstva issledovateley, vydvinutaya gipoteza polnostyu podtverzhdayetsya.",
         "translationId": "Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya."
       },
       {
         "id": "ru-gram-35-ex-3",
         "native": "Авторы монографии приходят к важному методологическому выводу.",
-        "phonetic": "",
+        "phonetic": "Avtory monografii prikhodyat k vazhnomu metodologicheskomu vyvodu.",
         "translationId": "Para penulis monograf sampai pada kesimpulan metodologis yang penting."
       }
     ],
@@ -16186,7 +16261,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Struktur Argumentasi Ilmiah & Kutipan Akademik sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Struktur Argumentasi Ilmiah & Kutipan Akademik\" (Как отмечает Автор / По мнению Исследователя + Proposisi) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-35-pg-1",
@@ -16202,7 +16277,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений.\" berarti \"Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan.\"."
+        "explanation": "Kalimat \"Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений.\" (dibaca: Kak spravedlivo otmechayet akademik Ivanov, dannyy metod imeyet ryad ogranicheniy.) berarti \"Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan.\". Kalimat ini menggunakan pola \"Как отмечает Автор / По мнению Исследователя + Proposisi\" (Struktur Argumentasi Ilmiah & Kutipan Akademik) yang berfungsi untuk menyitir literatur terdahulu, menyusun tinjauan pustaka, dan menyampaikan dialektika ilmiah."
       },
       {
         "id": "q-ru-gram-35-pg-2",
@@ -16218,7 +16293,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"По мнению большинства исследователей, выдвинутая гипотеза полностью подтверждается.\" berarti \"Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya.\"."
+        "explanation": "Kalimat \"По мнению большинства исследователей, выдвинутая гипотеза полностью подтверждается.\" (dibaca: Po mneniyu bolshinstva issledovateley, vydvinutaya gipoteza polnostyu podtverzhdayetsya.) berarti \"Menurut pendapat mayoritas peneliti, hipotesis yang diajukan terbukti sepenuhnya.\". Kalimat ini menggunakan pola \"Как отмечает Автор / По мнению Исследователя + Proposisi\" (Struktur Argumentasi Ilmiah & Kutipan Akademik) yang berfungsi untuk menyitir literatur terdahulu, menyusun tinjauan pustaka, dan menyampaikan dialektika ilmiah."
       },
       {
         "id": "q-ru-gram-35-pg-3",
@@ -16234,7 +16309,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami sampaikan untuk menjadi maklum bahwa penerimaan pendaftaran beasiswa diperpanjang hingga Jumat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Авторы монографии приходят к важному методологическому выводу.\" berarti \"Para penulis monograf sampai pada kesimpulan metodologis yang penting.\"."
+        "explanation": "Kalimat \"Авторы монографии приходят к важному методологическому выводу.\" (dibaca: Avtory monografii prikhodyat k vazhnomu metodologicheskomu vyvodu.) berarti \"Para penulis monograf sampai pada kesimpulan metodologis yang penting.\". Kalimat ini menggunakan pola \"Как отмечает Автор / По мнению Исследователя + Proposisi\" (Struktur Argumentasi Ilmiah & Kutipan Akademik) yang berfungsi untuk menyitir literatur terdahulu, menyusun tinjauan pustaka, dan menyampaikan dialektika ilmiah."
       },
       {
         "id": "q-ru-gram-35-pg-4",
@@ -16254,7 +16329,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-35-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Struktur Argumentasi Ilmiah & Kutipan Akademik\"?",
         "options": [
           "Автор публикации обращает внимание общественности на экологический кризис региона. — Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut.",
           "Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество. — Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif.",
@@ -16268,7 +16343,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-35-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Struktur Argumentasi Ilmiah & Kutipan Akademik\"?",
         "options": [
           "В аналитической статье затрагиваются актуальные проблемы глобализации образования. — Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan.",
           "Результаты международного саммита получили широкий общественный резонанс. — Hasil KTT internasional tersebut mendapat gaung tanggapan luas di masyarakat.",
@@ -16529,7 +16604,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений.\" berarti \"Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan.\"."
+        "explanation": "Kalimat \"Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений.\" (dibaca: Kak spravedlivo otmechayet akademik Ivanov, dannyy metod imeyet ryad ogranicheniy.) berarti \"Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan.\". Kalimat ini menggunakan pola \"Как отмечает Автор / По мнению Исследователя + Proposisi\" (Struktur Argumentasi Ilmiah & Kutipan Akademik) yang berfungsi untuk menyitir literatur terdahulu, menyusun tinjauan pustaka, dan menyampaikan dialektika ilmiah."
       },
       {
         "id": "q-ru-gram-35-bb-2",
@@ -16604,24 +16679,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menghubungkan kontras pemikiran secara halus dan elegan dalam esai ilmiah.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Sinonimitas Konjungsi Formal: Однако, Тем не менее memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Sinonimitas Konjungsi Formal: Однако, Тем не менее\" (Синонимия противительных и уступительных союзов) berfungsi untuk: menghubungkan kontras pemikiran secara halus dan elegan dalam esai ilmiah. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Предварительные результаты многообещающие, однако требуют дальнейшей верификации. (Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut.)"
+          "Rumus utama: Однако (Namun) / Тем не менее (Kendati demikian)",
+          "Contoh 1: Предварительные результаты многообещающие, однако требуют дальнейшей верификации. (Predvaritelnyye rezultaty mnogoobeshchayushchiye, odnako trebuyut dalneyshey verifikatsii.) — Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Однако (Namun) / Тем не менее (Kendati demikian) diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Однако (Namun) / Тем не менее (Kendati demikian)\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan однако atau тем не менее untuk menyambung wacana akademik tinggi.",
         "ruleList": [
-          "Теория подверглась критике, тем не менее она сохраняет свою научную ценность. (Teori tersebut mendapat kritik, kendati demikian ia tetap mempertahankan nilai ilmiahnya.)"
+          "Polanya: Однако (Namun) / Тем не менее (Kendati demikian)",
+          "Contoh 2: Теория подверглась критике, тем не менее она сохраняет свою научную ценность. (Teoriya podverglas kritike, tem ne meneye ona sokhranyayet svoyu nauchnuyu tsennost.) — Teori tersebut mendapat kritik, kendati demikian ia tetap mempertahankan nilai ilmiahnya."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Sinonimitas Konjungsi Formal: Однако, Тем не менее\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "В то время как первый метод экономичен, второй обеспечивает большую точность. (Sementara metode pertama hemat biaya, metode kedua memberikan akurasi yang lebih tinggi.)"
+          "Contoh 3: В то время как первый метод экономичен, второй обеспечивает большую точность. (V to vremya kak pervyy metod ekonomichen, vtoroy obespechivayet bolshuyu tochnost.) — Sementara metode pertama hemat biaya, metode kedua memberikan akurasi yang lebih tinggi.",
+          "Hindari kesalahan: \"но (di awal paragraf tesis)\" → gunakan bentuk yang benar: \"однако / тем не менее\"."
         ]
       }
     ],
@@ -16629,19 +16707,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-36-ex-1",
         "native": "Предварительные результаты многообещающие, однако требуют дальнейшей верификации.",
-        "phonetic": "",
+        "phonetic": "Predvaritelnyye rezultaty mnogoobeshchayushchiye, odnako trebuyut dalneyshey verifikatsii.",
         "translationId": "Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut."
       },
       {
         "id": "ru-gram-36-ex-2",
         "native": "Теория подверглась критике, тем не менее она сохраняет свою научную ценность.",
-        "phonetic": "",
+        "phonetic": "Teoriya podverglas kritike, tem ne meneye ona sokhranyayet svoyu nauchnuyu tsennost.",
         "translationId": "Teori tersebut mendapat kritik, kendati demikian ia tetap mempertahankan nilai ilmiahnya."
       },
       {
         "id": "ru-gram-36-ex-3",
         "native": "В то время как первый метод экономичен, второй обеспечивает большую точность.",
-        "phonetic": "",
+        "phonetic": "V to vremya kak pervyy metod ekonomichen, vtoroy obespechivayet bolshuyu tochnost.",
         "translationId": "Sementara metode pertama hemat biaya, metode kedua memberikan akurasi yang lebih tinggi."
       }
     ],
@@ -16657,7 +16735,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Sinonimitas Konjungsi Formal: Однако, Тем не менее sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Sinonimitas Konjungsi Formal: Однако, Тем не менее\" (Однако (Namun) / Тем не менее (Kendati demikian)) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-36-pg-1",
@@ -16673,7 +16751,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Предварительные результаты многообещающие, однако требуют дальнейшей верификации.\" berarti \"Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut.\"."
+        "explanation": "Kalimat \"Предварительные результаты многообещающие, однако требуют дальнейшей верификации.\" (dibaca: Predvaritelnyye rezultaty mnogoobeshchayushchiye, odnako trebuyut dalneyshey verifikatsii.) berarti \"Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut.\". Kalimat ini menggunakan pola \"Однако (Namun) / Тем не менее (Kendati demikian)\" (Sinonimitas Konjungsi Formal: Однако, Тем не менее) yang berfungsi untuk menghubungkan kontras pemikiran secara halus dan elegan dalam esai ilmiah."
       },
       {
         "id": "q-ru-gram-36-pg-2",
@@ -16689,7 +16767,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Теория подверглась критике, тем не менее она сохраняет свою научную ценность.\" berarti \"Teori tersebut mendapat kritik, kendati demikian ia tetap mempertahankan nilai ilmiahnya.\"."
+        "explanation": "Kalimat \"Теория подверглась критике, тем не менее она сохраняет свою научную ценность.\" (dibaca: Teoriya podverglas kritike, tem ne meneye ona sokhranyayet svoyu nauchnuyu tsennost.) berarti \"Teori tersebut mendapat kritik, kendati demikian ia tetap mempertahankan nilai ilmiahnya.\". Kalimat ini menggunakan pola \"Однако (Namun) / Тем не менее (Kendati demikian)\" (Sinonimitas Konjungsi Formal: Однако, Тем не менее) yang berfungsi untuk menghubungkan kontras pemikiran secara halus dan elegan dalam esai ilmiah."
       },
       {
         "id": "q-ru-gram-36-pg-3",
@@ -16705,7 +16783,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Silakan masuk ke ruang kerja dan duduklah di kursi yang kosong."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В то время как первый метод экономичен, второй обеспечивает большую точность.\" berarti \"Sementara metode pertama hemat biaya, metode kedua memberikan akurasi yang lebih tinggi.\"."
+        "explanation": "Kalimat \"В то время как первый метод экономичен, второй обеспечивает большую точность.\" (dibaca: V to vremya kak pervyy metod ekonomichen, vtoroy obespechivayet bolshuyu tochnost.) berarti \"Sementara metode pertama hemat biaya, metode kedua memberikan akurasi yang lebih tinggi.\". Kalimat ini menggunakan pola \"Однако (Namun) / Тем не менее (Kendati demikian)\" (Sinonimitas Konjungsi Formal: Однако, Тем не менее) yang berfungsi untuk menghubungkan kontras pemikiran secara halus dan elegan dalam esai ilmiah."
       },
       {
         "id": "q-ru-gram-36-pg-4",
@@ -16725,7 +16803,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-36-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Sinonimitas Konjungsi Formal: Однако, Тем не менее\"?",
         "options": [
           "Мы искренне надеемся на дальнейшее развитие академического партнёрства между вузами. — Kami sangat berharap pada pengembangan lebih lanjut kemitraan akademik antar-perguruan tinggi.",
           "Пожалуйста, не открывайте окно в лаборатории во время опыта! — Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!",
@@ -16739,7 +16817,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-36-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Sinonimitas Konjungsi Formal: Однако, Тем не менее\"?",
         "options": [
           "В то время как первый метод экономичен, второй обеспечивает большую точность. — Sementara metode pertama hemat biaya, metode kedua memberikan akurasi yang lebih tinggi.",
           "Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество. — Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif.",
@@ -17000,7 +17078,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Предварительные результаты многообещающие, однако требуют дальнейшей верификации.\" berarti \"Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut.\"."
+        "explanation": "Kalimat \"Предварительные результаты многообещающие, однако требуют дальнейшей верификации.\" (dibaca: Predvaritelnyye rezultaty mnogoobeshchayushchiye, odnako trebuyut dalneyshey verifikatsii.) berarti \"Hasil awal tampak menjanjikan, namun memerlukan verifikasi lebih lanjut.\". Kalimat ini menggunakan pola \"Однако (Namun) / Тем не менее (Kendati demikian)\" (Sinonimitas Konjungsi Formal: Однако, Тем не менее) yang berfungsi untuk menghubungkan kontras pemikiran secara halus dan elegan dalam esai ilmiah."
       },
       {
         "id": "q-ru-gram-36-bb-2",
@@ -17075,24 +17153,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Merangkai struktur penalaran ilmiah bertingkat yang runut dan koheren.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)\" (Многокомпонентные сложноподчинённые предложения) berfungsi untuk: merangkai struktur penalaran ilmiah bertingkat yang runut dan koheren. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Несмотря на то что исходные данные были неполными, учёные установили важную закономерность. (Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting.)"
+          "Rumus utama: Klausa Utama + Berbagai Anak Kalimat Bertingkat",
+          "Contoh 1: Несмотря на то что исходные данные были неполными, учёные установили важную закономерность. (Nesmotrya na to chto iskhodnyye dannyye byli nepolnymi, uchyonyye ustanovili vazhnuyu zakonomernost.) — Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Klausa Utama + Berbagai Anak Kalimat Bertingkat diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Klausa Utama + Berbagai Anak Kalimat Bertingkat\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Konjungsi majemuk bertingkat membutuhkan korelasi то что.",
         "ruleList": [
-          "В ходе опытов было доказано, что эффект проявляется сильнее при низких температурах. (Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah.)"
+          "Polanya: Klausa Utama + Berbagai Anak Kalimat Bertingkat",
+          "Contoh 2: В ходе опытов было доказано, что эффект проявляется сильнее при низких температурах. (V khode opytov bylo dokazano, chto effekt proyavlyayetsya silneye pri nizkikh temperaturakh.) — Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Эксперимент даст точный результат в случае, если все условия будут строго соблюдены. (Eksperimen akan memberikan hasil akurat apabila seluruh persyaratan dipatuhi secara ketat.)"
+          "Contoh 3: Эксперимент даст точный результат в случае, если все условия будут строго соблюдены. (Eksperiment dast tochnyy rezultat v sluchaye, yesli vse usloviya budut strogo soblyudeny.) — Eksperimen akan memberikan hasil akurat apabila seluruh persyaratan dipatuhi secara ketat.",
+          "Hindari kesalahan: \"несмотря на данные были неполные\" → gunakan bentuk yang benar: \"несмотря на то что данные были неполными\"."
         ]
       }
     ],
@@ -17100,19 +17181,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-37-ex-1",
         "native": "Несмотря на то что исходные данные были неполными, учёные установили важную закономерность.",
-        "phonetic": "",
+        "phonetic": "Nesmotrya na to chto iskhodnyye dannyye byli nepolnymi, uchyonyye ustanovili vazhnuyu zakonomernost.",
         "translationId": "Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting."
       },
       {
         "id": "ru-gram-37-ex-2",
         "native": "В ходе опытов было доказано, что эффект проявляется сильнее при низких температурах.",
-        "phonetic": "",
+        "phonetic": "V khode opytov bylo dokazano, chto effekt proyavlyayetsya silneye pri nizkikh temperaturakh.",
         "translationId": "Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah."
       },
       {
         "id": "ru-gram-37-ex-3",
         "native": "Эксперимент даст точный результат в случае, если все условия будут строго соблюдены.",
-        "phonetic": "",
+        "phonetic": "Eksperiment dast tochnyy rezultat v sluchaye, yesli vse usloviya budut strogo soblyudeny.",
         "translationId": "Eksperimen akan memberikan hasil akurat apabila seluruh persyaratan dipatuhi secara ketat."
       }
     ],
@@ -17128,7 +17209,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)\" (Klausa Utama + Berbagai Anak Kalimat Bertingkat) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-37-pg-1",
@@ -17144,7 +17225,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Jalannya sangat licin, awas jangan sampai terjatuh di atas es!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Несмотря на то что исходные данные были неполными, учёные установили важную закономерность.\" berarti \"Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting.\"."
+        "explanation": "Kalimat \"Несмотря на то что исходные данные были неполными, учёные установили важную закономерность.\" (dibaca: Nesmotrya na to chto iskhodnyye dannyye byli nepolnymi, uchyonyye ustanovili vazhnuyu zakonomernost.) berarti \"Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting.\". Kalimat ini menggunakan pola \"Klausa Utama + Berbagai Anak Kalimat Bertingkat\" (Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)) yang berfungsi untuk merangkai struktur penalaran ilmiah bertingkat yang runut dan koheren."
       },
       {
         "id": "q-ru-gram-37-pg-2",
@@ -17160,7 +17241,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В ходе опытов было доказано, что эффект проявляется сильнее при низких температурах.\" berarti \"Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah.\"."
+        "explanation": "Kalimat \"В ходе опытов было доказано, что эффект проявляется сильнее при низких температурах.\" (dibaca: V khode opytov bylo dokazano, chto effekt proyavlyayetsya silneye pri nizkikh temperaturakh.) berarti \"Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah.\". Kalimat ini menggunakan pola \"Klausa Utama + Berbagai Anak Kalimat Bertingkat\" (Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)) yang berfungsi untuk merangkai struktur penalaran ilmiah bertingkat yang runut dan koheren."
       },
       {
         "id": "q-ru-gram-37-pg-3",
@@ -17176,7 +17257,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Эксперимент даст точный результат в случае, если все условия будут строго соблюдены.\" berarti \"Eksperimen akan memberikan hasil akurat apabila seluruh persyaratan dipatuhi secara ketat.\"."
+        "explanation": "Kalimat \"Эксперимент даст точный результат в случае, если все условия будут строго соблюдены.\" (dibaca: Eksperiment dast tochnyy rezultat v sluchaye, yesli vse usloviya budut strogo soblyudeny.) berarti \"Eksperimen akan memberikan hasil akurat apabila seluruh persyaratan dipatuhi secara ketat.\". Kalimat ini menggunakan pola \"Klausa Utama + Berbagai Anak Kalimat Bertingkat\" (Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)) yang berfungsi untuk merangkai struktur penalaran ilmiah bertingkat yang runut dan koheren."
       },
       {
         "id": "q-ru-gram-37-pg-4",
@@ -17196,7 +17277,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-37-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)\"?",
         "options": [
           "В ходе опытов было доказано, что эффект проявляется сильнее при низких температурах. — Dalam rangkaian percobaan telah dibuktikan bahwa efeknya tampak lebih kuat pada suhu rendah.",
           "Дорога очень скользкая, смотри не упади на льду! — Jalannya sangat licin, awas jangan sampai terjatuh di atas es!",
@@ -17210,7 +17291,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-37-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)\"?",
         "options": [
           "Пожалуйста, не открывайте окно в лаборатории во время опыта! — Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!",
           "Эксперимент даст точный результат в случае, если все условия будут строго соблюдены. — Eksperimen akan memberikan hasil akurat apabila seluruh persyaratan dipatuhi secara ketat.",
@@ -17477,7 +17558,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Tolong jangan membuka jendela di laboratorium selama eksperimen berlangsung!"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Несмотря на то что исходные данные были неполными, учёные установили важную закономерность.\" berarti \"Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting.\"."
+        "explanation": "Kalimat \"Несмотря на то что исходные данные были неполными, учёные установили важную закономерность.\" (dibaca: Nesmotrya na to chto iskhodnyye dannyye byli nepolnymi, uchyonyye ustanovili vazhnuyu zakonomernost.) berarti \"Meskipun data awal belum lengkap, para ilmuwan berhasil menetapkan pola keteraturan yang penting.\". Kalimat ini menggunakan pola \"Klausa Utama + Berbagai Anak Kalimat Bertingkat\" (Kalimat Majemuk Kompleks Bertingkat (Сложноподчинённые предложения)) yang berfungsi untuk merangkai struktur penalaran ilmiah bertingkat yang runut dan koheren."
       },
       {
         "id": "q-ru-gram-37-bb-2",
@@ -17552,24 +17633,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menggunakan kolokasi leksikal baku yang berterima di kalangan cendekiawan penutur asli.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Idiom, Fraseologi & Ungkapan Metaforis Ilmiah memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Idiom, Fraseologi & Ungkapan Metaforis Ilmiah\" (Идиоматика и устойчивые выражения научного дискурса) berfungsi untuk: menggunakan kolokasi leksikal baku yang berterima di kalangan cendekiawan penutur asli. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Данный климатический фактор играет ключевую роль в развитии экосистемы. (Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem.)"
+          "Rumus utama: Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание",
+          "Contoh 1: Данный климатический фактор играет ключевую роль в развитии экосистемы. (Dannyy klimaticheskiy faktor igrayet klyuchevuyu rol v razvitii ekosistemy.) — Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Kolokasi yang tepat adalah играть роль atau иметь значение.",
         "ruleList": [
-          "При анализе текста необходимо принимать во внимание исторический контекст эпохи. (Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya.)"
+          "Polanya: Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание",
+          "Contoh 2: При анализе текста необходимо принимать во внимание исторический контекст эпохи. (Pri analize teksta neobkhodimo prinimat vo vnimaniye istoricheskiy kontekst epokhi.) — Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Idiom, Fraseologi & Ungkapan Metaforis Ilmiah\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Это открытие имеет принципиальное значение для современной медицины. (Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern.)"
+          "Contoh 3: Это открытие имеет принципиальное значение для современной медицины. (Eto otkrytiye imeyet printsipialnoye znacheniye dlya sovremennoy meditsiny.) — Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern.",
+          "Hindari kesalahan: \"играет значение\" → gunakan bentuk yang benar: \"играет роль / имеет значение\"."
         ]
       }
     ],
@@ -17577,19 +17661,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-38-ex-1",
         "native": "Данный климатический фактор играет ключевую роль в развитии экосистемы.",
-        "phonetic": "",
+        "phonetic": "Dannyy klimaticheskiy faktor igrayet klyuchevuyu rol v razvitii ekosistemy.",
         "translationId": "Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem."
       },
       {
         "id": "ru-gram-38-ex-2",
         "native": "При анализе текста необходимо принимать во внимание исторический контекст эпохи.",
-        "phonetic": "",
+        "phonetic": "Pri analize teksta neobkhodimo prinimat vo vnimaniye istoricheskiy kontekst epokhi.",
         "translationId": "Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya."
       },
       {
         "id": "ru-gram-38-ex-3",
         "native": "Это открытие имеет принципиальное значение для современной медицины.",
-        "phonetic": "",
+        "phonetic": "Eto otkrytiye imeyet printsipialnoye znacheniye dlya sovremennoy meditsiny.",
         "translationId": "Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern."
       }
     ],
@@ -17605,7 +17689,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Idiom, Fraseologi & Ungkapan Metaforis Ilmiah sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Idiom, Fraseologi & Ungkapan Metaforis Ilmiah\" (Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-38-pg-1",
@@ -17621,7 +17705,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penerapan teknologi digital secara signifikan meningkatkan efektivitas pembelajaran."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Данный климатический фактор играет ключевую роль в развитии экосистемы.\" berarti \"Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem.\"."
+        "explanation": "Kalimat \"Данный климатический фактор играет ключевую роль в развитии экосистемы.\" (dibaca: Dannyy klimaticheskiy faktor igrayet klyuchevuyu rol v razvitii ekosistemy.) berarti \"Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem.\". Kalimat ini menggunakan pola \"Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание\" (Idiom, Fraseologi & Ungkapan Metaforis Ilmiah) yang berfungsi untuk menggunakan kolokasi leksikal baku yang berterima di kalangan cendekiawan penutur asli."
       },
       {
         "id": "q-ru-gram-38-pg-2",
@@ -17637,7 +17721,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"При анализе текста необходимо принимать во внимание исторический контекст эпохи.\" berarti \"Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya.\"."
+        "explanation": "Kalimat \"При анализе текста необходимо принимать во внимание исторический контекст эпохи.\" (dibaca: Pri analize teksta neobkhodimo prinimat vo vnimaniye istoricheskiy kontekst epokhi.) berarti \"Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya.\". Kalimat ini menggunakan pola \"Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание\" (Idiom, Fraseologi & Ungkapan Metaforis Ilmiah) yang berfungsi untuk menggunakan kolokasi leksikal baku yang berterima di kalangan cendekiawan penutur asli."
       },
       {
         "id": "q-ru-gram-38-pg-3",
@@ -17653,7 +17737,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Это открытие имеет принципиальное значение для современной медицины.\" berarti \"Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern.\"."
+        "explanation": "Kalimat \"Это открытие имеет принципиальное значение для современной медицины.\" (dibaca: Eto otkrytiye imeyet printsipialnoye znacheniye dlya sovremennoy meditsiny.) berarti \"Penemuan ini memiliki arti penting yang mendasar bagi ilmu kedokteran modern.\". Kalimat ini menggunakan pola \"Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание\" (Idiom, Fraseologi & Ungkapan Metaforis Ilmiah) yang berfungsi untuk menggunakan kolokasi leksikal baku yang berterima di kalangan cendekiawan penutur asli."
       },
       {
         "id": "q-ru-gram-38-pg-4",
@@ -17673,7 +17757,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-38-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Idiom, Fraseologi & Ungkapan Metaforis Ilmiah\"?",
         "options": [
           "Внедрение цифровых технологий значительно повысило эффективность обучения. — Penerapan teknologi digital secara signifikan meningkatkan efektivitas pembelajaran.",
           "При анализе текста необходимо принимать во внимание исторический контекст эпохи. — Saat menganalisis teks, kita wajib mempertimbangkan konteks sejarah zamannya.",
@@ -17687,7 +17771,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-38-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Idiom, Fraseologi & Ungkapan Metaforis Ilmiah\"?",
         "options": [
           "Актуальность данного научного исследования не вызывает никаких сомнений. — Relevansi penelitian ilmiah ini tidak menimbulkan keraguan sedikit pun.",
           "Предварительная классификация собранных данных успешно завершена. — Klasifikasi awal atas data yang terkumpul telah berhasil diselesaikan.",
@@ -17948,7 +18032,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Данный климатический фактор играет ключевую роль в развитии экосистемы.\" berarti \"Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem.\"."
+        "explanation": "Kalimat \"Данный климатический фактор играет ключевую роль в развитии экосистемы.\" (dibaca: Dannyy klimaticheskiy faktor igrayet klyuchevuyu rol v razvitii ekosistemy.) berarti \"Faktor iklim ini memainkan peranan kunci dalam perkembangan ekosistem.\". Kalimat ini menggunakan pola \"Frasa Tetap Akademik: Играть роль, Иметь значение, Принимать во внимание\" (Idiom, Fraseologi & Ungkapan Metaforis Ilmiah) yang berfungsi untuk menggunakan kolokasi leksikal baku yang berterima di kalangan cendekiawan penutur asli."
       },
       {
         "id": "q-ru-gram-38-bb-2",
@@ -18023,24 +18107,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis wacana media massa, opini editorial, dan isu-isu strategis global berbahasa Rusia.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)\" (Особенности публицистического стиля и общественно-политической лексики) berfungsi untuk: menganalisis wacana media massa, opini editorial, dan isu-isu strategis global berbahasa Rusia. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "В аналитической статье затрагиваются актуальные проблемы глобализации образования. (Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan.)"
+          "Rumus utama: Gaya Retorika Publik & Opini Berbobot",
+          "Contoh 1: В аналитической статье затрагиваются актуальные проблемы глобализации образования. (V analiticheskoy statye zatragivayutsya aktualnyye problemy globalizatsii obrazovaniya.) — Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Gaya Retorika Publik & Opini Berbobot diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Gaya Retorika Publik & Opini Berbobot\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan register jurnalisme intelektual dalam ulasan publik.",
         "ruleList": [
-          "Автор публикации обращает внимание общественности на экологический кризис региона. (Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut.)"
+          "Polanya: Gaya Retorika Publik & Opini Berbobot",
+          "Contoh 2: Автор публикации обращает внимание общественности на экологический кризис региона. (Avtor publikatsii obrashchayet vnimaniye obshchestvennosti na ekologicheskiy krizis regiona.) — Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Результаты международного саммита получили широкий общественный резонанс. (Hasil KTT internasional tersebut mendapat gaung tanggapan luas di masyarakat.)"
+          "Contoh 3: Результаты международного саммита получили широкий общественный резонанс. (Rezultaty mezhdunarodnogo sammita poluchili shirokiy obshchestvennyy rezonans.) — Hasil KTT internasional tersebut mendapat gaung tanggapan luas di masyarakat.",
+          "Hindari kesalahan: \"статья говорит про экологию\" → gunakan bentuk yang benar: \"в статье затрагиваются проблемы экологии\"."
         ]
       }
     ],
@@ -18048,19 +18135,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-39-ex-1",
         "native": "В аналитической статье затрагиваются актуальные проблемы глобализации образования.",
-        "phonetic": "",
+        "phonetic": "V analiticheskoy statye zatragivayutsya aktualnyye problemy globalizatsii obrazovaniya.",
         "translationId": "Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan."
       },
       {
         "id": "ru-gram-39-ex-2",
         "native": "Автор публикации обращает внимание общественности на экологический кризис региона.",
-        "phonetic": "",
+        "phonetic": "Avtor publikatsii obrashchayet vnimaniye obshchestvennosti na ekologicheskiy krizis regiona.",
         "translationId": "Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut."
       },
       {
         "id": "ru-gram-39-ex-3",
         "native": "Результаты международного саммита получили широкий общественный резонанс.",
-        "phonetic": "",
+        "phonetic": "Rezultaty mezhdunarodnogo sammita poluchili shirokiy obshchestvennyy rezonans.",
         "translationId": "Hasil KTT internasional tersebut mendapat gaung tanggapan luas di masyarakat."
       }
     ],
@@ -18076,7 +18163,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)\" (Gaya Retorika Publik & Opini Berbobot) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-39-pg-1",
@@ -18092,7 +18179,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Data statistik baru diperoleh melalui survei sosiologis."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"В аналитической статье затрагиваются актуальные проблемы глобализации образования.\" berarti \"Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan.\"."
+        "explanation": "Kalimat \"В аналитической статье затрагиваются актуальные проблемы глобализации образования.\" (dibaca: V analiticheskoy statye zatragivayutsya aktualnyye problemy globalizatsii obrazovaniya.) berarti \"Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan.\". Kalimat ini menggunakan pola \"Gaya Retorika Publik & Opini Berbobot\" (Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)) yang berfungsi untuk menganalisis wacana media massa, opini editorial, dan isu-isu strategis global berbahasa Rusia."
       },
       {
         "id": "q-ru-gram-39-pg-2",
@@ -18108,7 +18195,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Автор публикации обращает внимание общественности на экологический кризис региона.\" berarti \"Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut.\"."
+        "explanation": "Kalimat \"Автор публикации обращает внимание общественности на экологический кризис региона.\" (dibaca: Avtor publikatsii obrashchayet vnimaniye obshchestvennosti na ekologicheskiy krizis regiona.) berarti \"Penulis publikasi mengarahkan perhatian publik pada krisis ekologi di kawasan tersebut.\". Kalimat ini menggunakan pola \"Gaya Retorika Publik & Opini Berbobot\" (Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)) yang berfungsi untuk menganalisis wacana media massa, opini editorial, dan isu-isu strategis global berbahasa Rusia."
       },
       {
         "id": "q-ru-gram-39-pg-3",
@@ -18124,7 +18211,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan hasil yang diperoleh, komisi mengesahkan standar baru."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Результаты международного саммита получили широкий общественный резонанс.\" berarti \"Hasil KTT internasional tersebut mendapat gaung tanggapan luas di masyarakat.\"."
+        "explanation": "Kalimat \"Результаты международного саммита получили широкий общественный резонанс.\" (dibaca: Rezultaty mezhdunarodnogo sammita poluchili shirokiy obshchestvennyy rezonans.) berarti \"Hasil KTT internasional tersebut mendapat gaung tanggapan luas di masyarakat.\". Kalimat ini menggunakan pola \"Gaya Retorika Publik & Opini Berbobot\" (Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)) yang berfungsi untuk menganalisis wacana media massa, opini editorial, dan isu-isu strategis global berbahasa Rusia."
       },
       {
         "id": "q-ru-gram-39-pg-4",
@@ -18144,7 +18231,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-39-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)\"?",
         "options": [
           "Новые статистические данные были получены в ходе социологического опроса. — Data statistik baru diperoleh melalui survei sosiologis.",
           "В связи с проведением международной конференции утренние занятия переносятся. — Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang.",
@@ -18158,7 +18245,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-39-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)\"?",
         "options": [
           "Эксперимент проводится ведущими специалистами научно-исследовательского института. — Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset.",
           "Теоретический вопрос подробно рассматривается во второй главе диссертации. — Persoalan teoretis tersebut dibahas secara terperinci pada bab kedua disertasi.",
@@ -18421,7 +18508,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Eksperimen tersebut dilaksanakan oleh para spesialis terkemuka dari institut riset."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"В аналитической статье затрагиваются актуальные проблемы глобализации образования.\" berarti \"Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan.\"."
+        "explanation": "Kalimat \"В аналитической статье затрагиваются актуальные проблемы глобализации образования.\" (dibaca: V analiticheskoy statye zatragivayutsya aktualnyye problemy globalizatsii obrazovaniya.) berarti \"Dalam artikel analitis tersebut disinggung persoalan aktual globalisasi pendidikan.\". Kalimat ini menggunakan pola \"Gaya Retorika Publik & Opini Berbobot\" (Gaya Bahasa Jurnalistik & Wacana Publik (Публицистический стиль)) yang berfungsi untuk menganalisis wacana media massa, opini editorial, dan isu-isu strategis global berbahasa Rusia."
       },
       {
         "id": "q-ru-gram-39-bb-2",
@@ -18496,24 +18583,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menulis surat bisnis, korespondensi kerja sama antarlembaga, dan proposal kemitraan resmi.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Etika Komunikasi Bisnis & Korespondensi Resmi memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Etika Komunikasi Bisnis & Korespondensi Resmi\" (Деловая переписка и официальный этикет в России) berfungsi untuk: menulis surat bisnis, korespondensi kerja sama antarlembaga, dan proposal kemitraan resmi. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество. (Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif.)"
+          "Rumus utama: Уважаемый Господин / С уважением / Доводим до Вашего сведения",
+          "Contoh 1: Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество. (Uvazhayemyy gospodin rektor, vyrazhayem Vam iskrennyuyu blagodarnost za plodotvornoye sotrudnichestvo.) — Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Уважаемый Господин / С уважением / Доводим до Вашего сведения diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Уважаемый Господин / С уважением / Доводим до Вашего сведения\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Surat resmi selalu dibuka dengan penghormatan Уважаемый.",
         "ruleList": [
-          "Мы искренне надеемся на дальнейшее развитие академического партнёрства между вузами. (Kami sangat berharap pada pengembangan lebih lanjut kemitraan akademik antar-perguruan tinggi.)"
+          "Polanya: Уважаемый Господин / С уважением / Доводим до Вашего сведения",
+          "Contoh 2: Мы искренне надеемся на дальнейшее развитие академического партнёрства между вузами. (My iskrenne nadeyemsya na dalneysheye razvitiye akademicheskogo partnyorstva mezhdu vuzami.) — Kami sangat berharap pada pengembangan lebih lanjut kemitraan akademik antar-perguruan tinggi."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Etika Komunikasi Bisnis & Korespondensi Resmi\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Доводим до Вашего сведения, что приём заявок на стипендию продлён до пятницы. (Kami sampaikan untuk menjadi maklum bahwa penerimaan pendaftaran beasiswa diperpanjang hingga Jumat.)"
+          "Contoh 3: Доводим до Вашего сведения, что приём заявок на стипендию продлён до пятницы. (Dovodim do Vashego svedeniya, chto priyom zayavok na stipendiyu prodlyon do pyatnitsy.) — Kami sampaikan untuk menjadi maklum bahwa penerimaan pendaftaran beasiswa diperpanjang hingga Jumat.",
+          "Hindari kesalahan: \"привет профессор (di surat dinas)\" → gunakan bentuk yang benar: \"уважаемый профессор\"."
         ]
       }
     ],
@@ -18521,19 +18611,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-40-ex-1",
         "native": "Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество.",
-        "phonetic": "",
+        "phonetic": "Uvazhayemyy gospodin rektor, vyrazhayem Vam iskrennyuyu blagodarnost za plodotvornoye sotrudnichestvo.",
         "translationId": "Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif."
       },
       {
         "id": "ru-gram-40-ex-2",
         "native": "Мы искренне надеемся на дальнейшее развитие академического партнёрства между вузами.",
-        "phonetic": "",
+        "phonetic": "My iskrenne nadeyemsya na dalneysheye razvitiye akademicheskogo partnyorstva mezhdu vuzami.",
         "translationId": "Kami sangat berharap pada pengembangan lebih lanjut kemitraan akademik antar-perguruan tinggi."
       },
       {
         "id": "ru-gram-40-ex-3",
         "native": "Доводим до Вашего сведения, что приём заявок на стипендию продлён до пятницы.",
-        "phonetic": "",
+        "phonetic": "Dovodim do Vashego svedeniya, chto priyom zayavok na stipendiyu prodlyon do pyatnitsy.",
         "translationId": "Kami sampaikan untuk menjadi maklum bahwa penerimaan pendaftaran beasiswa diperpanjang hingga Jumat."
       }
     ],
@@ -18549,7 +18639,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Etika Komunikasi Bisnis & Korespondensi Resmi sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Etika Komunikasi Bisnis & Korespondensi Resmi\" (Уважаемый Господин / С уважением / Доводим до Вашего сведения) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-40-pg-1",
@@ -18565,7 +18655,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество.\" berarti \"Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif.\"."
+        "explanation": "Kalimat \"Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество.\" (dibaca: Uvazhayemyy gospodin rektor, vyrazhayem Vam iskrennyuyu blagodarnost za plodotvornoye sotrudnichestvo.) berarti \"Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif.\". Kalimat ini menggunakan pola \"Уважаемый Господин / С уважением / Доводим до Вашего сведения\" (Etika Komunikasi Bisnis & Korespondensi Resmi) yang berfungsi untuk menulis surat bisnis, korespondensi kerja sama antarlembaga, dan proposal kemitraan resmi."
       },
       {
         "id": "q-ru-gram-40-pg-2",
@@ -18581,7 +18671,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Мы искренне надеемся на дальнейшее развитие академического партнёрства между вузами.\" berarti \"Kami sangat berharap pada pengembangan lebih lanjut kemitraan akademik antar-perguruan tinggi.\"."
+        "explanation": "Kalimat \"Мы искренне надеемся на дальнейшее развитие академического партнёрства между вузами.\" (dibaca: My iskrenne nadeyemsya na dalneysheye razvitiye akademicheskogo partnyorstva mezhdu vuzami.) berarti \"Kami sangat berharap pada pengembangan lebih lanjut kemitraan akademik antar-perguruan tinggi.\". Kalimat ini menggunakan pola \"Уважаемый Господин / С уважением / Доводим до Вашего сведения\" (Etika Komunikasi Bisnis & Korespondensi Resmi) yang berfungsi untuk menulis surat bisnis, korespondensi kerja sama antarlembaga, dan proposal kemitraan resmi."
       },
       {
         "id": "q-ru-gram-40-pg-3",
@@ -18597,7 +18687,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para penulis monograf sampai pada kesimpulan metodologis yang penting."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Доводим до Вашего сведения, что приём заявок на стипендию продлён до пятницы.\" berarti \"Kami sampaikan untuk menjadi maklum bahwa penerimaan pendaftaran beasiswa diperpanjang hingga Jumat.\"."
+        "explanation": "Kalimat \"Доводим до Вашего сведения, что приём заявок на стипендию продлён до пятницы.\" (dibaca: Dovodim do Vashego svedeniya, chto priyom zayavok na stipendiyu prodlyon do pyatnitsy.) berarti \"Kami sampaikan untuk menjadi maklum bahwa penerimaan pendaftaran beasiswa diperpanjang hingga Jumat.\". Kalimat ini menggunakan pola \"Уважаемый Господин / С уважением / Доводим до Вашего сведения\" (Etika Komunikasi Bisnis & Korespondensi Resmi) yang berfungsi untuk menulis surat bisnis, korespondensi kerja sama antarlembaga, dan proposal kemitraan resmi."
       },
       {
         "id": "q-ru-gram-40-pg-4",
@@ -18617,7 +18707,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-40-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Etika Komunikasi Bisnis & Korespondensi Resmi\"?",
         "options": [
           "Программа разработана в целях повышения качества высшего образования. — Program ini dirancang dalam rangka meningkatkan mutu pendidikan tinggi.",
           "Как справедливо отмечает академик Иванов, данный метод имеет ряд ограничений. — Sebagaimana dicatat secara tepat oleh Akademisi Ivanov, metode ini memiliki sejumlah keterbatasan.",
@@ -18631,7 +18721,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-40-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Etika Komunikasi Bisnis & Korespondensi Resmi\"?",
         "options": [
           "Доводим до Вашего сведения, что приём заявок на стипендию продлён до пятницы. — Kami sampaikan untuk menjadi maklum bahwa penerimaan pendaftaran beasiswa diperpanjang hingga Jumat.",
           "В связи с проведением международной конференции утренние занятия переносятся. — Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang.",
@@ -18894,7 +18984,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sehubungan dengan penyelenggaraan konferensi internasional, kuliah pagi dijadwalkan ulang."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество.\" berarti \"Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif.\"."
+        "explanation": "Kalimat \"Уважаемый господин ректор, выражаем Вам искреннюю благодарность за плодотворное сотрудничество.\" (dibaca: Uvazhayemyy gospodin rektor, vyrazhayem Vam iskrennyuyu blagodarnost za plodotvornoye sotrudnichestvo.) berarti \"Bapak Rektor yang terhormat, kami menyampaikan terima kasih yang tulus atas kerja sama yang produktif.\". Kalimat ini menggunakan pola \"Уважаемый Господин / С уважением / Доводим до Вашего сведения\" (Etika Komunikasi Bisnis & Korespondensi Resmi) yang berfungsi untuk menulis surat bisnis, korespondensi kerja sama antarlembaga, dan proposal kemitraan resmi."
       },
       {
         "id": "q-ru-gram-40-bb-2",
@@ -18969,24 +19059,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Struktur komprehensif penulisan abstrak disertasi dan artikel jurnal bereputasi tinggi Rusia.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)\" (Композиция и языковые средства научной статьи и автореферата) berfungsi untuk: struktur komprehensif penulisan abstrak disertasi dan artikel jurnal bereputasi tinggi Rusia. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Научная новизна исследования заключается в разработке инновационной математической модели. (Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif.)"
+          "Rumus utama: Актуальность / Цель / Методология / Научная новизна",
+          "Contoh 1: Научная новизна исследования заключается в разработке инновационной математической модели. (Nauchnaya novizna issledovaniya zaklyuchayetsya v razrabotke innovatsionnoy matematicheskoy modeli.) — Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Актуальность / Цель / Методология / Научная новизна diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Актуальность / Цель / Методология / Научная новизна\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan formula substantif цель является + kata benda verbal.",
         "ruleList": [
-          "Целью настоящей статьи является всесторонний анализ динамики экономических процессов. (Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi.)"
+          "Polanya: Актуальность / Цель / Методология / Научная новизна",
+          "Contoh 2: Целью настоящей статьи является всесторонний анализ динамики экономических процессов. (Tselyu nastoyashchey stati yavlyayetsya vsestoronniy analiz dinamiki ekonomicheskikh protsessov.) — Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Практическая значимость работы определяется возможностью применения выводов в промышленности. (Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri.)"
+          "Contoh 3: Практическая значимость работы определяется возможностью применения выводов в промышленности. (Prakticheskaya znachimost raboty opredelyayetsya vozmozhnostyu primeneniya vyvodov v promyshlennosti.) — Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri.",
+          "Hindari kesalahan: \"цель статьи чтобы узнать\" → gunakan bentuk yang benar: \"целью статьи является анализ\"."
         ]
       }
     ],
@@ -18994,19 +19087,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-41-ex-1",
         "native": "Научная новизна исследования заключается в разработке инновационной математической модели.",
-        "phonetic": "",
+        "phonetic": "Nauchnaya novizna issledovaniya zaklyuchayetsya v razrabotke innovatsionnoy matematicheskoy modeli.",
         "translationId": "Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif."
       },
       {
         "id": "ru-gram-41-ex-2",
         "native": "Целью настоящей статьи является всесторонний анализ динамики экономических процессов.",
-        "phonetic": "",
+        "phonetic": "Tselyu nastoyashchey stati yavlyayetsya vsestoronniy analiz dinamiki ekonomicheskikh protsessov.",
         "translationId": "Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi."
       },
       {
         "id": "ru-gram-41-ex-3",
         "native": "Практическая значимость работы определяется возможностью применения выводов в промышленности.",
-        "phonetic": "",
+        "phonetic": "Prakticheskaya znachimost raboty opredelyayetsya vozmozhnostyu primeneniya vyvodov v promyshlennosti.",
         "translationId": "Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri."
       }
     ],
@@ -19022,7 +19115,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)\" (Актуальность / Цель / Методология / Научная новизна) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-41-pg-1",
@@ -19038,7 +19131,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Научная новизна исследования заключается в разработке инновационной математической модели.\" berarti \"Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif.\"."
+        "explanation": "Kalimat \"Научная новизна исследования заключается в разработке инновационной математической модели.\" (dibaca: Nauchnaya novizna issledovaniya zaklyuchayetsya v razrabotke innovatsionnoy matematicheskoy modeli.) berarti \"Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif.\". Kalimat ini menggunakan pola \"Актуальность / Цель / Методология / Научная новизна\" (Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)) yang berfungsi untuk struktur komprehensif penulisan abstrak disertasi dan artikel jurnal bereputasi tinggi Rusia."
       },
       {
         "id": "q-ru-gram-41-pg-2",
@@ -19054,7 +19147,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Целью настоящей статьи является всесторонний анализ динамики экономических процессов.\" berarti \"Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi.\"."
+        "explanation": "Kalimat \"Целью настоящей статьи является всесторонний анализ динамики экономических процессов.\" (dibaca: Tselyu nastoyashchey stati yavlyayetsya vsestoronniy analiz dinamiki ekonomicheskikh protsessov.) berarti \"Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi.\". Kalimat ini menggunakan pola \"Актуальность / Цель / Методология / Научная новизна\" (Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)) yang berfungsi untuk struktur komprehensif penulisan abstrak disertasi dan artikel jurnal bereputasi tinggi Rusia."
       },
       {
         "id": "q-ru-gram-41-pg-3",
@@ -19070,7 +19163,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Segala persoalan sengketa wajib diselesaikan secara damai melalui konsultasi bilateral."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Практическая значимость работы определяется возможностью применения выводов в промышленности.\" berarti \"Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri.\"."
+        "explanation": "Kalimat \"Практическая значимость работы определяется возможностью применения выводов в промышленности.\" (dibaca: Prakticheskaya znachimost raboty opredelyayetsya vozmozhnostyu primeneniya vyvodov v promyshlennosti.) berarti \"Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri.\". Kalimat ini menggunakan pola \"Актуальность / Цель / Методология / Научная новизна\" (Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)) yang berfungsi untuk struktur komprehensif penulisan abstrak disertasi dan artikel jurnal bereputasi tinggi Rusia."
       },
       {
         "id": "q-ru-gram-41-pg-4",
@@ -19090,7 +19183,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-41-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)\"?",
         "options": [
           "Целью настоящей статьи является всесторонний анализ динамики экономических процессов. — Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi.",
           "Строгая верификация эмпирических данных обеспечила высокую надёжность выводов. — Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian.",
@@ -19104,7 +19197,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-41-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)\"?",
         "options": [
           "В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт. — Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif.",
           "Практическая значимость работы определяется возможностью применения выводов в промышленности. — Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri.",
@@ -19365,7 +19458,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Научная новизна исследования заключается в разработке инновационной математической модели.\" berarti \"Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif.\"."
+        "explanation": "Kalimat \"Научная новизна исследования заключается в разработке инновационной математической модели.\" (dibaca: Nauchnaya novizna issledovaniya zaklyuchayetsya v razrabotke innovatsionnoy matematicheskoy modeli.) berarti \"Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif.\". Kalimat ini menggunakan pola \"Актуальность / Цель / Методология / Научная новизна\" (Penulisan Abstrak & Tinjauan Pustaka Ilmiah (Научный стиль)) yang berfungsi untuk struktur komprehensif penulisan abstrak disertasi dan artikel jurnal bereputasi tinggi Rusia."
       },
       {
         "id": "q-ru-gram-41-bb-2",
@@ -19440,24 +19533,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memperhalus atau mempertegas argumen dialektis dalam diskusi ilmiah tingkat ahli.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)\" (Дискурсивные слова и модальные частицы (Ведь, Же, -таки, Вряд ли)) berfungsi untuk: memperhalus atau mempertegas argumen dialektis dalam diskusi ilmiah tingkat ahli. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах. (Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini.)"
+          "Rumus utama: Klausa + Partikel Penegas Nuansa Berpikir",
+          "Contoh 1: Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах. (Eto resheniye vryad li mozhno priznat optimalnym v dannykh slozhnykh obstoyatelstvakh.) — Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Klausa + Partikel Penegas Nuansa Berpikir diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Klausa + Partikel Penegas Nuansa Berpikir\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan modalitas akademik halus untuk menyampaikan kritik ilmiah.",
         "ruleList": [
-          "Ведь именно этот методологический фактор определяет достоверность итоговых результатов. (Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir.)"
+          "Polanya: Klausa + Partikel Penegas Nuansa Berpikir",
+          "Contoh 2: Ведь именно этот методологический фактор определяет достоверность итоговых результатов. (Ved imenno etot metodologicheskiy faktor opredelyayet dostovernost itogovykh rezultatov.) — Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "После долгих экспериментов молодой учёный всё-таки сумел доказать сложную теорему. (Setelah eksperimen panjang, ilmuwan muda itu akhirnya berhasil membuktikan teorema yang rumit tersebut.)"
+          "Contoh 3: После долгих экспериментов молодой учёный всё-таки сумел доказать сложную теорему. (Posle dolgikh eksperimentov molodoy uchyonyy vsyo-taki sumel dokazat slozhnuyu teoremu.) — Setelah eksperimen panjang, ilmuwan muda itu akhirnya berhasil membuktikan teorema yang rumit tersebut.",
+          "Hindari kesalahan: \"это не оптимально совсем\" → gunakan bentuk yang benar: \"вряд ли можно признать оптимальным\"."
         ]
       }
     ],
@@ -19465,19 +19561,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-42-ex-1",
         "native": "Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах.",
-        "phonetic": "",
+        "phonetic": "Eto resheniye vryad li mozhno priznat optimalnym v dannykh slozhnykh obstoyatelstvakh.",
         "translationId": "Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini."
       },
       {
         "id": "ru-gram-42-ex-2",
         "native": "Ведь именно этот методологический фактор определяет достоверность итоговых результатов.",
-        "phonetic": "",
+        "phonetic": "Ved imenno etot metodologicheskiy faktor opredelyayet dostovernost itogovykh rezultatov.",
         "translationId": "Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir."
       },
       {
         "id": "ru-gram-42-ex-3",
         "native": "После долгих экспериментов молодой учёный всё-таки сумел доказать сложную теорему.",
-        "phonetic": "",
+        "phonetic": "Posle dolgikh eksperimentov molodoy uchyonyy vsyo-taki sumel dokazat slozhnuyu teoremu.",
         "translationId": "Setelah eksperimen panjang, ilmuwan muda itu akhirnya berhasil membuktikan teorema yang rumit tersebut."
       }
     ],
@@ -19493,7 +19589,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)\" (Klausa + Partikel Penegas Nuansa Berpikir) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-42-pg-1",
@@ -19509,7 +19605,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах.\" berarti \"Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini.\"."
+        "explanation": "Kalimat \"Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах.\" (dibaca: Eto resheniye vryad li mozhno priznat optimalnym v dannykh slozhnykh obstoyatelstvakh.) berarti \"Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini.\". Kalimat ini menggunakan pola \"Klausa + Partikel Penegas Nuansa Berpikir\" (Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)) yang berfungsi untuk memperhalus atau mempertegas argumen dialektis dalam diskusi ilmiah tingkat ahli."
       },
       {
         "id": "q-ru-gram-42-pg-2",
@@ -19525,7 +19621,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Ведь именно этот методологический фактор определяет достоверность итоговых результатов.\" berarti \"Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir.\"."
+        "explanation": "Kalimat \"Ведь именно этот методологический фактор определяет достоверность итоговых результатов.\" (dibaca: Ved imenno etot metodologicheskiy faktor opredelyayet dostovernost itogovykh rezultatov.) berarti \"Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir.\". Kalimat ini menggunakan pola \"Klausa + Partikel Penegas Nuansa Berpikir\" (Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)) yang berfungsi untuk memperhalus atau mempertegas argumen dialektis dalam diskusi ilmiah tingkat ahli."
       },
       {
         "id": "q-ru-gram-42-pg-3",
@@ -19541,7 +19637,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Setelah eksperimen panjang, ilmuwan muda itu akhirnya berhasil membuktikan teorema yang rumit tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"После долгих экспериментов молодой учёный всё-таки сумел доказать сложную теорему.\" berarti \"Setelah eksperimen panjang, ilmuwan muda itu akhirnya berhasil membuktikan teorema yang rumit tersebut.\"."
+        "explanation": "Kalimat \"После долгих экспериментов молодой учёный всё-таки сумел доказать сложную теорему.\" (dibaca: Posle dolgikh eksperimentov molodoy uchyonyy vsyo-taki sumel dokazat slozhnuyu teoremu.) berarti \"Setelah eksperimen panjang, ilmuwan muda itu akhirnya berhasil membuktikan teorema yang rumit tersebut.\". Kalimat ini menggunakan pola \"Klausa + Partikel Penegas Nuansa Berpikir\" (Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)) yang berfungsi untuk memperhalus atau mempertegas argumen dialektis dalam diskusi ilmiah tingkat ahli."
       },
       {
         "id": "q-ru-gram-42-pg-4",
@@ -19561,7 +19657,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-42-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)\"?",
         "options": [
           "Настоящий меморандум о взаимопонимании вступает в силу с момента его официального подписания. — Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya.",
           "Ведь именно этот методологический фактор определяет достоверность итоговых результатов. — Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir.",
@@ -19575,7 +19671,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-42-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)\"?",
         "options": [
           "Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения. — Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik.",
           "Любые спорные вопросы подлежат мирному разрешению путём двусторонних консультаций. — Segala persoalan sengketa wajib diselesaikan secara damai melalui konsultasi bilateral.",
@@ -19838,7 +19934,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах.\" berarti \"Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini.\"."
+        "explanation": "Kalimat \"Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах.\" (dibaca: Eto resheniye vryad li mozhno priznat optimalnym v dannykh slozhnykh obstoyatelstvakh.) berarti \"Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini.\". Kalimat ini menggunakan pola \"Klausa + Partikel Penegas Nuansa Berpikir\" (Partikel Penegas & Nuansa Disparitas Wacana (Ведь, Же, То, -таки)) yang berfungsi untuk memperhalus atau mempertegas argumen dialektis dalam diskusi ilmiah tingkat ahli."
       },
       {
         "id": "q-ru-gram-42-bb-2",
@@ -19913,24 +20009,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Etika mempertahankan argumen dan menanggapi catatan kritis dewan penguji tesis.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Retorika Debat & Sanggahan Akademik Berbobot memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Retorika Debat & Sanggahan Akademik Berbobot\" (Научная дискуссия и правила академического оппонирования) berfungsi untuk: etika mempertahankan argumen dan menanggapi catatan kritis dewan penguji tesis. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом. (Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini.)"
+          "Rumus utama: При всём уважении / Нельзя не согласиться / Позвольте возразить",
+          "Contoh 1: При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом. (Pri vsyom uvazhenii k pozitsii uvazhayemogo opponenta, pozvolte ne soglasitsya s etim vyvodom.) — Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur При всём уважении / Нельзя не согласиться / Позвольте возразить diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"При всём уважении / Нельзя не согласиться / Позвольте возразить\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Debat akademik Rusia menuntut kesantunan retorika tingkat tinggi.",
         "ruleList": [
-          "Нельзя не признать весомость приведённых в первой главе статистических аргументов. (Tidak dapat tidak kita harus mengakui bobot argumen statistik yang disajikan pada bab pertama.)"
+          "Polanya: При всём уважении / Нельзя не согласиться / Позвольте возразить",
+          "Contoh 2: Нельзя не признать весомость приведённых в первой главе статистических аргументов. (Nelzya ne priznat vesomost privedyonnykh v pervoy glave statisticheskikh argumentov.) — Tidak dapat tidak kita harus mengakui bobot argumen statistik yang disajikan pada bab pertama."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Retorika Debat & Sanggahan Akademik Berbobot\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Хотелось бы уточнить позицию автора относительно критериев отбора источников. (Kami ingin memperjelas posisi penulis terkait kriteria pemilihan sumber rujukan.)"
+          "Contoh 3: Хотелось бы уточнить позицию автора относительно критериев отбора источников. (Khotelos by utochnit pozitsiyu avtora otnositelno kriteriyev otbora istochnikov.) — Kami ingin memperjelas posisi penulis terkait kriteria pemilihan sumber rujukan.",
+          "Hindari kesalahan: \"вы неправы совсем\" → gunakan bentuk yang benar: \"позвольте выразить несогласие\"."
         ]
       }
     ],
@@ -19938,19 +20037,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-43-ex-1",
         "native": "При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом.",
-        "phonetic": "",
+        "phonetic": "Pri vsyom uvazhenii k pozitsii uvazhayemogo opponenta, pozvolte ne soglasitsya s etim vyvodom.",
         "translationId": "Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini."
       },
       {
         "id": "ru-gram-43-ex-2",
         "native": "Нельзя не признать весомость приведённых в первой главе статистических аргументов.",
-        "phonetic": "",
+        "phonetic": "Nelzya ne priznat vesomost privedyonnykh v pervoy glave statisticheskikh argumentov.",
         "translationId": "Tidak dapat tidak kita harus mengakui bobot argumen statistik yang disajikan pada bab pertama."
       },
       {
         "id": "ru-gram-43-ex-3",
         "native": "Хотелось бы уточнить позицию автора относительно критериев отбора источников.",
-        "phonetic": "",
+        "phonetic": "Khotelos by utochnit pozitsiyu avtora otnositelno kriteriyev otbora istochnikov.",
         "translationId": "Kami ingin memperjelas posisi penulis terkait kriteria pemilihan sumber rujukan."
       }
     ],
@@ -19966,7 +20065,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Retorika Debat & Sanggahan Akademik Berbobot sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Retorika Debat & Sanggahan Akademik Berbobot\" (При всём уважении / Нельзя не согласиться / Позвольте возразить) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-43-pg-1",
@@ -19982,7 +20081,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis secara piawai menggunakan jalinan intertekstual dan alusi klasik yang tersirat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом.\" berarti \"Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini.\"."
+        "explanation": "Kalimat \"При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом.\" (dibaca: Pri vsyom uvazhenii k pozitsii uvazhayemogo opponenta, pozvolte ne soglasitsya s etim vyvodom.) berarti \"Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini.\". Kalimat ini menggunakan pola \"При всём уважении / Нельзя не согласиться / Позвольте возразить\" (Retorika Debat & Sanggahan Akademik Berbobot) yang berfungsi untuk etika mempertahankan argumen dan menanggapi catatan kritis dewan penguji tesis."
       },
       {
         "id": "q-ru-gram-43-pg-2",
@@ -19998,7 +20097,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Tidak dapat tidak kita harus mengakui bobot argumen statistik yang disajikan pada bab pertama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Нельзя не признать весомость приведённых в первой главе статистических аргументов.\" berarti \"Tidak dapat tidak kita harus mengakui bobot argumen statistik yang disajikan pada bab pertama.\"."
+        "explanation": "Kalimat \"Нельзя не признать весомость приведённых в первой главе статистических аргументов.\" (dibaca: Nelzya ne priznat vesomost privedyonnykh v pervoy glave statisticheskikh argumentov.) berarti \"Tidak dapat tidak kita harus mengakui bobot argumen statistik yang disajikan pada bab pertama.\". Kalimat ini menggunakan pola \"При всём уважении / Нельзя не согласиться / Позвольте возразить\" (Retorika Debat & Sanggahan Akademik Berbobot) yang berfungsi untuk etika mempertahankan argumen dan menanggapi catatan kritis dewan penguji tesis."
       },
       {
         "id": "q-ru-gram-43-pg-3",
@@ -20014,7 +20113,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Tinjauan historiografi kritis mengungkap celah penelitian yang signifikan dalam kajian topik ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Хотелось бы уточнить позицию автора относительно критериев отбора источников.\" berarti \"Kami ingin memperjelas posisi penulis terkait kriteria pemilihan sumber rujukan.\"."
+        "explanation": "Kalimat \"Хотелось бы уточнить позицию автора относительно критериев отбора источников.\" (dibaca: Khotelos by utochnit pozitsiyu avtora otnositelno kriteriyev otbora istochnikov.) berarti \"Kami ingin memperjelas posisi penulis terkait kriteria pemilihan sumber rujukan.\". Kalimat ini menggunakan pola \"При всём уважении / Нельзя не согласиться / Позвольте возразить\" (Retorika Debat & Sanggahan Akademik Berbobot) yang berfungsi untuk etika mempertahankan argumen dan menanggapi catatan kritis dewan penguji tesis."
       },
       {
         "id": "q-ru-gram-43-pg-4",
@@ -20034,7 +20133,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-43-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Retorika Debat & Sanggahan Akademik Berbobot\"?",
         "options": [
           "Автор мастерски использует интертекстуальные связи и скрытые библейские аллюзии. — Penulis secara piawai menggunakan jalinan intertekstual dan alusi klasik yang tersirat.",
           "Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи. — Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya.",
@@ -20048,7 +20147,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-43-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Retorika Debat & Sanggahan Akademik Berbobot\"?",
         "options": [
           "В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества. — Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat.",
           "Художественное пространство и время произведения образуют единый символический хронотоп. — Ruang dan waktu artistik dalam karya sastra tersebut membentuk kesatuan kronotop simbolis.",
@@ -20311,7 +20410,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом.\" berarti \"Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini.\"."
+        "explanation": "Kalimat \"При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом.\" (dibaca: Pri vsyom uvazhenii k pozitsii uvazhayemogo opponenta, pozvolte ne soglasitsya s etim vyvodom.) berarti \"Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini.\". Kalimat ini menggunakan pola \"При всём уважении / Нельзя не согласиться / Позвольте возразить\" (Retorika Debat & Sanggahan Akademik Berbobot) yang berfungsi untuk etika mempertahankan argumen dan menanggapi catatan kritis dewan penguji tesis."
       },
       {
         "id": "q-ru-gram-43-bb-2",
@@ -20386,24 +20485,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Memilih variasi leksikal yang presisi untuk menghindari pengulangan kata dalam naskah monograf.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Analisis Semantik & Stilistika Leksikal Lanjutan memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Analisis Semantik & Stilistika Leksikal Lanjutan\" (Лексическая сочетаемость и стилистическая дифференциация слов) berfungsi untuk: memilih variasi leksikal yang presisi untuk menghindari pengulangan kata dalam naskah monograf. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Автор детально анализирует и всесторонне освещает изучаемое социальное явление. (Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji.)"
+          "Rumus utama: Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah",
+          "Contoh 1: Автор детально анализирует и всесторонне освещает изучаемое социальное явление. (Avtor detalno analiziruyet i vsestoronne osveshchayet izuchayemoye sotsialnoye yavleniye.) — Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan kekayaan sinonim akademik untuk menjaga kedalaman gaya bahasa.",
         "ruleList": [
-          "В диссертации проведён глубокий сопоставительный анализ славянских и австронезийских языков. (Dalam disertasi ini dilakukan analisis komparatif mendalam antara bahasa Slavia dan Austronesia.)"
+          "Polanya: Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah",
+          "Contoh 2: В диссертации проведён глубокий сопоставительный анализ славянских и австронезийских языков. (V dissertatsii provedyon glubokiy sopostavitelnyy analiz slavyanskikh i avstroneziyskikh yazykov.) — Dalam disertasi ini dilakukan analisis komparatif mendalam antara bahasa Slavia dan Austronesia."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Analisis Semantik & Stilistika Leksikal Lanjutan\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Данный культурный феномен интерпретируется современными исследователями двояко. (Fenomena budaya ini diinterpretasikan melalui dua sudut pandang oleh para peneliti kontemporer.)"
+          "Contoh 3: Данный культурный феномен интерпретируется современными исследователями двояко. (Dannyy kulturnyy fenomen interpretiruyetsya sovremennymi issledovatelyami dvoyako.) — Fenomena budaya ini diinterpretasikan melalui dua sudut pandang oleh para peneliti kontemporer.",
+          "Hindari kesalahan: \"автор анализирует и анализирует\" → gunakan bentuk yang benar: \"автор анализирует и всесторонне освещает\"."
         ]
       }
     ],
@@ -20411,19 +20513,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-44-ex-1",
         "native": "Автор детально анализирует и всесторонне освещает изучаемое социальное явление.",
-        "phonetic": "",
+        "phonetic": "Avtor detalno analiziruyet i vsestoronne osveshchayet izuchayemoye sotsialnoye yavleniye.",
         "translationId": "Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji."
       },
       {
         "id": "ru-gram-44-ex-2",
         "native": "В диссертации проведён глубокий сопоставительный анализ славянских и австронезийских языков.",
-        "phonetic": "",
+        "phonetic": "V dissertatsii provedyon glubokiy sopostavitelnyy analiz slavyanskikh i avstroneziyskikh yazykov.",
         "translationId": "Dalam disertasi ini dilakukan analisis komparatif mendalam antara bahasa Slavia dan Austronesia."
       },
       {
         "id": "ru-gram-44-ex-3",
         "native": "Данный культурный феномен интерпретируется современными исследователями двояко.",
-        "phonetic": "",
+        "phonetic": "Dannyy kulturnyy fenomen interpretiruyetsya sovremennymi issledovatelyami dvoyako.",
         "translationId": "Fenomena budaya ini diinterpretasikan melalui dua sudut pandang oleh para peneliti kontemporer."
       }
     ],
@@ -20439,7 +20541,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Analisis Semantik & Stilistika Leksikal Lanjutan sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Analisis Semantik & Stilistika Leksikal Lanjutan\" (Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-44-pg-1",
@@ -20455,7 +20557,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Автор детально анализирует и всесторонне освещает изучаемое социальное явление.\" berarti \"Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji.\"."
+        "explanation": "Kalimat \"Автор детально анализирует и всесторонне освещает изучаемое социальное явление.\" (dibaca: Avtor detalno analiziruyet i vsestoronne osveshchayet izuchayemoye sotsialnoye yavleniye.) berarti \"Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji.\". Kalimat ini menggunakan pola \"Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah\" (Analisis Semantik & Stilistika Leksikal Lanjutan) yang berfungsi untuk memilih variasi leksikal yang presisi untuk menghindari pengulangan kata dalam naskah monograf."
       },
       {
         "id": "q-ru-gram-44-pg-2",
@@ -20471,7 +20573,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"В диссертации проведён глубокий сопоставительный анализ славянских и австронезийских языков.\" berarti \"Dalam disertasi ini dilakukan analisis komparatif mendalam antara bahasa Slavia dan Austronesia.\"."
+        "explanation": "Kalimat \"В диссертации проведён глубокий сопоставительный анализ славянских и австронезийских языков.\" (dibaca: V dissertatsii provedyon glubokiy sopostavitelnyy analiz slavyanskikh i avstroneziyskikh yazykov.) berarti \"Dalam disertasi ini dilakukan analisis komparatif mendalam antara bahasa Slavia dan Austronesia.\". Kalimat ini menggunakan pola \"Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah\" (Analisis Semantik & Stilistika Leksikal Lanjutan) yang berfungsi untuk memilih variasi leksikal yang presisi untuk menghindari pengulangan kata dalam naskah monograf."
       },
       {
         "id": "q-ru-gram-44-pg-3",
@@ -20487,7 +20589,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Izinkan saya menjawab secara terperinci catatan metodologis dari institusi penguji utama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Данный культурный феномен интерпретируется современными исследователями двояко.\" berarti \"Fenomena budaya ini diinterpretasikan melalui dua sudut pandang oleh para peneliti kontemporer.\"."
+        "explanation": "Kalimat \"Данный культурный феномен интерпретируется современными исследователями двояко.\" (dibaca: Dannyy kulturnyy fenomen interpretiruyetsya sovremennymi issledovatelyami dvoyako.) berarti \"Fenomena budaya ini diinterpretasikan melalui dua sudut pandang oleh para peneliti kontemporer.\". Kalimat ini menggunakan pola \"Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah\" (Analisis Semantik & Stilistika Leksikal Lanjutan) yang berfungsi untuk memilih variasi leksikal yang presisi untuk menghindari pengulangan kata dalam naskah monograf."
       },
       {
         "id": "q-ru-gram-44-pg-4",
@@ -20507,7 +20609,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-44-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Analisis Semantik & Stilistika Leksikal Lanjutan\"?",
         "options": [
           "Высокая репрезентативность социологической выборки обеспечивает достоверность обобщений. — Representativitas tinggi dari sampel sosiologis menjamin keabsahan generalisasi temuan.",
           "Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация! — Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!",
@@ -20521,7 +20623,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-44-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Analisis Semantik & Stilistika Leksikal Lanjutan\"?",
         "options": [
           "Данный культурный феномен интерпретируется современными исследователями двояко. — Fenomena budaya ini diinterpretasikan melalui dua sudut pandang oleh para peneliti kontemporer.",
           "Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи. — Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya.",
@@ -20782,7 +20884,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Автор детально анализирует и всесторонне освещает изучаемое социальное явление.\" berarti \"Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji.\"."
+        "explanation": "Kalimat \"Автор детально анализирует и всесторонне освещает изучаемое социальное явление.\" (dibaca: Avtor detalno analiziruyet i vsestoronne osveshchayet izuchayemoye sotsialnoye yavleniye.) berarti \"Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji.\". Kalimat ini menggunakan pola \"Diferensiasi Nuansa Kata Abstrak dan Sinonim Ilmiah\" (Analisis Semantik & Stilistika Leksikal Lanjutan) yang berfungsi untuk memilih variasi leksikal yang presisi untuk menghindari pengulangan kata dalam naskah monograf."
       },
       {
         "id": "q-ru-gram-44-bb-2",
@@ -20857,24 +20959,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Membangun kalimat panjang berstruktur rapat tanpa kehilangan kejernihan logika nalar.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды) memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)\" (Синтаксическая компрессия и сложные синтаксические целые) berfungsi untuk: membangun kalimat panjang berstruktur rapat tanpa kehilangan kejernihan logika nalar. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход. (Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner.)"
+          "Rumus utama: Struktur Sintaksis Majemuk Berkelindan",
+          "Contoh 1: Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход. (Prinimaya vo vnimaniye kompleksnyy kharakter problemy, issledovaniye opirayetsya na mezhdistsiplinarnyy podkhod.) — Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Struktur Sintaksis Majemuk Berkelindan diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Struktur Sintaksis Majemuk Berkelindan\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Teks ilmiah akademik Rusia dicirikan oleh struktur kalimat sintaksis yang padat dan terpadu.",
         "ruleList": [
-          "Интеграция теоретических положений и эмпирических данных открывает широкие перспективы для науки. (Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan.)"
+          "Polanya: Struktur Sintaksis Majemuk Berkelindan",
+          "Contoh 2: Интеграция теоретических положений и эмпирических данных открывает широкие перспективы для науки. (Integratsiya teoreticheskikh polozheniy i empiricheskikh dannykh otkryvayet shirokiye perspektivy dlya nauki.) — Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Установленные в ходе анализа корреляции убедительно свидетельствуют о правомерности гипотезы. (Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis.)"
+          "Contoh 3: Установленные в ходе анализа корреляции убедительно свидетельствуют о правомерности гипотезы. (Ustanovlennyye v khode analiza korrelyatsii ubeditelno svidetelstvuyut o pravomernosti gipotezy.) — Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis.",
+          "Hindari kesalahan: \"короткие простые предложения везде\" → gunakan bentuk yang benar: \"развёрнутые сложные синтаксические конструкции\"."
         ]
       }
     ],
@@ -20882,19 +20987,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-45-ex-1",
         "native": "Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход.",
-        "phonetic": "",
+        "phonetic": "Prinimaya vo vnimaniye kompleksnyy kharakter problemy, issledovaniye opirayetsya na mezhdistsiplinarnyy podkhod.",
         "translationId": "Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner."
       },
       {
         "id": "ru-gram-45-ex-2",
         "native": "Интеграция теоретических положений и эмпирических данных открывает широкие перспективы для науки.",
-        "phonetic": "",
+        "phonetic": "Integratsiya teoreticheskikh polozheniy i empiricheskikh dannykh otkryvayet shirokiye perspektivy dlya nauki.",
         "translationId": "Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan."
       },
       {
         "id": "ru-gram-45-ex-3",
         "native": "Установленные в ходе анализа корреляции убедительно свидетельствуют о правомерности гипотезы.",
-        "phonetic": "",
+        "phonetic": "Ustanovlennyye v khode analiza korrelyatsii ubeditelno svidetelstvuyut o pravomernosti gipotezy.",
         "translationId": "Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis."
       }
     ],
@@ -20910,7 +21015,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды) sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)\" (Struktur Sintaksis Majemuk Berkelindan) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-45-pg-1",
@@ -20926,7 +21031,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход.\" berarti \"Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner.\"."
+        "explanation": "Kalimat \"Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход.\" (dibaca: Prinimaya vo vnimaniye kompleksnyy kharakter problemy, issledovaniye opirayetsya na mezhdistsiplinarnyy podkhod.) berarti \"Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner.\". Kalimat ini menggunakan pola \"Struktur Sintaksis Majemuk Berkelindan\" (Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)) yang berfungsi untuk membangun kalimat panjang berstruktur rapat tanpa kehilangan kejernihan logika nalar."
       },
       {
         "id": "q-ru-gram-45-pg-2",
@@ -20942,7 +21047,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Интеграция теоретических положений и эмпирических данных открывает широкие перспективы для науки.\" berarti \"Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan.\"."
+        "explanation": "Kalimat \"Интеграция теоретических положений и эмпирических данных открывает широкие перспективы для науки.\" (dibaca: Integratsiya teoreticheskikh polozheniy i empiricheskikh dannykh otkryvayet shirokiye perspektivy dlya nauki.) berarti \"Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan.\". Kalimat ini menggunakan pola \"Struktur Sintaksis Majemuk Berkelindan\" (Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)) yang berfungsi untuk membangun kalimat panjang berstruktur rapat tanpa kehilangan kejernihan logika nalar."
       },
       {
         "id": "q-ru-gram-45-pg-3",
@@ -20958,7 +21063,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Установленные в ходе анализа корреляции убедительно свидетельствуют о правомерности гипотезы.\" berarti \"Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis.\"."
+        "explanation": "Kalimat \"Установленные в ходе анализа корреляции убедительно свидетельствуют о правомерности гипотезы.\" (dibaca: Ustanovlennyye v khode analiza korrelyatsii ubeditelno svidetelstvuyut o pravomernosti gipotezy.) berarti \"Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis.\". Kalimat ini menggunakan pola \"Struktur Sintaksis Majemuk Berkelindan\" (Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)) yang berfungsi untuk membangun kalimat panjang berstruktur rapat tanpa kehilangan kejernihan logika nalar."
       },
       {
         "id": "q-ru-gram-45-pg-4",
@@ -20978,7 +21083,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-45-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)\"?",
         "options": [
           "Интеграция теоретических положений и эмпирических данных открывает широкие перспективы для науки. — Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan.",
           "Выражаю искреннюю благодарность официальным оппонентам за высокую оценку моей работы. — Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya.",
@@ -20992,7 +21097,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-45-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)\"?",
         "options": [
           "Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация! — Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!",
           "Установленные в ходе анализа корреляции убедительно свидетельствуют о правомерности гипотезы. — Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis.",
@@ -21253,7 +21358,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход.\" berarti \"Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner.\"."
+        "explanation": "Kalimat \"Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход.\" (dibaca: Prinimaya vo vnimaniye kompleksnyy kharakter problemy, issledovaniye opirayetsya na mezhdistsiplinarnyy podkhod.) berarti \"Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner.\". Kalimat ini menggunakan pola \"Struktur Sintaksis Majemuk Berkelindan\" (Kalimat Majemuk Bertingkat Kompleks (Многокомпонентные периоды)) yang berfungsi untuk membangun kalimat panjang berstruktur rapat tanpa kehilangan kejernihan logika nalar."
       },
       {
         "id": "q-ru-gram-45-bb-2",
@@ -21328,24 +21433,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Mengoperasikan perangkat konseptual teoretis kontemporer dalam pembahasan bab kerangka berpikir.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Metafora Konseptual & Terminologi Epistemologis memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Metafora Konseptual & Terminologi Epistemologis\" (Концептуальная метафоризация и терминологический аппарат) berfungsi untuk: mengoperasikan perangkat konseptual teoretis kontemporer dalam pembahasan bab kerangka berpikir. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт. (Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif.)"
+          "Rumus utama: Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация",
+          "Contoh 1: В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт. (V ramkakh sovremennoy issledovatelskoy paradigmy dannyy fenomen rassmatrivayetsya kak kognitivnyy konstrukt.) — Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Disertasi menuntut penguasaan terminologi epistemologis yang presisi.",
         "ruleList": [
-          "Строгая верификация эмпирических данных обеспечила высокую надёжность выводов. (Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian.)"
+          "Polanya: Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация",
+          "Contoh 2: Строгая верификация эмпирических данных обеспечила высокую надёжность выводов. (Strogaya verifikatsiya empiricheskikh dannykh obespechila vysokuyu nadyozhnost vyvodov.) — Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Metafora Konseptual & Terminologi Epistemologis\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Герменевтический анализ исторических источников позволил реконструировать картину мира эпохи. (Analisis hermeneutika terhadap sumber sejarah memungkinkan rekonstruksi pandangan dunia zaman tersebut.)"
+          "Contoh 3: Герменевтический анализ исторических источников позволил реконструировать картину мира эпохи. (Germenevticheskiy analiz istoricheskikh istochnikov pozvolil rekonstruirovat kartinu mira epokhi.) — Analisis hermeneutika terhadap sumber sejarah memungkinkan rekonstruksi pandangan dunia zaman tersebut.",
+          "Hindari kesalahan: \"простой термин в диссертации\" → gunakan bentuk yang benar: \"академический терминологический аппарат\"."
         ]
       }
     ],
@@ -21353,19 +21461,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-46-ex-1",
         "native": "В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт.",
-        "phonetic": "",
+        "phonetic": "V ramkakh sovremennoy issledovatelskoy paradigmy dannyy fenomen rassmatrivayetsya kak kognitivnyy konstrukt.",
         "translationId": "Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif."
       },
       {
         "id": "ru-gram-46-ex-2",
         "native": "Строгая верификация эмпирических данных обеспечила высокую надёжность выводов.",
-        "phonetic": "",
+        "phonetic": "Strogaya verifikatsiya empiricheskikh dannykh obespechila vysokuyu nadyozhnost vyvodov.",
         "translationId": "Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian."
       },
       {
         "id": "ru-gram-46-ex-3",
         "native": "Герменевтический анализ исторических источников позволил реконструировать картину мира эпохи.",
-        "phonetic": "",
+        "phonetic": "Germenevticheskiy analiz istoricheskikh istochnikov pozvolil rekonstruirovat kartinu mira epokhi.",
         "translationId": "Analisis hermeneutika terhadap sumber sejarah memungkinkan rekonstruksi pandangan dunia zaman tersebut."
       }
     ],
@@ -21381,7 +21489,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Metafora Konseptual & Terminologi Epistemologis sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Metafora Konseptual & Terminologi Epistemologis\" (Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-46-pg-1",
@@ -21397,7 +21505,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт.\" berarti \"Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif.\"."
+        "explanation": "Kalimat \"В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт.\" (dibaca: V ramkakh sovremennoy issledovatelskoy paradigmy dannyy fenomen rassmatrivayetsya kak kognitivnyy konstrukt.) berarti \"Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif.\". Kalimat ini menggunakan pola \"Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация\" (Metafora Konseptual & Terminologi Epistemologis) yang berfungsi untuk mengoperasikan perangkat konseptual teoretis kontemporer dalam pembahasan bab kerangka berpikir."
       },
       {
         "id": "q-ru-gram-46-pg-2",
@@ -21413,7 +21521,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Строгая верификация эмпирических данных обеспечила высокую надёжность выводов.\" berarti \"Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian.\"."
+        "explanation": "Kalimat \"Строгая верификация эмпирических данных обеспечила высокую надёжность выводов.\" (dibaca: Strogaya verifikatsiya empiricheskikh dannykh obespechila vysokuyu nadyozhnost vyvodov.) berarti \"Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian.\". Kalimat ini menggunakan pola \"Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация\" (Metafora Konseptual & Terminologi Epistemologis) yang berfungsi untuk mengoperasikan perangkat konseptual teoretis kontemporer dalam pembahasan bab kerangka berpikir."
       },
       {
         "id": "q-ru-gram-46-pg-3",
@@ -21429,7 +21537,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Analisis hermeneutika terhadap sumber sejarah memungkinkan rekonstruksi pandangan dunia zaman tersebut."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Герменевтический анализ исторических источников позволил реконструировать картину мира эпохи.\" berarti \"Analisis hermeneutika terhadap sumber sejarah memungkinkan rekonstruksi pandangan dunia zaman tersebut.\"."
+        "explanation": "Kalimat \"Герменевтический анализ исторических источников позволил реконструировать картину мира эпохи.\" (dibaca: Germenevticheskiy analiz istoricheskikh istochnikov pozvolil rekonstruirovat kartinu mira epokhi.) berarti \"Analisis hermeneutika terhadap sumber sejarah memungkinkan rekonstruksi pandangan dunia zaman tersebut.\". Kalimat ini menggunakan pola \"Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация\" (Metafora Konseptual & Terminologi Epistemologis) yang berfungsi untuk mengoperasikan perangkat konseptual teoretis kontemporer dalam pembahasan bab kerangka berpikir."
       },
       {
         "id": "q-ru-gram-46-pg-4",
@@ -21449,7 +21557,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-46-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Metafora Konseptual & Terminologi Epistemologis\"?",
         "options": [
           "Целью настоящей статьи является всесторонний анализ динамики экономических процессов. — Tujuan dari artikel ini adalah analisis komprehensif terhadap dinamika proses ekonomi.",
           "Строгая верификация эмпирических данных обеспечила высокую надёжность выводов. — Verifikasi ketat atas data empiris menjamin reliabilitas tinggi dari kesimpulan penelitian.",
@@ -21463,7 +21571,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-46-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Metafora Konseptual & Terminologi Epistemologis\"?",
         "options": [
           "Научная новизна исследования заключается в разработке инновационной математической модели. — Kebaruan ilmiah dari riset ini terletak pada pengembangan model matematika yang inovatif.",
           "Практическая значимость работы определяется возможностью применения выводов в промышленности. — Signifikansi praktis karya ini ditentukan oleh peluang penerapan temuannya dalam industri.",
@@ -21724,7 +21832,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт.\" berarti \"Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif.\"."
+        "explanation": "Kalimat \"В рамках современной исследовательской парадигмы данный феномен рассматривается как когнитивный конструкт.\" (dibaca: V ramkakh sovremennoy issledovatelskoy paradigmy dannyy fenomen rassmatrivayetsya kak kognitivnyy konstrukt.) berarti \"Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif.\". Kalimat ini menggunakan pola \"Istilah Metodologis: Парадигма, Дискурс, Эпистемология, Верификация\" (Metafora Konseptual & Terminologi Epistemologis) yang berfungsi untuk mengoperasikan perangkat konseptual teoretis kontemporer dalam pembahasan bab kerangka berpikir."
       },
       {
         "id": "q-ru-gram-46-bb-2",
@@ -21799,24 +21907,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Kaidah bahasa perjanjian bilateral, konvensi hukum, dan naskah diplomatik resmi Rusia.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia\" (Официально-деловой и дипломатический подстиль) berfungsi untuk: kaidah bahasa perjanjian bilateral, konvensi hukum, dan naskah diplomatik resmi Rusia. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения. (Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik.)"
+          "Rumus utama: Формулы международных договоров и правовых актов",
+          "Contoh 1: Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения. (Vysokiye Dogovarivayushchiyesya Storony obyazuyutsya dobrosovestno vypolnyat polozheniya nastoyashchego soglasheniya.) — Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Формулы международных договоров и правовых актов diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Формулы международных договоров и правовых актов\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan formula preskriptif hukum baku: обязуются выполнять.",
         "ruleList": [
-          "Настоящий меморандум о взаимопонимании вступает в силу с момента его официального подписания. (Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya.)"
+          "Polanya: Формулы международных договоров и правовых актов",
+          "Contoh 2: Настоящий меморандум о взаимопонимании вступает в силу с момента его официального подписания. (Nastoyashchiy memorandum o vzaimoponimanii vstupayet v silu s momenta yego ofitsialnogo podpisaniya.) — Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Любые спорные вопросы подлежат мирному разрешению путём двусторонних консультаций. (Segala persoalan sengketa wajib diselesaikan secara damai melalui konsultasi bilateral.)"
+          "Contoh 3: Любые спорные вопросы подлежат мирному разрешению путём двусторонних консультаций. (Lyubyye spornyye voprosy podlezhat mirnomu razresheniyu putyom dvustoronnikh konsultatsiy.) — Segala persoalan sengketa wajib diselesaikan secara damai melalui konsultasi bilateral.",
+          "Hindari kesalahan: \"стороны должны делать\" → gunakan bentuk yang benar: \"стороны обязуются выполнять положения\"."
         ]
       }
     ],
@@ -21824,19 +21935,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-47-ex-1",
         "native": "Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения.",
-        "phonetic": "",
+        "phonetic": "Vysokiye Dogovarivayushchiyesya Storony obyazuyutsya dobrosovestno vypolnyat polozheniya nastoyashchego soglasheniya.",
         "translationId": "Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik."
       },
       {
         "id": "ru-gram-47-ex-2",
         "native": "Настоящий меморандум о взаимопонимании вступает в силу с момента его официального подписания.",
-        "phonetic": "",
+        "phonetic": "Nastoyashchiy memorandum o vzaimoponimanii vstupayet v silu s momenta yego ofitsialnogo podpisaniya.",
         "translationId": "Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya."
       },
       {
         "id": "ru-gram-47-ex-3",
         "native": "Любые спорные вопросы подлежат мирному разрешению путём двусторонних консультаций.",
-        "phonetic": "",
+        "phonetic": "Lyubyye spornyye voprosy podlezhat mirnomu razresheniyu putyom dvustoronnikh konsultatsiy.",
         "translationId": "Segala persoalan sengketa wajib diselesaikan secara damai melalui konsultasi bilateral."
       }
     ],
@@ -21852,7 +21963,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia\" (Формулы международных договоров и правовых актов) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-47-pg-1",
@@ -21868,7 +21979,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения.\" berarti \"Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik.\"."
+        "explanation": "Kalimat \"Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения.\" (dibaca: Vysokiye Dogovarivayushchiyesya Storony obyazuyutsya dobrosovestno vypolnyat polozheniya nastoyashchego soglasheniya.) berarti \"Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik.\". Kalimat ini menggunakan pola \"Формулы международных договоров и правовых актов\" (Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia) yang berfungsi untuk kaidah bahasa perjanjian bilateral, konvensi hukum, dan naskah diplomatik resmi Rusia."
       },
       {
         "id": "q-ru-gram-47-pg-2",
@@ -21884,7 +21995,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Настоящий меморандум о взаимопонимании вступает в силу с момента его официального подписания.\" berarti \"Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya.\"."
+        "explanation": "Kalimat \"Настоящий меморандум о взаимопонимании вступает в силу с момента его официального подписания.\" (dibaca: Nastoyashchiy memorandum o vzaimoponimanii vstupayet v silu s momenta yego ofitsialnogo podpisaniya.) berarti \"Nota kesepahaman ini mulai berlaku sejak saat penandatanganan resminya.\". Kalimat ini menggunakan pola \"Формулы международных договоров и правовых актов\" (Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia) yang berfungsi untuk kaidah bahasa perjanjian bilateral, konvensi hukum, dan naskah diplomatik resmi Rusia."
       },
       {
         "id": "q-ru-gram-47-pg-3",
@@ -21900,7 +22011,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Kami ingin memperjelas posisi penulis terkait kriteria pemilihan sumber rujukan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Любые спорные вопросы подлежат мирному разрешению путём двусторонних консультаций.\" berarti \"Segala persoalan sengketa wajib diselesaikan secara damai melalui konsultasi bilateral.\"."
+        "explanation": "Kalimat \"Любые спорные вопросы подлежат мирному разрешению путём двусторонних консультаций.\" (dibaca: Lyubyye spornyye voprosy podlezhat mirnomu razresheniyu putyom dvustoronnikh konsultatsiy.) berarti \"Segala persoalan sengketa wajib diselesaikan secara damai melalui konsultasi bilateral.\". Kalimat ini menggunakan pola \"Формулы международных договоров и правовых актов\" (Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia) yang berfungsi untuk kaidah bahasa perjanjian bilateral, konvensi hukum, dan naskah diplomatik resmi Rusia."
       },
       {
         "id": "q-ru-gram-47-pg-4",
@@ -21920,7 +22031,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-47-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia\"?",
         "options": [
           "Ведь именно этот методологический фактор определяет достоверность итоговых результатов. — Sebab justru faktor metodologis inilah yang menentukan keabsahan hasil akhir.",
           "При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом. — Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini.",
@@ -21934,7 +22045,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-47-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia\"?",
         "options": [
           "Это решение вряд ли можно признать оптимальным в данных сложных обстоятельствах. — Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini.",
           "После долгих экспериментов молодой учёный всё-таки сумел доказать сложную теорему. — Setelah eksperimen panjang, ilmuwan muda itu akhirnya berhasil membuktikan teorema yang rumit tersebut.",
@@ -22197,7 +22308,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Keputusan ini tampaknya sulit diakui sebagai langkah optimal dalam situasi rumit saat ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения.\" berarti \"Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik.\"."
+        "explanation": "Kalimat \"Высокие Договаривающиеся Стороны обязуются добросовестно выполнять положения настоящего соглашения.\" (dibaca: Vysokiye Dogovarivayushchiyesya Storony obyazuyutsya dobrosovestno vypolnyat polozheniya nastoyashchego soglasheniya.) berarti \"Para Pihak Tinggi yang Berjanji berkewajiban melaksanakan ketentuan perjanjian ini dengan iktikad baik.\". Kalimat ini menggunakan pola \"Формулы международных договоров и правовых актов\" (Bahasa Regulasi, Hukum & Diplomasi Federasi Rusia) yang berfungsi untuk kaidah bahasa perjanjian bilateral, konvensi hukum, dan naskah diplomatik resmi Rusia."
       },
       {
         "id": "q-ru-gram-47-bb-2",
@@ -22272,24 +22383,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menganalisis karya sastra Rusia klasik (Pushkin, Dostoevsky, Tolstoy) dengan pisau bedah hermeneutika.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Analisis Teks Sastra Klasik & Hermeneutika Kritis memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Analisis Teks Sastra Klasik & Hermeneutika Kritis\" (Филологический анализ текста и герменевтический дискурс) berfungsi untuk: menganalisis karya sastra Rusia klasik (Pushkin, Dostoevsky, Tolstoy) dengan pisau bedah hermeneutika. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества. (Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat.)"
+          "Rumus utama: Intertekstualitas, Alusi Sastra & Karakterisasi Puisi",
+          "Contoh 1: В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества. (V romane Dostoyevskogo proslezhivayetsya glubokiy ekzistentsialnyy konflikt lichnosti i obshchestva.) — Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Intertekstualitas, Alusi Sastra & Karakterisasi Puisi diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Intertekstualitas, Alusi Sastra & Karakterisasi Puisi\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Analisis sastra Rusia menuntut pemahaman estetika bahasa yang luhur.",
         "ruleList": [
-          "Автор мастерски использует интертекстуальные связи и скрытые библейские аллюзии. (Penulis secara piawai menggunakan jalinan intertekstual dan alusi klasik yang tersirat.)"
+          "Polanya: Intertekstualitas, Alusi Sastra & Karakterisasi Puisi",
+          "Contoh 2: Автор мастерски использует интертекстуальные связи и скрытые библейские аллюзии. (Avtor masterski ispolzuyet intertekstualnyye svyazi i skrytyye bibleyskiye allyuzii.) — Penulis secara piawai menggunakan jalinan intertekstual dan alusi klasik yang tersirat."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Analisis Teks Sastra Klasik & Hermeneutika Kritis\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Художественное пространство и время произведения образуют единый символический хронотоп. (Ruang dan waktu artistik dalam karya sastra tersebut membentuk kesatuan kronotop simbolis.)"
+          "Contoh 3: Художественное пространство и время произведения образуют единый символический хронотоп. (Khudozhestvennoye prostranstvo i vremya proizvedeniya obrazuyut yedinyy simvolicheskiy khronotop.) — Ruang dan waktu artistik dalam karya sastra tersebut membentuk kesatuan kronotop simbolis.",
+          "Hindari kesalahan: \"книга про хорошего человека\" → gunakan bentuk yang benar: \"произведение исследует экзистенциальный конфликт\"."
         ]
       }
     ],
@@ -22297,19 +22411,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-48-ex-1",
         "native": "В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества.",
-        "phonetic": "",
+        "phonetic": "V romane Dostoyevskogo proslezhivayetsya glubokiy ekzistentsialnyy konflikt lichnosti i obshchestva.",
         "translationId": "Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat."
       },
       {
         "id": "ru-gram-48-ex-2",
         "native": "Автор мастерски использует интертекстуальные связи и скрытые библейские аллюзии.",
-        "phonetic": "",
+        "phonetic": "Avtor masterski ispolzuyet intertekstualnyye svyazi i skrytyye bibleyskiye allyuzii.",
         "translationId": "Penulis secara piawai menggunakan jalinan intertekstual dan alusi klasik yang tersirat."
       },
       {
         "id": "ru-gram-48-ex-3",
         "native": "Художественное пространство и время произведения образуют единый символический хронотоп.",
-        "phonetic": "",
+        "phonetic": "Khudozhestvennoye prostranstvo i vremya proizvedeniya obrazuyut yedinyy simvolicheskiy khronotop.",
         "translationId": "Ruang dan waktu artistik dalam karya sastra tersebut membentuk kesatuan kronotop simbolis."
       }
     ],
@@ -22325,7 +22439,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Analisis Teks Sastra Klasik & Hermeneutika Kritis sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Analisis Teks Sastra Klasik & Hermeneutika Kritis\" (Intertekstualitas, Alusi Sastra & Karakterisasi Puisi) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-48-pg-1",
@@ -22341,7 +22455,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества.\" berarti \"Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat.\"."
+        "explanation": "Kalimat \"В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества.\" (dibaca: V romane Dostoyevskogo proslezhivayetsya glubokiy ekzistentsialnyy konflikt lichnosti i obshchestva.) berarti \"Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat.\". Kalimat ini menggunakan pola \"Intertekstualitas, Alusi Sastra & Karakterisasi Puisi\" (Analisis Teks Sastra Klasik & Hermeneutika Kritis) yang berfungsi untuk menganalisis karya sastra Rusia klasik (Pushkin, Dostoevsky, Tolstoy) dengan pisau bedah hermeneutika."
       },
       {
         "id": "q-ru-gram-48-pg-2",
@@ -22357,7 +22471,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Автор мастерски использует интертекстуальные связи и скрытые библейские аллюзии.\" berarti \"Penulis secara piawai menggunakan jalinan intertekstual dan alusi klasik yang tersirat.\"."
+        "explanation": "Kalimat \"Автор мастерски использует интертекстуальные связи и скрытые библейские аллюзии.\" (dibaca: Avtor masterski ispolzuyet intertekstualnyye svyazi i skrytyye bibleyskiye allyuzii.) berarti \"Penulis secara piawai menggunakan jalinan intertekstual dan alusi klasik yang tersirat.\". Kalimat ini menggunakan pola \"Intertekstualitas, Alusi Sastra & Karakterisasi Puisi\" (Analisis Teks Sastra Klasik & Hermeneutika Kritis) yang berfungsi untuk menganalisis karya sastra Rusia klasik (Pushkin, Dostoevsky, Tolstoy) dengan pisau bedah hermeneutika."
       },
       {
         "id": "q-ru-gram-48-pg-3",
@@ -22373,7 +22487,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Fenomena budaya ini diinterpretasikan melalui dua sudut pandang oleh para peneliti kontemporer."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Художественное пространство и время произведения образуют единый символический хронотоп.\" berarti \"Ruang dan waktu artistik dalam karya sastra tersebut membentuk kesatuan kronotop simbolis.\"."
+        "explanation": "Kalimat \"Художественное пространство и время произведения образуют единый символический хронотоп.\" (dibaca: Khudozhestvennoye prostranstvo i vremya proizvedeniya obrazuyut yedinyy simvolicheskiy khronotop.) berarti \"Ruang dan waktu artistik dalam karya sastra tersebut membentuk kesatuan kronotop simbolis.\". Kalimat ini menggunakan pola \"Intertekstualitas, Alusi Sastra & Karakterisasi Puisi\" (Analisis Teks Sastra Klasik & Hermeneutika Kritis) yang berfungsi untuk menganalisis karya sastra Rusia klasik (Pushkin, Dostoevsky, Tolstoy) dengan pisau bedah hermeneutika."
       },
       {
         "id": "q-ru-gram-48-pg-4",
@@ -22393,7 +22507,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-48-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Analisis Teks Sastra Klasik & Hermeneutika Kritis\"?",
         "options": [
           "Нельзя не признать весомость приведённых в первой главе статистических аргументов. — Tidak dapat tidak kita harus mengakui bobot argumen statistik yang disajikan pada bab pertama.",
           "Автор детально анализирует и всесторонне освещает изучаемое социальное явление. — Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji.",
@@ -22407,7 +22521,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-48-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Analisis Teks Sastra Klasik & Hermeneutika Kritis\"?",
         "options": [
           "Художественное пространство и время произведения образуют единый символический хронотоп. — Ruang dan waktu artistik dalam karya sastra tersebut membentuk kesatuan kronotop simbolis.",
           "При всём уважении к позиции уважаемого оппонента, позвольте не согласиться с этим выводом. — Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini.",
@@ -22670,7 +22784,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dengan segala hormat terhadap posisi penguji yang terhormat, izinkan saya tidak sependapat dengan simpulan ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества.\" berarti \"Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat.\"."
+        "explanation": "Kalimat \"В романе Достоевского прослеживается глубокий экзистенциальный конфликт личности и общества.\" (dibaca: V romane Dostoyevskogo proslezhivayetsya glubokiy ekzistentsialnyy konflikt lichnosti i obshchestva.) berarti \"Dalam novel Dostoevsky terjejak konflik eksistensial yang mendalam antara individu dan masyarakat.\". Kalimat ini menggunakan pola \"Intertekstualitas, Alusi Sastra & Karakterisasi Puisi\" (Analisis Teks Sastra Klasik & Hermeneutika Kritis) yang berfungsi untuk menganalisis karya sastra Rusia klasik (Pushkin, Dostoevsky, Tolstoy) dengan pisau bedah hermeneutika."
       },
       {
         "id": "q-ru-gram-48-bb-2",
@@ -22745,24 +22859,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Menguji keaslian arsip sejarah, reliabilitas data, dan komparasi historiografi naskah primer.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Kritik Sumber & Metodologi Penelitian Bidang Humaniora memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Kritik Sumber & Metodologi Penelitian Bidang Humaniora\" (Источниковедческая база и методология гуманитарного исследования) berfungsi untuk: menguji keaslian arsip sejarah, reliabilitas data, dan komparasi historiografi naskah primer. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи. (Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya.)"
+          "Rumus utama: Валидность / Репрезентативность / Историография проблемы",
+          "Contoh 1: Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи. (Istochnikovedcheskaya baza dissertatsii vklyuchayet raneye ne opublikovannyye arkhivnyye rukopisi.) — Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya."
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Валидность / Репрезентативность / Историография проблемы diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Валидность / Репрезентативность / Историография проблемы\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Gunakan istilah metodologi arsip historiografi yang baku.",
         "ruleList": [
-          "Высокая репрезентативность социологической выборки обеспечивает достоверность обобщений. (Representativitas tinggi dari sampel sosiologis menjamin keabsahan generalisasi temuan.)"
+          "Polanya: Валидность / Репрезентативность / Историография проблемы",
+          "Contoh 2: Высокая репрезентативность социологической выборки обеспечивает достоверность обобщений. (Vysokaya reprezentativnost sotsiologicheskoy vyborki obespechivayet dostovernost obobshcheniy.) — Representativitas tinggi dari sampel sosiologis menjamin keabsahan generalisasi temuan."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Kritik Sumber & Metodologi Penelitian Bidang Humaniora\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Критический историографический обзор выявил существенные пробелы в изучении темы. (Tinjauan historiografi kritis mengungkap celah penelitian yang signifikan dalam kajian topik ini.)"
+          "Contoh 3: Критический историографический обзор выявил существенные пробелы в изучении темы. (Kriticheskiy istoriograficheskiy obzor vyyavil sushchestvennyye probely v izuchenii temy.) — Tinjauan historiografi kritis mengungkap celah penelitian yang signifikan dalam kajian topik ini.",
+          "Hindari kesalahan: \"я читал старые бумаги\" → gunakan bentuk yang benar: \"источниковедческая база включает архивные материалы\"."
         ]
       }
     ],
@@ -22770,19 +22887,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-49-ex-1",
         "native": "Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи.",
-        "phonetic": "",
+        "phonetic": "Istochnikovedcheskaya baza dissertatsii vklyuchayet raneye ne opublikovannyye arkhivnyye rukopisi.",
         "translationId": "Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya."
       },
       {
         "id": "ru-gram-49-ex-2",
         "native": "Высокая репрезентативность социологической выборки обеспечивает достоверность обобщений.",
-        "phonetic": "",
+        "phonetic": "Vysokaya reprezentativnost sotsiologicheskoy vyborki obespechivayet dostovernost obobshcheniy.",
         "translationId": "Representativitas tinggi dari sampel sosiologis menjamin keabsahan generalisasi temuan."
       },
       {
         "id": "ru-gram-49-ex-3",
         "native": "Критический историографический обзор выявил существенные пробелы в изучении темы.",
-        "phonetic": "",
+        "phonetic": "Kriticheskiy istoriograficheskiy obzor vyyavil sushchestvennyye probely v izuchenii temy.",
         "translationId": "Tinjauan historiografi kritis mengungkap celah penelitian yang signifikan dalam kajian topik ini."
       }
     ],
@@ -22798,7 +22915,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Kritik Sumber & Metodologi Penelitian Bidang Humaniora sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Kritik Sumber & Metodologi Penelitian Bidang Humaniora\" (Валидность / Репрезентативность / Историография проблемы) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-49-pg-1",
@@ -22814,7 +22931,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam disertasi ini dilakukan analisis komparatif mendalam antara bahasa Slavia dan Austronesia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи.\" berarti \"Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya.\"."
+        "explanation": "Kalimat \"Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи.\" (dibaca: Istochnikovedcheskaya baza dissertatsii vklyuchayet raneye ne opublikovannyye arkhivnyye rukopisi.) berarti \"Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya.\". Kalimat ini menggunakan pola \"Валидность / Репрезентативность / Историография проблемы\" (Kritik Sumber & Metodologi Penelitian Bidang Humaniora) yang berfungsi untuk menguji keaslian arsip sejarah, reliabilitas data, dan komparasi historiografi naskah primer."
       },
       {
         "id": "q-ru-gram-49-pg-2",
@@ -22830,7 +22947,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Высокая репрезентативность социологической выборки обеспечивает достоверность обобщений.\" berarti \"Representativitas tinggi dari sampel sosiologis menjamin keabsahan generalisasi temuan.\"."
+        "explanation": "Kalimat \"Высокая репрезентативность социологической выборки обеспечивает достоверность обобщений.\" (dibaca: Vysokaya reprezentativnost sotsiologicheskoy vyborki obespechivayet dostovernost obobshcheniy.) berarti \"Representativitas tinggi dari sampel sosiologis menjamin keabsahan generalisasi temuan.\". Kalimat ini menggunakan pola \"Валидность / Репрезентативность / Историография проблемы\" (Kritik Sumber & Metodologi Penelitian Bidang Humaniora) yang berfungsi untuk menguji keaslian arsip sejarah, reliabilitas data, dan komparasi historiografi naskah primer."
       },
       {
         "id": "q-ru-gram-49-pg-3",
@@ -22846,7 +22963,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Критический историографический обзор выявил существенные пробелы в изучении темы.\" berarti \"Tinjauan historiografi kritis mengungkap celah penelitian yang signifikan dalam kajian topik ini.\"."
+        "explanation": "Kalimat \"Критический историографический обзор выявил существенные пробелы в изучении темы.\" (dibaca: Kriticheskiy istoriograficheskiy obzor vyyavil sushchestvennyye probely v izuchenii temy.) berarti \"Tinjauan historiografi kritis mengungkap celah penelitian yang signifikan dalam kajian topik ini.\". Kalimat ini menggunakan pola \"Валидность / Репрезентативность / Историография проблемы\" (Kritik Sumber & Metodologi Penelitian Bidang Humaniora) yang berfungsi untuk menguji keaslian arsip sejarah, reliabilitas data, dan komparasi historiografi naskah primer."
       },
       {
         "id": "q-ru-gram-49-pg-4",
@@ -22866,7 +22983,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-49-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kritik Sumber & Metodologi Penelitian Bidang Humaniora\"?",
         "options": [
           "Высокая репрезентативность социологической выборки обеспечивает достоверность обобщений. — Representativitas tinggi dari sampel sosiologis menjamin keabsahan generalisasi temuan.",
           "В диссертации проведён глубокий сопоставительный анализ славянских и австронезийских языков. — Dalam disertasi ini dilakukan analisis komparatif mendalam antara bahasa Slavia dan Austronesia.",
@@ -22880,7 +22997,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-49-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Kritik Sumber & Metodologi Penelitian Bidang Humaniora\"?",
         "options": [
           "Автор детально анализирует и всесторонне освещает изучаемое социальное явление. — Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji.",
           "Критический историографический обзор выявил существенные пробелы в изучении темы. — Tinjauan historiografi kritis mengungkap celah penelitian yang signifikan dalam kajian topik ini.",
@@ -23141,7 +23258,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Penulis menganalisis secara detail dan menguraikan secara menyeluruh fenomena sosial yang dikaji."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи.\" berarti \"Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya.\"."
+        "explanation": "Kalimat \"Источниковедческая база диссертации включает ранее не опубликованные архивные рукописи.\" (dibaca: Istochnikovedcheskaya baza dissertatsii vklyuchayet raneye ne opublikovannyye arkhivnyye rukopisi.) berarti \"Basis kajian sumber disertasi ini mencakup manuskrip arsip yang belum pernah diterbitkan sebelumnya.\". Kalimat ini menggunakan pola \"Валидность / Репрезентативность / Историография проблемы\" (Kritik Sumber & Metodologi Penelitian Bidang Humaniora) yang berfungsi untuk menguji keaslian arsip sejarah, reliabilitas data, dan komparasi historiografi naskah primer."
       },
       {
         "id": "q-ru-gram-49-bb-2",
@@ -23216,24 +23333,27 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
     "summary": "Tata laksana mempertahankan disertasi kandidat atau doktor ilmu pengetahuan di hadapan dewan penguji.",
     "explanationSections": [
       {
-        "heading": "1. Kaidah Utama",
-        "content": "Penerapan kaidah Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah memegang peranan krusial dalam tata bahasa baku bahasa Rusia.",
+        "heading": "1. Pengertian & Fungsi Dasar",
+        "content": "Materi \"Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah\" (Защита диссертации и ведение научной дискуссии в диссертационном совете) berfungsi untuk: tata laksana mempertahankan disertasi kandidat atau doktor ilmu pengetahuan di hadapan dewan penguji. Pola ini sangat sering dipakai dalam percakapan maupun penulisan bahasa Rusia sehari-hari agar maksud kalimat tersampaikan dengan jelas dan alami.",
         "ruleList": [
-          "Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация! (Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!)"
+          "Rumus utama: Доклад соискателя / Ответы на замечания ведущей организации",
+          "Contoh 1: Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация! (Uvazhayemyy predsedatel i chleny dissertatsionnogo soveta, na vashe rassmotreniye vynositsya dissertatsiya!) — Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!"
         ]
       },
       {
-        "heading": "2. Analisis Struktur dan Konteks",
-        "content": "Struktur Доклад соискателя / Ответы на замечания ведущей организации diterapkan untuk menjaga kohesi dan kesesuaian kasus gramatikal.",
+        "heading": "2. Rumus & Cara Menyusun Kalimat",
+        "content": "Untuk menyusun kalimat menggunakan pola ini, ikuti struktur \"Доклад соискателя / Ответы на замечания ведущей организации\". Perhatikan perubahan bentuk kata atau partikel penghubung yang digunakan sesuai subjek dan konteks kalimatnya. Sidang disertasi di Rusia diawali dengan pidato resmi yang sangat terhormat dan berwibawa.",
         "ruleList": [
-          "Выражаю искреннюю благодарность официальным оппонентам за высокую оценку моей работы. (Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya.)"
+          "Polanya: Доклад соискателя / Ответы на замечания ведущей организации",
+          "Contoh 2: Выражаю искреннюю благодарность официальным оппонентам за высокую оценку моей работы. (Vyrazhayu iskrennyuyu blagodarnost ofitsialnym opponentam za vysokuyu otsenku moyey raboty.) — Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya."
         ]
       },
       {
-        "heading": "3. Catatan Penggunaan Akademik",
-        "content": "Dalam wacana formal dan penulisan ilmiah, kaidah ini menjamin kepatuhan pada standar literer Rusia.",
+        "heading": "3. Tips Praktis & Penerapan Sehari-hari",
+        "content": "Saat mempraktikkan \"Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah\", mulailah dengan menghafalkan satu contoh kalimat utuh lalu ganti kosakatanya sesuai kebutuhanmu. Dengan begitu, kamu bisa langsung menggunakannya secara lancar tanpa bingung menghafal istilah tata bahasa yang rumit.",
         "ruleList": [
-          "Позвольте подробно ответить на методологические замечания ведущей организации. (Izinkan saya menjawab secara terperinci catatan metodologis dari institusi penguji utama.)"
+          "Contoh 3: Позвольте подробно ответить на методологические замечания ведущей организации. (Pozvolte podrobno otvetit na metodologicheskiye zamechaniya vedushchey organizatsii.) — Izinkan saya menjawab secara terperinci catatan metodologis dari institusi penguji utama.",
+          "Hindari kesalahan: \"я хочу получить диплом\" → gunakan bentuk yang benar: \"на ваше рассмотрение выносится диссертационное исследование\"."
         ]
       }
     ],
@@ -23241,19 +23361,19 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
       {
         "id": "ru-gram-50-ex-1",
         "native": "Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация!",
-        "phonetic": "",
+        "phonetic": "Uvazhayemyy predsedatel i chleny dissertatsionnogo soveta, na vashe rassmotreniye vynositsya dissertatsiya!",
         "translationId": "Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!"
       },
       {
         "id": "ru-gram-50-ex-2",
         "native": "Выражаю искреннюю благодарность официальным оппонентам за высокую оценку моей работы.",
-        "phonetic": "",
+        "phonetic": "Vyrazhayu iskrennyuyu blagodarnost ofitsialnym opponentam za vysokuyu otsenku moyey raboty.",
         "translationId": "Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya."
       },
       {
         "id": "ru-gram-50-ex-3",
         "native": "Позвольте подробно ответить на методологические замечания ведущей организации.",
-        "phonetic": "",
+        "phonetic": "Pozvolte podrobno otvetit na metodologicheskiye zamechaniya vedushchey organizatsii.",
         "translationId": "Izinkan saya menjawab secara terperinci catatan metodologis dari institusi penguji utama."
       }
     ],
@@ -23269,7 +23389,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "explanation": "Hindari kekeliruan pemilihan deklinasi kasus dalam struktur kalimat bahasa Rusia."
       }
     ],
-    "culturalContext": "Penguasaan kaidah Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah sangat dihargai dalam masyarakat akademik universitas riset di Federasi Rusia.",
+    "culturalContext": "Dalam bahasa Rusia sehari-hari, pola \"Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah\" (Доклад соискателя / Ответы на замечания ведущей организации) sangat membantu kamu berbicara dengan lebih sopan, rapi, dan mudah dimengerti baik di lingkungan kampus, tempat kerja, maupun percakapan santai.",
     "practiceQuiz": [
       {
         "id": "q-ru-gram-50-pg-1",
@@ -23285,7 +23405,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация!\" berarti \"Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!\"."
+        "explanation": "Kalimat \"Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация!\" (dibaca: Uvazhayemyy predsedatel i chleny dissertatsionnogo soveta, na vashe rassmotreniye vynositsya dissertatsiya!) berarti \"Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!\". Kalimat ini menggunakan pola \"Доклад соискателя / Ответы на замечания ведущей организации\" (Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah) yang berfungsi untuk tata laksana mempertahankan disertasi kandidat atau doktor ilmu pengetahuan di hadapan dewan penguji."
       },
       {
         "id": "q-ru-gram-50-pg-2",
@@ -23301,7 +23421,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Dalam kerangka paradigma riset kontemporer, fenomena ini dipandang sebagai konstruk kognitif."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"Выражаю искреннюю благодарность официальным оппонентам за высокую оценку моей работы.\" berarti \"Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya.\"."
+        "explanation": "Kalimat \"Выражаю искреннюю благодарность официальным оппонентам за высокую оценку моей работы.\" (dibaca: Vyrazhayu iskrennyuyu blagodarnost ofitsialnym opponentam za vysokuyu otsenku moyey raboty.) berarti \"Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya.\". Kalimat ini menggunakan pola \"Доклад соискателя / Ответы на замечания ведущей организации\" (Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah) yang berfungsi untuk tata laksana mempertahankan disertasi kandidat atau doktor ilmu pengetahuan di hadapan dewan penguji."
       },
       {
         "id": "q-ru-gram-50-pg-3",
@@ -23317,7 +23437,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Izinkan saya menjawab secara terperinci catatan metodologis dari institusi penguji utama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Позвольте подробно ответить на методологические замечания ведущей организации.\" berarti \"Izinkan saya menjawab secara terperinci catatan metodologis dari institusi penguji utama.\"."
+        "explanation": "Kalimat \"Позвольте подробно ответить на методологические замечания ведущей организации.\" (dibaca: Pozvolte podrobno otvetit na metodologicheskiye zamechaniya vedushchey organizatsii.) berarti \"Izinkan saya menjawab secara terperinci catatan metodologis dari institusi penguji utama.\". Kalimat ini menggunakan pola \"Доклад соискателя / Ответы на замечания ведущей организации\" (Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah) yang berfungsi untuk tata laksana mempertahankan disertasi kandidat atau doktor ilmu pengetahuan di hadapan dewan penguji."
       },
       {
         "id": "q-ru-gram-50-pg-4",
@@ -23337,7 +23457,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-50-pg-5",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang sesuai dengan kaidah \"1. Kaidah Utama\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah\"?",
         "options": [
           "Интеграция теоретических положений и эмпирических данных открывает широкие перспективы для науки. — Integrasi proposisi teoretis dan data empiris membuka prospek luas bagi ilmu pengetahuan.",
           "Выражаю искреннюю благодарность официальным оппонентам за высокую оценку моей работы. — Saya menyampaikan terima kasih tulus kepada para penguji resmi atas penilaian tinggi terhadap karya saya.",
@@ -23351,7 +23471,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
         "id": "q-ru-gram-50-pg-6",
         "sectionType": "pg",
         "type": "multiple_choice",
-        "prompt": "Pilih kalimat yang menerapkan kaidah \"2. Analisis Struktur dan Konteks\":",
+        "prompt": "Manakah kalimat bahasa Rusia berikut yang benar dan sesuai dengan materi \"Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah\"?",
         "options": [
           "Принимая во внимание комплексный характер проблемы, исследование опирается на междисциплинарный подход. — Mengingat sifat permasalahan yang kompleks, penelitian ini bertumpu pada pendekatan interdisipliner.",
           "Установленные в ходе анализа корреляции убедительно свидетельствуют о правомерности гипотезы. — Korelasi yang ditetapkan selama analisis secara meyakinkan membuktikan keabsahan hipotesis.",
@@ -23612,7 +23732,7 @@ export const RUSSIAN_GRAMMAR: GrammarLesson[] =  [
           "Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация!\" berarti \"Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!\"."
+        "explanation": "Kalimat \"Уважаемый председатель и члены диссертационного совета, на ваше рассмотрение выносится диссертация!\" (dibaca: Uvazhayemyy predsedatel i chleny dissertatsionnogo soveta, na vashe rassmotreniye vynositsya dissertatsiya!) berarti \"Ketua dan anggota dewan disertasi yang terhormat, ke hadapan Anda disajikan penelitian disertasi ini!\". Kalimat ini menggunakan pola \"Доклад соискателя / Ответы на замечания ведущей организации\" (Sintesis Tesis & Pertahanan Disertasi di Dewan Ilmiah) yang berfungsi untuk tata laksana mempertahankan disertasi kandidat atau doktor ilmu pengetahuan di hadapan dewan penguji."
       },
       {
         "id": "q-ru-gram-50-bb-2",

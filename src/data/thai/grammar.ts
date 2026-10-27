@@ -83,7 +83,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah tas milik saya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ผมเรียนภาษาไทยครับ\" berarti \"Saya belajar bahasa Thai (pria).\"."
+        "explanation": "Kalimat \"ผมเรียนภาษาไทยครับ\" (dibaca: phǒm rian phaa-sǎa thai khráp) berarti \"Saya belajar bahasa Thai (pria).\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + Objek + ครับ (khráp) / ค่ะ (khâ)\" (Struktur Kalimat SVO & Partikel Kesopanan ครับ (khráp) / ค่ะ (khâ)) yang berfungsi untuk bahasa Thai menggunakan urutan Subjek-Verba-Objek (SVO) tanpa konjugasi kata kerja. Kesopanan ditunjukkan melalui partikel akhir."
       },
       {
         "id": "q-th-gram-1-pg-2",
@@ -99,7 +99,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Makanan piring ini tidak pedas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ฉันชอบอาหารไทยค่ะ\" berarti \"Saya suka masakan Thailand (wanita).\"."
+        "explanation": "Kalimat \"ฉันชอบอาหารไทยค่ะ\" (dibaca: chǎn chɔ̂ɔp aa-hǎan thai khâ) berarti \"Saya suka masakan Thailand (wanita).\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + Objek + ครับ (khráp) / ค่ะ (khâ)\" (Struktur Kalimat SVO & Partikel Kesopanan ครับ (khráp) / ค่ะ (khâ)) yang berfungsi untuk bahasa Thai menggunakan urutan Subjek-Verba-Objek (SVO) tanpa konjugasi kata kerja. Kesopanan ditunjukkan melalui partikel akhir."
       },
       {
         "id": "q-th-gram-1-pg-3",
@@ -115,7 +115,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya tidak mengerti pelajaran ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"เขากินข้าวเหนียวมะม่วงครับ\" berarti \"Dia makan ketan mangga.\"."
+        "explanation": "Kalimat \"เขากินข้าวเหนียวมะม่วงครับ\" (dibaca: khǎo kin khâaw-nǐaw má-mûang khráp) berarti \"Dia makan ketan mangga.\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + Objek + ครับ (khráp) / ค่ะ (khâ)\" (Struktur Kalimat SVO & Partikel Kesopanan ครับ (khráp) / ค่ะ (khâ)) yang berfungsi untuk bahasa Thai menggunakan urutan Subjek-Verba-Objek (SVO) tanpa konjugasi kata kerja. Kesopanan ditunjukkan melalui partikel akhir."
       },
       {
         "id": "q-th-gram-1-pg-4",
@@ -410,7 +410,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dia adalah dosen di universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ผมเรียนภาษาไทยครับ\" berarti \"Saya belajar bahasa Thai (pria).\"."
+        "explanation": "Kalimat \"ผมเรียนภาษาไทยครับ\" (dibaca: phǒm rian phaa-sǎa thai khráp) berarti \"Saya belajar bahasa Thai (pria).\". Kalimat ini menggunakan pola \"Subjek + Kata Kerja + Objek + ครับ (khráp) / ค่ะ (khâ)\" (Struktur Kalimat SVO & Partikel Kesopanan ครับ (khráp) / ค่ะ (khâ)) yang berfungsi untuk bahasa Thai menggunakan urutan Subjek-Verba-Objek (SVO) tanpa konjugasi kata kerja. Kesopanan ditunjukkan melalui partikel akhir."
       },
       {
         "id": "q-th-gram-1-bb-2",
@@ -555,7 +555,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda suka belajar bahasa Thai?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"เขาเป็นอาจารย์ที่มหาวิทยาลัยครับ\" berarti \"Dia adalah dosen di universitas.\"."
+        "explanation": "Kalimat \"เขาเป็นอาจารย์ที่มหาวิทยาลัยครับ\" (dibaca: khǎo bpen aa-jaan thîi má-hǎa-wít-thá-yaa-lai khráp) berarti \"Dia adalah dosen di universitas.\". Kalimat ini menggunakan pola \"Subjek + เป็น / คือ + Kata Benda Identitas\" (Kalimat Nominal เป็น (bpen) vs คือ (kheuu)) yang berfungsi untuk kata เป็น digunakan untuk profesi atau status sosial, sedangkan คือ digunakan untuk definisi ekuivalensi identitas."
       },
       {
         "id": "q-th-gram-2-pg-2",
@@ -571,7 +571,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah asrama mahasiswa internasional."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"นี่คือกระเป๋าของฉันค่ะ\" berarti \"Ini adalah tas milik saya.\"."
+        "explanation": "Kalimat \"นี่คือกระเป๋าของฉันค่ะ\" (dibaca: nîi kheuu grà-pǎw khɔ̌ɔng chǎn khâ) berarti \"Ini adalah tas milik saya.\". Kalimat ini menggunakan pola \"Subjek + เป็น / คือ + Kata Benda Identitas\" (Kalimat Nominal เป็น (bpen) vs คือ (kheuu)) yang berfungsi untuk kata เป็น digunakan untuk profesi atau status sosial, sedangkan คือ digunakan untuk definisi ekuivalensi identitas."
       },
       {
         "id": "q-th-gram-2-pg-3",
@@ -587,7 +587,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Somchai adalah seorang insinyur."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"สมชายเป็นวิศวกรครับ\" berarti \"Somchai adalah seorang insinyur.\"."
+        "explanation": "Kalimat \"สมชายเป็นวิศวกรครับ\" (dibaca: sǒm-chaai bpen wít-sà-wá-gɔɔn khráp) berarti \"Somchai adalah seorang insinyur.\". Kalimat ini menggunakan pola \"Subjek + เป็น / คือ + Kata Benda Identitas\" (Kalimat Nominal เป็น (bpen) vs คือ (kheuu)) yang berfungsi untuk kata เป็น digunakan untuk profesi atau status sosial, sedangkan คือ digunakan untuk definisi ekuivalensi identitas."
       },
       {
         "id": "q-th-gram-2-pg-4",
@@ -887,7 +887,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dia adalah dosen di universitas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"เขาเป็นอาจารย์ที่มหาวิทยาลัยครับ\" berarti \"Dia adalah dosen di universitas.\"."
+        "explanation": "Kalimat \"เขาเป็นอาจารย์ที่มหาวิทยาลัยครับ\" (dibaca: khǎo bpen aa-jaan thîi má-hǎa-wít-thá-yaa-lai khráp) berarti \"Dia adalah dosen di universitas.\". Kalimat ini menggunakan pola \"Subjek + เป็น / คือ + Kata Benda Identitas\" (Kalimat Nominal เป็น (bpen) vs คือ (kheuu)) yang berfungsi untuk kata เป็น digunakan untuk profesi atau status sosial, sedangkan คือ digunakan untuk definisi ekuivalensi identitas."
       },
       {
         "id": "q-th-gram-2-bb-2",
@@ -1034,7 +1034,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Buku ini sangat bermanfaat."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"อาหารจานนี้ไม่เผ็ดครับ\" berarti \"Makanan piring ini tidak pedas.\"."
+        "explanation": "Kalimat \"อาหารจานนี้ไม่เผ็ดครับ\" (dibaca: aa-hǎan jaan níi mâi phèt khráp) berarti \"Makanan piring ini tidak pedas.\". Kalimat ini menggunakan pola \"Subjek + ไม่ (mâi) + Verba / Adjektiva + ไหม (mǎi)?\" (Kalimat Negatif dengan ไม่ (mâi) & Pertanyaan ไหม (mǎi)) yang berfungsi untuk letakkan ไม่ (mâi) sebelum kata kerja/sifat untuk menyangkal, dan letakkan ไหม (mǎi) di akhir kalimat untuk pertanyaan ya/tidak."
       },
       {
         "id": "q-th-gram-3-pg-2",
@@ -1050,7 +1050,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda suka belajar bahasa Thai?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"คุณชอบเรียนภาษาไทยไหมครับ?\" berarti \"Apakah Anda suka belajar bahasa Thai?\"."
+        "explanation": "Kalimat \"คุณชอบเรียนภาษาไทยไหมครับ?\" (dibaca: khun chɔ̂ɔp rian phaa-sǎa thai mǎi khráp?) berarti \"Apakah Anda suka belajar bahasa Thai?\". Kalimat ini menggunakan pola \"Subjek + ไม่ (mâi) + Verba / Adjektiva + ไหม (mǎi)?\" (Kalimat Negatif dengan ไม่ (mâi) & Pertanyaan ไหม (mǎi)) yang berfungsi untuk letakkan ไม่ (mâi) sebelum kata kerja/sifat untuk menyangkal, dan letakkan ไหม (mǎi) di akhir kalimat untuk pertanyaan ya/tidak."
       },
       {
         "id": "q-th-gram-3-pg-3",
@@ -1066,7 +1066,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya membeli tiga batang pena di toko."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ผมไม่เข้าใจบทเรียนนี้ครับ\" berarti \"Saya tidak mengerti pelajaran ini.\"."
+        "explanation": "Kalimat \"ผมไม่เข้าใจบทเรียนนี้ครับ\" (dibaca: phǒm mâi khâo-jai bòt-rian níi khráp) berarti \"Saya tidak mengerti pelajaran ini.\". Kalimat ini menggunakan pola \"Subjek + ไม่ (mâi) + Verba / Adjektiva + ไหม (mǎi)?\" (Kalimat Negatif dengan ไม่ (mâi) & Pertanyaan ไหม (mǎi)) yang berfungsi untuk letakkan ไม่ (mâi) sebelum kata kerja/sifat untuk menyangkal, dan letakkan ไหม (mǎi) di akhir kalimat untuk pertanyaan ya/tidak."
       },
       {
         "id": "q-th-gram-3-pg-4",
@@ -1371,7 +1371,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah asrama mahasiswa internasional."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"อาหารจานนี้ไม่เผ็ดครับ\" berarti \"Makanan piring ini tidak pedas.\"."
+        "explanation": "Kalimat \"อาหารจานนี้ไม่เผ็ดครับ\" (dibaca: aa-hǎan jaan níi mâi phèt khráp) berarti \"Makanan piring ini tidak pedas.\". Kalimat ini menggunakan pola \"Subjek + ไม่ (mâi) + Verba / Adjektiva + ไหม (mǎi)?\" (Kalimat Negatif dengan ไม่ (mâi) & Pertanyaan ไหม (mǎi)) yang berfungsi untuk letakkan ไม่ (mâi) sebelum kata kerja/sifat untuk menyangkal, dan letakkan ไหม (mǎi) di akhir kalimat untuk pertanyaan ya/tidak."
       },
       {
         "id": "q-th-gram-3-bb-2",
@@ -1515,7 +1515,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah asrama mahasiswa internasional."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"นี่คือหอพักนักศึกษาต่างชาติครับ\" berarti \"Ini adalah asrama mahasiswa internasional.\"."
+        "explanation": "Kalimat \"นี่คือหอพักนักศึกษาต่างชาติครับ\" (dibaca: nîi kheuu hɔ̌ɔ-phák nák-sʉ̀k-sǎa dtàang-châat khráp) berarti \"Ini adalah asrama mahasiswa internasional.\". Kalimat ini menggunakan pola \"นี่ / นั่น / โน่น (Pronomina) vs Kata Benda + นี้ / นั้น / โน้น (Determiner)\" (Kata Tunjuk Ini / Itu (นี่/นี้, นั่น/นั้น, โน่น/โน้น)) yang berfungsi untuk bentuk dengan nada jatuh (นี่, นั่น, โน่น) berdiri sendiri sebagai kata ganti, sedangkan nada tinggi (นี้, นั้น, โน้น) menerangkan kata benda."
       },
       {
         "id": "q-th-gram-4-pg-2",
@@ -1531,7 +1531,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Anda akan melanjutkan studi di universitas mana?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"หนังสือเล่มนี้มีประโยชน์มากค่ะ\" berarti \"Buku ini sangat bermanfaat.\"."
+        "explanation": "Kalimat \"หนังสือเล่มนี้มีประโยชน์มากค่ะ\" (dibaca: nǎng-sʉ̌ʉ lêm níi mii bprà-yòot mâak khâ) berarti \"Buku ini sangat bermanfaat.\". Kalimat ini menggunakan pola \"นี่ / นั่น / โน่น (Pronomina) vs Kata Benda + นี้ / นั้น / โน้น (Determiner)\" (Kata Tunjuk Ini / Itu (นี่/นี้, นั่น/นั้น, โน่น/โน้น)) yang berfungsi untuk bentuk dengan nada jatuh (นี่, นั่น, โน่น) berdiri sendiri sebagai kata ganti, sedangkan nada tinggi (นี้, นั้น, โน้น) menerangkan kata benda."
       },
       {
         "id": "q-th-gram-4-pg-3",
@@ -1547,7 +1547,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mengapa Anda ingin belajar bahasa Thai?"
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"นั่นคือห้องสมุดกลางของมหาวิทยาลัย\" berarti \"Itu adalah perpustakaan pusat universitas.\"."
+        "explanation": "Kalimat \"นั่นคือห้องสมุดกลางของมหาวิทยาลัย\" (dibaca: nân kheuu hɔ̂ng-sà-mùt glaang khɔ̌ɔng má-hǎa-wít-thá-yaa-lai) berarti \"Itu adalah perpustakaan pusat universitas.\". Kalimat ini menggunakan pola \"นี่ / นั่น / โน่น (Pronomina) vs Kata Benda + นี้ / นั้น / โน้น (Determiner)\" (Kata Tunjuk Ini / Itu (นี่/นี้, นั่น/นั้น, โน่น/โน้น)) yang berfungsi untuk bentuk dengan nada jatuh (นี่, นั่น, โน่น) berdiri sendiri sebagai kata ganti, sedangkan nada tinggi (นี้, นั้น, โน้น) menerangkan kata benda."
       },
       {
         "id": "q-th-gram-4-pg-4",
@@ -1850,7 +1850,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya minta dua gelas es kopi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"นี่คือหอพักนักศึกษาต่างชาติครับ\" berarti \"Ini adalah asrama mahasiswa internasional.\"."
+        "explanation": "Kalimat \"นี่คือหอพักนักศึกษาต่างชาติครับ\" (dibaca: nîi kheuu hɔ̌ɔ-phák nák-sʉ̀k-sǎa dtàang-châat khráp) berarti \"Ini adalah asrama mahasiswa internasional.\". Kalimat ini menggunakan pola \"นี่ / นั่น / โน่น (Pronomina) vs Kata Benda + นี้ / นั้น / โน้น (Determiner)\" (Kata Tunjuk Ini / Itu (นี่/นี้, นั่น/นั้น, โน่น/โน้น)) yang berfungsi untuk bentuk dengan nada jatuh (นี่, นั่น, โน่น) berdiri sendiri sebagai kata ganti, sedangkan nada tinggi (นี้, นั้น, โน้น) menerangkan kata benda."
       },
       {
         "id": "q-th-gram-4-bb-2",
@@ -1995,7 +1995,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kapan dosen akan mulai mengajar?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ผมขอกาแฟเย็นสองแก้วครับ\" berarti \"Saya minta dua gelas es kopi.\"."
+        "explanation": "Kalimat \"ผมขอกาแฟเย็นสองแก้วครับ\" (dibaca: phǒm khɔ̌ɔ gaa-fɛɛ yen sɔ̌ɔng gɛ̂ɛw khráp) berarti \"Saya minta dua gelas es kopi.\". Kalimat ini menggunakan pola \"Kata Benda + Angka + Penjodoh Bilangan (Klasifikasi Objek)\" (Angka & Penjodoh Bilangan (ลักษณนาม - Laksananarm)) yang berfungsi untuk bahasa Thai wajib menggunakan kata penjodoh bilangan (classifier) saat menghitung benda dengan urutan Benda + Jumlah + Penjodoh."
       },
       {
         "id": "q-th-gram-5-pg-2",
@@ -2011,7 +2011,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Universitas ini lebih tua daripada universitas itu."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ในห้องเรียนมีนักศึกษาต่างชาติยี่สิบคนค่ะ\" berarti \"Di dalam ruang kelas ada 20 mahasiswa asing.\"."
+        "explanation": "Kalimat \"ในห้องเรียนมีนักศึกษาต่างชาติยี่สิบคนค่ะ\" (dibaca: nai hɔ̂ng-rian mii nák-sʉ̀k-sǎa dtàang-châat yîi-sìp khon khâ) berarti \"Di dalam ruang kelas ada 20 mahasiswa asing.\". Kalimat ini menggunakan pola \"Kata Benda + Angka + Penjodoh Bilangan (Klasifikasi Objek)\" (Angka & Penjodoh Bilangan (ลักษณนาม - Laksananarm)) yang berfungsi untuk bahasa Thai wajib menggunakan kata penjodoh bilangan (classifier) saat menghitung benda dengan urutan Benda + Jumlah + Penjodoh."
       },
       {
         "id": "q-th-gram-5-pg-3",
@@ -2027,7 +2027,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Apakah bahasa Thai lebih sulit daripada bahasa Inggris?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ฉันซื้อปากกาสามด้ามที่ร้านค้า\" berarti \"Saya membeli tiga batang pena di toko.\"."
+        "explanation": "Kalimat \"ฉันซื้อปากกาสามด้ามที่ร้านค้า\" (dibaca: chǎn sʉ́ʉ bpaak-gaa sǎam dâam thîi ráan-kháa) berarti \"Saya membeli tiga batang pena di toko.\". Kalimat ini menggunakan pola \"Kata Benda + Angka + Penjodoh Bilangan (Klasifikasi Objek)\" (Angka & Penjodoh Bilangan (ลักษณนาม - Laksananarm)) yang berfungsi untuk bahasa Thai wajib menggunakan kata penjodoh bilangan (classifier) saat menghitung benda dengan urutan Benda + Jumlah + Penjodoh."
       },
       {
         "id": "q-th-gram-5-pg-4",
@@ -2334,7 +2334,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Anda akan melanjutkan studi di universitas mana?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ผมขอกาแฟเย็นสองแก้วครับ\" berarti \"Saya minta dua gelas es kopi.\"."
+        "explanation": "Kalimat \"ผมขอกาแฟเย็นสองแก้วครับ\" (dibaca: phǒm khɔ̌ɔ gaa-fɛɛ yen sɔ̌ɔng gɛ̂ɛw khráp) berarti \"Saya minta dua gelas es kopi.\". Kalimat ini menggunakan pola \"Kata Benda + Angka + Penjodoh Bilangan (Klasifikasi Objek)\" (Angka & Penjodoh Bilangan (ลักษณนาม - Laksananarm)) yang berfungsi untuk bahasa Thai wajib menggunakan kata penjodoh bilangan (classifier) saat menghitung benda dengan urutan Benda + Jumlah + Penjodoh."
       },
       {
         "id": "q-th-gram-5-bb-2",
@@ -2480,7 +2480,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Masakan Thailand di restoran ini paling lezat di kota."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"คุณจะไปเรียนต่อที่มหาวิทยาลัยไหนครับ?\" berarti \"Anda akan melanjutkan studi di universitas mana?\"."
+        "explanation": "Kalimat \"คุณจะไปเรียนต่อที่มหาวิทยาลัยไหนครับ?\" (dibaca: khun jà bpai rian dtɔ̀ɔ thîi má-hǎa-wít-thá-yaa-lai nǎi khráp?) berarti \"Anda akan melanjutkan studi di universitas mana?\". Kalimat ini menggunakan pola \"Klausa + Kata Tanya (di posisi informasi yang ditanyakan)\" (Kata Tanya 5W1H (ใคร, อะไร, ที่ไหน, เมื่อไหร่, ทำไม, อย่างไร)) yang berfungsi untuk kata tanya dalam bahasa Thai umumnya diletakkan di akhir kalimat atau di posisi kata yang digantikannya (in-situ)."
       },
       {
         "id": "q-th-gram-6-pg-2",
@@ -2496,7 +2496,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah disertasi milik mahasiswa doktoral."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"อาจารย์จะเริ่มสอนเมื่อไหร่คะ?\" berarti \"Kapan dosen akan mulai mengajar?\"."
+        "explanation": "Kalimat \"อาจารย์จะเริ่มสอนเมื่อไหร่คะ?\" (dibaca: aa-jaan jà rə̂əm sɔ̌ɔn mʉ̂a-rài khá?) berarti \"Kapan dosen akan mulai mengajar?\". Kalimat ini menggunakan pola \"Klausa + Kata Tanya (di posisi informasi yang ditanyakan)\" (Kata Tanya 5W1H (ใคร, อะไร, ที่ไหน, เมื่อไหร่, ทำไม, อย่างไร)) yang berfungsi untuk kata tanya dalam bahasa Thai umumnya diletakkan di akhir kalimat atau di posisi kata yang digantikannya (in-situ)."
       },
       {
         "id": "q-th-gram-6-pg-3",
@@ -2512,7 +2512,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mengapa Anda ingin belajar bahasa Thai?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ทำไมคุณถึงอยากเรียนภาษาไทยครับ?\" berarti \"Mengapa Anda ingin belajar bahasa Thai?\"."
+        "explanation": "Kalimat \"ทำไมคุณถึงอยากเรียนภาษาไทยครับ?\" (dibaca: tham-mai khun thʉ̌ng yàak rian phaa-sǎa thai khráp?) berarti \"Mengapa Anda ingin belajar bahasa Thai?\". Kalimat ini menggunakan pola \"Klausa + Kata Tanya (di posisi informasi yang ditanyakan)\" (Kata Tanya 5W1H (ใคร, อะไร, ที่ไหน, เมื่อไหร่, ทำไม, อย่างไร)) yang berfungsi untuk kata tanya dalam bahasa Thai umumnya diletakkan di akhir kalimat atau di posisi kata yang digantikannya (in-situ)."
       },
       {
         "id": "q-th-gram-6-pg-4",
@@ -2819,7 +2819,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Anda akan melanjutkan studi di universitas mana?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"คุณจะไปเรียนต่อที่มหาวิทยาลัยไหนครับ?\" berarti \"Anda akan melanjutkan studi di universitas mana?\"."
+        "explanation": "Kalimat \"คุณจะไปเรียนต่อที่มหาวิทยาลัยไหนครับ?\" (dibaca: khun jà bpai rian dtɔ̀ɔ thîi má-hǎa-wít-thá-yaa-lai nǎi khráp?) berarti \"Anda akan melanjutkan studi di universitas mana?\". Kalimat ini menggunakan pola \"Klausa + Kata Tanya (di posisi informasi yang ditanyakan)\" (Kata Tanya 5W1H (ใคร, อะไร, ที่ไหน, เมื่อไหร่, ทำไม, อย่างไร)) yang berfungsi untuk kata tanya dalam bahasa Thai umumnya diletakkan di akhir kalimat atau di posisi kata yang digantikannya (in-situ)."
       },
       {
         "id": "q-th-gram-6-bb-2",
@@ -2964,7 +2964,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kamar asrama milik saya berada di lantai lima."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"มหาวิทยาลัยนี้เก่าแก่กว่ามหาวิทยาลัยนั้นครับ\" berarti \"Universitas ini lebih tua daripada universitas itu.\"."
+        "explanation": "Kalimat \"มหาวิทยาลัยนี้เก่าแก่กว่ามหาวิทยาลัยนั้นครับ\" (dibaca: má-hǎa-wít-thá-yaa-lai níi gào-gɛ̀ɛ gwàa má-hǎa-wít-thá-yaa-lai nán khráp) berarti \"Universitas ini lebih tua daripada universitas itu.\". Kalimat ini menggunakan pola \"A + Adjektiva + กว่า (gwàa) + B & Adjektiva + ที่สุด (thîi-sùt)\" (Kata Sifat & Pembanding กว่า (gwàa) vs ที่สุด (thîi-sùt)) yang berfungsi untuk tingkat lebih dinyatakan dengan menambahkan กว่า setelah kata sifat, dan tingkat paling/ter- dinyatakan dengan ที่สุด."
       },
       {
         "id": "q-th-gram-7-pg-2",
@@ -2980,7 +2980,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Masakan Thailand di restoran ini paling lezat di kota."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"อาหารไทยที่ร้านนี้อร่อยที่สุดในเมืองค่ะ\" berarti \"Masakan Thailand di restoran ini paling lezat di kota.\"."
+        "explanation": "Kalimat \"อาหารไทยที่ร้านนี้อร่อยที่สุดในเมืองค่ะ\" (dibaca: aa-hǎan thai thîi ráan níi à-rɔ̀y thîi-sùt nai mʉang khâ) berarti \"Masakan Thailand di restoran ini paling lezat di kota.\". Kalimat ini menggunakan pola \"A + Adjektiva + กว่า (gwàa) + B & Adjektiva + ที่สุด (thîi-sùt)\" (Kata Sifat & Pembanding กว่า (gwàa) vs ที่สุด (thîi-sùt)) yang berfungsi untuk tingkat lebih dinyatakan dengan menambahkan กว่า setelah kata sifat, dan tingkat paling/ter- dinyatakan dengan ที่สุด."
       },
       {
         "id": "q-th-gram-7-pg-3",
@@ -2996,7 +2996,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dia sedang menulis laporan akademik."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ภาษาไทยยากกว่าภาษาอังกฤษไหมครับ?\" berarti \"Apakah bahasa Thai lebih sulit daripada bahasa Inggris?\"."
+        "explanation": "Kalimat \"ภาษาไทยยากกว่าภาษาอังกฤษไหมครับ?\" (dibaca: phaa-sǎa thai yâak gwàa phaa-sǎa ang-grìt mǎi khráp?) berarti \"Apakah bahasa Thai lebih sulit daripada bahasa Inggris?\". Kalimat ini menggunakan pola \"A + Adjektiva + กว่า (gwàa) + B & Adjektiva + ที่สุด (thîi-sùt)\" (Kata Sifat & Pembanding กว่า (gwàa) vs ที่สุด (thîi-sùt)) yang berfungsi untuk tingkat lebih dinyatakan dengan menambahkan กว่า setelah kata sifat, dan tingkat paling/ter- dinyatakan dengan ที่สุด."
       },
       {
         "id": "q-th-gram-7-pg-4",
@@ -3303,7 +3303,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah disertasi milik mahasiswa doktoral."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"มหาวิทยาลัยนี้เก่าแก่กว่ามหาวิทยาลัยนั้นครับ\" berarti \"Universitas ini lebih tua daripada universitas itu.\"."
+        "explanation": "Kalimat \"มหาวิทยาลัยนี้เก่าแก่กว่ามหาวิทยาลัยนั้นครับ\" (dibaca: má-hǎa-wít-thá-yaa-lai níi gào-gɛ̀ɛ gwàa má-hǎa-wít-thá-yaa-lai nán khráp) berarti \"Universitas ini lebih tua daripada universitas itu.\". Kalimat ini menggunakan pola \"A + Adjektiva + กว่า (gwàa) + B & Adjektiva + ที่สุด (thîi-sùt)\" (Kata Sifat & Pembanding กว่า (gwàa) vs ที่สุด (thîi-sùt)) yang berfungsi untuk tingkat lebih dinyatakan dengan menambahkan กว่า setelah kata sifat, dan tingkat paling/ter- dinyatakan dengan ที่สุด."
       },
       {
         "id": "q-th-gram-7-bb-2",
@@ -3448,7 +3448,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah disertasi milik mahasiswa doktoral."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"นี่คือวิทยานิพนธ์ของนักศึกษาปริญญาเอกครับ\" berarti \"Ini adalah disertasi milik mahasiswa doktoral.\"."
+        "explanation": "Kalimat \"นี่คือวิทยานิพนธ์ของนักศึกษาปริญญาเอกครับ\" (dibaca: nîi kheuu wít-thá-yaa-ní-phon khɔ̌ɔng nák-sʉ̀k-sǎa bpa-ring-yaa-èek khráp) berarti \"Ini adalah disertasi milik mahasiswa doktoral.\". Kalimat ini menggunakan pola \"Benda yang Dimiliki + ของ (khɔ̌ɔng) + Pemilik\" (Kepemilikan dengan ของ (khɔ̌ɔng)) yang berfungsi untuk kata ของ (khɔ̌ɔng) berarti 'milik/dari' dan diletakkan di antara benda yang dimiliki dan pemiliknya."
       },
       {
         "id": "q-th-gram-8-pg-2",
@@ -3464,7 +3464,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin mendaftar beasiswa pemerintah Thailand untuk kuliah S2."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ห้องพักของฉันอยู่ชั้นที่ห้าค่ะ\" berarti \"Kamar asrama milik saya berada di lantai lima.\"."
+        "explanation": "Kalimat \"ห้องพักของฉันอยู่ชั้นที่ห้าค่ะ\" (dibaca: hɔ̂ng-phák khɔ̌ɔng chǎn yùu chán thîi hâa khâ) berarti \"Kamar asrama milik saya berada di lantai lima.\". Kalimat ini menggunakan pola \"Benda yang Dimiliki + ของ (khɔ̌ɔng) + Pemilik\" (Kepemilikan dengan ของ (khɔ̌ɔng)) yang berfungsi untuk kata ของ (khɔ̌ɔng) berarti 'milik/dari' dan diletakkan di antara benda yang dimiliki dan pemiliknya."
       },
       {
         "id": "q-th-gram-8-pg-3",
@@ -3480,7 +3480,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin meningkatkan keterampilan berbicara bahasa Thai agar lancar."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"รถยนต์ของอาจารย์สมศักดิ์สีดำ\" berarti \"Mobil milik Profesor Somsak berwarna hitam.\"."
+        "explanation": "Kalimat \"รถยนต์ของอาจารย์สมศักดิ์สีดำ\" (dibaca: rót-yon khɔ̌ɔng aa-jaan sǒm-sàk sǐi-dam) berarti \"Mobil milik Profesor Somsak berwarna hitam.\". Kalimat ini menggunakan pola \"Benda yang Dimiliki + ของ (khɔ̌ɔng) + Pemilik\" (Kepemilikan dengan ของ (khɔ̌ɔng)) yang berfungsi untuk kata ของ (khɔ̌ɔng) berarti 'milik/dari' dan diletakkan di antara benda yang dimiliki dan pemiliknya."
       },
       {
         "id": "q-th-gram-8-pg-4",
@@ -3787,7 +3787,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa sedang melakukan penelitian di laboratorium."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"นี่คือวิทยานิพนธ์ของนักศึกษาปริญญาเอกครับ\" berarti \"Ini adalah disertasi milik mahasiswa doktoral.\"."
+        "explanation": "Kalimat \"นี่คือวิทยานิพนธ์ของนักศึกษาปริญญาเอกครับ\" (dibaca: nîi kheuu wít-thá-yaa-ní-phon khɔ̌ɔng nák-sʉ̀k-sǎa bpa-ring-yaa-èek khráp) berarti \"Ini adalah disertasi milik mahasiswa doktoral.\". Kalimat ini menggunakan pola \"Benda yang Dimiliki + ของ (khɔ̌ɔng) + Pemilik\" (Kepemilikan dengan ของ (khɔ̌ɔng)) yang berfungsi untuk kata ของ (khɔ̌ɔng) berarti 'milik/dari' dan diletakkan di antara benda yang dimiliki dan pemiliknya."
       },
       {
         "id": "q-th-gram-8-bb-2",
@@ -3932,7 +3932,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Pihak universitas memerlukan dokumen transkrip akademik resmi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"นักศึกษากำลังทำวิจัยในห้องปฏิบัติการอยู่ครับ\" berarti \"Mahasiswa sedang melakukan penelitian di laboratorium.\"."
+        "explanation": "Kalimat \"นักศึกษากำลังทำวิจัยในห้องปฏิบัติการอยู่ครับ\" (dibaca: nák-sʉ̀k-sǎa kam-lang tham wí-jai nai hɔ̂ng-bprà-dtì-bàt-gaan yùu khráp) berarti \"Mahasiswa sedang melakukan penelitian di laboratorium.\". Kalimat ini menggunakan pola \"กำลัง (kam-lang) + Verba + (อยู่ - yùu) & Verba + แล้ว (lɛ́ɛw)\" (Aspek Waktu Sedang กำลัง (kam-lang) & Sudah แล้ว (lɛ́ɛw)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung dengan กำลัง...อยู่ dan tindakan yang telah selesai dengan แล้ว di akhir klausa."
       },
       {
         "id": "q-th-gram-9-pg-2",
@@ -3948,7 +3948,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya belajar bahasa Thai (pria)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ฉันส่งใบสมัครทุนการศึกษาแล้วค่ะ\" berarti \"Saya sudah mengirimkan berkas pendaftaran beasiswa.\"."
+        "explanation": "Kalimat \"ฉันส่งใบสมัครทุนการศึกษาแล้วค่ะ\" (dibaca: chǎn sòng bai-sà-m̀ak thun gaan-sʉ̀k-sǎa lɛ́ɛw khâ) berarti \"Saya sudah mengirimkan berkas pendaftaran beasiswa.\". Kalimat ini menggunakan pola \"กำลัง (kam-lang) + Verba + (อยู่ - yùu) & Verba + แล้ว (lɛ́ɛw)\" (Aspek Waktu Sedang กำลัง (kam-lang) & Sudah แล้ว (lɛ́ɛw)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung dengan กำลัง...อยู่ dan tindakan yang telah selesai dengan แล้ว di akhir klausa."
       },
       {
         "id": "q-th-gram-9-pg-3",
@@ -3964,7 +3964,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dia makan ketan mangga."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"เขากำลังเขียนรายงานทางวิชาการอยู่ครับ\" berarti \"Dia sedang menulis laporan akademik.\"."
+        "explanation": "Kalimat \"เขากำลังเขียนรายงานทางวิชาการอยู่ครับ\" (dibaca: khǎo kam-lang khǐan raai-ngaan thaang wí-chaa-gaan yùu khráp) berarti \"Dia sedang menulis laporan akademik.\". Kalimat ini menggunakan pola \"กำลัง (kam-lang) + Verba + (อยู่ - yùu) & Verba + แล้ว (lɛ́ɛw)\" (Aspek Waktu Sedang กำลัง (kam-lang) & Sudah แล้ว (lɛ́ɛw)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung dengan กำลัง...อยู่ dan tindakan yang telah selesai dengan แล้ว di akhir klausa."
       },
       {
         "id": "q-th-gram-9-pg-4",
@@ -4271,7 +4271,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin mendaftar beasiswa pemerintah Thailand untuk kuliah S2."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"นักศึกษากำลังทำวิจัยในห้องปฏิบัติการอยู่ครับ\" berarti \"Mahasiswa sedang melakukan penelitian di laboratorium.\"."
+        "explanation": "Kalimat \"นักศึกษากำลังทำวิจัยในห้องปฏิบัติการอยู่ครับ\" (dibaca: nák-sʉ̀k-sǎa kam-lang tham wí-jai nai hɔ̂ng-bprà-dtì-bàt-gaan yùu khráp) berarti \"Mahasiswa sedang melakukan penelitian di laboratorium.\". Kalimat ini menggunakan pola \"กำลัง (kam-lang) + Verba + (อยู่ - yùu) & Verba + แล้ว (lɛ́ɛw)\" (Aspek Waktu Sedang กำลัง (kam-lang) & Sudah แล้ว (lɛ́ɛw)) yang berfungsi untuk menyatakan tindakan yang sedang berlangsung dengan กำลัง...อยู่ dan tindakan yang telah selesai dengan แล้ว di akhir klausa."
       },
       {
         "id": "q-th-gram-9-bb-2",
@@ -4415,7 +4415,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya suka masakan Thailand (wanita)."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ผมอยากสมัครทุนรัฐบาลไทยเพื่อเรียนต่อปริญญาโทครับ\" berarti \"Saya ingin mendaftar beasiswa pemerintah Thailand untuk kuliah S2.\"."
+        "explanation": "Kalimat \"ผมอยากสมัครทุนรัฐบาลไทยเพื่อเรียนต่อปริญญาโทครับ\" (dibaca: phǒm yàak sà-m̀ak thun rát-thà-baan thai phʉ̂a rian dtɔ̀ɔ bpa-ring-yaa thoo khráp) berarti \"Saya ingin mendaftar beasiswa pemerintah Thailand untuk kuliah S2.\". Kalimat ini menggunakan pola \"อยาก (yàak) + Verba & ต้องการ (dtɔ̂ng-gaan) + Kata Benda / Verba\" (Keinginan & Keperluan อยาก (yàak) vs ต้องการ (dtɔ̂ng-gaan)) yang berfungsi untuk gunakan อยาก untuk mengekspresikan keinginan pribadi kasual, dan ต้องการ untuk keperluan formal atau kebutuhan esensial."
       },
       {
         "id": "q-th-gram-10-pg-2",
@@ -4431,7 +4431,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dia adalah dosen di universitas."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ทางมหาวิทยาลัยต้องการเอกสารรับรองผลการเรียนค่ะ\" berarti \"Pihak universitas memerlukan dokumen transkrip akademik resmi.\"."
+        "explanation": "Kalimat \"ทางมหาวิทยาลัยต้องการเอกสารรับรองผลการเรียนค่ะ\" (dibaca: thaang má-hǎa-wít-thá-yaa-lai dtɔ̂ng-gaan èek-gà-sǎan ráp-rɔɔng phǒn gaan-sʉ̀k-sǎa khâ) berarti \"Pihak universitas memerlukan dokumen transkrip akademik resmi.\". Kalimat ini menggunakan pola \"อยาก (yàak) + Verba & ต้องการ (dtɔ̂ng-gaan) + Kata Benda / Verba\" (Keinginan & Keperluan อยาก (yàak) vs ต้องการ (dtɔ̂ng-gaan)) yang berfungsi untuk gunakan อยาก untuk mengekspresikan keinginan pribadi kasual, dan ต้องการ untuk keperluan formal atau kebutuhan esensial."
       },
       {
         "id": "q-th-gram-10-pg-3",
@@ -4447,7 +4447,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin meningkatkan keterampilan berbicara bahasa Thai agar lancar."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ฉันอยากพัฒนาทักษะการพูดภาษาไทยให้คล่องค่ะ\" berarti \"Saya ingin meningkatkan keterampilan berbicara bahasa Thai agar lancar.\"."
+        "explanation": "Kalimat \"ฉันอยากพัฒนาทักษะการพูดภาษาไทยให้คล่องค่ะ\" (dibaca: chǎn yàak phát-thá-naa thák-sà gaan-phûut phaa-sǎa thai hâi khlɔ̂ng khâ) berarti \"Saya ingin meningkatkan keterampilan berbicara bahasa Thai agar lancar.\". Kalimat ini menggunakan pola \"อยาก (yàak) + Verba & ต้องการ (dtɔ̂ng-gaan) + Kata Benda / Verba\" (Keinginan & Keperluan อยาก (yàak) vs ต้องการ (dtɔ̂ng-gaan)) yang berfungsi untuk gunakan อยาก untuk mengekspresikan keinginan pribadi kasual, dan ต้องการ untuk keperluan formal atau kebutuhan esensial."
       },
       {
         "id": "q-th-gram-10-pg-4",
@@ -4746,7 +4746,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya ingin mendaftar beasiswa pemerintah Thailand untuk kuliah S2."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ผมอยากสมัครทุนรัฐบาลไทยเพื่อเรียนต่อปริญญาโทครับ\" berarti \"Saya ingin mendaftar beasiswa pemerintah Thailand untuk kuliah S2.\"."
+        "explanation": "Kalimat \"ผมอยากสมัครทุนรัฐบาลไทยเพื่อเรียนต่อปริญญาโทครับ\" (dibaca: phǒm yàak sà-m̀ak thun rát-thà-baan thai phʉ̂a rian dtɔ̀ɔ bpa-ring-yaa thoo khráp) berarti \"Saya ingin mendaftar beasiswa pemerintah Thailand untuk kuliah S2.\". Kalimat ini menggunakan pola \"อยาก (yàak) + Verba & ต้องการ (dtɔ̂ng-gaan) + Kata Benda / Verba\" (Keinginan & Keperluan อยาก (yàak) vs ต้องการ (dtɔ̂ng-gaan)) yang berfungsi untuk gunakan อยาก untuk mengekspresikan keinginan pribadi kasual, dan ต้องการ untuk keperluan formal atau kebutuhan esensial."
       },
       {
         "id": "q-th-gram-10-bb-2",
@@ -4892,7 +4892,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya naik kereta layang pergi ujian di Fakultas Sains."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ผมพูดภาษาไทยได้นิดหน่อยครับ\" berarti \"Saya bisa berbicara bahasa Thai sedikit.\"."
+        "explanation": "Kalimat \"ผมพูดภาษาไทยได้นิดหน่อยครับ\" (dibaca: phǒm phûut phaa-sǎa thai dâi nít-nɔ̀y khráp) berarti \"Saya bisa berbicara bahasa Thai sedikit.\". Kalimat ini menggunakan pola \"Verba + ได้ (bisa secara umum) / เป็น (bisa karena belajar) / ไหว (mampu fisik/mental)\" (Modalitas Kemampuan ได้ (dâi) vs เป็น (bpen) vs ไหว (wǎi)) yang berfungsi untuk bahasa Thai membedakan kemampuan: ได้ untuk kesempatan/izin, เป็น untuk keahlian hasil belajar, dan ไหว untuk ketahanan fisik/mental."
       },
       {
         "id": "q-th-gram-11-pg-2",
@@ -4908,7 +4908,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda bisa berenang?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"คุณว่ายน้ำเป็นไหมคะ?\" berarti \"Apakah Anda bisa berenang?\"."
+        "explanation": "Kalimat \"คุณว่ายน้ำเป็นไหมคะ?\" (dibaca: khun wâai-náam bpen mǎi khá?) berarti \"Apakah Anda bisa berenang?\". Kalimat ini menggunakan pola \"Verba + ได้ (bisa secara umum) / เป็น (bisa karena belajar) / ไหว (mampu fisik/mental)\" (Modalitas Kemampuan ได้ (dâi) vs เป็น (bpen) vs ไหว (wǎi)) yang berfungsi untuk bahasa Thai membedakan kemampuan: ได้ untuk kesempatan/izin, เป็น untuk keahlian hasil belajar, dan ไหว untuk ketahanan fisik/mental."
       },
       {
         "id": "q-th-gram-11-pg-3",
@@ -4924,7 +4924,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Jika Profesor ada waktu luang, bolehkah saya berkonsultasi tentang topik penelitian?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"งานนี้หนักมากแต่ผมยังทำไหวครับ\" berarti \"Pekerjaan ini sangat berat tetapi saya masih sanggup mengerjakannya.\"."
+        "explanation": "Kalimat \"งานนี้หนักมากแต่ผมยังทำไหวครับ\" (dibaca: ngaan níi nàk mâak dtɛ̀ɛ phǒm yang tham wǎi khráp) berarti \"Pekerjaan ini sangat berat tetapi saya masih sanggup mengerjakannya.\". Kalimat ini menggunakan pola \"Verba + ได้ (bisa secara umum) / เป็น (bisa karena belajar) / ไหว (mampu fisik/mental)\" (Modalitas Kemampuan ได้ (dâi) vs เป็น (bpen) vs ไหว (wǎi)) yang berfungsi untuk bahasa Thai membedakan kemampuan: ได้ untuk kesempatan/izin, เป็น untuk keahlian hasil belajar, dan ไหว untuk ketahanan fisik/mental."
       },
       {
         "id": "q-th-gram-11-pg-4",
@@ -5229,7 +5229,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa berjalan meminjam buku di perpustakaan pusat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ผมพูดภาษาไทยได้นิดหน่อยครับ\" berarti \"Saya bisa berbicara bahasa Thai sedikit.\"."
+        "explanation": "Kalimat \"ผมพูดภาษาไทยได้นิดหน่อยครับ\" (dibaca: phǒm phûut phaa-sǎa thai dâi nít-nɔ̀y khráp) berarti \"Saya bisa berbicara bahasa Thai sedikit.\". Kalimat ini menggunakan pola \"Verba + ได้ (bisa secara umum) / เป็น (bisa karena belajar) / ไหว (mampu fisik/mental)\" (Modalitas Kemampuan ได้ (dâi) vs เป็น (bpen) vs ไหว (wǎi)) yang berfungsi untuk bahasa Thai membedakan kemampuan: ได้ untuk kesempatan/izin, เป็น untuk keahlian hasil belajar, dan ไหว untuk ketahanan fisik/mental."
       },
       {
         "id": "q-th-gram-11-bb-2",
@@ -5375,7 +5375,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Buku catatan diletakkan di atas meja kerja dosen."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"สมุดบันทึกวางอยู่บนโต๊ะทำงานของอาจารย์ครับ\" berarti \"Buku catatan diletakkan di atas meja kerja dosen.\"."
+        "explanation": "Kalimat \"สมุดบันทึกวางอยู่บนโต๊ะทำงานของอาจารย์ครับ\" (dibaca: sà-mùt ban-thʉ́k waang yùu bon dtó tham-ngaan khɔ̌ɔng aa-jaan khráp) berarti \"Buku catatan diletakkan di atas meja kerja dosen.\". Kalimat ini menggunakan pola \"Verba + อยู่ (yùu) + Preposisi + Tempat & Verba + ไป / มา\" (Preposisi Tempat & Arah (บน, ใต้, ใน, นอก, ไป, มา)) yang berfungsi untuk menunjukkan posisi benda menggunakan kata depan tempat dan menunjukkan arah gerakan menjauh (ไป) atau mendekat (มา)."
       },
       {
         "id": "q-th-gram-12-pg-2",
@@ -5391,7 +5391,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Karena dia selalu giat belajar sepanjang waktu, maka dia meraih predikat kehormatan pertama."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"กรุณานำเอกสารฉบับนี้กลับไปแก้ไขใหม่ค่ะ\" berarti \"Mohon bawa kembali dokumen ini untuk diperbaiki.\"."
+        "explanation": "Kalimat \"กรุณานำเอกสารฉบับนี้กลับไปแก้ไขใหม่ค่ะ\" (dibaca: gà-rú-naa nam èek-gà-sǎan chà-bàp níi glàp bpai gɛ̂ɛ-khǎi mài khâ) berarti \"Mohon bawa kembali dokumen ini untuk diperbaiki.\". Kalimat ini menggunakan pola \"Verba + อยู่ (yùu) + Preposisi + Tempat & Verba + ไป / มา\" (Preposisi Tempat & Arah (บน, ใต้, ใน, นอก, ไป, มา)) yang berfungsi untuk menunjukkan posisi benda menggunakan kata depan tempat dan menunjukkan arah gerakan menjauh (ไป) atau mendekat (มา)."
       },
       {
         "id": "q-th-gram-12-pg-3",
@@ -5407,7 +5407,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Karena cuaca buruk, penerbangan terpaksa ditunda keberangkatannya."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"เพื่อนร่วมชั้นเดินเข้ามาในห้องสัมมนา\" berarti \"Teman sekelas berjalan masuk ke dalam ruang seminar.\"."
+        "explanation": "Kalimat \"เพื่อนร่วมชั้นเดินเข้ามาในห้องสัมมนา\" (dibaca: phʉ̂an rûam chán dəən khâo maa nai hɔ̂ng sǎm-má-naa) berarti \"Teman sekelas berjalan masuk ke dalam ruang seminar.\". Kalimat ini menggunakan pola \"Verba + อยู่ (yùu) + Preposisi + Tempat & Verba + ไป / มา\" (Preposisi Tempat & Arah (บน, ใต้, ใน, นอก, ไป, มา)) yang berfungsi untuk menunjukkan posisi benda menggunakan kata depan tempat dan menunjukkan arah gerakan menjauh (ไป) atau mendekat (มา)."
       },
       {
         "id": "q-th-gram-12-pg-4",
@@ -5714,7 +5714,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda rajin membaca buku, Anda pasti akan lulus mata kuliah ini."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"สมุดบันทึกวางอยู่บนโต๊ะทำงานของอาจารย์ครับ\" berarti \"Buku catatan diletakkan di atas meja kerja dosen.\"."
+        "explanation": "Kalimat \"สมุดบันทึกวางอยู่บนโต๊ะทำงานของอาจารย์ครับ\" (dibaca: sà-mùt ban-thʉ́k waang yùu bon dtó tham-ngaan khɔ̌ɔng aa-jaan khráp) berarti \"Buku catatan diletakkan di atas meja kerja dosen.\". Kalimat ini menggunakan pola \"Verba + อยู่ (yùu) + Preposisi + Tempat & Verba + ไป / มา\" (Preposisi Tempat & Arah (บน, ใต้, ใน, นอก, ไป, มา)) yang berfungsi untuk menunjukkan posisi benda menggunakan kata depan tempat dan menunjukkan arah gerakan menjauh (ไป) atau mendekat (มา)."
       },
       {
         "id": "q-th-gram-12-bb-2",
@@ -5858,7 +5858,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya harus mengulang pelajaran dengan keras karena ujian kali ini sangat penting."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"นักศึกษาเดินไปยืมหนังสือที่ห้องสมุดกลางครับ\" berarti \"Mahasiswa berjalan meminjam buku di perpustakaan pusat.\"."
+        "explanation": "Kalimat \"นักศึกษาเดินไปยืมหนังสือที่ห้องสมุดกลางครับ\" (dibaca: nák-sʉ̀k-sǎa dəən bpai yʉʉm nǎng-sʉ̌ʉ thîi hɔ̂ng-sà-mùt glaang khráp) berarti \"Mahasiswa berjalan meminjam buku di perpustakaan pusat.\". Kalimat ini menggunakan pola \"Subjek + Verba 1 + (Objek 1) + Verba 2 + (Objek 2)\" (Konstruksi Kata Kerja Berangkai (Serial Verb Constructions)) yang berfungsi untuk bahasa Thai menggabungkan dua kata kerja atau lebih secara berurutan tanpa konjungsi untuk menyatakan rangkaian aksi terpadu."
       },
       {
         "id": "q-th-gram-13-pg-2",
@@ -5874,7 +5874,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Nilai ujiannya setinggi nilai tertinggi di kelas."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ฉันนั่งรถไฟฟ้าไปสอบที่คณะวิทยาศาสตร์ค่ะ\" berarti \"Saya naik kereta layang pergi ujian di Fakultas Sains.\"."
+        "explanation": "Kalimat \"ฉันนั่งรถไฟฟ้าไปสอบที่คณะวิทยาศาสตร์ค่ะ\" (dibaca: chǎn nâng rót-fai-fáa bpai sɔ̀ɔp thîi khá-ná wít-thá-yaa-sàat khâ) berarti \"Saya naik kereta layang pergi ujian di Fakultas Sains.\". Kalimat ini menggunakan pola \"Subjek + Verba 1 + (Objek 1) + Verba 2 + (Objek 2)\" (Konstruksi Kata Kerja Berangkai (Serial Verb Constructions)) yang berfungsi untuk bahasa Thai menggabungkan dua kata kerja atau lebih secara berurutan tanpa konjungsi untuk menyatakan rangkaian aksi terpadu."
       },
       {
         "id": "q-th-gram-13-pg-3",
@@ -5890,7 +5890,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Semua mahasiswa memiliki semangat belajar yang sama tingginya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"อาจารย์หยิบรายงานขึ้นมาอ่านอย่างละเอียด\" berarti \"Dosen mengambil laporan tersebut dan membacanya dengan teliti.\"."
+        "explanation": "Kalimat \"อาจารย์หยิบรายงานขึ้นมาอ่านอย่างละเอียด\" (dibaca: aa-jaan yìp raai-ngaan khʉ̂n maa àan yàang lá-ìat) berarti \"Dosen mengambil laporan tersebut dan membacanya dengan teliti.\". Kalimat ini menggunakan pola \"Subjek + Verba 1 + (Objek 1) + Verba 2 + (Objek 2)\" (Konstruksi Kata Kerja Berangkai (Serial Verb Constructions)) yang berfungsi untuk bahasa Thai menggabungkan dua kata kerja atau lebih secara berurutan tanpa konjungsi untuk menyatakan rangkaian aksi terpadu."
       },
       {
         "id": "q-th-gram-13-pg-4",
@@ -6197,7 +6197,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Karena dia selalu giat belajar sepanjang waktu, maka dia meraih predikat kehormatan pertama."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"นักศึกษาเดินไปยืมหนังสือที่ห้องสมุดกลางครับ\" berarti \"Mahasiswa berjalan meminjam buku di perpustakaan pusat.\"."
+        "explanation": "Kalimat \"นักศึกษาเดินไปยืมหนังสือที่ห้องสมุดกลางครับ\" (dibaca: nák-sʉ̀k-sǎa dəən bpai yʉʉm nǎng-sʉ̌ʉ thîi hɔ̂ng-sà-mùt glaang khráp) berarti \"Mahasiswa berjalan meminjam buku di perpustakaan pusat.\". Kalimat ini menggunakan pola \"Subjek + Verba 1 + (Objek 1) + Verba 2 + (Objek 2)\" (Konstruksi Kata Kerja Berangkai (Serial Verb Constructions)) yang berfungsi untuk bahasa Thai menggabungkan dua kata kerja atau lebih secara berurutan tanpa konjungsi untuk menyatakan rangkaian aksi terpadu."
       },
       {
         "id": "q-th-gram-13-bb-2",
@@ -6341,7 +6341,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Aksen bahasa Thai Anda merdu seperti orang Bangkok asli."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ถ้าคุณขยันอ่านหนังสือ คุณก็จะสอบผ่านวิชานี้แน่นอนครับ\" berarti \"Jika Anda rajin membaca buku, Anda pasti akan lulus mata kuliah ini.\"."
+        "explanation": "Kalimat \"ถ้าคุณขยันอ่านหนังสือ คุณก็จะสอบผ่านวิชานี้แน่นอนครับ\" (dibaca: thâa khun khà-yǎn àan nǎng-sʉ̌ʉ khun gɔ̂ jà sɔ̀ɔp phàan wí-chaa níi nɛ̂ɛ-nɔɔn khráp) berarti \"Jika Anda rajin membaca buku, Anda pasti akan lulus mata kuliah ini.\". Kalimat ini menggunakan pola \"ถ้า (thâa) + Klausa Syarat + ก็ (gɔ̂) + Klausa Akibat\" (Kalimat Pengandaian Kalau... Maka... ถ้า...ก็ (thâa...gɔ̂)) yang berfungsi untuk membentuk kalimat kondisional dengan meletakkan ถ้า di awal syarat dan ก็ di depan predikat klausa akibat."
       },
       {
         "id": "q-th-gram-14-pg-2",
@@ -6357,7 +6357,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Draf laporan dikembalikan oleh dosen untuk direvisi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"หากได้รับทุนการศึกษา ฉันก็พร้อมจะเดินทางไปเรียนต่อค่ะ\" berarti \"Jika menerima beasiswa, saya siap berangkat melanjutkan studi.\"."
+        "explanation": "Kalimat \"หากได้รับทุนการศึกษา ฉันก็พร้อมจะเดินทางไปเรียนต่อค่ะ\" (dibaca: hàak dâi ráp thun gaan-sʉ̀k-sǎa chǎn gɔ̂ phrɔ́ɔm jà dəən-thaang bpai rian dtɔ̀ɔ khâ) berarti \"Jika menerima beasiswa, saya siap berangkat melanjutkan studi.\". Kalimat ini menggunakan pola \"ถ้า (thâa) + Klausa Syarat + ก็ (gɔ̂) + Klausa Akibat\" (Kalimat Pengandaian Kalau... Maka... ถ้า...ก็ (thâa...gɔ̂)) yang berfungsi untuk membentuk kalimat kondisional dengan meletakkan ถ้า di awal syarat dan ก็ di depan predikat klausa akibat."
       },
       {
         "id": "q-th-gram-14-pg-3",
@@ -6373,7 +6373,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Jika Profesor ada waktu luang, bolehkah saya berkonsultasi tentang topik penelitian?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ถ้าอาจารย์ว่าง ผมขอเข้าไปปรึกษาหัวข้อวิจัยได้ไหมครับ?\" berarti \"Jika Profesor ada waktu luang, bolehkah saya berkonsultasi tentang topik penelitian?\"."
+        "explanation": "Kalimat \"ถ้าอาจารย์ว่าง ผมขอเข้าไปปรึกษาหัวข้อวิจัยได้ไหมครับ?\" (dibaca: thâa aa-jaan wâang phǒm khɔ̌ɔ khâo bpai bprʉ̀k-sǎa hǔa-khɔ̂ɔ wí-jai dâi mǎi khráp?) berarti \"Jika Profesor ada waktu luang, bolehkah saya berkonsultasi tentang topik penelitian?\". Kalimat ini menggunakan pola \"ถ้า (thâa) + Klausa Syarat + ก็ (gɔ̂) + Klausa Akibat\" (Kalimat Pengandaian Kalau... Maka... ถ้า...ก็ (thâa...gɔ̂)) yang berfungsi untuk membentuk kalimat kondisional dengan meletakkan ถ้า di awal syarat dan ก็ di depan predikat klausa akibat."
       },
       {
         "id": "q-th-gram-14-pg-4",
@@ -6680,7 +6680,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda rajin membaca buku, Anda pasti akan lulus mata kuliah ini."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ถ้าคุณขยันอ่านหนังสือ คุณก็จะสอบผ่านวิชานี้แน่นอนครับ\" berarti \"Jika Anda rajin membaca buku, Anda pasti akan lulus mata kuliah ini.\"."
+        "explanation": "Kalimat \"ถ้าคุณขยันอ่านหนังสือ คุณก็จะสอบผ่านวิชานี้แน่นอนครับ\" (dibaca: thâa khun khà-yǎn àan nǎng-sʉ̌ʉ khun gɔ̂ jà sɔ̀ɔp phàan wí-chaa níi nɛ̂ɛ-nɔɔn khráp) berarti \"Jika Anda rajin membaca buku, Anda pasti akan lulus mata kuliah ini.\". Kalimat ini menggunakan pola \"ถ้า (thâa) + Klausa Syarat + ก็ (gɔ̂) + Klausa Akibat\" (Kalimat Pengandaian Kalau... Maka... ถ้า...ก็ (thâa...gɔ̂)) yang berfungsi untuk membentuk kalimat kondisional dengan meletakkan ถ้า di awal syarat dan ก็ di depan predikat klausa akibat."
       },
       {
         "id": "q-th-gram-14-bb-2",
@@ -6824,7 +6824,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang datang terlambat dipotong nilai kedisiplinannya."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"เพราะเขาตั้งใจเรียนมาโดยตลอด จึงได้รับเกียรตินิยมอันดับหนึ่งครับ\" berarti \"Karena dia selalu giat belajar sepanjang waktu, maka dia meraih predikat kehormatan pertama.\"."
+        "explanation": "Kalimat \"เพราะเขาตั้งใจเรียนมาโดยตลอด จึงได้รับเกียรตินิยมอันดับหนึ่งครับ\" (dibaca: phrɔ́ khǎo dtâng-jai rian maa dooy dtà-lɔ̀ɔt jʉng dâi ráp gìat-dtì-ní-yom an-dàp nʉ̀ng khráp) berarti \"Karena dia selalu giat belajar sepanjang waktu, maka dia meraih predikat kehormatan pertama.\". Kalimat ini menggunakan pola \"เพราะ / เพราะว่า (phrɔ́-wâa) + Alasan + จึง (jʉng) + Akibat\" (Hubungan Sebab-Akibat Karena... Maka... เพราะ...จึง (phrɔ́...jʉng)) yang berfungsi untuk menghubungkan alasan dan kesimpulan tindakan menggunakan kata sambung karena (เพราะ) dan oleh sebab itu (จึง)."
       },
       {
         "id": "q-th-gram-15-pg-2",
@@ -6840,7 +6840,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya harus mengulang pelajaran dengan keras karena ujian kali ini sangat penting."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ฉันต้องทบทวนบทเรียนอย่างหนัก เพราะการสอบครั้งนี้สำคัญมากค่ะ\" berarti \"Saya harus mengulang pelajaran dengan keras karena ujian kali ini sangat penting.\"."
+        "explanation": "Kalimat \"ฉันต้องทบทวนบทเรียนอย่างหนัก เพราะการสอบครั้งนี้สำคัญมากค่ะ\" (dibaca: chǎn dtɔ̂ng thóp-thuan bòt-rian yàang nàk phrɔ́ gaan-sɔ̀ɔp khráng níi sǎm-khan mâak khâ) berarti \"Saya harus mengulang pelajaran dengan keras karena ujian kali ini sangat penting.\". Kalimat ini menggunakan pola \"เพราะ / เพราะว่า (phrɔ́-wâa) + Alasan + จึง (jʉng) + Akibat\" (Hubungan Sebab-Akibat Karena... Maka... เพราะ...จึง (phrɔ́...jʉng)) yang berfungsi untuk menghubungkan alasan dan kesimpulan tindakan menggunakan kata sambung karena (เพราะ) dan oleh sebab itu (จึง)."
       },
       {
         "id": "q-th-gram-15-pg-3",
@@ -6856,7 +6856,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mohon matikan telepon seluler sebelum memasuki ruang ujian tertulis."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"เพราะว่าสภาพอากาศแปรปรวน เที่ยวบินจึงต้องเลื่อนเวลาออกไป\" berarti \"Karena cuaca buruk, penerbangan terpaksa ditunda keberangkatannya.\"."
+        "explanation": "Kalimat \"เพราะว่าสภาพอากาศแปรปรวน เที่ยวบินจึงต้องเลื่อนเวลาออกไป\" (dibaca: phrɔ́-wâa sà-phǎap aa-gàat bprɛɛ-bpruan thîaw-bin jʉng dtɔ̂ng lʉ̂an wee-laa ɔ̀ɔk bpai) berarti \"Karena cuaca buruk, penerbangan terpaksa ditunda keberangkatannya.\". Kalimat ini menggunakan pola \"เพราะ / เพราะว่า (phrɔ́-wâa) + Alasan + จึง (jʉng) + Akibat\" (Hubungan Sebab-Akibat Karena... Maka... เพราะ...จึง (phrɔ́...jʉng)) yang berfungsi untuk menghubungkan alasan dan kesimpulan tindakan menggunakan kata sambung karena (เพราะ) dan oleh sebab itu (จึง)."
       },
       {
         "id": "q-th-gram-15-pg-4",
@@ -7163,7 +7163,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Draf laporan dikembalikan oleh dosen untuk direvisi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"เพราะเขาตั้งใจเรียนมาโดยตลอด จึงได้รับเกียรตินิยมอันดับหนึ่งครับ\" berarti \"Karena dia selalu giat belajar sepanjang waktu, maka dia meraih predikat kehormatan pertama.\"."
+        "explanation": "Kalimat \"เพราะเขาตั้งใจเรียนมาโดยตลอด จึงได้รับเกียรตินิยมอันดับหนึ่งครับ\" (dibaca: phrɔ́ khǎo dtâng-jai rian maa dooy dtà-lɔ̀ɔt jʉng dâi ráp gìat-dtì-ní-yom an-dàp nʉ̀ng khráp) berarti \"Karena dia selalu giat belajar sepanjang waktu, maka dia meraih predikat kehormatan pertama.\". Kalimat ini menggunakan pola \"เพราะ / เพราะว่า (phrɔ́-wâa) + Alasan + จึง (jʉng) + Akibat\" (Hubungan Sebab-Akibat Karena... Maka... เพราะ...จึง (phrɔ́...jʉng)) yang berfungsi untuk menghubungkan alasan dan kesimpulan tindakan menggunakan kata sambung karena (เพราะ) dan oleh sebab itu (จึง)."
       },
       {
         "id": "q-th-gram-15-bb-2",
@@ -7307,7 +7307,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Nilai ujiannya setinggi nilai tertinggi di kelas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"คะแนนสอบของเขาสูงเท่ากับคะแนนสูงสุดของชั้นเรียนครับ\" berarti \"Nilai ujiannya setinggi nilai tertinggi di kelas.\"."
+        "explanation": "Kalimat \"คะแนนสอบของเขาสูงเท่ากับคะแนนสูงสุดของชั้นเรียนครับ\" (dibaca: khá-nɛɛn sɔ̀ɔp khɔ̌ɔng khǎo sǔung thâo-gàp khá-nɛɛn sǔung-sùt khɔ̌ɔng chán rian khráp) berarti \"Nilai ujiannya setinggi nilai tertinggi di kelas.\". Kalimat ini menggunakan pola \"A + เท่ากับ (thâo-gàp) + B & A + เหมือน (mʉ̌an) + B\" (Perbandingan Kesetaraan เท่ากับ (thâo-gàp) & เหมือน (mʉ̌an)) yang berfungsi untuk menyatakan kesetaraan kuantitas atau ukuran dengan เท่ากับ dan menyatakan kesamaan rupa atau sifat dengan เหมือน."
       },
       {
         "id": "q-th-gram-16-pg-2",
@@ -7323,7 +7323,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya sudah belajar bahasa Thai selama kurun waktu satu tahun."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"สำเนียงภาษาไทยของคุณไพเราะเหมือนคนกรุงเทพฯ เลยค่ะ\" berarti \"Aksen bahasa Thai Anda merdu seperti orang Bangkok asli.\"."
+        "explanation": "Kalimat \"สำเนียงภาษาไทยของคุณไพเราะเหมือนคนกรุงเทพฯ เลยค่ะ\" (dibaca: sǎm-niiang phaa-sǎa thai khɔ̌ɔng khun phai-rɔ́ mʉ̌an khon grung-thêep ləəi khâ) berarti \"Aksen bahasa Thai Anda merdu seperti orang Bangkok asli.\". Kalimat ini menggunakan pola \"A + เท่ากับ (thâo-gàp) + B & A + เหมือน (mʉ̌an) + B\" (Perbandingan Kesetaraan เท่ากับ (thâo-gàp) & เหมือน (mʉ̌an)) yang berfungsi untuk menyatakan kesetaraan kuantitas atau ukuran dengan เท่ากับ dan menyatakan kesamaan rupa atau sifat dengan เหมือน."
       },
       {
         "id": "q-th-gram-16-pg-3",
@@ -7339,7 +7339,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mengerjakan latihan soal tiga kali seminggu membantu pemahaman materi menjadi lebih baik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"นักศึกษาทุกคนมีความตั้งใจในการเรียนเหมือนกันหมด\" berarti \"Semua mahasiswa memiliki semangat belajar yang sama tingginya.\"."
+        "explanation": "Kalimat \"นักศึกษาทุกคนมีความตั้งใจในการเรียนเหมือนกันหมด\" (dibaca: nák-sʉ̀k-sǎa thúk khon mii khwaam dtâng-jai nai gaan rian mʉ̌an-gan mòt) berarti \"Semua mahasiswa memiliki semangat belajar yang sama tingginya.\". Kalimat ini menggunakan pola \"A + เท่ากับ (thâo-gàp) + B & A + เหมือน (mʉ̌an) + B\" (Perbandingan Kesetaraan เท่ากับ (thâo-gàp) & เหมือน (mʉ̌an)) yang berfungsi untuk menyatakan kesetaraan kuantitas atau ukuran dengan เท่ากับ dan menyatakan kesamaan rupa atau sifat dengan เหมือน."
       },
       {
         "id": "q-th-gram-16-pg-4",
@@ -7646,7 +7646,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mohon izin masuk menemui dosen di ruang kerja dosen."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"คะแนนสอบของเขาสูงเท่ากับคะแนนสูงสุดของชั้นเรียนครับ\" berarti \"Nilai ujiannya setinggi nilai tertinggi di kelas.\"."
+        "explanation": "Kalimat \"คะแนนสอบของเขาสูงเท่ากับคะแนนสูงสุดของชั้นเรียนครับ\" (dibaca: khá-nɛɛn sɔ̀ɔp khɔ̌ɔng khǎo sǔung thâo-gàp khá-nɛɛn sǔung-sùt khɔ̌ɔng chán rian khráp) berarti \"Nilai ujiannya setinggi nilai tertinggi di kelas.\". Kalimat ini menggunakan pola \"A + เท่ากับ (thâo-gàp) + B & A + เหมือน (mʉ̌an) + B\" (Perbandingan Kesetaraan เท่ากับ (thâo-gàp) & เหมือน (mʉ̌an)) yang berfungsi untuk menyatakan kesetaraan kuantitas atau ukuran dengan เท่ากับ dan menyatakan kesamaan rupa atau sifat dengan เหมือน."
       },
       {
         "id": "q-th-gram-16-bb-2",
@@ -7790,7 +7790,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Seberapa sering Anda pulang mengunjungi keluarga di kampung halaman?"
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"รายงานฉบับร่างถูกอาจารย์ส่งกลับมาให้แก้ไขใหม่ครับ\" berarti \"Draf laporan dikembalikan oleh dosen untuk direvisi.\"."
+        "explanation": "Kalimat \"รายงานฉบับร่างถูกอาจารย์ส่งกลับมาให้แก้ไขใหม่ครับ\" (dibaca: raai-ngaan chà-bàp râang thùuk aa-jaan sòng glàp maa hâi gɛ̂ɛ-khǎi mài khráp) berarti \"Draf laporan dikembalikan oleh dosen untuk direvisi.\". Kalimat ini menggunakan pola \"Subjek + ถูก / โดน + (Pelaku) + Verba Tindakan Negatif\" (Konstruksi Pasif Ditimpa ถูก (thùuk) vs โดน (doon)) yang berfungsi untuk kalimat pasif dalam bahasa Thai secara tradisional membawa konotasi mengalami hal buruk atau dirugikan (adversative passive)."
       },
       {
         "id": "q-th-gram-17-pg-2",
@@ -7806,7 +7806,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Setelah berlatih setiap hari, kemampuan menulisnya berkembang menjadi jauh lebih baik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"นักศึกษาที่มาสายโดนหักคะแนนความประพฤติค่ะ\" berarti \"Mahasiswa yang datang terlambat dipotong nilai kedisiplinannya.\"."
+        "explanation": "Kalimat \"นักศึกษาที่มาสายโดนหักคะแนนความประพฤติค่ะ\" (dibaca: nák-sʉ̀k-sǎa thîi maa sǎai doon hàk khá-nɛɛn khwaam-bprà-phrʉ́t khâ) berarti \"Mahasiswa yang datang terlambat dipotong nilai kedisiplinannya.\". Kalimat ini menggunakan pola \"Subjek + ถูก / โดน + (Pelaku) + Verba Tindakan Negatif\" (Konstruksi Pasif Ditimpa ถูก (thùuk) vs โดน (doon)) yang berfungsi untuk kalimat pasif dalam bahasa Thai secara tradisional membawa konotasi mengalami hal buruk atau dirugikan (adversative passive)."
       },
       {
         "id": "q-th-gram-17-pg-3",
@@ -7822,7 +7822,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Suhu di dalam ruang eksperimen mulai menurun sesuai prosedur pengujian."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"โครงการวิจัยนี้ได้รับการสนับสนุนงบประมาณจากรัฐบาล\" berarti \"Proyek penelitian ini menerima dukungan anggaran dana dari pemerintah.\"."
+        "explanation": "Kalimat \"โครงการวิจัยนี้ได้รับการสนับสนุนงบประมาณจากรัฐบาล\" (dibaca: khroong-gaan wí-jai níi dâi ráp gaan-sà-nàp-sà-nǔn ngóp-bprà-maan jàak rát-thà-baan) berarti \"Proyek penelitian ini menerima dukungan anggaran dana dari pemerintah.\". Kalimat ini menggunakan pola \"Subjek + ถูก / โดน + (Pelaku) + Verba Tindakan Negatif\" (Konstruksi Pasif Ditimpa ถูก (thùuk) vs โดน (doon)) yang berfungsi untuk kalimat pasif dalam bahasa Thai secara tradisional membawa konotasi mengalami hal buruk atau dirugikan (adversative passive)."
       },
       {
         "id": "q-th-gram-17-pg-4",
@@ -8129,7 +8129,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya sudah belajar bahasa Thai selama kurun waktu satu tahun."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"รายงานฉบับร่างถูกอาจารย์ส่งกลับมาให้แก้ไขใหม่ครับ\" berarti \"Draf laporan dikembalikan oleh dosen untuk direvisi.\"."
+        "explanation": "Kalimat \"รายงานฉบับร่างถูกอาจารย์ส่งกลับมาให้แก้ไขใหม่ครับ\" (dibaca: raai-ngaan chà-bàp râang thùuk aa-jaan sòng glàp maa hâi gɛ̂ɛ-khǎi mài khráp) berarti \"Draf laporan dikembalikan oleh dosen untuk direvisi.\". Kalimat ini menggunakan pola \"Subjek + ถูก / โดน + (Pelaku) + Verba Tindakan Negatif\" (Konstruksi Pasif Ditimpa ถูก (thùuk) vs โดน (doon)) yang berfungsi untuk kalimat pasif dalam bahasa Thai secara tradisional membawa konotasi mengalami hal buruk atau dirugikan (adversative passive)."
       },
       {
         "id": "q-th-gram-17-bb-2",
@@ -8274,7 +8274,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kawasan ini telah bertransformasi menjadi pusat riset teknologi paling modern di kawasan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ขออนุญาตเข้าไปพบอาจารย์ในห้องพักอาจารย์ครับ\" berarti \"Mohon izin masuk menemui dosen di ruang kerja dosen.\"."
+        "explanation": "Kalimat \"ขออนุญาตเข้าไปพบอาจารย์ในห้องพักอาจารย์ครับ\" (dibaca: khɔ̌ɔ à-nú-yâat khâo bpai phóp aa-jaan nai hɔ̂ng-phák aa-jaan khráp) berarti \"Mohon izin masuk menemui dosen di ruang kerja dosen.\". Kalimat ini menggunakan pola \"ขอ (khɔ̌ɔ) + Kata Benda / Verba & ช่วย (chûay) + Verba + หน่อย (nɔ̀y)\" (Permohonan & Izin dengan ขอ (khɔ̌ɔ) & ช่วย (chûay)) yang berfungsi untuk meminta izin atau meminta benda dengan ขอ dan meminta bantuan orang lain melakukan sesuatu dengan ช่วย...หน่อย."
       },
       {
         "id": "q-th-gram-18-pg-2",
@@ -8290,7 +8290,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya bisa berbicara bahasa Thai sedikit."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ช่วยอธิบายข้อความในหน้านี้ให้ฟังอีกครั้งได้ไหมคะ?\" berarti \"Bisakah tolong jelaskan kembali teks di halaman ini kepada saya?\"."
+        "explanation": "Kalimat \"ช่วยอธิบายข้อความในหน้านี้ให้ฟังอีกครั้งได้ไหมคะ?\" (dibaca: chûay à-thí-baai khɔ̂ɔ-khwaam nai nâa níi hâi fang ìik khráng dâi mǎi khá?) berarti \"Bisakah tolong jelaskan kembali teks di halaman ini kepada saya?\". Kalimat ini menggunakan pola \"ขอ (khɔ̌ɔ) + Kata Benda / Verba & ช่วย (chûay) + Verba + หน่อย (nɔ̀y)\" (Permohonan & Izin dengan ขอ (khɔ̌ɔ) & ช่วย (chûay)) yang berfungsi untuk meminta izin atau meminta benda dengan ขอ dan meminta bantuan orang lain melakukan sesuatu dengan ช่วย...หน่อย."
       },
       {
         "id": "q-th-gram-18-pg-3",
@@ -8306,7 +8306,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mohon matikan telepon seluler sebelum memasuki ruang ujian tertulis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"กรุณาปิดโทรศัพท์มือถือก่อนเข้าห้องสอบข้อเขียน\" berarti \"Mohon matikan telepon seluler sebelum memasuki ruang ujian tertulis.\"."
+        "explanation": "Kalimat \"กรุณาปิดโทรศัพท์มือถือก่อนเข้าห้องสอบข้อเขียน\" (dibaca: gà-rú-naa bpìt thoo-rá-sàp mʉʉ-thʉ̌ʉ gɔ̀ɔn khâo hɔ̂ng sɔ̀ɔp khɔ̂ɔ-khǐan) berarti \"Mohon matikan telepon seluler sebelum memasuki ruang ujian tertulis.\". Kalimat ini menggunakan pola \"ขอ (khɔ̌ɔ) + Kata Benda / Verba & ช่วย (chûay) + Verba + หน่อย (nɔ̀y)\" (Permohonan & Izin dengan ขอ (khɔ̌ɔ) & ช่วย (chûay)) yang berfungsi untuk meminta izin atau meminta benda dengan ขอ dan meminta bantuan orang lain melakukan sesuatu dengan ช่วย...หน่อย."
       },
       {
         "id": "q-th-gram-18-pg-4",
@@ -8613,7 +8613,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mohon izin masuk menemui dosen di ruang kerja dosen."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ขออนุญาตเข้าไปพบอาจารย์ในห้องพักอาจารย์ครับ\" berarti \"Mohon izin masuk menemui dosen di ruang kerja dosen.\"."
+        "explanation": "Kalimat \"ขออนุญาตเข้าไปพบอาจารย์ในห้องพักอาจารย์ครับ\" (dibaca: khɔ̌ɔ à-nú-yâat khâo bpai phóp aa-jaan nai hɔ̂ng-phák aa-jaan khráp) berarti \"Mohon izin masuk menemui dosen di ruang kerja dosen.\". Kalimat ini menggunakan pola \"ขอ (khɔ̌ɔ) + Kata Benda / Verba & ช่วย (chûay) + Verba + หน่อย (nɔ̀y)\" (Permohonan & Izin dengan ขอ (khɔ̌ɔ) & ช่วย (chûay)) yang berfungsi untuk meminta izin atau meminta benda dengan ขอ dan meminta bantuan orang lain melakukan sesuatu dengan ช่วย...หน่อย."
       },
       {
         "id": "q-th-gram-18-bb-2",
@@ -8757,7 +8757,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Apakah Anda bisa berenang?"
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ผมเรียนภาษาไทยมาเป็นเวลาหนึ่งปีแล้วครับ\" berarti \"Saya sudah belajar bahasa Thai selama kurun waktu satu tahun.\"."
+        "explanation": "Kalimat \"ผมเรียนภาษาไทยมาเป็นเวลาหนึ่งปีแล้วครับ\" (dibaca: phǒm rian phaa-sǎa thai maa bpen wee-laa nʉ̀ng bpii lɛ́ɛw khráp) berarti \"Saya sudah belajar bahasa Thai selama kurun waktu satu tahun.\". Kalimat ini menggunakan pola \"Verba + (เป็นเวลา) + Durasi Waktu & Frekuensi + ต่อ / ละ + Periode\" (Durasi & Frekuensi Waktu (นานเท่าไหร่, บ่อยแค่ไหน)) yang berfungsi untuk menyatakan berapa lama suatu aksi berlangsung serta seberapa sering tindakan tersebut berulang secara teratur."
       },
       {
         "id": "q-th-gram-19-pg-2",
@@ -8773,7 +8773,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Seberapa sering Anda pulang mengunjungi keluarga di kampung halaman?"
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"คุณกลับไปเยี่ยมครอบครัวที่บ้านเกิดบ่อยแค่ไหนคะ?\" berarti \"Seberapa sering Anda pulang mengunjungi keluarga di kampung halaman?\"."
+        "explanation": "Kalimat \"คุณกลับไปเยี่ยมครอบครัวที่บ้านเกิดบ่อยแค่ไหนคะ?\" (dibaca: khun glàp bpai yîam khrɔ̂ɔp-khrua thîi bâan-gə̀ət bɔ̀y khɛ̂ɛ nǎi khá?) berarti \"Seberapa sering Anda pulang mengunjungi keluarga di kampung halaman?\". Kalimat ini menggunakan pola \"Verba + (เป็นเวลา) + Durasi Waktu & Frekuensi + ต่อ / ละ + Periode\" (Durasi & Frekuensi Waktu (นานเท่าไหร่, บ่อยแค่ไหน)) yang berfungsi untuk menyatakan berapa lama suatu aksi berlangsung serta seberapa sering tindakan tersebut berulang secara teratur."
       },
       {
         "id": "q-th-gram-19-pg-3",
@@ -8789,7 +8789,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Teman sekelas berjalan masuk ke dalam ruang seminar."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"การทำแบบฝึกหัดสัปดาห์ละสามครั้งช่วยให้เข้าใจบทเรียนดีขึ้น\" berarti \"Mengerjakan latihan soal tiga kali seminggu membantu pemahaman materi menjadi lebih baik.\"."
+        "explanation": "Kalimat \"การทำแบบฝึกหัดสัปดาห์ละสามครั้งช่วยให้เข้าใจบทเรียนดีขึ้น\" (dibaca: gaan tham bɛ̀ɛp-fʉ̀k-hàt sàp-daa lá sǎam khráng chûay hâi khâo-jai bòt-rian dii khʉ̂n) berarti \"Mengerjakan latihan soal tiga kali seminggu membantu pemahaman materi menjadi lebih baik.\". Kalimat ini menggunakan pola \"Verba + (เป็นเวลา) + Durasi Waktu & Frekuensi + ต่อ / ละ + Periode\" (Durasi & Frekuensi Waktu (นานเท่าไหร่, บ่อยแค่ไหน)) yang berfungsi untuk menyatakan berapa lama suatu aksi berlangsung serta seberapa sering tindakan tersebut berulang secara teratur."
       },
       {
         "id": "q-th-gram-19-pg-4",
@@ -9094,7 +9094,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Saya bisa berbicara bahasa Thai sedikit."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ผมเรียนภาษาไทยมาเป็นเวลาหนึ่งปีแล้วครับ\" berarti \"Saya sudah belajar bahasa Thai selama kurun waktu satu tahun.\"."
+        "explanation": "Kalimat \"ผมเรียนภาษาไทยมาเป็นเวลาหนึ่งปีแล้วครับ\" (dibaca: phǒm rian phaa-sǎa thai maa bpen wee-laa nʉ̀ng bpii lɛ́ɛw khráp) berarti \"Saya sudah belajar bahasa Thai selama kurun waktu satu tahun.\". Kalimat ini menggunakan pola \"Verba + (เป็นเวลา) + Durasi Waktu & Frekuensi + ต่อ / ละ + Periode\" (Durasi & Frekuensi Waktu (นานเท่าไหร่, บ่อยแค่ไหน)) yang berfungsi untuk menyatakan berapa lama suatu aksi berlangsung serta seberapa sering tindakan tersebut berulang secara teratur."
       },
       {
         "id": "q-th-gram-19-bb-2",
@@ -9240,7 +9240,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Setelah berlatih setiap hari, kemampuan menulisnya berkembang menjadi jauh lebih baik."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"หลังจากฝึกฝนทุกวัน ทักษะการเขียนของเขาก็พัฒนาดีขึ้นมากครับ\" berarti \"Setelah berlatih setiap hari, kemampuan menulisnya berkembang menjadi jauh lebih baik.\"."
+        "explanation": "Kalimat \"หลังจากฝึกฝนทุกวัน ทักษะการเขียนของเขาก็พัฒนาดีขึ้นมากครับ\" (dibaca: lǎng jàak fʉ̀k-fǒn thúk wan thák-sà gaan-khǐan khɔ̌ɔng khǎo gɔ̂ phát-thá-naa dii khʉ̂n mâak khráp) berarti \"Setelah berlatih setiap hari, kemampuan menulisnya berkembang menjadi jauh lebih baik.\". Kalimat ini menggunakan pola \"กลายเป็น (klaai bpen) + Kata Benda & Adjektiva + ขึ้น (khʉ̂n) / ลง (long)\" (Perubahan Keadaan กลายเป็น (klaai bpen) & ขึ้น/ลง) yang berfungsi untuk menunjukkan transformasi wujud dengan กลายเป็น dan peningkatan (ขึ้น) atau penurunan (ลง) intensitas suatu keadaan."
       },
       {
         "id": "q-th-gram-20-pg-2",
@@ -9256,7 +9256,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa berjalan meminjam buku di perpustakaan pusat."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"บริเวณนี้กลายเป็นศูนย์วิจัยเทคโนโลยีที่ทันสมัยที่สุดในภูมิภาคค่ะ\" berarti \"Kawasan ini telah bertransformasi menjadi pusat riset teknologi paling modern di kawasan.\"."
+        "explanation": "Kalimat \"บริเวณนี้กลายเป็นศูนย์วิจัยเทคโนโลยีที่ทันสมัยที่สุดในภูมิภาคค่ะ\" (dibaca: bɔɔ-rí-ween níi klaai bpen sǔun wí-jai thék-noo-loo-yîi thîi than-sà-mǎi thîi-sùt nai phuu-mí-phâak khâ) berarti \"Kawasan ini telah bertransformasi menjadi pusat riset teknologi paling modern di kawasan.\". Kalimat ini menggunakan pola \"กลายเป็น (klaai bpen) + Kata Benda & Adjektiva + ขึ้น (khʉ̂n) / ลง (long)\" (Perubahan Keadaan กลายเป็น (klaai bpen) & ขึ้น/ลง) yang berfungsi untuk menunjukkan transformasi wujud dengan กลายเป็น dan peningkatan (ขึ้น) atau penurunan (ลง) intensitas suatu keadaan."
       },
       {
         "id": "q-th-gram-20-pg-3",
@@ -9272,7 +9272,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dosen mengambil laporan tersebut dan membacanya dengan teliti."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"อุณหภูมิในห้องทดลองเริ่มลดลงตามข้อกำหนดการทดลอง\" berarti \"Suhu di dalam ruang eksperimen mulai menurun sesuai prosedur pengujian.\"."
+        "explanation": "Kalimat \"อุณหภูมิในห้องทดลองเริ่มลดลงตามข้อกำหนดการทดลอง\" (dibaca: un-hà-phuum nai hɔ̂ng thót-lɔɔng rə̂əm lót long dtaam khɔ̂ɔ-gam-nòt gaan thót-lɔɔng) berarti \"Suhu di dalam ruang eksperimen mulai menurun sesuai prosedur pengujian.\". Kalimat ini menggunakan pola \"กลายเป็น (klaai bpen) + Kata Benda & Adjektiva + ขึ้น (khʉ̂n) / ลง (long)\" (Perubahan Keadaan กลายเป็น (klaai bpen) & ขึ้น/ลง) yang berfungsi untuk menunjukkan transformasi wujud dengan กลายเป็น dan peningkatan (ขึ้น) atau penurunan (ลง) intensitas suatu keadaan."
       },
       {
         "id": "q-th-gram-20-pg-4",
@@ -9579,7 +9579,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Buku catatan diletakkan di atas meja kerja dosen."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"หลังจากฝึกฝนทุกวัน ทักษะการเขียนของเขาก็พัฒนาดีขึ้นมากครับ\" berarti \"Setelah berlatih setiap hari, kemampuan menulisnya berkembang menjadi jauh lebih baik.\"."
+        "explanation": "Kalimat \"หลังจากฝึกฝนทุกวัน ทักษะการเขียนของเขาก็พัฒนาดีขึ้นมากครับ\" (dibaca: lǎng jàak fʉ̀k-fǒn thúk wan thák-sà gaan-khǐan khɔ̌ɔng khǎo gɔ̂ phát-thá-naa dii khʉ̂n mâak khráp) berarti \"Setelah berlatih setiap hari, kemampuan menulisnya berkembang menjadi jauh lebih baik.\". Kalimat ini menggunakan pola \"กลายเป็น (klaai bpen) + Kata Benda & Adjektiva + ขึ้น (khʉ̂n) / ลง (long)\" (Perubahan Keadaan กลายเป็น (klaai bpen) & ขึ้น/ลง) yang berfungsi untuk menunjukkan transformasi wujud dengan กลายเป็น dan peningkatan (ขึ้น) atau penurunan (ลง) intensitas suatu keadaan."
       },
       {
         "id": "q-th-gram-20-bb-2",
@@ -9723,7 +9723,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Hasil seleksi beasiswa seharusnya diumumkan secara resmi pada pekan depan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"นักศึกษาที่ได้รับทุนนี้จะต้องเดินทางไปร่วมประชุมวิชาการระดับนานาชาติครับ\" berarti \"Mahasiswa yang menerima beasiswa ini wajib berangkat menghadiri konferensi akademik internasional.\"."
+        "explanation": "Kalimat \"นักศึกษาที่ได้รับทุนนี้จะต้องเดินทางไปร่วมประชุมวิชาการระดับนานาชาติครับ\" (dibaca: nák-sʉ̀k-sǎa thîi dâi ráp thun níi jà dtɔ̂ng dəən-thaang bpai rûam bprà-chum wí-chaa-gaan rá-dàp naa-naa-châat khráp) berarti \"Mahasiswa yang menerima beasiswa ini wajib berangkat menghadiri konferensi akademik internasional.\". Kalimat ini menggunakan pola \"Kata Benda Utama + ที่ / ซึ่ง + Anak Kalimat Penjelas\" (Klausa Relatif Penjelas ที่ (thîi) & ซึ่ง (sʉ̂ng)) yang berfungsi untuk menghubungkan klausa penjelas relatif setara 'yang' dengan ที่ untuk konteks umum dan ซึ่ง untuk konteks formal akademik."
       },
       {
         "id": "q-th-gram-21-pg-2",
@@ -9739,7 +9739,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Semua mahasiswa wajib mematuhi tata tertib universitas secara ketat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"มหาวิทยาลัยได้ประกาศนโยบายใหม่ ซึ่งส่งผลดีต่อนักวิจัยรุ่นใหม่ทุกคนค่ะ\" berarti \"Universitas telah mengumumkan kebijakan baru yang berdampak positif bagi semua peneliti muda.\"."
+        "explanation": "Kalimat \"มหาวิทยาลัยได้ประกาศนโยบายใหม่ ซึ่งส่งผลดีต่อนักวิจัยรุ่นใหม่ทุกคนค่ะ\" (dibaca: má-hǎa-wít-thá-yaa-lai dâi bprà-gàat ná-yoo-baai mài sʉ̂ng sòng phǒn dii dtɔ̀ɔ nák-wí-jai rûn mài thúk khon khâ) berarti \"Universitas telah mengumumkan kebijakan baru yang berdampak positif bagi semua peneliti muda.\". Kalimat ini menggunakan pola \"Kata Benda Utama + ที่ / ซึ่ง + Anak Kalimat Penjelas\" (Klausa Relatif Penjelas ที่ (thîi) & ซึ่ง (sʉ̂ng)) yang berfungsi untuk menghubungkan klausa penjelas relatif setara 'yang' dengan ที่ untuk konteks umum dan ซึ่ง untuk konteks formal akademik."
       },
       {
         "id": "q-th-gram-21-pg-3",
@@ -9755,7 +9755,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Anda tidak perlu khawatir perihal adaptasi karena fakultas memiliki sistem dosen pembimbing yang mendampingi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"นี่คือผลงานวิจัยอันทรงคุณค่าที่ได้รับการยอมรับในระดับสากล\" berarti \"Ini adalah karya riset berharga tinggi yang telah memperoleh pengakuan di tingkat dunia.\"."
+        "explanation": "Kalimat \"นี่คือผลงานวิจัยอันทรงคุณค่าที่ได้รับการยอมรับในระดับสากล\" (dibaca: nîi kheuu phǒn-ngaan wí-jai an song khun-khâa thîi dâi ráp gaan yɔɔm-ráp nai rá-dàp sǎa-gon) berarti \"Ini adalah karya riset berharga tinggi yang telah memperoleh pengakuan di tingkat dunia.\". Kalimat ini menggunakan pola \"Kata Benda Utama + ที่ / ซึ่ง + Anak Kalimat Penjelas\" (Klausa Relatif Penjelas ที่ (thîi) & ซึ่ง (sʉ̂ng)) yang berfungsi untuk menghubungkan klausa penjelas relatif setara 'yang' dengan ที่ untuk konteks umum dan ซึ่ง untuk konteks formal akademik."
       },
       {
         "id": "q-th-gram-21-pg-4",
@@ -10062,7 +10062,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing kemungkinan besar saat ini sedang memeriksa tesis kita."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"นักศึกษาที่ได้รับทุนนี้จะต้องเดินทางไปร่วมประชุมวิชาการระดับนานาชาติครับ\" berarti \"Mahasiswa yang menerima beasiswa ini wajib berangkat menghadiri konferensi akademik internasional.\"."
+        "explanation": "Kalimat \"นักศึกษาที่ได้รับทุนนี้จะต้องเดินทางไปร่วมประชุมวิชาการระดับนานาชาติครับ\" (dibaca: nák-sʉ̀k-sǎa thîi dâi ráp thun níi jà dtɔ̂ng dəən-thaang bpai rûam bprà-chum wí-chaa-gaan rá-dàp naa-naa-châat khráp) berarti \"Mahasiswa yang menerima beasiswa ini wajib berangkat menghadiri konferensi akademik internasional.\". Kalimat ini menggunakan pola \"Kata Benda Utama + ที่ / ซึ่ง + Anak Kalimat Penjelas\" (Klausa Relatif Penjelas ที่ (thîi) & ซึ่ง (sʉ̂ng)) yang berfungsi untuk menghubungkan klausa penjelas relatif setara 'yang' dengan ที่ untuk konteks umum dan ซึ่ง untuk konteks formal akademik."
       },
       {
         "id": "q-th-gram-21-bb-2",
@@ -10206,7 +10206,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Pelamar mutlak harus memiliki skor tes kemahiran bahasa Inggris sesuai standar yang ditetapkan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"หัวข้อวิจัยนี้มีความท้าทายมาก แต่นักศึกษาก็ไม่ยอมแพ้ครับ\" berarti \"Topik riset ini sangat menantang, tetapi mahasiswa tersebut tidak menyerah.\"."
+        "explanation": "Kalimat \"หัวข้อวิจัยนี้มีความท้าทายมาก แต่นักศึกษาก็ไม่ยอมแพ้ครับ\" (dibaca: hǔa-khɔ̂ɔ wí-jai níi mii khwaam tháa-thaai mâak dtɛ̀ɛ nák-sʉ̀k-sǎa gɔ̂ mâi yɔɔm-phɛ́ɛ khráp) berarti \"Topik riset ini sangat menantang, tetapi mahasiswa tersebut tidak menyerah.\". Kalimat ini menggunakan pola \"Klausa 1 + แต่ (dtɛ̀ɛ) + Klausa 2 & ทั้งๆ ที่ (tháng-tháng thîi) + Klausa Kondisi\" (Hubungan Pertentangan แต่ (dtɛ̀ɛ) vs ทั้งๆ ที่ (tháng-tháng thîi)) yang berfungsi untuk menghubungkan dua gagasan yang bertentangan dengan kata sambung tetapi (แต่) atau padahal / meskipun kenyataannya (ทั้งๆ ที่)."
       },
       {
         "id": "q-th-gram-22-pg-2",
@@ -10222,7 +10222,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Semakin sering kita berlatih bahasa Thai sehari-hari, rasa percaya diri berbicara pun semakin bertumbuh."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ทั้งๆ ที่เตรียมตัวมาเป็นอย่างดี แต่เขาก็ยังรู้สึกตื่นเต้นในห้องสอบค่ะ\" berarti \"Padahal sudah mempersiapkan diri dengan baik, namun dia tetap merasa gugup di ruang ujian.\"."
+        "explanation": "Kalimat \"ทั้งๆ ที่เตรียมตัวมาเป็นอย่างดี แต่เขาก็ยังรู้สึกตื่นเต้นในห้องสอบค่ะ\" (dibaca: tháng-tháng thîi dtriam dtuam maa bpen yàang dii dtɛ̀ɛ khǎo gɔ̂ yang rúu-sʉ̀k dtʉ̀ʉn-dtên nai hɔ̂ng sɔ̀ɔp khâ) berarti \"Padahal sudah mempersiapkan diri dengan baik, namun dia tetap merasa gugup di ruang ujian.\". Kalimat ini menggunakan pola \"Klausa 1 + แต่ (dtɛ̀ɛ) + Klausa 2 & ทั้งๆ ที่ (tháng-tháng thîi) + Klausa Kondisi\" (Hubungan Pertentangan แต่ (dtɛ̀ɛ) vs ทั้งๆ ที่ (tháng-tháng thîi)) yang berfungsi untuk menghubungkan dua gagasan yang bertentangan dengan kata sambung tetapi (แต่) atau padahal / meskipun kenyataannya (ทั้งๆ ที่)."
       },
       {
         "id": "q-th-gram-22-pg-3",
@@ -10238,7 +10238,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kendatipun hasil eksperimen tidak sesuai hipotesis, namun tetap ditemukan fakta baru yang bermanfaat."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"แม้ว่าผลการทดลองจะไม่ตรงตามสมมติฐาน แต่ก็ค้นพบข้อเท็จจริงใหม่ที่มีประโยชน์\" berarti \"Kendatipun hasil eksperimen tidak sesuai hipotesis, namun tetap ditemukan fakta baru yang bermanfaat.\"."
+        "explanation": "Kalimat \"แม้ว่าผลการทดลองจะไม่ตรงตามสมมติฐาน แต่ก็ค้นพบข้อเท็จจริงใหม่ที่มีประโยชน์\" (dibaca: mɛ́ɛ-wâa phǒn gaan thót-lɔɔng jà mâi dtrong dtaam sǒm-mút-dtì-hǎan dtɛ̀ɛ gɔ̂ khón phóp khɔ̂ɔ thét-jing mài thîi mii bprà-yòot) berarti \"Kendatipun hasil eksperimen tidak sesuai hipotesis, namun tetap ditemukan fakta baru yang bermanfaat.\". Kalimat ini menggunakan pola \"Klausa 1 + แต่ (dtɛ̀ɛ) + Klausa 2 & ทั้งๆ ที่ (tháng-tháng thîi) + Klausa Kondisi\" (Hubungan Pertentangan แต่ (dtɛ̀ɛ) vs ทั้งๆ ที่ (tháng-tháng thîi)) yang berfungsi untuk menghubungkan dua gagasan yang bertentangan dengan kata sambung tetapi (แต่) atau padahal / meskipun kenyataannya (ทั้งๆ ที่)."
       },
       {
         "id": "q-th-gram-22-pg-4",
@@ -10545,7 +10545,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Topik riset ini sangat menantang, tetapi mahasiswa tersebut tidak menyerah."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"หัวข้อวิจัยนี้มีความท้าทายมาก แต่นักศึกษาก็ไม่ยอมแพ้ครับ\" berarti \"Topik riset ini sangat menantang, tetapi mahasiswa tersebut tidak menyerah.\"."
+        "explanation": "Kalimat \"หัวข้อวิจัยนี้มีความท้าทายมาก แต่นักศึกษาก็ไม่ยอมแพ้ครับ\" (dibaca: hǔa-khɔ̂ɔ wí-jai níi mii khwaam tháa-thaai mâak dtɛ̀ɛ nák-sʉ̀k-sǎa gɔ̂ mâi yɔɔm-phɛ́ɛ khráp) berarti \"Topik riset ini sangat menantang, tetapi mahasiswa tersebut tidak menyerah.\". Kalimat ini menggunakan pola \"Klausa 1 + แต่ (dtɛ̀ɛ) + Klausa 2 & ทั้งๆ ที่ (tháng-tháng thîi) + Klausa Kondisi\" (Hubungan Pertentangan แต่ (dtɛ̀ɛ) vs ทั้งๆ ที่ (tháng-tháng thîi)) yang berfungsi untuk menghubungkan dua gagasan yang bertentangan dengan kata sambung tetapi (แต่) atau padahal / meskipun kenyataannya (ทั้งๆ ที่)."
       },
       {
         "id": "q-th-gram-22-bb-2",
@@ -10691,7 +10691,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Semakin dalam riset diteliti, semakin disadari pula kompleksitas dari data tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"การเข้าร่วมสัมมนาทางวิชาการช่วยเปิดโลกทัศน์และสร้างความรู้ใหม่ครับ\" berarti \"Keikutsertaan dalam seminar akademik membantu membuka wawasan dan membangun pengetahuan baru.\"."
+        "explanation": "Kalimat \"การเข้าร่วมสัมมนาทางวิชาการช่วยเปิดโลกทัศน์และสร้างความรู้ใหม่ครับ\" (dibaca: gaan khâo rûam sǎm-má-naa thaang wí-chaa-gaan chûay bpə̀ət loo-gá-thát lɛ́ sâang khwaam rúu mài khráp) berarti \"Keikutsertaan dalam seminar akademik membantu membuka wawasan dan membangun pengetahuan baru.\". Kalimat ini menggunakan pola \"การ (gaan) + Kata Kerja Aksi & ความ (khwaam) + Kata Sifat / Keadaan Jiwa\" (Pembentukan Kata Abstrak การ (gaan) vs ความ (khwaam)) yang berfungsi untuk awalan การ digunakan untuk me-nominalisasikan kata kerja tindakan (proses/aktivitas), sedangkan ความ untuk kata sifat atau konsep batin."
       },
       {
         "id": "q-th-gram-23-pg-2",
@@ -10707,7 +10707,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Keberhasilan dalam studi tingkat pascasarjana membutuhkan kesabaran yang luar biasa."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ความสำเร็จในการเรียนต่อระดับบัณฑิตศึกษาต้องอาศัยความอดทนอย่างยิ่งค่ะ\" berarti \"Keberhasilan dalam studi tingkat pascasarjana membutuhkan kesabaran yang luar biasa.\"."
+        "explanation": "Kalimat \"ความสำเร็จในการเรียนต่อระดับบัณฑิตศึกษาต้องอาศัยความอดทนอย่างยิ่งค่ะ\" (dibaca: khwaam-sǎm-rèt nai gaan rian dtɔ̀ɔ rá-dàp ban-dìt sʉ̀k-sǎa dtɔ̂ng aa-sǎi khwaam-òt-thon yàang yîng khâ) berarti \"Keberhasilan dalam studi tingkat pascasarjana membutuhkan kesabaran yang luar biasa.\". Kalimat ini menggunakan pola \"การ (gaan) + Kata Kerja Aksi & ความ (khwaam) + Kata Sifat / Keadaan Jiwa\" (Pembentukan Kata Abstrak การ (gaan) vs ความ (khwaam)) yang berfungsi untuk awalan การ digunakan untuk me-nominalisasikan kata kerja tindakan (proses/aktivitas), sedangkan ความ untuk kata sifat atau konsep batin."
       },
       {
         "id": "q-th-gram-23-pg-3",
@@ -10723,7 +10723,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kuliah di Thailand tidak hanya menambah pengetahuan, tetapi juga membuka peluang memahami keragaman budaya."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"การวิเคราะห์ข้อมูลทางสถิติสะท้อนให้เห็นถึงความสัมพันธ์เชิงบวกระหว่างสองตัวแปร\" berarti \"Analisis data statistik mencerminkan hubungan positif di antara dua variabel tersebut.\"."
+        "explanation": "Kalimat \"การวิเคราะห์ข้อมูลทางสถิติสะท้อนให้เห็นถึงความสัมพันธ์เชิงบวกระหว่างสองตัวแปร\" (dibaca: gaan wí-khrɔ́ khɔ̂ɔ-muun thaang sà-thì-dtì sà-thɔ́ɔn hâi hěn thʉ̌ng khwaam-sǎm-phan choəng-bùak rá-wàang sɔ̌ɔng dtua-bprɛɛ) berarti \"Analisis data statistik mencerminkan hubungan positif di antara dua variabel tersebut.\". Kalimat ini menggunakan pola \"การ (gaan) + Kata Kerja Aksi & ความ (khwaam) + Kata Sifat / Keadaan Jiwa\" (Pembentukan Kata Abstrak การ (gaan) vs ความ (khwaam)) yang berfungsi untuk awalan การ digunakan untuk me-nominalisasikan kata kerja tindakan (proses/aktivitas), sedangkan ความ untuk kata sifat atau konsep batin."
       },
       {
         "id": "q-th-gram-23-pg-4",
@@ -11030,7 +11030,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Semakin sering kita berlatih bahasa Thai sehari-hari, rasa percaya diri berbicara pun semakin bertumbuh."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"การเข้าร่วมสัมมนาทางวิชาการช่วยเปิดโลกทัศน์และสร้างความรู้ใหม่ครับ\" berarti \"Keikutsertaan dalam seminar akademik membantu membuka wawasan dan membangun pengetahuan baru.\"."
+        "explanation": "Kalimat \"การเข้าร่วมสัมมนาทางวิชาการช่วยเปิดโลกทัศน์และสร้างความรู้ใหม่ครับ\" (dibaca: gaan khâo rûam sǎm-má-naa thaang wí-chaa-gaan chûay bpə̀ət loo-gá-thát lɛ́ sâang khwaam rúu mài khráp) berarti \"Keikutsertaan dalam seminar akademik membantu membuka wawasan dan membangun pengetahuan baru.\". Kalimat ini menggunakan pola \"การ (gaan) + Kata Kerja Aksi & ความ (khwaam) + Kata Sifat / Keadaan Jiwa\" (Pembentukan Kata Abstrak การ (gaan) vs ความ (khwaam)) yang berfungsi untuk awalan การ digunakan untuk me-nominalisasikan kata kerja tindakan (proses/aktivitas), sedangkan ความ untuk kata sifat atau konsep batin."
       },
       {
         "id": "q-th-gram-23-bb-2",
@@ -11174,7 +11174,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing kemungkinan besar saat ini sedang memeriksa tesis kita."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาคงจะกำลังตรวจวิทยานิพนธ์ของพวกเราอยู่ครับ\" berarti \"Dosen pembimbing kemungkinan besar saat ini sedang memeriksa tesis kita.\"."
+        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาคงจะกำลังตรวจวิทยานิพนธ์ของพวกเราอยู่ครับ\" (dibaca: aa-jaan thîi-bprʉ̀k-sǎa khong jà kam-lang dtrùat wít-thá-yaa-ní-phon khɔ̌ɔng phûak rao yùu khráp) berarti \"Dosen pembimbing kemungkinan besar saat ini sedang memeriksa tesis kita.\". Kalimat ini menggunakan pola \"Subjek + คงจะ / น่าจะ / อาจจะ + Verba Tindakan\" (Kepastian & Probabilitas คงจะ (khong jà) & น่าจะ (nâa jà)) yang berfungsi untuk mengekspresikan modalitas dugaan: คงจะ (kemungkinan besar/pasti), น่าจะ (seharusnya/layaknya), dan อาจจะ (mungkin saja)."
       },
       {
         "id": "q-th-gram-24-pg-2",
@@ -11190,7 +11190,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing memberitahukan kepada mahasiswa bahwa ujian lisan akan diadakan pekan depan."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ผลการพิจารณาทุนการศึกษาน่าจะประกาศอย่างเป็นทางการในสัปดาห์หน้าค่ะ\" berarti \"Hasil seleksi beasiswa seharusnya diumumkan secara resmi pada pekan depan.\"."
+        "explanation": "Kalimat \"ผลการพิจารณาทุนการศึกษาน่าจะประกาศอย่างเป็นทางการในสัปดาห์หน้าค่ะ\" (dibaca: phǒn gaan phí-jaa-rá-naa thun gaan-sʉ̀k-sǎa nâa jà bprà-gàat yàang bpen thaang-gaan nai sàp-daa nâa khâ) berarti \"Hasil seleksi beasiswa seharusnya diumumkan secara resmi pada pekan depan.\". Kalimat ini menggunakan pola \"Subjek + คงจะ / น่าจะ / อาจจะ + Verba Tindakan\" (Kepastian & Probabilitas คงจะ (khong jà) & น่าจะ (nâa jà)) yang berfungsi untuk mengekspresikan modalitas dugaan: คงจะ (kemungkinan besar/pasti), น่าจะ (seharusnya/layaknya), dan อาจจะ (mungkin saja)."
       },
       {
         "id": "q-th-gram-24-pg-3",
@@ -11206,7 +11206,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Banyak pakar sepakat berpandangan bahwa pengembangan teknologi harus berjalan beriringan dengan etika."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"หากข้อมูลยังไม่ครบถ้วน คณะกรรมการอาจจะขอให้ส่งเอกสารเพิ่มเติม\" berarti \"Jika data belum lengkap, komite mungkin akan meminta penyerahan dokumen tambahan.\"."
+        "explanation": "Kalimat \"หากข้อมูลยังไม่ครบถ้วน คณะกรรมการอาจจะขอให้ส่งเอกสารเพิ่มเติม\" (dibaca: hàak khɔ̂ɔ-muun yang mâi khróp-thùan khá-ná gam-má-gaan àat jà khɔ̌ɔ hâi sòng èek-gà-sǎan phə̂əm-dtəəm) berarti \"Jika data belum lengkap, komite mungkin akan meminta penyerahan dokumen tambahan.\". Kalimat ini menggunakan pola \"Subjek + คงจะ / น่าจะ / อาจจะ + Verba Tindakan\" (Kepastian & Probabilitas คงจะ (khong jà) & น่าจะ (nâa jà)) yang berfungsi untuk mengekspresikan modalitas dugaan: คงจะ (kemungkinan besar/pasti), น่าจะ (seharusnya/layaknya), dan อาจจะ (mungkin saja)."
       },
       {
         "id": "q-th-gram-24-pg-4",
@@ -11513,7 +11513,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kurikulum ini tidak hanya menekankan teori, tetapi juga mendorong praktik nyata di lapangan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาคงจะกำลังตรวจวิทยานิพนธ์ของพวกเราอยู่ครับ\" berarti \"Dosen pembimbing kemungkinan besar saat ini sedang memeriksa tesis kita.\"."
+        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาคงจะกำลังตรวจวิทยานิพนธ์ของพวกเราอยู่ครับ\" (dibaca: aa-jaan thîi-bprʉ̀k-sǎa khong jà kam-lang dtrùat wít-thá-yaa-ní-phon khɔ̌ɔng phûak rao yùu khráp) berarti \"Dosen pembimbing kemungkinan besar saat ini sedang memeriksa tesis kita.\". Kalimat ini menggunakan pola \"Subjek + คงจะ / น่าจะ / อาจจะ + Verba Tindakan\" (Kepastian & Probabilitas คงจะ (khong jà) & น่าจะ (nâa jà)) yang berfungsi untuk mengekspresikan modalitas dugaan: คงจะ (kemungkinan besar/pasti), น่าจะ (seharusnya/layaknya), dan อาจจะ (mungkin saja)."
       },
       {
         "id": "q-th-gram-24-bb-2",
@@ -11658,7 +11658,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Hasil survei opini mengindikasikan bahwa mayoritas konsumen puas terhadap mutu produk."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"นักศึกษาทุกคนต้องปฏิบัติตามระเบียบวินัยของมหาวิทยาลัยอย่างเคร่งครัดครับ\" berarti \"Semua mahasiswa wajib mematuhi tata tertib universitas secara ketat.\"."
+        "explanation": "Kalimat \"นักศึกษาทุกคนต้องปฏิบัติตามระเบียบวินัยของมหาวิทยาลัยอย่างเคร่งครัดครับ\" (dibaca: nák-sʉ̀k-sǎa thúk khon dtɔ̂ng bpà-dtì-bàt dtaam rá-bìap wí-nai khɔ̌ɔng má-hǎa-wít-thá-yaa-lai yàang khrêng-khrát khráp) berarti \"Semua mahasiswa wajib mematuhi tata tertib universitas secara ketat.\". Kalimat ini menggunakan pola \"Subjek + ต้อง / จำเป็นต้อง + Verba Kewajiban\" (Keharusan & Kewajiban ต้อง (dtɔ̂ng) vs จำเป็นต้อง (jam-bpen dtɔ̂ng)) yang berfungsi untuk menyatakan keharusan dengan kata modal ต้อง (harus) dan kebutuhan esensial mutlak dengan จำเป็นต้อง (mutlak diperlukan)."
       },
       {
         "id": "q-th-gram-25-pg-2",
@@ -11674,7 +11674,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ujian kali ini tidak sesulit itu melampaui kemampuan kita kok, berusahalah dengan segenap kemampuan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ผู้สมัครจำเป็นต้องมีผลสอบวัดระดับภาษาอังกฤษตามเกณฑ์ที่กำหนดไว้ค่ะ\" berarti \"Pelamar mutlak harus memiliki skor tes kemahiran bahasa Inggris sesuai standar yang ditetapkan.\"."
+        "explanation": "Kalimat \"ผู้สมัครจำเป็นต้องมีผลสอบวัดระดับภาษาอังกฤษตามเกณฑ์ที่กำหนดไว้ค่ะ\" (dibaca: phûu-sà-m̀ak jam-bpen dtɔ̂ng mii phǒn sɔ̀ɔp wát rá-dàp phaa-sǎa ang-grìt dtaam geen thîi gam-nòt wái khâ) berarti \"Pelamar mutlak harus memiliki skor tes kemahiran bahasa Inggris sesuai standar yang ditetapkan.\". Kalimat ini menggunakan pola \"Subjek + ต้อง / จำเป็นต้อง + Verba Kewajiban\" (Keharusan & Kewajiban ต้อง (dtɔ̂ng) vs จำเป็นต้อง (jam-bpen dtɔ̂ng)) yang berfungsi untuk menyatakan keharusan dengan kata modal ต้อง (harus) dan kebutuhan esensial mutlak dengan จำเป็นต้อง (mutlak diperlukan)."
       },
       {
         "id": "q-th-gram-25-pg-3",
@@ -11690,7 +11690,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Jika Anda memiliki keraguan mengenai registrasi kuliah, segera tanyakan langsung kepada petugas administrasi dong."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"คุณไม่ต้องกังวลเรื่องการปรับตัว เพราะทางคณะมีระบบอาจารย์ที่ปรึกษาคอยดูแล\" berarti \"Anda tidak perlu khawatir perihal adaptasi karena fakultas memiliki sistem dosen pembimbing yang mendampingi.\"."
+        "explanation": "Kalimat \"คุณไม่ต้องกังวลเรื่องการปรับตัว เพราะทางคณะมีระบบอาจารย์ที่ปรึกษาคอยดูแล\" (dibaca: khun mâi dtɔ̂ng gang-won rʉ̂ang gaan bpràp dtua phrɔ́ thaang khá-ná mii rá-bòp aa-jaan thîi-bprʉ̀k-sǎa khɔɔy duu-lɛɛ) berarti \"Anda tidak perlu khawatir perihal adaptasi karena fakultas memiliki sistem dosen pembimbing yang mendampingi.\". Kalimat ini menggunakan pola \"Subjek + ต้อง / จำเป็นต้อง + Verba Kewajiban\" (Keharusan & Kewajiban ต้อง (dtɔ̂ng) vs จำเป็นต้อง (jam-bpen dtɔ̂ng)) yang berfungsi untuk menyatakan keharusan dengan kata modal ต้อง (harus) dan kebutuhan esensial mutlak dengan จำเป็นต้อง (mutlak diperlukan)."
       },
       {
         "id": "q-th-gram-25-pg-4",
@@ -11997,7 +11997,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing memberitahukan kepada mahasiswa bahwa ujian lisan akan diadakan pekan depan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"นักศึกษาทุกคนต้องปฏิบัติตามระเบียบวินัยของมหาวิทยาลัยอย่างเคร่งครัดครับ\" berarti \"Semua mahasiswa wajib mematuhi tata tertib universitas secara ketat.\"."
+        "explanation": "Kalimat \"นักศึกษาทุกคนต้องปฏิบัติตามระเบียบวินัยของมหาวิทยาลัยอย่างเคร่งครัดครับ\" (dibaca: nák-sʉ̀k-sǎa thúk khon dtɔ̂ng bpà-dtì-bàt dtaam rá-bìap wí-nai khɔ̌ɔng má-hǎa-wít-thá-yaa-lai yàang khrêng-khrát khráp) berarti \"Semua mahasiswa wajib mematuhi tata tertib universitas secara ketat.\". Kalimat ini menggunakan pola \"Subjek + ต้อง / จำเป็นต้อง + Verba Kewajiban\" (Keharusan & Kewajiban ต้อง (dtɔ̂ng) vs จำเป็นต้อง (jam-bpen dtɔ̂ng)) yang berfungsi untuk menyatakan keharusan dengan kata modal ต้อง (harus) dan kebutuhan esensial mutlak dengan จำเป็นต้อง (mutlak diperlukan)."
       },
       {
         "id": "q-th-gram-25-bb-2",
@@ -12141,7 +12141,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Marilah kita bersama-sama menyukseskan proyek riset ini hingga tuntas dengan baik."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ยิ่งเราฝึกใช้ภาษาไทยในชีวิตประจำวันมากเท่าไหร่ ความมั่นใจในการพูดก็ยิ่งเพิ่มขึ้นครับ\" berarti \"Semakin sering kita berlatih bahasa Thai sehari-hari, rasa percaya diri berbicara pun semakin bertumbuh.\"."
+        "explanation": "Kalimat \"ยิ่งเราฝึกใช้ภาษาไทยในชีวิตประจำวันมากเท่าไหร่ ความมั่นใจในการพูดก็ยิ่งเพิ่มขึ้นครับ\" (dibaca: yîng rao fʉ̀k chái phaa-sǎa thai nai chii-wít bprà-jam wan mâak thâo-rài khwaam-mân-jai nai gaan phûut gɔ̂ yîng phə̂əm khʉ̂n khráp) berarti \"Semakin sering kita berlatih bahasa Thai sehari-hari, rasa percaya diri berbicara pun semakin bertumbuh.\". Kalimat ini menggunakan pola \"ยิ่ง (yîng) + Kondisi A + ก็ยิ่ง (gɔ̂ yîng) + Akibat B\" (Pola Korelatif Semakin... Semakin... ยิ่ง...ยิ่ง... (yîng...yîng...)) yang berfungsi untuk menyatakan perubahan proporsional paralel: semakin bertambah kondisi A, maka semakin meningkat pula keadaan B."
       },
       {
         "id": "q-th-gram-26-pg-2",
@@ -12157,7 +12157,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Tim peneliti berhasil melakukan sintesis ekstrak tanaman obat herbal Thailand dengan sukses."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ยิ่งศึกษาค้นคว้าลึกซึ้งเพียงใด ก็ยิ่งตระหนักถึงความซับซ้อนของข้อมูลมากขึ้นค่ะ\" berarti \"Semakin dalam riset diteliti, semakin disadari pula kompleksitas dari data tersebut.\"."
+        "explanation": "Kalimat \"ยิ่งศึกษาค้นคว้าลึกซึ้งเพียงใด ก็ยิ่งตระหนักถึงความซับซ้อนของข้อมูลมากขึ้นค่ะ\" (dibaca: yîng sʉ̀k-sǎa khón-khwáa lʉ́k-sʉ́ng phiiang-dai gɔ̂ yîng dtrà-nàk thʉ̌ng khwaam sáp-sɔ́ɔn khɔ̌ɔng khɔ̂ɔ-muun mâak khʉ̂n khâ) berarti \"Semakin dalam riset diteliti, semakin disadari pula kompleksitas dari data tersebut.\". Kalimat ini menggunakan pola \"ยิ่ง (yîng) + Kondisi A + ก็ยิ่ง (gɔ̂ yîng) + Akibat B\" (Pola Korelatif Semakin... Semakin... ยิ่ง...ยิ่ง... (yîng...yîng...)) yang berfungsi untuk menyatakan perubahan proporsional paralel: semakin bertambah kondisi A, maka semakin meningkat pula keadaan B."
       },
       {
         "id": "q-th-gram-26-pg-3",
@@ -12173,7 +12173,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Semakin banyak membaca jurnal kontemporer, kerangka konseptual teoretis pun semakin jelas."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ยิ่งอ่านงานวิจัยร่วมสมัยมากเท่าใด กรอบความคิดทางทฤษฎีก็ยิ่งชัดเจน\" berarti \"Semakin banyak membaca jurnal kontemporer, kerangka konseptual teoretis pun semakin jelas.\"."
+        "explanation": "Kalimat \"ยิ่งอ่านงานวิจัยร่วมสมัยมากเท่าใด กรอบความคิดทางทฤษฎีก็ยิ่งชัดเจน\" (dibaca: yîng àan ngaan wí-jai rûam sà-mǎi mâak thâo-dai grɔ̀ɔp khwaam-khít thaang thrʉ́t-sà-dii gɔ̂ yîng chát-jeen) berarti \"Semakin banyak membaca jurnal kontemporer, kerangka konseptual teoretis pun semakin jelas.\". Kalimat ini menggunakan pola \"ยิ่ง (yîng) + Kondisi A + ก็ยิ่ง (gɔ̂ yîng) + Akibat B\" (Pola Korelatif Semakin... Semakin... ยิ่ง...ยิ่ง... (yîng...yîng...)) yang berfungsi untuk menyatakan perubahan proporsional paralel: semakin bertambah kondisi A, maka semakin meningkat pula keadaan B."
       },
       {
         "id": "q-th-gram-26-pg-4",
@@ -12480,7 +12480,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Semakin sering kita berlatih bahasa Thai sehari-hari, rasa percaya diri berbicara pun semakin bertumbuh."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ยิ่งเราฝึกใช้ภาษาไทยในชีวิตประจำวันมากเท่าไหร่ ความมั่นใจในการพูดก็ยิ่งเพิ่มขึ้นครับ\" berarti \"Semakin sering kita berlatih bahasa Thai sehari-hari, rasa percaya diri berbicara pun semakin bertumbuh.\"."
+        "explanation": "Kalimat \"ยิ่งเราฝึกใช้ภาษาไทยในชีวิตประจำวันมากเท่าไหร่ ความมั่นใจในการพูดก็ยิ่งเพิ่มขึ้นครับ\" (dibaca: yîng rao fʉ̀k chái phaa-sǎa thai nai chii-wít bprà-jam wan mâak thâo-rài khwaam-mân-jai nai gaan phûut gɔ̂ yîng phə̂əm khʉ̂n khráp) berarti \"Semakin sering kita berlatih bahasa Thai sehari-hari, rasa percaya diri berbicara pun semakin bertumbuh.\". Kalimat ini menggunakan pola \"ยิ่ง (yîng) + Kondisi A + ก็ยิ่ง (gɔ̂ yîng) + Akibat B\" (Pola Korelatif Semakin... Semakin... ยิ่ง...ยิ่ง... (yîng...yîng...)) yang berfungsi untuk menyatakan perubahan proporsional paralel: semakin bertambah kondisi A, maka semakin meningkat pula keadaan B."
       },
       {
         "id": "q-th-gram-26-bb-2",
@@ -12624,7 +12624,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Pendekatan pembelajaran partisipatif ini memperoleh hasil respons yang amat baik dari murid-murid."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"หลักสูตรนี้ไม่เพียงแต่เน้นทฤษฎีเท่านั้น แต่ยังส่งเสริมการปฏิบัติจริงในภาคสนามอีกด้วยครับ\" berarti \"Kurikulum ini tidak hanya menekankan teori, tetapi juga mendorong praktik nyata di lapangan.\"."
+        "explanation": "Kalimat \"หลักสูตรนี้ไม่เพียงแต่เน้นทฤษฎีเท่านั้น แต่ยังส่งเสริมการปฏิบัติจริงในภาคสนามอีกด้วยครับ\" (dibaca: làk-sùut níi mâi phiiang dtɛ̀ɛ nén thrʉ́t-sà-dii thâo-nán dtɛ̀ɛ yang sòng-sə̌əm gaan bpà-dtì-bàt jing nai phâak sà-nǎam ìik dûay khráp) berarti \"Kurikulum ini tidak hanya menekankan teori, tetapi juga mendorong praktik nyata di lapangan.\". Kalimat ini menggunakan pola \"ไม่เพียงแต่ (mâi phiiang dtɛ̀ɛ) + A + เท่านั้น + แต่ยัง (dtɛ̀ɛ yang) + B + อีกด้วย (ìik dûay)\" (Pola Tidak Hanya... Tetapi Juga... ไม่เพียงแต่...เท่านั้น ยัง...อีกด้วย) yang berfungsi untuk pola konjungsi korelatif tingkat menengah untuk menambahkan informasi paralel penguat yang melampaui poin pertama."
       },
       {
         "id": "q-th-gram-27-pg-2",
@@ -12640,7 +12640,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Proyek ini tidak hanya menghemat anggaran, tetapi juga meningkatkan standar keselamatan kerja."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"โครงการนี้ไม่เพียงแต่ช่วยประหยัดงบประมาณเท่านั้น แต่ยังยกระดับมาตรฐานความปลอดภัยอีกด้วยค่ะ\" berarti \"Proyek ini tidak hanya menghemat anggaran, tetapi juga meningkatkan standar keselamatan kerja.\"."
+        "explanation": "Kalimat \"โครงการนี้ไม่เพียงแต่ช่วยประหยัดงบประมาณเท่านั้น แต่ยังยกระดับมาตรฐานความปลอดภัยอีกด้วยค่ะ\" (dibaca: khroong-gaan níi mâi phiiang dtɛ̀ɛ chûay bprà-yàt ngóp-bprà-maan thâo-nán dtɛ̀ɛ yang yók rá-dàp mâat-dtra-thǎan khwaam bplɔ̀ɔt-phai ìik dûay khâ) berarti \"Proyek ini tidak hanya menghemat anggaran, tetapi juga meningkatkan standar keselamatan kerja.\". Kalimat ini menggunakan pola \"ไม่เพียงแต่ (mâi phiiang dtɛ̀ɛ) + A + เท่านั้น + แต่ยัง (dtɛ̀ɛ yang) + B + อีกด้วย (ìik dûay)\" (Pola Tidak Hanya... Tetapi Juga... ไม่เพียงแต่...เท่านั้น ยัง...อีกด้วย) yang berfungsi untuk pola konjungsi korelatif tingkat menengah untuk menambahkan informasi paralel penguat yang melampaui poin pertama."
       },
       {
         "id": "q-th-gram-27-pg-3",
@@ -12656,7 +12656,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Ini adalah karya riset berharga tinggi yang telah memperoleh pengakuan di tingkat dunia."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"การได้มาเรียนที่ประเทศไทยไม่เพียงแต่เพิ่มพูนความรู้เท่านั้น แต่ยังเปิดโอกาสให้เข้าใจวัฒนธรรมที่หลากหลาย\" berarti \"Kuliah di Thailand tidak hanya menambah pengetahuan, tetapi juga membuka peluang memahami keragaman budaya.\"."
+        "explanation": "Kalimat \"การได้มาเรียนที่ประเทศไทยไม่เพียงแต่เพิ่มพูนความรู้เท่านั้น แต่ยังเปิดโอกาสให้เข้าใจวัฒนธรรมที่หลากหลาย\" (dibaca: gaan dâi maa rian thîi bprà-thêet thai mâi phiiang dtɛ̀ɛ phə̂əm-phuun khwaam-rúu thâo-nán dtɛ̀ɛ yang bpə̀ət oo-gàat hâi khâo-jai wát-thá-ná-tham thîi làak-lǎai) berarti \"Kuliah di Thailand tidak hanya menambah pengetahuan, tetapi juga membuka peluang memahami keragaman budaya.\". Kalimat ini menggunakan pola \"ไม่เพียงแต่ (mâi phiiang dtɛ̀ɛ) + A + เท่านั้น + แต่ยัง (dtɛ̀ɛ yang) + B + อีกด้วย (ìik dûay)\" (Pola Tidak Hanya... Tetapi Juga... ไม่เพียงแต่...เท่านั้น ยัง...อีกด้วย) yang berfungsi untuk pola konjungsi korelatif tingkat menengah untuk menambahkan informasi paralel penguat yang melampaui poin pertama."
       },
       {
         "id": "q-th-gram-27-pg-4",
@@ -12963,7 +12963,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Tim peneliti berhasil melakukan sintesis ekstrak tanaman obat herbal Thailand dengan sukses."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"หลักสูตรนี้ไม่เพียงแต่เน้นทฤษฎีเท่านั้น แต่ยังส่งเสริมการปฏิบัติจริงในภาคสนามอีกด้วยครับ\" berarti \"Kurikulum ini tidak hanya menekankan teori, tetapi juga mendorong praktik nyata di lapangan.\"."
+        "explanation": "Kalimat \"หลักสูตรนี้ไม่เพียงแต่เน้นทฤษฎีเท่านั้น แต่ยังส่งเสริมการปฏิบัติจริงในภาคสนามอีกด้วยครับ\" (dibaca: làk-sùut níi mâi phiiang dtɛ̀ɛ nén thrʉ́t-sà-dii thâo-nán dtɛ̀ɛ yang sòng-sə̌əm gaan bpà-dtì-bàt jing nai phâak sà-nǎam ìik dûay khráp) berarti \"Kurikulum ini tidak hanya menekankan teori, tetapi juga mendorong praktik nyata di lapangan.\". Kalimat ini menggunakan pola \"ไม่เพียงแต่ (mâi phiiang dtɛ̀ɛ) + A + เท่านั้น + แต่ยัง (dtɛ̀ɛ yang) + B + อีกด้วย (ìik dûay)\" (Pola Tidak Hanya... Tetapi Juga... ไม่เพียงแต่...เท่านั้น ยัง...อีกด้วย) yang berfungsi untuk pola konjungsi korelatif tingkat menengah untuk menambahkan informasi paralel penguat yang melampaui poin pertama."
       },
       {
         "id": "q-th-gram-27-bb-2",
@@ -13107,7 +13107,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing memberitahukan kepada mahasiswa bahwa ujian lisan akan diadakan pekan depan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาแจ้งให้นักศึกษาทราบว่า การสอบปากเปล่าจะมีขึ้นในสัปดาห์หน้าครับ\" berarti \"Dosen pembimbing memberitahukan kepada mahasiswa bahwa ujian lisan akan diadakan pekan depan.\"."
+        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาแจ้งให้นักศึกษาทราบว่า การสอบปากเปล่าจะมีขึ้นในสัปดาห์หน้าครับ\" (dibaca: aa-jaan thîi-bprʉ̀k-sǎa jɛ̂ɛng hâi nák-sʉ̀k-sǎa sâap wâa gaan sɔ̀ɔp bpàak-bplào jà mii khʉ̂n nai sàp-daa nâa khráp) berarti \"Dosen pembimbing memberitahukan kepada mahasiswa bahwa ujian lisan akan diadakan pekan depan.\". Kalimat ini menggunakan pola \"Subjek + Kata Bicara / Pikir (พูด / บอก / คิด / ทราบ) + ว่า (wâa) + Klausa Kutipan\" (Ucapan Tidak Langsung (Reported Speech) dengan ว่า (wâa)) yang berfungsi untuk kata ว่า (wâa) berfungsi seperti partikel penjelas 'bahwa' dalam kalimat pelaporan tidak langsung atau isi pemikiran."
       },
       {
         "id": "q-th-gram-28-pg-2",
@@ -13123,7 +13123,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Topik riset ini sangat menantang, tetapi mahasiswa tersebut tidak menyerah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ผลการสำรวจความคิดเห็นชี้ให้เห็นว่า ผู้บริโภคส่วนใหญ่พึงพอใจในคุณภาพสินค้าค่ะ\" berarti \"Hasil survei opini mengindikasikan bahwa mayoritas konsumen puas terhadap mutu produk.\"."
+        "explanation": "Kalimat \"ผลการสำรวจความคิดเห็นชี้ให้เห็นว่า ผู้บริโภคส่วนใหญ่พึงพอใจในคุณภาพสินค้าค่ะ\" (dibaca: phǒn gaan sǎm-rùat khwaam-khít-hěn chíi hâi hěn wâa phûu-bɔɔ-rí-phôok sùan yài phʉng-phɔɔ-jai nai khun-ná-phâap sǐn-kháa khâ) berarti \"Hasil survei opini mengindikasikan bahwa mayoritas konsumen puas terhadap mutu produk.\". Kalimat ini menggunakan pola \"Subjek + Kata Bicara / Pikir (พูด / บอก / คิด / ทราบ) + ว่า (wâa) + Klausa Kutipan\" (Ucapan Tidak Langsung (Reported Speech) dengan ว่า (wâa)) yang berfungsi untuk kata ว่า (wâa) berfungsi seperti partikel penjelas 'bahwa' dalam kalimat pelaporan tidak langsung atau isi pemikiran."
       },
       {
         "id": "q-th-gram-28-pg-3",
@@ -13139,7 +13139,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kendatipun hasil eksperimen tidak sesuai hipotesis, namun tetap ditemukan fakta baru yang bermanfaat."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"นักวิชาการหลายท่านลงความเห็นตรงกันว่า การพัฒนาเทคโนโลยีต้องควบคู่ไปกับจริยธรรม\" berarti \"Banyak pakar sepakat berpandangan bahwa pengembangan teknologi harus berjalan beriringan dengan etika.\"."
+        "explanation": "Kalimat \"นักวิชาการหลายท่านลงความเห็นตรงกันว่า การพัฒนาเทคโนโลยีต้องควบคู่ไปกับจริยธรรม\" (dibaca: nák wí-chaa-gaan lǎai thân long khwaam hěn dtrong gan wâa gaan phát-thá-naa thék-noo-loo-yîi dtɔ̂ng khûap-khûu bpai gàp jà-rí-yá-tham) berarti \"Banyak pakar sepakat berpandangan bahwa pengembangan teknologi harus berjalan beriringan dengan etika.\". Kalimat ini menggunakan pola \"Subjek + Kata Bicara / Pikir (พูด / บอก / คิด / ทราบ) + ว่า (wâa) + Klausa Kutipan\" (Ucapan Tidak Langsung (Reported Speech) dengan ว่า (wâa)) yang berfungsi untuk kata ว่า (wâa) berfungsi seperti partikel penjelas 'bahwa' dalam kalimat pelaporan tidak langsung atau isi pemikiran."
       },
       {
         "id": "q-th-gram-28-pg-4",
@@ -13446,7 +13446,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa yang menerima beasiswa ini wajib berangkat menghadiri konferensi akademik internasional."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาแจ้งให้นักศึกษาทราบว่า การสอบปากเปล่าจะมีขึ้นในสัปดาห์หน้าครับ\" berarti \"Dosen pembimbing memberitahukan kepada mahasiswa bahwa ujian lisan akan diadakan pekan depan.\"."
+        "explanation": "Kalimat \"อาจารย์ที่ปรึกษาแจ้งให้นักศึกษาทราบว่า การสอบปากเปล่าจะมีขึ้นในสัปดาห์หน้าครับ\" (dibaca: aa-jaan thîi-bprʉ̀k-sǎa jɛ̂ɛng hâi nák-sʉ̀k-sǎa sâap wâa gaan sɔ̀ɔp bpàak-bplào jà mii khʉ̂n nai sàp-daa nâa khráp) berarti \"Dosen pembimbing memberitahukan kepada mahasiswa bahwa ujian lisan akan diadakan pekan depan.\". Kalimat ini menggunakan pola \"Subjek + Kata Bicara / Pikir (พูด / บอก / คิด / ทราบ) + ว่า (wâa) + Klausa Kutipan\" (Ucapan Tidak Langsung (Reported Speech) dengan ว่า (wâa)) yang berfungsi untuk kata ว่า (wâa) berfungsi seperti partikel penjelas 'bahwa' dalam kalimat pelaporan tidak langsung atau isi pemikiran."
       },
       {
         "id": "q-th-gram-28-bb-2",
@@ -13593,7 +13593,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Padahal sudah mempersiapkan diri dengan baik, namun dia tetap merasa gugup di ruang ujian."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"การสอบครั้งนี้ไม่ได้ยากเกินความสามารถของพวกเราหรอกครับ ขอให้ตั้งใจให้เต็มที่\" berarti \"Ujian kali ini tidak sesulit itu melampaui kemampuan kita kok, berusahalah dengan segenap kemampuan.\"."
+        "explanation": "Kalimat \"การสอบครั้งนี้ไม่ได้ยากเกินความสามารถของพวกเราหรอกครับ ขอให้ตั้งใจให้เต็มที่\" (dibaca: gaan sɔ̀ɔp khráng níi mâi dâi yâak gəən khwaam-sǎa-mâat khɔ̌ɔng phûak rao rɔ̀ɔk khráp khɔ̌ɔ hâi dtâng-jai hâi dtem thîi) berarti \"Ujian kali ini tidak sesulit itu melampaui kemampuan kita kok, berusahalah dengan segenap kemampuan.\". Kalimat ini menggunakan pola \"Klausa Pokok + Partikel Emosional (นะ / สิ / หรอก / เถอะ) + Partikel Kesopanan\" (Partikel Penegas Nuansa Emosi (นะ, สิ, หรอก, เถอะ)) yang berfungsi untuk menambahkan warna pragmatik pada kalimat: นะ (kelembutan ajakan), สิ (penegasan pasti), หรอก (sanggahan halus), เถอะ (ajakan bersama)."
       },
       {
         "id": "q-th-gram-29-pg-2",
@@ -13609,7 +13609,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Keikutsertaan dalam seminar akademik membantu membuka wawasan dan membangun pengetahuan baru."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"พวกเรามาร่วมมือกันพัฒนาโครงงานวิจัยนี้ให้สำเร็จลุล่วงไปด้วยดีเถอะค่ะ\" berarti \"Marilah kita bersama-sama menyukseskan proyek riset ini hingga tuntas dengan baik.\"."
+        "explanation": "Kalimat \"พวกเรามาร่วมมือกันพัฒนาโครงงานวิจัยนี้ให้สำเร็จลุล่วงไปด้วยดีเถอะค่ะ\" (dibaca: phûak rao maa rûam mʉʉ gan phát-thá-naa khroong-ngaan wí-jai níi hâi sǎm-rèt lú-lûang bpai dûay dii thə̀ khâ) berarti \"Marilah kita bersama-sama menyukseskan proyek riset ini hingga tuntas dengan baik.\". Kalimat ini menggunakan pola \"Klausa Pokok + Partikel Emosional (นะ / สิ / หรอก / เถอะ) + Partikel Kesopanan\" (Partikel Penegas Nuansa Emosi (นะ, สิ, หรอก, เถอะ)) yang berfungsi untuk menambahkan warna pragmatik pada kalimat: นะ (kelembutan ajakan), สิ (penegasan pasti), หรอก (sanggahan halus), เถอะ (ajakan bersama)."
       },
       {
         "id": "q-th-gram-29-pg-3",
@@ -13625,7 +13625,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Analisis data statistik mencerminkan hubungan positif di antara dua variabel tersebut."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ถ้าคุณมีข้อสงสัยเรื่องการลงทะเบียนเรียน ก็รีบสอบถามเจ้าหน้าที่ธุรการสิครับ\" berarti \"Jika Anda memiliki keraguan mengenai registrasi kuliah, segera tanyakan langsung kepada petugas administrasi dong.\"."
+        "explanation": "Kalimat \"ถ้าคุณมีข้อสงสัยเรื่องการลงทะเบียนเรียน ก็รีบสอบถามเจ้าหน้าที่ธุรการสิครับ\" (dibaca: thâa khun mii khɔ̂ɔ sǒng-sǎi rʉ̂ang gaan long thá-biian rian gɔ̂ rîip sɔ̀ɔp-thǎam jâo-nâa-thîi thú-rá-gaan sì khráp) berarti \"Jika Anda memiliki keraguan mengenai registrasi kuliah, segera tanyakan langsung kepada petugas administrasi dong.\". Kalimat ini menggunakan pola \"Klausa Pokok + Partikel Emosional (นะ / สิ / หรอก / เถอะ) + Partikel Kesopanan\" (Partikel Penegas Nuansa Emosi (นะ, สิ, หรอก, เถอะ)) yang berfungsi untuk menambahkan warna pragmatik pada kalimat: นะ (kelembutan ajakan), สิ (penegasan pasti), หรอก (sanggahan halus), เถอะ (ajakan bersama)."
       },
       {
         "id": "q-th-gram-29-pg-4",
@@ -13932,7 +13932,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Topik riset ini sangat menantang, tetapi mahasiswa tersebut tidak menyerah."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"การสอบครั้งนี้ไม่ได้ยากเกินความสามารถของพวกเราหรอกครับ ขอให้ตั้งใจให้เต็มที่\" berarti \"Ujian kali ini tidak sesulit itu melampaui kemampuan kita kok, berusahalah dengan segenap kemampuan.\"."
+        "explanation": "Kalimat \"การสอบครั้งนี้ไม่ได้ยากเกินความสามารถของพวกเราหรอกครับ ขอให้ตั้งใจให้เต็มที่\" (dibaca: gaan sɔ̀ɔp khráng níi mâi dâi yâak gəən khwaam-sǎa-mâat khɔ̌ɔng phûak rao rɔ̀ɔk khráp khɔ̌ɔ hâi dtâng-jai hâi dtem thîi) berarti \"Ujian kali ini tidak sesulit itu melampaui kemampuan kita kok, berusahalah dengan segenap kemampuan.\". Kalimat ini menggunakan pola \"Klausa Pokok + Partikel Emosional (นะ / สิ / หรอก / เถอะ) + Partikel Kesopanan\" (Partikel Penegas Nuansa Emosi (นะ, สิ, หรอก, เถอะ)) yang berfungsi untuk menambahkan warna pragmatik pada kalimat: นะ (kelembutan ajakan), สิ (penegasan pasti), หรอก (sanggahan halus), เถอะ (ajakan bersama)."
       },
       {
         "id": "q-th-gram-29-bb-2",
@@ -14076,7 +14076,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Keberhasilan dalam studi tingkat pascasarjana membutuhkan kesabaran yang luar biasa."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"คณะนักวิจัยสามารถสังเคราะห์สารสกัดจากพืชสมุนไพรไทยได้สำเร็จครับ\" berarti \"Tim peneliti berhasil melakukan sintesis ekstrak tanaman obat herbal Thailand dengan sukses.\"."
+        "explanation": "Kalimat \"คณะนักวิจัยสามารถสังเคราะห์สารสกัดจากพืชสมุนไพรไทยได้สำเร็จครับ\" (dibaca: khá-ná nák-wí-jai sǎa-mâat sǎng-khrɔ́ sǎan sà-gàt jàak phʉ̂ʉt sà-mǔn-phrai thai dâi sǎm-rèt khráp) berarti \"Tim peneliti berhasil melakukan sintesis ekstrak tanaman obat herbal Thailand dengan sukses.\". Kalimat ini menggunakan pola \"Verba Tindakan + ได้สำเร็จ (dâi sǎm-rèt) / ได้ผลดี (dâi phǒn dii)\" (Hasil & Pencapaian Tindakan สำเร็จ (sǎm-rèt) & ได้ผล) yang berfungsi untuk menyatakan keberhasilan capaian sasaran dengan สำเร็จ dan efektivitas metode kerja dengan ได้ผล."
       },
       {
         "id": "q-th-gram-30-pg-2",
@@ -14092,7 +14092,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dosen pembimbing kemungkinan besar saat ini sedang memeriksa tesis kita."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"แนวทางการจัดการเรียนรู้แบบมีส่วนร่วมนี้ได้รับผลตอบรับที่ดีเยี่ยมจากนักเรียนค่ะ\" berarti \"Pendekatan pembelajaran partisipatif ini memperoleh hasil respons yang amat baik dari murid-murid.\"."
+        "explanation": "Kalimat \"แนวทางการจัดการเรียนรู้แบบมีส่วนร่วมนี้ได้รับผลตอบรับที่ดีเยี่ยมจากนักเรียนค่ะ\" (dibaca: nɛɛw thaang gaan jàt gaan rian rúu bɛ̀ɛp mii sùan rûam níi dâi ráp phǒn dtɔ̀ɔp-ráp thîi dii yîam jàak nák-rian khâ) berarti \"Pendekatan pembelajaran partisipatif ini memperoleh hasil respons yang amat baik dari murid-murid.\". Kalimat ini menggunakan pola \"Verba Tindakan + ได้สำเร็จ (dâi sǎm-rèt) / ได้ผลดี (dâi phǒn dii)\" (Hasil & Pencapaian Tindakan สำเร็จ (sǎm-rèt) & ได้ผล) yang berfungsi untuk menyatakan keberhasilan capaian sasaran dengan สำเร็จ dan efektivitas metode kerja dengan ได้ผล."
       },
       {
         "id": "q-th-gram-30-pg-3",
@@ -14108,7 +14108,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kendati pengujian tahap awal belum berhasil, namun tim memperoleh pelajaran penting untuk formulasi berikutnya."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"แม้การทดลองระยะแรกจะไม่สำเร็จ แต่ทีมงานก็ได้บทเรียนสำคัญในการพัฒนาสูตรทดลองต่อไป\" berarti \"Kendati pengujian tahap awal belum berhasil, namun tim memperoleh pelajaran penting untuk formulasi berikutnya.\"."
+        "explanation": "Kalimat \"แม้การทดลองระยะแรกจะไม่สำเร็จ แต่ทีมงานก็ได้บทเรียนสำคัญในการพัฒนาสูตรทดลองต่อไป\" (dibaca: mɛ́ɛ gaan thót-lɔɔng rá-yá rɛ̂ɛk jà mâi sǎm-rèt dtɛ̀ɛ thiim-ngaan gɔ̂ dâi bòt-rian sǎm-khan nai gaan phát-thá-naa sùut thót-lɔɔng dtɔ̀ɔ bpai) berarti \"Kendati pengujian tahap awal belum berhasil, namun tim memperoleh pelajaran penting untuk formulasi berikutnya.\". Kalimat ini menggunakan pola \"Verba Tindakan + ได้สำเร็จ (dâi sǎm-rèt) / ได้ผลดี (dâi phǒn dii)\" (Hasil & Pencapaian Tindakan สำเร็จ (sǎm-rèt) & ได้ผล) yang berfungsi untuk menyatakan keberhasilan capaian sasaran dengan สำเร็จ dan efektivitas metode kerja dengan ได้ผล."
       },
       {
         "id": "q-th-gram-30-pg-4",
@@ -14415,7 +14415,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Tim peneliti berhasil melakukan sintesis ekstrak tanaman obat herbal Thailand dengan sukses."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"คณะนักวิจัยสามารถสังเคราะห์สารสกัดจากพืชสมุนไพรไทยได้สำเร็จครับ\" berarti \"Tim peneliti berhasil melakukan sintesis ekstrak tanaman obat herbal Thailand dengan sukses.\"."
+        "explanation": "Kalimat \"คณะนักวิจัยสามารถสังเคราะห์สารสกัดจากพืชสมุนไพรไทยได้สำเร็จครับ\" (dibaca: khá-ná nák-wí-jai sǎa-mâat sǎng-khrɔ́ sǎan sà-gàt jàak phʉ̂ʉt sà-mǔn-phrai thai dâi sǎm-rèt khráp) berarti \"Tim peneliti berhasil melakukan sintesis ekstrak tanaman obat herbal Thailand dengan sukses.\". Kalimat ini menggunakan pola \"Verba Tindakan + ได้สำเร็จ (dâi sǎm-rèt) / ได้ผลดี (dâi phǒn dii)\" (Hasil & Pencapaian Tindakan สำเร็จ (sǎm-rèt) & ได้ผล) yang berfungsi untuk menyatakan keberhasilan capaian sasaran dengan สำเร็จ dan efektivitas metode kerja dengan ได้ผล."
       },
       {
         "id": "q-th-gram-30-bb-2",
@@ -14559,7 +14559,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Perubahan iklim mengakibatkan peningkatan suhu permukaan air laut secara signifikan."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"จึงเรียนมาเพื่อโปรดพิจารณาให้ความอนุเคราะห์ในการเข้าใช้สถานที่เพื่อการวิจัยครับ\" berarti \"Demikian surat ini disampaikan agar kiranya berkenan dipertimbangkan untuk izin penggunaan fasilitas demi kepentingan riset.\"."
+        "explanation": "Kalimat \"จึงเรียนมาเพื่อโปรดพิจารณาให้ความอนุเคราะห์ในการเข้าใช้สถานที่เพื่อการวิจัยครับ\" (dibaca: jʉng rian maa phʉ̂a bpròot phí-jaa-rá-naa hâi khwaam à-nú-khrɔ́ nai gaan khâo chái sà-thǎan-thîi phʉ̂a gaan wí-jai khráp) berarti \"Demikian surat ini disampaikan agar kiranya berkenan dipertimbangkan untuk izin penggunaan fasilitas demi kepentingan riset.\". Kalimat ini menggunakan pola \"Formula Pembuka (เรียน / กราบเรียน) + Isi + Formula Penutup (ขอแสดงความนับถือ)\" (Ragam Bahasa Formal & Korespondensi Surat Resmi) yang berfungsi untuk tata cara persuratan dinas dan akademik resmi di Thailand dengan register bahasa baku tingkat tinggi dan penghormatan jabatan."
       },
       {
         "id": "q-th-gram-31-pg-2",
@@ -14575,7 +14575,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Hormat kami setinggi-tingginya atas jalinan kerja sama akademik di antara kedua institusi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ขอแสดงความนับถืออย่างยิ่งในความร่วมมือทางวิชาการระหว่างสถาบันทั้งสองแห่งค่ะ\" berarti \"Hormat kami setinggi-tingginya atas jalinan kerja sama akademik di antara kedua institusi.\"."
+        "explanation": "Kalimat \"ขอแสดงความนับถืออย่างยิ่งในความร่วมมือทางวิชาการระหว่างสถาบันทั้งสองแห่งค่ะ\" (dibaca: khɔ̌ɔ sà-dɛɛng khwaam-náp-thʉ̌ʉ yàang yîng nai khwaam rûam-mʉʉ thaang wí-chaa-gaan rá-wàang sà-thǎa-ban tháng sɔ̌ɔng hɛ̀ng khâ) berarti \"Hormat kami setinggi-tingginya atas jalinan kerja sama akademik di antara kedua institusi.\". Kalimat ini menggunakan pola \"Formula Pembuka (เรียน / กราบเรียน) + Isi + Formula Penutup (ขอแสดงความนับถือ)\" (Ragam Bahasa Formal & Korespondensi Surat Resmi) yang berfungsi untuk tata cara persuratan dinas dan akademik resmi di Thailand dengan register bahasa baku tingkat tinggi dan penghormatan jabatan."
       },
       {
         "id": "q-th-gram-31-pg-3",
@@ -14591,7 +14591,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Sebagian cendekiawan meyakini mekanisme pasar bebas, sementara kubu lainnya menegaskan perlunya intervensi pemerintah."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"หนังสือราชการฉบับนี้มีผลบังคับใช้ตั้งแต่วันที่ระบุในประกาศเป็นต้นไป\" berarti \"Surat dinas resmi ini berlaku efektif terhitung sejak tanggal yang tercantum dalam surat pengumuman.\"."
+        "explanation": "Kalimat \"หนังสือราชการฉบับนี้มีผลบังคับใช้ตั้งแต่วันที่ระบุในประกาศเป็นต้นไป\" (dibaca: nǎng-sʉ̌ʉ râat-chá-gaan chà-bàp níi mii phǒn bang-kháp chái dtâng dtɛ̀ɛ wan thîi rá-bù nai bprà-gàat bpen dtôn bpai) berarti \"Surat dinas resmi ini berlaku efektif terhitung sejak tanggal yang tercantum dalam surat pengumuman.\". Kalimat ini menggunakan pola \"Formula Pembuka (เรียน / กราบเรียน) + Isi + Formula Penutup (ขอแสดงความนับถือ)\" (Ragam Bahasa Formal & Korespondensi Surat Resmi) yang berfungsi untuk tata cara persuratan dinas dan akademik resmi di Thailand dengan register bahasa baku tingkat tinggi dan penghormatan jabatan."
       },
       {
         "id": "q-th-gram-31-pg-4",
@@ -14898,7 +14898,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Krisis ekonomi kali ini memberikan dampak berat terhadap sektor pariwisata yang timbul akibat penutupan wilayah negara."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"จึงเรียนมาเพื่อโปรดพิจารณาให้ความอนุเคราะห์ในการเข้าใช้สถานที่เพื่อการวิจัยครับ\" berarti \"Demikian surat ini disampaikan agar kiranya berkenan dipertimbangkan untuk izin penggunaan fasilitas demi kepentingan riset.\"."
+        "explanation": "Kalimat \"จึงเรียนมาเพื่อโปรดพิจารณาให้ความอนุเคราะห์ในการเข้าใช้สถานที่เพื่อการวิจัยครับ\" (dibaca: jʉng rian maa phʉ̂a bpròot phí-jaa-rá-naa hâi khwaam à-nú-khrɔ́ nai gaan khâo chái sà-thǎan-thîi phʉ̂a gaan wí-jai khráp) berarti \"Demikian surat ini disampaikan agar kiranya berkenan dipertimbangkan untuk izin penggunaan fasilitas demi kepentingan riset.\". Kalimat ini menggunakan pola \"Formula Pembuka (เรียน / กราบเรียน) + Isi + Formula Penutup (ขอแสดงความนับถือ)\" (Ragam Bahasa Formal & Korespondensi Surat Resmi) yang berfungsi untuk tata cara persuratan dinas dan akademik resmi di Thailand dengan register bahasa baku tingkat tinggi dan penghormatan jabatan."
       },
       {
         "id": "q-th-gram-31-bb-2",
@@ -15043,7 +15043,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Universitas menerima kehormatan mulia atas perkenan kunjungan kerajaan meresmikan gedung riset baru."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"มหาวิทยาลัยได้รับพระมหากรุณาธิคุณในการเสด็จพระราชดำเนินมาเปิดอาคารวิจัยหลังใหม่\" berarti \"Universitas menerima kehormatan mulia atas perkenan kunjungan kerajaan meresmikan gedung riset baru.\"."
+        "explanation": "Kalimat \"มหาวิทยาลัยได้รับพระมหากรุณาธิคุณในการเสด็จพระราชดำเนินมาเปิดอาคารวิจัยหลังใหม่\" (dibaca: má-hǎa-wít-thá-yaa-lai dâi ráp phrá-má-hǎa-gà-rú-naa-thí-khun nai gaan sà-dèt phrá-râat-chá-dam-nəən maa bpə̀ət aa-khaan wí-jai lǎng mài) berarti \"Universitas menerima kehormatan mulia atas perkenan kunjungan kerajaan meresmikan gedung riset baru.\". Kalimat ini menggunakan pola \"Bentuk Halus Khusus: ทรง + Verba / พระราชทาน / ประทาน\" (Kosakata & Ungkapan Tingkat Tinggi (ราชาศัพท์ & Ragam Baku)) yang berfungsi untuk memahami sistem leksikal tingkatan bahasa (Royal Thai Vocabulary & High Formal Register) yang wajib dipahami di ranah publik Thailand."
       },
       {
         "id": "q-th-gram-32-pg-2",
@@ -15059,7 +15059,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Sebagai kesimpulan, penelitian ini secara tegas menunjukkan pentingnya adopsi teknologi digital di pendidikan tinggi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"นักศึกษาต้องแต่งกายด้วยชุดครุยวิทยฐานะตามระเบียบในพิธีพระราชทานปริญญาบัตรค่ะ\" berarti \"Mahasiswa wajib mengenakan toga toga akademik sesuai ketentuan dalam upacara penganugerahan ijazah resmi.\"."
+        "explanation": "Kalimat \"นักศึกษาต้องแต่งกายด้วยชุดครุยวิทยฐานะตามระเบียบในพิธีพระราชทานปริญญาบัตรค่ะ\" (dibaca: nák-sʉ̀k-sǎa dtɔ̂ng dtɛ̀ng-gaai dûay chút khruui wít-thá-yá-thǎa-ná dtaam rá-bìap nai phí-thii phrá-râat-chá-thaan bpa-ring-yaa-bàt khâ) berarti \"Mahasiswa wajib mengenakan toga toga akademik sesuai ketentuan dalam upacara penganugerahan ijazah resmi.\". Kalimat ini menggunakan pola \"Bentuk Halus Khusus: ทรง + Verba / พระราชทาน / ประทาน\" (Kosakata & Ungkapan Tingkat Tinggi (ราชาศัพท์ & Ragam Baku)) yang berfungsi untuk memahami sistem leksikal tingkatan bahasa (Royal Thai Vocabulary & High Formal Register) yang wajib dipahami di ranah publik Thailand."
       },
       {
         "id": "q-th-gram-32-pg-3",
@@ -15075,7 +15075,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Peneliti menyarankan agar riset selanjutnya memperluas cakupan pengambilan sampel ke daerah provinsi lain untuk membandingkan hasil."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"การใช้ถ้อยคำที่ถูกต้องตามแบบแผนแสดงถึงวุฒิภาวะและความเข้าใจในวัฒนธรรมระดับสูง\" berarti \"Penggunaan tutur kata yang tepat sesuai pedoman mencerminkan kedewasaan dan pemahaman budaya tingkat tinggi.\"."
+        "explanation": "Kalimat \"การใช้ถ้อยคำที่ถูกต้องตามแบบแผนแสดงถึงวุฒิภาวะและความเข้าใจในวัฒนธรรมระดับสูง\" (dibaca: gaan chái thɔ̂i-kham thîi thùuk-dtɔ̂ng dtaam bɛ̀ɛp-phɛ̌ɛn sà-dɛɛng thʉ̌ng wút-thì-phaa-wá lɛ́ khwaam khâo-jai nai wát-thá-ná-tham rá-dàp sǔung) berarti \"Penggunaan tutur kata yang tepat sesuai pedoman mencerminkan kedewasaan dan pemahaman budaya tingkat tinggi.\". Kalimat ini menggunakan pola \"Bentuk Halus Khusus: ทรง + Verba / พระราชทาน / ประทาน\" (Kosakata & Ungkapan Tingkat Tinggi (ราชาศัพท์ & Ragam Baku)) yang berfungsi untuk memahami sistem leksikal tingkatan bahasa (Royal Thai Vocabulary & High Formal Register) yang wajib dipahami di ranah publik Thailand."
       },
       {
         "id": "q-th-gram-32-pg-4",
@@ -15382,7 +15382,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kelompok sampel pertama menunjukkan laju pemulihan yang cepat. Sebaliknya, kelompok kontrol justru tidak memperlihatkan kemajuan nyata."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"มหาวิทยาลัยได้รับพระมหากรุณาธิคุณในการเสด็จพระราชดำเนินมาเปิดอาคารวิจัยหลังใหม่\" berarti \"Universitas menerima kehormatan mulia atas perkenan kunjungan kerajaan meresmikan gedung riset baru.\"."
+        "explanation": "Kalimat \"มหาวิทยาลัยได้รับพระมหากรุณาธิคุณในการเสด็จพระราชดำเนินมาเปิดอาคารวิจัยหลังใหม่\" (dibaca: má-hǎa-wít-thá-yaa-lai dâi ráp phrá-má-hǎa-gà-rú-naa-thí-khun nai gaan sà-dèt phrá-râat-chá-dam-nəən maa bpə̀ət aa-khaan wí-jai lǎng mài) berarti \"Universitas menerima kehormatan mulia atas perkenan kunjungan kerajaan meresmikan gedung riset baru.\". Kalimat ini menggunakan pola \"Bentuk Halus Khusus: ทรง + Verba / พระราชทาน / ประทาน\" (Kosakata & Ungkapan Tingkat Tinggi (ราชาศัพท์ & Ragam Baku)) yang berfungsi untuk memahami sistem leksikal tingkatan bahasa (Royal Thai Vocabulary & High Formal Register) yang wajib dipahami di ranah publik Thailand."
       },
       {
         "id": "q-th-gram-32-bb-2",
@@ -15526,7 +15526,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Dari seluruh temuan maka dapat disimpulkan bahwa teori ini tetap valid dan dapat diterapkan dalam konteks masyarakat Thailand."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"กราบเรียนท่านประธานและคณะกรรมการผู้ทรงคุณวุฒิทุกท่าน ผมขอเริ่มนำเสนอวิทยานิพนธ์ ณ บัดนี้ครับ\" berarti \"Yth. Ketua Sidang dan dewan penguji yang terhormat, saya mohon izin memulai pemaparan tesis ini.\"."
+        "explanation": "Kalimat \"กราบเรียนท่านประธานและคณะกรรมการผู้ทรงคุณวุฒิทุกท่าน ผมขอเริ่มนำเสนอวิทยานิพนธ์ ณ บัดนี้ครับ\" (dibaca: gràap rian thân bprà-thaan lɛ́ khá-ná gam-má-gaan phûu-song-khun-ná-wút thúk thân phǒm khɔ̌ɔ rə̂əm nam-sà-nə̌ə wít-thá-yaa-ní-phon ná bàt níi khráp) berarti \"Yth. Ketua Sidang dan dewan penguji yang terhormat, saya mohon izin memulai pemaparan tesis ini.\". Kalimat ini menggunakan pola \"Pengantar (ขอเริ่มด้วย...) + Penjelasan Pokok (ประการแรก...) + Penutup (สรุปได้ว่า...)\" (Struktur Retorika Presentasi & Argumentasi Ilmiah) yang berfungsi untuk teknik orasi dan penyampaian presentasi makalah seminar ilmiah dengan alur retorika baku, runut, dan meyakinkan penguji."
       },
       {
         "id": "q-th-gram-33-pg-2",
@@ -15542,7 +15542,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Perjanjian ini dibuat rangkap dua dengan bunyi teks yang sama, kedua belah pihak telah membaca dan memahami seluruh isinya secara saksama."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"จากการวิเคราะห์ข้อมูลเชิงประจักษ์ สามารถจำแนกประเด็นสำคัญออกเป็นสามประการหลักค่ะ\" berarti \"Berdasarkan analisis data empiris, poin-poin krusial dapat diklasifikasikan ke dalam tiga pilar utama.\"."
+        "explanation": "Kalimat \"จากการวิเคราะห์ข้อมูลเชิงประจักษ์ สามารถจำแนกประเด็นสำคัญออกเป็นสามประการหลักค่ะ\" (dibaca: jàak gaan wí-khrɔ́ khɔ̂ɔ-muun choəng bprà-jàk sǎa-mâat jam-nɛ̀ɛk bprà-deen sǎm-khan ɔ̀ɔk bpen sǎam bprà-gaan làk khâ) berarti \"Berdasarkan analisis data empiris, poin-poin krusial dapat diklasifikasikan ke dalam tiga pilar utama.\". Kalimat ini menggunakan pola \"Pengantar (ขอเริ่มด้วย...) + Penjelasan Pokok (ประการแรก...) + Penutup (สรุปได้ว่า...)\" (Struktur Retorika Presentasi & Argumentasi Ilmiah) yang berfungsi untuk teknik orasi dan penyampaian presentasi makalah seminar ilmiah dengan alur retorika baku, runut, dan meyakinkan penguji."
       },
       {
         "id": "q-th-gram-33-pg-3",
@@ -15558,7 +15558,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Nota kesepahaman ini berlaku untuk jangka waktu tiga tahun dan dapat diperpanjang atas persetujuan bersama secara tertulis."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ขอบพระคุณสำหรับข้อซักถามอันเป็นประโยชน์อย่างยิ่ง ทางผู้วิจัยขอชี้แจงระเบียบวิธีวิจัยเพิ่มเติม\" berarti \"Terima kasih banyak atas pertanyaan yang sangat berharga, izinkan peneliti mengklarifikasi metodologi riset ini.\"."
+        "explanation": "Kalimat \"ขอบพระคุณสำหรับข้อซักถามอันเป็นประโยชน์อย่างยิ่ง ทางผู้วิจัยขอชี้แจงระเบียบวิธีวิจัยเพิ่มเติม\" (dibaca: khɔ̀ɔp phrá-khun sǎm-ràp khɔ̂ɔ sák-thǎam an bpen bprà-yòot yàang yîng thaang phûu-wí-jai khɔ̌ɔ chíi-jɛɛng rá-bìap wí-thii wí-jai phə̂əm-dtəəm) berarti \"Terima kasih banyak atas pertanyaan yang sangat berharga, izinkan peneliti mengklarifikasi metodologi riset ini.\". Kalimat ini menggunakan pola \"Pengantar (ขอเริ่มด้วย...) + Penjelasan Pokok (ประการแรก...) + Penutup (สรุปได้ว่า...)\" (Struktur Retorika Presentasi & Argumentasi Ilmiah) yang berfungsi untuk teknik orasi dan penyampaian presentasi makalah seminar ilmiah dengan alur retorika baku, runut, dan meyakinkan penguji."
       },
       {
         "id": "q-th-gram-33-pg-4",
@@ -15865,7 +15865,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Sebagai kesimpulan, penelitian ini secara tegas menunjukkan pentingnya adopsi teknologi digital di pendidikan tinggi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"กราบเรียนท่านประธานและคณะกรรมการผู้ทรงคุณวุฒิทุกท่าน ผมขอเริ่มนำเสนอวิทยานิพนธ์ ณ บัดนี้ครับ\" berarti \"Yth. Ketua Sidang dan dewan penguji yang terhormat, saya mohon izin memulai pemaparan tesis ini.\"."
+        "explanation": "Kalimat \"กราบเรียนท่านประธานและคณะกรรมการผู้ทรงคุณวุฒิทุกท่าน ผมขอเริ่มนำเสนอวิทยานิพนธ์ ณ บัดนี้ครับ\" (dibaca: gràap rian thân bprà-thaan lɛ́ khá-ná gam-má-gaan phûu-song-khun-ná-wút thúk thân phǒm khɔ̌ɔ rə̂əm nam-sà-nə̌ə wít-thá-yaa-ní-phon ná bàt níi khráp) berarti \"Yth. Ketua Sidang dan dewan penguji yang terhormat, saya mohon izin memulai pemaparan tesis ini.\". Kalimat ini menggunakan pola \"Pengantar (ขอเริ่มด้วย...) + Penjelasan Pokok (ประการแรก...) + Penutup (สรุปได้ว่า...)\" (Struktur Retorika Presentasi & Argumentasi Ilmiah) yang berfungsi untuk teknik orasi dan penyampaian presentasi makalah seminar ilmiah dengan alur retorika baku, runut, dan meyakinkan penguji."
       },
       {
         "id": "q-th-gram-33-bb-2",
@@ -16009,7 +16009,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Jika salah satu pihak melakukan wanprestasi, pihak lainnya berhak membatalkan perjanjian dan menuntut ganti rugi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"ตามที่ศาสตราจารย์สมเกียรติได้ชี้ให้เห็นในงานวิจัยปี 2565 ปัจจัยด้านสิ่งแวดล้อมมีผลต่อการเรียนรู้ครับ\" berarti \"Sebagaimana telah ditunjukkan Profesor Somkiat dalam riset tahun 2022, faktor lingkungan berdampak nyata terhadap pembelajaran.\"."
+        "explanation": "Kalimat \"ตามที่ศาสตราจารย์สมเกียรติได้ชี้ให้เห็นในงานวิจัยปี 2565 ปัจจัยด้านสิ่งแวดล้อมมีผลต่อการเรียนรู้ครับ\" (dibaca: dtaam thîi sàat-dtraa-jaan sǒm-gìat dâi chíi hâi hěn nai ngaan wí-jai bpii sɔ̌ɔng phan hâa rɔ́ɔi hòk sìp hâa bpàt-jai dâan sìng-wɛ́ɛt-lɔ́ɔm mii phǒn dtɔ̀ɔ gaan rian rúu khráp) berarti \"Sebagaimana telah ditunjukkan Profesor Somkiat dalam riset tahun 2022, faktor lingkungan berdampak nyata terhadap pembelajaran.\". Kalimat ini menggunakan pola \"อ้างอิงจาก (âang-ing jàak) + Sumber & ตามที่ (dtaam thîi) + Penulis + ได้ระบุไว้\" (Rujukan & Sitasi Menurut ตามที่ (dtaam thîi) & อ้างอิง) yang berfungsi untuk kaidah menyitir literatur ilmiah, mengutip pendapat pakar, dan menghindari plagiarisme dalam penulisan karya tulis ilmiah bahasa Thai."
       },
       {
         "id": "q-th-gram-34-pg-2",
@@ -16025,7 +16025,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan Tabel 4.2 ditemukan bahwa nilai rata-rata kelompok eksperimen lebih tinggi daripada kelompok kontrol pada taraf signifikansi .01."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ผลการศึกษาครั้งนี้สอดคล้องกับข้อค้นพบของงานวิจัยก่อนหน้า ซึ่งเน้นย้ำถึงความยั่งยืนค่ะ\" berarti \"Hasil riset ini sejalan dengan temuan studi terdahulu yang menekankan pentingnya keberlanjutan.\"."
+        "explanation": "Kalimat \"ผลการศึกษาครั้งนี้สอดคล้องกับข้อค้นพบของงานวิจัยก่อนหน้า ซึ่งเน้นย้ำถึงความยั่งยืนค่ะ\" (dibaca: phǒn gaan sʉ̀k-sǎa khráng níi sɔ̀ɔt-khlɔ́ɔng gàp khɔ̂ɔ khón phóp khɔ̌ɔng ngaan wí-jai gɔ̀ɔn nâa sʉ̂ng nén-yám thʉ̌ng khwaam yâng-yʉʉn khâ) berarti \"Hasil riset ini sejalan dengan temuan studi terdahulu yang menekankan pentingnya keberlanjutan.\". Kalimat ini menggunakan pola \"อ้างอิงจาก (âang-ing jàak) + Sumber & ตามที่ (dtaam thîi) + Penulis + ได้ระบุไว้\" (Rujukan & Sitasi Menurut ตามที่ (dtaam thîi) & อ้างอิง) yang berfungsi untuk kaidah menyitir literatur ilmiah, mengutip pendapat pakar, dan menghindari plagiarisme dalam penulisan karya tulis ilmiah bahasa Thai."
       },
       {
         "id": "q-th-gram-34-pg-3",
@@ -16041,7 +16041,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Pengutipan literatur akademik wajib berpedoman pada format standar internasional seperti format APA secara konsisten."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"การอ้างอิงเอกสารทางวิชาการต้องเป็นไปตามรูปแบบมาตรฐานสากล เช่น รูปแบบ APA อย่างสม่ำเสมอ\" berarti \"Pengutipan literatur akademik wajib berpedoman pada format standar internasional seperti format APA secara konsisten.\"."
+        "explanation": "Kalimat \"การอ้างอิงเอกสารทางวิชาการต้องเป็นไปตามรูปแบบมาตรฐานสากล เช่น รูปแบบ APA อย่างสม่ำเสมอ\" (dibaca: gaan âang-ing èek-gà-sǎan thaang wí-chaa-gaan dtɔ̂ng bpen bpai dtaam rûup-bɛ̀ɛp mâat-dtra-thǎan sǎa-gon chên rûup-bɛ̀ɛp APA yàang sà-màm-sà-mə̌ə) berarti \"Pengutipan literatur akademik wajib berpedoman pada format standar internasional seperti format APA secara konsisten.\". Kalimat ini menggunakan pola \"อ้างอิงจาก (âang-ing jàak) + Sumber & ตามที่ (dtaam thîi) + Penulis + ได้ระบุไว้\" (Rujukan & Sitasi Menurut ตามที่ (dtaam thîi) & อ้างอิง) yang berfungsi untuk kaidah menyitir literatur ilmiah, mengutip pendapat pakar, dan menghindari plagiarisme dalam penulisan karya tulis ilmiah bahasa Thai."
       },
       {
         "id": "q-th-gram-34-pg-4",
@@ -16348,7 +16348,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimana telah ditunjukkan Profesor Somkiat dalam riset tahun 2022, faktor lingkungan berdampak nyata terhadap pembelajaran."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"ตามที่ศาสตราจารย์สมเกียรติได้ชี้ให้เห็นในงานวิจัยปี 2565 ปัจจัยด้านสิ่งแวดล้อมมีผลต่อการเรียนรู้ครับ\" berarti \"Sebagaimana telah ditunjukkan Profesor Somkiat dalam riset tahun 2022, faktor lingkungan berdampak nyata terhadap pembelajaran.\"."
+        "explanation": "Kalimat \"ตามที่ศาสตราจารย์สมเกียรติได้ชี้ให้เห็นในงานวิจัยปี 2565 ปัจจัยด้านสิ่งแวดล้อมมีผลต่อการเรียนรู้ครับ\" (dibaca: dtaam thîi sàat-dtraa-jaan sǒm-gìat dâi chíi hâi hěn nai ngaan wí-jai bpii sɔ̌ɔng phan hâa rɔ́ɔi hòk sìp hâa bpàt-jai dâan sìng-wɛ́ɛt-lɔ́ɔm mii phǒn dtɔ̀ɔ gaan rian rúu khráp) berarti \"Sebagaimana telah ditunjukkan Profesor Somkiat dalam riset tahun 2022, faktor lingkungan berdampak nyata terhadap pembelajaran.\". Kalimat ini menggunakan pola \"อ้างอิงจาก (âang-ing jàak) + Sumber & ตามที่ (dtaam thîi) + Penulis + ได้ระบุไว้\" (Rujukan & Sitasi Menurut ตามที่ (dtaam thîi) & อ้างอิง) yang berfungsi untuk kaidah menyitir literatur ilmiah, mengutip pendapat pakar, dan menghindari plagiarisme dalam penulisan karya tulis ilmiah bahasa Thai."
       },
       {
         "id": "q-th-gram-34-bb-2",
@@ -16492,7 +16492,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Diagram batang memperlihatkan tren pertumbuhan eksponensial dari publikasi karya riset pada jurnal internasional bereputasi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"วิกฤตเศรษฐกิจในครั้งนี้ส่งผลกระทบอย่างรุนแรงต่อภาคการท่องเที่ยว อันเนื่องมาจากการปิดประเทศครับ\" berarti \"Krisis ekonomi kali ini memberikan dampak berat terhadap sektor pariwisata yang timbul akibat penutupan wilayah negara.\"."
+        "explanation": "Kalimat \"วิกฤตเศรษฐกิจในครั้งนี้ส่งผลกระทบอย่างรุนแรงต่อภาคการท่องเที่ยว อันเนื่องมาจากการปิดประเทศครับ\" (dibaca: wí-grìt sèet-thà-gìt nai khráng níi sòng phǒn grà-thóp yàang run-rɛɛng dtɔ̀ɔ phâak gaan thîang-thîaw an nʉ̂ang maa jàak gaan bpìt bprà-thêet khráp) berarti \"Krisis ekonomi kali ini memberikan dampak berat terhadap sektor pariwisata yang timbul akibat penutupan wilayah negara.\". Kalimat ini menggunakan pola \"Fenomena Akibat + อันเนื่องมาจาก (an nʉ̂ang maa jàak) + Faktor Penyebab Mendasar\" (Kausalitas Kompleks อันเนื่องมาจาก (an nʉ̂ang maa jàak)) yang berfungsi untuk menghubungkan rantai sebab-akibat ilmiah tingkat tinggi yang bermakna 'yang timbul sebagai konsekuensi logis dari / disebabkan oleh'."
       },
       {
         "id": "q-th-gram-35-pg-2",
@@ -16508,7 +16508,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Perubahan iklim mengakibatkan peningkatan suhu permukaan air laut secara signifikan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"การเปลี่ยนแปลงสภาพภูมิอากาศส่งผลให้อุณหภูมิผิวน้ำทะเลเพิ่มสูงขึ้นอย่างมีนัยสำคัญค่ะ\" berarti \"Perubahan iklim mengakibatkan peningkatan suhu permukaan air laut secara signifikan.\"."
+        "explanation": "Kalimat \"การเปลี่ยนแปลงสภาพภูมิอากาศส่งผลให้อุณหภูมิผิวน้ำทะเลเพิ่มสูงขึ้นอย่างมีนัยสำคัญค่ะ\" (dibaca: gaan bplìan-bprɛɛng sà-phǎap phuu-mí-aa-gàat sòng phǒn hâi un-hà-phuum phǐu náam thá-lee phə̂əm sǔung khʉ̂n yàang mii nai-yá-sǎm-khan khâ) berarti \"Perubahan iklim mengakibatkan peningkatan suhu permukaan air laut secara signifikan.\". Kalimat ini menggunakan pola \"Fenomena Akibat + อันเนื่องมาจาก (an nʉ̂ang maa jàak) + Faktor Penyebab Mendasar\" (Kausalitas Kompleks อันเนื่องมาจาก (an nʉ̂ang maa jàak)) yang berfungsi untuk menghubungkan rantai sebab-akibat ilmiah tingkat tinggi yang bermakna 'yang timbul sebagai konsekuensi logis dari / disebabkan oleh'."
       },
       {
         "id": "q-th-gram-35-pg-3",
@@ -16524,7 +16524,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kata Kunci: Pembelajaran Bahasa Thai, Mahasiswa Asing, Efektivitas Pembelajaran, Pengembangan Kurikulum."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ปัญหาความเหลื่อมล้ำทางการศึกษามีสาเหตุหลักมาจากโครงสร้างการกระจายงบประมาณที่ไม่ทั่วถึง\" berarti \"Permasalahan kesenjangan pendidikan berakar utama dari struktur distribusi alokasi anggaran yang belum merata.\"."
+        "explanation": "Kalimat \"ปัญหาความเหลื่อมล้ำทางการศึกษามีสาเหตุหลักมาจากโครงสร้างการกระจายงบประมาณที่ไม่ทั่วถึง\" (dibaca: bpan-hǎa khwaam-lʉ̀am-lám thaang gaan-sʉ̀k-sǎa mii sǎa-hèet làk maa jàak khroong-sâang gaan grà-jaai ngóp-bprà-maan thîi mâi thûa-thʉ̌ng) berarti \"Permasalahan kesenjangan pendidikan berakar utama dari struktur distribusi alokasi anggaran yang belum merata.\". Kalimat ini menggunakan pola \"Fenomena Akibat + อันเนื่องมาจาก (an nʉ̂ang maa jàak) + Faktor Penyebab Mendasar\" (Kausalitas Kompleks อันเนื่องมาจาก (an nʉ̂ang maa jàak)) yang berfungsi untuk menghubungkan rantai sebab-akibat ilmiah tingkat tinggi yang bermakna 'yang timbul sebagai konsekuensi logis dari / disebabkan oleh'."
       },
       {
         "id": "q-th-gram-35-pg-4",
@@ -16831,7 +16831,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan Tabel 4.2 ditemukan bahwa nilai rata-rata kelompok eksperimen lebih tinggi daripada kelompok kontrol pada taraf signifikansi .01."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"วิกฤตเศรษฐกิจในครั้งนี้ส่งผลกระทบอย่างรุนแรงต่อภาคการท่องเที่ยว อันเนื่องมาจากการปิดประเทศครับ\" berarti \"Krisis ekonomi kali ini memberikan dampak berat terhadap sektor pariwisata yang timbul akibat penutupan wilayah negara.\"."
+        "explanation": "Kalimat \"วิกฤตเศรษฐกิจในครั้งนี้ส่งผลกระทบอย่างรุนแรงต่อภาคการท่องเที่ยว อันเนื่องมาจากการปิดประเทศครับ\" (dibaca: wí-grìt sèet-thà-gìt nai khráng níi sòng phǒn grà-thóp yàang run-rɛɛng dtɔ̀ɔ phâak gaan thîang-thîaw an nʉ̂ang maa jàak gaan bpìt bprà-thêet khráp) berarti \"Krisis ekonomi kali ini memberikan dampak berat terhadap sektor pariwisata yang timbul akibat penutupan wilayah negara.\". Kalimat ini menggunakan pola \"Fenomena Akibat + อันเนื่องมาจาก (an nʉ̂ang maa jàak) + Faktor Penyebab Mendasar\" (Kausalitas Kompleks อันเนื่องมาจาก (an nʉ̂ang maa jàak)) yang berfungsi untuk menghubungkan rantai sebab-akibat ilmiah tingkat tinggi yang bermakna 'yang timbul sebagai konsekuensi logis dari / disebabkan oleh'."
       },
       {
         "id": "q-th-gram-35-bb-2",
@@ -16975,7 +16975,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Kelompok sampel pertama menunjukkan laju pemulihan yang cepat. Sebaliknya, kelompok kontrol justru tidak memperlihatkan kemajuan nyata."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"กลุ่มตัวอย่างที่หนึ่งมีอัตราการฟื้นตัวอย่างรวดเร็ว ในทางกลับกัน กลุ่มควบคุมกลับไม่แสดงพัฒนาการที่ชัดเจนครับ\" berarti \"Kelompok sampel pertama menunjukkan laju pemulihan yang cepat. Sebaliknya, kelompok kontrol justru tidak memperlihatkan kemajuan nyata.\"."
+        "explanation": "Kalimat \"กลุ่มตัวอย่างที่หนึ่งมีอัตราการฟื้นตัวอย่างรวดเร็ว ในทางกลับกัน กลุ่มควบคุมกลับไม่แสดงพัฒนาการที่ชัดเจนครับ\" (dibaca: glùm dtua-yàang thîi nʉ̀ng mii àt-dtraa gaan fʉ́ʉn dtua yàang rùat-reo nai thaang glàp gan glùm khûap-khum glàp mâi sà-dɛɛng phát-thá-naa-gaan thîi chát-jeen khráp) berarti \"Kelompok sampel pertama menunjukkan laju pemulihan yang cepat. Sebaliknya, kelompok kontrol justru tidak memperlihatkan kemajuan nyata.\". Kalimat ini menggunakan pola \"Argumen A + ในทางกลับกัน (Sebaliknya) / ในทางตรงกันข้าม + Argumen B\" (Pernyataan Kontradiksi Formal ในทางกลับกัน (nai thaang glàp gan)) yang berfungsi untuk menyajikan sudut pandang kontras dan antitesis formal dalam wacana perbandingan teori atau interpretasi data ilmiah."
       },
       {
         "id": "q-th-gram-36-pg-2",
@@ -16991,7 +16991,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Demikian surat ini disampaikan agar kiranya berkenan dipertimbangkan untuk izin penggunaan fasilitas demi kepentingan riset."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"นโยบายนี้อาจช่วยกระตุ้นการเติบโตทางเศรษฐกิจ แต่ในทางตรงกันข้าม อาจก่อให้เกิดภาระหนี้สาธารณะในระยะยาวค่ะ\" berarti \"Kebijakan ini mungkin memicu pertumbuhan ekonomi, namun sebaliknya berpotensi memicu beban utang publik jangka panjang.\"."
+        "explanation": "Kalimat \"นโยบายนี้อาจช่วยกระตุ้นการเติบโตทางเศรษฐกิจ แต่ในทางตรงกันข้าม อาจก่อให้เกิดภาระหนี้สาธารณะในระยะยาวค่ะ\" (dibaca: ná-yoo-baai níi àat chûay grà-dtûn gaan dtə̀əp-dtoo thaang sèet-thà-gìt dtɛ̀ɛ nai thaang dtrong-gan-khâam àat gɔ̀ɔ hâi gə̀ət phaa-rá nîi sǎa-thaa-rá-ná nai rá-yá yaaw khâ) berarti \"Kebijakan ini mungkin memicu pertumbuhan ekonomi, namun sebaliknya berpotensi memicu beban utang publik jangka panjang.\". Kalimat ini menggunakan pola \"Argumen A + ในทางกลับกัน (Sebaliknya) / ในทางตรงกันข้าม + Argumen B\" (Pernyataan Kontradiksi Formal ในทางกลับกัน (nai thaang glàp gan)) yang berfungsi untuk menyajikan sudut pandang kontras dan antitesis formal dalam wacana perbandingan teori atau interpretasi data ilmiah."
       },
       {
         "id": "q-th-gram-36-pg-3",
@@ -17007,7 +17007,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Surat dinas resmi ini berlaku efektif terhitung sejak tanggal yang tercantum dalam surat pengumuman."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"นักวิชาการบางกลุ่มเชื่อมั่นในกลไกตลาดเสรี ในขณะที่อีกฝ่ายหนึ่งเน้นย้ำถึงความจำเป็นในการแทรกแซงของรัฐ\" berarti \"Sebagian cendekiawan meyakini mekanisme pasar bebas, sementara kubu lainnya menegaskan perlunya intervensi pemerintah.\"."
+        "explanation": "Kalimat \"นักวิชาการบางกลุ่มเชื่อมั่นในกลไกตลาดเสรี ในขณะที่อีกฝ่ายหนึ่งเน้นย้ำถึงความจำเป็นในการแทรกแซงของรัฐ\" (dibaca: nák wí-chaa-gaan baang glùm chʉ̂a mân nai gon-gai dtà-làat sěe-rii nai khà-nà thîi ìik fǎai nʉ̀ng nén-yám thʉ̌ng khwaam jam-bpen nai gaan sɛ̂ɛk-sɛɛng khɔ̌ɔng rát) berarti \"Sebagian cendekiawan meyakini mekanisme pasar bebas, sementara kubu lainnya menegaskan perlunya intervensi pemerintah.\". Kalimat ini menggunakan pola \"Argumen A + ในทางกลับกัน (Sebaliknya) / ในทางตรงกันข้าม + Argumen B\" (Pernyataan Kontradiksi Formal ในทางกลับกัน (nai thaang glàp gan)) yang berfungsi untuk menyajikan sudut pandang kontras dan antitesis formal dalam wacana perbandingan teori atau interpretasi data ilmiah."
       },
       {
         "id": "q-th-gram-36-pg-4",
@@ -17314,7 +17314,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Abstrak: Penelitian ini bertujuan mengembangkan model pembelajaran bahasa Thai bagi penutur asing. Hasil studi menemukan bahwa model baru memiliki efektivitas di atas standar signifikan."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"กลุ่มตัวอย่างที่หนึ่งมีอัตราการฟื้นตัวอย่างรวดเร็ว ในทางกลับกัน กลุ่มควบคุมกลับไม่แสดงพัฒนาการที่ชัดเจนครับ\" berarti \"Kelompok sampel pertama menunjukkan laju pemulihan yang cepat. Sebaliknya, kelompok kontrol justru tidak memperlihatkan kemajuan nyata.\"."
+        "explanation": "Kalimat \"กลุ่มตัวอย่างที่หนึ่งมีอัตราการฟื้นตัวอย่างรวดเร็ว ในทางกลับกัน กลุ่มควบคุมกลับไม่แสดงพัฒนาการที่ชัดเจนครับ\" (dibaca: glùm dtua-yàang thîi nʉ̀ng mii àt-dtraa gaan fʉ́ʉn dtua yàang rùat-reo nai thaang glàp gan glùm khûap-khum glàp mâi sà-dɛɛng phát-thá-naa-gaan thîi chát-jeen khráp) berarti \"Kelompok sampel pertama menunjukkan laju pemulihan yang cepat. Sebaliknya, kelompok kontrol justru tidak memperlihatkan kemajuan nyata.\". Kalimat ini menggunakan pola \"Argumen A + ในทางกลับกัน (Sebaliknya) / ในทางตรงกันข้าม + Argumen B\" (Pernyataan Kontradiksi Formal ในทางกลับกัน (nai thaang glàp gan)) yang berfungsi untuk menyajikan sudut pandang kontras dan antitesis formal dalam wacana perbandingan teori atau interpretasi data ilmiah."
       },
       {
         "id": "q-th-gram-36-bb-2",
@@ -17458,7 +17458,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Hormat kami setinggi-tingginya atas jalinan kerja sama akademik di antara kedua institusi."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"โดยสรุป งานวิจัยนี้ได้ชี้ชัดถึงความสำคัญของการนำเทคโนโลยีดิจิทัลมาประยุกต์ใช้ในการศึกษาระดับอุดมศึกษาครับ\" berarti \"Sebagai kesimpulan, penelitian ini secara tegas menunjukkan pentingnya adopsi teknologi digital di pendidikan tinggi.\"."
+        "explanation": "Kalimat \"โดยสรุป งานวิจัยนี้ได้ชี้ชัดถึงความสำคัญของการนำเทคโนโลยีดิจิทัลมาประยุกต์ใช้ในการศึกษาระดับอุดมศึกษาครับ\" (dibaca: dooy sà-rùp ngaan wí-jai níi dâi chíi chát thʉ̌ng khwaam-sǎm-khan khɔ̌ɔng gaan nam thék-noo-loo-yîi dí-jì-thâl maa bprà-yúk chái nai gaan-sʉ̀k-sǎa rá-dàp ù-dom-sʉ̀k-sǎa khráp) berarti \"Sebagai kesimpulan, penelitian ini secara tegas menunjukkan pentingnya adopsi teknologi digital di pendidikan tinggi.\". Kalimat ini menggunakan pola \"โดยสรุป (dooy sà-rùp) / กล่าวโดยสรุป + Rangkuman Temuan Inti\" (Kesimpulan & Penegasan Riset โดยสรุป (dooy sà-rùp)) yang berfungsi untuk merangkum intisari temuan penelitian, menarik benang merah temuan, dan menegaskan implikasi praktis dalam bab kesimpulan skripsi."
       },
       {
         "id": "q-th-gram-37-pg-2",
@@ -17474,7 +17474,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Universitas menerima kehormatan mulia atas perkenan kunjungan kerajaan meresmikan gedung riset baru."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"จากข้อค้นพบทั้งหมดจึงสรุปได้ว่า ทฤษฎีนี้ยังคงมีความถูกต้องและสามารถประยุกต์ใช้ได้ในบริบทสังคมไทยค่ะ\" berarti \"Dari seluruh temuan maka dapat disimpulkan bahwa teori ini tetap valid dan dapat diterapkan dalam konteks masyarakat Thailand.\"."
+        "explanation": "Kalimat \"จากข้อค้นพบทั้งหมดจึงสรุปได้ว่า ทฤษฎีนี้ยังคงมีความถูกต้องและสามารถประยุกต์ใช้ได้ในบริบทสังคมไทยค่ะ\" (dibaca: jàak khɔ̂ɔ khón phóp tháng-mòt jʉng sà-rùp dâi wâa thrʉ́t-sà-dii níi yang khong mii khwaam thùuk-dtɔ̂ng lɛ́ sǎa-mâat bprà-yúk chái dâi nai bɔɔ-rí-bòt sǎng-khom thai khâ) berarti \"Dari seluruh temuan maka dapat disimpulkan bahwa teori ini tetap valid dan dapat diterapkan dalam konteks masyarakat Thailand.\". Kalimat ini menggunakan pola \"โดยสรุป (dooy sà-rùp) / กล่าวโดยสรุป + Rangkuman Temuan Inti\" (Kesimpulan & Penegasan Riset โดยสรุป (dooy sà-rùp)) yang berfungsi untuk merangkum intisari temuan penelitian, menarik benang merah temuan, dan menegaskan implikasi praktis dalam bab kesimpulan skripsi."
       },
       {
         "id": "q-th-gram-37-pg-3",
@@ -17490,7 +17490,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Penggunaan tutur kata yang tepat sesuai pedoman mencerminkan kedewasaan dan pemahaman budaya tingkat tinggi."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"ผู้วิจัยขอเสนอแนะว่า การศึกษาในอนาคตควรขยายขอบเขตการเก็บข้อมูลไปยังพื้นที่ต่างจังหวัดเพื่อเปรียบเทียบผลลัพธ์\" berarti \"Peneliti menyarankan agar riset selanjutnya memperluas cakupan pengambilan sampel ke daerah provinsi lain untuk membandingkan hasil.\"."
+        "explanation": "Kalimat \"ผู้วิจัยขอเสนอแนะว่า การศึกษาในอนาคตควรขยายขอบเขตการเก็บข้อมูลไปยังพื้นที่ต่างจังหวัดเพื่อเปรียบเทียบผลลัพธ์\" (dibaca: phûu-wí-jai khɔ̌ɔ sà-nə̌ə-nɛ́ wâa gaan sʉ̀k-sǎa nai à-naa-khót khuan khà-yǎai khɔ̀ɔp-khèet gaan gèp khɔ̂ɔ-muun bpai yang phʉ́ʉn-thîi dtàang jang-wàt phʉ̂a bprìap-thîap phǒn-láp) berarti \"Peneliti menyarankan agar riset selanjutnya memperluas cakupan pengambilan sampel ke daerah provinsi lain untuk membandingkan hasil.\". Kalimat ini menggunakan pola \"โดยสรุป (dooy sà-rùp) / กล่าวโดยสรุป + Rangkuman Temuan Inti\" (Kesimpulan & Penegasan Riset โดยสรุป (dooy sà-rùp)) yang berfungsi untuk merangkum intisari temuan penelitian, menarik benang merah temuan, dan menegaskan implikasi praktis dalam bab kesimpulan skripsi."
       },
       {
         "id": "q-th-gram-37-pg-4",
@@ -17797,7 +17797,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Demikian surat ini disampaikan agar kiranya berkenan dipertimbangkan untuk izin penggunaan fasilitas demi kepentingan riset."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"โดยสรุป งานวิจัยนี้ได้ชี้ชัดถึงความสำคัญของการนำเทคโนโลยีดิจิทัลมาประยุกต์ใช้ในการศึกษาระดับอุดมศึกษาครับ\" berarti \"Sebagai kesimpulan, penelitian ini secara tegas menunjukkan pentingnya adopsi teknologi digital di pendidikan tinggi.\"."
+        "explanation": "Kalimat \"โดยสรุป งานวิจัยนี้ได้ชี้ชัดถึงความสำคัญของการนำเทคโนโลยีดิจิทัลมาประยุกต์ใช้ในการศึกษาระดับอุดมศึกษาครับ\" (dibaca: dooy sà-rùp ngaan wí-jai níi dâi chíi chát thʉ̌ng khwaam-sǎm-khan khɔ̌ɔng gaan nam thék-noo-loo-yîi dí-jì-thâl maa bprà-yúk chái nai gaan-sʉ̀k-sǎa rá-dàp ù-dom-sʉ̀k-sǎa khráp) berarti \"Sebagai kesimpulan, penelitian ini secara tegas menunjukkan pentingnya adopsi teknologi digital di pendidikan tinggi.\". Kalimat ini menggunakan pola \"โดยสรุป (dooy sà-rùp) / กล่าวโดยสรุป + Rangkuman Temuan Inti\" (Kesimpulan & Penegasan Riset โดยสรุป (dooy sà-rùp)) yang berfungsi untuk merangkum intisari temuan penelitian, menarik benang merah temuan, dan menegaskan implikasi praktis dalam bab kesimpulan skripsi."
       },
       {
         "id": "q-th-gram-37-bb-2",
@@ -17941,7 +17941,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Mahasiswa wajib mengenakan toga toga akademik sesuai ketentuan dalam upacara penganugerahan ijazah resmi."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"สัญญานี้ทำขึ้นเป็นสองฉบับมีข้อความถูกต้องตรงกัน คู่สัญญาทั้งสองฝ่ายได้อ่านและเข้าใจข้อความโดยละเอียดแล้วครับ\" berarti \"Perjanjian ini dibuat rangkap dua dengan bunyi teks yang sama, kedua belah pihak telah membaca dan memahami seluruh isinya secara saksama.\"."
+        "explanation": "Kalimat \"สัญญานี้ทำขึ้นเป็นสองฉบับมีข้อความถูกต้องตรงกัน คู่สัญญาทั้งสองฝ่ายได้อ่านและเข้าใจข้อความโดยละเอียดแล้วครับ\" (dibaca: sǎn-yaa níi tham khʉ̂n bpen sɔ̌ɔng chà-bàp mii khɔ̂ɔ-khwaam thùuk-dtɔ̂ng dtrong gan khûu sǎn-yaa tháng sɔ̌ɔng fǎai dâi àan lɛ́ khâo-jai khɔ̂ɔ-khwaam dooy lá-ìat lɛ́ɛw khráp) berarti \"Perjanjian ini dibuat rangkap dua dengan bunyi teks yang sama, kedua belah pihak telah membaca dan memahami seluruh isinya secara saksama.\". Kalimat ini menggunakan pola \"Pasal Kontrak + ระบุว่า (Menyatakan bahwa) + คู่สัญญา (Pihak yang Terikat)\" (Bahasa Kontrak, Hukum & Perjanjian Bisnis) yang berfungsi untuk tata bahasa preskriptif dalam dokumen perjanjian kerja sama, nota kesepahaman (MoU), dan kontrak legal formal Thailand."
       },
       {
         "id": "q-th-gram-38-pg-2",
@@ -17957,7 +17957,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Yth. Ketua Sidang dan dewan penguji yang terhormat, saya mohon izin memulai pemaparan tesis ini."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"หากคู่สัญญาฝ่ายใดฝ่ายหนึ่งกระทำการผิดสัญญา อีกฝ่ายย่อมมีสิทธิบอกเลิกสัญญาและเรียกร้องค่าเสียหายได้ค่ะ\" berarti \"Jika salah satu pihak melakukan wanprestasi, pihak lainnya berhak membatalkan perjanjian dan menuntut ganti rugi.\"."
+        "explanation": "Kalimat \"หากคู่สัญญาฝ่ายใดฝ่ายหนึ่งกระทำการผิดสัญญา อีกฝ่ายย่อมมีสิทธิบอกเลิกสัญญาและเรียกร้องค่าเสียหายได้ค่ะ\" (dibaca: hàak khûu sǎn-yaa fǎai dai fǎai nʉ̀ng grà-tham gaan phìt sǎn-yaa ìik fǎai yɔ̂m mii sìt-thí bɔ̀ɔk lə̂ək sǎn-yaa lɛ́ rîak-rɔ́ɔng khâa sǐa-hǎai dâi khâ) berarti \"Jika salah satu pihak melakukan wanprestasi, pihak lainnya berhak membatalkan perjanjian dan menuntut ganti rugi.\". Kalimat ini menggunakan pola \"Pasal Kontrak + ระบุว่า (Menyatakan bahwa) + คู่สัญญา (Pihak yang Terikat)\" (Bahasa Kontrak, Hukum & Perjanjian Bisnis) yang berfungsi untuk tata bahasa preskriptif dalam dokumen perjanjian kerja sama, nota kesepahaman (MoU), dan kontrak legal formal Thailand."
       },
       {
         "id": "q-th-gram-38-pg-3",
@@ -17973,7 +17973,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Nota kesepahaman ini berlaku untuk jangka waktu tiga tahun dan dapat diperpanjang atas persetujuan bersama secara tertulis."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"บันทึกความเข้าใจฉบับนี้มีกำหนดระยะเวลาสามปี และสามารถต่ออายุได้โดยความเห็นชอบร่วมกันเป็นลายลักษณ์อักษร\" berarti \"Nota kesepahaman ini berlaku untuk jangka waktu tiga tahun dan dapat diperpanjang atas persetujuan bersama secara tertulis.\"."
+        "explanation": "Kalimat \"บันทึกความเข้าใจฉบับนี้มีกำหนดระยะเวลาสามปี และสามารถต่ออายุได้โดยความเห็นชอบร่วมกันเป็นลายลักษณ์อักษร\" (dibaca: ban-thʉ́k khwaam khâo-jai chà-bàp níi mii gam-nòt rá-yá wee-laa sǎam bpii lɛ́ sǎa-mâat dtɔ̀ɔ aa-yú dâi dooy khwaam hěn chɔ̂ɔp rûam gan bpen laai-lák-àk-sɔ̌ɔn) berarti \"Nota kesepahaman ini berlaku untuk jangka waktu tiga tahun dan dapat diperpanjang atas persetujuan bersama secara tertulis.\". Kalimat ini menggunakan pola \"Pasal Kontrak + ระบุว่า (Menyatakan bahwa) + คู่สัญญา (Pihak yang Terikat)\" (Bahasa Kontrak, Hukum & Perjanjian Bisnis) yang berfungsi untuk tata bahasa preskriptif dalam dokumen perjanjian kerja sama, nota kesepahaman (MoU), dan kontrak legal formal Thailand."
       },
       {
         "id": "q-th-gram-38-pg-4",
@@ -18280,7 +18280,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Perjanjian ini dibuat rangkap dua dengan bunyi teks yang sama, kedua belah pihak telah membaca dan memahami seluruh isinya secara saksama."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"สัญญานี้ทำขึ้นเป็นสองฉบับมีข้อความถูกต้องตรงกัน คู่สัญญาทั้งสองฝ่ายได้อ่านและเข้าใจข้อความโดยละเอียดแล้วครับ\" berarti \"Perjanjian ini dibuat rangkap dua dengan bunyi teks yang sama, kedua belah pihak telah membaca dan memahami seluruh isinya secara saksama.\"."
+        "explanation": "Kalimat \"สัญญานี้ทำขึ้นเป็นสองฉบับมีข้อความถูกต้องตรงกัน คู่สัญญาทั้งสองฝ่ายได้อ่านและเข้าใจข้อความโดยละเอียดแล้วครับ\" (dibaca: sǎn-yaa níi tham khʉ̂n bpen sɔ̌ɔng chà-bàp mii khɔ̂ɔ-khwaam thùuk-dtɔ̂ng dtrong gan khûu sǎn-yaa tháng sɔ̌ɔng fǎai dâi àan lɛ́ khâo-jai khɔ̂ɔ-khwaam dooy lá-ìat lɛ́ɛw khráp) berarti \"Perjanjian ini dibuat rangkap dua dengan bunyi teks yang sama, kedua belah pihak telah membaca dan memahami seluruh isinya secara saksama.\". Kalimat ini menggunakan pola \"Pasal Kontrak + ระบุว่า (Menyatakan bahwa) + คู่สัญญา (Pihak yang Terikat)\" (Bahasa Kontrak, Hukum & Perjanjian Bisnis) yang berfungsi untuk tata bahasa preskriptif dalam dokumen perjanjian kerja sama, nota kesepahaman (MoU), dan kontrak legal formal Thailand."
       },
       {
         "id": "q-th-gram-38-bb-2",
@@ -18424,7 +18424,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Berdasarkan analisis data empiris, poin-poin krusial dapat diklasifikasikan ke dalam tiga pilar utama."
         ],
         "correctAnswerIndex": 2,
-        "explanation": "Kalimat \"จากตารางที่ 4.2 พบว่าค่าเฉลี่ยของกลุ่มทดลองสูงกว่ากลุ่มควบคุมอย่างมีนัยสำคัญทางสถิติที่ระดับ .01 ครับ\" berarti \"Berdasarkan Tabel 4.2 ditemukan bahwa nilai rata-rata kelompok eksperimen lebih tinggi daripada kelompok kontrol pada taraf signifikansi .01.\"."
+        "explanation": "Kalimat \"จากตารางที่ 4.2 พบว่าค่าเฉลี่ยของกลุ่มทดลองสูงกว่ากลุ่มควบคุมอย่างมีนัยสำคัญทางสถิติที่ระดับ .01 ครับ\" (dibaca: jàak dtaa-raang thîi sìi jùt sɔ̌ɔng phóp wâa khâa chè-lìia khɔ̌ɔng glùm thót-lɔɔng sǔung gwàa glùm khûap-khum yàang mii nai-yá-sǎm-khan thaang sà-thì-dtì thîi rá-dàp jùt sǔun nʉ̀ng khráp) berarti \"Berdasarkan Tabel 4.2 ditemukan bahwa nilai rata-rata kelompok eksperimen lebih tinggi daripada kelompok kontrol pada taraf signifikansi .01.\". Kalimat ini menggunakan pola \"ตารางที่ (Tabel Ke-) / กราฟแสดง (Grafik Memperlihatkan) + ระดับนัยสำคัญ (P-value)\" (Analisis Data Statistik & Pelaporan Tren Akademik) yang berfungsi untuk memformulasikan pelaporan angka statistik, signifikansi korelasi (p < 0.05), dan interpretasi tren grafik dalam bab hasil riset kuantitatif."
       },
       {
         "id": "q-th-gram-39-pg-2",
@@ -18440,7 +18440,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Diagram batang memperlihatkan tren pertumbuhan eksponensial dari publikasi karya riset pada jurnal internasional bereputasi."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"แผนภูมิแท่งแสดงให้เห็นแนวโน้มการเติบโตอย่างก้าวกระโดดของการตีพิมพ์ผลงานวิจัยในวารสารระดับนานาชาติค่ะ\" berarti \"Diagram batang memperlihatkan tren pertumbuhan eksponensial dari publikasi karya riset pada jurnal internasional bereputasi.\"."
+        "explanation": "Kalimat \"แผนภูมิแท่งแสดงให้เห็นแนวโน้มการเติบโตอย่างก้าวกระโดดของการตีพิมพ์ผลงานวิจัยในวารสารระดับนานาชาติค่ะ\" (dibaca: phɛ̌ɛn-phuum thâng sà-dɛɛng hâi hěn nɛɛw-nóom gaan dtə̀əp-dtoo yàang gâao-grà-dòot khɔ̌ɔng gaan dtii-phim phǒn-ngaan wí-jai nai waa-rá-sǎan rá-dàp naa-naa-châat khâ) berarti \"Diagram batang memperlihatkan tren pertumbuhan eksponensial dari publikasi karya riset pada jurnal internasional bereputasi.\". Kalimat ini menggunakan pola \"ตารางที่ (Tabel Ke-) / กราฟแสดง (Grafik Memperlihatkan) + ระดับนัยสำคัญ (P-value)\" (Analisis Data Statistik & Pelaporan Tren Akademik) yang berfungsi untuk memformulasikan pelaporan angka statistik, signifikansi korelasi (p < 0.05), dan interpretasi tren grafik dalam bab hasil riset kuantitatif."
       },
       {
         "id": "q-th-gram-39-pg-3",
@@ -18456,7 +18456,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Pengutipan literatur akademik wajib berpedoman pada format standar internasional seperti format APA secara konsisten."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"ค่าสัมประสิทธิ์สหสัมพันธ์แสดงให้เห็นถึงความสัมพันธ์เชิงบวกระดับปานกลางระหว่างแรงจูงใจและผลสัมฤทธิ์ทางการเรียน\" berarti \"Nilai koefisien korelasi menunjukkan adanya korelasi positif berkategori sedang antara motivasi dan prestasi akademik.\"."
+        "explanation": "Kalimat \"ค่าสัมประสิทธิ์สหสัมพันธ์แสดงให้เห็นถึงความสัมพันธ์เชิงบวกระดับปานกลางระหว่างแรงจูงใจและผลสัมฤทธิ์ทางการเรียน\" (dibaca: khâa sǎm-bprà-sìt sà-hà-sǎm-phan sà-dɛɛng hâi hěn thʉ̌ng khwaam-sǎm-phan choəng-bùak rá-dàp bpaan-glaang rá-wàang rɛɛng-juung-jai lɛ́ phǒn-sǎm-rèt thaang gaan-rian) berarti \"Nilai koefisien korelasi menunjukkan adanya korelasi positif berkategori sedang antara motivasi dan prestasi akademik.\". Kalimat ini menggunakan pola \"ตารางที่ (Tabel Ke-) / กราฟแสดง (Grafik Memperlihatkan) + ระดับนัยสำคัญ (P-value)\" (Analisis Data Statistik & Pelaporan Tren Akademik) yang berfungsi untuk memformulasikan pelaporan angka statistik, signifikansi korelasi (p < 0.05), dan interpretasi tren grafik dalam bab hasil riset kuantitatif."
       },
       {
         "id": "q-th-gram-39-pg-4",
@@ -18763,7 +18763,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Yth. Ketua Sidang dan dewan penguji yang terhormat, saya mohon izin memulai pemaparan tesis ini."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"จากตารางที่ 4.2 พบว่าค่าเฉลี่ยของกลุ่มทดลองสูงกว่ากลุ่มควบคุมอย่างมีนัยสำคัญทางสถิติที่ระดับ .01 ครับ\" berarti \"Berdasarkan Tabel 4.2 ditemukan bahwa nilai rata-rata kelompok eksperimen lebih tinggi daripada kelompok kontrol pada taraf signifikansi .01.\"."
+        "explanation": "Kalimat \"จากตารางที่ 4.2 พบว่าค่าเฉลี่ยของกลุ่มทดลองสูงกว่ากลุ่มควบคุมอย่างมีนัยสำคัญทางสถิติที่ระดับ .01 ครับ\" (dibaca: jàak dtaa-raang thîi sìi jùt sɔ̌ɔng phóp wâa khâa chè-lìia khɔ̌ɔng glùm thót-lɔɔng sǔung gwàa glùm khûap-khum yàang mii nai-yá-sǎm-khan thaang sà-thì-dtì thîi rá-dàp jùt sǔun nʉ̀ng khráp) berarti \"Berdasarkan Tabel 4.2 ditemukan bahwa nilai rata-rata kelompok eksperimen lebih tinggi daripada kelompok kontrol pada taraf signifikansi .01.\". Kalimat ini menggunakan pola \"ตารางที่ (Tabel Ke-) / กราฟแสดง (Grafik Memperlihatkan) + ระดับนัยสำคัญ (P-value)\" (Analisis Data Statistik & Pelaporan Tren Akademik) yang berfungsi untuk memformulasikan pelaporan angka statistik, signifikansi korelasi (p < 0.05), dan interpretasi tren grafik dalam bab hasil riset kuantitatif."
       },
       {
         "id": "q-th-gram-39-bb-2",
@@ -18907,7 +18907,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Abstrak: Penelitian ini bertujuan mengembangkan model pembelajaran bahasa Thai bagi penutur asing. Hasil studi menemukan bahwa model baru memiliki efektivitas di atas standar signifikan."
         ],
         "correctAnswerIndex": 3,
-        "explanation": "Kalimat \"บทคัดย่อ: การวิจัยนี้มีวัตถุประสงค์เพื่อพัฒนารูปแบบการสอนภาษาไทยสำหรับชาวต่างชาติ ผลการศึกษาพบว่ารูปแบบใหม่มีประสิทธิผลสูงกว่าเกณฑ์ที่กำหนดอย่างมีนัยสำคัญครับ\" berarti \"Abstrak: Penelitian ini bertujuan mengembangkan model pembelajaran bahasa Thai bagi penutur asing. Hasil studi menemukan bahwa model baru memiliki efektivitas di atas standar signifikan.\"."
+        "explanation": "Kalimat \"บทคัดย่อ: การวิจัยนี้มีวัตถุประสงค์เพื่อพัฒนารูปแบบการสอนภาษาไทยสำหรับชาวต่างชาติ ผลการศึกษาพบว่ารูปแบบใหม่มีประสิทธิผลสูงกว่าเกณฑ์ที่กำหนดอย่างมีนัยสำคัญครับ\" (dibaca: bòt-khát-yɔ̂ɔ: gaan wí-jai níi mii wát-thù-bprà-sǒng phʉ̂a phát-thá-naa rûup-bɛ̀ɛp gaan sɔ̌ɔn phaa-sǎa thai sǎm-ràp chaao dtàang-châat phǒn gaan sʉ̀k-sǎa phóp wâa rûup-bɛ̀ɛp mài mii bprà-sìt-thí-phǒn sǔung gwàa geen thîi gam-nòt yàang mii nai-yá-sǎm-khan khráp) berarti \"Abstrak: Penelitian ini bertujuan mengembangkan model pembelajaran bahasa Thai bagi penutur asing. Hasil studi menemukan bahwa model baru memiliki efektivitas di atas standar signifikan.\". Kalimat ini menggunakan pola \"Tujuan (มีวัตถุประสงค์เพื่อ...) + Metode (ระเบียบวิธีวิจัย...) + Hasil (ผลการศึกษาพบว่า...)\" (Penulisan Abstrak Skripsi & Tesis Ilmiah) yang berfungsi untuk struktur komprehensif sintesis penulisan abstrak tesis bahasa Thai yang memuat latar belakang, metodologi, temuan kunci, dan kata kunci (คำสำคัญ)."
       },
       {
         "id": "q-th-gram-40-pg-2",
@@ -18923,7 +18923,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Krisis ekonomi kali ini memberikan dampak berat terhadap sektor pariwisata yang timbul akibat penutupan wilayah negara."
         ],
         "correctAnswerIndex": 0,
-        "explanation": "Kalimat \"เครื่องมือที่ใช้ในการวิจัยประกอบด้วยแบบสอบถามและแบบทดสอบวัดผลสัมฤทธิ์ ซึ่งผ่านการตรวจสอบความเที่ยงตรงเชิงเนื้อหาจากผู้เชี่ยวชาญค่ะ\" berarti \"Instrumen pengumpulan data riset meliputi kuesioner dan tes hasil belajar yang telah teruji validitas kontennya oleh para ahli.\"."
+        "explanation": "Kalimat \"เครื่องมือที่ใช้ในการวิจัยประกอบด้วยแบบสอบถามและแบบทดสอบวัดผลสัมฤทธิ์ ซึ่งผ่านการตรวจสอบความเที่ยงตรงเชิงเนื้อหาจากผู้เชี่ยวชาญค่ะ\" (dibaca: khrʉ̂ang-mʉʉ thîi chái nai gaan wí-jai bprà-gɔ̀ɔp dûay bɛ̀ɛp-sɔ̀ɔp-thǎam lɛ́ bɛ̀ɛp thót-sɔ̀ɔp wát phǒn-sǎm-rèt sʉ̂ng phàan gaan dtrùat-sɔ̀ɔp khwaam-thîang-dtrong choəng nʉ́a-hǎa jàak phûu-chîao-chaan khâ) berarti \"Instrumen pengumpulan data riset meliputi kuesioner dan tes hasil belajar yang telah teruji validitas kontennya oleh para ahli.\". Kalimat ini menggunakan pola \"Tujuan (มีวัตถุประสงค์เพื่อ...) + Metode (ระเบียบวิธีวิจัย...) + Hasil (ผลการศึกษาพบว่า...)\" (Penulisan Abstrak Skripsi & Tesis Ilmiah) yang berfungsi untuk struktur komprehensif sintesis penulisan abstrak tesis bahasa Thai yang memuat latar belakang, metodologi, temuan kunci, dan kata kunci (คำสำคัญ)."
       },
       {
         "id": "q-th-gram-40-pg-3",
@@ -18939,7 +18939,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Permasalahan kesenjangan pendidikan berakar utama dari struktur distribusi alokasi anggaran yang belum merata."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"คำสำคัญ: การสอนภาษาไทย, นักศึกษาต่างชาติ, ประสิทธิผลการเรียนรู้, การพัฒนาหลักสูตร\" berarti \"Kata Kunci: Pembelajaran Bahasa Thai, Mahasiswa Asing, Efektivitas Pembelajaran, Pengembangan Kurikulum.\"."
+        "explanation": "Kalimat \"คำสำคัญ: การสอนภาษาไทย, นักศึกษาต่างชาติ, ประสิทธิผลการเรียนรู้, การพัฒนาหลักสูตร\" (dibaca: kham-sǎm-khan: gaan sɔ̌ɔn phaa-sǎa thai, nák-sʉ̀k-sǎa dtàang-châat, bprà-sìt-thí-phǒn gaan rian rúu, gaan phát-thá-naa làk-sùut) berarti \"Kata Kunci: Pembelajaran Bahasa Thai, Mahasiswa Asing, Efektivitas Pembelajaran, Pengembangan Kurikulum.\". Kalimat ini menggunakan pola \"Tujuan (มีวัตถุประสงค์เพื่อ...) + Metode (ระเบียบวิธีวิจัย...) + Hasil (ผลการศึกษาพบว่า...)\" (Penulisan Abstrak Skripsi & Tesis Ilmiah) yang berfungsi untuk struktur komprehensif sintesis penulisan abstrak tesis bahasa Thai yang memuat latar belakang, metodologi, temuan kunci, dan kata kunci (คำสำคัญ)."
       },
       {
         "id": "q-th-gram-40-pg-4",
@@ -19246,7 +19246,7 @@ export const THAI_GRAMMAR: GrammarLesson[] =  [
           "Sebagaimana telah ditunjukkan Profesor Somkiat dalam riset tahun 2022, faktor lingkungan berdampak nyata terhadap pembelajaran."
         ],
         "correctAnswerIndex": 1,
-        "explanation": "Kalimat \"บทคัดย่อ: การวิจัยนี้มีวัตถุประสงค์เพื่อพัฒนารูปแบบการสอนภาษาไทยสำหรับชาวต่างชาติ ผลการศึกษาพบว่ารูปแบบใหม่มีประสิทธิผลสูงกว่าเกณฑ์ที่กำหนดอย่างมีนัยสำคัญครับ\" berarti \"Abstrak: Penelitian ini bertujuan mengembangkan model pembelajaran bahasa Thai bagi penutur asing. Hasil studi menemukan bahwa model baru memiliki efektivitas di atas standar signifikan.\"."
+        "explanation": "Kalimat \"บทคัดย่อ: การวิจัยนี้มีวัตถุประสงค์เพื่อพัฒนารูปแบบการสอนภาษาไทยสำหรับชาวต่างชาติ ผลการศึกษาพบว่ารูปแบบใหม่มีประสิทธิผลสูงกว่าเกณฑ์ที่กำหนดอย่างมีนัยสำคัญครับ\" (dibaca: bòt-khát-yɔ̂ɔ: gaan wí-jai níi mii wát-thù-bprà-sǒng phʉ̂a phát-thá-naa rûup-bɛ̀ɛp gaan sɔ̌ɔn phaa-sǎa thai sǎm-ràp chaao dtàang-châat phǒn gaan sʉ̀k-sǎa phóp wâa rûup-bɛ̀ɛp mài mii bprà-sìt-thí-phǒn sǔung gwàa geen thîi gam-nòt yàang mii nai-yá-sǎm-khan khráp) berarti \"Abstrak: Penelitian ini bertujuan mengembangkan model pembelajaran bahasa Thai bagi penutur asing. Hasil studi menemukan bahwa model baru memiliki efektivitas di atas standar signifikan.\". Kalimat ini menggunakan pola \"Tujuan (มีวัตถุประสงค์เพื่อ...) + Metode (ระเบียบวิธีวิจัย...) + Hasil (ผลการศึกษาพบว่า...)\" (Penulisan Abstrak Skripsi & Tesis Ilmiah) yang berfungsi untuk struktur komprehensif sintesis penulisan abstrak tesis bahasa Thai yang memuat latar belakang, metodologi, temuan kunci, dan kata kunci (คำสำคัญ)."
       },
       {
         "id": "q-th-gram-40-bb-2",

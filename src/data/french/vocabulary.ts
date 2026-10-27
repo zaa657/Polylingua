@@ -13,7 +13,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Bonjour Monsieur le Professeur, ravi de vous rencontrer.",
     "examplePhonetic": "Bon-zhoor muh-syuh luh proh-feh-seur, rah-vee duh voo rahn-kohn-tray.",
     "exampleTranslation": "Halo Bapak Profesor, senang sekali bertemu dengan Anda.",
-    "notes": "Ungkapan salam pembuka percakapan.",
+    "notes": "Ungkapan salam pembuka percakapan. Kata \"Bonjour\" (cara baca: bon-zhoor) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Halo\".",
     "tags": [
       "salam",
       "a1",
@@ -70,7 +70,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Au revoir et à la semaine prochaine pour le cours magistral.",
     "examplePhonetic": "Oh ruh-vwahr ay ah lah suh-men proh-shen poor luh koor mah-zhees-trahl.",
     "exampleTranslation": "Sampai jumpa dan sampai bertemu minggu depan di kuliah umum.",
-    "notes": "Ucapan perpisahan santun.",
+    "notes": "Ucapan perpisahan santun. Kata \"Au revoir\" (cara baca: oh ruh-vwahr) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Sampai jumpa lagi\".",
     "tags": [
       "salam",
       "a1",
@@ -146,7 +146,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Pourriez-vous m'indiquer l'amphithéâtre B, s'il vous plaît ?",
     "examplePhonetic": "Poo-ryay-voo man-dee-kay lam-fee-tay-ah-truh bay, seel voo pleh?",
     "exampleTranslation": "Bisakah Anda menunjukkan ruang kuliah teater B, tolong?",
-    "notes": "Kata santun untuk memohon bantuan.",
+    "notes": "Kata santun untuk memohon bantuan. Kata \"S'il vous plaît\" (cara baca: seel voo pleh) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tolong\".",
     "tags": [
       "salam",
       "a1",
@@ -165,7 +165,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Bonjour Madame, comment allez-vous aujourd'hui ?",
     "examplePhonetic": "Bon-zhoor mah-dahm, koh-mahn tah-lay-vooz oh-zhoor-dwee?",
     "exampleTranslation": "Halo Ibu, bagaimana kabar Anda hari ini?",
-    "notes": "Menanyakan kabar dan kondisi kesehatan.",
+    "notes": "Menanyakan kabar dan kondisi kesehatan. Kata \"Comment allez-vous\" (cara baca: koh-mahn tah-lay-voo) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Apa kabar?\".",
     "tags": [
       "salam",
       "a1",
@@ -184,7 +184,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Enchanté de faire votre connaissance lors de ce séminaire.",
     "examplePhonetic": "Ahn-shahn-tay duh fehr voh-truh koh-neh-sahns lohr duh suh say-mee-nehr.",
     "exampleTranslation": "Sangat senang berkenalan dengan Anda pada seminar ini.",
-    "notes": "Diucapkan saat perkenalan pertama kali.",
+    "notes": "Diucapkan saat perkenalan pertama kali. Kata \"Enchanté\" (cara baca: ahn-shahn-tay) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Senang berkenalan dengan Anda\".",
     "tags": [
       "salam",
       "a1",
@@ -203,7 +203,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Oui, je suis inscrit en première année de Master.",
     "examplePhonetic": "Wee, zhuh sweez an-skree ahn pruh-myehr ah-nay duh mahs-tehr.",
     "exampleTranslation": "Ya, saya terdaftar di tahun pertama program Master.",
-    "notes": "Jawaban afirmatif menyetujui.",
+    "notes": "Jawaban afirmatif menyetujui. Kata \"Oui\" (cara baca: wee) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Ya\".",
     "tags": [
       "salam",
       "a1",
@@ -222,7 +222,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Non, cet ouvrage de référence n'est pas disponible.",
     "examplePhonetic": "Nohn, seht oo-vrahzh duh ray-fay-rahns nay pah dees-poh-neebl.",
     "exampleTranslation": "Bukan / Tidak, buku referensi ini tidak tersedia.",
-    "notes": "Jawaban penolakan atau negasi.",
+    "notes": "Jawaban penolakan atau negasi. Kata \"Non\" (cara baca: nohn) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Tidak\".",
     "tags": [
       "salam",
       "a1",
@@ -260,7 +260,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Je m'appelle Thomas et je viens d'Indonésie.",
     "examplePhonetic": "Zhuh mah-pehl Toh-mah ay zhuh vyang dan-doh-nay-zee.",
     "exampleTranslation": "Nama saya Thomas dan saya berasal dari Indonesia.",
-    "notes": "Memperkenalkan nama diri sendiri.",
+    "notes": "Memperkenalkan nama diri sendiri. Kata \"Je m'appelle\" (cara baca: zhuh mah-pehl) digunakan dalam bahasa Prancis (tingkat A1, kategori Salam & Percakapan) untuk menyatakan \"Nama saya...\".",
     "tags": [
       "salam",
       "a1",
@@ -298,7 +298,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La Sorbonne est une université prestigieuse reconnue mondialement.",
     "examplePhonetic": "Lah Sohr-bohn ay toon oo-nee-vehr-see-tay preh-stee-zhyuhz ruh-koh-noo mohn-dyahl-mahn.",
     "exampleTranslation": "Universitas Sorbonne adalah perguruan tinggi bergengsi terkemuka dunia.",
-    "notes": "Institusi pendidikan tinggi formal.",
+    "notes": "Institusi pendidikan tinggi formal. Kata \"Université\" (cara baca: oo-nee-vehr-see-tay) digunakan dalam bahasa Prancis (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Universitas\".",
     "tags": [
       "kampus",
       "a1",
@@ -488,7 +488,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'étudiant a obtenu une note brillante de dix-huit sur vingt.",
     "examplePhonetic": "Lay-too-dyahn ah ohb-tuh-noo oon noht bree-yahnt duh deez-weet soor vant.",
     "exampleTranslation": "Mahasiswa tersebut memperoleh nilai cemerlang 18 dari 20.",
-    "notes": "Hasil evaluasi prestasi belajar.",
+    "notes": "Hasil evaluasi prestasi belajar. Kata \"Note\" (cara baca: noht) digunakan dalam bahasa Prancis (tingkat A1, kategori Kampus & Pendidikan) untuk menyatakan \"Nilai akademik\".",
     "tags": [
       "kampus",
       "a1",
@@ -507,7 +507,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La bourse d'excellence Eiffel couvre la totalité des frais de scolarité.",
     "examplePhonetic": "Lah boors dehk-seh-lahns Ay-fehl koo-vruh lah toh-tah-lee-tay day fray duh skoh-lah-ree-tay.",
     "exampleTranslation": "Beasiswa unggulan Eiffel menanggung seluruh biaya perkuliahan.",
-    "notes": "Bantuan dana pendidikan berprestasi.",
+    "notes": "Bantuan dana pendidikan berprestasi. Kata \"Bourse\" (cara baca: boors) digunakan dalam bahasa Prancis (tingkat A2, kategori Kampus & Pendidikan) untuk menyatakan \"Beasiswa\".",
     "tags": [
       "kampus",
       "a2",
@@ -640,7 +640,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'hypothèse de départ a été rigoureusement confirmée par les résultats.",
     "examplePhonetic": "Lee-poh-tez duh day-pahr ah ay-tay ree-goo-ruh-zuh-mahn kohn-feer-may pahr lay ray-zool-tah.",
     "exampleTranslation": "Hipotesis awal terbukti secara sahih melalui hasil riset.",
-    "notes": "Dugaan awal yang diuji kebenarannya.",
+    "notes": "Dugaan awal yang diuji kebenarannya. Kata \"Hypothèse\" (cara baca: ee-poh-tez) digunakan dalam bahasa Prancis (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Hipotesis penelitian\".",
     "tags": [
       "penelitian",
       "b2",
@@ -716,7 +716,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La conclusion synthétise les apports théoriques de la recherche.",
     "examplePhonetic": "Lah kohn-kloo-zyohn san-tay-teez layz ah-pohr tay-oh-reek duh lah ruh-shehrsh.",
     "exampleTranslation": "Kesimpulan merangkum kontribusi teoretis dari penelitian ini.",
-    "notes": "Ringkasan intisari hasil penelitian.",
+    "notes": "Ringkasan intisari hasil penelitian. Kata \"Conclusion\" (cara baca: kohn-kloo-zyohn) digunakan dalam bahasa Prancis (tingkat B2, kategori Penelitian & Riset) untuk menyatakan \"Kesimpulan\".",
     "tags": [
       "penelitian",
       "b2",
@@ -735,7 +735,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La bibliographie doit mentionner tous les ouvrages cités selon les normes APA.",
     "examplePhonetic": "Lah bee-blyoh-grah-fee dwaht mahn-syoh-nay toos layz oo-vrahzh see-tay.",
     "exampleTranslation": "Daftar pustaka wajib mencantumkan seluruh karya rujukan sesuai standar APA.",
-    "notes": "Daftar rujukan literatur yang disitir.",
+    "notes": "Daftar rujukan literatur yang disitir. Kata \"Bibliographie\" (cara baca: bee-blyoh-grah-fee) digunakan dalam bahasa Prancis (tingkat B1, kategori Penelitian & Riset) untuk menyatakan \"Daftar pustaka\".",
     "tags": [
       "penelitian",
       "b1",
@@ -811,7 +811,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le train à grande vitesse TGV relie Paris à Lyon en deux heures.",
     "examplePhonetic": "Luh trang ah grahnd vee-tehs Tay-Zhay-Vay ruh-lyee Pah-ree ah Lee-yohn ahn duhzuhr.",
     "exampleTranslation": "Kereta cepat TGV menghubungkan Paris dan Lyon dalam waktu 2 jam.",
-    "notes": "Moda transportasi rel cepat perkotaan.",
+    "notes": "Moda transportasi rel cepat perkotaan. Kata \"Train\" (cara baca: trang) digunakan dalam bahasa Prancis (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Kereta api\".",
     "tags": [
       "transportasi",
       "a1",
@@ -849,7 +849,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nous avons réservé un taxi pour rejoindre la gare Montparnasse à l'aube.",
     "examplePhonetic": "Nooz ah-vohn ray-zehr-vay un tahk-see poor ruh-zhwandr lah gahr Mohn-pahr-nahs.",
     "exampleTranslation": "Kami memesan taksi untuk menuju stasiun Montparnasse saat fajar.",
-    "notes": "Kendaraan sewa umum berbayar argo.",
+    "notes": "Kendaraan sewa umum berbayar argo. Kata \"Taxi\" (cara baca: tahk-see) digunakan dalam bahasa Prancis (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Taksi\".",
     "tags": [
       "transportasi",
       "a1",
@@ -925,7 +925,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'arrêt de bus le plus proche se trouve juste en face de l'accueil.",
     "examplePhonetic": "Lah-reh duh boos luh ploo prohsh suh troov zhoost ahn fahs duh lah-kuy.",
     "exampleTranslation": "Halte bus terdekat terletak tepat di seberang lobi utama kampus.",
-    "notes": "Tempat perhentian bus di tepi jalan.",
+    "notes": "Tempat perhentian bus di tepi jalan. Kata \"Arrêt de bus\" (cara baca: ah-reh duh boos) digunakan dalam bahasa Prancis (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Halte bus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -944,7 +944,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Tournez à gauche après le carrefour pour rejoindre le campus universitaire.",
     "examplePhonetic": "Toor-nay ah gohsh ah-preh luh kahr-foor poor ruh-zhwandr luh kahm-poos.",
     "exampleTranslation": "Beloklah ke kiri setelah persimpangan untuk menuju kampus universitas.",
-    "notes": "Petunjuk arah ke sisi kiri.",
+    "notes": "Petunjuk arah ke sisi kiri. Kata \"À gauche\" (cara baca: ah gohsh) digunakan dalam bahasa Prancis (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kiri\".",
     "tags": [
       "transportasi",
       "a1",
@@ -963,7 +963,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le secrétariat général de l'UFR se situe immédiatement à droite.",
     "examplePhonetic": "Luh seh-kray-tah-ryah zhay-nay-rahl duh loo-ehf-ehr suh see-too ee-may-dyaht-mahn ah drwaht.",
     "exampleTranslation": "Kantor sekretariat fakultas terletak tepat di sebelah kanan koridor.",
-    "notes": "Petunjuk arah ke sisi kanan.",
+    "notes": "Petunjuk arah ke sisi kanan. Kata \"À droite\" (cara baca: ah drwaht) digunakan dalam bahasa Prancis (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Sebelah kanan\".",
     "tags": [
       "transportasi",
       "a1",
@@ -982,7 +982,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Continuez tout droit pendant trois cents mètres jusqu'au grand parc.",
     "examplePhonetic": "Kohn-tee-nway too drwah pahn-dahn trwah sahn mehtr zhoos-koh grahn pahrk.",
     "exampleTranslation": "Jalan terus lurus sejauh 300 meter sampai tiba di taman besar.",
-    "notes": "Petunjuk arah tanpa berbelok.",
+    "notes": "Petunjuk arah tanpa berbelok. Kata \"Tout droit\" (cara baca: too drwah) digunakan dalam bahasa Prancis (tingkat A1, kategori Transportasi & Arah) untuk menyatakan \"Lurus terus\".",
     "tags": [
       "transportasi",
       "a1",
@@ -1001,7 +1001,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Aujourd'hui a lieu la journée portes ouvertes des facultés scientifiques.",
     "examplePhonetic": "Oh-zhoor-dwee ah lyuh lah zhoor-nay pohrt oo-vehrt day fah-kool-tay syahn-tee-feek.",
     "exampleTranslation": "Hari ini diselenggarakan hari buka kampus bagi fakultas sains.",
-    "notes": "Hari saat ini berlangsung.",
+    "notes": "Hari saat ini berlangsung. Kata \"Aujourd'hui\" (cara baca: oh-zhoor-dwee) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Hari ini\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1020,7 +1020,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Demain débute la période des inscriptions pédagogiques obligatoires.",
     "examplePhonetic": "Duh-mang day-boot lah pay-ryohd dayz an-skreep-syohn pay-dah-goh-zheek.",
     "exampleTranslation": "Besok dimulai periode registrasi akademik KRS wajib.",
-    "notes": "Hari setelah hari ini.",
+    "notes": "Hari setelah hari ini. Kata \"Demain\" (cara baca: duh-mang) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Besok\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1039,7 +1039,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Hier soir, nous avons finalisé la version définitive du rapport d'étape.",
     "examplePhonetic": "Yehr swahr, nooz ah-vohn fee-nah-lee-zay lah vehr-syohn day-fee-nee-teev.",
     "exampleTranslation": "Kemarin malam kami telah menuntaskan versi final laporan kemajuan.",
-    "notes": "Hari sebelum hari ini.",
+    "notes": "Hari sebelum hari ini. Kata \"Hier\" (cara baca: yehr) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Kemarin\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1058,7 +1058,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La séance de travaux dirigés commence dans une demi-heure précise.",
     "examplePhonetic": "Lah say-ahns duh trah-voh dee-ree-zhay koh-mahns dahn zoon duh-mee uhr pray-seez.",
     "exampleTranslation": "Sesi kelas tutorial praktikum dimulai setengah jam lagi tepat.",
-    "notes": "Satuan penunjuk waktu 60 menit.",
+    "notes": "Satuan penunjuk waktu 60 menit. Kata \"Heure\" (cara baca: uhr) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Jam\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1077,7 +1077,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Il reste seulement dix minutes avant la fin de l'épreuve écrite.",
     "examplePhonetic": "Eel rehst suhl-mahn dees mee-noot ah-vahn lah fang duh lay-pruhv ay-kreet.",
     "exampleTranslation": "Hanya tersisa sepuluh menit sebelum berakhirnya ujian tertulis.",
-    "notes": "Satuan penunjuk waktu 60 detik.",
+    "notes": "Satuan penunjuk waktu 60 detik. Kata \"Minute\" (cara baca: mee-noot) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Menit\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1096,7 +1096,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La semaine prochaine sera consacrée aux révisions générales d'examens.",
     "examplePhonetic": "Lah suh-men proh-shen suh-rah kohn-sah-kray oh ray-vee-zyohn zhay-nay-rahl.",
     "exampleTranslation": "Pekan depan akan didedikasikan untuk masa belajar mengulang ujian.",
-    "notes": "Periode waktu tujuh hari.",
+    "notes": "Periode waktu tujuh hari. Kata \"Semaine\" (cara baca: suh-men) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Pekan\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1115,7 +1115,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Dans deux mois s'achèvera le premier semestre universitaire.",
     "examplePhonetic": "Dahn duh mwah sah-shehv-rah luh pruh-myehr suh-mehstr oo-nee-vehr-see-tehr.",
     "exampleTranslation": "Dua bulan lagi semester pertama perkuliahan akan berakhir.",
-    "notes": "Periode waktu sekitar 30 hari.",
+    "notes": "Periode waktu sekitar 30 hari. Kata \"Mois\" (cara baca: mwah) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Bulan kalender\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1134,7 +1134,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'année universitaire française s'étend de septembre à juin inclus.",
     "examplePhonetic": "Lah-nay oo-nee-vehr-see-tehr frahn-sez say-tahn duh sehp-tahmbr ah zhwang an-kloo.",
     "exampleTranslation": "Tahun akademik universitas Prancis berlangsung dari September hingga Juni.",
-    "notes": "Periode waktu 12 bulan.",
+    "notes": "Periode waktu 12 bulan. Kata \"Année\" (cara baca: ah-nay) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Tahun\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1153,7 +1153,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Maintenant, nous allons aborder la démonstration du théorème fondamental.",
     "examplePhonetic": "Mang-tuh-nahn, nooz ah-lohn ah-bohr-day lah day-mohn-strah-syohn.",
     "exampleTranslation": "Sekarang kita akan membahas pembuktian rumus teorema fundamental.",
-    "notes": "Waktu yang sedang terjadi kini.",
+    "notes": "Waktu yang sedang terjadi kini. Kata \"Maintenant\" (cara baca: mang-tuh-nahn) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Sekarang\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1172,7 +1172,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nous discuterons des perspectives professionnelles plus tard en atelier.",
     "examplePhonetic": "Noo dees-koo-tuh-rohn day pehr-spehk-teev proh-feh-syoh-nehl ploo tahr.",
     "exampleTranslation": "Kita akan mendiskusikan peluang karier nanti di sesi lokakarya.",
-    "notes": "Waktu yang akan datang tidak lama lagi.",
+    "notes": "Waktu yang akan datang tidak lama lagi. Kata \"Plus tard\" (cara baca: ploo tahr) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu, Hari & Angka) untuk menyatakan \"Nanti\".",
     "tags": [
       "waktu,",
       "a1",
@@ -1248,7 +1248,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La baguette de pain croustillante est le symbole du savoir-vivre français.",
     "examplePhonetic": "Lah bah-geht duh pang kroos-tee-yahnt ay luh sam-bohl doo sah-vwahr-veevr.",
     "exampleTranslation": "Roti baguette renyah adalah simbol tradisi kuliner Prancis.",
-    "notes": "Makanan pokok sumber karbohidrat utama.",
+    "notes": "Makanan pokok sumber karbohidrat utama. Kata \"Pain\" (cara baca: pang) digunakan dalam bahasa Prancis (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Nasi\".",
     "tags": [
       "makanan",
       "a1",
@@ -1343,7 +1343,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ce gratin dauphinois traditionnel est particulièrement savoureux et délicieux.",
     "examplePhonetic": "Suh grah-tang doh-fee-nwah trah-dee-syoh-nehl ay pahr-tee-koo-lyehr-mahn day-lee-syuh.",
     "exampleTranslation": "Gratin dauphinois tradisional ini terasa sangat gurih dan lezat.",
-    "notes": "Rasa makanan yang memuaskan lidah.",
+    "notes": "Rasa makanan yang memuaskan lidah. Kata \"Délicieux\" (cara baca: day-lee-syuh) digunakan dalam bahasa Prancis (tingkat A1, kategori Makanan & Restoran) untuk menyatakan \"Enak\".",
     "tags": [
       "makanan",
       "a1",
@@ -1419,7 +1419,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La librairie universitaire propose un large choix d'ouvrages académiques.",
     "examplePhonetic": "Lah lee-breh-ree oo-nee-vehr-see-tehr proh-pohz un lahrzh shwah.",
     "exampleTranslation": "Toko buku universitas menyediakan aneka pilihan karya akademis.",
-    "notes": "Tempat menjual aneka barang kebutuhan.",
+    "notes": "Tempat menjual aneka barang kebutuhan. Kata \"Magasin\" (cara baca: mah-gah-zang) digunakan dalam bahasa Prancis (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Toko\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1438,7 +1438,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Une réduction étudiante de vingt pour cent est accordée sur présentation de la carte.",
     "examplePhonetic": "Oon ray-dook-syohn ay-too-dyahnt duh vant poor sahn ay tah-kohr-day.",
     "exampleTranslation": "Diskon potongan harga pelajar 20% diberikan dengan menunjukkan kartu.",
-    "notes": "Pengurangan dari harga jual standar.",
+    "notes": "Pengurangan dari harga jual standar. Kata \"Réduction\" (cara baca: ray-dook-syohn) digunakan dalam bahasa Prancis (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Diskon\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1457,7 +1457,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le paiement sans contact par carte bancaire est accepté partout en France.",
     "examplePhonetic": "Luh peh-mahn sahn kohn-tahkt pahr kahrt bahn-kehr ay tahk-sehp-tay.",
     "exampleTranslation": "Pembayaran nirsentuh dengan kartu debit bank diterima luas di Prancis.",
-    "notes": "Alat transaksi perbankan nontunai.",
+    "notes": "Alat transaksi perbankan nontunai. Kata \"Carte bancaire\" (cara baca: kahrt bahn-kehr) digunakan dalam bahasa Prancis (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Kartu kredit\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1476,7 +1476,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Conservez précieusement votre ticket de caisse comme preuve d'achat légale.",
     "examplePhonetic": "Kohn-sehr-vay pray-syuhz-mahn voh-truh tee-keh duh kes.",
     "exampleTranslation": "Simpanlah struk belanja kasir sebagai bukti sah transaksi pembelian.",
-    "notes": "Tanda bukti sah transaksi pembelian.",
+    "notes": "Tanda bukti sah transaksi pembelian. Kata \"Ticket de caisse\" (cara baca: tee-keh duh kes) digunakan dalam bahasa Prancis (tingkat A2, kategori Ekonomi & Bisnis) untuk menyatakan \"Struk bukti belanja\".",
     "tags": [
       "ekonomi",
       "a2",
@@ -1495,7 +1495,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le marché en plein air du samedi matin propose des produits frais locaux.",
     "examplePhonetic": "Luh mahr-shay ahn plang ehr doo sah-muh-dee mah-tang proh-pohz day proh-dwee.",
     "exampleTranslation": "Pasar terbuka Sabtu pagi menjajakan hasil bumi segar daerah setempat.",
-    "notes": "Tempat bertemunya penjual dan pembeli.",
+    "notes": "Tempat bertemunya penjual dan pembeli. Kata \"Marché\" (cara baca: mahr-shay) digunakan dalam bahasa Prancis (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Pasar tradisional\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1514,7 +1514,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Acheter des légumes au marché de quartier est économique et bon marché.",
     "examplePhonetic": "Ahsh-tay day lay-goom oh mahr-shay duh kahr-tyay ay tay-koh-noh-meek.",
     "exampleTranslation": "Membeli sayuran di pasar lingkungan terbukti hemat dan murah harganya.",
-    "notes": "Harga barang di bawah rata-rata umum.",
+    "notes": "Harga barang di bawah rata-rata umum. Kata \"Bon marché\" (cara baca: bohn mahr-shay) digunakan dalam bahasa Prancis (tingkat A1, kategori Ekonomi & Bisnis) untuk menyatakan \"Murah terjangkau\".",
     "tags": [
       "ekonomi",
       "a1",
@@ -1590,7 +1590,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Même un petit groupe de travail peut produire des analyses scientifiques novatrices.",
     "examplePhonetic": "Mehm un puh-tee groop duh trah-vye puh proh-dweer dayz ah-nah-leez.",
     "exampleTranslation": "Bahkan kelompok belajar kecil pun mampu menghasilkan analisis inovatif.",
-    "notes": "Ukuran atau volume di bawah rata-rata.",
+    "notes": "Ukuran atau volume di bawah rata-rata. Kata \"Petit\" (cara baca: puh-tee) digunakan dalam bahasa Prancis (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Kecil ukurannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1628,7 +1628,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Un apprentissage lent mais assidu consolide durablement les bases linguistiques.",
     "examplePhonetic": "Un ah-prahn-tee-sahzh lahn meh zah-see-doo kohn-soh-leed doo-rah-bluh-mahn.",
     "exampleTranslation": "Belajar perlahan namun tekun memantapkan fondasi bahasa jangka panjang.",
-    "notes": "Membutuhkan waktu lama dalam bergerak.",
+    "notes": "Membutuhkan waktu lama dalam bergerak. Kata \"Lent\" (cara baca: lahn) digunakan dalam bahasa Prancis (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Lambat pergerakannya\".",
     "tags": [
       "kata",
       "a1",
@@ -1647,7 +1647,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Cet étudiant brillant formule des questions intelligentes et stimulantes.",
     "examplePhonetic": "Seht ay-too-dyahn bree-yahn fohr-mool day kehs-tyohn zan-teh-lee-zhahnt.",
     "exampleTranslation": "Mahasiswa cerdas pintar ini selalu mengajukan pertanyaan tajam bermutu.",
-    "notes": "Mempunyai daya pikir cepat dan tajam.",
+    "notes": "Mempunyai daya pikir cepat dan tajam. Kata \"Intelligent\" (cara baca: an-teh-lee-zhahn) digunakan dalam bahasa Prancis (tingkat A2, kategori Kata Sifat & Keadaan) untuk menyatakan \"Cerdas\".",
     "tags": [
       "kata",
       "a2",
@@ -1723,7 +1723,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Une bonne méthodologie est le gage d'une thèse de doctorat réussie.",
     "examplePhonetic": "Oon bohn may-toh-doh-loh-zhee ay luh gahzh doon tez duh dohk-toh-rah ray-oo-see.",
     "exampleTranslation": "Metodologi yang baik adalah jaminan mutu suksesnya penulisan disertasi.",
-    "notes": "Memiliki mutu tinggi dan bermanfaat.",
+    "notes": "Memiliki mutu tinggi dan bermanfaat. Kata \"Bon\" (cara baca: bohn) digunakan dalam bahasa Prancis (tingkat A1, kategori Kata Sifat & Keadaan) untuk menyatakan \"Bagus\".",
     "tags": [
       "kata",
       "a1",
@@ -1780,7 +1780,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Les universitaires doivent lire des articles scientifiques spécialisés chaque jour.",
     "examplePhonetic": "Layz oo-nee-vehr-see-tehr dwaht leer dayz ahr-teekl syahn-tee-feek.",
     "exampleTranslation": "Para akademisi harus membaca artikel ilmiah khusus setiap hari.",
-    "notes": "Melihat dan memahami isi tulisan.",
+    "notes": "Melihat dan memahami isi tulisan. Kata \"Lire\" (cara baca: leer) digunakan dalam bahasa Prancis (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Membaca teks buku\".",
     "tags": [
       "aksi",
       "a1",
@@ -1818,7 +1818,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Il est essentiel de parler avec assurance lors de la présentation orale.",
     "examplePhonetic": "Eel ay teh-sahn-syehl duh pahr-lay ah-vehk ah-soo-rahns lohr duh lah pray-zahn-tah-syohn.",
     "exampleTranslation": "Penting sekali berbicara dengan percaya diri saat presentasi lisan.",
-    "notes": "Menyampaikan kata-kata melalui suara.",
+    "notes": "Menyampaikan kata-kata melalui suara. Kata \"Parler\" (cara baca: pahr-lay) digunakan dalam bahasa Prancis (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Berbicara lisan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1856,7 +1856,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Les chercheurs aiment manger ensemble à la cafétéria pour échanger.",
     "examplePhonetic": "Lay shehr-shur em mahn-zhay ahn-sahmbl ah lah kah-fay-tay-ryah.",
     "exampleTranslation": "Para peneliti gemar makan siang bersama di kafetaria untuk berdiskusi.",
-    "notes": "Mengonsumsi makanan ke dalam perut.",
+    "notes": "Mengonsumsi makanan ke dalam perut. Kata \"Manger\" (cara baca: mahn-zhay) digunakan dalam bahasa Prancis (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Makan makanan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1875,7 +1875,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Pensez à boire une boisson chaude avant d'entrer en salle d'examen.",
     "examplePhonetic": "Pahn-say ah bwahr oon bwah-sohn shohd ah-vahn dahn-tray ahn sahl.",
     "exampleTranslation": "Ingatlah meminum minuman hangat sebelum memasuki ruangan ujian.",
-    "notes": "Meneguk zat cair penghilang dahaga.",
+    "notes": "Meneguk zat cair penghilang dahaga. Kata \"Boire\" (cara baca: bwahr) digunakan dalam bahasa Prancis (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Minum air cairan\".",
     "tags": [
       "aksi",
       "a1",
@@ -1913,7 +1913,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Je vais à la bibliothèque centrale emprunter les derniers volumes parus.",
     "examplePhonetic": "Zhuh vayz ah lah bee-blyoh-tek sahn-trahl ahm-proon-tay lay dehr-nyay voh-loom.",
     "exampleTranslation": "Saya pergi ke perpustakaan pusat untuk meminjam buku terbitan terbaru.",
-    "notes": "Berangkat meninggalkan lokasi saat ini.",
+    "notes": "Berangkat meninggalkan lokasi saat ini. Kata \"Aller\" (cara baca: ah-lay) digunakan dalam bahasa Prancis (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Pergi ke suatu tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -1932,7 +1932,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Les étudiants étrangers viennent enrichir la diversité culturelle du campus.",
     "examplePhonetic": "Layz ay-too-dyahnz ay-trahn-zhay vyen ahn-ree-sheer lah dee-vehr-see-tay.",
     "exampleTranslation": "Mahasiswa internasional datang memperkaya keanekaragaman budaya kampus.",
-    "notes": "Sampai di tempat yang dituju.",
+    "notes": "Sampai di tempat yang dituju. Kata \"Venir\" (cara baca: vuh-neer) digunakan dalam bahasa Prancis (tingkat A1, kategori Aksi Harian) untuk menyatakan \"Datang tiba di tempat\".",
     "tags": [
       "aksi",
       "a1",
@@ -2141,7 +2141,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La pharmacie de garde la plus proche est ouverte même le dimanche.",
     "examplePhonetic": "Lah fahr-mah-see duh gahrd lah ploo prohsh ay too-vehrt mehm luh dee-mahnsh.",
     "exampleTranslation": "Apotek siaga terdekat tetap buka melayani bahkan di hari Minggu.",
-    "notes": "Toko penyedia obat-obatan resmi.",
+    "notes": "Toko penyedia obat-obatan resmi. Kata \"Pharmacie\" (cara baca: fahr-mah-see) digunakan dalam bahasa Prancis (tingkat A1, kategori Kesehatan & Tubuh) untuk menyatakan \"Apotek obat\".",
     "tags": [
       "kesehatan",
       "a1",
@@ -2217,7 +2217,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'accès au réseau internet sans fil Eduroam est disponible dans tous les campus.",
     "examplePhonetic": "Lahk-seh oh ray-zoh an-tehr-net sahn feel Ay-doo-rohm ay dees-poh-neebl.",
     "exampleTranslation": "Akses internet nirkabel Eduroam tersedia di seluruh kampus Eropa.",
-    "notes": "Jaringan telekomunikasi digital global.",
+    "notes": "Jaringan telekomunikasi digital global. Kata \"Internet\" (cara baca: an-tehr-net) digunakan dalam bahasa Prancis (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Jaringan internet\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2236,7 +2236,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Veuillez éteindre votre téléphone portable pendant toute la durée de l'examen.",
     "examplePhonetic": "Vuh-yay ay-tandruh voh-truh tay-lay-fohn pohr-tahbl pahn-dahn toot lah doo-ray.",
     "exampleTranslation": "Harap matikan ponsel genggam Anda selama berlangsungnya waktu ujian.",
-    "notes": "Telepon genggam pintar serbaguna.",
+    "notes": "Telepon genggam pintar serbaguna. Kata \"Téléphone portable\" (cara baca: tay-lay-fohn pohr-tahbl) digunakan dalam bahasa Prancis (tingkat A1, kategori Teknologi & Digital) untuk menyatakan \"Ponsel\".",
     "tags": [
       "teknologi",
       "a1",
@@ -2388,7 +2388,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En été, il fait particulièrement chaud dans les étages supérieurs du bâtiment.",
     "examplePhonetic": "Ahn ay-tay, eel feh pahr-tee-koo-lyehr-mahn shoh dahn layz ay-tahzh.",
     "exampleTranslation": "Saat musim panas, suhu udara terasa sangat panas di lantai atas gedung.",
-    "notes": "Suhu udara tinggi menghangatkan tubuh.",
+    "notes": "Suhu udara tinggi menghangatkan tubuh. Kata \"Chaud\" (cara baca: shoh) digunakan dalam bahasa Prancis (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Panas udaranya\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2426,7 +2426,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'été est la saison propice aux stages professionnels et chantiers de fouilles.",
     "examplePhonetic": "Lay-tay ay lah seh-zohn proh-pees oh stahzh proh-feh-syoh-nehl.",
     "exampleTranslation": "Musim panas adalah waktu ideal untuk magang kerja dan riset lapangan.",
-    "notes": "Musim bersuhu tertinggi dalam kalender.",
+    "notes": "Musim bersuhu tertinggi dalam kalender. Kata \"Été\" (cara baca: ay-tay) digunakan dalam bahasa Prancis (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim panas\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2445,7 +2445,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En hiver, les étudiants se rassemblent dans les cafés chauffés pour réviser.",
     "examplePhonetic": "Ahn ee-vehr, layz ay-too-dyahn suh rah-sahmbl dahn lay kah-fay shoh-fay.",
     "exampleTranslation": "Di musim dingin, mahasiswa berkumpul di kafe hangat untuk belajar bersama.",
-    "notes": "Musim bersuhu terendah berhawa beku.",
+    "notes": "Musim bersuhu terendah berhawa beku. Kata \"Hiver\" (cara baca: ee-vehr) digunakan dalam bahasa Prancis (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Musim dingin\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2464,7 +2464,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le parc de la Cité internationale universitaire est un havre de paix verdoyant.",
     "examplePhonetic": "Luh pahrk duh lah See-tay an-tehr-nah-syoh-nahl ay tun ahvr duh peh vehr-dwa-yahn.",
     "exampleTranslation": "Taman asri Cité Universitaire adalah oasis kedamaian hijau yang menenangkan.",
-    "notes": "Ruang terbuka hijau asri untuk santai.",
+    "notes": "Ruang terbuka hijau asri untuk santai. Kata \"Parc\" (cara baca: pahrk) digunakan dalam bahasa Prancis (tingkat A1, kategori Lingkungan & Alam) untuk menyatakan \"Taman kampus hijau\".",
     "tags": [
       "lingkungan",
       "a1",
@@ -2578,7 +2578,7 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ne vous fiez pas aux apparences car l'habit ne fait pas le moine en science.",
     "examplePhonetic": "Nuh voo fyah-yay pahz ohz ah-pah-rahns kahr lah-bee nuh feh pah luh mwan.",
     "exampleTranslation": "Jangan terkesima kulit luar, integritas ilmuwan dinilai dari substansi karyanya.",
-    "notes": "Makin berilmu makin santun dan tawadhu.",
+    "notes": "Makin berilmu makin santun dan tawadhu. Kata \"L'habit ne fait pas le moine\" (cara baca: lah-bee nuh feh pah luh mwan) digunakan dalam bahasa Prancis (tingkat B2, kategori Idiom & Peribahasa) untuk menyatakan \"Padi makin berisi makin runduk\".",
     "tags": [
       "idiom",
       "b2",
@@ -2692,11 +2692,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le lundi matin, nous avons deux heures de mathématiques.",
     "examplePhonetic": "Lœ̃di matɛ̃, nuz avɔ̃ døz œʁ də matematik.",
     "exampleTranslation": "Senin pagi, kami ada dua jam pelajaran matematika.",
-    "notes": "Hari Senin.",
+    "notes": "Hari Senin. Kata \"Lundi\" (cara baca: lœ̃di) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Senin\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2711,11 +2711,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le cours de physique a lieu tous les mardis après-midi.",
     "examplePhonetic": "Lə kuʁ də fizik a ljø tu le maʁdi apʁɛ-midi.",
     "exampleTranslation": "Kelas fisika diadakan setiap Selasa siang.",
-    "notes": "Hari Selasa.",
+    "notes": "Hari Selasa. Kata \"Mardi\" (cara baca: maʁdi) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Selasa\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2730,11 +2730,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le mercredi après-midi est souvent réservé aux activités sportives.",
     "examplePhonetic": "Lə mɛʁkʁədi apʁɛ-midi ɛ suvɑ̃ ʁezeʁve oz aktivite spɔʁtiv.",
     "exampleTranslation": "Rabu sore seringkali diperuntukkan bagi kegiatan olahraga.",
-    "notes": "Hari Rabu.",
+    "notes": "Hari Rabu. Kata \"Mercredi\" (cara baca: mɛʁkʁədi) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Rabu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2749,11 +2749,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nous avons un contrôle continu ce jeudi en histoire.",
     "examplePhonetic": "Nuz avɔ̃ œ̃ kɔ̃tʁol kɔ̃tiny sə ʒødi ɑ̃n istwaʁ.",
     "exampleTranslation": "Kami ada kuis evaluasi berkala hari Kamis ini dalam mata pelajaran sejarah.",
-    "notes": "Hari Kamis.",
+    "notes": "Hari Kamis. Kata \"Jeudi\" (cara baca: ʒødi) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Kamis\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2768,11 +2768,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le vendredi est le dernier jour de cours de la semaine.",
     "examplePhonetic": "Lə vɑ̃dʁədi ɛ lə dɛʁnje ʒuʁ də kuʁ də la səmɛn.",
     "exampleTranslation": "Jumat adalah hari belajar terakhir dalam pekan ini.",
-    "notes": "Hari Jumat.",
+    "notes": "Hari Jumat. Kata \"Vendredi\" (cara baca: vɑ̃dʁədi) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jumat\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2787,11 +2787,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La bibliothèque universitaire reste ouverte le samedi matin.",
     "examplePhonetic": "La biblijɔtɛk ynivɛʁsitɛʁ ʁɛst uvɛʁt lə samdi matɛ̃.",
     "exampleTranslation": "Perpustakaan universitas tetap buka pada Sabtu pagi.",
-    "notes": "Hari Sabtu.",
+    "notes": "Hari Sabtu. Kata \"Samedi\" (cara baca: samdi) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Sabtu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2806,11 +2806,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le dimanche, les étudiants se reposent et préparent la semaine suivante.",
     "examplePhonetic": "Lə dimɑ̃ʃ, lez etydjɑ̃ sə ʁəpoz e pʁepaʁ la səmɛn syivɑ̃t.",
     "exampleTranslation": "Pada hari Minggu, para mahasiswa beristirahat dan mempersiapkan pekan berikutnya.",
-    "notes": "Hari Minggu.",
+    "notes": "Hari Minggu. Kata \"Dimanche\" (cara baca: dimɑ̃ʃ) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Minggu\".",
     "tags": [
-          "hari",
-          "sekolah",
-          "jadwal"
+      "hari",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2825,11 +2825,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Mon emploi du temps est très chargé ce semestre.",
     "examplePhonetic": "Mɔ̃n ɑ̃plwa dy tɑ̃ ɛ tʁɛ ʃaʁʒe sə səmɛstʁ.",
     "exampleTranslation": "Jadwal pelajaran/kuliah saya sangat padat semester ini.",
-    "notes": "Jadwal pelajaran atau jadwal kuliah.",
+    "notes": "Jadwal pelajaran atau jadwal kuliah. Kata \"Emploi du temps\" (cara baca: ɑ̃plwa dy tɑ̃) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Jadwal Pelajaran\".",
     "tags": [
-          "sekolah",
-          "akademik",
-          "jadwal"
+      "sekolah",
+      "akademik",
+      "jadwal"
     ]
   },
   {
@@ -2846,9 +2846,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ini adalah hari sekolah biasa dengan pelajaran hingga pukul 17.00.",
     "notes": "Hari sekolah atau hari kerja (jour ouvré).",
     "tags": [
-          "waktu",
-          "sekolah",
-          "jadwal"
+      "waktu",
+      "sekolah",
+      "jadwal"
     ]
   },
   {
@@ -2863,11 +2863,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Pendant le week-end, je révise pour mes examens à la maison.",
     "examplePhonetic": "Pɑ̃dɑ̃ lə wik-ɛnd, ʒə ʁeviz puʁ mez ɛɡzamɛ̃ a la mɛzɔ̃.",
     "exampleTranslation": "Selama akhir pekan, saya mengulang materi untuk ujian di rumah.",
-    "notes": "Akhir pekan (Sabtu & Minggu).",
+    "notes": "Akhir pekan (Sabtu & Minggu). Kata \"Week-end\" (cara baca: wik-ɛnd) digunakan dalam bahasa Prancis (tingkat A1, kategori Waktu & Hari Sekolah) untuk menyatakan \"Akhir Pekan\".",
     "tags": [
-          "waktu",
-          "libur",
-          "sekolah"
+      "waktu",
+      "libur",
+      "sekolah"
     ]
   },
   {
@@ -2884,9 +2884,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Matematika adalah mata pelajaran esensial bagi para insinyur.",
     "notes": "Mata pelajaran matematika (souvent: les maths).",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2901,11 +2901,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Nous étudions l'optique et la mécanique en cours de physique.",
     "examplePhonetic": "Nuz etydjɔ̃ lɔptik e la mekanik ɑ̃ kuʁ də fizik.",
     "exampleTranslation": "Kami mempelajari optika dan mekanika di pelajaran fisika.",
-    "notes": "Mata pelajaran fisika.",
+    "notes": "Mata pelajaran fisika. Kata \"Physique\" (cara baca: fizik) digunakan dalam bahasa Prancis (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Fisika\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2920,11 +2920,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La chimie organique demande beaucoup de rigueur expérimentale.",
     "examplePhonetic": "La ʃimi ɔʁɡanik dəmɑ̃d boku də ʁiɡœʁ ɛkspeʁimɑ̃tal.",
     "exampleTranslation": "Kimia organik membutuhkan ketelitian eksperimental yang tinggi.",
-    "notes": "Mata pelajaran kimia.",
+    "notes": "Mata pelajaran kimia. Kata \"Chimie\" (cara baca: ʃimi) digunakan dalam bahasa Prancis (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Kimia\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2939,11 +2939,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "En biologie, nous observons des cellules au microscope.",
     "examplePhonetic": "ɑ̃ bjɔlɔʒi, nuz ɔpsɛʁvɔ̃ de selyl o mikʁɔskɔp.",
     "exampleTranslation": "Dalam biologi, kami mengamati sel-sel di bawah mikroskop.",
-    "notes": "Mata pelajaran biologi.",
+    "notes": "Mata pelajaran biologi. Kata \"Biologie\" (cara baca: bjɔlɔʒi) digunakan dalam bahasa Prancis (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Biologi\".",
     "tags": [
-          "mata_pelajaran",
-          "sains",
-          "sekolah"
+      "mata_pelajaran",
+      "sains",
+      "sekolah"
     ]
   },
   {
@@ -2958,11 +2958,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Le professeur d'histoire explique les événements de la Révolution.",
     "examplePhonetic": "Lə pʁɔfɛsœʁ distwaʁ ɛksplik lez evɛnmɑ̃ də la ʁevɔlysjɔ̃.",
     "exampleTranslation": "Guru sejarah menjelaskan peristiwa-peristiwa Revolusi.",
-    "notes": "Mata pelajaran sejarah.",
+    "notes": "Mata pelajaran sejarah. Kata \"Histoire\" (cara baca: istwaʁ) digunakan dalam bahasa Prancis (tingkat A1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sejarah\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2977,11 +2977,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La géographie nous aide à comprendre les dynamiques territoriales et climatiques.",
     "examplePhonetic": "La ʒeɔɡʁafi nuz ɛd a kɔ̃pʁɑ̃dʁ le dinamik tɛʁitɔʁjal e klimatik.",
     "exampleTranslation": "Geografi membantu kita memahami dinamika teritorial dan iklim.",
-    "notes": "Mata pelajaran geografi.",
+    "notes": "Mata pelajaran geografi. Kata \"Géographie\" (cara baca: ʒeɔɡʁafi) digunakan dalam bahasa Prancis (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Geografi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "sekolah"
+      "mata_pelajaran",
+      "sosial",
+      "sekolah"
     ]
   },
   {
@@ -2996,11 +2996,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La littérature française regorge de chefs-d'œuvre littéraires célèbres.",
     "examplePhonetic": "La liteʁatyʁ fʁɑ̃sɛz ʁəɡɔʁʒ də ʃɛf-dœvʁ liteʁɛʁ selɛbʁ.",
     "exampleTranslation": "Sastra Prancis penuh dengan karya-karya sastra agung yang terkenal.",
-    "notes": "Sastra dan kesusastraan.",
+    "notes": "Sastra dan kesusastraan. Kata \"Littérature\" (cara baca: liteʁatyʁ) digunakan dalam bahasa Prancis (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Sastra & Bahasa\".",
     "tags": [
-          "mata_pelajaran",
-          "bahasa",
-          "sekolah"
+      "mata_pelajaran",
+      "bahasa",
+      "sekolah"
     ]
   },
   {
@@ -3015,11 +3015,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'informatique et la programmation ouvrent de nombreuses opportunités professionnelles.",
     "examplePhonetic": "Lɛ̃fɔʁmatik e la pʁɔɡʁamasjɔ̃ uvʁ də nɔ̃bʁøz ɔpɔʁtynite pʁɔfɛsjɔnɛl.",
     "exampleTranslation": "Ilmu komputer dan pemrograman membuka banyak peluang profesional.",
-    "notes": "Ilmu komputer / informatika.",
+    "notes": "Ilmu komputer / informatika. Kata \"Informatique\" (cara baca: ɛ̃fɔʁmatik) digunakan dalam bahasa Prancis (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Komputer\".",
     "tags": [
-          "mata_pelajaran",
-          "teknologi",
-          "sekolah"
+      "mata_pelajaran",
+      "teknologi",
+      "sekolah"
     ]
   },
   {
@@ -3034,11 +3034,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Elle étudie l'économie internationale et la finance d'entreprise.",
     "examplePhonetic": "ɛl etydi lekɔnɔmi ɛ̃tɛʁnasjɔnal e la finɑ̃s dɑ̃tʁəpʁiz.",
     "exampleTranslation": "Dia mempelajari ilmu ekonomi internasional dan keuangan korporasi.",
-    "notes": "Ilmu ekonomi.",
+    "notes": "Ilmu ekonomi. Kata \"Économie\" (cara baca: ekɔnɔmi) digunakan dalam bahasa Prancis (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Ekonomi\".",
     "tags": [
-          "mata_pelajaran",
-          "sosial",
-          "kampus"
+      "mata_pelajaran",
+      "sosial",
+      "kampus"
     ]
   },
   {
@@ -3055,9 +3055,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Filsafat mendorong refleksi kritis dan penalaran mandiri.",
     "notes": "Ilmu filsafat (matière obligatoire au bac en France).",
     "tags": [
-          "mata_pelajaran",
-          "humaniora",
-          "kampus"
+      "mata_pelajaran",
+      "humaniora",
+      "kampus"
     ]
   },
   {
@@ -3072,11 +3072,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Les élèves peignent et dessinent en cours d'arts plastiques.",
     "examplePhonetic": "Lez elɛv pɛɲ e desin ɑ̃ kuʁ daʁ plastik.",
     "exampleTranslation": "Para siswa melukis dan menggambar di kelas seni rupa.",
-    "notes": "Seni rupa dan seni visual.",
+    "notes": "Seni rupa dan seni visual. Kata \"Arts plastiques\" (cara baca: aʁ plastik) digunakan dalam bahasa Prancis (tingkat A2, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Seni Rupa & Kesenian\".",
     "tags": [
-          "mata_pelajaran",
-          "seni",
-          "sekolah"
+      "mata_pelajaran",
+      "seni",
+      "sekolah"
     ]
   },
   {
@@ -3093,9 +3093,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kami melakukan atletik di kelas penjasorkes/olahraga.",
     "notes": "Pendidikan jasmani (sering disingkat EPS).",
     "tags": [
-          "mata_pelajaran",
-          "olahraga",
-          "sekolah"
+      "mata_pelajaran",
+      "olahraga",
+      "sekolah"
     ]
   },
   {
@@ -3110,11 +3110,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Les études de médecine exigent de longues années de dévouement.",
     "examplePhonetic": "Lez etyd də mɛdsin ɛɡziʒ də lɔ̃ɡz ane də devumɑ̃.",
     "exampleTranslation": "Studi kedokteran menuntut dedikasi selama bertahun-tahun.",
-    "notes": "Ilmu kedokteran.",
+    "notes": "Ilmu kedokteran. Kata \"Médecine\" (cara baca: mɛdsin) digunakan dalam bahasa Prancis (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Kedokteran\".",
     "tags": [
-          "bidang_studi",
-          "kesehatan",
-          "kampus"
+      "bidang_studi",
+      "kesehatan",
+      "kampus"
     ]
   },
   {
@@ -3129,11 +3129,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Les étudiants en droit analysent les lois et les décisions de justice.",
     "examplePhonetic": "Lez etydjɑ̃ ɑ̃ dʁwa analiz le lwa e le desizjɔ̃ də ʒystis.",
     "exampleTranslation": "Mahasiswa fakultas hukum menganalisis undang-undang dan putusan pengadilan.",
-    "notes": "Ilmu hukum.",
+    "notes": "Ilmu hukum. Kata \"Droit\" (cara baca: dʁwa) digunakan dalam bahasa Prancis (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Ilmu Hukum\".",
     "tags": [
-          "bidang_studi",
-          "hukum",
-          "kampus"
+      "bidang_studi",
+      "hukum",
+      "kampus"
     ]
   },
   {
@@ -3148,11 +3148,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "L'école d'ingénierie forme des professionnels hautement qualifiés.",
     "examplePhonetic": "Lekɔl dɛ̃ʒenjəʁi fɔʁm de pʁɔfɛsjɔnɛl otmɑ̃ kalifje.",
     "exampleTranslation": "Sekolah tinggi teknik mencetak para profesional berkualifikasi tinggi.",
-    "notes": "Teknik dan rekayasa (engineering).",
+    "notes": "Teknik dan rekayasa (engineering). Kata \"Ingénierie\" (cara baca: ɛ̃ʒenjəʁi) digunakan dalam bahasa Prancis (tingkat B1, kategori Mata Pelajaran & Bidang Studi) untuk menyatakan \"Teknik & Rekayasa\".",
     "tags": [
-          "bidang_studi",
-          "teknik",
-          "kampus"
+      "bidang_studi",
+      "teknik",
+      "kampus"
     ]
   },
   {
@@ -3167,11 +3167,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Veuillez entrer dans la salle de classe calmement.",
     "examplePhonetic": "Vœje ɑ̃tʁe dɑ̃ la sal də klas kalməmɑ̃.",
     "exampleTranslation": "Silakan masuk ke ruang kelas dengan tenang.",
-    "notes": "Ruang kelas sekolah atau kampus.",
+    "notes": "Ruang kelas sekolah atau kampus. Kata \"Salle de classe\" (cara baca: sal də klas) digunakan dalam bahasa Prancis (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Ruang Kelas\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3188,9 +3188,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ketenangan diwajibkan di perpustakaan universitas (BU).",
     "notes": "Perpustakaan (souvent: la BU - bibliothèque universitaire).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3207,9 +3207,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Mengenakan jas lab wajib di laboratorium kimia.",
     "notes": "Laboratorium sains (souvent abrégé en: labo).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3226,9 +3226,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kuliah umum besar akan diadakan di ruang auditorium/amfiteater utama.",
     "notes": "Auditorium / aula kuliah besar bertingkat (l'amphi).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3243,11 +3243,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Les enseignants préparent leurs cours dans la salle des professeurs.",
     "examplePhonetic": "Lez ɑ̃sɛɲɑ̃ pʁepaʁ lœʁ kuʁ dɑ̃ la sal de pʁɔfɛsœʁ.",
     "exampleTranslation": "Para guru mempersiapkan materi pelajaran di ruang guru/dosen.",
-    "notes": "Ruang guru sekolah / ruang dosen.",
+    "notes": "Ruang guru sekolah / ruang dosen. Kata \"Salle des professeurs\" (cara baca: sal de pʁɔfɛsœʁ) digunakan dalam bahasa Prancis (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Ruang Guru\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3264,9 +3264,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Ruang kepala sekolah dan rektorat mengelola instansi pendidikan.",
     "notes": "Ruang rektor / biro rektorat atau ruang kepala sekolah (bureau du proviseur).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3283,9 +3283,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kami makan siang di kantin sekolah antara pukul 12.00 dan 13.00.",
     "notes": "Kantin sekolah atau restoran universitas (Resto U).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3302,9 +3302,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Turnamen bola tangan berlangsung di gimnasium besar kampus.",
     "notes": "Gimnasium / gedung olahraga sekolah & kampus.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3321,9 +3321,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Lembaga CROUS mengelola hunian di asrama mahasiswa/residensial kampus.",
     "notes": "Asrama mahasiswa (cité universitaire / internat).",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "kampus"
+      "ruangan",
+      "fasilitas",
+      "kampus"
     ]
   },
   {
@@ -3338,11 +3338,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Si tu ne te sens pas bien, va te reposer à l'infirmerie.",
     "examplePhonetic": "Si ty nə tə sɑ̃ pa bjɛ̃, va tə ʁəpoze a lɛ̃fiʁməʁi.",
     "exampleTranslation": "Jika kamu merasa tidak enak badan, pergilah beristirahat di ruang UKS/klinik.",
-    "notes": "Ruang UKS sekolah / klinik kampus.",
+    "notes": "Ruang UKS sekolah / klinik kampus. Kata \"Infirmerie\" (cara baca: ɛ̃fiʁməʁi) digunakan dalam bahasa Prancis (tingkat A1, kategori Fasilitas & Ruangan Sekolah) untuk menyatakan \"Ruang UKS\".",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3359,9 +3359,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Praktikum pemrograman dilakukan di laboratorium komputer.",
     "notes": "Laboratorium komputer / ruang multimedia.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3378,9 +3378,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Anda harus menyerahkan berkas pendaftaran di bagian tata usaha / administrasi akademik.",
     "notes": "Tata usaha sekolah / biro administrasi akademik.",
     "tags": [
-          "ruangan",
-          "fasilitas",
-          "sekolah"
+      "ruangan",
+      "fasilitas",
+      "sekolah"
     ]
   },
   {
@@ -3395,11 +3395,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Ouvrez votre manuel scolaire au chapitre trois.",
     "examplePhonetic": "Uvʁe vɔtʁ manyɛl skɔlɛʁ o ʃapitʁ tʁwa.",
     "exampleTranslation": "Bukalah buku teks pelajaran Anda pada bab tiga.",
-    "notes": "Buku teks / buku paket pelajaran.",
+    "notes": "Buku teks / buku paket pelajaran. Kata \"Manuel scolaire\" (cara baca: manyɛl skɔlɛʁ) digunakan dalam bahasa Prancis (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Buku Teks\".",
     "tags": [
-          "perlengkapan",
-          "belajar",
-          "sekolah"
+      "perlengkapan",
+      "belajar",
+      "sekolah"
     ]
   },
   {
@@ -3416,9 +3416,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Guru menuliskan petunjuk latihan di papan tulis.",
     "notes": "Papan tulis hitam atau putih (tableau blanc).",
     "tags": [
-          "perlengkapan",
-          "kelas",
-          "sekolah"
+      "perlengkapan",
+      "kelas",
+      "sekolah"
     ]
   },
   {
@@ -3435,9 +3435,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Jangan lupa untuk mengumpulkan tugas rumah (PR) Anda sebelum hari Jumat.",
     "notes": "Pekerjaan rumah / tugas mandiri (les devoirs).",
     "tags": [
-          "aktivitas",
-          "tugas",
-          "sekolah"
+      "aktivitas",
+      "tugas",
+      "sekolah"
     ]
   },
   {
@@ -3452,11 +3452,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La session d'examen final commence dans deux semaines.",
     "examplePhonetic": "La sesjɔ̃ dɛɡzamɛ̃ final kɔmɑ̃s dɑ̃ dø səmɛn.",
     "exampleTranslation": "Masa ujian akhir semester dimulai dalam dua pekan.",
-    "notes": "Ujian evaluasi / tes kelulusan.",
+    "notes": "Ujian evaluasi / tes kelulusan. Kata \"Examen\" (cara baca: ɛɡzamɛ̃) digunakan dalam bahasa Prancis (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Ujian Semester\".",
     "tags": [
-          "evaluasi",
-          "ujian",
-          "sekolah"
+      "evaluasi",
+      "ujian",
+      "sekolah"
     ]
   },
   {
@@ -3471,11 +3471,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Dans cet internat, le port de l'uniforme scolaire est de rigueur.",
     "examplePhonetic": "Dɑ̃ sɛt ɛ̃tɛʁna, lə pɔʁ də lynifɔʁm skɔlɛʁ ɛ də ʁiɡœʁ.",
     "exampleTranslation": "Di sekolah berasrama ini, pemakaian seragam sekolah adalah wajib.",
-    "notes": "Seragam sekolah.",
+    "notes": "Seragam sekolah. Kata \"Uniforme scolaire\" (cara baca: ynifɔʁm skɔlɛʁ) digunakan dalam bahasa Prancis (tingkat A1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Seragam Sekolah\".",
     "tags": [
-          "pakaian",
-          "identitas",
-          "sekolah"
+      "pakaian",
+      "identitas",
+      "sekolah"
     ]
   },
   {
@@ -3492,9 +3492,9 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleTranslation": "Kartu mahasiswa memberikan hak potongan harga di museum dan bioskop.",
     "notes": "Kartu pelajar (carte scolaire) atau kartu mahasiswa (KTM).",
     "tags": [
-          "identitas",
-          "dokumen",
-          "sekolah"
+      "identitas",
+      "dokumen",
+      "sekolah"
     ]
   },
   {
@@ -3509,11 +3509,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "Elle a obtenu une bourse d'études au mérite pour financer son master.",
     "examplePhonetic": "ɛl a ɔptəny yn buʁs detyd o meʁit puʁ finɑ̃se sɔ̃ mastɛʁ.",
     "exampleTranslation": "Dia memperoleh beasiswa prestasi untuk membiayai studi magisternya.",
-    "notes": "Beasiswa pendidikan.",
+    "notes": "Beasiswa pendidikan. Kata \"Bourse d'études\" (cara baca: buʁs detyd) digunakan dalam bahasa Prancis (tingkat A2, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Beasiswa Pendidikan\".",
     "tags": [
-          "pendanaan",
-          "prestasi",
-          "kampus"
+      "pendanaan",
+      "prestasi",
+      "kampus"
     ]
   },
   {
@@ -3528,11 +3528,11 @@ export const FRENCH_VOCABULARY: VocabularyItem[] = [
     "exampleNative": "La cérémonie de remise des diplômes a réuni tous les diplômés de la promotion.",
     "examplePhonetic": "La seʁemɔni də ʁəmiz de diplɔm a ʁeyni tu le diplɔme də la pʁɔmɔsjɔ̃.",
     "exampleTranslation": "Upacara penyerahan ijazah/wisuda mempertemukan seluruh lulusan seangkatan.",
-    "notes": "Upacara wisuda kelulusan.",
+    "notes": "Upacara wisuda kelulusan. Kata \"Cérémonie de remise des diplômes\" (cara baca: seʁemɔni də ʁəmiz de diplɔm) digunakan dalam bahasa Prancis (tingkat B1, kategori Perlengkapan & Aktivitas Akademik) untuk menyatakan \"Upacara Wisuda\".",
     "tags": [
-          "kelulusan",
-          "upacara",
-          "kampus"
+      "kelulusan",
+      "upacara",
+      "kampus"
     ]
   }
 ];
