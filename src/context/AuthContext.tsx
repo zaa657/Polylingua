@@ -3,6 +3,8 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import {
   signInWithPopup,
+  signInWithRedirect,
+  getRedirectResult,
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
   signOut,
@@ -87,6 +89,11 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       };
     }
 
+    // Tangani hasil redirect jika login dilakukan via redirect di browser HP/mobile
+    getRedirectResult(auth).catch((redirectErr) => {
+      console.warn('Firebase redirect sign-in warning:', redirectErr);
+    });
+
     // Listener Realtime Firebase Auth
     const unsubscribe = onAuthStateChanged(auth, async (firebaseUser) => {
       setIsLoading(true);
@@ -163,6 +170,17 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       const userProg = await progressService.getProgress(fbUser.uid);
       setProgress(userProg);
     } catch (err: unknown) {
+      const errCode = (err as { code?: string })?.code || '';
+      // Jika popup diblokir oleh browser atau dijalankan di mobile browser, alihkan via Redirect
+      if (errCode === 'auth/popup-blocked' || errCode === 'auth/cancelled-popup-request') {
+        try {
+          await signInWithRedirect(auth, googleProvider);
+          return;
+        } catch (redirectErr) {
+          setIsLoading(false);
+          throw redirectErr;
+        }
+      }
       setIsLoading(false);
       throw err;
     }

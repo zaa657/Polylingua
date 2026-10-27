@@ -41,27 +41,46 @@ export default function LoginPage() {
       router.push('/dashboard');
     } catch (err: unknown) {
       console.error('Google login error:', err);
-      if (err instanceof Error) {
-        if (err.message.includes('auth/popup-closed-by-user')) {
-          setErrorMsg(
-            locale === 'en'
-              ? 'Google sign-in popup was closed before completion.'
-              : 'Jendela login Google ditutup sebelum proses selesai.'
-          );
-        } else if (err.message.includes('auth/unauthorized-domain')) {
-          setErrorMsg(
-            locale === 'en'
-              ? 'Domain is unauthorized in Firebase Console. Add "localhost" under Authentication > Settings > Authorized Domains.'
-              : 'Domain ini belum diotorisasi di Firebase Console. Harap tambahkan "localhost" ke Authorized Domains di menu Authentication > Settings.'
-          );
-        } else {
-          setErrorMsg(err.message || (locale === 'en' ? 'Failed to sign in with Google. Please try again.' : 'Gagal masuk dengan Google. Silakan coba kembali.'));
-        }
-      } else {
+      const errCode = (err as { code?: string })?.code || '';
+      const errMsg = (err as { message?: string })?.message || '';
+
+      if (errCode === 'auth/popup-closed-by-user' || errMsg.includes('auth/popup-closed-by-user')) {
         setErrorMsg(
           locale === 'en'
-            ? 'An unexpected error occurred while connecting to Google.'
-            : 'Terjadi kesalahan yang tidak terduga saat menghubungkan ke Google.'
+            ? 'Google sign-in popup was closed before completion. Please click the button to try again.'
+            : 'Jendela login Google ditutup sebelum proses selesai. Silakan klik tombol Masuk kembali.'
+        );
+      } else if (errCode === 'auth/unauthorized-domain' || errMsg.includes('auth/unauthorized-domain')) {
+        const curHost = typeof window !== 'undefined' ? window.location.hostname : 'domain Anda';
+        setErrorMsg(
+          locale === 'en'
+            ? `Domain "${curHost}" is not authorized in Firebase Console. Add "${curHost}" to Firebase Console > Authentication > Settings > Authorized Domains.`
+            : `Domain "${curHost}" belum diotorisasi di Firebase Console. Harap buka Firebase Console > Authentication > Settings > Authorized Domains dan tambahkan "${curHost}".`
+        );
+      } else if (errCode === 'auth/popup-blocked' || errMsg.includes('auth/popup-blocked')) {
+        setErrorMsg(
+          locale === 'en'
+            ? 'The sign-in popup was blocked by your browser. Please allow popups for this site or try logging in again.'
+            : 'Jendela popup Google diblokir oleh browser Anda. Harap izinkan popup pada browser ini atau coba lagi.'
+        );
+      } else if (errCode === 'auth/operation-not-allowed' || errMsg.includes('auth/operation-not-allowed')) {
+        setErrorMsg(
+          locale === 'en'
+            ? 'Google sign-in provider is disabled. Please enable Google in Firebase Console > Authentication > Sign-in method.'
+            : 'Penyedia login Google belum diaktifkan. Harap aktifkan Google di Firebase Console > Authentication > Sign-in method.'
+        );
+      } else if (errCode === 'auth/network-request-failed' || errMsg.includes('network-request-failed')) {
+        setErrorMsg(
+          locale === 'en'
+            ? 'Network request failed. Please check your internet connection or disable ad-blocker extensions.'
+            : 'Koneksi ke server Google gagal. Harap periksa jaringan internet Anda atau nonaktifkan ekstensi ad-blocker/privacy.'
+        );
+      } else {
+        setErrorMsg(
+          errMsg ||
+            (locale === 'en'
+              ? 'Failed to sign in with Google. Please try again.'
+              : 'Gagal masuk dengan Google. Silakan coba kembali.')
         );
       }
     } finally {
