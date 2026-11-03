@@ -10,7 +10,6 @@ import { useLocale } from '@/context/LocaleContext';
 import {
   ArrowRight,
   TrendingUp,
-  Sparkles,
   RotateCcw,
   CheckCircle2,
 } from 'lucide-react';
@@ -69,8 +68,7 @@ export default function DashboardPage() {
         <div className="bg-white rounded-3xl border border-slate-200/90 p-6 md:p-8 shadow-xs flex flex-col md:flex-row md:items-center justify-between gap-6">
           <div className="space-y-3">
             <div className="flex flex-wrap items-center gap-2">
-              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 text-slate-800 text-xs font-semibold">
-                <Sparkles size={13} className="text-amber-500" />
+              <div className="inline-flex items-center px-3 py-1 rounded-full bg-slate-100 text-slate-800 text-xs font-semibold">
                 <span>{t('self_study_room')}</span>
               </div>
             </div>
@@ -142,7 +140,7 @@ export default function DashboardPage() {
                   ))}
                   {item.currentUnlockedLevel && (
                     <span className="inline-flex items-center gap-1 text-[10px] font-semibold px-2 py-0.5 rounded-md bg-blue-50 text-blue-700 border border-blue-200">
-                      <span>⚡ {locale === 'id' ? 'Sedang Mempelajari' : 'Learning'} {item.currentUnlockedLevel.levelName}</span>
+                      <span> {locale === 'id' ? 'Sedang Mempelajari' : 'Learning'} {item.currentUnlockedLevel.levelName}</span>
                     </span>
                   )}
                 </div>
