@@ -6,7 +6,6 @@ import { LANGUAGES } from '@/data/languages';
 import { speechService, getVoiceLangCode } from '@/lib/speechService';
 import { useQuizSession } from '@/context/QuizSessionContext';
 import {
-  Sparkles,
   X,
   Send,
   RotateCcw,
@@ -200,12 +199,9 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
           type="button"
           onClick={() => setIsOpen(true)}
           className="fixed bottom-20 md:bottom-6 right-4 md:right-6 z-40 bg-blue-600 hover:bg-blue-700 text-white rounded-full px-4 md:px-5 py-3 shadow-lg hover:shadow-xl transition-all flex items-center gap-2.5 font-bold text-xs md:text-sm cursor-pointer group hover:scale-105 active:scale-95"
-          title="Tanya AI Tutor Bahasa"
+          title="Tanya AI Bahasa"
         >
-          <div className="relative flex items-center justify-center">
-            <Sparkles size={17} className="animate-pulse text-amber-300" />
-          </div>
-          <span>Tanya AI Tutor</span>
+          <span>Tanya AI</span>
           <span className="text-sm bg-blue-500/40 px-1.5 py-0.5 rounded-full">{langMeta.flag}</span>
         </button>
       )}
