@@ -583,8 +583,8 @@ export function StudyAbroadClient() {
           <div className="pt-2 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2 text-xs text-slate-500">
             <span>
               {locale === 'en'
-                ? '💡 Readiness test results and checklists are saved automatically in your browser.'
-                : '💡 Hasil tes capaian dan checklist tersimpan otomatis di browser Anda.'}
+                ? ' Readiness test results and checklists are saved automatically in your browser.'
+                : ' Hasil tes capaian dan checklist tersimpan otomatis di browser Anda.'}
             </span>
             <Link
               href={`/learn/${countryLangMap[selectedCountry]}`}

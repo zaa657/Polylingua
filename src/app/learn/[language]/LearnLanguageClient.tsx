@@ -291,7 +291,7 @@ export function LearnLanguageClient({ language }: LearnLanguageClientProps) {
                     </h3>
 
                     <div className="p-2.5 rounded-xl bg-slate-50 border border-slate-100 font-mono text-xs text-slate-700 truncate">
-                      💡 {lesson.patternFormula}
+                       {lesson.patternFormula}
                     </div>
 
                     <p className="text-xs text-slate-500 line-clamp-2 leading-relaxed">

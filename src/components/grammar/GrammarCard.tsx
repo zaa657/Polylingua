@@ -149,7 +149,7 @@ export const GrammarCard: React.FC<GrammarCardProps> = ({
                 </p>
                 {ex.note && (
                   <p className="text-xs text-blue-600 font-medium pt-1">
-                    💡 {ex.note}
+                     {ex.note}
                   </p>
                 )}
               </div>

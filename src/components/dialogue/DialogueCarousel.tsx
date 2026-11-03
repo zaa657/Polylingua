@@ -289,7 +289,7 @@ export const DialogueCarousel: React.FC<DialogueCarouselProps> = ({
               {currentSentence.culturalNote && (
                 <div className="text-left bg-amber-50/70 border border-amber-200/60 rounded-xl p-3 text-xs text-amber-900">
                   <span className="font-semibold text-amber-950">
-                    {locale === 'en' ? '💡 Cultural Note: ' : '💡 Catatan Budaya: '}
+                    {locale === 'en' ? ' Cultural Note: ' : ' Catatan Budaya: '}
                   </span>
                   {currentSentence.culturalNote}
                 </div>
