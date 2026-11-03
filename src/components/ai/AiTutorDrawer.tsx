@@ -73,12 +73,19 @@ export const AiTutorDrawer: React.FC<AiTutorDrawerProps> = ({
 
   const langMeta = LANGUAGES[currentLanguage] || LANGUAGES.chinese;
   const [isOpen, setIsOpen] = useState(false);
+  const [prevBlocked, setPrevBlocked] = useState(isBlocked);
 
-  // Otomatis tutup dan matikan audio speech jika kuis sedang aktif
+  if (isBlocked !== prevBlocked) {
+    setPrevBlocked(isBlocked);
+    if (isBlocked) {
+      setIsOpen(false);
+    }
+  }
+
+  // Matikan audio speech jika kuis sedang aktif
   useEffect(() => {
     if (isBlocked) {
       speechService.stop();
-      setIsOpen(false);
     }
   }, [isBlocked]);
   const [messages, setMessages] = useState<AiMessage[]>(() => [

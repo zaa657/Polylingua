@@ -171,8 +171,8 @@ const LEVEL_NORMALIZATION_MAP: Record<string, string> = {
   'Thai Level 6': 'Thai Level 6 (Mahir)',
 };
 
-export function normalizeVocabularyLevel(level?: string, _language?: Language): string {
-  if (!level) return 'Dasar';
+export function normalizeVocabularyLevel(level?: string, language?: Language): string {
+  if (!level) return language === 'chinese' ? 'HSK 1' : 'Dasar';
   const trimmed = level.trim();
   if (LEVEL_NORMALIZATION_MAP[trimmed]) {
     return LEVEL_NORMALIZATION_MAP[trimmed];
